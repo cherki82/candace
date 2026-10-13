@@ -1,6 +1,6 @@
 ---
 title: "Mitt Romney"
-description: "Mitt Romney (People) - 24 mentions"
+description: "Mitt Romney (People) - 26 mentions"
 id: "person-mitt-romney"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24">2026-04-01 · 00:03:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-mitt-romney-t-00-22-29">2026-07-22 · 00:22:29</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-mitt-romney-t-00-25-09">2026-10-01 · 00:25:09</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-mitt-romney-t-00-08-50" style="--pulse-height:9%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-mitt-romney-t-00-50-18" style="--pulse-height:9%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-mitt-romney-t-00-22-29" style="--pulse-height:9%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-mitt-romney-t-00-24-34" style="--pulse-height:18%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-mitt-romney-t-00-08-50) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-mitt-romney-t-00-50-18) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-mitt-romney-t-00-22-29) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-mitt-romney-t-00-24-34) | 2 |
 
 </details>
 </section>
@@ -62,7 +64,18 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:24:47](/episodes/ep-q4m-kGzvwjw.md#ent-person-mitt-romney-t-00-24-34)**
+> "...onsulting Group. That's where Mitt Romney and Bibi (Benjamin Netanyahu) met, don't forget. ..."
+
+**[00:25:09](/episodes/ep-q4m-kGzvwjw.md#ent-person-mitt-romney-t-00-25-09)**
+> "...yahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have m..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -180,10 +193,11 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <summary>Formerly Worked For (2)</summary>
 
 - **[Boston Consulting Group](/entities/org-boston-consulting-group.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
@@ -213,11 +227,12 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <summary>Friend Of (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi (Benjamin Netanyahu) is to Mitt Romney.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:30](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Mitt Romney and Bibi Netanyahu became best friends over there.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
@@ -263,10 +278,11 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <summary>Referenced By (6)</summary>
 
 - **[Boston Consulting Group](/entities/org-boston-consulting-group.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
@@ -286,11 +302,12 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi (Benjamin Netanyahu) is to Mitt Romney.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:30](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Mitt Romney and Bibi Netanyahu became best friends over there.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
@@ -313,7 +330,15 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitt Romney (6)</strong></summary>
+<summary><strong class="section-title">Statements about Mitt Romney (7)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09) (Claim) **Candace Owens**: ["Owens said Netanyahu and Mitt Romney met as corporate advisors at BCG ..."](/statements/statement-40012f592141.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

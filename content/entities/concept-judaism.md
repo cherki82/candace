@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 173 mentions"
+description: "Judaism (Concepts) - 174 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-concept-judaism-t-00-35-19">2025-09-22 · 00:35:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>173</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-judaism-t-00-34-03">2026-09-25 · 00:34:28</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>174</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -77,6 +77,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-judaism-t-00-41-51" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23" style="--pulse-height:13%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-judaism-t-00-34-03" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -125,6 +126,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-judaism-t-00-41-51) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-judaism-t-00-34-03) | 1 |
 
 </details>
 </section>
@@ -136,7 +138,15 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (173)</strong></summary>
+<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:34:28](/episodes/ep-_Sq5RqP27NY.md#ent-concept-judaism-t-00-34-03)**
+> "... which has nothing to do with Judaism because these are ball worshippers. They are."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>

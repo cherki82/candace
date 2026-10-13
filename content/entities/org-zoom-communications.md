@@ -1,6 +1,6 @@
 ---
 title: "Zoom Communications"
-description: "Zoom Communications (Organizations) - 47 mentions"
+description: "Zoom Communications (Organizations) - 49 mentions"
 id: "org-zoom-communications"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#t-00-50-16">2025-12-05 · 00:50:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-08-49">2026-09-09 · 00:08:49</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-03-17">2026-10-01 · 00:03:25</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -58,6 +58,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 <a href="/episodes/ep-1FhY-koMuWM.md#t-00-31-35" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#t-00-46-34" style="--pulse-height:50%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#t-00-06-53" style="--pulse-height:62%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-03-17" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +87,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-31-35) | 8 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34) | 4 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) | 5 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-03-17) | 2 |
 
 </details>
 </section>
@@ -97,7 +99,18 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:03:17](/episodes/ep-q4m-kGzvwjw.md#t-00-03-17)**
+> "...Erika (Erika Kirk) was taking Zoom calls."
+
+**[00:03:25](/episodes/ep-q4m-kGzvwjw.md#t-00-03-17)**
+> "...urning Point 2.0, giggling on Zoom calls, celebrating how much money that they had m..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Walt Disney"
-description: "Walt Disney (People) - 1 mention"
+description: "Walt Disney (People) - 2 mentions"
 id: "person-walt-disney"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Walt Disney | D23](https://d23.com/about-walt-disney/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-walt-disney-t-00-43-36">2026-03-30 · 00:43:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-walt-disney-t-00-43-36">2026-03-30 · 00:43:44</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-walt-disney-t-00-29-21">2026-09-22 · 00:29:47</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -36,12 +36,14 @@ Source: [About Walt Disney | D23](https://d23.com/about-walt-disney/)
 <p>Highest activity: <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-walt-disney-t-00-43-36">The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-walt-disney-t-00-43-36" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-walt-disney-t-00-29-21" style="--pulse-height:100%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-walt-disney-t-00-43-36) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-walt-disney-t-00-29-21) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [About Walt Disney | D23](https://d23.com/about-walt-disney/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:29:47](/episodes/ep-6XfDqKTdFKg.md#ent-person-walt-disney-t-00-29-21)**
+> "... that he was going to be like Walt Disney."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>

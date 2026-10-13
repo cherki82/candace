@@ -1,6 +1,6 @@
 ---
 title: "GMC Yukon Denali (model)"
-description: "GMC Yukon Denali (model) (Vehicles) - 6 mentions"
+description: "GMC Yukon Denali (model) (Vehicles) - 9 mentions"
 id: "vehicle-gmc-yukon-denali-model"
 type: "VEHICLE"
 aliases:
@@ -23,11 +23,11 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-gmc-yukon-denali-model-t-00-13-39">2026-09-02 · 00:13:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-vehicle-gmc-yukon-denali-model-t-00-32-57">2026-09-08 · 00:33:11</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-52">2026-10-08 · 00:07:11</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-gmc-yukon-denali-model-t-00-13-39" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-53" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-vehicle-gmc-yukon-denali-model-t-00-32-57" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-vehicle-gmc-yukon-denali-model-t-00-19-28" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-52" style="--pulse-height:67%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +49,8 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-gmc-yukon-denali-model-t-00-13-39) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-53) | 3 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-vehicle-gmc-yukon-denali-model-t-00-32-57) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-vehicle-gmc-yukon-denali-model-t-00-19-28) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-52) | 2 |
 
 </details>
 </section>
@@ -54,7 +58,26 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:06:52](/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-52)**
+> ".... Okay, now we know that that Yukon Denali is gone, which was being driven by Christopher (C..."
+
+**[00:07:11](/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-52)**
+> "You've got another Yukon Denali back there that was driven by Danny Philip. So wh..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:19:51](/episodes/ep-kn1E0scy9Wc.md#ent-vehicle-gmc-yukon-denali-model-t-00-19-28)**
+> "...is is taking place behind the Denali that Blake Neff You can see right there, this is ..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -99,7 +122,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about GMC Yukon Denali (model) (4)</strong></summary>
+<summary><strong class="section-title">Statements about GMC Yukon Denali (model) (5)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:07:11](/episodes/ep-UAdBEXs7nNc.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens identified Danny Philip as the driver of another GMC Yukon Denal..."](/statements/statement-c0aabee699a6.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>

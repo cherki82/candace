@@ -1,6 +1,6 @@
 ---
 title: "BBC"
-description: "BBC (Organizations) - 9 mentions"
+description: "BBC (Organizations) - 12 mentions"
 id: "org-bbc"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13">2025-09-18 · 00:16:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-bbc-t-00-10-37">2026-09-08 · 00:11:04</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-bbc-t-00-41-47">2026-10-05 · 00:42:28</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,8 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46" style="--pulse-height:67%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-bbc-t-00-10-37" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-bbc-t-00-41-45" style="--pulse-height:33%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-bbc-t-00-41-47" style="--pulse-height:67%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +53,8 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-bbc-t-00-10-37) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-bbc-t-00-41-45) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-bbc-t-00-41-47) | 2 |
 
 </details>
 </section>
@@ -58,7 +62,26 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:42:12](/episodes/ep-ms5ChhZegRg.md#ent-org-bbc-t-00-41-47)**
+> "...dead, previously had told the BBC that he had unearthed this evidence which indicat..."
+
+**[00:42:28](/episodes/ep-ms5ChhZegRg.md#ent-org-bbc-t-00-41-47)**
+> "He told BBC that he had discovered an email chain."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:42:02](/episodes/ep-NNiCZk1cuzs.md#ent-org-bbc-t-00-41-45)**
+> "...ng a pedophile network at the BBC, which included Jimmy Savile."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -134,7 +157,19 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Spoke With (1)</summary>
+
+- **[Simon Andriesz](/entities/person-simon-andriesz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:42:12](/episodes/ep-ms5ChhZegRg.md#t-00-41-47): “Of a player when it came to blackmailing and global trafficking. That's the reality. Okay. And Andres (Simon Andres; banker whistleblower; transcript name spelling unverified), who is now dead, previously had told the BBC that he had unearthed this evidence which indicated that Howard Lutnick failed to disclose a business relationship with Jeffrey Epstein. ... He told BBC that he had discovered an email chain.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Sherry Steele](/entities/person-sherry-steele.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -147,6 +182,13 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:11:04](/episodes/ep-FGoeoZxDN1c.md#t-00-10-37): “gave to, this is 2013, he was giving an interview to the BBC regarding his quote-unquote fans and this is what he said.”
+
+</details>
+
+- **[Simon Andriesz](/entities/person-simon-andriesz.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:42:12](/episodes/ep-ms5ChhZegRg.md#t-00-41-47): “Of a player when it came to blackmailing and global trafficking. That's the reality. Okay. And Andres (Simon Andres; banker whistleblower; transcript name spelling unverified), who is now dead, previously had told the BBC that he had unearthed this evidence which indicated that Howard Lutnick failed to disclose a business relationship with Jeffrey Epstein. ... He told BBC that he had discovered an email chain.”
 
 </details>
 
@@ -171,7 +213,15 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about BBC (3)</strong></summary>
+<summary><strong class="section-title">Statements about BBC (4)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1)</summary>
+
+- [00:41:53](/episodes/ep-NNiCZk1cuzs.md#t-00-41-45) (Accusation) **Candace Owens** (via paraphrase): ["Owens described unverified theories alleging Dando had been investigat..."](/statements/statement-30ab7a711237.md)
+  - Also about: [Jill Dando](/entities/person-jill-dando.md), [Jimmy Savile](/entities/person-jimmy-savile.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (3)</summary>

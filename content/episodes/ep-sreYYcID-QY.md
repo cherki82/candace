@@ -281,7 +281,7 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 - **2025-08-05**: [Hamptons Summit pressures Charlie Kirk on Israel views](/events/event-2025-08-05-hamptons-summit-pressures-charlie-kirk-on-israel-v.md)
 - **2025-08**: [Benjamin Netanyahu calls Charlie Kirk inviting him to Israel](/events/event-2025-08-benjamin-netanyahu-calls-charlie-kirk-in.md)
 - **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
-- **2025-09-10 18:38**: [Tyler Robinson appears at Dairy Queen after the Charlie Kirk shooting](/events/event-2025-09-10-photo-of-suspect-tyler-robinson-at-dairy.md)
+- **2025-09-10**: [Owens identifies Tyler Robinson in Dairy Queen surveillance on September 10, 2025; the exact local visit time is unconfirmed.](/events/event-2025-09-10-photo-of-suspect-tyler-robinson-at-dairy.md)
 - **2025-09-11**: [TMZ publishes doorbell cam footage of Charlie Kirk's shooter](/events/event-2025-09-11-tmz-publishes-doorbell-cam-footage-of-charlie-kirk.md)
 - **2025-09-11**: [Erwin Steele interviewed by local news on police search post-shooting.](/events/event-2025-09-11-erwin-steele-interviewed-by-local-news-o.md)
 - **2025-09-11 09:00**: [Tiffany Barker and nieces interviewed on Good Morning America about shooting](/events/event-2025-09-11-tiffany-barker-and-nieces-interviewed-on-good-morn.md)

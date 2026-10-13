@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) appeared with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (13 mentions)
+### Evidence (14 mentions)
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -37,6 +37,10 @@ object: "person-candace-owens"
 
 - [00:05:47](/episodes/ep-_dRaEO47-co#t-00-05-47): _Because like I said, people were not going to buy tickets to hear me and Charlie Kirk speak._
 - [00:15:12](/episodes/ep-_dRaEO47-co#t-00-15-12): _Just literally me, Charlie (Charlie Kirk) and Sarah, who was his assistant at the time, just playing the hype music._
+
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [00:21:02](/episodes/ep-bIuvTKlFeGo#t-00-21-02): _which is that instantly this was flagged by UVU. They have a free speech committee and they flag it because they say we're going to anticipate protests and they have reviewed insights from prior turning point appearances, including an appearance of Charlie Kirk at UVU in 2019 with me, by the way, that was with me. ... And we did have protesters and me and Charlie (Charlie Kirk) sat on the floor and went through the protesters._
 
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 

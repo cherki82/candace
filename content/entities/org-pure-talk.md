@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 226 mentions"
+description: "Pure Talk (Organizations) - 247 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-04">2025-09-15 · 00:55:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-29-14">2026-09-09 · 00:29:29</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>226</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-55">2026-10-05 · 00:34:19</a></strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>247</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -82,6 +82,10 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-28-31" style="--pulse-height:62%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-pure-talk-t-00-32-43" style="--pulse-height:62%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 5 mentions" title="2026-09-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-pure-talk-t-00-27-39" style="--pulse-height:62%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 5 mentions" title="2026-09-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-12" style="--pulse-height:75%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 6 mentions" title="2026-09-25 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-19" style="--pulse-height:62%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 5 mentions" title="2026-10-05 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -132,6 +136,10 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19) | 4 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18) | 5 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-28-31) | 5 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-pure-talk-t-00-32-43) | 5 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-pure-talk-t-00-27-39) | 5 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-12) | 6 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-19) | 5 |
 
 </details>
 </section>
@@ -139,7 +147,90 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (226)</strong></summary>
+<summary><strong class="section-title">Raw mentions (247)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (5 mentions)</summary>
+
+**[00:33:40](/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-19)**
+> "...I have to tell you guys about Pure Talk. I love them. I've been telling you about them fo..."
+
+**[00:33:44](/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-19)**
+> "...y that because I actually use PureTalk."
+
+**[00:33:55](/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-55)**
+> "...an 20,000 wireless customers, PureTalk was the only wireless company in the country to r..."
+
+**[00:34:08](/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-55)**
+> "...r service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash O..."
+
+**[00:34:19](/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-55)**
+> "...ou can save a fortune. That's puretalk.com slash Owens to get 50% off your first month. ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (6 mentions)</summary>
+
+**[00:55:44](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-12)**
+> "... telling you guys a lot about PureTalk."
+
+**[00:55:54](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-54)**
+> "PureTalk is the best wireless company out there. I say tha..."
+
+**[00:56:06](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-54)**
+> "...an 20,000 wireless customers, PureTalk was the only wireless company in the country to r..."
+
+**[00:56:18](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-54)**
+> "...r service? Make the switch to Pure Talk today at puretalk.com slash Owens, and you'll get..."
+
+**[00:56:27](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-54)**
+> "...save a fortune. Again, that's puretalk.com slash Owens to get 50% off your first month."
+
+**[00:56:37](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-54)**
+> "puretalk.com slash Owens."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (5 mentions)</summary>
+
+**[00:27:47](/episodes/ep-BvthGQw3_s0.md#ent-org-pure-talk-t-00-27-39)**
+> "... I always tell you guys about PureTalk."
+
+**[00:27:58](/episodes/ep-BvthGQw3_s0.md#ent-org-pure-talk-t-00-27-39)**
+> "...y that because I actually use PureTalk. I make calls, send texts, watch videos and use t..."
+
+**[00:28:04](/episodes/ep-BvthGQw3_s0.md#ent-org-pure-talk-t-00-27-39)**
+> "...an 20,000 wireless customers, PureTalk was the only wireless company in the country to r..."
+
+**[00:28:18](/episodes/ep-BvthGQw3_s0.md#ent-org-pure-talk-t-00-28-18)**
+> "...r service? Make the switch to PureTalk today at puretalk.com slash Owens and you'll get ..."
+
+**[00:28:33](/episodes/ep-BvthGQw3_s0.md#ent-org-pure-talk-t-00-28-18)**
+> "That's puretalk.com slash Owens to get 50% off your first month. ..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (5 mentions)</summary>
+
+**[00:32:52](/episodes/ep-NNiCZk1cuzs.md#ent-org-pure-talk-t-00-32-43)**
+> "...have to remind you guys about Pure Talk because I've been telling you for a very long tim..."
+
+**[00:32:58](/episodes/ep-NNiCZk1cuzs.md#ent-org-pure-talk-t-00-32-43)**
+> "...y that because I actually use Pure Talk. I make calls, send texts, watch videos, and use ..."
+
+**[00:33:07](/episodes/ep-NNiCZk1cuzs.md#ent-org-pure-talk-t-00-32-43)**
+> "...an 20,000 wireless customers, Pure Talk was the only wireless company in the country to r..."
+
+**[00:33:17](/episodes/ep-NNiCZk1cuzs.md#ent-org-pure-talk-t-00-33-17)**
+> "...r service? Make the switch to PureTalk today at puretalk.com slash Owens and get 50% off..."
+
+**[00:33:33](/episodes/ep-NNiCZk1cuzs.md#ent-org-pure-talk-t-00-33-17)**
+> "That's puretalk.com slash Owens to get 50% off your first month, ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
@@ -1062,7 +1153,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -1081,6 +1172,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:43:04](/episodes/ep-MUA9ebCF4Ow.md#t-00-42-44): “There is a reason that I am proud to say that Pure Talk is my wireless company”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:56:19](/episodes/ep-czVBmqZP6Ss.md#t-00-55-47): “It's time to switch to my wireless company, PureTalk.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:54:50](/episodes/ep-pc3pxRyNFZk.md#t-00-54-44): “I encourage you to switch your wireless service to Pure Talk.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:52](/episodes/ep-NNiCZk1cuzs.md#t-00-32-43): “I also have to remind you guys about Pure Talk because I've been telling you for a very long time that it is the best wireless company out there. ... I say that because I actually use Pure Talk. I make calls, send texts, watch videos, and use their unlimited data so that I can tell you firsthand that the coverage is phenomenal.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
 
 </details>
 
@@ -1128,7 +1222,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -1147,6 +1241,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:43:04](/episodes/ep-MUA9ebCF4Ow.md#t-00-42-44): “There is a reason that I am proud to say that Pure Talk is my wireless company”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:56:19](/episodes/ep-czVBmqZP6Ss.md#t-00-55-47): “It's time to switch to my wireless company, PureTalk.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:54:50](/episodes/ep-pc3pxRyNFZk.md#t-00-54-44): “I encourage you to switch your wireless service to Pure Talk.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:52](/episodes/ep-NNiCZk1cuzs.md#t-00-32-43): “I also have to remind you guys about Pure Talk because I've been telling you for a very long time that it is the best wireless company out there. ... I say that because I actually use Pure Talk. I make calls, send texts, watch videos, and use their unlimited data so that I can tell you firsthand that the coverage is phenomenal.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
 
 </details>
 

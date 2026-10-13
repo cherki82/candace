@@ -1,6 +1,6 @@
 ---
 title: "Utah State Bureau of Investigation"
-description: "Utah State Bureau of Investigation (Organizations) - 28 mentions"
+description: "Utah State Bureau of Investigation (Organizations) - 34 mentions"
 id: "org-utah-state-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-utah-state-bureau-of-investigation-t-00-14-40">2026-04-20 · 00:14:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-state-bureau-of-investigation-t-00-19-35">2026-08-21 · 00:19:35</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#t-00-19-00">2026-09-25 · 00:19:00</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -46,6 +46,10 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-utah-state-bureau-of-investigation-t-00-04-58" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 13 mentions" title="2026-08-18 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-utah-state-bureau-of-investigation-t-00-11-57" style="--pulse-height:15%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-state-bureau-of-investigation-t-00-07-26" style="--pulse-height:15%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-utah-state-bureau-of-investigation-t-00-20-38" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-utah-state-bureau-of-investigation-t-00-20-57" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-state-bureau-of-investigation-t-00-05-25" style="--pulse-height:23%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-19-00" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +65,10 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-utah-state-bureau-of-investigation-t-00-04-58) | 13 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-utah-state-bureau-of-investigation-t-00-11-57) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-state-bureau-of-investigation-t-00-07-26) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-utah-state-bureau-of-investigation-t-00-20-38) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-utah-state-bureau-of-investigation-t-00-20-57) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-state-bureau-of-investigation-t-00-05-25) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00) | 1 |
 
 </details>
 </section>
@@ -72,7 +80,45 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:19:00](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00)**
+> "Next to a Quick Quack Car Wash, Agent Draney (Utah State Bureau of Investigations agent; first name unverified) with the Utah State Bureau of Investigations obtained records and video footage from the Quick Quack Car Wash of Tyler Robinson’s 2013 Dodge Challenger with his license plates arriving at the car wash at approximately 12:57."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3 mentions)</summary>
+
+**[00:06:02](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-state-bureau-of-investigation-t-00-05-25)**
+> "...using the testimony from lead SBI agent David Hull from the preliminary hearing."
+
+**[00:18:45](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-state-bureau-of-investigation-t-00-18-17)**
+> "...nd a full five days after the SBI had time to gather and review the."
+
+**[00:20:22](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-state-bureau-of-investigation-t-00-20-22)**
+> "Lead SBI agent David Hull now claims that maroon boy did n..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:20:57](/episodes/ep-kn1E0scy9Wc.md#ent-org-utah-state-bureau-of-investigation-t-00-20-57)**
+> "...ce of the FBI, eventually the SBI, the UVU police are already there, SWAT is alread..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:20:49](/episodes/ep-O4Zw3bCALjU.md#ent-org-utah-state-bureau-of-investigation-t-00-20-38)**
+> "...e accounts that came from the SBI that testified about what they were handed, that ..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -214,7 +260,7 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (3)</summary>
+<summary>Employs (4)</summary>
 
 - **[Jennifer Faumuina](/entities/person-jennifer-faumuina.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -225,9 +271,10 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 </details>
 
 - **[David Hull](/entities/person-david-hull.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:04:58](/episodes/ep-4JxgOclKzqg.md#t-00-04-58): “The lead investigator on the case, SBI Agent David Hull, explained on the stand actually on September 10th.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:06:02](/episodes/ep-6XfDqKTdFKg.md#t-00-05-25): “filed on September 15th, whereas I was using the testimony from lead SBI agent David Hull from the preliminary hearing.”
 
 </details>
 
@@ -238,10 +285,17 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 
 </details>
 
+- **[Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:19:00](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00): “Next to a Quick Quack Car Wash, Agent Draney (Utah State Bureau of Investigations agent; first name unverified) with the Utah State Bureau of Investigations obtained records and video footage from the Quick Quack Car Wash of Tyler Robinson’s 2013 Dodge Challenger with his license plates arriving at the car wash at approximately 12:57.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Jennifer Faumuina](/entities/person-jennifer-faumuina.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -252,9 +306,10 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 </details>
 
 - **[David Hull](/entities/person-david-hull.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:04:58](/episodes/ep-4JxgOclKzqg.md#t-00-04-58): “The lead investigator on the case, SBI Agent David Hull, explained on the stand actually on September 10th.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:06:02](/episodes/ep-6XfDqKTdFKg.md#t-00-05-25): “filed on September 15th, whereas I was using the testimony from lead SBI agent David Hull from the preliminary hearing.”
 
 </details>
 
@@ -265,12 +320,83 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 
 </details>
 
+- **[Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:19:00](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00): “Next to a Quick Quack Car Wash, Agent Draney (Utah State Bureau of Investigations agent; first name unverified) with the Utah State Bureau of Investigations obtained records and video footage from the Quick Quack Car Wash of Tyler Robinson’s 2013 Dodge Challenger with his license plates arriving at the car wash at approximately 12:57.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah State Bureau of Investigation (10)</strong></summary>
+<summary><strong class="section-title">Statements by Utah State Bureau of Investigation (2)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2)</summary>
+
+- [00:19:11](/episodes/ep-6XfDqKTdFKg.md#t-00-18-57) [○] (Claim) ["The SBI warrant read by Owens reports that Agent Mortensen, whose full identity ..."](/statements/statement-72de9f2c7aa0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:19:51](/episodes/ep-6XfDqKTdFKg.md#t-00-19-41) [○] (Claim) ["The SBI warrant read by Owens describes Robinson in a ball cap, red shirt, light..."](/statements/statement-05f92880a825.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Utah State Bureau of Investigation (21)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:19:00](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00) (Citation) **Candace Owens**: ["Owens cited a warrant stating that Agent Draney of the Utah State Bure..."](/statements/statement-66c3ecad9831.md)
+  - Also about: [Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Quick Quack Car Wash](/entities/org-quick-quack-car-wash.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (9)</summary>
+
+- [00:05:41](/episodes/ep-6XfDqKTdFKg.md#t-00-05-25) (Claim) **Candace Owens**: ["Owens corrects the prior episode’s timeline placing Maroon Boy’s woode..."](/statements/statement-f6b9178b28ff.md)
+  - Also about: [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [David Hull](/entities/person-david-hull.md)
+
+- [00:08:26](/episodes/ep-6XfDqKTdFKg.md#t-00-08-10) (Claim) **Candace Owens**: ["Owens says investigators have presented no photos or videos of an iden..."](/statements/statement-886be17bc9cd.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:08:36](/episodes/ep-6XfDqKTdFKg.md#t-00-08-10) (Claim) **Candace Owens**: ["Owens says investigators have never indicated that Officer Goforth wor..."](/statements/statement-39ced51089ef.md)
+  - Also about: [Officer Goforth (security officer; first name unverified)](/entities/person-officer-goforth-security-officer.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:09:56](/episodes/ep-6XfDqKTdFKg.md#t-00-09-30) (Accusation) **Candace Owens**: ["Owens says Hull’s narration of the prosecution footage seemed remarkab..."](/statements/statement-53f1185061b1.md)
+  - Also about: [David Hull](/entities/person-david-hull.md), [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:19](/episodes/ep-6XfDqKTdFKg.md#t-00-14-19) (Claim) **Candace Owens**: ["Owens says TMZ footage shows the person she identifies as Tyler Robins..."](/statements/statement-bd0f2e1b397e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [TMZ](/entities/org-tmz.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:18:31](/episodes/ep-6XfDqKTdFKg.md#t-00-18-17) (Claim) **Candace Owens**: ["Owens says the initial narrative had Kirk’s killer changing clothes on..."](/statements/statement-49a453e22d21.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:45](/episodes/ep-6XfDqKTdFKg.md#t-00-18-17) (Citation) **Candace Owens**: ["Owens cites a September 15 warrant saying Maroon Boy visited the woode..."](/statements/statement-7d0e5814ec7e.md)
+  - Also about: [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:21:28](/episodes/ep-6XfDqKTdFKg.md#t-00-21-06) (Accusation) **Candace Owens**: ["Owens says the prosecution narrative and warrants read to her as thoug..."](/statements/statement-bac3c0e070db.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:21:52](/episodes/ep-6XfDqKTdFKg.md#t-00-21-46) (Claim) **Candace Owens**: ["Owens says the stated time of the Dodge Challenger’s appearance outsid..."](/statements/statement-4a2c045ae8e2.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:20:49](/episodes/ep-O4Zw3bCALjU.md#t-00-20-38) (Citation) **Candace Owens** (via paraphrase): ["Owens said that, if the SBI testimony was to be believed, investigator..."](/statements/statement-9dc052db4995.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

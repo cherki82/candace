@@ -12,7 +12,7 @@ date: "2025-07-18"
 
 > UVU Turning Point chapter submits application for Charlie Kirk rally
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
@@ -69,3 +69,11 @@ date: "2025-07-18"
 <a href="https://www.youtube.com/watch?v=5autG89PW6w&t=2879s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she addresses on her shows to acknowledge that much of what she is presenting on the subject of Charlie's death is extremely concerning to America and to the world—completely valid and
+
+### 8. Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces ...
+
+**Episode:** [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md)
+**Timestamp:** [00:02:48](/episodes/ep-NNiCZk1cuzs.md#event-event-2025-07-18-uvu-turning-point-chapter-submits-application-for-t-00-02-48) 
+<a href="https://www.youtube.com/watch?v=NNiCZk1cuzs&t=168s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> TPUSA in mid-July, to be precise, on July 18th, filled out a form to host this event.

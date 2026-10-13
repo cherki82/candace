@@ -1,6 +1,6 @@
 ---
 title: "Albania"
-description: "Albania (Places) - 24 mentions"
+description: "Albania (Places) - 25 mentions"
 id: "gpe-albania"
 type: "GPE"
 categories:
@@ -19,9 +19,9 @@ Source: [What to know about opposition in Albania to a Trump family-linked resor
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-albania-t-00-00-41">2026-06-10 · 00:00:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-albania-t-00-25-14">2026-06-17 · 00:25:36</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-albania-t-00-07-43">2026-09-15 · 00:07:52</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -35,6 +35,7 @@ Source: [What to know about opposition in Albania to a Trump family-linked resor
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-albania-t-00-00-41" style="--pulse-height:54%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-albania-t-00-02-01" style="--pulse-height:100%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 13 mentions" title="2026-06-11 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-albania-t-00-19-52" style="--pulse-height:31%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-albania-t-00-07-43" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [What to know about opposition in Albania to a Trump family-linked resor
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-albania-t-00-00-41) | 7 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-albania-t-00-02-01) | 13 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-albania-t-00-19-52) | 4 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-albania-t-00-07-43) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [What to know about opposition in Albania to a Trump family-linked resor
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:07:52](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-albania-t-00-07-43)**
+> "...aining to orphans in Romania, Albania and Ukraine."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (4 mentions)</summary>

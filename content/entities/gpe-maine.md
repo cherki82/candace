@@ -1,6 +1,6 @@
 ---
 title: "Maine"
-description: "Maine (Places) - 18 mentions"
+description: "Maine (Places) - 20 mentions"
 id: "gpe-maine"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-35">2025-11-04 · 00:43:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57">2026-06-15 · 00:39:20</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-maine-t-00-31-09">2026-10-01 · 00:31:34</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,8 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-maine-t-00-32-40" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-maine-t-00-25-02" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 12 mentions" title="2026-06-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57" style="--pulse-height:17%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-maine-t-01-02-14" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-maine-t-00-31-09" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +53,8 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-maine-t-00-32-40) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-maine-t-00-25-02) | 12 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-maine-t-01-02-14) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-maine-t-00-31-09) | 1 |
 
 </details>
 </section>
@@ -62,7 +66,23 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:31:34](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-maine-t-00-31-09)**
+> "...e (Charlie Kirk) vacations in Maine for a couple of weeks with his family. He goes of..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:02:38](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-maine-t-01-02-14)**
+> "...e (Charlie Kirk) vacations in Maine."
+
+</details>
 
 <details>
 <summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>

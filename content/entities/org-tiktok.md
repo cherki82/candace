@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 66 mentions"
+description: "TikTok (Organizations) - 76 mentions"
 id: "org-tiktok"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [About TikTok](https://www.tiktok.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-29">2025-09-19 · 00:43:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-tiktok-t-00-03-17">2026-09-10 · 00:03:17</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-tiktok-t-00-51-22">2026-10-06 · 00:51:30</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -65,6 +65,8 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-tiktok-t-00-02-49" style="--pulse-height:12%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-tiktok-t-00-17-31" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-tiktok-t-00-03-17" style="--pulse-height:12%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-09-47" style="--pulse-height:100%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 8 mentions" title="2026-10-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-tiktok-t-00-50-50" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +106,8 @@ Source: [About TikTok](https://www.tiktok.com/about)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-tiktok-t-00-02-49) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-tiktok-t-00-17-31) | 2 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-org-tiktok-t-00-03-17) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-09-47) | 8 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-tiktok-t-00-50-50) | 2 |
 
 </details>
 </section>
@@ -115,7 +119,47 @@ Source: [About TikTok](https://www.tiktok.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:51:13](/episodes/ep-0pSAhaAZz1w.md#ent-org-tiktok-t-00-50-50)**
+> "...ions and billions of views on TikTok, not from his own account, but from many differen..."
+
+**[00:51:30](/episodes/ep-0pSAhaAZz1w.md#ent-org-tiktok-t-00-51-22)**
+> "TikTok decides to ban him. And yet his clips live on bec..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (8 mentions)</summary>
+
+**[00:10:00](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-09-47)**
+> "...tements on the case. Suddenly TikTok keeps sharing these videos of extreme women."
+
+**[00:10:55](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-10-23)**
+> "...al calls for women to get off TikTok."
+
+**[00:11:03](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-11-03)**
+> "If your wife's on TikTok, she needs to be off TikTok, as if in the land be..."
+
+**[00:11:16](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-11-03)**
+> "...menon. This is not because of TikTok. There's always going to be crazies."
+
+**[00:14:58](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-14-58)**
+> "And speaking of TikTok, yeah, that seems to be the breeding ground. A lo..."
+
+**[00:15:04](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-14-58)**
+> "We all know Israel took over TikTok. That was very, that was just done in our face. I..."
+
+**[00:15:21](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-14-58)**
+> "... it makes it makes sense that TikTok is pushing this, but also the New York Post in pa..."
+
+**[00:18:29](/episodes/ep-ms5ChhZegRg.md#ent-org-tiktok-t-00-18-02)**
+> ".... Men just have to get off of TikTok. No, I don't have any fear. I go, this is obvious..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -488,6 +532,30 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Barred (1)</summary>
+
+- **[Andrew Tate](/entities/person-andrew-tate.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:22](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Eventually, Andrew Tate gets banned because he's racist, he's sexist, he's misogynistic, he says a ton of awful, awful things. TikTok decides to ban him. And yet his clips live on because he has a clipping army that is out there on TikTok, out on the platform.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:14:58](/episodes/ep-ms5ChhZegRg.md#t-00-14-58): “And speaking of TikTok, yeah, that seems to be the breeding ground. A lot of this unhinged narrative is being pushed through the algorithm. ... We all know Israel took over TikTok. That was very, that was just done in our face. It became to pro-Palestine after October 7th. ... So they said, we're going to get rid of it because China controls it. And then they said, nevermind, we've got this group of Zionist investors and we're just going to buy it and get rid of pro-Palestine talk. ... That seems to have backfired a little bit. So, yeah, it makes it makes sense that TikTok is pushing this, but also the New York Post in particular, the Mossad's rag, the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein discovering he had been suicided in his cell covering for Ghislaine Maxwell.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (1)</summary>
 
 - **[Erica Mindel](/entities/person-erica-mindel.md)**
@@ -500,7 +568,21 @@ Source: [About TikTok](https://www.tiktok.com/about)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Andrew Tate](/entities/person-andrew-tate.md)** barred by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:22](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Eventually, Andrew Tate gets banned because he's racist, he's sexist, he's misogynistic, he says a ton of awful, awful things. TikTok decides to ban him. And yet his clips live on because he has a clipping army that is out there on TikTok, out on the platform.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:14:58](/episodes/ep-ms5ChhZegRg.md#t-00-14-58): “And speaking of TikTok, yeah, that seems to be the breeding ground. A lot of this unhinged narrative is being pushed through the algorithm. ... We all know Israel took over TikTok. That was very, that was just done in our face. It became to pro-Palestine after October 7th. ... So they said, we're going to get rid of it because China controls it. And then they said, nevermind, we've got this group of Zionist investors and we're just going to buy it and get rid of pro-Palestine talk. ... That seems to have backfired a little bit. So, yeah, it makes it makes sense that TikTok is pushing this, but also the New York Post in particular, the Mossad's rag, the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein discovering he had been suicided in his cell covering for Ghislaine Maxwell.”
+
+</details>
 
 - **[Erica Mindel](/entities/person-erica-mindel.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -514,7 +596,26 @@ Source: [About TikTok](https://www.tiktok.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TikTok (8)</strong></summary>
+<summary><strong class="section-title">Statements about TikTok (11)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:50:16](/episodes/ep-0pSAhaAZz1w.md#t-00-50-10) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson described Andrew Tate instructing Hustlers University members..."](/statements/statement-ffb193ac021f.md)
+  - Also about: [Andrew Tate](/entities/person-andrew-tate.md), [Hustlers University](/entities/org-hustlers-university.md)
+
+- [00:51:22](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson said TikTok banned Andrew Tate but his clips continued to cir..."](/statements/statement-520155240817.md)
+  - Also about: [Andrew Tate](/entities/person-andrew-tate.md), [Instagram](/entities/org-instagram.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:15:04](/episodes/ep-ms5ChhZegRg.md#t-00-14-58) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Israel took over TikTok after it became too pro-Palestin..."](/statements/statement-211ec427e5fe.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [China](/entities/gpe-china.md), [Pro-Palestinian advocacy](/entities/concept-pro-palestinian-advocacy.md)
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1)</summary>

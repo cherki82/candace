@@ -1,6 +1,6 @@
 ---
 title: "Danny Philip"
-description: "Danny Philip (People) - 42 mentions"
+description: "Danny Philip (People) - 73 mentions"
 id: "person-danny-philip"
 type: "PERSON"
 categories:
@@ -19,29 +19,32 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">2026-07-14 · 00:15:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-38-16">2026-09-08 · 00:38:27</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-44-30">2026-10-08 · 00:44:30</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>38</strong></div>
+<div><span>Relationships</span><strong>25</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a> (15 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-02-49">More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 15 mentions" title="2026-07-21 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05" style="--pulse-height:83%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 15 mentions" title="2026-07-21 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#t-00-39-32" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#t-00-33-16" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#t-00-23-31" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18" style="--pulse-height:87%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 13 mentions" title="2026-09-02 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-danny-philip-t-00-12-36" style="--pulse-height:13%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-32-57" style="--pulse-height:27%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47" style="--pulse-height:17%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18" style="--pulse-height:72%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 13 mentions" title="2026-09-02 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-danny-philip-t-00-12-36" style="--pulse-height:11%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-32-57" style="--pulse-height:22%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-danny-philip-t-00-18-13" style="--pulse-height:22%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 4 mentions" title="2026-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-10-54" style="--pulse-height:50%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 9 mentions" title="2026-09-23 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-02-49" style="--pulse-height:100%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 18 mentions" title="2026-10-08 · 18 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +60,9 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18) | 13 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-danny-philip-t-00-12-36) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-32-57) | 4 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-danny-philip-t-00-18-13) | 4 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-10-54) | 9 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-02-49) | 18 |
 
 </details>
 </section>
@@ -68,7 +74,115 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (18 mentions)</summary>
+
+**[00:02:49](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-02-49)**
+> "...ng in Salt Lake City. Why was Danny Philip—another question I have—why was Danny Philip driv..."
+
+**[00:07:11](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-06-52)**
+> "...back there that was driven by Danny Philip. So what's the issue? Why do we need to figure an..."
+
+**[00:09:08](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-08-56)**
+> "...s that Blake (Blake Neff) and Danny Philip reappear upon the scene just before 1pm local tim..."
+
+**[00:09:26](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-08-56)**
+> "...ent. Where did you and Danny (Danny Philip) go? Damon, where did you and Danny (Danny Philip..."
+
+**[00:10:09](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-10-09)**
+> "..., not Danny McCoy, pardon me, Danny Philip and Nate Walker with him. And you're going to pay..."
+
+**[00:10:37](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-10-09)**
+> "...Nate (Nate Walker) and Danny (Danny Philip) and an officer."
+
+**[00:11:07](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-10-58)**
+> "...nd our characters Blake Neff, Danny Philip, and Nate Walker, and security members Blake Harr..."
+
+**[00:13:10](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-13-10)**
+> "...irk)'s driver. That is Danny (Danny Philip) very easily identified because of his backpack a..."
+
+**[00:13:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-13-10)**
+> "...king. You've got Nate Walker, Danny Philip, Blake Neff and Mikey McCoy in this shot and then..."
+
+**[00:14:02](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-13-48)**
+> "Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, ..."
+
+**[00:15:02](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-15-02)**
+> "...lking, and you can see Danny (Danny Philip) is making up that tail end with Blake Neff and C..."
+
+**[00:16:15](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-15-55)**
+> "...key McCoy) and Blake Neff and Danny Philip with the federal officer, and on the right,"
+
+**[00:17:23](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-17-09)**
+> "... we have Nate Walker, we have Danny Philip, and what appears to me to be a federal officer g..."
+
+**[00:19:34](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-19-13)**
+> "...(Blake Neff), Neff and Danny (Danny Philip) are safe. They're not with them walking into the..."
+
+**[00:21:40](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-21-25)**
+> "...ere longer. He's super young. Danny Philip just started working in May. Why are they receivi..."
+
+**[00:22:20](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-22-03)**
+> "...'m sorry, who are you, Danny (Danny Philip)?"
+
+**[00:24:52](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-24-40)**
+> "... the Fed stuff? Was it Danny (Danny Philip)?"
+
+**[00:44:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-danny-philip-t-00-44-30)**
+> "...key McCoy car, Blake Neff and Danny Philip to the hospital escorted by an officer. And then ..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (9 mentions)</summary>
+
+**[00:11:18](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-10-54)**
+> "...o not have to imagine is what Danny Philip was doing. Danny Philip, let's not forget, one of..."
+
+**[00:11:54](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-11-33)**
+> "..., when I say exact same time, Danny Philip and Nate Walker are going to make their way to Da..."
+
+**[00:12:09](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-11-33)**
+> "...d up at the event with Danny (Danny Philip), remember?"
+
+**[00:12:24](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-12-18)**
+> "...hen they showed up and Danny (Danny Philip) was in the front seat."
+
+**[00:12:29](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-12-18)**
+> "...is that 1217, Nate Walker and Danny Philip head to the SUV to offload their backpacks, okay?"
+
+**[00:13:08](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-13-02)**
+> "We have Danny (Danny Philip) here. He takes off his backpack and puts it in t..."
+
+**[00:13:38](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-13-02)**
+> "Danny (Danny Philip) in front of him."
+
+**[00:15:12](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-15-12)**
+> "Danny (Danny Philip) has his backpack again. Take a look. This is Dan..."
+
+**[00:17:29](/episodes/ep-_2DiIbfy4mU.md#ent-person-danny-philip-t-00-17-12)**
+> "Danny (Danny Philip)'s got his backpack, but Nate (Nate Walker) does ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (4 mentions)</summary>
+
+**[00:18:33](/episodes/ep-kn1E0scy9Wc.md#ent-person-danny-philip-t-00-18-13)**
+> "...ng to end his phone call with Danny Philip."
+
+**[00:18:43](/episodes/ep-kn1E0scy9Wc.md#ent-person-danny-philip-t-00-18-13)**
+> "We know that that is Danny Philip he's on the phone with because we have, we were g..."
+
+**[00:18:49](/episodes/ep-kn1E0scy9Wc.md#ent-person-danny-philip-t-00-18-49)**
+> "...nd so he is on the phone with Danny Philip. He concludes that phone call and then his statem..."
+
+**[00:20:02](/episodes/ep-kn1E0scy9Wc.md#ent-person-danny-philip-t-00-20-02)**
+> "...Neff and being Uber driven by Danny Philip."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>
@@ -252,20 +366,22 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (4)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -273,6 +389,13 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -319,9 +442,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <summary>Former Assistant To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:11:18](/episodes/ep-_2DiIbfy4mU.md#t-00-10-54): “What we also do not have to imagine is what Danny Philip was doing. Danny Philip, let's not forget, one of Charlie (Charlie Kirk)'s assistants, new hire, who drove Blake Neff to the event in an SUV.”
 
 </details>
 
@@ -334,6 +458,37 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:20:21](/episodes/ep-X3VKJVJ7cN4.md#t-00-19-58): “That is Danny Phillips' granddaddy. You know, I got to know who everybody's granddad is, and I fell apart when I realized who his grandfather was.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke With (2)</summary>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:18:33](/episodes/ep-kn1E0scy9Wc.md#t-00-18-13): “OK. Take Mikey McCoy (Michael McCoy)'s statement, pardon me. What happens here is essentially Mikey (Michael McCoy) is going to end his phone call with Danny Philip. We know that that is Danny Philip he's on the phone with because we have, we were given by Erika (Erika Kirk), his call logs, right? And so he is on the phone with Danny Philip. He concludes that phone call and then his statement is going to be taken by that female and she's wearing a vest, make no mistake, that says ICAC.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:13:08](/episodes/ep-_2DiIbfy4mU.md#t-00-13-02): “We have Danny (Danny Philip) here. He takes off his backpack and puts it in the passenger seat. Nate (Nate Walker) is fishing something out of his, I guess it would be more appropriate to call that a briefcase rather than a backpack, and they're communicating about whatever that is. Danny (Danny Philip) in front of him.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:11:18](/episodes/ep-_2DiIbfy4mU.md#t-00-10-54): “What we also do not have to imagine is what Danny Philip was doing. Danny Philip, let's not forget, one of Charlie (Charlie Kirk)'s assistants, new hire, who drove Blake Neff to the event in an SUV. Gratefully, we also don't have to imagine what his other assistant is doing, Nate Walker, because at nearly the exact same time, okay, I'm talking 12-17. Nearly the exact same time that the alleged killer jumps onto Losee rooftop and ducks, and I'm talking within. Five seconds, when I say exact same time, Danny Philip and Nate Walker are going to make their way to Danny (Danny Philip)'s SUV. This is the SUV, by the way, that has caused a serious bout of amnesia for Blake Neff. I don't know what's going on in that SUV, why he can't remember things. He's very hesitant to speak about that. He didn't even remember that he showed up at the event with Danny (Danny Philip), remember? And many of us were also wondering why Blake Neff was being driven like he had called an Uber driver. Remember, he was in the back seat when they showed up and Danny (Danny Philip) was in the front seat. The passenger seat, the front passenger seat was vacant. It's a very strange way to drive with your colleagues, but I digress. The point is that 1217, Nate Walker and Danny Philip head to the SUV to offload their backpacks, okay?”
 
 </details>
 
@@ -353,20 +508,22 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -374,6 +531,13 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -408,9 +572,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has former assistant this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:11:18](/episodes/ep-_2DiIbfy4mU.md#t-00-10-54): “What we also do not have to imagine is what Danny Philip was doing. Danny Philip, let's not forget, one of Charlie (Charlie Kirk)'s assistants, new hire, who drove Blake Neff to the event in an SUV.”
 
 </details>
 
@@ -421,12 +586,91 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 </details>
 
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:18:33](/episodes/ep-kn1E0scy9Wc.md#t-00-18-13): “OK. Take Mikey McCoy (Michael McCoy)'s statement, pardon me. What happens here is essentially Mikey (Michael McCoy) is going to end his phone call with Danny Philip. We know that that is Danny Philip he's on the phone with because we have, we were given by Erika (Erika Kirk), his call logs, right? And so he is on the phone with Danny Philip. He concludes that phone call and then his statement is going to be taken by that female and she's wearing a vest, make no mistake, that says ICAC.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:13:08](/episodes/ep-_2DiIbfy4mU.md#t-00-13-02): “We have Danny (Danny Philip) here. He takes off his backpack and puts it in the passenger seat. Nate (Nate Walker) is fishing something out of his, I guess it would be more appropriate to call that a briefcase rather than a backpack, and they're communicating about whatever that is. Danny (Danny Philip) in front of him.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Danny Philip (21)</strong></summary>
+<summary><strong class="section-title">Statements about Danny Philip (38)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (8)</summary>
+
+- [00:07:11](/episodes/ep-UAdBEXs7nNc.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens identified Danny Philip as the driver of another GMC Yukon Denal..."](/statements/statement-c0aabee699a6.md)
+  - Also about: [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:09:08](/episodes/ep-UAdBEXs7nNc.md#t-00-08-56) (Claim) **Candace Owens**: ["Owens said Blake Neff and Danny Philip reappeared at the scene just be..."](/statements/statement-db9ba696a782.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:09:41](/episodes/ep-UAdBEXs7nNc.md#t-00-09-34) (Claim) **Candace Owens**: ["Owens said the returning group was escorted into different vehicles by..."](/statements/statement-96acc211561e.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Nate Walker](/entities/person-nate-walker.md)
+
+- [00:10:37](/episodes/ep-UAdBEXs7nNc.md#t-00-10-09) (Claim) **Candace Owens**: ["Owens said an officer pictured with Blake Neff, Nate Walker and Danny ..."](/statements/statement-9b0c724549bd.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Nate Walker](/entities/person-nate-walker.md), [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:11:07](/episodes/ep-UAdBEXs7nNc.md#t-00-10-58) (Claim) **Candace Owens**: ["Owens described Blake Neff, Danny Philip, Nate Walker, the security me..."](/statements/statement-e3f85ad5bb13.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Nate Walker](/entities/person-nate-walker.md), [Blake Harruff (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-002.md)
+
+- [00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48) (Claim) **Candace Owens**: ["Owens said the group split into two white vehicles: Michael McCoy, Bla..."](/statements/statement-6db3c5a6a104.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Nate Walker](/entities/person-nate-walker.md)
+
+- [00:17:23](/episodes/ep-UAdBEXs7nNc.md#t-00-17-09) (Claim) **Candace Owens**: ["Owens said local news footage confirmed Michael McCoy, Nate Walker and..."](/statements/statement-6955d5fa6adc.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Nate Walker](/entities/person-nate-walker.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:21:40](/episodes/ep-UAdBEXs7nNc.md#t-00-21-25) (Claim) **Candace Owens**: ["Owens said Danny Philip started working in May."](/statements/statement-9dff7c17dcb1.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (8)</summary>
+
+- [00:11:18](/episodes/ep-_2DiIbfy4mU.md#t-00-10-54) (Claim) **Candace Owens**: ["Owens says Danny Philip was a newly hired assistant to Charlie Kirk an..."](/statements/statement-a7f80e50362f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:11:33](/episodes/ep-_2DiIbfy4mU.md#t-00-11-33) (Claim) **Candace Owens**: ["Owens says Danny Philip and Nate Walker headed to Danny’s SUV to offlo..."](/statements/statement-223a289d0911.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:12:24](/episodes/ep-_2DiIbfy4mU.md#t-00-12-18) (Claim) **Candace Owens**: ["Owens says Blake Neff arrived in the rear seat of Danny Philip’s SUV, ..."](/statements/statement-a9a088928724.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:13:08](/episodes/ep-_2DiIbfy4mU.md#t-00-13-02) (Claim) **Candace Owens**: ["Owens describes Danny Philip putting his backpack in the passenger sea..."](/statements/statement-dfa633d2f741.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:31](/episodes/ep-_2DiIbfy4mU.md#t-00-14-31) (Claim) **Candace Owens**: ["Owens says there was allegedly a two-minute surveillance blackout in t..."](/statements/statement-6d083265ca76.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Nate Walker](/entities/person-nate-walker.md)
+
+- [00:14:58](/episodes/ep-_2DiIbfy4mU.md#t-00-14-31) (Claim) **Candace Owens**: ["Owens says surveillance returned at about 12:21 and Danny Philip was a..."](/statements/statement-8138ee4b4e65.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:00](/episodes/ep-_2DiIbfy4mU.md#t-00-15-55) (Opinion) **Candace Owens**: ["Owens wonders whether someone entered the SUV and took something out o..."](/statements/statement-317d6150d3d0.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md)
+
+- [00:16:43](/episodes/ep-_2DiIbfy4mU.md#t-00-16-31) (Claim) **Candace Owens**: ["Owens says Nate Walker headed toward the Hall of Flags and Sorensen Ce..."](/statements/statement-4a3f54c68078.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Hall of Flags](/entities/gpe-hall-of-flags.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:18:08](/episodes/ep-kn1E0scy9Wc.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said footage shows Michael McCoy ending a call with Danny Philip..."](/statements/statement-1defecef6ca1.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Utah Internet Crimes Against Children Task Force](/entities/org-utah-icac-task-force.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>

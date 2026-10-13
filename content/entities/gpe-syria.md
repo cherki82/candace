@@ -1,6 +1,6 @@
 ---
 title: "Syria"
-description: "Syria (Places) - 21 mentions"
+description: "Syria (Places) - 22 mentions"
 id: "gpe-syria"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05">2025-11-12 · 00:52:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-syria-t-00-37-12">2026-09-25 · 00:37:12</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-syria-t-00-12-01" style="--pulse-height:20%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-syria-t-00-37-12" style="--pulse-height:20%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-syria-t-00-12-01) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-syria-t-00-37-12) | 1 |
 
 </details>
 </section>
@@ -71,7 +73,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:37:12](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-syria-t-00-37-12)**
+> "...militias in Iraq, militias in Syria. Palestinian terrorists in Judea and Samaria, the..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -228,7 +238,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Syria (11)</strong></summary>
+<summary><strong class="section-title">Statements about Syria (12)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:36:49](/episodes/ep-_Sq5RqP27NY.md#t-00-36-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel had fought a seven-fr..."](/statements/statement-db410504f811.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md), [Hezbollah](/entities/org-hezbollah.md)
+
+</details>
 
 <details>
 <summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3)</summary>

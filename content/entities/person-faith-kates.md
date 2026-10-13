@@ -1,6 +1,6 @@
 ---
 title: "Faith Kates"
-description: "Faith Kates (People) - 14 mentions"
+description: "Faith Kates (People) - 16 mentions"
 id: "person-faith-kates"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-22-10">2026-03-10 · 00:22:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-31-02">2026-07-29 · 00:31:15</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-40-44">2026-10-01 · 00:41:07</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -38,6 +38,8 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-faith-kates-t-00-32-19" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-faith-kates-t-00-20-11" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-31-02" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-faith-kates-t-00-30-28" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-40-44" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +52,8 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-faith-kates-t-00-32-19) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-faith-kates-t-00-20-11) | 2 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-31-02) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-faith-kates-t-00-30-28) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44) | 1 |
 
 </details>
 </section>
@@ -61,7 +65,23 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:41:07](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44)**
+> "Jean-Luc Brunel, of course. potentially suicided partner of Jeffrey Epstein through the modeling group, the modeling group founded by him, Faith Kate (modeling-company figure; name spelling unverified)'s modeling group, a question that we could not get an answer on when we asked Turning Point USA explicitly why we had people that worked there saying that Erika (Erika Kirk) was in control of the modeling apartments."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:30:28](/episodes/ep-kn1E0scy9Wc.md#ent-person-faith-kates-t-00-30-28)**
+> "...meone he was very close with, Faith Kates' running that modeling agency and or a modeling a..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -149,11 +169,12 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 <summary>Close Associate Of (1)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:30:28](/episodes/ep-kn1E0scy9Wc.md#t-00-30-28): “Office where Epstein (Jeffrey Epstein) frequented someone he was very close with, Faith Kates' running that modeling agency and or a modeling agency that started started by Jean-Luc Brunel of France. who was found suicided, as they say, in France when Epstein (Jeffrey Epstein) went down, that would be something that a normal person would just respond to and say no.”
 
 </details>
 
@@ -251,11 +272,12 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 <summary>Referenced By (8)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:30:28](/episodes/ep-kn1E0scy9Wc.md#t-00-30-28): “Office where Epstein (Jeffrey Epstein) frequented someone he was very close with, Faith Kates' running that modeling agency and or a modeling agency that started started by Jean-Luc Brunel of France. who was found suicided, as they say, in France when Epstein (Jeffrey Epstein) went down, that would be something that a normal person would just respond to and say no.”
 
 </details>
 
@@ -317,7 +339,15 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Faith Kates (10)</strong></summary>
+<summary><strong class="section-title">Statements about Faith Kates (11)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:30:03](/episodes/ep-kn1E0scy9Wc.md#t-00-29-53) (Accusation) **Candace Owens**: ["Owens said she emailed for a statement about reports that Erika Kirk m..."](/statements/statement-16b37bf70a07.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>

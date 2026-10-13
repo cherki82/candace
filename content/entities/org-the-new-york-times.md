@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 90 mentions"
+description: "The New York Times (Organizations) - 97 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-48-55">2026-09-08 · 00:49:02</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>90</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-the-new-york-times-t-00-06-39">2026-10-05 · 00:07:09</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>97</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -70,6 +70,10 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10" style="--pulse-height:12%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:19%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-00-42" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 16 mentions" title="2026-09-08 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-the-new-york-times-t-00-59-23" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-the-new-york-times-t-00-23-17" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-the-new-york-times-t-00-23-08" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-the-new-york-times-t-00-06-39" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -111,6 +115,10 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24) | 3 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-00-42) | 16 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-the-new-york-times-t-00-59-23) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-the-new-york-times-t-00-23-17) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-new-york-times-t-00-23-08) | 4 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-the-new-york-times-t-00-06-39) | 1 |
 
 </details>
 </section>
@@ -122,7 +130,48 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:07:09](/episodes/ep-ms5ChhZegRg.md#ent-org-the-new-york-times-t-00-06-39)**
+> "The New York Times, the big story on Harvey Weinstein. They took him..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (4 mentions)</summary>
+
+**[00:23:08](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-new-york-times-t-00-23-08)**
+> "...e a book and then it broke in the New York Times about all of these meetings that were taking plac..."
+
+**[00:28:20](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-new-york-times-t-00-27-52)**
+> "....com. July 12th, according to the New York Times."
+
+**[00:29:54](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-new-york-times-t-00-29-54)**
+> "...roduction. Very next day, per the New York Times, Donald Trump (Donald J. Trump)."
+
+**[00:30:25](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-new-york-times-t-00-29-54)**
+> "...e released. Again, that's per the New York Times report."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:23:17](/episodes/ep-5TTkMa49qj8.md#ent-org-the-new-york-times-t-00-23-17)**
+> "...g. That was on November 10th. The New York Times Book Summit on December 3rd, she had an outfit. I..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:59:23](/episodes/ep-bIuvTKlFeGo.md#ent-org-the-new-york-times-t-00-59-23)**
+> "According to the New York Times, President Trump (Donald J. Trump) calls Charlie ..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (16 mentions)</summary>
@@ -758,7 +807,39 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The New York Times (18)</strong></summary>
+<summary><strong class="section-title">Statements about The New York Times (22)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:06:49](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens**: ["Owens alleged the Las Vegas shooting disappeared from the media cycle ..."](/statements/statement-f63096f6ee9c.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Harvey Weinstein](/entities/person-harvey-weinstein.md), [Me Too movement](/entities/concept-me-too-movement.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:29:54](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54) (Citation) **Candace Owens**: ["Citing the New York Times, Owens corrected her timeline: Trump was abs..."](/statements/statement-bc512b895e2b.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:23:17](/episodes/ep-5TTkMa49qj8.md#t-00-23-17) (Claim) **Candace Owens**: ["Owens cited additional Erika Kirk outfits at the December 3 New York T..."](/statements/statement-0d1b5ee73fb6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Sean Hannity](/entities/person-sean-hannity.md), [Fox & Friends](/entities/work-fox-and-friends.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23) (Citation) **Candace Owens**: ["Citing the New York Times, Owens said President Trump called Charlie K..."](/statements/statement-e8388a4e8994.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4)</summary>

@@ -13,7 +13,7 @@ time: "12:15"
 
 > Suspect climbs onto UVU roof before Charlie Kirk shooting
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -70,3 +70,14 @@ time: "12:15"
 <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=600s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > crossing the railing off the open walkway and onto the roof where he leaves the camera's view
+
+### 8. SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final M...
+
+**Episode:** [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md)
+**Timestamp:** [00:11:44](/episodes/ep-_2DiIbfy4mU.md#event-event-2025-09-10-suspect-climbs-onto-uvu-roof-before-charlie-kirk-s-t-00-11-33) 
+<a href="https://www.youtube.com/watch?v=_2DiIbfy4mU&t=704s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Nearly the exact same time that the alleged killer jumps onto Losee rooftop and ducks,
+
+> **Date stated in this source:** “September 10th; 12-17 in nearby context”
+> **Date review note:** This source puts the jump at about 12:17 p.m.; the canonical event has 12:15. Preserve this source-specific clock-time discrepancy without changing the canonical event or creating a duplicate. Identity is not independently established.

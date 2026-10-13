@@ -1,6 +1,6 @@
 ---
 title: "Angus cattle"
-description: "Angus cattle (Concepts) - 71 mentions"
+description: "Angus cattle (Concepts) - 74 mentions"
 id: "concept-angus-cattle"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-concept-angus-cattle-t-00-24-38">2025-09-30 · 00:24:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-angus-cattle-t-00-26-18">2026-02-11 · 00:26:35</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-angus-cattle-t-00-35-56">2026-09-30 · 00:36:03</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,6 +55,7 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-angus-cattle-t-00-29-48" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-angus-cattle-t-00-26-25" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-angus-cattle-t-00-26-18" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-angus-cattle-t-00-35-12" style="--pulse-height:50%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 3 mentions" title="2026-09-30 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +80,7 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-angus-cattle-t-00-29-48) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-angus-cattle-t-00-26-25) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-angus-cattle-t-00-26-18) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-angus-cattle-t-00-35-12) | 3 |
 
 </details>
 </section>
@@ -86,7 +88,21 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3 mentions)</summary>
+
+**[00:35:49](/episodes/ep-5TTkMa49qj8.md#ent-concept-angus-cattle-t-00-35-12)**
+> "...ch has been creating an elite Angus herd using ultrasound technology to select geneti..."
+
+**[00:35:56](/episodes/ep-5TTkMa49qj8.md#ent-concept-angus-cattle-t-00-35-56)**
+> "... 1 to 2 percent of the entire Angus population as breeding stock."
+
+**[00:36:03](/episodes/ep-5TTkMa49qj8.md#ent-concept-angus-cattle-t-00-35-56)**
+> "...d tenderness than the typical Angus beef that you'd find at the grocery store. And no..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
@@ -402,5 +418,18 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Angus cattle (1)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:35:49](/episodes/ep-5TTkMa49qj8.md#t-00-35-12) (Claim) **Candace Owens**: ["In a sponsor read, Owens said Riverbend Ranch had developed its Angus ..."](/statements/statement-273444c53428.md)
+  - Also about: [Riverbend Ranch](/entities/org-riverbend-ranch.md)
+
+</details>
 
 </details>

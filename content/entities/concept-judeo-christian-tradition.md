@@ -1,6 +1,6 @@
 ---
 title: "Judeo-Christian tradition"
-description: "Judeo-Christian tradition (Concepts) - 6 mentions"
+description: "Judeo-Christian tradition (Concepts) - 7 mentions"
 id: "concept-judeo-christian-tradition"
 type: "CONCEPT"
 aliases:
@@ -27,7 +27,7 @@ Source: [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-concept-judeo-christian-tradition-t-00-39-07">2025-11-18 · 00:39:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-judeo-christian-tradition-t-00-45-59">2026-06-23 · 00:46:27</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -58,7 +58,7 @@ Source: [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>

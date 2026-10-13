@@ -1,14 +1,14 @@
 ---
 id: "c5BcKF91iec"
 title: "Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252"
-description: "Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 - 89 entities, 12 events, 32 factual claims"
+description: "Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 - 89 entities, 14 events, 32 factual claims"
 published: "2025-10-27"
 youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 ---
 
 **Published:** 2025-10-27 | [Watch on YouTube](https://www.youtube.com/watch?v=c5BcKF91iec)
 
-**Stats:** 89 entities | 12 events | 32 factual claims
+**Stats:** 89 entities | 14 events | 32 factual claims
 
 ---
 
@@ -210,7 +210,7 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 
 **<a href="/timestamps/ep-c5BcKF91iec/t-00-52-22.md" class="timestamp-link">00:52:22</a> <a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=3142" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And I think you—and Amal—I know what that says. It was a dark time, but in hindsight, it's clearly what was happening. Amal, it actually—I think it all started with <span id="ent-person-kanye-west-t-00-52-22"><a href="/entities/person-kanye-west.md">Kanye</a></span> tweeting me. I think handlers were sent out to manage—to first and foremost break apart me and Charlie and then to manage us. And I'll speak more about that this week, but I spoke to my husband about it, and I see it so clearly now what happened— and those messages between me and Charlie leading up to that week that he tweeted us. It was actually <span id="ent-person-scott-adams-t-00-52-22"><a href="/entities/person-scott-adams.md">Scott Adams</a></span>, who did a video that I'll never forget when that happened. And he said like it ripped a hole in the universe—this tweet—and it was never supposed to happen. I'm going to dig that up, find it, and speak more about what my experience was—where I do genuinely believe that handlers were sent out. And I got lucky that I had this overwhelming spiritual feeling that needed to go to the UK, and I met my husband. ^t-00-52-22
 
-**<a href="/timestamps/ep-c5BcKF91iec/t-00-52-57.md" class="timestamp-link">00:52:57</a> <a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=3177" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I think I was actually saved by finding my husband— which was not accounted for. Joshua Steve writes, "<span id="ent-person-tyler-robinson-t-00-52-57"><a href="/entities/person-tyler-robinson.md">Tyler Robinson</a></span> appearing in court today via Zoom without having to show his face surely isn't helping any of the theories<span id="event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-52-57"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md" class="event-indicator" title="Timeline event">📅</a></span><span id="event-event-2025-10-27-tyler-robinson-appears-in-court-via-zoom-without-s-t-00-52-57"><a href="/events/event-2025-10-27-tyler-robinson-appears-in-court-via-zoom-without-s.md" class="event-indicator" title="Timeline event">📅</a></span> out there. It's good to have you back." Yeah. Yeah. Like, I mean, come on. It's like no one buys it at this point. But don't worry. I'm sure no one at <span id="ent-org-turning-point-usa-t-00-52-57"><a href="/entities/org-turning-point-usa.md">Turning Point</a></span> will think that's weird. They're just like, "It's open. It's closed. And we're so happy that that one lone shooter who got Charlie is being caught." These people just have no shame. ^t-00-52-57
+**<a href="/timestamps/ep-c5BcKF91iec/t-00-52-57.md" class="timestamp-link">00:52:57</a> <a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=3177" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I think I was actually saved by finding my husband— which was not accounted for. Joshua Steve writes, "<span id="ent-person-tyler-robinson-t-00-52-57"><a href="/entities/person-tyler-robinson.md">Tyler Robinson</a></span> appearing in court today via Zoom without having to show his face surely isn't helping any of the theories<span id="event-event-2022-05-31-tyler-robinson-involved-in-car-accident--t-00-52-57"><a href="/events/event-2022-05-31-tyler-robinson-involved-in-car-accident-.md" class="event-indicator" title="Timeline event">📅</a></span><span id="event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-52-57"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md" class="event-indicator" title="Timeline event">📅</a></span><span id="event-event-2025-10-27-tyler-robinson-appears-in-court-via-zoom-without-s-t-00-52-57"><a href="/events/event-2025-10-27-tyler-robinson-appears-in-court-via-zoom-without-s.md" class="event-indicator" title="Timeline event">📅</a></span> out there. It's good to have you back." Yeah. Yeah. Like, I mean, come on. It's like no one buys it at this point. But don't worry. I'm sure no one at <span id="ent-org-turning-point-usa-t-00-52-57"><a href="/entities/org-turning-point-usa.md">Turning Point</a></span> will think that's weird. They're just like, "It's open. It's closed. And we're so happy that that one lone shooter who got Charlie is being caught." These people just have no shame. ^t-00-52-57
 
 **<a href="/timestamps/ep-c5BcKF91iec/t-00-53-40.md" class="timestamp-link">00:53:40</a> <a href="https://www.youtube.com/watch?v=c5BcKF91iec&t=3220" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Nobody here has any shame, and that's a problem. Ivana Milano writes, "Keep up the great work. Stand by your friend—reminding us that this isn't just a personal struggle, but a spiritual war." Yes, it is. In a world where money and greed are taking over people's lives, thank you for helping us to stay grounded in God's truth. Yes. It is worth losing money—as I did. It is worth losing fake friends—as I did—to stand up for the truth. And I'm just ready for war with these people. Like, all of it—band together, you know? Send your best warriors because all they ever do is lie and smear and delude and take away and deplatform—and you're not winning anymore. And something that I want to say that's also so amazing is I didn't have to fight hard this time for people to believe me. And I don't know. I just know that somewhere Charlie's energy—they tried to almost like capture it very quickly. ^t-00-53-40
 
@@ -233,17 +233,19 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 # Appendix: Knowledge Graph Data
 
 <details>
-<summary><strong>Timeline Events (12)</strong></summary>
+<summary><strong>Timeline Events (14)</strong></summary>
 
 - **1963-11-22**: [President John F. Kennedy assassinated in Dallas, Texas](/events/event-1963-11-22-jfk-assassination.md)
 - **2017**: [Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA](/events/event-2017-candace-owens-meets-charlie-kirk-at-flor.md)
 - **2018-04-06**: [Charlie Kirk sends text messages to Candace Owens about Turning Point and future](/events/event-2018-04-06-charlie-kirk-sends-text-messages-to-cand.md)
+- **2022-05-31**: [Tyler Robinson involved in car accident captured on police bodycam](/events/event-2022-05-31-tyler-robinson-involved-in-car-accident-.md)
 - **2025-07**: [Charlie Kirk hosts town hall discussing anti-Semitism with Gen Z students.](/events/event-2025-07-charlie-kirk-hosts-town-hall-discussing-.md)
 - **2025-08-05**: [Hamptons Summit pressures Charlie Kirk on Israel views](/events/event-2025-08-05-hamptons-summit-pressures-charlie-kirk-on-israel-v.md)
 - **2025-08-21**: [Charlie Kirk addresses moral blackmail at Myrtle Beach event](/events/event-2025-08-21-charlie-kirk-addresses-moral-blackmail-a.md)
 - **2025-08**: [Cam Higby began being on Turning Point USA's payroll.](/events/event-2025-08-cam-higby-joins-turning-point-usa-payrol.md)
 - **2025-08**: [Benjamin Netanyahu calls Charlie Kirk inviting him to Israel](/events/event-2025-08-benjamin-netanyahu-calls-charlie-kirk-in.md)
 - **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
+- **2025-09-10**: [Candace Owens says federal officers seized footage or cameras at Timpanogos Hospital on the day Charlie Kirk was shot.](/events/event-2025-09-10-candace-owens-says-federal-officers-seiz.md)
 - **2025-09-14**: [Pastor Rob McCoy announces Charlie Kirk's succession plan in church sermon](/events/event-2025-09-14-pastor-rob-mccoy-announces-charlie-kirk-s-successi.md)
 - **2025-09-14**: [Succession plan at Turning Point USA made public](/events/event-2025-09-14-succession-plan-at-turning-point-usa-mad.md)
 - **2025-10-27**: [Tyler Robinson appears in court via Zoom without showing face](/events/event-2025-10-27-tyler-robinson-appears-in-court-via-zoom-without-s.md)

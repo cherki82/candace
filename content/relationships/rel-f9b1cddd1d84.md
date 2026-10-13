@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (18 mentions)
+### Evidence (21 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -45,6 +45,10 @@ object: "person-charlie-kirk"
 
 - [00:32:08](/episodes/ep-MhakwJxK-Zk#t-00-32-08): _I went on tour every year with Charlie (Charlie Kirk)._
 
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:10:50](/episodes/ep-NNiCZk1cuzs#t-00-10-50): _Then we hosted the Black Leadership Summit together, me and Charlie (Charlie Kirk), in October of 2019 at the White House._
+
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [01:01:12](/episodes/ep-QdM9jLwjwLw#t-01-01-12): _and their mamas good bye again unconscionable something i could not have known when i signed that agreement to tour with Charlie (Charlie Kirk) kirk is that he was going to be publicly assassinated and the people at the organization that he built okay many nights of no sleep_
@@ -57,6 +61,10 @@ object: "person-charlie-kirk"
 
 - [00:48:42](/episodes/ep-Vu6Y24pqhZs#t-00-48-42): _I did tours. I had a contract with Charlie (Charlie Kirk). You understand how this impacts to see somebody build something and to be so trusting and to then realize that so many elements of his life were a lie and then to realize elements of my life and my beginning in politics was a lie as well._
 
+**[BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU)**
+
+- [00:07:18](/episodes/ep-aLJhpxrakCU#t-00-07-18): _Charlie (Charlie Kirk) had a total of 12 security members that he brought with him, 12 security members. That's massive for a college event. I've never seen this in the history of me doing college campuses with Charlie (Charlie Kirk), that 12 security people would have been brought with him for a campus of this size._
+
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 
 - [00:04:25](/episodes/ep-h76ZN-xXC6c#t-00-04-25): _So Charlie (Charlie Kirk)'s preference was always, always, always to have a handheld mic, okay? Like this microphone, holding it on stage, very simple, same exact, same as me. So when we toured together, the two of us always requested two handhelds._
@@ -64,6 +72,10 @@ object: "person-charlie-kirk"
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:05:28](/episodes/ep-mFuno0TuuQQ#t-00-05-28): _It was strange because we had always collaborated on and taken those sorts of meetings together._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:20:07](/episodes/ep-ms5ChhZegRg#t-00-20-07): _With actual proof, showing audiences that, yes, something is wrong with this case. Something is wrong with the story. Here are the discrepancies in the narrative. Here's the timeline. Here are the photos of the car that he was transported into the hospital. Here is what I know about what was done differently because I toured with Charlie (Charlie Kirk). Here are never-before-seen videos and pictures. And so they've attacked me. They've attacked my family relentlessly over this nonstop, moving from one extreme narrative to the next, hoping the next one will catch because it's just so crazy._
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 

@@ -1,6 +1,6 @@
 ---
 title: "New Testament"
-description: "New Testament (Works & Media) - 4 mentions"
+description: "New Testament (Works & Media) - 5 mentions"
 id: "work-new-testament"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [New Testament | Description & History - Britannica](https://www.britann
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-new-testament-t-00-33-02">2025-11-04 · 00:33:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-work-new-testament-t-00-51-16">2026-07-14 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-work-new-testament-t-00-12-24">2026-09-14 · 00:12:24</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [New Testament | Description & History - Britannica](https://www.britann
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-new-testament-t-00-33-02" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-work-new-testament-t-00-39-29" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-work-new-testament-t-00-51-16" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-work-new-testament-t-00-12-24" style="--pulse-height:100%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [New Testament | Description & History - Britannica](https://www.britann
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-work-new-testament-t-00-33-02) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-work-new-testament-t-00-39-29) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-work-new-testament-t-00-51-16) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-work-new-testament-t-00-12-24) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [New Testament | Description & History - Britannica](https://www.britann
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:12:24](/episodes/ep-O4Zw3bCALjU.md#ent-work-new-testament-t-00-12-24)**
+> "...ntral point, like even in the New Testament, there was a resurrection."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -85,5 +95,17 @@ Source: [New Testament | Description & History - Britannica](https://www.britann
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about New Testament (1)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:12:24](/episodes/ep-O4Zw3bCALjU.md#t-00-12-24) (Opinion) **Frank Turek** (via quoted speech): ["Frank Turek said eyewitness accounts differ on details but agree on th..."](/statements/statement-7f12a1214834.md)
+
+</details>
 
 </details>

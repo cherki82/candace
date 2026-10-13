@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Brigitte Macron](/entities/person-brigitte-macron) sued [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (12 mentions)
+### Evidence (13 mentions)
 
 **[From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o)**
 
@@ -40,6 +40,10 @@ object: "person-candace-owens"
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
 - [00:10:50](/episodes/ep-his-JBjlkh8#t-00-10-50): _"Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it."_
+
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:40:20](/episodes/ep-q4m-kGzvwjw#t-00-40-20): _Yeah, this is not normal at the highest level of government to be calling you about Brigitte (Brigitte Macron), Brigitte (Brigitte Macron) to be suing me over mention that the Brigitte (Brigitte Macron) birthday falls on the creation of MKUltra, Brigitte (Brigitte Macron) disappearing, Jean-Michel Trogno (Brigitte-family referent; name spelling unverified) disappearing in the United States, never to be seen again._
 
 **[Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY)**
 

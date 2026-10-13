@@ -1,6 +1,6 @@
 ---
 title: "Bradley D. Hansell"
-description: "Bradley D. Hansell (People) - 23 mentions"
+description: "Bradley D. Hansell (People) - 24 mentions"
 id: "person-bradley-d-hansell"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bradley-d-hansell-t-00-13-13">2026-05-27 · 00:13:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-bradley-d-hansell-t-00-43-57">2026-06-26 · 00:44:08</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-26-33">2026-10-01 · 00:26:41</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-bradley-d-hansell-t-00-00-41" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 9 mentions" title="2026-06-13 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-bradley-d-hansell-t-00-08-50" style="--pulse-height:67%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-bradley-d-hansell-t-00-43-57" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-26-33" style="--pulse-height:11%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-bradley-d-hansell-t-00-00-41) | 9 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-bradley-d-hansell-t-00-08-50) | 6 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-bradley-d-hansell-t-00-43-57) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:26:41](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33)**
+> "America bombs Iran, the nuclear sites. On June 22nd, Bradley Hansel (Defense appointee; name spelling unverified) is confirmed by the Senate as the Undersecretary of Defense."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -226,11 +236,12 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 <summary>Works For (1)</summary>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:46:21](/episodes/ep-19vHhjF7-NA.md#t-00-46-17): “Brad Hansell, the undersecretary of war.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:41:19](/episodes/ep-WoXd4oLwd3w.md#t-00-41-19): “Moving on to Bradley Hansell. OK, so just to remind you, he is Trump (Donald Trump)'s appointed undersecretary of defense for intelligence and security, one of the Pentagon's top intelligence officials responsible for overseeing defense intelligence and security matters all across the DOD. OK.”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:09](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hansell.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:26:41](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33): “America bombs Iran, the nuclear sites. On June 22nd, Bradley Hansel (Defense appointee; name spelling unverified) is confirmed by the Senate as the Undersecretary of Defense. ... for intelligence. His term is set to begin on July 25th. Now we're in July. July 7th, the 9th, Bibi Netanyahu (Benjamin Netanyahu) visits Washington, D.C.”
 
 </details>
 
@@ -248,11 +259,12 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 </details>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:46:21](/episodes/ep-19vHhjF7-NA.md#t-00-46-17): “Brad Hansell, the undersecretary of war.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:41:19](/episodes/ep-WoXd4oLwd3w.md#t-00-41-19): “Moving on to Bradley Hansell. OK, so just to remind you, he is Trump (Donald Trump)'s appointed undersecretary of defense for intelligence and security, one of the Pentagon's top intelligence officials responsible for overseeing defense intelligence and security matters all across the DOD. OK.”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:09](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hansell.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:26:41](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33): “America bombs Iran, the nuclear sites. On June 22nd, Bradley Hansel (Defense appointee; name spelling unverified) is confirmed by the Senate as the Undersecretary of Defense. ... for intelligence. His term is set to begin on July 25th. Now we're in July. July 7th, the 9th, Bibi Netanyahu (Benjamin Netanyahu) visits Washington, D.C.”
 
 </details>
 
@@ -290,7 +302,14 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bradley D. Hansell (15)</strong></summary>
+<summary><strong class="section-title">Statements about Bradley D. Hansell (16)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:26:41](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33) (Claim) **Candace Owens**: ["Owens said Bradley D. Hansell was confirmed June 22 as Undersecretary ..."](/statements/statement-0d156ad16353.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>

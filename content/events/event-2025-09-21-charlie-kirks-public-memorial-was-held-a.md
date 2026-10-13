@@ -20,7 +20,7 @@ date: "2025-09-21"
 
 > Charlie Kirk's public memorial was held at State Farm Stadium.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -69,3 +69,11 @@ date: "2025-09-21"
 <a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Irina and John Mappin attended that memorial, and Irina felt that there was something off immediately. For one, she told me that she had never seen so many people speaking her native language, Russian, in Arizona.
+
+### 7. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:22:51](/episodes/ep-5TTkMa49qj8.md#t-00-22-41) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=1371s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie's Memorial on the 21st, she was wearing a white pantsuit.

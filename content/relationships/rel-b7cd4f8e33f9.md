@@ -11,11 +11,19 @@ object: "org-the-daily-wire"
 
 ## [Jeremy Boreing](/entities/person-jeremy-boreing) former CEO of [The Daily Wire](/entities/org-the-daily-wire)
 
-### Evidence (5 mentions)
+### Evidence (7 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
 - [00:43:25](/episodes/ep-2T39-oADLj0#t-00-43-25): _twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil_
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:29:21](/episodes/ep-6XfDqKTdFKg#t-00-29-21): _It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed._
+
+**[More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU)**
+
+- [00:06:33](/episodes/ep-O4Zw3bCALjU#t-00-06-33): _So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing._
 
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 

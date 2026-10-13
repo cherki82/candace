@@ -1,6 +1,6 @@
 ---
 title: "Wyoming"
-description: "Wyoming (Places) - 31 mentions"
+description: "Wyoming (Places) - 35 mentions"
 id: "gpe-wyoming"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-wyoming-t-00-01-39">2025-10-27 · 00:01:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-25-41">2026-09-10 · 00:26:09</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-wyoming-t-00-47-33">2026-10-07 · 00:47:51</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30" style="--pulse-height:10%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-wyoming-t-00-57-44" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-00-40" style="--pulse-height:60%" aria-label="One Year On… To My Friend Charlie Kirk.: 6 mentions" title="2026-09-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-wyoming-t-00-16-04" style="--pulse-height:40%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-wyoming-t-00-57-44) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-00-40) | 6 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-wyoming-t-00-16-04) | 4 |
 
 </details>
 </section>
@@ -75,7 +77,24 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (4 mentions)</summary>
+
+**[00:16:04](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-wyoming-t-00-16-04)**
+> "...timeline. It was filed for in Wyoming."
+
+**[00:19:00](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-wyoming-t-00-18-35)**
+> "...oman named Cindy Jackson from Wyoming, the same registered agent that our boy Mattis (M..."
+
+**[00:20:23](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-wyoming-t-00-20-23)**
+> "...ed agent for, for Roth LLC, a Wyoming company linked to a Ukrainian oligarch accused of..."
+
+**[00:47:51](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-wyoming-t-00-47-33)**
+> "...use with an LLC registered in Wyoming. The organizers' addresses are in New York and We..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (6 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "McDonald's"
-description: "McDonald's (Organizations) - 6 mentions"
+description: "McDonald's (Organizations) - 7 mentions"
 id: "org-mcdonalds"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Us | McDonald's](https://www.mcdonalds.com/us/en-us/about-us.html
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-mcdonalds-t-00-00-42">2025-10-06 · 00:01:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-mcdonalds-t-00-42-36">2026-08-07 · 00:42:36</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-mcdonalds-t-00-06-09">2026-10-07 · 00:06:09</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [About Us | McDonald's](https://www.mcdonalds.com/us/en-us/about-us.html
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-mcdonalds-t-00-00-42" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-mcdonalds-t-00-52-48" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-mcdonalds-t-00-41-55" style="--pulse-height:67%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-mcdonalds-t-00-06-09" style="--pulse-height:33%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About Us | McDonald's](https://www.mcdonalds.com/us/en-us/about-us.html
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-mcdonalds-t-00-00-42) | 3 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-mcdonalds-t-00-52-48) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-mcdonalds-t-00-41-55) | 2 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-mcdonalds-t-00-06-09) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [About Us | McDonald's](https://www.mcdonalds.com/us/en-us/about-us.html
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:06:09](/episodes/ep-yrg_-D6oNHE.md#ent-org-mcdonalds-t-00-06-09)**
+> "Hey, I'm going to McDonald's. You want a ham murder?"
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>

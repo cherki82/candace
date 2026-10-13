@@ -1,6 +1,6 @@
 ---
 title: "Ted Bundy"
-description: "Ted Bundy (People) - 4 mentions"
+description: "Ted Bundy (People) - 6 mentions"
 id: "person-ted-bundy"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-49-55">2026-01-21 · 00:50:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-50">2026-05-06 · 00:44:17</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ted-bundy-t-00-11-03">2026-10-05 · 00:11:09</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,8 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-49-55" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-ted-bundy-t-00-07-37" style="--pulse-height:33%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ted-bundy-t-00-11-03" style="--pulse-height:33%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +42,8 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 |---|---|---:|
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-49-55) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18) | 3 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-ted-bundy-t-00-07-37) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-ted-bundy-t-00-11-03) | 1 |
 
 </details>
 </section>
@@ -47,7 +51,23 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:11:09](/episodes/ep-ms5ChhZegRg.md#ent-person-ted-bundy-t-00-11-03)**
+> "...eople were writing letters to Ted Bundy wanting to marry the guy. I think he probably did..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:08:12](/episodes/ep-O4Zw3bCALjU.md#ent-person-ted-bundy-t-00-07-37)**
+> "...ere he said Jeremy Boreing is Ted Bundy doing a Mr."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>

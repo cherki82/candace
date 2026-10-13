@@ -1,6 +1,6 @@
 ---
 title: "Dairy Queen"
-description: "Dairy Queen (Organizations) - 44 mentions"
+description: "Dairy Queen (Organizations) - 60 mentions"
 id: "org-dairy-queen"
 type: "ORG"
 aliases:
@@ -21,35 +21,37 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26">2025-09-18 · 00:05:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31">2026-08-21 · 01:01:39</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-51-42">2026-09-25 · 00:51:42</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-00-43">CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 9 mentions" title="2025-09-18 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-dairy-queen-t-00-46-22" style="--pulse-height:22%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-dairy-queen-t-00-13-55" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38" style="--pulse-height:44%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 4 mentions" title="2025-09-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-36-53" style="--pulse-height:56%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-dairy-queen-t-00-09-50" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-dairy-queen-t-00-43-38" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45" style="--pulse-height:78%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22" style="--pulse-height:22%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-dairy-queen-t-00-44-32" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-dairy-queen-t-00-55-59" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-16-27" style="--pulse-height:33%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26" style="--pulse-height:64%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 9 mentions" title="2025-09-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-dairy-queen-t-00-46-22" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-dairy-queen-t-00-13-55" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38" style="--pulse-height:29%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 4 mentions" title="2025-09-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-dairy-queen-t-00-36-53" style="--pulse-height:36%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-dairy-queen-t-00-09-50" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-dairy-queen-t-00-43-38" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24" style="--pulse-height:21%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-dairy-queen-t-00-44-32" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-dairy-queen-t-00-55-59" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-16-27" style="--pulse-height:21%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-dairy-queen-t-00-16-13" style="--pulse-height:14%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-00-43" style="--pulse-height:100%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 14 mentions" title="2026-09-25 · 14 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +73,8 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-dairy-queen-t-00-55-59) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-16-27) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-dairy-queen-t-00-16-13) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-00-43) | 14 |
 
 </details>
 </section>
@@ -82,7 +86,65 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (14 mentions)</summary>
+
+**[00:01:09](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-00-43)**
+> "...d today I would like to visit Dairy Queen. And the car wash as well that Tyler (Tyler Robin..."
+
+**[00:06:37](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-06-27)**
+> "...clarification, and that's the Dairy Queen."
+
+**[00:07:27](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-07-12)**
+> "...ted that time by the owner of Dairy Queen."
+
+**[00:08:29](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-08-29)**
+> "...ething had to be off with the Dairy Queen timing because if Tyler Robinson was going to mak..."
+
+**[00:10:52](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-10-32)**
+> "...at thereafter he just went to Dairy Queen to pick up lunch."
+
+**[00:14:16](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-14-16)**
+> "...er Robinson's sneakers in the Dairy Queen photo don't appear to me to be converses. Again, ..."
+
+**[00:14:43](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-14-16)**
+> "...Tyler (Tyler Robinson) was at Dairy Queen on September 10th and we would like to revisit th..."
+
+**[00:14:50](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-14-16)**
+> "... direct information regarding Dairy Queen. Perhaps you took the police report. Where is tha..."
+
+**[00:15:18](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-15-18)**
+> "... cemetery, whether it’s about Dairy Queen. It makes a huge difference. Anyway, I wanted to ..."
+
+**[00:15:45](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-15-18)**
+> "...ht on surveillance cameras at Dairy Queen grabbing lunch."
+
+**[00:20:11](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-20-11)**
+> "...binson. And something like my Dairy Queen photo would have made the public go, “Okay,"
+
+**[00:24:34](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-23-59)**
+> "...mpus. You're not going to eat Dairy Queen. You're just going to get out of there."
+
+**[00:26:16](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-25-53)**
+> "...as reminding you that for the Dairy Queen, I really think that I need to sit down, get this..."
+
+**[00:51:42](/episodes/ep-_Sq5RqP27NY.md#ent-org-dairy-queen-t-00-51-42)**
+> "....com. Again, we're revisiting Dairy Queen, we are revisiting the shopping center, and we ar..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:16:19](/episodes/ep-6XfDqKTdFKg.md#ent-org-dairy-queen-t-00-16-13)**
+> "...yler Robinson was seen at the Dairy Queen."
+
+**[00:16:53](/episodes/ep-6XfDqKTdFKg.md#ent-org-dairy-queen-t-00-16-53)**
+> "What's up with the Dairy Queen? I think Tyler Robinson's car was, like I said, u..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -306,7 +368,42 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dairy Queen (3)</strong></summary>
+<summary><strong class="section-title">Statements about Dairy Queen (12)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (8)</summary>
+
+- [00:07:12](/episodes/ep-_Sq5RqP27NY.md#t-00-07-12) (Claim) **Candace Owens**: ["Owens said the Dairy Queen screen grab carried a 6:38 p.m. timestamp, ..."](/statements/statement-b87778e94d84.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:08:29](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29) (Claim) **Candace Owens**: ["Owens said the Panguitch receipt led her team to conclude that somethi..."](/statements/statement-939971f692b7.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Orem, Utah](/entities/gpe-orem-utah.md)
+
+- [00:08:48](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29) (Opinion) **Candace Owens**: ["Owens speculated that the Dairy Queen surveillance clock could have be..."](/statements/statement-2403f689c37c.md)
+
+- [00:09:41](/episodes/ep-_Sq5RqP27NY.md#t-00-09-09) (Opinion) **Candace Owens**: ["Owens suggested that the Dairy Queen camera may have used UTC, which w..."](/statements/statement-69cd7d8cd84d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:10:15](/episodes/ep-_Sq5RqP27NY.md#t-00-09-53) (Accusation) **Candace Owens**: ["Owens speculated that Tyler Robinson could have disposed of clothes in..."](/statements/statement-a95b0f0cea66.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Operation Maroon Boys](/entities/concept-operation-maroon-boys.md)
+
+- [00:14:16](/episodes/ep-_Sq5RqP27NY.md#t-00-14-16) (Opinion) **Candace Owens**: ["Owens said Tyler Robinson’s shoes in the Dairy Queen photo did not app..."](/statements/statement-ad80acb77275.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:14:43](/episodes/ep-_Sq5RqP27NY.md#t-00-14-16) (Claim) **Candace Owens**: ["Owens said Tyler Robinson was at Dairy Queen on September 10th."](/statements/statement-f49e6a0e4a06.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:15:06](/episodes/ep-_Sq5RqP27NY.md#t-00-14-58) (Promise) **Candace Owens**: ["Owens promised to protect the identities of people emailing direct inf..."](/statements/statement-5d850e272b4c.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:16:19](/episodes/ep-6XfDqKTdFKg.md#t-00-16-13) (Claim) **Candace Owens** (via paraphrase): ["Owens says her show reported that Tyler Robinson was seen at Dairy Que..."](/statements/statement-c10a3fc6207c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>

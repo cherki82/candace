@@ -1,6 +1,6 @@
 ---
 title: "Piers Morgan"
-description: "Piers Morgan (People) - 33 mentions"
+description: "Piers Morgan (People) - 34 mentions"
 id: "person-piers-morgan"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35">2025-10-06 · 01:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52">2026-08-17 · 01:11:23</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-piers-morgan-t-00-58-51">2026-09-15 · 00:59:00</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -47,6 +47,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-00-26" style="--pulse-height:88%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 7 mentions" title="2026-08-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-piers-morgan-t-00-34-58" style="--pulse-height:12%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52" style="--pulse-height:25%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-piers-morgan-t-00-58-51" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-00-26) | 7 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-piers-morgan-t-00-34-58) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-piers-morgan-t-00-58-51) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:59:00](/episodes/ep-kn1E0scy9Wc.md#ent-person-piers-morgan-t-00-58-51)**
+> "...i, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defe..."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -278,7 +288,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 </details>
 
 <details>
-<summary>Interviewed (5)</summary>
+<summary>Interviewed (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -318,10 +328,17 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 </details>
 
+- **[John Mappin](/entities/person-john-mappin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -382,6 +399,13 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 </details>
 
+- **[John Mappin](/entities/person-john-mappin.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin.”
+
+</details>
+
 </details>
 
 </details>
@@ -394,6 +418,19 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 - [00:19:46](/episodes/ep-ti5Fxrvegno.md#t-00-19-38) [✓] (Accusation) ["Piers Morgan characterized some of Candace Owens's claims about Erika Kirk and B..."](/statements/statement-dcc527abd862.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Piers Morgan (1)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51) (Claim) **Tony Hill (commenter; identity unverified)** (via read message): ["Tony Hill, a commenter whose identity is unverified, wrote that John M..."](/statements/statement-c617716b18cd.md)
+  - Also about: [John Mappin](/entities/person-john-mappin.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 345 mentions"
+description: "Zionism (Concepts) - 353 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -24,9 +24,9 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-zionism-t-00-28-28">2026-08-31 · 00:28:28</a></strong></div>
-<div><span>Episodes</span><strong>82</strong></div>
-<div><span>Mentions</span><strong>345</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-01-05-28">2026-09-30 · 01:05:37</a></strong></div>
+<div><span>Episodes</span><strong>83</strong></div>
+<div><span>Mentions</span><strong>353</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -119,6 +119,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-zionism-t-00-42-07" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-35-15" style="--pulse-height:43%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-zionism-t-00-28-28" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-29-14" style="--pulse-height:57%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 8 mentions" title="2026-09-30 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -206,6 +207,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-zionism-t-00-42-07) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-35-15) | 6 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-zionism-t-00-28-28) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-29-14) | 8 |
 
 </details>
 </section>
@@ -217,7 +219,36 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (345)</strong></summary>
+<summary><strong class="section-title">Raw mentions (353)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (8 mentions)</summary>
+
+**[00:29:14](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-29-14)**
+> "...ceived mounting pressure from Zionist donors to support the Jewish state, towing the li..."
+
+**[00:40:24](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-40-24)**
+> "... cheating lesbian funded by a Zionist, the deconstruction of Candace."
+
+**[00:41:00](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-41-00)**
+> "And the Zionist who secretly owns her anti-Zionist business. Lot ..."
+
+**[00:41:35](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-41-00)**
+> "...ke some of the now that I'm a Zionist again."
+
+**[00:41:39](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-41-39)**
+> "A secret Zionist. The Zionist behind me they're referring to is my..."
+
+**[00:41:56](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-41-39)**
+> "So he's this he's the Zionist that's behind everything. Ta-da. I actually love ..."
+
+**[01:04:44](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-01-04-44)**
+> "...ing, secretly working for the Zionists. But, um, we'll see what they come up with next w..."
+
+**[01:05:37](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-01-05-28)**
+> "...an't just, we can't make me a Zionist over the weekend. Okay, that does not work. I wan..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>

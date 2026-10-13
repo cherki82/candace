@@ -1,0 +1,27 @@
+---
+title: "Candace Owens defended Macklemore"
+description: "Evidence for the relationship: Candace Owens defended Macklemore"
+relationship_id: "rel-4fc1df803fdf"
+subject: "person-candace-owens"
+predicate: "defended"
+object: "person-macklemore"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Candace Owens](/entities/person-candace-owens) defended [Macklemore](/entities/person-macklemore)
+
+### Evidence (2 mentions)
+
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:42:48](/episodes/ep-kn1E0scy9Wc#t-00-42-48): _And so Macklemore at a recent tour stop, he was opening for Ed Sheeran. He gave a completely unproblematic speech and spoke accurately about the current genocide, the Holocaust that is taking place in Palestine, which should sicken anybody who has a soul. It doesn't matter what you are. You should be sickened. You should look at the photos and be absolutely sickened and know that only Satan's chosen people could do that and feel nothing. But of course, he's in Hollywood. So him making that statement caused a huge problem. I want you to hear what Macklemore actually said. It's important to know what they said so that you can destroy your relationship with the mainstream media who's going to lie about what he said. Take a listen to what he said._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:44:43](/episodes/ep-ms5ChhZegRg#t-00-44-43): _Like, I'm not even a fan of Macklemore. I think it's a kind of annoying and obnoxious every cause that he takes up, but he's always, he's been consistent. ... Actually, that every time he hits the stage, he's bringing up some cause every time he has a microphone, not all of them that I believe in. ... And so Ed Sheeran knew what he was getting into when he offered for Macklemore, who he has been friends with for a long time to open for him. ... And Macklemore did what Macklemore always does. He got on stage. But this time he said free Palestine and an old perv. ... He's a perv. Robert Kraft. ... Kind of, you know, on a technicality got a case dropped against him. Whatever, he's not guilty of anything, be clear. ... Um, but he then says, 'Well, I'm a billionaire, and this is how this works. You're canceled. You can't perform. This is my stadium. I own Gillette Stadium. Tough luck.' Macklemore's canceled._
+
+### Related
+
+- [Candace Owens](/entities/person-candace-owens)
+- [Macklemore](/entities/person-macklemore)

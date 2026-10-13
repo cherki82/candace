@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk"
-description: "Elon Musk (People) - 34 mentions"
+description: "Elon Musk (People) - 35 mentions"
 id: "person-elon-musk"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-58">2025-09-25 · 00:20:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-elon-musk-t-00-29-53">2026-08-31 · 00:30:13</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-elon-musk-t-00-30-44">2026-10-06 · 00:30:55</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,6 +55,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-elon-musk-t-00-22-53" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-elon-musk-t-00-22-29" style="--pulse-height:100%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-elon-musk-t-00-29-53" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-elon-musk-t-00-30-44" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-elon-musk-t-00-22-53) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-elon-musk-t-00-22-29) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-elon-musk-t-00-29-53) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-elon-musk-t-00-30-44) | 1 |
 
 </details>
 </section>
@@ -87,7 +89,15 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:30:55](/episodes/ep-0pSAhaAZz1w.md#ent-person-elon-musk-t-00-30-44)**
+> "...ction night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Do..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -297,6 +307,18 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Endorsed (1)</summary>
 
 - **[Jennica Pounds](/entities/person-jennica-pounds.md)**
@@ -309,7 +331,14 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
+
+</details>
 
 - **[Jennica Pounds](/entities/person-jennica-pounds.md)** endorsed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -323,7 +352,15 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elon Musk (5)</strong></summary>
+<summary><strong class="section-title">Statements about Elon Musk (6)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:30:44](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44) (Claim) **Blake Wynn** (via quoted article): ["Blake Wynn said in a November 2025 Bring the Juice interview that he a..."](/statements/statement-4820d3584592.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

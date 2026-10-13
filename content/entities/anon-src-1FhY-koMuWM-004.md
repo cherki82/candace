@@ -1,6 +1,6 @@
 ---
 title: "Talks with Tiff (commenter; identity unverified)"
-description: "Talks with Tiff (commenter; identity unverified) (Anonymous Sources) - 3 mentions"
+description: "Talks with Tiff (commenter; identity unverified) (Anonymous Sources) - 4 mentions"
 id: "anon-src-1FhY-koMuWM-004"
 type: "ANONYMOUS_SOURCE"
 categories:
@@ -13,9 +13,9 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#t-00-52-56">2026-09-03 · 00:53:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#t-00-52-56">2026-09-03 · 00:53:34</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#t-00-54-10">2026-09-14 · 00:54:42</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,12 +27,14 @@ _Type: Anonymous Sources_
 <p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#t-00-52-56">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1FhY-koMuWM.md#t-00-52-56" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#t-00-54-10" style="--pulse-height:100%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#t-00-54-10) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:54:42](/episodes/ep-O4Zw3bCALjU.md#t-00-54-10)**
+> "Talks with Tiff writes, Candace (Candace Owens), your tribute was beautiful, raw, genuine, pure love. Charlie Kirk finally got the eulogy he deserved, and I believe he found peace knowing that you had his back and would keep fighting for him."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "World War II"
-description: "World War II (Events) - 9 mentions"
+description: "World War II (Events) - 11 mentions"
 id: "event-world-war-ii"
 type: "EVENT"
 aliases:
@@ -22,11 +22,11 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-event-world-war-ii-t-00-28-19">2025-09-19 · 00:28:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44">2026-06-11 · 00:41:05</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-event-world-war-ii-t-00-34-03">2026-09-25 · 00:34:28</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-37-51" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-event-world-war-ii-t-00-24-28" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-event-world-war-ii-t-00-34-03" style="--pulse-height:50%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-37-51) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-event-world-war-ii-t-00-24-28) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-event-world-war-ii-t-00-34-03) | 2 |
 
 </details>
 </section>
@@ -57,7 +59,18 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:34:10](/episodes/ep-_Sq5RqP27NY.md#ent-event-world-war-ii-t-00-34-03)**
+> "...ury long project really since World War Two, making sure that people in the West were constan..."
+
+**[00:34:28](/episodes/ep-_Sq5RqP27NY.md#ent-event-world-war-ii-t-00-34-03)**
+> "...lly realizing that so much of World War II is about establishing this pariah state of Israel..."
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
@@ -121,7 +134,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about World War II (3)</strong></summary>
+<summary><strong class="section-title">Statements about World War II (4)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:34:03](/episodes/ep-_Sq5RqP27NY.md#t-00-34-03) (Accusation) **Candace Owens**: ["Owens alleged a decades-long school-system project, dating back to Wor..."](/statements/statement-58ff6b17f8bb.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [The Holocaust](/entities/event-the-holocaust.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>

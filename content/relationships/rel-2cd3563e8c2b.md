@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Tim Ballard](/entities/person-tim-ballard) interviewed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -25,6 +25,10 @@ object: "person-candace-owens"
 
 - [00:00:06](/episodes/ep-YA1FxrDWNIo#t-00-00-06): _I've actually interviewed him._
 - [00:06:28](/episodes/ep-YA1FxrDWNIo#t-00-06-28): _I've actually interviewed him._
+
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:06:33](/episodes/ep-kn1E0scy9Wc#t-00-06-33): _I did interview Tim Ballard. Erika (Erika Kirk) lived in China and worked with child sex trafficking victims. According to her, we have not been able to locate who she was working with at that time._
 
 ### Related
 

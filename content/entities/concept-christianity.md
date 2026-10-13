@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 292 mentions"
+description: "Christianity (Concepts) - 307 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-24-50">2025-10-07 · 00:24:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#t-00-49-30">2026-09-03 · 00:49:37</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>292</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-christianity-t-01-01-40">2026-10-01 · 01:01:54</a></strong></div>
+<div><span>Episodes</span><strong>82</strong></div>
+<div><span>Mentions</span><strong>307</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -113,6 +113,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-08-13" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christianity-t-00-46-29" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#t-00-49-30" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-christianity-t-00-14-10" style="--pulse-height:11%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-18-41" style="--pulse-height:20%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 7 mentions" title="2026-09-18 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-concept-christianity-t-00-00-00" style="--pulse-height:9%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 3 mentions" title="2026-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-christianity-t-01-01-40" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -196,6 +200,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-08-13) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christianity-t-00-46-29) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-concept-christianity-t-00-14-10) | 4 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-18-41) | 7 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-concept-christianity-t-00-00-00) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-christianity-t-01-01-40) | 1 |
 
 </details>
 </section>
@@ -207,7 +215,72 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (292)</strong></summary>
+<summary><strong class="section-title">Raw mentions (307)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[01:01:54](/episodes/ep-q4m-kGzvwjw.md#ent-concept-christianity-t-01-01-40)**
+> "She just doesn't. And she, this is the nasty operator behind the scenes. And I'm, like I said, so happy that Vanity Fair just saw right through the entire fake Christian grift, which is like, "I don't want to answer your questions, and I'm going to be performative." I also want... Oh, next comment comes from Alina (viewer handle; identity unverified). She writes, "I went from child-free to my husband, and now we are planning our first child because of you. We are donating to PreBorn! to save as many babies as possible."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3 mentions)</summary>
+
+**[00:00:24](/episodes/ep-_2DiIbfy4mU.md#ent-concept-christianity-t-00-00-00)**
+> "...na is going to revolve around Christianity, and our plan is to pretend that you can't even u..."
+
+**[00:26:06](/episodes/ep-_2DiIbfy4mU.md#ent-concept-christianity-t-00-26-06)**
+> "...will not have it. This is not Christianity."
+
+**[00:48:45](/episodes/ep-_2DiIbfy4mU.md#ent-concept-christianity-t-00-48-36)**
+> "...mandated assembly over at the Christian school in Idaho, like no name of it."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (7 mentions)</summary>
+
+**[00:19:11](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-18-41)**
+> "...ts to students at a school, a Christian school in Idaho."
+
+**[00:21:31](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-18-41)**
+> "...ub America Tour stop at Nampa Christian School this morning."
+
+**[00:27:53](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-27-17)**
+> "...someone. Would you call a big Christian donor to the school?"
+
+**[00:36:31](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-36-07)**
+> "...er than Charlie Kirk's doting Christian wife who attended some of his events to encourage..."
+
+**[00:36:57](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-36-50)**
+> "And it was all about Christianity and faith. And she had this Christian-based cloth..."
+
+**[00:44:34](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-44-28)**
+> "...a Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I ..."
+
+**[00:48:32](/episodes/ep-NNiCZk1cuzs.md#ent-concept-christianity-t-00-48-18)**
+> "And I would also argue under Christian precepts other than rebut it and offer a competin..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4 mentions)</summary>
+
+**[00:14:18](/episodes/ep-O4Zw3bCALjU.md#ent-concept-christianity-t-00-14-10)**
+> "...t's also that pouring of faux Christianity, that grift, it's exhausting. They just don't sto..."
+
+**[00:31:19](/episodes/ep-O4Zw3bCALjU.md#ent-concept-christianity-t-00-31-14)**
+> "...one day and saying, hey, this Christianity that I was taught, yeah, they just didn't know."
+
+**[00:33:21](/episodes/ep-O4Zw3bCALjU.md#ent-concept-christianity-t-00-33-21)**
+> "..., okay, which is not it's not Christianity at all."
+
+**[00:34:34](/episodes/ep-O4Zw3bCALjU.md#ent-concept-christianity-t-00-34-34)**
+> "'You're a Christian, don't you believe in miracles? That's what happe..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

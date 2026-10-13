@@ -16,7 +16,7 @@ date: "2025-06-18"
 
 > Candace Owens said Charlie Kirk argued at the White House against expanded U.S. military action in Iran.
 
-## Mentioned In (3 times)
+## Mentioned In (5 times)
 
 ### 1. Halftime Wars: TPUSA vs The NFL | Candace Ep 304
 
@@ -41,3 +41,25 @@ date: "2025-06-18"
 <a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1683s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That is when Charlie goes into the White House. We have confirmed those dates
+
+### 4. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [01:27:47](/episodes/ep-bIuvTKlFeGo.md#t-01-27-17) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=5267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> June 18th and 19th is when Charlie went to the White House and won the debate
+
+> **Date stated in this source:** “June 18th and 19th”
+> **Date review note:** Ep394 gives a June 18-19 range for the White House Iran debate. Retain June 18 from the earlier more precise canonical account, treating June 19 as the end of this source range rather than a second independently established debate.
+
+### 5. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:26:15](/episodes/ep-q4m-kGzvwjw.md#t-00-25-50) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1575s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On the 18th and the 19th, Charlie physically goes into the White House and
+
+> **Date stated in this source:** “On the 18th and the 19th (June 2025)”
+> **Date review note:** This source places Kirk's White House lobbying on June 18 and 19. Keep the existing June 18 start date and record the two-day source range; do not infer the lobbying caused later military decisions.

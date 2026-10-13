@@ -1,6 +1,6 @@
 ---
 title: "Victor Marx"
-description: "Victor Marx (People) - 241 mentions"
+description: "Victor Marx (People) - 243 mentions"
 id: "person-victor-marx"
 type: "PERSON"
 aliases:
@@ -27,12 +27,12 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">2026-04-14 · 00:06:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-victor-marx-t-00-08-09">2026-09-01 · 00:08:09</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>241</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-victor-marx-t-00-39-05">2026-10-08 · 00:39:05</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>243</strong></div>
 <div><span>Statements by</span><strong>55</strong></div>
-<div><span>Statements about</span><strong>96</strong></div>
-<div><span>Relationships</span><strong>75</strong></div>
+<div><span>Statements about</span><strong>98</strong></div>
+<div><span>Relationships</span><strong>77</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -57,6 +57,8 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-26" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 5 mentions" title="2026-08-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-43-56" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-victor-marx-t-00-08-09" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-victor-marx-t-00-07-00" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-victor-marx-t-00-39-05" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +81,8 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-26) | 5 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-victor-marx-t-00-08-09) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-victor-marx-t-00-07-00) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-victor-marx-t-00-39-05) | 1 |
 
 </details>
 </section>
@@ -90,7 +94,23 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (241)</strong></summary>
+<summary><strong class="section-title">Raw mentions (243)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:39:05](/episodes/ep-UAdBEXs7nNc.md#ent-person-victor-marx-t-00-39-05)**
+> "...ding to our timeline, because Victor Marx had already tweeted out that Charlie (Charlie Kir..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:07:00](/episodes/ep-kn1E0scy9Wc.md#ent-person-victor-marx-t-00-07-00)**
+> "...rmy Child Development Center. Victor Marx, obviously, you know, he says that he helps with ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -1289,6 +1309,18 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
+<summary>Operates (1)</summary>
+
+- **[All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:07:00](/episodes/ep-kn1E0scy9Wc.md#t-00-07-00): “that accused of abusing children at the Army Child Development Center. Victor Marx, obviously, you know, he says that he helps with human trafficking, profits from his supplement company go to his child trafficking charity, All Things Possible.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Sibling Of (1)</summary>
 
 - **[Michael Dean Kennedy](/entities/person-michael-dean-kennedy.md)**
@@ -1339,7 +1371,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Referenced By (35)</summary>
+<summary>Referenced By (36)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1573,6 +1605,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:42:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-49): “to speak I did and it was before Charlie (Charlie Kirk) he was a little aggravated that there was another speaker before him because it was a Sunday morning and I knew about Charlie (Charlie Kirk) but never met him and after I spoke he spoke and then we met back in the little makeshift green room and he says I've never heard of you but I'm absolutely encouraged to hear your testimony and what God's done in your life And he wanted me to have his number and stay connected. So we did.”
+
+</details>
+
+- **[All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:07:00](/episodes/ep-kn1E0scy9Wc.md#t-00-07-00): “that accused of abusing children at the Army Child Development Center. Victor Marx, obviously, you know, he says that he helps with human trafficking, profits from his supplement company go to his child trafficking charity, All Things Possible.”
 
 </details>
 
@@ -1830,7 +1869,23 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Victor Marx (96)</strong></summary>
+<summary><strong class="section-title">Statements about Victor Marx (98)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:39:05](/episodes/ep-UAdBEXs7nNc.md#t-00-39-05) (Claim) **Candace Owens**: ["Owens said that according to her timeline McCoy should have arrived ju..."](/statements/statement-ca4a730f8b79.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:07:00](/episodes/ep-kn1E0scy9Wc.md#t-00-07-00) (Claim) **Candace Owens** (via paraphrase): ["Owens said Victor Marx says profits from his supplement company go to ..."](/statements/statement-2ee2ac6f14e3.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3)</summary>

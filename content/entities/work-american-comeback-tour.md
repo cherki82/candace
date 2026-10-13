@@ -1,6 +1,6 @@
 ---
 title: "The American Comeback Tour"
-description: "The American Comeback Tour (Works & Media) - 8 mentions"
+description: "The American Comeback Tour (Works & Media) - 9 mentions"
 id: "work-american-comeback-tour"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Turning Point USA Launches The American Comeback Tour This Spring](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-02-55">2026-04-21 · 00:03:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17">2026-08-18 · 00:10:42</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-work-american-comeback-tour-t-00-19-08">2026-09-30 · 00:19:08</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Turning Point USA Launches The American Comeback Tour This Spring](http
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-02-55" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 4 mentions" title="2026-04-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-work-american-comeback-tour-t-00-02-44" style="--pulse-height:50%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17" style="--pulse-height:50%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-work-american-comeback-tour-t-00-19-08" style="--pulse-height:25%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Turning Point USA Launches The American Comeback Tour This Spring](http
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-02-55) | 4 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-work-american-comeback-tour-t-00-02-44) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-work-american-comeback-tour-t-00-19-08) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Turning Point USA Launches The American Comeback Tour This Spring](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:19:08](/episodes/ep-5TTkMa49qj8.md#ent-work-american-comeback-tour-t-00-19-08)**
+> "... event that they give out, an American Comeback Tour t-shirt."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>

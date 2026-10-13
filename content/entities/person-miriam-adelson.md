@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 28 mentions"
+description: "Miriam Adelson (People) - 29 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:07:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07">2026-07-22 · 00:21:32</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-miriam-adelson-t-00-46-58">2026-10-06 · 00:47:13</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-miriam-adelson-t-00-46-55" style="--pulse-height:33%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07" style="--pulse-height:67%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-miriam-adelson-t-00-46-58" style="--pulse-height:33%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-miriam-adelson-t-00-46-55) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-miriam-adelson-t-00-46-58) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:47:13](/episodes/ep-0pSAhaAZz1w.md#ent-person-miriam-adelson-t-00-46-58)**
+> "We got Miriam Adelson, who purchased the presidency. Congratulations, M..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
@@ -376,7 +386,17 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miriam Adelson (14)</strong></summary>
+<summary><strong class="section-title">Statements about Miriam Adelson (16)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:47:13](/episodes/ep-0pSAhaAZz1w.md#t-00-46-58) (Accusation) **Candace Owens**: ["Owens sarcastically described Miriam Adelson as having “purchased the ..."](/statements/statement-3833253626d5.md)
+
+- [00:47:37](/episodes/ep-0pSAhaAZz1w.md#t-00-47-37) (Opinion) **Candace Owens**: ["Owens guessed that RFK Jr. could not be clipped because pharmaceutical..."](/statements/statement-091cfe9ed430.md)
+  - Also about: [Robert F. Kennedy Jr.](/entities/person-robert-f-kennedy-jr.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>

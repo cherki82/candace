@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 66 mentions"
+description: "Salt Lake City (Places) - 71 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 categories:
@@ -18,12 +18,12 @@ Source: [SLC.gov](https://www.slc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53">2025-09-17 · 00:19:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-salt-lake-city-t-00-32-57">2026-09-08 · 00:32:57</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-salt-lake-city-t-00-02-49">2026-10-08 · 00:02:49</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -60,6 +60,11 @@ Source: [SLC.gov](https://www.slc.gov/)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-salt-lake-city-t-01-07-18" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-12-56" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-salt-lake-city-t-00-32-57" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-gpe-salt-lake-city-t-00-03-57" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-salt-lake-city-t-00-21-40" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-salt-lake-city-t-00-10-54" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-salt-lake-city-t-00-17-23" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-salt-lake-city-t-00-02-49" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +99,11 @@ Source: [SLC.gov](https://www.slc.gov/)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-salt-lake-city-t-01-07-18) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-12-56) | 4 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-salt-lake-city-t-00-32-57) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-gpe-salt-lake-city-t-00-03-57) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-salt-lake-city-t-00-21-40) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-salt-lake-city-t-00-10-54) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-salt-lake-city-t-00-17-23) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-salt-lake-city-t-00-02-49) | 1 |
 
 </details>
 </section>
@@ -105,7 +115,47 @@ Source: [SLC.gov](https://www.slc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:02:49](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-salt-lake-city-t-00-02-49)**
+> "...remember what he was doing in Salt Lake City. Why was Danny Philip—another question I have—why..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:17:47](/episodes/ep-5TTkMa49qj8.md#ent-gpe-salt-lake-city-t-00-17-23)**
+> "... she remembers sitting in her Salt Lake City hotel room."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:11:08](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-salt-lake-city-t-00-10-54)**
+> "...aid that he was doing back in Salt Lake City when he got lost and doesn't remember much else."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:22:14](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-salt-lake-city-t-00-21-40)**
+> "...r and they are based there in Salt Lake City."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:03:57](/episodes/ep-O4Zw3bCALjU.md#ent-gpe-salt-lake-city-t-00-03-57)**
+> "...logy event that took place in Salt Lake City."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -455,7 +505,29 @@ Source: [SLC.gov](https://www.slc.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Location Of (1)</summary>
+
+- **[Utah Internet Crimes Against Children Task Force](/entities/org-utah-icac-task-force.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:21:53](/episodes/ep-kn1E0scy9Wc.md#t-00-21-40): “And the likely answer, I can't be totally certain, but I am certain that the attorney general's office is who controls the ICAC. That's who runs the ICAC, the attorney general's office of Utah, the same attorney general's office that then brought in Lance (Lance Twiggs) for a second statement in April. before then recording the interview. The attorney general's office as who the ICAC works under and they are based there in Salt Lake City.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Utah Internet Crimes Against Children Task Force](/entities/org-utah-icac-task-force.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:21:53](/episodes/ep-kn1E0scy9Wc.md#t-00-21-40): “And the likely answer, I can't be totally certain, but I am certain that the attorney general's office is who controls the ICAC. That's who runs the ICAC, the attorney general's office of Utah, the same attorney general's office that then brought in Lance (Lance Twiggs) for a second statement in April. before then recording the interview. The attorney general's office as who the ICAC works under and they are based there in Salt Lake City.”
+
+</details>
+
+</details>
 
 </details>
 

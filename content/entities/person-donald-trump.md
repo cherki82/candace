@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 993 mentions"
+description: "Donald J. Trump (People) - 1046 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,12 +28,12 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22">2026-09-10 · 00:16:31</a></strong></div>
-<div><span>Episodes</span><strong>135</strong></div>
-<div><span>Mentions</span><strong>993</strong></div>
-<div><span>Statements by</span><strong>35</strong></div>
-<div><span>Statements about</span><strong>243</strong></div>
-<div><span>Relationships</span><strong>157</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49">2026-10-08 · 00:18:15</a></strong></div>
+<div><span>Episodes</span><strong>148</strong></div>
+<div><span>Mentions</span><strong>1,046</strong></div>
+<div><span>Statements by</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>261</strong></div>
+<div><span>Relationships</span><strong>169</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -176,6 +176,19 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-42-25" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-donald-trump-t-00-16-51" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 2 mentions" title="2026-09-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-donald-trump-t-00-37-01" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 3 mentions" title="2026-09-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-donald-trump-t-00-23-31" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-donald-trump-t-00-11-24" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 4 mentions" title="2026-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-donald-trump-t-00-09-11" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-donald-trump-t-00-49-12" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-donald-trump-t-00-00-01" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-donald-trump-t-00-28-19" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-28-39" style="--pulse-height:29%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 14 mentions" title="2026-09-25 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-donald-trump-t-00-59-23" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-24-34" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 12 mentions" title="2026-10-01 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-00-46" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 4 mentions" title="2026-10-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-30-44" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -316,6 +329,19 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-42-25) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-donald-trump-t-00-16-51) | 2 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-donald-trump-t-00-37-01) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-donald-trump-t-00-23-31) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-donald-trump-t-00-11-24) | 4 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-donald-trump-t-00-09-11) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-donald-trump-t-00-49-12) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-donald-trump-t-00-00-01) | 3 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-donald-trump-t-00-28-19) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-28-39) | 14 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-donald-trump-t-00-59-23) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-24-34) | 12 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-00-46) | 4 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-30-44) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49) | 1 |
 
 </details>
 </section>
@@ -327,7 +353,231 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (993)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1046)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:18:15](/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49)**
+> "President Trump (Donald J. Trump) called him instrumental in getting him reelected..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
+
+**[00:30:55](/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-30-44)**
+> "...ounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongsid..."
+
+**[00:31:49](/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-31-28)**
+> "...urrencies that members of the Trump family have promoted."
+
+**[00:45:16](/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-45-08)**
+> "...k Ramaswamy, President Trump (Donald J. Trump), J.D. Vance. And there's something to be said ab..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4 mentions)</summary>
+
+**[00:00:52](/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-00-46)**
+> "...till talking about it, Trump (Donald J. Trump), unfortunately. So welcome back to Candace."
+
+**[00:41:35](/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-41-12)**
+> "..., you're wondering why Trump (Donald J. Trump) doesn't want us to have the Epstein (Jeffrey Eps..."
+
+**[00:43:58](/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-43-58)**
+> "...about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That'..."
+
+**[00:56:36](/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-56-06)**
+> "... (Jeffrey Epstein) Files DJT (Donald J. Trump), and I think. all will tie into the trial of her..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (12 mentions)</summary>
+
+**[00:24:34](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-24-34)**
+> "...s a favor to President Trump (Donald J. Trump). February 26th, Trump (Donald J. Trump) calls Ca..."
+
+**[00:25:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-25-50)**
+> "...bying hard in D.C. for Trump (Donald J. Trump) to get American troops involved in a full scale ..."
+
+**[00:26:03](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-25-50)**
+> "...e of the few voices in Trump (Donald J. Trump)'s ear that is lobbying against American involvem..."
+
+**[00:26:24](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-25-50)**
+> "... some others convinced Trump (Donald J. Trump) to limit action, only partaking in a limited str..."
+
+**[00:28:27](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-28-27)**
+> "President Trump (Donald J. Trump) called Charlie Kirk angrily to scold him about h..."
+
+**[00:29:54](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-29-54)**
+> "...New York Times, Donald Trump (Donald J. Trump)."
+
+**[00:29:59](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-29-54)**
+> "...ually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance ..."
+
+**[00:30:06](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-29-54)**
+> "Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. T..."
+
+**[00:32:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-32-36)**
+> "...ng unverified). Again, Trump (Donald J. Trump) was not present for that meeting."
+
+**[00:36:23](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-36-17)**
+> "...m and who was not, but Trump (Donald J. Trump), David Warrington, and Stanley Woodward are not ..."
+
+**[00:42:28](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-42-02)**
+> "...effrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. ..."
+
+**[00:43:11](/episodes/ep-q4m-kGzvwjw.md#ent-person-donald-trump-t-00-42-48)**
+> "Trump (Donald J. Trump) tweeting, I hope Brigitte (Brigitte Macron) bank..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (14 mentions)</summary>
+
+**[00:29:04](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-28-39)**
+> "...ou that it's your duty to get Trump (Donald Trump)."
+
+**[00:30:01](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-29-24)**
+> "...hat ruined the MAGA movement. Trump (Donald Trump) allowed it to happen. J.D. Vance (..."
+
+**[00:30:16](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-30-07)**
+> "Exact opposite. Trump (Donald Trump) 2.0 is like Turning Point USA 2.0...."
+
+**[00:30:35](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-30-07)**
+> "...as done when I saw how little Trump (Donald Trump) cared about the Charlie Kirk assas..."
+
+**[00:31:04](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-30-46)**
+> "Donald Trump dedicated his life, right? You really you could s..."
+
+**[00:31:26](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-30-46)**
+> "...en he lost his life, the best Trump (Donald Trump) could do was an AI photo of him hu..."
+
+**[00:32:08](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-31-31)**
+> "...I don't, I really don't think Trump (Donald Trump) cares about, forget his supporters..."
+
+**[00:38:10](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-38-10)**
+> "...s, because this is who Donald Trump has given our nation to."
+
+**[00:39:17](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-39-17)**
+> "You did it for the Trump (Donald Trump). You did it for Bibi (Benjamin Net..."
+
+**[00:39:23](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-39-17)**
+> "...iling all of our politicians. Trump (Donald Trump) is protecting the blackmail politi..."
+
+**[00:48:32](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-48-19)**
+> "...'s Day, he said it's time for Trump (Donald Trump) to go. He only cares about Israel ..."
+
+**[00:48:40](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-48-19)**
+> "...mericans care about more than Trump (Donald Trump). And yeah, that is it. That was ki..."
+
+**[00:51:58](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-51-42)**
+> "...PR sharing that POTUS (Donald Trump) told him he was right about the Iran war and tha..."
+
+**[00:52:08](/episodes/ep-_Sq5RqP27NY.md#ent-person-donald-trump-t-00-51-42)**
+> "...on) recounts the meeting with Trump (Donald Trump) in which he says Trump (Donald Tru..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (4 mentions)</summary>
+
+**[00:59:23](/episodes/ep-bIuvTKlFeGo.md#ent-person-donald-trump-t-00-59-23)**
+> "... York Times, President Trump (Donald J. Trump) calls Charlie (Charlie Kirk) angry and scolds hi..."
+
+**[01:01:20](/episodes/ep-bIuvTKlFeGo.md#ent-person-donald-trump-t-01-00-59)**
+> "Like I said, President Trump (Donald J. Trump) is in the call. OK, he says on his show he's goi..."
+
+**[01:18:49](/episodes/ep-bIuvTKlFeGo.md#ent-person-donald-trump-t-01-18-30)**
+> "...ty of President Donald Trump (Donald J. Trump)."
+
+**[01:27:56](/episodes/ep-bIuvTKlFeGo.md#ent-person-donald-trump-t-01-27-56)**
+> "...ight Hammer, which was Trump (Donald J. Trump) agreed to do to bomb Fordow and nuclear sites."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:28:19](/episodes/ep-_2DiIbfy4mU.md#ent-person-donald-trump-t-00-28-19)**
+> "...ll of the downsides of Donald Trump killing pedophiles in the Middle East?"
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3 mentions)</summary>
+
+**[00:00:15](/episodes/ep-6XfDqKTdFKg.md#ent-person-donald-trump-t-00-00-01)**
+> "... now. Sorry, guys. Welcome to Trump's America. Unfortunately, it'd just be like that, y..."
+
+**[00:43:28](/episodes/ep-6XfDqKTdFKg.md#ent-person-donald-trump-t-00-43-28)**
+> "... attacking and demanding that Trump reject and he's been getting on your knees and no..."
+
+**[00:43:53](/episodes/ep-6XfDqKTdFKg.md#ent-person-donald-trump-t-00-43-28)**
+> "...s get down there and vote for Trump."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:49:41](/episodes/ep-BvthGQw3_s0.md#ent-person-donald-trump-t-00-49-12)**
+> "..., what would President Trump (Donald J. Trump), what would Charlie Kirk have said about your Ca..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[00:09:11](/episodes/ep-NNiCZk1cuzs.md#ent-person-donald-trump-t-00-09-11)**
+> "...ed at his home because Trump (Donald J. Trump) survived Butler."
+
+**[01:04:37](/episodes/ep-NNiCZk1cuzs.md#ent-person-donald-trump-t-01-04-02)**
+> "...er than the photo that Trump (Donald J. Trump) shared of me. I wasn't looking my hottest. I'm n..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (4 mentions)</summary>
+
+**[00:11:24](/episodes/ep-aLJhpxrakCU.md#ent-person-donald-trump-t-00-11-24)**
+> "... this campus, okay? If Donald Trump, as an example, decides that he wants to speak at..."
+
+**[00:14:41](/episodes/ep-aLJhpxrakCU.md#ent-person-donald-trump-t-00-14-15)**
+> "...idn't you know that President Trump (Donald Trump), there was a rooftop sniper?"
+
+**[00:41:22](/episodes/ep-aLJhpxrakCU.md#ent-person-donald-trump-t-00-41-17)**
+> "... (Charlie Kirk)'s birthday or Trump (Donald Trump) did something there."
+
+**[01:00:51](/episodes/ep-aLJhpxrakCU.md#ent-person-donald-trump-t-01-00-51)**
+> "...nd Senate and take power from Trump (Donald Trump)? Crisis can go max [phrase uncerta..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:23:53](/episodes/ep-kn1E0scy9Wc.md#ent-person-donald-trump-t-00-23-31)**
+> "... that we've looked at, Trump (Donald J. Trump)'s phone call yelling at him for speaking about t..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3 mentions)</summary>
+
+**[00:37:01](/episodes/ep-O4Zw3bCALjU.md#ent-person-donald-trump-t-00-37-01)**
+> "...nd make sure that we vote for Trump (Donald Trump)."
+
+**[00:37:13](/episodes/ep-O4Zw3bCALjU.md#ent-person-donald-trump-t-00-37-01)**
+> "...e to stand up and depart from Trump (Donald Trump) when it feels like we are being li..."
+
+**[00:43:17](/episodes/ep-O4Zw3bCALjU.md#ent-person-donald-trump-t-00-43-06)**
+> "...t keep doing stuff for Donald Trump somehow."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (2 mentions)</summary>
@@ -4046,7 +4296,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Appeared With (9)</summary>
+<summary>Appeared With (10)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4112,6 +4362,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:36](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “Well, yeah, this person pointed to me on X that actually Trump (Donald J. Trump) told the truth. Trump (Donald J. Trump) went on Fox and Friends in the immediate aftermath of Tyler Robinson being arrested and explained to the public exactly what we have been saying that Mike Mitchell.”
+
+</details>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -4260,9 +4517,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:16:27](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27): “And on July 12th, Charlie (Charlie Kirk) received a phone call from the president. ... Trump (Donald Trump) had called Kirk and scolded him.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23): “According to the New York Times, President Trump (Donald J. Trump) calls Charlie (Charlie Kirk) angry and scolds him about his event the day before and that he had turned sass into an Epstein (Jeffrey Epstein) grievance fest.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:27](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27): “President Trump (Donald J. Trump) called Charlie Kirk angrily to scold him about his events, told him about his events, claims it was an Epstein (Jeffrey Epstein) grievance fest. On July 14th, Charlie Kirk announces on his show that he's going to stop covering the Epstein (Jeffrey Epstein) story, and he trusts his friends in the administration. He is clear that he was intentional, though, about speaking about Epstein (Jeffrey Epstein) at SAS. He wanted to go max. On July 14th, for whatever it's worth, Erika Kirk travels aboard a private flight to Long Beach, California.”
 
 </details>
 
@@ -4300,7 +4559,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4331,6 +4590,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 01:02:35](/episodes/ep-LATnak75Si0.md#t-01-02-35): “And so I feel let down—obviously—by Trump (Donald Trump), but it pales in comparison to how I feel about the entire Trump (Donald Trump) family”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:50:41](/episodes/ep-pc3pxRyNFZk.md#t-00-50-41): “Trump (Donald Trump) wants a Nobel Peace Prize, by the way, for the planned ethnic cleansing so that they could profit on the land and turn it into a beach town.”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:53:07](/episodes/ep-sreYYcID-QY.md#t-00-52-52): “Donald Trump is controlled by Zionists, so they're baiting me here.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:32:08](/episodes/ep-_Sq5RqP27NY.md#t-00-31-31): “lives. I don't, I really don't think Trump (Donald Trump) cares about, forget his supporters, he didn't care about Charlie Kirk.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:18:49](/episodes/ep-bIuvTKlFeGo.md#t-01-18-30): “I am just so sickened by how much power and how much money is behind this. How much power and how much money and the audacity of President Donald Trump (Donald J. Trump). ... who Charlie (Charlie Kirk) did so much for, so close to.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 
 </details>
 
@@ -4376,6 +4639,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:34](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23): “And now it's widely reported that on Truth Social, that's the job of Natalie Harp. Trump is not using AI to doctor that.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Alex Clark](/entities/person-alex-clark.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:36:16](/episodes/ep-O4Zw3bCALjU.md#t-00-36-16): “Evangelical and Judeo-hyphen-Christian. We remember. The internet remembers how this all started. You have never been on my radar. I don't find you to be interesting. It's very obvious to me you're a mean girl, and you have since dedicated your time to trying to host all of these experts to come speak about me on your show. We've largely ignored it because it's irrelevant to what we're trying to do, which is to figure out what happened to Charlie Kirk on that day. So I forgive you, Alex (Alex Clark), for being increasingly irrelevant. I'm sorry that... Sorry that the podcast didn't launch off of Charlie (Charlie Kirk)'s death. And we will continue to ignore you into the future because you have nothing to offer other than just like the rest of you hoping that you can somehow become famous off of Charlie (Charlie Kirk)'s death. You don't care about what happened to Charlie (Charlie Kirk). You don't even care to offer up a meaningful memorial one year after he passed. Because all you care about is like, you know, the boots and standing in front of his grave and talking about MAGA, MAGA, MAGA and how people all need to rally around and make sure that we vote for Trump (Donald Trump). Ridiculous. You don't have the courage to stand up to the deep state. You don't have the courage to stand up and depart from Trump (Donald Trump) when it feels like we are being lied to.”
 
 </details>
 
@@ -4429,7 +4704,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Friend Of (3)</summary>
+<summary>Friend Of (5)</summary>
 
 - **[Giorgia Meloni](/entities/person-giorgia-meloni.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4452,6 +4727,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:51:32](/episodes/ep-kaWtDuoY_ns.md#t-00-51-22): “You should speak to your friend, Roger Stone, about her suicidal attempts and the things that she says and the things that she does”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:35:16](/episodes/ep-_2DiIbfy4mU.md#t-00-34-49): “You have zero respect for Charlie (Charlie Kirk) or your children, by the way, or his legacy to give that footage that what should be precious footage, OK, precious footage to an Internet troll. A chain-smoking internet troll and his trash wife for the purposes of trolling the internet only to confuse matters. This is not a debunk of anything, nothing at all. And you don't need to, if you want to debunk things, go to this man. You can go to Tucker Carlson. He's your friend. You could go to Megyn Kelly. She's your friend. You could go to the Daily Mail. You've proven they're your friend. You could go to Kash Patel. You could have the president of the United States who's your friend. publish it onto the White House Twitter feed.”
+
+</details>
+
+- **[Steve Witkoff](/entities/person-steve-witkoff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -4487,7 +4776,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Met With (5)</summary>
+<summary>Met With (6)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -4522,6 +4811,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:12:02](/episodes/ep-sImMM04XdWY.md#t-00-11-35): “On the same day, February 24th—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:52:08](/episodes/ep-_Sq5RqP27NY.md#t-00-51-42): “What? Okay, producer has a note via NPR. Carlson (Tucker Carlson) recounts the meeting with Trump (Donald Trump) in which he says Trump (Donald Trump) dismissed his concerns about the Iran war by saying we're all going to die anyway.”
 
 </details>
 
@@ -4657,12 +4953,21 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09): “A lot of the human trafficking themes, the phone call that Trump (Donald J. Trump) made to Charlie (Charlie Kirk) in July telling him to stop speaking about the Epstein (Jeffrey Epstein) files.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23): “According to the New York Times, President Trump (Donald J. Trump) calls Charlie (Charlie Kirk) angry and scolds him about his event the day before and that he had turned sass into an Epstein (Jeffrey Epstein) grievance fest.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:27](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27): “President Trump (Donald J. Trump) called Charlie Kirk angrily to scold him about his events, told him about his events, claims it was an Epstein (Jeffrey Epstein) grievance fest. On July 14th, Charlie Kirk announces on his show that he's going to stop covering the Epstein (Jeffrey Epstein) story, and he trusts his friends in the administration. He is clear that he was intentional, though, about speaking about Epstein (Jeffrey Epstein) at SAS. He wanted to go max. On July 14th, for whatever it's worth, Erika Kirk travels aboard a private flight to Long Beach, California.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:24:34](/episodes/ep-q4m-kGzvwjw.md#t-00-24-34): “Calls Candace (Candace Owens) and asks her to stop discussing Brigitte Macron as a favor to President Trump (Donald J. Trump). February 26th, Trump (Donald J. Trump) calls Candace (Candace Owens) and asks her to stop speaking about Brigitte Macron.”
 
 </details>
 
@@ -4772,7 +5077,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (78)</summary>
+<summary>Referenced By (84)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4889,6 +5194,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Blake Wynn](/entities/person-blake-wynn.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
+
+</details>
+
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -4977,7 +5289,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -5008,6 +5320,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 01:02:35](/episodes/ep-LATnak75Si0.md#t-01-02-35): “And so I feel let down—obviously—by Trump (Donald Trump), but it pales in comparison to how I feel about the entire Trump (Donald Trump) family”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:50:41](/episodes/ep-pc3pxRyNFZk.md#t-00-50-41): “Trump (Donald Trump) wants a Nobel Peace Prize, by the way, for the planned ethnic cleansing so that they could profit on the land and turn it into a beach town.”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:53:07](/episodes/ep-sreYYcID-QY.md#t-00-52-52): “Donald Trump is controlled by Zionists, so they're baiting me here.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:32:08](/episodes/ep-_Sq5RqP27NY.md#t-00-31-31): “lives. I don't, I really don't think Trump (Donald Trump) cares about, forget his supporters, he didn't care about Charlie Kirk.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:18:49](/episodes/ep-bIuvTKlFeGo.md#t-01-18-30): “I am just so sickened by how much power and how much money is behind this. How much power and how much money and the audacity of President Donald Trump (Donald J. Trump). ... who Charlie (Charlie Kirk) did so much for, so close to.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 
 </details>
 
@@ -5107,9 +5423,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:16:27](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27): “And on July 12th, Charlie (Charlie Kirk) received a phone call from the president. ... Trump (Donald Trump) had called Kirk and scolded him.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23): “According to the New York Times, President Trump (Donald J. Trump) calls Charlie (Charlie Kirk) angry and scolds him about his event the day before and that he had turned sass into an Epstein (Jeffrey Epstein) grievance fest.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:27](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27): “President Trump (Donald J. Trump) called Charlie Kirk angrily to scold him about his events, told him about his events, claims it was an Epstein (Jeffrey Epstein) grievance fest. On July 14th, Charlie Kirk announces on his show that he's going to stop covering the Epstein (Jeffrey Epstein) story, and he trusts his friends in the administration. He is clear that he was intentional, though, about speaking about Epstein (Jeffrey Epstein) at SAS. He wanted to go max. On July 14th, for whatever it's worth, Erika Kirk travels aboard a private flight to Long Beach, California.”
 
 </details>
 
@@ -5138,6 +5456,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
+
+</details>
+
+- **[Alex Clark](/entities/person-alex-clark.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:36:16](/episodes/ep-O4Zw3bCALjU.md#t-00-36-16): “Evangelical and Judeo-hyphen-Christian. We remember. The internet remembers how this all started. You have never been on my radar. I don't find you to be interesting. It's very obvious to me you're a mean girl, and you have since dedicated your time to trying to host all of these experts to come speak about me on your show. We've largely ignored it because it's irrelevant to what we're trying to do, which is to figure out what happened to Charlie Kirk on that day. So I forgive you, Alex (Alex Clark), for being increasingly irrelevant. I'm sorry that... Sorry that the podcast didn't launch off of Charlie (Charlie Kirk)'s death. And we will continue to ignore you into the future because you have nothing to offer other than just like the rest of you hoping that you can somehow become famous off of Charlie (Charlie Kirk)'s death. You don't care about what happened to Charlie (Charlie Kirk). You don't even care to offer up a meaningful memorial one year after he passed. Because all you care about is like, you know, the boots and standing in front of his grave and talking about MAGA, MAGA, MAGA and how people all need to rally around and make sure that we vote for Trump (Donald Trump). Ridiculous. You don't have the courage to stand up to the deep state. You don't have the courage to stand up and depart from Trump (Donald Trump) when it feels like we are being lied to.”
 
 </details>
 
@@ -5199,6 +5524,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:51:32](/episodes/ep-kaWtDuoY_ns.md#t-00-51-22): “You should speak to your friend, Roger Stone, about her suicidal attempts and the things that she says and the things that she does”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:35:16](/episodes/ep-_2DiIbfy4mU.md#t-00-34-49): “You have zero respect for Charlie (Charlie Kirk) or your children, by the way, or his legacy to give that footage that what should be precious footage, OK, precious footage to an Internet troll. A chain-smoking internet troll and his trash wife for the purposes of trolling the internet only to confuse matters. This is not a debunk of anything, nothing at all. And you don't need to, if you want to debunk things, go to this man. You can go to Tucker Carlson. He's your friend. You could go to Megyn Kelly. She's your friend. You could go to the Daily Mail. You've proven they're your friend. You could go to Kash Patel. You could have the president of the United States who's your friend. publish it onto the White House Twitter feed.”
+
+</details>
+
+- **[Steve Witkoff](/entities/person-steve-witkoff.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -5268,6 +5607,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:52:08](/episodes/ep-_Sq5RqP27NY.md#t-00-51-42): “What? Okay, producer has a note via NPR. Carlson (Tucker Carlson) recounts the meeting with Trump (Donald Trump) in which he says Trump (Donald Trump) dismissed his concerns about the Iran war by saying we're all going to die anyway.”
+
+</details>
+
 - **[Miss America](/entities/org-miss-america.md)** owned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -5317,9 +5663,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09): “A lot of the human trafficking themes, the phone call that Trump (Donald J. Trump) made to Charlie (Charlie Kirk) in July telling him to stop speaking about the Epstein (Jeffrey Epstein) files.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23): “According to the New York Times, President Trump (Donald J. Trump) calls Charlie (Charlie Kirk) angry and scolds him about his event the day before and that he had turned sass into an Epstein (Jeffrey Epstein) grievance fest.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:27](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27): “President Trump (Donald J. Trump) called Charlie Kirk angrily to scold him about his events, told him about his events, claims it was an Epstein (Jeffrey Epstein) grievance fest. On July 14th, Charlie Kirk announces on his show that he's going to stop covering the Epstein (Jeffrey Epstein) story, and he trusts his friends in the administration. He is clear that he was intentional, though, about speaking about Epstein (Jeffrey Epstein) at SAS. He wanted to go max. On July 14th, for whatever it's worth, Erika Kirk travels aboard a private flight to Long Beach, California.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:24:34](/episodes/ep-q4m-kGzvwjw.md#t-00-24-34): “Calls Candace (Candace Owens) and asks her to stop discussing Brigitte Macron as a favor to President Trump (Donald J. Trump). February 26th, Trump (Donald J. Trump) calls Candace (Candace Owens) and asks her to stop speaking about Brigitte Macron.”
 
 </details>
 
@@ -5406,7 +5761,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Donald J. Trump (35)</strong></summary>
+<summary><strong class="section-title">Statements by Donald J. Trump (36)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:52:08](/episodes/ep-_Sq5RqP27NY.md#t-00-51-42) [○] (Opinion) ["According to Tucker Carlson’s recollection reported via NPR and read by Owens, T..."](/statements/statement-e20b1d9756ad.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
@@ -5603,7 +5966,89 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (243)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (261)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:30:44](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44) (Claim) **Blake Wynn** (via quoted article): ["Blake Wynn said in a November 2025 Bring the Juice interview that he a..."](/statements/statement-4820d3584592.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:41:35](/episodes/ep-ms5ChhZegRg.md#t-00-41-12) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Howard Lutnick initially said he never visited Epstein’s..."](/statements/statement-6a0f9ecfcca9.md)
+  - Also about: [Howard Lutnick](/entities/person-howard-lutnick.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5)</summary>
+
+- [00:24:28](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49) (Claim) **Candace Owens**: ["Owens said Sergio Gor called her February 25 asking her to stop discus..."](/statements/statement-6e938e7bc402.md)
+  - Also about: [Sergio Gor](/entities/person-sergio-gor.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:25:50](/episodes/ep-q4m-kGzvwjw.md#t-00-25-50) (Claim) **Candace Owens**: ["Owens said Charlie Kirk lobbied against U.S. involvement in the Iran w..."](/statements/statement-5b8452cd7881.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+- [00:29:54](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54) (Citation) **Candace Owens**: ["Citing the New York Times, Owens corrected her timeline: Trump was abs..."](/statements/statement-bc512b895e2b.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [JD Vance](/entities/person-jd-vance.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:32:20](/episodes/ep-q4m-kGzvwjw.md#t-00-31-51) (Claim) **Candace Owens**: ["Owens said another Epstein Situation Room meeting took place the day a..."](/statements/statement-592ea9e6759f.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [U.S. House Committee on Oversight and Government Reform](/entities/org-us-house-committee-on-oversight-and-government-reform.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:35:37](/episodes/ep-q4m-kGzvwjw.md#t-00-35-37) (Citation) **Candace Owens**: ["Owens said an August 13 follow-up Epstein meeting included JD Vance by..."](/statements/statement-6ad1bef9c637.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [David Warrington](/entities/person-david-warrington.md), [Stanley Woodward](/entities/person-stanley-woodward.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (8)</summary>
+
+- [00:30:01](/episodes/ep-_Sq5RqP27NY.md#t-00-29-24) (Opinion) **Candace Owens**: ["Owens said pro-Israel neoconservatives ruined the MAGA movement and th..."](/statements/statement-4e2cfc8e1e53.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md), [Neoconservatism](/entities/concept-neoconservatism.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:32:08](/episodes/ep-_Sq5RqP27NY.md#t-00-31-31) (Opinion) **Candace Owens**: ["Owens said she did not think Donald Trump cared about his supporters o..."](/statements/statement-fe54750f0cc9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:10](/episodes/ep-_Sq5RqP27NY.md#t-00-38-10) (Accusation) **Candace Owens**: ["Owens said Donald Trump had given the United States to Benjamin Netany..."](/statements/statement-94473fab0550.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [United States](/entities/gpe-united-states.md)
+
+- [00:39:17](/episodes/ep-_Sq5RqP27NY.md#t-00-39-17) (Opinion) **Candace Owens**: ["Owens urged viewers not to have their children sign up for the militar..."](/statements/statement-aa1996d882c8.md)
+  - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:39:23](/episodes/ep-_Sq5RqP27NY.md#t-00-39-17) (Accusation) **Candace Owens**: ["Owens alleged that Netanyahu was blackmailing all US politicians and t..."](/statements/statement-a794f49df98e.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:39:40](/episodes/ep-_Sq5RqP27NY.md#t-00-39-17) (Opinion) **Candace Owens**: ["Owens said viewers had no duty to vote in the midterms and that Trump ..."](/statements/statement-54435e33a191.md)
+
+- [00:39:55](/episodes/ep-_Sq5RqP27NY.md#t-00-39-17) (Opinion) **Candace Owens**: ["Owens predicted that Donald Trump’s legacy would be one of cowardice."](/statements/statement-2aff0fab8394.md)
+
+- [00:52:20](/episodes/ep-_Sq5RqP27NY.md#t-00-52-20) (Accusation) **Candace Owens**: ["Owens alleged that Israel blackmailed Donald Trump into his actions."](/statements/statement-5876ad938226.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>
+
+- [00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23) (Citation) **Candace Owens**: ["Citing the New York Times, Owens said President Trump called Charlie K..."](/statements/statement-e8388a4e8994.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [01:27:56](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56) (Claim) **Candace Owens**: ["Owens said Trump agreed to Operation Midnight Hammer to bomb Fordow an..."](/statements/statement-a55adf21fd09.md)
+  - Also about: [Operation Midnight Hammer](/entities/event-operation-midnight-hammer.md), [Fordow](/entities/gpe-fordow.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:23:53](/episodes/ep-kn1E0scy9Wc.md#t-00-23-31) (Accusation) **Candace Owens**: ["Owens said she believes the Epstein network is a plausible motive for ..."](/statements/statement-5c93fc0d65b8.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1)</summary>

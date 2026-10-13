@@ -1,6 +1,6 @@
 ---
 title: "Omaha"
-description: "Omaha (Places) - 15 mentions"
+description: "Omaha (Places) - 20 mentions"
 id: "gpe-omaha"
 type: "GPE"
 categories:
@@ -18,13 +18,13 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-omaha-t-00-20-27">2025-10-31 · 00:20:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-omaha-t-00-25-38">2026-07-23 · 00:26:03</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-omaha-t-00-37-39">2026-10-01 · 00:37:51</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -39,6 +39,8 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-omaha-t-00-31-55" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-omaha-t-00-46-14" style="--pulse-height:40%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-omaha-t-00-20-28" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-omaha-t-01-02-14" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-omaha-t-00-31-09" style="--pulse-height:60%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,14 +54,45 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-omaha-t-00-31-55) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-omaha-t-00-46-14) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-omaha-t-00-20-28) | 5 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-omaha-t-01-02-14) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-omaha-t-00-31-09) | 3 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:31:21](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-omaha-t-00-31-09)**
+> "...m Cairo through to Paris onto Omaha, Nebraska, and then onward to Lincoln, Nebraska."
+
+**[00:37:39](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-omaha-t-00-37-39)**
+> "...braska, and they also were in Omaha. And strangely enough, Kash Patel goes to Omaha. ..."
+
+**[00:37:51](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-omaha-t-00-37-39)**
+> "...wanting to know why he was in Omaha. We wanted to know who was aboard the plane with ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:02:28](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-omaha-t-01-02-14)**
+> "...gyptian planes that come into Omaha, Nebraska, and then head to Lincoln, Nebraska."
+
+**[01:06:07](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-omaha-t-01-05-42)**
+> "...19th is Kash Patel visits the Omaha, Nebraska field office. I wonder how often he doe..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (5 mentions)</summary>
@@ -172,6 +205,33 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:20:49](/episodes/ep-amqTMimDr0A.md#t-00-20-28): “What we can confirm about Gary Javitch is that he has spent the last few decades of his life, he's older, in his 70s, mid-70s, in Omaha, Nebraska, of all places, right?”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Omaha (4)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:31:21](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09) (Claim) **Candace Owens**: ["Owens said an Egyptian plane flew July 20 from Cairo through Paris to ..."](/statements/statement-b0b4d3424269.md)
+  - Also about: [Cairo](/entities/gpe-cairo.md), [Paris](/entities/gpe-paris.md), [Lincoln](/entities/gpe-lincoln.md)
+
+- [00:37:32](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01) (Claim) **Candace Owens**: ["Owens said Egyptian planes were in Lincoln and Omaha August 17 and Kas..."](/statements/statement-c3e34ed8e140.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Lincoln](/entities/gpe-lincoln.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>
+
+- [01:02:28](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14) (Claim) **Candace Owens**: ["Owens said Egyptian planes arrived in Omaha and then Lincoln, and that..."](/statements/statement-21110b5888cf.md)
+  - Also about: [Lincoln](/entities/gpe-lincoln.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [01:06:07](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42) (Citation) **Candace Owens**: ["Owens said Kash Patel visited the Omaha field office August 19th and h..."](/statements/statement-2953f1d069c4.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
 
 </details>
 

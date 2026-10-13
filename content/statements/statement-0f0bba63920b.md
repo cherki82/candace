@@ -28,7 +28,7 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
@@ -45,6 +45,14 @@ veracity: "true"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. ... Charlie (Charlie Kirk) was hit. We need everyone to pray right now.
+
+### 3. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.
 
 ## Verification
 

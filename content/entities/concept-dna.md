@@ -1,6 +1,6 @@
 ---
 title: "Deoxyribonucleic acid"
-description: "Deoxyribonucleic acid (Concepts) - 111 mentions"
+description: "Deoxyribonucleic acid (Concepts) - 115 mentions"
 id: "concept-dna"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-dna-t-00-06-50">2025-09-16 · 00:07:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00">2026-08-19 · 00:19:08</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>111</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-dna-t-00-24-39">2026-09-25 · 00:24:56</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>115</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -57,6 +57,8 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-18-46" style="--pulse-height:88%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 23 mentions" title="2026-08-14 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-dna-t-00-24-13" style="--pulse-height:12%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-concept-dna-t-00-11-19" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-dna-t-00-24-39" style="--pulse-height:12%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +86,8 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-18-46) | 23 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-dna-t-00-24-13) | 3 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-concept-dna-t-00-11-19) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-dna-t-00-24-39) | 3 |
 
 </details>
 </section>
@@ -95,7 +99,29 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (111)</strong></summary>
+<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:24:39](/episodes/ep-_Sq5RqP27NY.md#ent-concept-dna-t-00-24-39)**
+> "...t like I got to get rid of my DNA in my own car."
+
+**[00:24:52](/episodes/ep-_Sq5RqP27NY.md#ent-concept-dna-t-00-24-39)**
+> "...sed the towel to wipe off his DNA?"
+
+**[00:24:56](/episodes/ep-_Sq5RqP27NY.md#ent-concept-dna-t-00-24-39)**
+> "He used his DNA, his home towel to wipe off his DNA? That doesn't..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:11:19](/episodes/ep-kn1E0scy9Wc.md#ent-concept-dna-t-00-11-19)**
+> "...us that it's Tyler Robinson's DNA."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -550,7 +576,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Deoxyribonucleic acid (19)</strong></summary>
+<summary><strong class="section-title">Statements about Deoxyribonucleic acid (20)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:24:56](/episodes/ep-_Sq5RqP27NY.md#t-00-24-39) (Accusation) **Candace Owens**: ["Owens argued that using a home towel to wipe off DNA made no sense and..."](/statements/statement-bfd1695611b1.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "George Zinn"
-description: "George Zinn (People) - 69 mentions"
+description: "George Zinn (People) - 76 mentions"
 id: "person-george-zinn"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44">2025-09-15 · 00:44:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-27-20">2026-08-10 · 00:27:37</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-16-49">2026-09-15 · 00:16:59</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -60,6 +60,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-george-zinn-t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-george-zinn-t-00-02-09" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-23-09" style="--pulse-height:33%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 5 mentions" title="2026-08-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-05-06" style="--pulse-height:47%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 7 mentions" title="2026-09-15 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +90,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-george-zinn-t-00-03-59) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-george-zinn-t-00-02-09) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-23-09) | 5 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-05-06) | 7 |
 
 </details>
 </section>
@@ -100,7 +102,33 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (7 mentions)</summary>
+
+**[00:05:35](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-05-06)**
+> "...ot represent the church. Now, George Zinn, of course, was arrested for having pornographic ..."
+
+**[00:11:56](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-11-56)**
+> "...ur our decoy boy, number one, George Zinn, who created a distraction by shouting, I did it...."
+
+**[00:13:29](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-13-20)**
+> "...ix search warrants, including George Zinn's search warrant. We'll talk about George Zinn in j..."
+
+**[00:14:35](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-13-59)**
+> "...search warrants, including on George Zinn."
+
+**[00:15:58](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-15-32)**
+> "George (George Zinn), Tyler Robinson's phone, the Google server that ..."
+
+**[00:16:06](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-16-06)**
+> "...f on that. He files for that. George Zinn's phone, Charlie (Charlie Kirk)'s belongings at Tim..."
+
+**[00:16:59](/episodes/ep-kn1E0scy9Wc.md#ent-person-george-zinn-t-00-16-49)**
+> "...e they're working. Obviously, George Zinn being the exception here as."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (5 mentions)</summary>
@@ -459,7 +487,19 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Investigated By (1)</summary>
+
+- **[Michael George Carle](/entities/person-michael-george-carle.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:13:20](/episodes/ep-kn1E0scy9Wc.md#t-00-13-20): “Michael George Carl (detective; surname spelling unverified, also transcribed Kral) signed the six first search warrants in this case. Michael George Carl (detective; surname spelling unverified, also transcribed Kral), he's a police officer. He signed the first six search warrants, including George Zinn's search warrant. We'll talk about George Zinn in just a second.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -472,6 +512,13 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-03-13): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
+
+</details>
+
+- **[Michael George Carle](/entities/person-michael-george-carle.md)** investigated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:13:20](/episodes/ep-kn1E0scy9Wc.md#t-00-13-20): “Michael George Carl (detective; surname spelling unverified, also transcribed Kral) signed the six first search warrants in this case. Michael George Carl (detective; surname spelling unverified, also transcribed Kral), he's a police officer. He signed the first six search warrants, including George Zinn's search warrant. We'll talk about George Zinn in just a second.”
 
 </details>
 
@@ -493,7 +540,23 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (22)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (26)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (4)</summary>
+
+- [00:11:56](/episodes/ep-kn1E0scy9Wc.md#t-00-11-56) (Accusation) **Candace Owens**: ["Owens said George Zinn shouted 'I did it' after the explosion, was arr..."](/statements/statement-cca9da6330cc.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md)
+
+- [00:12:21](/episodes/ep-kn1E0scy9Wc.md#t-00-12-21) (Accusation) **Candace Owens**: ["Owens said the George Zinn incident leads people to wonder whether he ..."](/statements/statement-eddfbe367a35.md)
+
+- [00:13:20](/episodes/ep-kn1E0scy9Wc.md#t-00-13-20) (Claim) **Baron Coleman** (via quoted speech): ["Baron Coleman said Michael George Carl, the detective identified in th..."](/statements/statement-2aaebe1e9498.md)
+  - Also about: [Michael George Carle](/entities/person-michael-george-carle.md)
+
+- [00:15:48](/episodes/ep-kn1E0scy9Wc.md#t-00-15-32) (Claim) **Candace Owens**: ["Owens said Michael George Carl's warrants concerned Tyler Robinson's p..."](/statements/statement-fd6177737d0c.md)
+  - Also about: [Michael George Carle](/entities/person-michael-george-carle.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (3)</summary>

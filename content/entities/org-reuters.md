@@ -1,6 +1,6 @@
 ---
 title: "Reuters"
-description: "Reuters (Organizations) - 3 mentions"
+description: "Reuters (Organizations) - 4 mentions"
 id: "org-reuters"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About Reuters](https://reutersagency.com/en/about/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-org-reuters-t-00-17-32">2025-12-05 · 00:17:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-reuters-t-00-17-38">2026-06-15 · 00:18:07</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-reuters-t-00-38-35">2026-09-25 · 00:38:35</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [About Reuters](https://reutersagency.com/en/about/about-us/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-reuters-t-00-17-32" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-reuters-t-00-16-56" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-reuters-t-00-38-35" style="--pulse-height:50%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [About Reuters](https://reutersagency.com/en/about/about-us/)
 |---|---|---:|
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-reuters-t-00-17-32) | 1 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-reuters-t-00-16-56) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-reuters-t-00-38-35) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [About Reuters](https://reutersagency.com/en/about/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:38:35](/episodes/ep-_Sq5RqP27NY.md#ent-org-reuters-t-00-38-35)**
+> "... And look at this headline in Reuters from yesterday: “Israeli bulldozers smash Palesti..."
+
+</details>
 
 <details>
 <summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
@@ -78,7 +88,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Reuters (1)</strong></summary>
+<summary><strong class="section-title">Statements about Reuters (2)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:38:35](/episodes/ep-_Sq5RqP27NY.md#t-00-38-35) (Citation) **Candace Owens**: ["Owens cited a Reuters headline, “Israeli bulldozers smash Palestinian ..."](/statements/statement-4a33504b4a0e.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Palestinians](/entities/concept-palestinians.md)
+
+</details>
 
 <details>
 <summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>

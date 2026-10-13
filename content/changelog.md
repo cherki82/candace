@@ -5,6 +5,53 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-10-13 08:54:34
+
+No data changes detected (regeneration only)
+
+**Totals:**
+- Episodes: 181
+- Entities: 5137
+- Events: 2081
+- Statements: 8475
+- Relationships: 5910
+
+---
+
+## 2026-10-13 03:38:32
+
+**Added 15 episode(s):**
+  - `0pSAhaAZz1w`: CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.
+  - `5TTkMa49qj8`: VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395
+  - `6XfDqKTdFKg`: BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391
+  - `BvthGQw3_s0`: Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.
+  - `NNiCZk1cuzs`: Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389
+  - `O4Zw3bCALjU`: More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386
+  - `UAdBEXs7nNc`: More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400
+  - `_2DiIbfy4mU`: SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.
+  - `_Sq5RqP27NY`: CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393
+  - `aLJhpxrakCU`: BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388
+  - `bIuvTKlFeGo`: WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394
+  - `kn1E0scy9Wc`: A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387
+  - `ms5ChhZegRg`: COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397
+  - `q4m-kGzvwjw`: LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396
+  - `yrg_-D6oNHE`: BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399
+**Added 467 new entity/entities**
+**Removed 1 entity/entities**
+**Added 261 new event(s)**
+**Removed 6 event(s)**
+**Added 1174 new statement(s)**
+**Added 757 new relationship(s)**
+
+**Totals:**
+- Episodes: 181
+- Entities: 5137
+- Events: 2081
+- Statements: 8475
+- Relationships: 5910
+
+---
+
 ## 2026-09-11 20:54:30
 
 **Added 2 episode(s):**

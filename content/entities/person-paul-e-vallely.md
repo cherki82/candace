@@ -1,6 +1,6 @@
 ---
 title: "Paul E. Vallely"
-description: "Paul E. Vallely (People) - 8 mentions"
+description: "Paul E. Vallely (People) - 9 mentions"
 id: "person-paul-e-vallely"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-paul-e-vallely-t-01-19-32">2026-01-09 · 01:20:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-paul-e-vallely-t-00-48-35">2026-04-15 · 00:48:35</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-paul-e-vallely-t-00-06-21">2026-09-15 · 00:06:45</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
@@ -39,6 +39,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-e-vallely-t-00-20-30" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-paul-e-vallely-t-00-15-34" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-paul-e-vallely-t-00-48-35" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-paul-e-vallely-t-00-06-21" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-e-vallely-t-00-20-30) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-paul-e-vallely-t-00-15-34) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-paul-e-vallely-t-00-48-35) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-paul-e-vallely-t-00-06-21) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:06:45](/episodes/ep-kn1E0scy9Wc.md#ent-person-paul-e-vallely-t-00-06-21)**
+> "TPUSA advisor Paul Vallely is the retired army general who ran psychological..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -114,10 +124,11 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <summary>Advisor To (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:20:26](/episodes/ep-wcD2khO3rOA.md#t-01-20-11): “Paul Vallely is also on the advisory board of Turning Point USA.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “The TPUSA advisor, Paul E. Vallely, retired Army general”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:45](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set.”
 
 </details>
 
@@ -171,9 +182,10 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <summary>Worked With (1)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:20:30](/episodes/ep-ZZGWo6oDscc.md#t-00-20-30): “that's what these farms are all about i i actually kind of subscribe to the dead internet theory especially when i'm an x i'm like this is this is obviously run by the military i've never seen the bots say we shouldn't go to war ever and yet when i speak to people nobody wants to go to war so there you go anyways back to paul vallely vallely did two combat tours in vietnam he was in japan korea iraq israel you name it all over the place throughout europe And while he was serving, he collaborated with a major that was working under him, okay? This major became his official research and analysis team leader, and his name was Major Michael, look at those eyebrows, unbelievable, Michael Aquino.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:45](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set.”
 
 </details>
 
@@ -183,10 +195,11 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** advised by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:20:26](/episodes/ep-wcD2khO3rOA.md#t-01-20-11): “Paul Vallely is also on the advisory board of Turning Point USA.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “The TPUSA advisor, Paul E. Vallely, retired Army general”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:45](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles"
-description: "Los Angeles (Places) - 25 mentions"
+description: "Los Angeles (Places) - 26 mentions"
 id: "gpe-los-angeles"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [City of Los Angeles](https://lacity.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-los-angeles-t-00-31-16">2025-10-01 · 00:31:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-20-28">2026-07-23 · 00:20:38</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#t-00-37-31">2026-09-18 · 00:37:42</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,6 +54,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02" style="--pulse-height:67%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-18-33" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#t-00-37-31" style="--pulse-height:33%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02) | 2 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-18-33) | 3 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#t-00-37-31) | 1 |
 
 </details>
 </section>
@@ -88,7 +90,15 @@ Source: [City of Los Angeles](https://lacity.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:37:42](/episodes/ep-NNiCZk1cuzs.md#t-00-37-31)**
+> "...tures, and he was running the LA office for Empress Films."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>

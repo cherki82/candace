@@ -1,6 +1,6 @@
 ---
 title: "Catholic Church"
-description: "Catholic Church (Organizations) - 29 mentions"
+description: "Catholic Church (Organizations) - 31 mentions"
 id: "org-catholic-church"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29">2026-02-03 · 00:34:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-14-05">2026-08-17 · 01:14:22</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-catholic-church-t-00-20-05">2026-10-06 · 00:20:05</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -52,6 +52,8 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-catholic-church-t-00-17-17" style="--pulse-height:29%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-catholic-church-t-00-53-08" style="--pulse-height:29%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-13-21" style="--pulse-height:29%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-catholic-church-t-00-06-49" style="--pulse-height:14%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-catholic-church-t-00-20-05" style="--pulse-height:14%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +76,8 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-catholic-church-t-00-17-17) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-catholic-church-t-00-53-08) | 2 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-13-21) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-catholic-church-t-00-06-49) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-catholic-church-t-00-20-05) | 1 |
 
 </details>
 </section>
@@ -85,7 +89,23 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:20:05](/episodes/ep-0pSAhaAZz1w.md#ent-org-catholic-church-t-00-20-05)**
+> "... was being confirmed from the Catholic Church, I endured an absolutely psychotic campaign while..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:06:49](/episodes/ep-5TTkMa49qj8.md#ent-org-catholic-church-t-00-06-49)**
+> "...ubmit to the authority of the Catholic Church or you don't."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -325,7 +345,15 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholic Church (11)</strong></summary>
+<summary><strong class="section-title">Statements about Catholic Church (12)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:06:49](/episodes/ep-5TTkMa49qj8.md#t-00-06-49) (Opinion) **Candace Owens**: ["Owens argued that one cannot be a Catholic-evangelical hybrid because ..."](/statements/statement-4142925632f8.md)
+  - Also about: [Catholicism](/entities/concept-catholicism.md), [Evangelicalism](/entities/concept-evangelicalism.md)
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>

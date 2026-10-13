@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-description: "Lebanon (Places) - 25 mentions"
+description: "Lebanon (Places) - 26 mentions"
 id: "gpe-lebanon"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51">2026-08-03 · 00:48:51</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-lebanon-t-00-45-12">2026-09-15 · 00:45:12</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-lebanon-t-00-01-16" style="--pulse-height:17%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-lebanon-t-00-53-29" style="--pulse-height:17%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51" style="--pulse-height:17%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-lebanon-t-00-45-12" style="--pulse-height:17%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-lebanon-t-00-01-16) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-lebanon-t-00-53-29) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-lebanon-t-00-45-12) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:45:12](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-lebanon-t-00-45-12)**
+> "...ay free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, f..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -276,7 +286,15 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lebanon (11)</strong></summary>
+<summary><strong class="section-title">Statements about Lebanon (12)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:45:12](/episodes/ep-kn1E0scy9Wc.md#t-00-45-12) (Opinion) **Macklemore** (via quoted speech): ["Macklemore said 'free Palestine,' 'free Lebanon,' 'free Cuba,' 'free C..."](/statements/statement-753a3fee7216.md)
+  - Also about: [Palestine](/entities/gpe-palestine.md), [Cuba](/entities/gpe-cuba.md), [Congo](/entities/gpe-congo.md)
+
+</details>
 
 <details>
 <summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4)</summary>

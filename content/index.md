@@ -5,27 +5,49 @@ description: "An evidence-first research workbench for imported video, audio, an
 
 <div class="kg-home-hero">
 <h1>Candace Knowledge Graph</h1>
-<div class="kg-home-actions"><a class="primary" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
+<div class="kg-home-actions"><a class="primary" href="/index/threads">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
 </div>
 
-<p class="kg-freshness"><strong>166 sources</strong> · processed through <time datetime="2026-09-10">2026-09-10</time> · generated <time datetime="2026-09-11">2026-09-11</time></p>
+<p class="kg-freshness"><strong>181 sources</strong> · processed through <time datetime="2026-10-08">2026-10-08</time> · generated <time datetime="2026-10-13">2026-10-13</time></p>
 
 <section class="kg-thread-observatory" aria-labelledby="theory-watch-title">
 <header>
 <h2 id="theory-watch-title">Theory threads</h2>
-<a href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open theory thread <span aria-hidden="true">→</span></a>
+<a href="/index/threads">View every thread <span aria-hidden="true">→</span></a>
 </header>
 <div class="kg-thread-grid">
 <article class="kg-thread-card featured">
 <div class="thread-card-meta">
-<span>162 sources</span>
-<span>3645 reviewed turns</span>
-<time datetime="2026-09-09">2026-09-09</time>
+<span>177 sources</span>
+<span>3868 reviewed turns</span>
+<time datetime="2026-10-08">2026-10-08</time>
 </div>
 <h3><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h3>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>354</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,190</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>449</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,416</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open thread <span aria-hidden="true">→</span></a>
+</article>
+<article class="kg-thread-card">
+<div class="thread-card-meta">
+<span>2 sources</span>
+<span>6 reviewed turns</span>
+<time datetime="2026-10-05">2026-10-05</time>
+</div>
+<h3><a href="/threads/thread-owens-kirk-2019-feud-provenance">How the account of a manufactured Owens–Kirk feud changed</a></h3>
+<p>Tracks the displayed 2019 messages and Owens’s later challenge to their claimed Groyper provenance. Authorship, authenticity and alleged coordination remain unverified; this thread does not identify assassination participants.</p>
+<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>5</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-owens-kirk-2019-feud-provenance">Open thread <span aria-hidden="true">→</span></a>
+</article>
+<article class="kg-thread-card">
+<div class="thread-card-meta">
+<span>2 sources</span>
+<span>2 reviewed turns</span>
+<time datetime="2026-10-05">2026-10-05</time>
+</div>
+<h3><a href="/threads/thread-gillette-pro-palestine-suppression-response">How the Gillette pro-Palestine suppression narrative changed</a></h3>
+<p>Tracks Owens’s account of Kraft excluding Macklemore and her later presentation of Zach Bryan’s same-stadium pro-Palestine performances as a response. It records the evolution of her suppression-versus-defiance narrative, without establishing venue policy, motives or attendance figures.</p>
+<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>1</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-gillette-pro-palestine-suppression-response">Open thread <span aria-hidden="true">→</span></a>
 </article>
 </div>
 </section>
@@ -34,28 +56,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-coverage-heading">
 <span class="research-kicker">Publication audit</span>
 <h2 id="coverage-title">Research coverage</h2>
-<p><strong>165 of 166</strong> published sources have completed every extraction stage.</p>
+<p><strong>181 of 181</strong> published sources have completed every extraction stage.</p>
 </div>
 <div class="kg-coverage-grid">
-<div><span>Transcript cleaned</span><strong>166 / 166</strong></div>
-<div><span>Entities extracted</span><strong>166 / 166</strong></div>
-<div><span>Statements extracted</span><strong>166 / 166</strong></div>
-<div><span>Events extracted</span><strong>165 / 166</strong></div>
-<div><span>Relationships extracted</span><strong>166 / 166</strong></div>
-<div><span>Theory threads reviewed</span><strong>166 / 166</strong></div>
+<div><span>Transcript cleaned</span><strong>181 / 181</strong></div>
+<div><span>Entities extracted</span><strong>181 / 181</strong></div>
+<div><span>Statements extracted</span><strong>181 / 181</strong></div>
+<div><span>Events extracted</span><strong>181 / 181</strong></div>
+<div><span>Relationships extracted</span><strong>181 / 181</strong></div>
+<div><span>Theory threads reviewed</span><strong>181 / 181</strong></div>
 </div>
-<details class="kg-coverage-gaps">
-<summary>Inspect 1 source-level pipeline gap</summary>
-<ol>
-<li><a href="/episodes/ep-9k2xrAC0H88">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a><span>Events extracted</span></li>
-</ol>
-</details>
+<p class="kg-coverage-complete">No published source has a known extraction-stage gap.</p>
 </section>
 
 <div class="kg-stat-grid">
-<div><strong>7,300</strong><span>Claims &amp; statements</span></div>
-<div><strong>4,671</strong><span>Tracked entities</span></div>
-<div><strong>1,826</strong><span>Timeline events</span></div>
+<div><strong>8,474</strong><span>Claims &amp; statements</span></div>
+<div><strong>5,137</strong><span>Tracked entities</span></div>
+<div><strong>2,081</strong><span>Timeline events</span></div>
 <div><strong>3,082</strong><span>Research sources</span></div>
 </div>
 
@@ -65,28 +82,28 @@ description: "An evidence-first research workbench for imported video, audio, an
 
 <div class="recent-source-list">
 <article>
-<time datetime="2026-09-10">2026-09-10</time>
-<a href="/episodes/ep-S07n8TnRT0Q">One Year On… To My Friend Charlie Kirk.</a>
+<time datetime="2026-10-08">2026-10-08</time>
+<a href="/episodes/ep-UAdBEXs7nNc">More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-09-09">2026-09-09</time>
-<a href="/episodes/ep-bpXkPHpz9po">EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385</a>
+<time datetime="2026-10-07">2026-10-07</time>
+<a href="/episodes/ep-yrg_-D6oNHE">BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-09-08">2026-09-08</time>
-<a href="/episodes/ep-FGoeoZxDN1c">Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384</a>
+<time datetime="2026-10-06">2026-10-06</time>
+<a href="/episodes/ep-0pSAhaAZz1w">CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-09-03">2026-09-03</time>
-<a href="/episodes/ep-1FhY-koMuWM">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a>
+<time datetime="2026-10-05">2026-10-05</time>
+<a href="/episodes/ep-ms5ChhZegRg">COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-09-02">2026-09-02</time>
-<a href="/episodes/ep-HIlPQ-_dcxM">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a>
+<time datetime="2026-10-01">2026-10-01</time>
+<a href="/episodes/ep-q4m-kGzvwjw">LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -96,12 +113,12 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>270 recent mentions · +115 vs prior window</span></a>
-<a href="/entities/person-kanye-west"><strong>Kanye West</strong><span>52 recent mentions · +44 vs prior window</span></a>
-<a href="/entities/person-frank-turek"><strong>Frank Turek</strong><span>50 recent mentions · +42 vs prior window</span></a>
-<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>46 recent mentions · +27 vs prior window</span></a>
-<a href="/entities/person-justin-davis"><strong>Justin Davis</strong><span>27 recent mentions · +27 vs prior window</span></a>
-<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>38 recent mentions · +24 vs prior window</span></a>
+<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>57 recent mentions · +38 vs prior window</span></a>
+<a href="/entities/person-jeffrey-epstein"><strong>Jeffrey Epstein</strong><span>49 recent mentions · +30 vs prior window</span></a>
+<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>37 recent mentions · +28 vs prior window</span></a>
+<a href="/entities/org-monsterlab-clipping-platform"><strong>MonsterLab (clipping platform)</strong><span>23 recent mentions · +23 vs prior window</span></a>
+<a href="/entities/gpe-las-vegas-nevada"><strong>Las Vegas, Nevada</strong><span>23 recent mentions · +23 vs prior window</span></a>
+<a href="/entities/person-blake-wynn"><strong>Blake Wynn</strong><span>22 recent mentions · +22 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes

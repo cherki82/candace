@@ -1,6 +1,6 @@
 ---
 title: "Kikoff"
-description: "Kikoff (Organizations) - 47 mentions"
+description: "Kikoff (Organizations) - 55 mentions"
 id: "org-kikoff"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Kikoff](https://getkikoff.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53">2026-01-29 · 01:18:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-kikoff-t-00-30-07">2026-08-11 · 00:30:12</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-33-39">2026-09-15 · 00:33:44</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,16 +34,17 @@ Source: [Kikoff](https://getkikoff.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-32-33">A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00" style="--pulse-height:86%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30" style="--pulse-height:71%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 5 mentions" title="2026-03-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29" style="--pulse-height:71%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26" style="--pulse-height:86%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18" style="--pulse-height:86%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 6 mentions" title="2026-06-22 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27" style="--pulse-height:71%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-kikoff-t-00-28-36" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 7 mentions" title="2026-08-11 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00" style="--pulse-height:75%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27" style="--pulse-height:88%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30" style="--pulse-height:62%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 5 mentions" title="2026-03-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29" style="--pulse-height:62%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26" style="--pulse-height:75%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18" style="--pulse-height:75%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 6 mentions" title="2026-06-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27" style="--pulse-height:62%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-kikoff-t-00-28-36" style="--pulse-height:88%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 7 mentions" title="2026-08-11 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-32-33" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 8 mentions" title="2026-09-15 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Kikoff](https://getkikoff.com/)
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18) | 6 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27) | 5 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-kikoff-t-00-28-36) | 7 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-32-33) | 8 |
 
 </details>
 </section>
@@ -64,7 +66,36 @@ Source: [Kikoff](https://getkikoff.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (8 mentions)</summary>
+
+**[00:32:33](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-32-33)**
+> "...want to remind you guys about Kikoff because summer is coming to an end and time is fl..."
+
+**[00:32:50](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-32-33)**
+> "Kikoff is the number one credit building app in the App ..."
+
+**[00:33:04](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-32-33)**
+> "...orks. You make your payments, Kikoff then report that positive activity to the credit ..."
+
+**[00:33:20](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-33-16)**
+> "...y. Start building credit with Kikoff today and get your first month for as little as o..."
+
+**[00:33:28](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-33-16)**
+> "...m slash Candace today. That's Kikoff spelled without the C."
+
+**[00:33:36](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-33-16)**
+> "GetKikoff.com slash Candace."
+
+**[00:33:39](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-33-39)**
+> "Must sign up via Kikoff.com slash Candace to activate offer. Offer applie..."
+
+**[00:33:44](/episodes/ep-kn1E0scy9Wc.md#ent-org-kikoff-t-00-33-39)**
+> "...gust 2024 and August 2025 for Kikoff credit account users who started with a score bel..."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (7 mentions)</summary>
@@ -256,11 +287,12 @@ Source: [Kikoff](https://getkikoff.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kikoff comes in. Kikoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:26:55](/episodes/ep-7FS1tUeSfdE.md#t-00-26-26): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:28:27](/episodes/ep-amqTMimDr0A.md#t-00-28-27): “I also want to remind you guys about kickoff because time flies faster than we expect.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:32:33](/episodes/ep-kn1E0scy9Wc.md#t-00-32-33): “For a discount. Again, that's NimiSkincare.com with code CANDACE10 at checkout. I also want to remind you guys about Kikoff because summer is coming to an end and time is flying faster than we expected. But when it comes to your goals like building your credit score, it is never too late to start making real progress. Kikoff is the number one credit building app in the App Store with plans starting at just $5 a month. There's no credit check, no hidden fees and absolutely no interest. In fact, users starting with credit under 600 see an average increase of 86 points just by making on time payments. payments. Here's how it works. You make your payments, Kikoff then report that positive activity to the credit bureaus and your credit can grow fast. They even offer rent reporting so the payments that you're already making can help build your credit portfolio as well. You can sign up in minutes right from your phone and with auto pay you'll never miss a payment. So join over a million users that are building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as one dollar. That's 80% off the normal price when you go to GetKikoff.com slash Candace today. That's Kikoff spelled without the C. GetKikoff.com slash Candace.”
 
 </details>
 
@@ -270,11 +302,12 @@ Source: [Kikoff](https://getkikoff.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kikoff comes in. Kikoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:26:55](/episodes/ep-7FS1tUeSfdE.md#t-00-26-26): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:28:27](/episodes/ep-amqTMimDr0A.md#t-00-28-27): “I also want to remind you guys about kickoff because time flies faster than we expect.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:32:33](/episodes/ep-kn1E0scy9Wc.md#t-00-32-33): “For a discount. Again, that's NimiSkincare.com with code CANDACE10 at checkout. I also want to remind you guys about Kikoff because summer is coming to an end and time is flying faster than we expected. But when it comes to your goals like building your credit score, it is never too late to start making real progress. Kikoff is the number one credit building app in the App Store with plans starting at just $5 a month. There's no credit check, no hidden fees and absolutely no interest. In fact, users starting with credit under 600 see an average increase of 86 points just by making on time payments. payments. Here's how it works. You make your payments, Kikoff then report that positive activity to the credit bureaus and your credit can grow fast. They even offer rent reporting so the payments that you're already making can help build your credit portfolio as well. You can sign up in minutes right from your phone and with auto pay you'll never miss a payment. So join over a million users that are building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as one dollar. That's 80% off the normal price when you go to GetKikoff.com slash Candace today. That's Kikoff spelled without the C. GetKikoff.com slash Candace.”
 
 </details>
 

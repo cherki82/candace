@@ -16,10 +16,20 @@ date: "2025-09-10"
 
 > Terrell Farnsworth provided Utah investigators with event video through a flash drive and downloadable electronic versions.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10....
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:13:25](/episodes/ep-4JxgOclKzqg.md#event-event-2025-09-10-terrell-farnsworth-provided-utah-investi-t-00-13-25) 
 <a href="https://www.youtube.com/watch?v=4JxgOclKzqg&t=805s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > on September 10th, he provided downloadable versions, electronic versions, to Agent Mortenson.
+
+### 2. More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 3...
+
+**Episode:** [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md)
+**Timestamp:** [00:21:45](/episodes/ep-O4Zw3bCALjU.md#event-event-2025-09-10-terrell-farnsworth-provided-utah-investi-t-00-21-19) 
+<a href="https://www.youtube.com/watch?v=O4Zw3bCALjU&t=1305s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Actually, he immediately sent over files to the FBI and he chose to do that.

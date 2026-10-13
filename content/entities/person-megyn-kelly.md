@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 258 mentions"
+description: "Megyn Kelly (People) - 269 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37">2026-09-09 · 00:46:07</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>258</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-megyn-kelly-t-00-47-33">2026-10-07 · 00:47:33</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>269</strong></div>
 <div><span>Statements by</span><strong>21</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>52</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Relationships</span><strong>56</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -106,6 +106,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-megyn-kelly-t-00-11-45" style="--pulse-height:9%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37" style="--pulse-height:9%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-megyn-kelly-t-00-49-39" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-megyn-kelly-t-00-35-34" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-megyn-kelly-t-00-47-01" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-megyn-kelly-t-00-58-03" style="--pulse-height:13%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-megyn-kelly-t-00-34-23" style="--pulse-height:9%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-megyn-kelly-t-00-31-28" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-megyn-kelly-t-00-05-10" style="--pulse-height:9%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -182,6 +189,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-megyn-kelly-t-00-11-45) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37) | 2 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-megyn-kelly-t-00-49-39) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-megyn-kelly-t-00-35-34) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-megyn-kelly-t-00-47-01) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-megyn-kelly-t-00-58-03) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-megyn-kelly-t-00-34-23) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-megyn-kelly-t-00-31-28) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-megyn-kelly-t-00-05-10) | 2 |
 
 </details>
 </section>
@@ -193,7 +207,75 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (258)</strong></summary>
+<summary><strong class="section-title">Raw mentions (269)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:05:41](/episodes/ep-yrg_-D6oNHE.md#ent-person-megyn-kelly-t-00-05-10)**
+> "Their guilt. And then Megyn Kelly had to say to him, no, you're processing your gri..."
+
+**[00:47:33](/episodes/ep-yrg_-D6oNHE.md#ent-person-megyn-kelly-t-00-47-33)**
+> "... guilt in different ways. And Megyn Kelly corrected him and said, you mean grief."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:31:28](/episodes/ep-0pSAhaAZz1w.md#ent-person-megyn-kelly-t-00-31-28)**
+> "... to post videos of journalist Megyn Kelly, commentators Nick Fuentes and Tucker Carlson, He..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:34:23](/episodes/ep-q4m-kGzvwjw.md#ent-person-megyn-kelly-t-00-34-23)**
+> "...harlie (Charlie Kirk) goes on Megyn Kelly's show where he explains what happened or alludes t..."
+
+**[01:05:28](/episodes/ep-q4m-kGzvwjw.md#ent-person-megyn-kelly-t-01-05-28)**
+> "...ou send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it to Vanity Fai..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:47:01](/episodes/ep-_Sq5RqP27NY.md#ent-person-megyn-kelly-t-00-47-01)**
+> "...a sit-down, like I said, with Megyn Kelly, Tucker Carlson, and say, “I wanted to show this ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[00:58:37](/episodes/ep-bIuvTKlFeGo.md#ent-person-megyn-kelly-t-00-58-03)**
+> "...pstein) files. He asks Megyn (Megyn Kelly) to speak about it. He asks Tucker Carlson to spe..."
+
+**[01:00:59](/episodes/ep-bIuvTKlFeGo.md#ent-person-megyn-kelly-t-01-00-59)**
+> "...o Tucker (Tucker Carlson) and Megyn Kelly, that that was his intention."
+
+**[01:04:41](/episodes/ep-bIuvTKlFeGo.md#ent-person-megyn-kelly-t-01-04-22)**
+> "...ents after the retreat on the Megyn Kelly show. The influencers trip is sponsored by Bill A..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:35:48](/episodes/ep-_2DiIbfy4mU.md#ent-person-megyn-kelly-t-00-35-34)**
+> "... your friend. You could go to Megyn Kelly. She's your friend."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:49:39](/episodes/ep-6XfDqKTdFKg.md#ent-person-megyn-kelly-t-00-49-39)**
+> "Maniac that he fell off. Megyn Kelly—you attacked, you attacked, you attacked all of M..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -1413,16 +1495,17 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:05:40](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “megyn kelly Kelly ... Kelly has said she's a friend of Erika Kirk”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:35:16](/episodes/ep-_2DiIbfy4mU.md#t-00-34-49): “You have zero respect for Charlie (Charlie Kirk) or your children, by the way, or his legacy to give that footage that what should be precious footage, OK, precious footage to an Internet troll. A chain-smoking internet troll and his trash wife for the purposes of trolling the internet only to confuse matters. This is not a debunk of anything, nothing at all. And you don't need to, if you want to debunk things, go to this man. You can go to Tucker Carlson. He's your friend. You could go to Megyn Kelly. She's your friend.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Interviewed (8)</summary>
+<summary>Interviewed (9)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1483,6 +1566,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:34:23](/episodes/ep-q4m-kGzvwjw.md#t-00-34-23): “Also on August 4th, a fake MySpace account is archived for me. We added that. August 6th, obviously Charlie (Charlie Kirk) goes on Megyn Kelly's show where he explains what happened or alludes to what happened in the Hamptons and says that people are calling him an anti-Semite. He holds up his phone. ... He's obviously very frustrated. So this was not a peaceful summit for Charlie (Charlie Kirk).”
+
+</details>
+
 </details>
 
 <details>
@@ -1506,13 +1596,20 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:31](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): “You've seen how I've been treated, Megyn, by some, not all, by some.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:50:30](/episodes/ep-q7f8r-THr84.md#t-00-50-15): “Here's Charlie (Charlie Kirk) talking to Megyn Kelly the very next day on August 6th.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:05:28](/episodes/ep-yrg_-D6oNHE.md#t-00-05-10): “Now, I will say that their affiliates in general are hilarious and they keep getting caught up in these ways. I think actually it was Andrew Kolvet who said very early on that they were processing. ... Their guilt. And then Megyn Kelly had to say to him, no, you're processing your grief. You mean? He's like, oh, yeah, we're processing our grief.”
 
 </details>
 
@@ -1545,7 +1642,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Referenced By (27)</summary>
+<summary>Referenced By (29)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1630,9 +1727,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:05:40](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “megyn kelly Kelly ... Kelly has said she's a friend of Erika Kirk”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:35:16](/episodes/ep-_2DiIbfy4mU.md#t-00-34-49): “You have zero respect for Charlie (Charlie Kirk) or your children, by the way, or his legacy to give that footage that what should be precious footage, OK, precious footage to an Internet troll. A chain-smoking internet troll and his trash wife for the purposes of trolling the internet only to confuse matters. This is not a debunk of anything, nothing at all. And you don't need to, if you want to debunk things, go to this man. You can go to Tucker Carlson. He's your friend. You could go to Megyn Kelly. She's your friend.”
 
 </details>
 
@@ -1711,11 +1809,25 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:34:23](/episodes/ep-q4m-kGzvwjw.md#t-00-34-23): “Also on August 4th, a fake MySpace account is archived for me. We added that. August 6th, obviously Charlie (Charlie Kirk) goes on Megyn Kelly's show where he explains what happened or alludes to what happened in the Hamptons and says that people are calling him an anti-Semite. He holds up his phone. ... He's obviously very frustrated. So this was not a peaceful summit for Charlie (Charlie Kirk).”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:31](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): “You've seen how I've been treated, Megyn, by some, not all, by some.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:50:30](/episodes/ep-q7f8r-THr84.md#t-00-50-15): “Here's Charlie (Charlie Kirk) talking to Megyn Kelly the very next day on August 6th.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:05:28](/episodes/ep-yrg_-D6oNHE.md#t-00-05-10): “Now, I will say that their affiliates in general are hilarious and they keep getting caught up in these ways. I think actually it was Andrew Kolvet who said very early on that they were processing. ... Their guilt. And then Megyn Kelly had to say to him, no, you're processing your grief. You mean? He's like, oh, yeah, we're processing our grief.”
 
 </details>
 
@@ -1860,7 +1972,39 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (21)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (25)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:47:33](/episodes/ep-yrg_-D6oNHE.md#t-00-47-33) (Claim) **Septimus Theopolis (viewer handle; identity unverified)** (via read message): ["A viewer using the handle Septimus Theopolis wrote that on September 1..."](/statements/statement-b9c9586966b6.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:31:28](/episodes/ep-0pSAhaAZz1w.md#t-00-31-28) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Elephant Clipping prohibited clips of Megyn Kell..."](/statements/statement-4217e08a6468.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:34:23](/episodes/ep-q4m-kGzvwjw.md#t-00-34-23) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk appeared on Megyn Kelly’s show August 6, allud..."](/statements/statement-dba0e05e328d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:58:25](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03) (Claim) **Candace Owens** (via paraphrase): ["Owens said donors reacted negatively to Tucker Carlson’s July 11th spe..."](/statements/statement-90e9d9a3dae0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

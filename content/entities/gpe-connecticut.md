@@ -1,6 +1,6 @@
 ---
 title: "Connecticut"
-description: "Connecticut (Places) - 16 mentions"
+description: "Connecticut (Places) - 17 mentions"
 id: "gpe-connecticut"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [CT.gov: Connecticut's Official State Website](https://portal.ct.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-23">2025-10-01 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-connecticut-t-00-39-17">2026-08-21 · 00:39:17</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-connecticut-t-00-43-46">2026-09-16 · 00:44:09</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [CT.gov: Connecticut's Official State Website](https://portal.ct.gov/)
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-connecticut-t-00-19-51" style="--pulse-height:40%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-connecticut-t-00-44-43" style="--pulse-height:20%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-connecticut-t-00-39-17" style="--pulse-height:20%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-connecticut-t-00-43-46" style="--pulse-height:20%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [CT.gov: Connecticut's Official State Website](https://portal.ct.gov/)
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-connecticut-t-00-19-51) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-connecticut-t-00-44-43) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-connecticut-t-00-39-17) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-connecticut-t-00-43-46) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [CT.gov: Connecticut's Official State Website](https://portal.ct.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:44:09](/episodes/ep-aLJhpxrakCU.md#ent-gpe-connecticut-t-00-43-46)**
+> "...ts across so many states that Connecticut actually made me go back to driving school for a ..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>

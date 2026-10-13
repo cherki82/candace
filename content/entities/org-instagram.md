@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 119 mentions"
+description: "Instagram (Organizations) - 134 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-instagram-t-00-04-30">2026-09-08 · 00:04:30</a></strong></div>
-<div><span>Episodes</span><strong>64</strong></div>
-<div><span>Mentions</span><strong>119</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-14-49">2026-10-07 · 00:15:07</a></strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -95,6 +95,13 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-instagram-t-00-47-14" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-instagram-t-00-45-23" style="--pulse-height:12%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-instagram-t-00-04-30" style="--pulse-height:12%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-instagram-t-00-09-05" style="--pulse-height:12%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-instagram-t-00-39-05" style="--pulse-height:12%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-instagram-t-00-06-44" style="--pulse-height:25%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 2 mentions" title="2026-09-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-instagram-t-01-27-17" style="--pulse-height:25%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-instagram-t-00-26-33" style="--pulse-height:12%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-10-17" style="--pulse-height:62%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-10-40" style="--pulse-height:38%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -164,6 +171,13 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-instagram-t-00-47-14) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-instagram-t-00-45-23) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-instagram-t-00-04-30) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-instagram-t-00-09-05) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-instagram-t-00-39-05) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-instagram-t-00-06-44) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-instagram-t-01-27-17) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-instagram-t-00-26-33) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-10-17) | 5 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-10-40) | 3 |
 
 </details>
 </section>
@@ -175,7 +189,87 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (119)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:10:57](/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-10-40)**
+> "...want to shout out, this is an Instagram comedian, political commentator named Christine F..."
+
+**[00:11:12](/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-11-12)**
+> "Her Instagram handle is at what the Fecate (handle spelling unv..."
+
+**[00:15:07](/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-14-49)**
+> "...h with cash, according to his Instagram, but it's demonstrated this is a young buck. We h..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (5 mentions)</summary>
+
+**[00:10:17](/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-10-17)**
+> "... the campaign, they create an Instagram account, they put their code in the Instagram acc..."
+
+**[00:31:14](/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-30-44)**
+> "...posted pictures of himself on Instagram at small gatherings, the White House, and at Mar-..."
+
+**[00:51:39](/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-51-22)**
+> "...im. The same thing is true on Instagram. You'll notice a lot of these guys are actually b..."
+
+**[00:51:46](/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-51-22)**
+> "Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question i..."
+
+**[00:51:54](/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-51-22)**
+> "... posting his content all over Instagram. And that's how people who are on Instagram are f..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:26:33](/episodes/ep-q4m-kGzvwjw.md#ent-org-instagram-t-00-26-33)**
+> "...Erika (Erika Kirk) purges her Instagram. She deletes 126 posts. On June 22nd, we have Ope..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:27:40](/episodes/ep-bIuvTKlFeGo.md#ent-org-instagram-t-01-27-17)**
+> "...Erika (Erika Kirk) purged her Instagram."
+
+**[01:27:56](/episodes/ep-bIuvTKlFeGo.md#ent-org-instagram-t-01-27-56)**
+> "...Erika (Erika Kirk) purges her Instagram, and on June... Yeah, that's leading up to June. ..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2 mentions)</summary>
+
+**[00:06:44](/episodes/ep-BvthGQw3_s0.md#ent-org-instagram-t-00-06-44)**
+> "...Erika (Erika Kirk) purged her Instagram accounts."
+
+**[00:47:23](/episodes/ep-BvthGQw3_s0.md#ent-org-instagram-t-00-46-54)**
+> "... also where forbidden over on Instagram."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:39:13](/episodes/ep-NNiCZk1cuzs.md#ent-org-instagram-t-00-39-05)**
+> "...can go and find this on their Instagram just scrolling up from hi, we're here, we're new."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:09:35](/episodes/ep-O4Zw3bCALjU.md#ent-org-instagram-t-00-09-05)**
+> "...(Bobby Sausalito)'s handle on Instagram is TakeNaps. Here we go. Take it away, Frank (Fra..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -859,12 +953,67 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Barred (1)</summary>
+
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram? How is that possible? Because other people, clippers, are posting his content all over Instagram. And that's how people who are on Instagram are finding Nick Fuentes. despite the fact that he is banned.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)** barred by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram? How is that possible? Because other people, clippers, are posting his content all over Instagram. And that's how people who are on Instagram are finding Nick Fuentes. despite the fact that he is banned.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Instagram (9)</strong></summary>
+<summary><strong class="section-title">Statements about Instagram (15)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4)</summary>
+
+- [00:08:58](/episodes/ep-0pSAhaAZz1w.md#t-00-08-36) (Claim) **Candace Owens**: ["Owens described Monster Lab editors choosing campaigns, receiving inst..."](/statements/statement-24812ddb9ebf.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md), [Discord](/entities/org-discord.md)
+
+- [00:31:14](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Blake Wynn had posted Instagram photos at the Wh..."](/statements/statement-db825e778d18.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:51:22](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson said TikTok banned Andrew Tate but his clips continued to cir..."](/statements/statement-520155240817.md)
+  - Also about: [Andrew Tate](/entities/person-andrew-tate.md), [TikTok](/entities/org-tiktok.md)
+
+- [00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson said Nick Fuentes was banned from Instagram and YouTube but p..."](/statements/statement-95deb8ee40e1.md)
+  - Also about: [Nick Fuentes](/entities/person-nick-fuentes.md), [YouTube](/entities/org-youtube.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:27:40](/episodes/ep-bIuvTKlFeGo.md#t-01-27-17) (Claim) **Candace Owens**: ["Owens said Charlie Kirk went to the White House June 18th and 19th and..."](/statements/statement-374ede496eee.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:06:44](/episodes/ep-BvthGQw3_s0.md#t-00-06-44) (Claim) **Candace Owens**: ["Owens said the June 17, 2025 UVU simulation occurred during the same w..."](/statements/statement-8a4baca22bbc.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>

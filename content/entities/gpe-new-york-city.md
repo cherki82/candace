@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 57 mentions"
+description: "New York City (Places) - 62 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42">2026-08-10 · 00:20:55</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-38-06">2026-10-07 · 00:38:06</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>62</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -66,6 +66,10 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-new-york-city-t-00-42-57" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-30-19" style="--pulse-height:17%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42" style="--pulse-height:17%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-new-york-city-t-00-29-53" style="--pulse-height:17%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-new-york-city-t-00-46-02" style="--pulse-height:17%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-30-33" style="--pulse-height:17%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-37-24" style="--pulse-height:33%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +106,10 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-new-york-city-t-00-42-57) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-30-19) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-new-york-city-t-00-29-53) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-new-york-city-t-00-46-02) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-30-33) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-37-24) | 2 |
 
 </details>
 </section>
@@ -113,7 +121,42 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:37:58](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-37-24)**
+> "...o was taken at a DMV today in New York City."
+
+**[00:38:06](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-38-06)**
+> "...in Mamdani (Zohran Mamdani)'s New York City have the Palestinian flag as the screensaver on O..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:30:54](/episodes/ep-q4m-kGzvwjw.md#t-00-30-33)**
+> "We discussed Bill Barr's contributions and the Dalton School in New York to creating. this fake persona of some super genius when he was kind of just a sexual deviant from the very beginning, hitting on high school girls."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:46:10](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-new-york-city-t-00-46-02)**
+> "... the elites in Washington and New York City."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:30:03](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-new-york-city-t-00-29-53)**
+> "...of the modeling apartments in New York City."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>

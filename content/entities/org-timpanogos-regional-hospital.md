@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 35 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 46 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14">2026-09-09 · 00:29:37</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09">2026-10-08 · 00:41:29</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>41</strong></div>
+<div><span>Statements about</span><strong>62</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -58,7 +58,13 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-01-06-19" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#t-00-14-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-timpanogos-regional-hospital-t-00-02-07" style="--pulse-height:100%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#t-00-16-06" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-timpanogos-regional-hospital-t-00-23-39" style="--pulse-height:25%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-timpanogos-regional-hospital-t-00-26-02" style="--pulse-height:50%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#t-00-57-29" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09" style="--pulse-height:75%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,7 +93,13 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-01-06-19) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#t-00-14-20) | 1 |
-| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-timpanogos-regional-hospital-t-00-02-07) | 4 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#t-00-16-06) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-timpanogos-regional-hospital-t-00-23-39) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-timpanogos-regional-hospital-t-00-26-02) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09) | 3 |
 
 </details>
 </section>
@@ -99,13 +111,76 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3 mentions)</summary>
 
-**[00:29:37](/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14)**
-> "...oday is there is a doctor. At Timpanogos Hospital who worked on Charlie (Charlie Kirk)."
+**[00:17:37](/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09)**
+> "...rm that they went straight to Timpanogos Hospital because the local news caught them arriving, and ..."
+
+**[00:18:30](/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09)**
+> "By the way, if anybody recognizes and can ID that police officer that's walking them into Timpanogos who drove them, please email us at moretips at candaceowens.com."
+
+**[00:41:29](/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09)**
+> "Regarding Timpanogos, again, if you know who the fire chief was, the fire captain, pardon me, fire captain that administered CPR to Charlie (Charlie Kirk) at the hospital, please, we would like to hear from you."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:57:43](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29)**
+> "Because at that point, you would think that if you're in communication with the hospital, you could just have a surgeon meet you outside to do that if that's the case. Now, Brian (Brian Harpole) did say the hospital didn't know they were coming, but it certainly sounds like the hospital knew someone was coming because we're listening now to the audio and the chats and they're redirecting to Timpanogos. They know that they're going to Timpanogos, right?"
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:26:02](/episodes/ep-ms5ChhZegRg.md#ent-org-timpanogos-regional-hospital-t-00-26-02)**
+> "... to transport Charlie Kirk to Timpanogos Hospital. Station 3 personnel provided that information ov..."
+
+**[00:26:19](/episodes/ep-ms5ChhZegRg.md#ent-org-timpanogos-regional-hospital-t-00-26-02)**
+> "Station 2 then rerouted Timpanogos Hospital. where the fire captain from Station 2 assisted i..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:23:54](/episodes/ep-aLJhpxrakCU.md#ent-org-timpanogos-regional-hospital-t-00-23-39)**
+> "...rlie Kirk) was transported to Timpanogos Regional Hospital in a private vehicle, not an ambulance. Okay. Yea..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:16:06](/episodes/ep-kn1E0scy9Wc.md#t-00-16-06)**
+> "The cell towers that are surrounding UVU, he signs off on that. He files for that. George Zinn's phone, Charlie (Charlie Kirk)'s belongings at Timpanogos. We've been talking about where are Charlie (Charlie Kirk)'s belongings?"
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4 mentions)</summary>
+
+**[00:02:24](/episodes/ep-O4Zw3bCALjU.md#ent-org-timpanogos-regional-hospital-t-00-02-07)**
+> "...sly, he's wearing scrubs from Timpanogos Hospital, presumably. By nighttime, he's wearing hospital ..."
+
+**[00:50:05](/episodes/ep-O4Zw3bCALjU.md#ent-org-timpanogos-regional-hospital-t-00-02-07)**
+> "Who we are told was in the room when surgery was being conducted on Charlie (Charlie Kirk) at Timpanogos and who recused himself from all files due to something that took place in the room."
+
+**[00:50:17](/episodes/ep-O4Zw3bCALjU.md#ent-org-timpanogos-regional-hospital-t-00-02-07)**
+> "We also received a note from a nurse at Timpanogos, which LAPD told us that they were asking for weird things."
+
+**[00:50:35](/episodes/ep-O4Zw3bCALjU.md#ent-org-timpanogos-regional-hospital-t-00-02-07)**
+> "So this is a nurse at Timpanogos who purports to have been there, which I'm still working to verify, and that they requested a chest saw."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
 
 **[00:29:37](/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14)**
 > "Something else I'm going to mention to you guys today is there is a doctor. At Timpanogos Hospital who worked on Charlie (Charlie Kirk)."
@@ -420,7 +495,94 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (41)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (62)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (13)</summary>
+
+- [00:17:23](/episodes/ep-UAdBEXs7nNc.md#t-00-17-09) (Claim) **Candace Owens**: ["Owens said local news footage confirmed Michael McCoy, Nate Walker and..."](/statements/statement-6955d5fa6adc.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Nate Walker](/entities/person-nate-walker.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:18:15](/episodes/ep-UAdBEXs7nNc.md#t-00-17-49) (Claim) **Fox 5 Atlanta news anchor (Ep 400 clip; identity unverified)** (via quoted speech): ["An unidentified Fox 5 Atlanta anchor reported that Charlie Kirk's repr..."](/statements/statement-ab8cc2997488.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:20](/episodes/ep-UAdBEXs7nNc.md#t-00-19-13) (Claim) **Candace Owens**: ["Owens said the second vehicle appeared to be driven by another federal..."](/statements/statement-81505114b9eb.md)
+  - Also about: [Blake Gibson (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-001.md), [Blake Harruff (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-002.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+- [00:30:32](/episodes/ep-UAdBEXs7nNc.md#t-00-30-32) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said the SUV traveled with an open door, no..."](/statements/statement-a5f2431e04f6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:25](/episodes/ep-UAdBEXs7nNc.md#t-00-34-12) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said the emergency room felt empty, nobody ..."](/statements/statement-52b2a5a6eb85.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:41](/episodes/ep-UAdBEXs7nNc.md#t-00-34-12) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said the medical team got a pulse and rushe..."](/statements/statement-605445264111.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:04](/episodes/ep-UAdBEXs7nNc.md#t-00-34-53) (Claim) **Candace Owens**: ["Owens said she fully believed Turek that the hospital was empty and re..."](/statements/statement-4b7d2d0507e5.md)
+
+- [00:35:56](/episodes/ep-UAdBEXs7nNc.md#t-00-35-35) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled learning that Brian Harpole found the room, cut Charlie..."](/statements/statement-554d38c10eb0.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:28](/episodes/ep-UAdBEXs7nNc.md#t-00-37-02) (Opinion) **Candace Owens**: ["Owens argued nobody at the hospital should have known so quickly that ..."](/statements/statement-ca2ab7c895e9.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:37:53](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Charlie Kirk's 23-year-old chief of st..."](/statements/statement-a63a6f398193.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [00:38:11](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41) (Claim) **Hospital surgeon (Ep 400 book account; identity unverified)** (via quoted document): ["In Turek's book account read by Owens, an unnamed surgeon announced th..."](/statements/statement-5938c1a611da.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:28](/episodes/ep-UAdBEXs7nNc.md#t-00-38-22) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said the surgeon demanded to talk to Erika ..."](/statements/statement-372fc2e08cc8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:41:29](/episodes/ep-UAdBEXs7nNc.md#t-00-41-07) (Claim) **Candace Owens**: ["Owens said her team had narrowed the identity of the fire captain who ..."](/statements/statement-54ddcb2ce5b2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:57:29](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29) (Claim) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole had said the hospital did not know they were ..."](/statements/statement-4c5ff81ae9c6.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:58:04](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29) (Accusation) **Fire-captain CPR question commenter (identity unverified)** (via read message): ["An unnamed viewer asked how often a fire captain rode a fire truck to ..."](/statements/statement-02c07339a076.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>
+
+- [00:25:35](/episodes/ep-ms5ChhZegRg.md#t-00-25-23) (Citation) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The UVU independent review stated that fire personnel from Stations 1 ..."](/statements/statement-fc50ff3e6efa.md)
+  - Also about: [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Unnamed Station 2 fire captain described in UVU review (identity unverified)](/entities/anon-src-ms5ChhZegRg-018.md)
+
+- [00:26:29](/episodes/ep-ms5ChhZegRg.md#t-00-26-29) (Citation) **Candace Owens**: ["Owens said the dispatch sequence seemed to corroborate the UVU review,..."](/statements/statement-3a14ea94458a.md)
+  - Also about: [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md), [Provo](/entities/gpe-provo.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:23:46](/episodes/ep-aLJhpxrakCU.md#t-00-23-39) (Claim) **Candace Owens**: ["Owens said the filing was correct that Charlie Kirk was transported to..."](/statements/statement-c18a6292fd84.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3)</summary>
+
+- [00:02:24](/episodes/ep-O4Zw3bCALjU.md#t-00-02-07) (Claim) **Candace Owens**: ["Owens said Blake was wearing hospital scrubs by nighttime, presumably ..."](/statements/statement-b8abebd796b9.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:49:40](/episodes/ep-O4Zw3bCALjU.md#t-00-49-40) (Claim) **Candace Owens** (via paraphrase): ["Owens said she was still seeking a second person to confirm the accoun..."](/statements/statement-d295b655a906.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Unnamed Timpanogos doctor in episode 385 (identity unverified)](/entities/anon-src-bpXkPHpz9po-002.md)
+
+- [00:50:17](/episodes/ep-O4Zw3bCALjU.md#t-00-50-17) (Claim) **Candace Owens** (via paraphrase): ["Owens said a nurse purporting to have been at Timpanogos reported an a..."](/statements/statement-ae01964161b7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos nurse in episode 386 (identity unverified)](/entities/anon-src-O4Zw3bCALjU-001.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5)</summary>

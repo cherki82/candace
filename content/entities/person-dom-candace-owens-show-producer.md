@@ -1,13 +1,17 @@
 ---
 title: "Dom (show producer; surname unverified)"
-description: "Dom (show producer; surname unverified) (People) - 1 mention"
+description: "Dom (show producer; surname unverified) (People) - 2 mentions"
 id: "person-dom-candace-owens-show-producer"
 type: "PERSON"
+aliases:
+  - "Dom (production staff member; surname unverified)"
 categories:
   - "show producer"
 ---
 
 _Type: People_
+
+**Also known as:** Dom (production staff member; surname unverified)
 
 **Categories:** show producer
 
@@ -17,9 +21,9 @@ Source: [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-dom-candace-owens-show-producer-t-00-33-01">2026-03-31 · 00:33:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-dom-candace-owens-show-producer-t-00-33-01">2026-03-31 · 00:33:22</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-dom-candace-owens-show-producer-t-00-36-17">2026-10-01 · 00:36:23</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -31,12 +35,14 @@ Source: [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](https://ww
 <p>Highest activity: <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-dom-candace-owens-show-producer-t-00-33-01">PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-dom-candace-owens-show-producer-t-00-33-01" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-dom-candace-owens-show-producer-t-00-36-17" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-dom-candace-owens-show-producer-t-00-33-01) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-dom-candace-owens-show-producer-t-00-36-17) | 1 |
 
 </details>
 </section>
@@ -44,7 +50,15 @@ Source: [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:36:23](/episodes/ep-q4m-kGzvwjw.md#ent-person-dom-candace-owens-show-producer-t-00-36-17)**
+> "Okay. Dom (production staff member; surname unverified) is telling me that only JD (JD Vance) was on the phone. It doesn't specify who was in the room and who was not, but Trump (Donald J. Trump), David Warrington, and Stanley Woodward are not named as participants. The people that were reported in person are Susie Wiles, Pam Bondi, Todd Blanche, Kash Patel, James Blair, Taylor Budowick (meeting participant; name spelling unverified), Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), and JD Vance by phone from Britain."
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>

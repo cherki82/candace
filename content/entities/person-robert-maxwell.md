@@ -1,6 +1,6 @@
 ---
 title: "Robert Maxwell"
-description: "Robert Maxwell (People) - 13 mentions"
+description: "Robert Maxwell (People) - 14 mentions"
 id: "person-robert-maxwell"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06">2026-06-26 · 00:40:25</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-maxwell-t-00-31-51">2026-10-01 · 00:32:04</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -45,6 +45,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-maxwell-t-00-10-39" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-maxwell-t-00-31-51" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-maxwell-t-00-10-39) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-maxwell-t-00-31-51) | 1 |
 
 </details>
 </section>
@@ -66,7 +68,15 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:32:04](/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-maxwell-t-00-31-51)**
+> "Robert Maxwell got into schools in America printing textbooks, t..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

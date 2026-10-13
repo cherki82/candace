@@ -1,6 +1,6 @@
 ---
 title: "Gary Melton"
-description: "Gary Melton (People) - 22 mentions"
+description: "Gary Melton (People) - 28 mentions"
 id: "person-gary-melton"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#t-00-21-10">2026-05-06 · 00:21:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22">2026-07-23 · 00:34:24</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#t-00-42-51">2026-10-07 · 00:43:26</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 6 mentions" title="2026-05-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24" style="--pulse-height:67%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#t-00-40-04" style="--pulse-height:83%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 5 mentions" title="2026-10-07 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00) | 6 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24) | 4 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04) | 5 |
 
 </details>
 </section>
@@ -64,7 +66,27 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (5 mentions)</summary>
+
+**[00:40:04](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04)**
+> "He actually tweeted this. He's been going back and forth with Ian Carroll. And somebody wrote, every day I think that we've reached the bottom on just how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, only to find that he's hit a new subterranean level."
+
+**[00:40:18](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04)**
+> "Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.'"
+
+**[00:40:26](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04)**
+> "Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro."
+
+**[00:40:34](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04)**
+> "You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical."
+
+**[00:43:26](/episodes/ep-yrg_-D6oNHE.md#t-00-42-51)**
+> "I see someone in the chat says Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) over at Paramount Tactical may have a battle injury, maybe shell shocked."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -151,14 +173,39 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Ian Carroll](/entities/person-ian-carroll.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:18](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:30](/episodes/ep-4DvYXBn_5JI.md#t-00-28-15): “youtuber paramount tactical gary melton as he's you know former green beret he's very thick and i'm talking like not a lot of thoughts happening um he thinks he's putting puzzles together but i just don't think that that's his thing”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:39:55](/episodes/ep-Pb7UlpRdW6U.md#t-00-39-55): “served as a green beret i'm terrified that china represents a threat not because of their data centers that are expanding but because they might have smarter people than gary melton like this this is a military operative turning point is turning to him for public relations and he doesn't even understand the functionality of an alibi he just he doesn't understand why people are obviously concerned about the fact That his alibi has now been completely debunked. Now he just says it doesn't matter whose kid it is.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “I've never claimed to be a military guy. In fact, people like Gary (Gary Melton) kind of scare me. Dumb people with guns: not a great thing.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:04](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “He actually tweeted this. He's been going back and forth with Ian Carroll. And somebody wrote, every day I think that we've reached the bottom on just how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, only to find that he's hit a new subterranean level. ... Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Exchanged Messages With (1)</summary>
+
+- **[Ian Carroll](/entities/person-ian-carroll.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:04](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “He actually tweeted this. He's been going back and forth with Ian Carroll. And somebody wrote, every day I think that we've reached the bottom on just how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, only to find that he's hit a new subterranean level. ... Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
 
 </details>
 
@@ -201,14 +248,29 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:30](/episodes/ep-4DvYXBn_5JI.md#t-00-28-15): “youtuber paramount tactical gary melton as he's you know former green beret he's very thick and i'm talking like not a lot of thoughts happening um he thinks he's putting puzzles together but i just don't think that that's his thing”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:39:55](/episodes/ep-Pb7UlpRdW6U.md#t-00-39-55): “served as a green beret i'm terrified that china represents a threat not because of their data centers that are expanding but because they might have smarter people than gary melton like this this is a military operative turning point is turning to him for public relations and he doesn't even understand the functionality of an alibi he just he doesn't understand why people are obviously concerned about the fact That his alibi has now been completely debunked. Now he just says it doesn't matter whose kid it is.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “I've never claimed to be a military guy. In fact, people like Gary (Gary Melton) kind of scare me. Dumb people with guns: not a great thing.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:04](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “He actually tweeted this. He's been going back and forth with Ian Carroll. And somebody wrote, every day I think that we've reached the bottom on just how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, only to find that he's hit a new subterranean level. ... Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
+
+</details>
+
+- **[Ian Carroll](/entities/person-ian-carroll.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:18](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
+
+</details>
+
+- **[Ian Carroll](/entities/person-ian-carroll.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:04](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “He actually tweeted this. He's been going back and forth with Ian Carroll. And somebody wrote, every day I think that we've reached the bottom on just how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, only to find that he's hit a new subterranean level. ... Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
 
 </details>
 
@@ -238,7 +300,18 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Gary Melton (4)</strong></summary>
+<summary><strong class="section-title">Statements by Gary Melton (6)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
+
+- [00:40:18](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04) [○] (Opinion) ["In the post read by Owens, Paramount Tactical’s Gary Melton wrote, "You follow I..."](/statements/statement-7420b52b270b.md)
+  - About: [Ian Carroll](/entities/person-ian-carroll.md)
+
+- [00:40:41](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04) [○] (Accusation) ["Owens read the Paramount Tactical commentator’s response saying he would fix fol..."](/statements/statement-a1dd3aa8ae10.md)
+  - About: [Ian Carroll](/entities/person-ian-carroll.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
@@ -270,7 +343,14 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gary Melton (3)</strong></summary>
+<summary><strong class="section-title">Statements about Gary Melton (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:40:26](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04) (Claim) **Ian Carroll** (via quoted tweet): ["In the post read by Owens, Ian Carroll replied to the Paramount Tactic..."](/statements/statement-0064ab93ec13.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>

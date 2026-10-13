@@ -1,6 +1,6 @@
 ---
 title: "Montana"
-description: "Montana (Places) - 25 mentions"
+description: "Montana (Places) - 31 mentions"
 id: "gpe-montana"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Montana.gov - Official State Website](https://mt.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-montana-t-00-01-57">2025-10-30 · 00:01:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-montana-t-00-19-28">2026-09-03 · 00:20:06</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-montana-t-00-26-02">2026-10-07 · 00:26:19</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,12 @@ Source: [Montana.gov - Official State Website](https://mt.gov/)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-montana-t-03-01-04" style="--pulse-height:25%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-montana-t-00-28-09" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-montana-t-00-19-28" style="--pulse-height:25%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-montana-t-00-31-50" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-montana-t-00-48-05" style="--pulse-height:25%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-montana-t-00-41-38" style="--pulse-height:25%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-montana-t-00-43-32" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-montana-t-00-49-29" style="--pulse-height:25%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-montana-t-00-26-02" style="--pulse-height:25%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +77,12 @@ Source: [Montana.gov - Official State Website](https://mt.gov/)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-montana-t-03-01-04) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-montana-t-00-28-09) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-montana-t-00-19-28) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-montana-t-00-31-50) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-montana-t-00-48-05) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-montana-t-00-41-38) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-montana-t-00-43-32) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-montana-t-00-49-29) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-montana-t-00-26-02) | 1 |
 
 </details>
 </section>
@@ -78,7 +90,55 @@ Source: [Montana.gov - Official State Website](https://mt.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:26:19](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-montana-t-00-26-02)**
+> "...w is sourced from ranchers in Montana and every product is batched and filled right her..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:49:29](/episodes/ep-ms5ChhZegRg.md#ent-gpe-montana-t-00-49-29)**
+> "...w is sourced from ranchers in Montana and every product is batched and filled right her..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:44:03](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-montana-t-00-43-32)**
+> "...w is sourced from ranchers in Montana and every product is batched and filled right her..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:41:54](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-montana-t-00-41-38)**
+> "...w is sourced from ranchers in Montana, and every product is batched and filled right he..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:48:37](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-montana-t-00-48-05)**
+> "...w is sourced from ranchers in Montana and every product is batched and filled right her..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:31:57](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-montana-t-00-31-50)**
+> "...w is sourced from ranchers in Montana, and every product is batched and filled right he..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -271,6 +331,19 @@ Source: [Montana.gov - Official State Website](https://mt.gov/)
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#t-00-11-02): “he was born in Montana”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Montana (1)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:41:38](/episodes/ep-_2DiIbfy4mU.md#t-00-41-38) (Claim) **Candace Owens**: ["Owens says Nimi recently launched a tallow body line, sources grass-fe..."](/statements/statement-cc28779c0b84.md)
+  - Also about: [Nimi Skincare](/entities/org-nimi-skincare.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 

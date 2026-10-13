@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell"
-description: "Ghislaine Maxwell (People) - 18 mentions"
+description: "Ghislaine Maxwell (People) - 24 mentions"
 id: "person-ghislaine-maxwell"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-29-10">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-40-06">2026-06-26 · 00:40:06</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-15-41">2026-10-05 · 00:15:41</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,9 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-ghislaine-maxwell-t-00-10-39" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-ghislaine-maxwell-t-00-03-05" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-18-12" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-ghislaine-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-ghislaine-maxwell-t-00-31-51" style="--pulse-height:33%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-14-58" style="--pulse-height:67%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +61,9 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-ghislaine-maxwell-t-00-10-39) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-ghislaine-maxwell-t-00-03-05) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-18-12) | 3 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-ghislaine-maxwell-t-00-39-05) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-ghislaine-maxwell-t-00-31-51) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-14-58) | 2 |
 
 </details>
 </section>
@@ -69,7 +75,40 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:15:21](/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-14-58)**
+> "...hat had everything to do with Ghislaine Maxwell and Jeffrey Epstein discovering he had been suici..."
+
+**[00:15:41](/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-15-41)**
+> "She's just poor Ghislaine (Ghislaine Maxwell). Suddenly, they are very focused on this beat. T..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:32:04](/episodes/ep-q4m-kGzvwjw.md#ent-person-ghislaine-maxwell-t-00-31-51)**
+> "...heir obsession with printing, Ghislaine Maxwell, their connections to really I mean this is a thi..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3 mentions)</summary>
+
+**[00:39:20](/episodes/ep-NNiCZk1cuzs.md#ent-person-ghislaine-maxwell-t-00-39-05)**
+> "...st thing they then promote is Ghislaine Maxwell Epstein's shadow. It's a documentary that is of c..."
+
+**[00:39:36](/episodes/ep-NNiCZk1cuzs.md#ent-person-ghislaine-maxwell-t-00-39-36)**
+> "... being too soft on Ghislaine (Ghislaine Maxwell). That became this narrative like she's just the ..."
+
+**[00:39:52](/episodes/ep-NNiCZk1cuzs.md#ent-person-ghislaine-maxwell-t-00-39-36)**
+> "...like a media puff piece about Ghislaine Maxwell."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -235,7 +274,23 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ghislaine Maxwell (6)</strong></summary>
+<summary><strong class="section-title">Statements about Ghislaine Maxwell (8)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:15:21](/episodes/ep-ms5ChhZegRg.md#t-00-14-58) (Accusation) **Candace Owens**: ["Owens called the New York Post “the Mossad’s rag” and alleged it cover..."](/statements/statement-e5a2d086381a.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md), [Mossad](/entities/org-mossad.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1)</summary>
+
+- [00:39:20](/episodes/ep-NNiCZk1cuzs.md#t-00-39-05) (Opinion) **Candace Owens**: ["Owens characterized Ghislaine Maxwell: Epstein’s Shadow as sympathetic..."](/statements/statement-afd524dc6b58.md)
+  - Also about: [Ghislaine Maxwell: Epstein’s Shadow](/entities/work-ghislaine-maxwell-epsteins-shadow.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>

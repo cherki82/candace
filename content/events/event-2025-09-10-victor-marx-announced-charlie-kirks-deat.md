@@ -17,7 +17,7 @@ time: "13:13"
 
 > Victor Marx announced Charlie Kirk's death at 1:13 p.m. Utah time, according to a screenshot presented by Candace Owens.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Secret Service Admits "There Was No Threat". ATF Releases Re...
 
@@ -50,3 +50,11 @@ time: "13:13"
 <a href="https://www.youtube.com/watch?v=cPidFQDJLbo&t=289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > first to post a video that was later on removed saying that Charlie had passed
+
+### 5. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:39:05](/episodes/ep-UAdBEXs7nNc.md#t-00-39-05) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=2345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Victor Marx had already tweeted out that Charlie was dead,

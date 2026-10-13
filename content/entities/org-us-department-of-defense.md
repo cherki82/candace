@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 94 mentions"
+description: "United States Department of Defense (Organizations) - 112 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,12 +28,12 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-us-department-of-defense-t-00-24-56">2026-09-10 · 00:25:15</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>94</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-48-10">2026-10-06 · 00:48:10</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>112</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>57</strong></div>
-<div><span>Relationships</span><strong>26</strong></div>
+<div><span>Statements about</span><strong>68</strong></div>
+<div><span>Relationships</span><strong>30</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -78,6 +78,12 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-us-department-of-defense-t-00-26-22" style="--pulse-height:23%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-us-department-of-defense-t-00-02-03" style="--pulse-height:23%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-us-department-of-defense-t-00-24-56" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-us-department-of-defense-t-00-06-04" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-us-department-of-defense-t-00-00-01" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-us-department-of-defense-t-00-26-29" style="--pulse-height:31%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 4 mentions" title="2026-09-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-26-33" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-20-46" style="--pulse-height:15%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41" style="--pulse-height:69%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 9 mentions" title="2026-10-06 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -120,6 +126,12 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-us-department-of-defense-t-00-26-22) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-us-department-of-defense-t-00-02-03) | 3 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-org-us-department-of-defense-t-00-24-56) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-us-department-of-defense-t-00-06-04) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-us-department-of-defense-t-00-00-01) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-us-department-of-defense-t-00-26-29) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-20-46) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41) | 9 |
 
 </details>
 </section>
@@ -131,7 +143,91 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (9 mentions)</summary>
+
+**[00:01:54](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41)**
+> "...actually she was hired by the Department of War back in July of this year, right at the commencem..."
+
+**[00:03:10](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-03-00)**
+> "...t of things to get behind the Department of War's story or narrative."
+
+**[00:03:34](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-03-00)**
+> "...doing this assignment for the DOD."
+
+**[00:04:34](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-04-07)**
+> "...nced her resignation from the DOD. She wrote this on X. I have submitted my resigna..."
+
+**[00:06:49](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-06-13)**
+> "...Jennica (Jennica Pounds), the Department of War is paying Jennica (Jennica Pounds). In many other..."
+
+**[00:27:01](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-26-28)**
+> "...as an emotional asset for the Department of War. And she said, I want to go home."
+
+**[00:27:07](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-27-07)**
+> "...uld be a great person for the Department of Defense to work out, to work with as they're making her t..."
+
+**[00:43:39](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-43-39)**
+> "...limited budget, that have the DOD coming to her defense, positing her as some sort ..."
+
+**[00:48:10](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-48-10)**
+> "... this week. The people at the Department of Defense are just nice people."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:20:46](/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-20-46)**
+> "... biting, which means that the Department of War controlling our algorithm and launching an infini..."
+
+**[00:54:17](/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-54-00)**
+> "Just amazing. Like the Department of War is like, we'll just send out and make you look li..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:26:41](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33)**
+> "America bombs Iran, the nuclear sites. On June 22nd, Bradley Hansel (Defense appointee; name spelling unverified) is confirmed by the Senate as the Undersecretary of Defense."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (4 mentions)</summary>
+
+**[00:26:41](/episodes/ep-5TTkMa49qj8.md#ent-org-us-department-of-defense-t-00-26-29)**
+> "She's like Department of War to take down Candace Owens, partnering with them...."
+
+**[00:37:01](/episodes/ep-5TTkMa49qj8.md#ent-org-us-department-of-defense-t-00-36-41)**
+> "...rica (Erika Kirk) is like the Department of War's emotional asset, whatever it is. And so we had to..."
+
+**[00:59:33](/episodes/ep-5TTkMa49qj8.md#ent-org-us-department-of-defense-t-00-59-33)**
+> "...when she's in D.C., they, uh, Department of War attacks against me start doubling. I think it's g..."
+
+**[01:04:20](/episodes/ep-5TTkMa49qj8.md#ent-org-us-department-of-defense-t-01-04-03)**
+> "...ying dirty. We don't have the Department of War behind us."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:00:05](/episodes/ep-bIuvTKlFeGo.md#ent-org-us-department-of-defense-t-00-00-01)**
+> "...ve been called wine moms, the Department of War has executed a campaign, online campaign, paying ..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:06:17](/episodes/ep-BvthGQw3_s0.md#ent-org-us-department-of-defense-t-00-06-04)**
+> "...rk for the NSA and or for the Department of Defense."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -609,10 +705,11 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45): “Well, it turns out that the Trump administration heard the call and they took me literally because it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination. That's weird.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:00](/episodes/ep-ZkDO-MRLUco.md#t-00-41-54): “And if this goes through we've already seen the mechanics of our government in a way that we have never seen it we now know the department of war is involved in the propaganda and trying to get Tyler Robinson convicted and going after people who are asking meaningful questions smearing people putting people on payroll also the timeline of when they started putting people on payroll is very alarming to me we had been highlighting without even knowing”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:20:46](/episodes/ep-ms5ChhZegRg.md#t-00-20-46): “And despite their very, it feels like weekly attempts. To destroy my character, the public's not biting, which means that the Department of War controlling our algorithm and launching an infinite amount of bots is not working.”
 
 </details>
 
@@ -655,11 +752,12 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 - **[Bradley D. Hansell](/entities/person-bradley-d-hansell.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:46:21](/episodes/ep-19vHhjF7-NA.md#t-00-46-17): “Brad Hansell, the undersecretary of war.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:41:19](/episodes/ep-WoXd4oLwd3w.md#t-00-41-19): “Moving on to Bradley Hansell. OK, so just to remind you, he is Trump (Donald Trump)'s appointed undersecretary of defense for intelligence and security, one of the Pentagon's top intelligence officials responsible for overseeing defense intelligence and security matters all across the DOD. OK.”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:09](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hansell.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:26:41](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33): “America bombs Iran, the nuclear sites. On June 22nd, Bradley Hansel (Defense appointee; name spelling unverified) is confirmed by the Senate as the Undersecretary of Defense. ... for intelligence. His term is set to begin on July 25th. Now we're in July. July 7th, the 9th, Bibi Netanyahu (Benjamin Netanyahu) visits Washington, D.C.”
 
 </details>
 
@@ -680,13 +778,20 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Graham Allen](/entities/person-graham-allen.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:30](/episodes/ep-IqHsl7d2dos.md#t-00-26-23): “Did you know what he was doing right before Charlie (Charlie Kirk) died? His official title was senior consultant to the Department of War.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
+
+</details>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership. I'm stepping back to focus on my book tour and midterms analysis in the months ahead. I do want to say that I'm disappointed by how special government employees, not just myself, have been treated in public discourse.”
 
 </details>
 
@@ -711,6 +816,18 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:34](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Hired (1)</summary>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41): “Let's start with this chick. Do you guys remember? This chick, Jennica Pounds, a.k.a. Data Republican (Jennica Pounds), who unbeknownst to the public was presenting like she's just like an independent investigator. We find out that actually she was hired by the Department of War back in July of this year, right at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of propaganda that week, and it seems that right after she got hired, her first.”
 
 </details>
 
@@ -742,13 +859,14 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (16)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45): “Well, it turns out that the Trump administration heard the call and they took me literally because it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination. That's weird.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:00](/episodes/ep-ZkDO-MRLUco.md#t-00-41-54): “And if this goes through we've already seen the mechanics of our government in a way that we have never seen it we now know the department of war is involved in the propaganda and trying to get Tyler Robinson convicted and going after people who are asking meaningful questions smearing people putting people on payroll also the timeline of when they started putting people on payroll is very alarming to me we had been highlighting without even knowing”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:20:46](/episodes/ep-ms5ChhZegRg.md#t-00-20-46): “And despite their very, it feels like weekly attempts. To destroy my character, the public's not biting, which means that the Department of War controlling our algorithm and launching an infinite amount of bots is not working.”
 
 </details>
 
@@ -782,6 +900,13 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 </details>
 
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership. I'm stepping back to focus on my book tour and midterms analysis in the months ahead. I do want to say that I'm disappointed by how special government employees, not just myself, have been treated in public discourse.”
+
+</details>
+
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -793,6 +918,13 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:34](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense.”
+
+</details>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)** hired by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41): “Let's start with this chick. Do you guys remember? This chick, Jennica Pounds, a.k.a. Data Republican (Jennica Pounds), who unbeknownst to the public was presenting like she's just like an independent investigator. We find out that actually she was hired by the Department of War back in July of this year, right at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of propaganda that week, and it seems that right after she got hired, her first.”
 
 </details>
 
@@ -828,11 +960,12 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 - **[Bradley D. Hansell](/entities/person-bradley-d-hansell.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:46:21](/episodes/ep-19vHhjF7-NA.md#t-00-46-17): “Brad Hansell, the undersecretary of war.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:41:19](/episodes/ep-WoXd4oLwd3w.md#t-00-41-19): “Moving on to Bradley Hansell. OK, so just to remind you, he is Trump (Donald Trump)'s appointed undersecretary of defense for intelligence and security, one of the Pentagon's top intelligence officials responsible for overseeing defense intelligence and security matters all across the DOD. OK.”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:09](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hansell.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:26:41](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33): “America bombs Iran, the nuclear sites. On June 22nd, Bradley Hansel (Defense appointee; name spelling unverified) is confirmed by the Senate as the Undersecretary of Defense. ... for intelligence. His term is set to begin on July 25th. Now we're in July. July 7th, the 9th, Bibi Netanyahu (Benjamin Netanyahu) visits Washington, D.C.”
 
 </details>
 
@@ -868,7 +1001,64 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (57)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (68)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (5)</summary>
+
+- [00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41) (Claim) **Candace Owens**: ["Owens said Jennica Pounds, also known as Data Republican, presented he..."](/statements/statement-76bae3bd0aaf.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:01:54](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41) (Accusation) **Candace Owens**: ["Owens alleged that it seems Jennica Pounds’s first assignment after be..."](/statements/statement-765bb58483e5.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:04:07](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07) (Accusation) **Candace Owens**: ["Owens asked why the nation’s defense budget was being allocated to des..."](/statements/statement-9ff3690464b6.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07) (Claim) **Jennica Pounds** (via quoted tweet): ["Jennica Pounds announced that she had submitted her resignation from t..."](/statements/statement-c83635b9da24.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+- [00:06:49](/episodes/ep-0pSAhaAZz1w.md#t-00-06-13) (Accusation) **Candace Owens**: ["Owens alleged that in Jennica Pounds’s case the Department of War paid..."](/statements/statement-66fa93b051b8.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>
+
+- [00:20:46](/episodes/ep-ms5ChhZegRg.md#t-00-20-46) (Accusation) **Candace Owens**: ["Owens alleged that the Department of War was controlling the algorithm..."](/statements/statement-499f399e8e7d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:54:09](/episodes/ep-ms5ChhZegRg.md#t-00-54-00) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Data Republican, the alias of Jennica Pounds, had been h..."](/statements/statement-b72988b5256e.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:26:41](/episodes/ep-5TTkMa49qj8.md#t-00-26-29) (Accusation) **Candace Owens**: ["Owens alleged Turning Point USA is “an extension of the state” and cha..."](/statements/statement-ac7158aa4592.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
+
+- [00:59:33](/episodes/ep-5TTkMa49qj8.md#t-00-59-33) (Accusation) **Candace Owens**: ["Owens said it “seems to be” that Department of War attacks against her..."](/statements/statement-70d84e7af8bd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:00:05](/episodes/ep-bIuvTKlFeGo.md#t-00-00-01) (Accusation) **Candace Owens**: ["Owens alleged that the Department of War executed an online campaign p..."](/statements/statement-088e1b68adee.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:06:17](/episodes/ep-BvthGQw3_s0.md#t-00-06-04) (Claim) **Candace Owens**: ["Owens said UVU has a high federal presence because it is a pipeline sc..."](/statements/statement-a0a43b989478.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [National Security Agency](/entities/org-national-security-agency.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

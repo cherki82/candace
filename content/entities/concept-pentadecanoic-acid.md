@@ -1,6 +1,6 @@
 ---
 title: "Pentadecanoic acid"
-description: "Pentadecanoic acid (Concepts) - 35 mentions"
+description: "Pentadecanoic acid (Concepts) - 38 mentions"
 id: "concept-pentadecanoic-acid"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-concept-pentadecanoic-acid-t-00-32-02">2025-10-07 · 00:32:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-pentadecanoic-acid-t-00-42-19">2026-09-09 · 00:42:48</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-pentadecanoic-acid-t-00-26-04">2026-10-08 · 00:26:33</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -49,6 +49,7 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-pentadecanoic-acid-t-00-40-50" style="--pulse-height:60%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-pentadecanoic-acid-t-00-41-16" style="--pulse-height:60%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-pentadecanoic-acid-t-00-42-19" style="--pulse-height:80%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 4 mentions" title="2026-09-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-pentadecanoic-acid-t-00-26-04" style="--pulse-height:60%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-concept-pentadecanoic-acid-t-00-40-50) | 3 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-pentadecanoic-acid-t-00-41-16) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-concept-pentadecanoic-acid-t-00-42-19) | 4 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-concept-pentadecanoic-acid-t-00-26-04) | 3 |
 
 </details>
 </section>
@@ -72,7 +74,21 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3 mentions)</summary>
+
+**[00:26:12](/episodes/ep-UAdBEXs7nNc.md#ent-concept-pentadecanoic-acid-t-00-26-04)**
+> "...upplement that's built around C15, which is the first essential fatty acid discover..."
+
+**[00:26:22](/episodes/ep-UAdBEXs7nNc.md#ent-concept-pentadecanoic-acid-t-00-26-04)**
+> "...have found that low levels of C15 may impact how well our cells age and function ov..."
+
+**[00:26:33](/episodes/ep-UAdBEXs7nNc.md#ent-concept-pentadecanoic-acid-t-00-26-04)**
+> "...alth. Studies have shown that C15 is a foundational nutrient that supports healthy ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (4 mentions)</summary>

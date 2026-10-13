@@ -1,6 +1,6 @@
 ---
 title: "Netflix"
-description: "Netflix (Organizations) - 9 mentions"
+description: "Netflix (Organizations) - 10 mentions"
 id: "org-netflix"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Netflix — About](https://about.netflix.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-netflix-t-00-33-23">2025-11-10 · 00:33:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-netflix-t-00-16-23">2026-07-20 · 00:16:23</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-netflix-t-00-38-08">2026-09-18 · 00:38:08</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Netflix — About](https://about.netflix.com/)
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-netflix-t-00-39-19" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-netflix-t-00-55-32" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-netflix-t-00-16-23" style="--pulse-height:50%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-netflix-t-00-38-08" style="--pulse-height:50%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Netflix — About](https://about.netflix.com/)
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-netflix-t-00-39-19) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-netflix-t-00-55-32) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-netflix-t-00-16-23) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-netflix-t-00-38-08) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Netflix — About](https://about.netflix.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:38:08](/episodes/ep-NNiCZk1cuzs.md#ent-org-netflix-t-00-38-08)**
+> "...ive global success of her hit Netflix documentary series, which was entitled The Disapp..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>

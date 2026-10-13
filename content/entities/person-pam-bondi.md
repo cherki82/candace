@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 32 mentions"
+description: "Pam Bondi (People) - 37 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-37">2025-09-19 · 00:34:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-48-59">2026-06-18 · 00:49:09</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-pam-bondi-t-00-43-14">2026-10-05 · 00:43:14</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -48,6 +48,9 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-pam-bondi-t-00-16-27" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-00-01" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-pam-bondi-t-01-00-03" style="--pulse-height:17%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-pam-bondi-t-00-29-54" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-pam-bondi-t-00-43-14" style="--pulse-height:17%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +69,9 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49) | 6 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-pam-bondi-t-00-16-27) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-00-01) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-pam-bondi-t-01-00-03) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-pam-bondi-t-00-29-54) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-pam-bondi-t-00-43-14) | 1 |
 
 </details>
 </section>
@@ -77,7 +83,37 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:43:14](/episodes/ep-ms5ChhZegRg.md#ent-person-pam-bondi-t-00-43-14)**
+> "Pam Bondi saying that it would lead to global economic cata..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:30:12](/episodes/ep-q4m-kGzvwjw.md#ent-person-pam-bondi-t-00-29-54)**
+> "... Woodward, and Kash Patel and Pam Bondi joined by phone."
+
+**[00:32:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-pam-bondi-t-00-32-36)**
+> "...David Warrington, Kash Patel, Pam Bondi, James Blair, Stephen Chung (meeting participant;..."
+
+**[00:36:23](/episodes/ep-q4m-kGzvwjw.md#ent-person-pam-bondi-t-00-36-17)**
+> "...ed in person are Susie Wiles, Pam Bondi, Todd Blanche, Kash Patel, James Blair, Taylor Bu..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:00:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-pam-bondi-t-01-00-03)**
+> "...Patel, Dan Bongino, my friend Pam Bondi, all these guys."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
@@ -283,6 +319,18 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details>
+<summary>Friend Of (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:00:33](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03): “I would love to see that. And I'm going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Katie Miller](/entities/person-katie-miller.md)**
@@ -295,7 +343,19 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Met With (1)</summary>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -319,10 +379,24 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:00:33](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03): “I would love to see that. And I'm going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys.”
+
+</details>
+
 - **[Katie Miller](/entities/person-katie-miller.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/episodes/ep-aDlhjfW6hz8.md#t-00-34-37): “Pam Bondi said to Katie Miller on her podcast”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
 
 </details>
 
@@ -369,7 +443,23 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pam Bondi (16)</strong></summary>
+<summary><strong class="section-title">Statements about Pam Bondi (18)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:43:14](/episodes/ep-ms5ChhZegRg.md#t-00-43-14) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Pam Bondi as saying release of the Epstein files w..."](/statements/statement-b532d979e3d8.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:00:27](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03) (Opinion) **Charlie Kirk** (via quoted speech): ["Kirk said he would love the DOJ to move to unseal grand jury testimony..."](/statements/statement-3999622dbf71.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

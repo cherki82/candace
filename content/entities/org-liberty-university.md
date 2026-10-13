@@ -1,6 +1,6 @@
 ---
 title: "Liberty University"
-description: "Liberty University (Organizations) - 69 mentions"
+description: "Liberty University (Organizations) - 70 mentions"
 id: "org-liberty-university"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24">2025-10-29 · 00:04:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-19-59">2026-05-11 · 00:20:16</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-liberty-university-t-00-05-43">2026-10-08 · 00:05:46</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
@@ -49,6 +49,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-liberty-university-t-00-05-43" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-liberty-university-t-00-05-43) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:05:46](/episodes/ep-UAdBEXs7nNc.md#ent-org-liberty-university-t-00-05-43)**
+> "...e did like was going to go to Liberty University and then decided to be Charlie (Charlie Kirk)'s c..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3 mentions)</summary>

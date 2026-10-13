@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 266 mentions"
+description: "White House (Organizations) - 281 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57">2026-08-11 · 00:20:27</a></strong></div>
-<div><span>Episodes</span><strong>74</strong></div>
-<div><span>Mentions</span><strong>266</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39">2026-10-07 · 00:50:05</a></strong></div>
+<div><span>Episodes</span><strong>82</strong></div>
+<div><span>Mentions</span><strong>281</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>72</strong></div>
+<div><span>Statements about</span><strong>76</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -105,6 +105,14 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-white-house-t-00-00-01" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-white-house-t-00-47-00" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-white-house-t-00-41-17" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-white-house-t-00-10-32" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-white-house-t-00-35-34" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-white-house-t-01-27-17" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-white-house-t-00-11-50" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-white-house-t-00-23-49" style="--pulse-height:18%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-white-house-t-00-26-28" style="--pulse-height:11%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -184,6 +192,14 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-white-house-t-00-00-01) | 3 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-white-house-t-00-47-00) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-white-house-t-00-41-17) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-white-house-t-00-10-32) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-white-house-t-00-35-34) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-white-house-t-01-27-17) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-white-house-t-00-11-50) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-white-house-t-00-23-49) | 5 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-white-house-t-00-26-28) | 3 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39) | 1 |
 
 </details>
 </section>
@@ -195,7 +211,92 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (266)</strong></summary>
+<summary><strong class="section-title">Raw mentions (281)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:50:05](/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39)**
+> "...sest shot at getting into the White House, which I think might have been her ultimate goal,..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
+
+**[00:26:28](/episodes/ep-0pSAhaAZz1w.md#ent-org-white-house-t-00-26-28)**
+> "I'm giving you a few. The White House Presidential Medal of Freedom on October 14th. Re..."
+
+**[00:31:14](/episodes/ep-0pSAhaAZz1w.md#ent-org-white-house-t-00-30-44)**
+> "...gram at small gatherings, the White House, and at Mar-a-Lago alongside the Kirks and Tulsi ..."
+
+**[00:53:01](/episodes/ep-0pSAhaAZz1w.md#ent-org-white-house-t-00-53-01)**
+> "...ately, because she wanted the White House. I genuinely believe that Erika (Erika Kirk) had ..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5 mentions)</summary>
+
+**[00:24:07](/episodes/ep-q4m-kGzvwjw.md#ent-org-white-house-t-00-23-49)**
+> "...Emmanuel Macron has asked the White House for her to stop discussing Brigitte (Brigitte Mac..."
+
+**[00:24:15](/episodes/ep-q4m-kGzvwjw.md#ent-org-white-house-t-00-23-49)**
+> "Emmanuel Macron was at the White House on this day and put in a personal request. That i..."
+
+**[00:24:28](/episodes/ep-q4m-kGzvwjw.md#ent-org-white-house-t-00-23-49)**
+> "February 25th, Sergio Gore (White House caller; name spelling unverified). Well, that Eri..."
+
+**[00:26:15](/episodes/ep-q4m-kGzvwjw.md#ent-org-white-house-t-00-25-50)**
+> "...irk) physically goes into the White House and ultimately wins the debate against the Zionis..."
+
+**[00:35:14](/episodes/ep-q4m-kGzvwjw.md#ent-org-white-house-t-00-35-03)**
+> "... mole that was working at the White House who Bill Clinton said."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:12:18](/episodes/ep-5TTkMa49qj8.md#ent-org-white-house-t-00-11-50)**
+> "...ashington, the morning of the White House correspondence dinner, I came dressed in my best ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:27:40](/episodes/ep-bIuvTKlFeGo.md#ent-org-white-house-t-01-27-17)**
+> "...i (Benjamin Netanyahu) at the White House, and then in that same day Erika (Erika Kirk) pur..."
+
+**[01:27:47](/episodes/ep-bIuvTKlFeGo.md#ent-org-white-house-t-01-27-17)**
+> "...ie (Charlie Kirk) went to the White House and won the debate against the Zionist lobbyists ..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:36:01](/episodes/ep-_2DiIbfy4mU.md#ent-org-white-house-t-00-35-34)**
+> "publish it onto the White House Twitter feed."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:10:50](/episodes/ep-NNiCZk1cuzs.md#ent-org-white-house-t-00-10-32)**
+> "...k), in October of 2019 at the White House."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:41:22](/episodes/ep-aLJhpxrakCU.md#ent-org-white-house-t-00-41-17)**
+> "...e certainly was on her at the White House when Charlie (Charlie Kirk), I think it was Charl..."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -1513,7 +1614,39 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (72)</strong></summary>
+<summary><strong class="section-title">Statements about White House (76)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:35:14](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03) (Accusation) **Candace Owens** (via paraphrase): ["Recounting her Epstein series, Owens alleged Netanyahu blackmailed Bil..."](/statements/statement-a2263a08adfb.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Clinton](/entities/person-bill-clinton.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:27:40](/episodes/ep-bIuvTKlFeGo.md#t-01-27-17) (Claim) **Candace Owens**: ["Owens said Charlie Kirk went to the White House June 18th and 19th and..."](/statements/statement-374ede496eee.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1)</summary>
+
+- [00:10:25](/episodes/ep-NNiCZk1cuzs.md#t-00-09-47) (Accusation) **Candace Owens** (via paraphrase): ["Owens disputed Kolvet's characterization that she and Kirk were no lon..."](/statements/statement-e138ebd0acea.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:41:17](/episodes/ep-aLJhpxrakCU.md#t-00-41-17) (Claim) **Candace Owens**: ["Owens said Dan Flood provided security to Erika Kirk after Charlie’s d..."](/statements/statement-02198de4b6ea.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3)</summary>

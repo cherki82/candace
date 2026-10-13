@@ -1,6 +1,6 @@
 ---
 title: "Irina Mappin"
-description: "Irina Mappin (People) - 19 mentions"
+description: "Irina Mappin (People) - 20 mentions"
 id: "person-irina-mappin"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-irina-mappin-t-00-44-22">2025-10-07 · 00:44:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-irina-mappin-t-00-05-21">2026-09-10 · 00:05:45</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-irina-mappin-t-00-56-47">2026-09-16 · 00:56:47</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-irina-mappin-t-00-22-42" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-03-40" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-irina-mappin-t-00-05-21" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-irina-mappin-t-00-56-47" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-irina-mappin-t-00-22-42) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-03-40) | 13 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-irina-mappin-t-00-05-21) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-irina-mappin-t-00-56-47) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:56:47](/episodes/ep-aLJhpxrakCU.md#ent-person-irina-mappin-t-00-56-47)**
+> "And him and Irina (Irina Mappin) have just been fantastic friends to us, especial..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -206,9 +216,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
 
 </details>
 
@@ -236,7 +247,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details>
-<summary>Supporter Of (1)</summary>
+<summary>Supporter Of (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -246,10 +257,17 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Candace Owens, Charlie Kirk and the Pursuit of Truth](/entities/work-candace-owens-charlie-kirk-pursuit-of-truth.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -283,9 +301,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
 
 </details>
 
@@ -322,6 +341,13 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
 - [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
 
 </details>
 

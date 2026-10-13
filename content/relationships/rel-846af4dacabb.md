@@ -11,7 +11,7 @@ object: "gpe-israel"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Israel](/entities/gpe-israel)
 
-### Evidence (6 mentions)
+### Evidence (8 mentions)
 
 **[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
 
@@ -28,6 +28,14 @@ object: "gpe-israel"
 **[DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo)**
 
 - [00:34:10](/episodes/ep-YA1FxrDWNIo#t-00-34-10): _So my question is, why isn't Turning Point USA making any statements and shutting down this repeat attempt by Israel to lie and to pretend that, towards the end, Charlie (Charlie Kirk) was just authoring love letters to Israel—giving them a perspective of, "Here's how we can win,_
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:36:00](/episodes/ep-_Sq5RqP27NY#t-00-36-00): _And you were behind, just throwing out there, Israel was behind 9-11, everybody knows it, it's so ridiculous that way, it's like the dumbest thing ever if you don't know that Israel was behind 9-11._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:15:04](/episodes/ep-ms5ChhZegRg#t-00-15-04): _We all know Israel took over TikTok. That was very, that was just done in our face. It became to pro-Palestine after October 7th. ... So they said, we're going to get rid of it because China controls it. And then they said, nevermind, we've got this group of Zionist investors and we're just going to buy it and get rid of pro-Palestine talk._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 

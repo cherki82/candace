@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > George Zinn arrested for false confession to Charlie Kirk shooting
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
@@ -49,3 +49,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=3326s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > George Zinn, arrested for claiming to be the shooter of the day of
+
+### 5. A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemor...
+
+**Episode:** [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md)
+**Timestamp:** [00:11:56](/episodes/ep-kn1E0scy9Wc.md#event-event-2025-09-10-george-zinn-arrested-for-false-confessio-t-00-11-56) 
+<a href="https://www.youtube.com/watch?v=kn1E0scy9Wc&t=716s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> George Zinn, who created a distraction by shouting, I did it. I did it

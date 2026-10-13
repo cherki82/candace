@@ -1,6 +1,6 @@
 ---
 title: "Dave Smith"
-description: "Dave Smith (People) - 33 mentions"
+description: "Dave Smith (People) - 34 mentions"
 id: "person-dave-smith"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-00-11-22">2025-09-15 · 00:11:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04">2026-08-19 · 00:49:04</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-dave-smith-t-01-05-42">2026-09-25 · 01:05:49</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
@@ -53,6 +53,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24" style="--pulse-height:14%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-dave-smith-t-01-27-52" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-dave-smith-t-01-05-42" style="--pulse-height:14%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +76,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-dave-smith-t-01-27-52) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-dave-smith-t-01-05-42) | 1 |
 
 </details>
 </section>
@@ -82,7 +84,15 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:05:49](/episodes/ep-bIuvTKlFeGo.md#ent-person-dave-smith-t-01-05-42)**
+> "...tein) hosting people who like Dave Smith versus Josh Hammer allowing him to just absolutel..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -296,10 +306,11 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <summary>Debated (2)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:40:02](/episodes/ep-his-JBjlkh8.md#t-00-40-02): “Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:05:49](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42): “He also Charlie (Charlie Kirk) also declined to have Bibi Netanyahu (Benjamin Netanyahu) on his show. So it's very clear which way the wind was blowing if he's covering Epstein (Jeffrey Epstein) hosting people who like Dave Smith versus Josh Hammer allowing him to just absolutely destroy Josh Hammer in a debate.”
 
 </details>
 
@@ -343,10 +354,11 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 </details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:40:02](/episodes/ep-his-JBjlkh8.md#t-00-40-02): “Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:05:49](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42): “He also Charlie (Charlie Kirk) also declined to have Bibi Netanyahu (Benjamin Netanyahu) on his show. So it's very clear which way the wind was blowing if he's covering Epstein (Jeffrey Epstein) hosting people who like Dave Smith versus Josh Hammer allowing him to just absolutely destroy Josh Hammer in a debate.”
 
 </details>
 

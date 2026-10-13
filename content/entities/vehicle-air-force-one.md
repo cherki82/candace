@@ -1,6 +1,6 @@
 ---
 title: "Air Force One"
-description: "Air Force One (Vehicles) - 7 mentions"
+description: "Air Force One (Vehicles) - 8 mentions"
 id: "vehicle-air-force-one"
 type: "VEHICLE"
 categories:
@@ -18,9 +18,9 @@ Source: [VC-25 - Air Force One | U.S. Air Force](https://www.af.mil/About-Us/Fac
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-vehicle-air-force-one-t-00-36-41">2025-12-17 · 00:36:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-vehicle-air-force-one-t-00-22-04">2026-04-29 · 00:22:06</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#ent-vehicle-air-force-one-t-00-29-51">2026-09-18 · 00:29:51</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [VC-25 - Air Force One | U.S. Air Force](https://www.af.mil/About-Us/Fac
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-air-force-one-t-00-48-30" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-vehicle-air-force-one-t-00-00-00" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-vehicle-air-force-one-t-00-22-04" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-vehicle-air-force-one-t-00-29-51" style="--pulse-height:25%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [VC-25 - Air Force One | U.S. Air Force](https://www.af.mil/About-Us/Fac
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-air-force-one-t-00-48-30) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-vehicle-air-force-one-t-00-00-00) | 4 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-vehicle-air-force-one-t-00-22-04) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-vehicle-air-force-one-t-00-29-51) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [VC-25 - Air Force One | U.S. Air Force](https://www.af.mil/About-Us/Fac
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:29:51](/episodes/ep-NNiCZk1cuzs.md#ent-vehicle-air-force-one-t-00-29-51)**
+> "...ial. We got Air Force Two and Air Force One."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>

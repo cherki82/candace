@@ -12,7 +12,7 @@ date: "2025-08-05"
 
 > Hamptons Summit pressures Charlie Kirk on Israel views
 
-## Mentioned In (25 times)
+## Mentioned In (26 times)
 
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
@@ -219,3 +219,11 @@ date: "2025-08-05"
 <a href="https://www.youtube.com/watch?v=sreYYcID-QY&t=2282s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > published a statement and said that Charlie said he felt morally blackmailed.
+
+### 26. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [01:04:32](/episodes/ep-bIuvTKlFeGo.md#t-01-04-22) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=3872s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> August 5th and sit through six, the Hamptons retreat, which Charlie will describe as

@@ -16,7 +16,7 @@ date: "2025-06-19"
 
 > Erika Kirk purged posts from her Instagram account.
 
-## Mentioned In (3 times)
+## Mentioned In (6 times)
 
 ### 1. Halftime Wars: TPUSA vs The NFL | Candace Ep 304
 
@@ -41,3 +41,30 @@ date: "2025-06-19"
 <a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=745s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > background is that on June 19th, Erika purges her Instagram.
+
+### 4. Exclusive Footage: A Tyler Robinson Challenger Appears! TPUS...
+
+**Episode:** [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md)
+**Timestamp:** [00:06:44](/episodes/ep-BvthGQw3_s0.md#t-00-06-44) 
+<a href="https://www.youtube.com/watch?v=BvthGQw3_s0&t=404s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> the same week that Erika purged her Instagram accounts.
+
+> **Date stated in this source:** “the same week as June 17th, 2025”
+> **Date review note:** This source supplies only the week containing June 17, 2025. Retain June 19 from repeated explicit dates in the existing canonical mentions; no conflicting exact day is asserted.
+
+### 5. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [01:27:56](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=5276s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And then on June 19th, Erika purges her Instagram, and on June... Yeah, that's leading
+
+### 6. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:26:33](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On June 19th, Erika purges her Instagram. She deletes 126 posts. On June 22nd, we have

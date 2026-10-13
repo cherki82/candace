@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-description: "Nebraska (Places) - 42 mentions"
+description: "Nebraska (Places) - 46 mentions"
 id: "gpe-nebraska"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27">2025-10-31 · 00:20:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-25-38">2026-07-23 · 00:25:38</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-nebraska-t-00-31-09">2026-10-01 · 00:31:21</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,8 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-nebraska-t-00-44-42" style="--pulse-height:13%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14" style="--pulse-height:13%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-20-28" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-nebraska-t-01-02-14" style="--pulse-height:20%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-nebraska-t-00-31-09" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +65,8 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-nebraska-t-00-44-42) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-20-28) | 5 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-nebraska-t-01-02-14) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-nebraska-t-00-31-09) | 1 |
 
 </details>
 </section>
@@ -74,7 +78,29 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:31:21](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-nebraska-t-00-31-09)**
+> "... through to Paris onto Omaha, Nebraska, and then onward to Lincoln, Nebraska."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[01:02:28](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-nebraska-t-01-02-14)**
+> "... planes that come into Omaha, Nebraska, and then head to Lincoln, Nebraska."
+
+**[01:06:07](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-nebraska-t-01-05-42)**
+> "... Kash Patel visits the Omaha, Nebraska field office. I wonder how often he does that. No..."
+
+**[01:06:34](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-nebraska-t-01-06-22)**
+> "What's going on in Nebraska? And I wanted to just know who was on the plane. ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (5 mentions)</summary>

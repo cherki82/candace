@@ -1,6 +1,6 @@
 ---
 title: "Michael Aquino"
-description: "Michael Aquino (People) - 10 mentions"
+description: "Michael Aquino (People) - 11 mentions"
 id: "person-michael-aquino"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-michael-aquino-t-01-20-11">2026-01-09 · 01:20:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-person-michael-aquino-t-00-38-50">2026-06-11 · 00:39:16</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-aquino-t-00-06-21">2026-09-15 · 00:06:45</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -42,6 +42,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-aquino-t-01-40-02" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-michael-aquino-t-00-38-50" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-aquino-t-00-06-21" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-aquino-t-01-40-02) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-michael-aquino-t-00-38-50) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-aquino-t-00-06-21) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:06:45](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-aquino-t-00-06-21)**
+> "...ions and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple o..."
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
@@ -173,11 +183,12 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <summary>Founded (1)</summary>
 
 - **[Temple of Set](/entities/org-temple-of-set.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Michael Aquino, a Satanist and founder of the Temple of Set.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:45](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set.”
 
 </details>
 
@@ -219,11 +230,12 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 </details>
 
 - **[Temple of Set](/entities/org-temple-of-set.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Michael Aquino, a Satanist and founder of the Temple of Set.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:45](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set.”
 
 </details>
 
@@ -257,9 +269,10 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 </details>
 
 - **[Paul E. Vallely](/entities/person-paul-e-vallely.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:20:30](/episodes/ep-ZZGWo6oDscc.md#t-00-20-30): “that's what these farms are all about i i actually kind of subscribe to the dead internet theory especially when i'm an x i'm like this is this is obviously run by the military i've never seen the bots say we shouldn't go to war ever and yet when i speak to people nobody wants to go to war so there you go anyways back to paul vallely vallely did two combat tours in vietnam he was in japan korea iraq israel you name it all over the place throughout europe And while he was serving, he collaborated with a major that was working under him, okay? This major became his official research and analysis team leader, and his name was Major Michael, look at those eyebrows, unbelievable, Michael Aquino.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:45](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set.”
 
 </details>
 

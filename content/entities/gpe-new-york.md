@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 149 mentions"
+description: "New York (Places) - 155 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of New York](https://www.ny.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-new-york-t-00-13-05">2026-07-31 · 00:13:14</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>149</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-t-00-47-33">2026-10-07 · 00:47:51</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>155</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -72,6 +72,11 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-t-00-37-18" style="--pulse-height:23%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-new-york-t-00-24-29" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-new-york-t-00-02-12" style="--pulse-height:15%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-01-04-22" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-new-york-t-00-59-33" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-33-17" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-new-york-t-00-48-50" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-t-00-20-23" style="--pulse-height:15%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -119,6 +124,11 @@ Source: [State of New York](https://www.ny.gov/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-t-00-37-18) | 3 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-new-york-t-00-24-29) | 1 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-new-york-t-00-02-12) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-01-04-22) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-new-york-t-00-59-33) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-33-17) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-new-york-t-00-48-50) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-t-00-20-23) | 2 |
 
 </details>
 </section>
@@ -130,7 +140,50 @@ Source: [State of New York](https://www.ny.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (149)</strong></summary>
+<summary><strong class="section-title">Raw mentions (155)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:20:23](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-t-00-20-23)**
+> "...s, a felon who served time in New York for defrauding investors, and a Ukrainian tycoon ..."
+
+**[00:47:51](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-t-00-47-33)**
+> "... organizers' addresses are in New York and West Virginia, and neither address actually e..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:48:50](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-new-york-t-00-48-50)**
+> "...laim, purports to be based in New York. This, of course, was, um, what happened here, in..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:33:36](/episodes/ep-q4m-kGzvwjw.md#t-00-33-17)**
+> "On August 3rd, Charlie (Charlie Kirk) and Erika (Erika Kirk) land in Bedford, New York, for the Hamptons retreat. From the 4th to the 6th, there's this, like, you know, between the intervention. We don't know specifically which day Bibi (Benjamin Netanyahu) called. My"
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:59:59](/episodes/ep-5TTkMa49qj8.md#ent-gpe-new-york-t-00-59-33)**
+> "...er college throughout through New York. I would go through something like that."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:04:22](/episodes/ep-bIuvTKlFeGo.md#t-01-04-22)**
+> "...(Erika Kirk) land in Bedford, New York for the Hamptons retreat."
+
+</details>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2 mentions)</summary>

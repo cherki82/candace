@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 279 mentions"
+description: "Lance Twiggs (People) - 287 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44">2025-09-16 · 00:00:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-36-09">2026-09-09 · 00:36:39</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>279</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-22-39">2026-09-25 · 00:22:39</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>287</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>84</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>92</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -67,6 +67,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39" style="--pulse-height:11%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-03-03" style="--pulse-height:17%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-35-24" style="--pulse-height:9%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-lance-twiggs-t-00-21-40" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-lance-twiggs-t-00-16-53" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-10-32" style="--pulse-height:14%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 5 mentions" title="2026-09-25 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +107,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-03-03) | 6 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-35-24) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-lance-twiggs-t-00-21-40) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-lance-twiggs-t-00-16-53) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-10-32) | 5 |
 
 </details>
 </section>
@@ -115,7 +121,46 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (279)</strong></summary>
+<summary><strong class="section-title">Raw mentions (287)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (5 mentions)</summary>
+
+**[00:10:52](/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-10-32)**
+> "... lookalike, maybe it's Lance (Lance Twiggs), who knows, and it's possible that thereafter he..."
+
+**[00:13:51](/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-13-30)**
+> "...n did, especially with Lance (Lance Twiggs)'s text messages. It's going to be hard to fit in..."
+
+**[00:20:55](/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-20-55)**
+> "...se I have long suspected that Lance Twiggs may not have just been sleeping through everythin..."
+
+**[00:22:13](/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-22-13)**
+> "...that we have seen, the Lance (Lance Twiggs) have always just felt that Lance (Lance Twiggs) ..."
+
+**[00:22:39](/episodes/ep-_Sq5RqP27NY.md#ent-person-lance-twiggs-t-00-22-39)**
+> "...ackmailed by the feds, Lance (Lance Twiggs) would be the person given his background, given ..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:16:53](/episodes/ep-6XfDqKTdFKg.md#ent-person-lance-twiggs-t-00-16-53)**
+> "...iven by his boyfriend, Lance (Lance Twiggs)."
+
+**[00:17:02](/episodes/ep-6XfDqKTdFKg.md#ent-person-lance-twiggs-t-00-16-53)**
+> "...o not buy the story of Lance (Lance Twiggs) sleeping through the entire day. That does not t..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:22:03](/episodes/ep-kn1E0scy9Wc.md#ent-person-lance-twiggs-t-00-21-40)**
+> "...e that then brought in Lance (Lance Twiggs) for a second statement in April."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
@@ -1132,6 +1177,30 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:53](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53): “What's up with the Dairy Queen? I think Tyler Robinson's car was, like I said, used. around campus, possibly driven by his boyfriend, Lance (Lance Twiggs). I certainly do not buy the story of Lance (Lance Twiggs) sleeping through the entire day. That does not track for me at all.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (1)</summary>
+
+- **[Utah Attorney General’s Office](/entities/org-utah-attorney-generals-office.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:22:03](/episodes/ep-kn1E0scy9Wc.md#t-00-21-40): “That's who runs the ICAC, the attorney general's office of Utah, the same attorney general's office that then brought in Lance (Lance Twiggs) for a second statement in April. before then recording the interview. The attorney general's office as who the ICAC works under and they are based there in Salt Lake City.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Roommate Of (2)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
@@ -1159,7 +1228,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1171,8 +1240,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:53](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53): “What's up with the Dairy Queen? I think Tyler Robinson's car was, like I said, used. around campus, possibly driven by his boyfriend, Lance (Lance Twiggs). I certainly do not buy the story of Lance (Lance Twiggs) sleeping through the entire day. That does not track for me at all.”
+
+</details>
+
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** dating this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:33:42](/episodes/ep-nPhCKwJ6ye8.md#t-01-33-02): “Lance was his boyfriend. That is a that is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:12:25](/episodes/ep-EtLHqDbxqks.md#t-00-12-25): “A very easy feat because he was his roommate and his boyfriend.”
@@ -1182,6 +1258,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:02:59](/episodes/ep-aPOyk1i2LOc.md#t-01-02-59): “Lance was his boyfriend. That is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01): “Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:14:30](/episodes/ep-q7f8r-THr84.md#t-00-14-30): “Robinson began to date his roommate, which is a biological male who was transitioning genders.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:53](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53): “What's up with the Dairy Queen? I think Tyler Robinson's car was, like I said, used. around campus, possibly driven by his boyfriend, Lance (Lance Twiggs).”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:20:55](/episodes/ep-_Sq5RqP27NY.md#t-00-20-55): “It's possible that it's the other Dodge Challenger. And I want to be clear about this, the cell phone data thing where they say that we got this from Tyler Robinson's phone because I have long suspected that Lance Twiggs may not have just been sleeping through everything that never registered to me as true that didn't register to me as a reason that you would need use immunity when you're testifying. ... That's it. Discord. Oh, he made a confession on Discord. OK, is it possible that his boyfriend had his Discord login? ... seems to be much more likely to be tied up in something. And I think given what we know about Tyler Robinson, he could have been very easy manipulated by his boyfriend to do certain things. He has the exact opposite record. His record's kind of squeaky clean.”
+
+</details>
+
+- **[Utah Attorney General’s Office](/entities/org-utah-attorney-generals-office.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:22:03](/episodes/ep-kn1E0scy9Wc.md#t-00-21-40): “That's who runs the ICAC, the attorney general's office of Utah, the same attorney general's office that then brought in Lance (Lance Twiggs) for a second statement in April. before then recording the interview. The attorney general's office as who the ICAC works under and they are based there in Salt Lake City.”
 
 </details>
 
@@ -1231,7 +1316,44 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (84)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (92)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (5)</summary>
+
+- [00:10:15](/episodes/ep-_Sq5RqP27NY.md#t-00-09-53) (Accusation) **Candace Owens**: ["Owens speculated that Tyler Robinson could have disposed of clothes in..."](/statements/statement-a95b0f0cea66.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dairy Queen](/entities/org-dairy-queen.md), [Operation Maroon Boys](/entities/concept-operation-maroon-boys.md)
+
+- [00:20:55](/episodes/ep-_Sq5RqP27NY.md#t-00-20-55) (Accusation) **Candace Owens**: ["Owens said she had long suspected Lance Twiggs was not sleeping throug..."](/statements/statement-6b54a1a929a9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Discord](/entities/org-discord.md)
+
+- [00:22:13](/episodes/ep-_Sq5RqP27NY.md#t-00-22-13) (Accusation) **Candace Owens**: ["Owens said she had always felt Lance Twiggs was very much involved and..."](/statements/statement-909e95c1e7d1.md)
+
+- [00:22:39](/episodes/ep-_Sq5RqP27NY.md#t-00-22-39) (Accusation) **Candace Owens**: ["Owens speculated that, if she were looking for someone blackmailed by ..."](/statements/statement-54be4fce2366.md)
+  - Also about: [Furry fandom](/entities/concept-furry-fandom.md)
+
+- [00:23:06](/episodes/ep-_Sq5RqP27NY.md#t-00-22-39) (Opinion) **Candace Owens**: ["Owens said she thought Tyler Robinson could have been easily manipulat..."](/statements/statement-3f32484f74e2.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2)</summary>
+
+- [00:16:53](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53) (Opinion) **Candace Owens**: ["Owens thinks Tyler Robinson’s car was used around campus, possibly dri..."](/statements/statement-7d3e2461c14a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:17:02](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53) (Opinion) **Candace Owens**: ["Owens says she does not buy the story that Lance Twiggs slept through ..."](/statements/statement-eba09e44367c.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:21:53](/episodes/ep-kn1E0scy9Wc.md#t-00-21-40) (Claim) **Candace Owens**: ["Owens said she could not be totally certain who sent ICAC but the like..."](/statements/statement-d679b297eb59.md)
+  - Also about: [Utah Attorney General’s Office](/entities/org-utah-attorney-generals-office.md), [Utah Internet Crimes Against Children Task Force](/entities/org-utah-icac-task-force.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

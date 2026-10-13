@@ -1,6 +1,6 @@
 ---
 title: "Jesse Watters"
-description: "Jesse Watters (People) - 32 mentions"
+description: "Jesse Watters (People) - 33 mentions"
 id: "person-jesse-watters"
 type: "PERSON"
 aliases:
@@ -21,11 +21,11 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-38">2025-10-09 · 00:13:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-46-34">2026-09-08 · 00:46:43</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-jesse-watters-t-00-22-41">2026-09-30 · 00:23:03</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -50,6 +50,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jesse-watters-t-00-09-46" style="--pulse-height:22%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-jesse-watters-t-00-16-07" style="--pulse-height:11%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-45-51" style="--pulse-height:22%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-jesse-watters-t-00-22-41" style="--pulse-height:11%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-jesse-watters-t-00-09-46) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-jesse-watters-t-00-16-07) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-45-51) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-jesse-watters-t-00-22-41) | 1 |
 
 </details>
 </section>
@@ -82,7 +84,15 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:23:03](/episodes/ep-5TTkMa49qj8.md#ent-person-jesse-watters-t-00-22-41)**
+> "She was wearing a dress. Jesse Watters interview on November. Number five, she was weari..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
@@ -260,7 +270,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <summary>Interviewed (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): “In other news, Erika Kirk sat down with Jesse Watters.”
@@ -270,6 +280,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica (Erika Kirk) in November, a little more detail during her sit down with Jesse Watters.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:05:25](/episodes/ep-SubDoZWHARo.md#t-00-04-56): “Erika Kirk herself jumped in and this was the reason that we were given via her interview with Jesse Watters.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:58](/episodes/ep-4DvYXBn_5JI.md#t-00-09-46): “Erika confirmed that in her sit down with Jesse Watters, but he never made it obviously to either one of those events.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:22:41](/episodes/ep-5TTkMa49qj8.md#t-00-22-41): “Erica (Erika Kirk) was completing the Everybody Grieves Differently World's Eras Tour. She had a lot of outfits that we saw. We saw immediately on September 12th when she addressed the nation. ... She was wearing a dress. Jesse Watters interview on November. Number five, she was wearing a green suit.”
 
 </details>
 
@@ -286,7 +297,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <summary>Referenced By (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): “In other news, Erika Kirk sat down with Jesse Watters.”
@@ -296,6 +307,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica (Erika Kirk) in November, a little more detail during her sit down with Jesse Watters.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:05:25](/episodes/ep-SubDoZWHARo.md#t-00-04-56): “Erika Kirk herself jumped in and this was the reason that we were given via her interview with Jesse Watters.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:58](/episodes/ep-4DvYXBn_5JI.md#t-00-09-46): “Erika confirmed that in her sit down with Jesse Watters, but he never made it obviously to either one of those events.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:22:41](/episodes/ep-5TTkMa49qj8.md#t-00-22-41): “Erica (Erika Kirk) was completing the Everybody Grieves Differently World's Eras Tour. She had a lot of outfits that we saw. We saw immediately on September 12th when she addressed the nation. ... She was wearing a dress. Jesse Watters interview on November. Number five, she was wearing a green suit.”
 
 </details>
 
@@ -324,7 +336,15 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jesse Watters (2)</strong></summary>
+<summary><strong class="section-title">Statements about Jesse Watters (3)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:22:41](/episodes/ep-5TTkMa49qj8.md#t-00-22-41) (Claim) **Candace Owens**: ["In rebuttal to the suit explanation, Owens cited Erika Kirk wearing a ..."](/statements/statement-3eee2eefeac2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Sergio Gor](/entities/person-sergio-gor.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>

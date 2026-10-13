@@ -1,6 +1,6 @@
 ---
 title: "Harvey Weinstein"
-description: "Harvey Weinstein (People) - 9 mentions"
+description: "Harvey Weinstein (People) - 13 mentions"
 id: "person-harvey-weinstein"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-harvey-weinstein-t-00-02-48">2025-11-15 · 00:03:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-harvey-weinstein-t-00-44-12">2026-05-05 · 00:44:46</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-harvey-weinstein-t-00-07-17">2026-10-05 · 00:07:40</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-20-19" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-harvey-weinstein-t-00-21-38" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-harvey-weinstein-t-00-44-12" style="--pulse-height:20%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-harvey-weinstein-t-01-26-32" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-harvey-weinstein-t-00-06-39" style="--pulse-height:40%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +50,8 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-20-19) | 5 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-harvey-weinstein-t-00-21-38) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-harvey-weinstein-t-00-44-12) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-harvey-weinstein-t-01-26-32) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-harvey-weinstein-t-00-06-39) | 2 |
 
 </details>
 </section>
@@ -55,7 +59,29 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:07:09](/episodes/ep-ms5ChhZegRg.md#ent-person-harvey-weinstein-t-00-06-39)**
+> "... York Times, the big story on Harvey Weinstein. They took him out. It was a Hollywood story for ..."
+
+**[00:07:40](/episodes/ep-ms5ChhZegRg.md#ent-person-harvey-weinstein-t-00-07-17)**
+> "...been personally victimized by Harvey Weinstein, and that was literally all it took, a Hollywood ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:26:32](/episodes/ep-bIuvTKlFeGo.md#ent-person-harvey-weinstein-t-01-26-32)**
+> "... I accepted $1.5 million from Harvey Weinstein to interview him. What are you talking about?"
+
+**[01:26:46](/episodes/ep-bIuvTKlFeGo.md#ent-person-harvey-weinstein-t-01-26-32)**
+> "...le red cent did I accept from Harvey Weinstein. They ran the story anyways. After not contacting..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
@@ -143,7 +169,23 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Harvey Weinstein (6)</strong></summary>
+<summary><strong class="section-title">Statements about Harvey Weinstein (8)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:06:49](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens**: ["Owens alleged the Las Vegas shooting disappeared from the media cycle ..."](/statements/statement-f63096f6ee9c.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [The New York Times](/entities/org-the-new-york-times.md), [Me Too movement](/entities/concept-me-too-movement.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:26:32](/episodes/ep-bIuvTKlFeGo.md#t-01-26-32) (Accusation) **Candace Owens**: ["Owens denied accepting any money from Harvey Weinstein and accused the..."](/statements/statement-d3de57583628.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [New York Post](/entities/org-new-york-post.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (4)</summary>

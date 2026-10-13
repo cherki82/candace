@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 170 mentions"
+description: "Antisemitism (Concepts) - 175 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-00-24-40">2025-09-15 · 00:25:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-antisemitism-t-00-19-52">2026-09-08 · 00:19:58</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>170</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-antisemitism-t-00-34-23">2026-10-01 · 00:34:23</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>175</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -95,6 +95,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47" style="--pulse-height:21%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-08-51" style="--pulse-height:14%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-antisemitism-t-00-19-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-concept-antisemitism-t-00-41-55" style="--pulse-height:21%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-antisemitism-t-00-39-57" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-antisemitism-t-00-34-23" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -157,6 +160,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47) | 3 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-08-51) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-antisemitism-t-00-19-52) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antisemitism-t-00-41-55) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-antisemitism-t-00-39-57) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-antisemitism-t-00-34-23) | 1 |
 
 </details>
 </section>
@@ -168,7 +174,37 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (170)</strong></summary>
+<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:34:23](/episodes/ep-q4m-kGzvwjw.md#ent-concept-antisemitism-t-00-34-23)**
+> "...hat people are calling him an anti-Semite. He holds up his phone."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:39:57](/episodes/ep-5TTkMa49qj8.md#ent-concept-antisemitism-t-00-39-57)**
+> "...y insane headlines calling me anti-Semitic. New narrative now: the attacks are not landing, ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:42:14](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antisemitism-t-00-41-55)**
+> "...ll us that this person was an anti-semite, was a monster in the case of Michael Jackson, th..."
+
+**[00:45:39](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antisemitism-t-00-45-39)**
+> "...ould cage that and say that's anti-Semitism unless you are the pro-Israel lobby in America an..."
+
+**[00:58:51](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antisemitism-t-00-58-51)**
+> "...ael. How can you not see it's anti-Semitic and how it impacts Ben (Ben Shapiro)'s life?"
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -972,7 +1008,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antisemitism (22)</strong></summary>
+<summary><strong class="section-title">Statements about Antisemitism (23)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:45:39](/episodes/ep-kn1E0scy9Wc.md#t-00-45-39) (Opinion) **Candace Owens**: ["Owens said Macklemore's speech could not reasonably be characterized a..."](/statements/statement-5125fe0a6c94.md)
+  - Also about: [Macklemore](/entities/person-macklemore.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

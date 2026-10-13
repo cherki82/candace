@@ -1,6 +1,6 @@
 ---
 title: "Wilmington"
-description: "Wilmington (Places) - 87 mentions"
+description: "Wilmington (Places) - 89 mentions"
 id: "gpe-wilmington"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-16-02">2025-10-30 · 00:16:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-wilmington-t-00-26-42">2026-05-27 · 00:26:42</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-wilmington-t-00-33-17">2026-10-01 · 00:33:24</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -50,6 +50,8 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-wilmington-t-00-48-23" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-wilmington-t-00-20-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-wilmington-t-00-26-42" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-wilmington-t-01-04-22" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-wilmington-t-00-33-17" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +70,8 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-wilmington-t-00-48-23) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-wilmington-t-00-20-39) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-wilmington-t-00-26-42) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-wilmington-t-01-04-22) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-wilmington-t-00-33-17) | 1 |
 
 </details>
 </section>
@@ -79,7 +83,23 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:33:24](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-wilmington-t-00-33-17)**
+> "...e Egyptian plane then departs Wilmington, Delaware and heads back to Cairo on the 27th. I ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:04:22](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-wilmington-t-01-04-22)**
+> "It departs Wilmington, Delaware, heads back to Cairo. On August 3rd, Ch..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -516,7 +536,23 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Wilmington (18)</strong></summary>
+<summary><strong class="section-title">Statements about Wilmington (20)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:33:24](/episodes/ep-q4m-kGzvwjw.md#t-00-33-17) (Claim) **Candace Owens**: ["Owens said an Egyptian plane departed Wilmington for Cairo July 27, bu..."](/statements/statement-ead1b8c21528.md)
+  - Also about: [Cairo](/entities/gpe-cairo.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:04:15](/episodes/ep-bIuvTKlFeGo.md#t-01-03-40) (Claim) **Candace Owens**: ["Owens said an Egyptian plane later present on the day of Kirk’s assass..."](/statements/statement-9ac448258f10.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Delaware](/entities/gpe-delaware.md), [Cairo](/entities/gpe-cairo.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

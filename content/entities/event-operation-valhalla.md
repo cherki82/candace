@@ -1,6 +1,6 @@
 ---
 title: "Operation Valhalla"
-description: "Operation Valhalla (Events) - 8 mentions"
+description: "Operation Valhalla (Events) - 10 mentions"
 id: "event-operation-valhalla"
 type: "EVENT"
 aliases:
@@ -21,11 +21,11 @@ Source: [Operation Valhalla Strike sharpens 891st MSFS defenders’ readiness](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-06-30">2025-11-21 · 00:06:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23">2025-12-17 · 00:43:37</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-valhalla-t-00-38-22">2026-10-01 · 00:38:31</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,8 @@ Source: [Operation Valhalla Strike sharpens 891st MSFS defenders’ readiness](h
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-event-operation-valhalla-t-00-16-49" style="--pulse-height:20%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-event-operation-valhalla-t-00-23-23" style="--pulse-height:20%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-event-operation-valhalla-t-01-07-02" style="--pulse-height:20%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-valhalla-t-00-38-22" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +49,8 @@ Source: [Operation Valhalla Strike sharpens 891st MSFS defenders’ readiness](h
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-event-operation-valhalla-t-00-16-49) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-event-operation-valhalla-t-00-23-23) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-event-operation-valhalla-t-01-07-02) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-valhalla-t-00-38-22) | 1 |
 
 </details>
 </section>
@@ -54,7 +58,23 @@ Source: [Operation Valhalla Strike sharpens 891st MSFS defenders’ readiness](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:38:31](/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-valhalla-t-00-38-22)**
+> "...her open-ended question. Then Operation Valhalla strike began between civilians and the military t..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:07:10](/episodes/ep-bIuvTKlFeGo.md#ent-event-operation-valhalla-t-01-07-02)**
+> "... the military side of things, Operation Valhalla strike begins between civilians and the military ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
@@ -132,7 +152,15 @@ Source: [Operation Valhalla Strike sharpens 891st MSFS defenders’ readiness](h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Operation Valhalla (1)</strong></summary>
+<summary><strong class="section-title">Statements about Operation Valhalla (2)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:07:10](/episodes/ep-bIuvTKlFeGo.md#t-01-07-02) (Claim) **Candace Owens**: ["Owens said Operation Valhalla Strike began in Minnesota with coordinat..."](/statements/statement-80d41b7499eb.md)
+  - Also about: [Minnesota](/entities/gpe-minnesota.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>

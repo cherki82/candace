@@ -1,6 +1,6 @@
 ---
 title: "Chick-fil-A"
-description: "Chick-fil-A (Organizations) - 15 mentions"
+description: "Chick-fil-A (Organizations) - 17 mentions"
 id: "org-chick-fil-a"
 type: "ORG"
 categories:
@@ -17,13 +17,13 @@ Source: [Chick-fil-A Company](https://www.chick-fil-a.com/about/company)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-chick-fil-a-t-00-06-03">2026-07-29 · 00:06:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-chick-fil-a-t-00-30-10">2026-08-17 · 00:30:10</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-chick-fil-a-t-00-20-22">2026-09-22 · 00:20:28</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -38,6 +38,8 @@ Source: [Chick-fil-A Company](https://www.chick-fil-a.com/about/company)
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-chick-fil-a-t-02-23-41" style="--pulse-height:20%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-chick-fil-a-t-01-42-39" style="--pulse-height:20%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-chick-fil-a-t-00-30-10" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-chick-fil-a-t-00-21-30" style="--pulse-height:20%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-chick-fil-a-t-00-20-22" style="--pulse-height:20%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,14 +53,36 @@ Source: [Chick-fil-A Company](https://www.chick-fil-a.com/about/company)
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-chick-fil-a-t-02-23-41) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-chick-fil-a-t-01-42-39) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-chick-fil-a-t-00-30-10) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-chick-fil-a-t-00-21-30) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-chick-fil-a-t-00-20-22) | 1 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:20:28](/episodes/ep-6XfDqKTdFKg.md#ent-org-chick-fil-a-t-00-20-22)**
+> "...ger at 1009 a.m. And he has a Chick-fil-A, sits down, he eats Chick-fil-A."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:22:00](/episodes/ep-BvthGQw3_s0.md#ent-org-chick-fil-a-t-00-21-30)**
+> "...ture. He's going to go to the Chick-fil-A. The Sorensen center is going to purchase food. H..."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
@@ -150,6 +174,49 @@ Source: [Chick-fil-A Company](https://www.chick-fil-a.com/about/company)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Sold To (1)</summary>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:21:44](/episodes/ep-BvthGQw3_s0.md#t-00-21-30): “Then we're told that neighborhood cameras catch Tyler Robinson walking in a maroon shirt. And then we've got this break and we're not told where the Dodge Challenger is, only that we know that at 10.09 a.m., Tyler Robinson returns to campus. Right. He's going to walk through the tunnel. He's going to get to the parking structure. He's going to go to the Chick-fil-A. The Sorensen center is going to purchase food. He's going to sit. He's going to eat. He's not going to, he doesn't park in the parking garage that time.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)** purchased from this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:21:44](/episodes/ep-BvthGQw3_s0.md#t-00-21-30): “Then we're told that neighborhood cameras catch Tyler Robinson walking in a maroon shirt. And then we've got this break and we're not told where the Dodge Challenger is, only that we know that at 10.09 a.m., Tyler Robinson returns to campus. Right. He's going to walk through the tunnel. He's going to get to the parking structure. He's going to go to the Chick-fil-A. The Sorensen center is going to purchase food. He's going to sit. He's going to eat. He's not going to, he doesn't park in the parking garage that time.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Chick-fil-A (2)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:20:22](/episodes/ep-6XfDqKTdFKg.md#t-00-20-22) (Claim) **Candace Owens** (via paraphrase): ["Owens characterizes Hull’s preliminary-hearing account as placing the ..."](/statements/statement-454afa9da3b6.md)
+  - Also about: [David Hull](/entities/person-david-hull.md), [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:21:44](/episodes/ep-BvthGQw3_s0.md#t-00-21-30) (Citation) **Candace Owens**: ["Owens said Tyler Robinson reportedly returned to campus at 10:09 a.m.,..."](/statements/statement-3729ceefc437.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Sorensen Center](/entities/org-sorensen-center.md)
+
+</details>
 
 </details>

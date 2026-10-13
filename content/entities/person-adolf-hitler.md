@@ -1,6 +1,6 @@
 ---
 title: "Adolf Hitler"
-description: "Adolf Hitler (People) - 34 mentions"
+description: "Adolf Hitler (People) - 35 mentions"
 id: "person-adolf-hitler"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-adolf-hitler-t-00-00-00">2025-10-01 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-01-03-37">2026-08-21 · 01:04:06</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-adolf-hitler-t-00-39-15">2026-09-30 · 00:39:30</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-00-57-00" style="--pulse-height:22%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55" style="--pulse-height:44%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 9 mentions" title="2026-08-21 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-adolf-hitler-t-00-39-15" style="--pulse-height:11%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-00-57-00) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55) | 4 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39) | 9 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-adolf-hitler-t-00-39-15) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:39:30](/episodes/ep-5TTkMa49qj8.md#ent-person-adolf-hitler-t-00-39-15)**
+> "... Daily Wire, that I'm akin to Adolf Hitler."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (9 mentions)</summary>

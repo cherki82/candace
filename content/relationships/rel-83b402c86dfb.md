@@ -1,0 +1,23 @@
+---
+title: "Candace Owens accused by Jeremy Boreing"
+description: "Evidence for the relationship: Candace Owens accused by Jeremy Boreing"
+relationship_id: "rel-83b402c86dfb"
+subject: "person-candace-owens"
+predicate: "accused by"
+object: "person-jeremy-boreing"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Candace Owens](/entities/person-candace-owens) accused by [Jeremy Boreing](/entities/person-jeremy-boreing)
+
+### Evidence (1 mentions)
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:38:49](/episodes/ep-6XfDqKTdFKg#t-00-38-49): _Candace Owens has engaged in the worst act of public defamation probably in American history. She has slandered Erika (Erika Kirk), TPUSA, Mikey McCoy (Michael McCoy), ... Not dramatic at ... you. ... all. ... Andrew Kolvet, the state of Israel, the state of France, ... The ... Egyptian airlines. ... macrons, everybody. ... If Candace (Candace Owens) is not guilty of defamation, and the bar for defamation is very high in America, especially with public figures, freedom of speech allows us to challenge our government, allows us to express our beliefs. ... This is so ... It ... deranged. ... makes it easy to slander people and get away with it compared to other countries, and particularly famous people or government officials, because the logic is, well, you need maximal free speech. Toward people who would have the resources or the power to be able to prevent you from having that free speech. And so in the case of defamation of a public figure, you have to show malice ... Hmm. ... and reckless disregard for truth and or I'm not sure which. But certainly Candace (Candace Owens) has crossed all those lines. There's no such thing as defamation and we should get rid of all defamation law if Candace (Candace Owens) isn't guilty of defamation for her treatment of. Particularly Erika (Erika Kirk) and TPUSA and Mikey (Michael McCoy) and you and et cetera, et cetera, et cetera._
+
+### Related
+
+- [Candace Owens](/entities/person-candace-owens)
+- [Jeremy Boreing](/entities/person-jeremy-boreing)

@@ -1,6 +1,6 @@
 ---
 title: "Cabot Phillips"
-description: "Cabot Phillips (People) - 36 mentions"
+description: "Cabot Phillips (People) - 37 mentions"
 id: "person-cabot-phillips"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-05">2025-12-20 · 00:41:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-cabot-phillips-t-00-56-33">2026-06-22 · 00:57:11</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-cabot-phillips-t-00-36-17">2026-10-01 · 00:36:50</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 12 mentions" title="2026-04-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-cabot-phillips-t-00-20-20" style="--pulse-height:17%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-cabot-phillips-t-00-01-37" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-cabot-phillips-t-00-36-17" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21) | 12 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-cabot-phillips-t-00-20-20) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-cabot-phillips-t-00-01-37) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-cabot-phillips-t-00-36-17) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:36:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-cabot-phillips-t-00-36-17)**
+> "...sting fact, could be nothing, Cabot Phillips reaches out to Turning Point USA at UVU and asks ..."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
@@ -253,10 +263,11 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:51](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27): “And I know that he does the morning wire up a daily wire.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17): “On August 14th, just an interesting fact, could be nothing, Cabot Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour. ... He requests a date for late September specifically because he plans to be in the area. On that same day, Erika (Erika Kirk) has a photo shoot with the children and Charlie (Charlie Kirk) at the Biltmore Hotel.”
 
 </details>
 
@@ -266,10 +277,11 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Referenced By (2)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:51](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27): “And I know that he does the morning wire up a daily wire.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17): “On August 14th, just an interesting fact, could be nothing, Cabot Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour. ... He requests a date for late September specifically because he plans to be in the area. On that same day, Erika (Erika Kirk) has a photo shoot with the children and Charlie (Charlie Kirk) at the Biltmore Hotel.”
 
 </details>
 
@@ -288,7 +300,15 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cabot Phillips (7)</strong></summary>
+<summary><strong class="section-title">Statements about Cabot Phillips (8)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17) (Claim) **Candace Owens**: ["Owens said Cabot Phillips contacted TPUSA at UVU August 14 to request ..."](/statements/statement-f6be1f278d64.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

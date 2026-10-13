@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 81 mentions"
+description: "Ukraine (Places) - 94 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43">2026-08-07 · 00:36:43</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-21-43">2026-10-07 · 00:21:43</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>94</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -72,6 +72,10 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-ukraine-t-00-44-25" style="--pulse-height:10%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-ukraine-t-00-16-26" style="--pulse-height:10%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43" style="--pulse-height:10%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-05-43" style="--pulse-height:60%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 6 mentions" title="2026-09-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-ukraine-t-00-34-28" style="--pulse-height:10%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-ukraine-t-01-00-03" style="--pulse-height:10%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-18-09" style="--pulse-height:50%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 5 mentions" title="2026-10-07 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +118,10 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-ukraine-t-00-44-25) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-ukraine-t-00-16-26) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-05-43) | 6 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-ukraine-t-00-34-28) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-ukraine-t-01-00-03) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-18-09) | 5 |
 
 </details>
 </section>
@@ -125,7 +133,66 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (5 mentions)</summary>
+
+**[00:18:09](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-18-09)**
+> "...lions to shady countries like Ukraine, who are known as laundromats, and Israel and oth..."
+
+**[00:20:23](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-20-23)**
+> "...stealing billions from one of Ukraine's largest banks..."
+
+**[00:20:53](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-20-23)**
+> "...tion in the United States and Ukraine for allegedly laundering bank proceeds through sh..."
+
+**[00:21:02](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-21-02)**
+> "... Israeli, by the way, Israeli Ukrainian billionaire. If you don't know who Igor Kolomoisk..."
+
+**[00:21:43](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-ukraine-t-00-21-43)**
+> "...nd what's really happening in Ukraine."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:00:13](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-ukraine-t-01-00-03)**
+> "...on potentially being taken in Ukraine and Russia. We have tons of announcements happeni..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:34:28](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-ukraine-t-00-34-28)**
+> "...enship, and deport her ass to Ukraine right now."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (6 mentions)</summary>
+
+**[00:05:43](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-05-43)**
+> "...to ring the alarm on military Ukrainian sex trafficking into the United States."
+
+**[00:07:52](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-07-43)**
+> "...phans in Romania, Albania and Ukraine."
+
+**[00:26:06](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-25-38)**
+> "...ionship between the tribe and Ukraine."
+
+**[00:26:38](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-26-24)**
+> "...ionship with the president of Ukraine that we installed after the color revolution."
+
+**[00:26:49](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-26-24)**
+> "...e to have a relationship with Ukraine."
+
+**[00:47:30](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-ukraine-t-00-47-30)**
+> "... particularly on the topic of Ukraine, which I disagree with him on. But he lives a pre..."
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -606,7 +673,15 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ukraine (12)</strong></summary>
+<summary><strong class="section-title">Statements about Ukraine (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:18:09](/episodes/ep-yrg_-D6oNHE.md#t-00-18-09) (Accusation) **Candace Owens**: ["Owens suggested that the Pandora Papers might show how tax money sent ..."](/statements/statement-c3350771c1b0.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Pandora Papers](/entities/work-pandora-papers.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>

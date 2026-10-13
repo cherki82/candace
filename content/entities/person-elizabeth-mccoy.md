@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth McCoy"
-description: "Elizabeth McCoy (People) - 34 mentions"
+description: "Elizabeth McCoy (People) - 36 mentions"
 id: "person-elizabeth-mccoy"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-elizabeth-mccoy-t-00-10-40">2025-11-04 · 00:10:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-elizabeth-mccoy-t-00-19-47">2026-09-01 · 00:19:47</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-elizabeth-mccoy-t-00-17-23">2026-09-30 · 00:17:23</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -61,6 +61,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-elizabeth-mccoy-t-00-12-46" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-14-42" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-elizabeth-mccoy-t-00-19-47" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-elizabeth-mccoy-t-01-02-14" style="--pulse-height:25%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-elizabeth-mccoy-t-00-17-23" style="--pulse-height:25%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +91,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-elizabeth-mccoy-t-00-12-46) | 2 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-14-42) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-elizabeth-mccoy-t-00-19-47) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-elizabeth-mccoy-t-01-02-14) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-elizabeth-mccoy-t-00-17-23) | 1 |
 
 </details>
 </section>
@@ -100,7 +104,23 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:17:23](/episodes/ep-5TTkMa49qj8.md#ent-person-elizabeth-mccoy-t-00-17-23)**
+> "... was nearly confirmed because Elizabeth McCoy did this long thread and answered and said, I'm t..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:02:42](/episodes/ep-bIuvTKlFeGo.md#ent-person-elizabeth-mccoy-t-01-02-14)**
+> "...Michael McCoy) and Elizabeth (Elizabeth McCoy) join him and they capture what's going to be Eli..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -360,6 +380,25 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
+<summary>Worked With (2)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:02:42](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14): “And I'll tell you why this is interesting, because it's the first time Mikey McCoy (Michael McCoy) and Elizabeth (Elizabeth McCoy) join him and they capture what's going to be Elizabeth (Elizabeth McCoy) and Mikey (Michael McCoy) capture all this final footage of Charlie (Charlie Kirk) and Erika (Erika Kirk) that we're then going to be shown immediately after. It's not old footage. ... It's final footage from this trip.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:02:42](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14): “And I'll tell you why this is interesting, because it's the first time Mikey McCoy (Michael McCoy) and Elizabeth (Elizabeth McCoy) join him and they capture what's going to be Elizabeth (Elizabeth McCoy) and Mikey (Michael McCoy) capture all this final footage of Charlie (Charlie Kirk) and Erika (Erika Kirk) that we're then going to be shown immediately after. It's not old footage. ... It's final footage from this trip.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** close associate of this
@@ -388,7 +427,23 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elizabeth McCoy (14)</strong></summary>
+<summary><strong class="section-title">Statements about Elizabeth McCoy (16)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:17:23](/episodes/ep-5TTkMa49qj8.md#t-00-17-23) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled Elizabeth McCoy writing a thread saying she was the per..."](/statements/statement-5e859dc00f3e.md)
+  - Also about: [Alo Yoga](/entities/org-alo-yoga.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:02:28](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14) (Claim) **Candace Owens**: ["Owens said Egyptian planes arrived in Omaha and then Lincoln, and that..."](/statements/statement-21110b5888cf.md)
+  - Also about: [Omaha](/entities/gpe-omaha.md), [Lincoln](/entities/gpe-lincoln.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Claire Guinan"
-description: "Claire Guinan (People) - 2 mentions"
+description: "Claire Guinan (People) - 3 mentions"
 id: "person-claire-guinan"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Jezebel Adds Editor's Note to Article Cursing Charlie Kirk - Mediaite](
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-claire-guinan-t-00-29-12">2026-05-27 · 00:29:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-claire-guinan-t-00-29-12">2026-05-27 · 00:29:39</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-claire-guinan-t-01-27-56">2026-09-25 · 01:28:17</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,12 +32,14 @@ Source: [Jezebel Adds Editor's Note to Article Cursing Charlie Kirk - Mediaite](
 <p>Highest activity: <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-claire-guinan-t-00-29-12">BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-claire-guinan-t-00-29-12" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-claire-guinan-t-01-27-56" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-claire-guinan-t-00-29-12) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-claire-guinan-t-01-27-56) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Jezebel Adds Editor's Note to Article Cursing Charlie Kirk - Mediaite](
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:28:17](/episodes/ep-bIuvTKlFeGo.md#ent-person-claire-guinan-t-01-27-56)**
+> "...on June 26th is when suddenly Claire Guinan writes her first article for Jezebel. She's going..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
@@ -67,9 +77,10 @@ Source: [Jezebel Adds Editor's Note to Article Cursing Charlie Kirk - Mediaite](
 <summary>Contributor To (1)</summary>
 
 - **[Jezebel](/entities/org-jezebel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:29:21](/episodes/ep-MhakwJxK-Zk.md#t-00-29-12): “This writer, Claire Guinan, who had never published before—she has no writing profile at all—writes her first article for Jezebel.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:28:17](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56): “Yeah. And then on June 26th is when suddenly Claire Guinan writes her first article for Jezebel. She's going to be the one that writes the article about the witch's curse. She had no writing profile before that new writer.”
 
 </details>
 
@@ -91,9 +102,10 @@ Source: [Jezebel Adds Editor's Note to Article Cursing Charlie Kirk - Mediaite](
 <summary>Referenced By (2)</summary>
 
 - **[Jezebel](/entities/org-jezebel.md)** has contributor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:29:21](/episodes/ep-MhakwJxK-Zk.md#t-00-29-12): “This writer, Claire Guinan, who had never published before—she has no writing profile at all—writes her first article for Jezebel.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:28:17](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56): “Yeah. And then on June 26th is when suddenly Claire Guinan writes her first article for Jezebel. She's going to be the one that writes the article about the witch's curse. She had no writing profile before that new writer.”
 
 </details>
 
@@ -109,7 +121,15 @@ Source: [Jezebel Adds Editor's Note to Article Cursing Charlie Kirk - Mediaite](
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Claire Guinan (1)</strong></summary>
+<summary><strong class="section-title">Statements about Claire Guinan (2)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:28:17](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56) (Claim) **Candace Owens**: ["Owens said Claire Guinan wrote her first Jezebel article on June 26th ..."](/statements/statement-7bd757b66e85.md)
+  - Also about: [Jezebel](/entities/org-jezebel.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

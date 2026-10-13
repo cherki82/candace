@@ -1,6 +1,6 @@
 ---
 title: "Losee Center"
-description: "Losee Center (Organizations) - 71 mentions"
+description: "Losee Center (Organizations) - 82 mentions"
 id: "org-losee-center"
 type: "ORG"
 aliases:
@@ -33,11 +33,11 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-losee-center-t-00-06-55">2025-09-29 · 00:07:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-01-02-02">2026-08-21 · 01:02:02</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-losee-center-t-00-37-02">2026-10-08 · 00:37:28</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>82</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>40</strong></div>
+<div><span>Statements about</span><strong>48</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -71,6 +71,11 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-losee-center-t-00-18-15" style="--pulse-height:11%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#t-00-15-36" style="--pulse-height:11%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-01-02-02" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-losee-center-t-00-16-53" style="--pulse-height:11%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-losee-center-t-00-07-19" style="--pulse-height:33%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 3 mentions" title="2026-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-losee-center-t-00-26-55" style="--pulse-height:44%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-losee-center-t-00-28-07" style="--pulse-height:22%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-losee-center-t-00-37-02" style="--pulse-height:11%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -101,6 +106,11 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-losee-center-t-00-18-15) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#t-00-15-36) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-01-02-02) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-losee-center-t-00-16-53) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-losee-center-t-00-07-19) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-losee-center-t-00-26-55) | 4 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-losee-center-t-00-28-07) | 2 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-losee-center-t-00-37-02) | 1 |
 
 </details>
 </section>
@@ -112,7 +122,65 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:37:28](/episodes/ep-UAdBEXs7nNc.md#ent-org-losee-center-t-00-37-02)**
+> "We didn't know that it was Losee rooftop. Nobody at the hospital should have known..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:28:07](/episodes/ep-yrg_-D6oNHE.md#ent-org-losee-center-t-00-28-07)**
+> "...ext message was regarding the Losee Center rooftop. That was very early on, Brian Harpole on..."
+
+**[00:29:09](/episodes/ep-yrg_-D6oNHE.md#ent-org-losee-center-t-00-29-09)**
+> "... the building in front of the Losee Center."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (4 mentions)</summary>
+
+**[00:27:21](/episodes/ep-bIuvTKlFeGo.md#ent-org-losee-center-t-00-26-55)**
+> "...reasonably see someone on the Losey Center."
+
+**[00:29:38](/episodes/ep-bIuvTKlFeGo.md#ent-org-losee-center-t-00-29-04)**
+> "...body up there across from the Losey Center. Now, you could say it's because they're worried ..."
+
+**[00:49:34](/episodes/ep-bIuvTKlFeGo.md#ent-org-losee-center-t-00-49-22)**
+> "...st to suggest going up to the Losey Center after the Big Bang."
+
+**[00:49:41](/episodes/ep-bIuvTKlFeGo.md#ent-org-losee-center-t-00-49-22)**
+> "...the elevated roof area of the Losey Center as a possible source location of the assailant."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3 mentions)</summary>
+
+**[00:07:28](/episodes/ep-_2DiIbfy4mU.md#ent-org-losee-center-t-00-07-19)**
+> "...ch is going to lead up to the Losee Center rooftop, a stone cold killer has emerged and he h..."
+
+**[00:07:45](/episodes/ep-_2DiIbfy4mU.md#ent-org-losee-center-t-00-07-19)**
+> "...parates the walkway. From the Losee Center rooftop and what he will do next, well, he's just..."
+
+**[00:11:44](/episodes/ep-_2DiIbfy4mU.md#ent-org-losee-center-t-00-11-33)**
+> "...the alleged killer jumps onto Losee rooftop and ducks, and I'm talking within."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:17:25](/episodes/ep-6XfDqKTdFKg.md#ent-org-losee-center-t-00-16-53)**
+> "...r Robinson was ever up on the Losee rooftop, and I'm going to present in the future s..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -475,7 +543,56 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Losee Center (40)</strong></summary>
+<summary><strong class="section-title">Statements about Losee Center (48)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:37:28](/episodes/ep-UAdBEXs7nNc.md#t-00-37-02) (Opinion) **Candace Owens**: ["Owens argued nobody at the hospital should have known so quickly that ..."](/statements/statement-ca2ab7c895e9.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:27:44](/episodes/ep-yrg_-D6oNHE.md#t-00-27-24) (Accusation) **Candace Owens**: ["Owens alleged that Turning Point USA and affiliates wrongfully blamed ..."](/statements/statement-5bd3b0cf5234.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Jeff Long](/entities/person-jeff-long.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:49:34](/episodes/ep-bIuvTKlFeGo.md#t-00-49-22) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review said Officer Chris Bagley identified the Losee Center roof ..."](/statements/statement-6c258c94e4c6.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3)</summary>
+
+- [00:07:19](/episodes/ep-_2DiIbfy4mU.md#t-00-07-19) (Claim) **Candace Owens**: ["Owens says that at approximately 12:16 p.m. a person she describes as ..."](/statements/statement-9c28ac472d4f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:09:47](/episodes/ep-_2DiIbfy4mU.md#t-00-09-36) (Claim) **Candace Owens**: ["Owens says that around 12:17 p.m. the rooftop subject jumps over the l..."](/statements/statement-99f1ef2bab94.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:11:33](/episodes/ep-_2DiIbfy4mU.md#t-00-11-33) (Claim) **Candace Owens**: ["Owens says Danny Philip and Nate Walker headed to Danny’s SUV to offlo..."](/statements/statement-223a289d0911.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Nate Walker](/entities/person-nate-walker.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2)</summary>
+
+- [00:17:17](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53) (Opinion) **Candace Owens**: ["Owens does not believe Tyler Robinson changed into a black long-sleeve..."](/statements/statement-99cf60039cc9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:17:25](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53) (Promise) **Candace Owens**: ["Owens promises to present further evidence for why she does not believ..."](/statements/statement-8aa1e70fdd74.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Mexico"
-description: "Mexico (Places) - 21 mentions"
+description: "Mexico (Places) - 23 mentions"
 id: "gpe-mexico"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-mexico-t-01-06-29">2025-10-08 · 01:06:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-mexico-t-00-37-14">2026-05-28 · 00:37:14</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-mexico-t-00-38-37">2026-10-07 · 00:38:53</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38" style="--pulse-height:43%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-mexico-t-01-41-26" style="--pulse-height:14%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-mexico-t-00-37-14" style="--pulse-height:14%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-mexico-t-00-38-37" style="--pulse-height:29%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38) | 3 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-mexico-t-01-41-26) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-mexico-t-00-37-14) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-mexico-t-00-38-37) | 2 |
 
 </details>
 </section>
@@ -66,7 +68,18 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:38:37](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-mexico-t-00-38-37)**
+> "...uld say honestly, I'd go with Mexico at a first glance. I don't know if you've never l..."
+
+**[00:38:53](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-mexico-t-00-38-37)**
+> "... and white, I would have gone Mexico. Italy, Italy would have been a good one. How dar..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>

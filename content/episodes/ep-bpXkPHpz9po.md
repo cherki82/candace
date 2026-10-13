@@ -361,7 +361,7 @@ youtube_url: "https://www.youtube.com/watch?v=bpXkPHpz9po"
 - **2025-09-10**: [Frank Turek recalled a FaceTime call to Jack Hibbs after reaching the emergency room with Charlie Kirk.](/events/event-2025-09-10-frank-turek-recalled-a-facetime-call-to-.md)
 - **2025-09-10**: [Owens presented footage she said showed Kirk’s security group returning to UVU after 8:30 p.m.; subsequent commentary identified several people wearing hospital scrubs.](/events/event-2025-09-10-owens-presented-footage-she-said-showed-.md)
 - **2025-09-10**: [Owens alleged that an unnamed Timpanogos doctor recused himself during or immediately after Kirk’s surgery following a disagreement.](/events/event-2025-09-10-owens-alleged-that-an-unnamed-timpanogos.md)
-- **2025-09-10 20:45**: [Tyler Robinson arrived at Cowboy Smokehouse in Panguitch, Utah, ate at the bar, and left at approximately 9:30 p.m.](/events/event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho.md)
+- **2025-09-10 20:45**: [Owens reported an alleged Cowboy Smokehouse visit in Panguitch, Utah, which she attributed to Tyler Robinson. Card ownership and diner identity remain unresolved in the supplied source accounts; reported departure times differ.](/events/event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho.md)
 - **2026-01-06**: [Owens said her show covered the alleged Cowboy Smokehouse visit and spoke with the owner on January 6.](/events/event-2026-01-06-owens-said-her-show-covered-the-alleged-.md)
 - **2026-09-09**: [Owens publicly corrected the man she had called Chester Barnes to Derek "Pepper" Williams in the hat-and-plaid-shirt photograph.](/events/event-2026-09-09-owens-publicly-corrected-the-man-she-had.md)
 

@@ -1,6 +1,6 @@
 ---
 title: "American Israel Public Affairs Committee"
-description: "American Israel Public Affairs Committee (Organizations) - 42 mentions"
+description: "American Israel Public Affairs Committee (Organizations) - 43 mentions"
 id: "org-aipac"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About AIPAC](https://aipac.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01">2025-09-19 · 00:30:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38">2026-07-23 · 00:25:38</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-aipac-t-00-12-24">2026-10-05 · 00:12:24</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -59,6 +59,7 @@ Source: [About AIPAC](https://aipac.org/about)
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-aipac-t-00-40-41" style="--pulse-height:12%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-aipac-t-00-50-03" style="--pulse-height:12%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38" style="--pulse-height:12%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-aipac-t-00-12-24" style="--pulse-height:12%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [About AIPAC](https://aipac.org/about)
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-aipac-t-00-40-41) | 1 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-aipac-t-00-50-03) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-aipac-t-00-12-24) | 1 |
 
 </details>
 </section>
@@ -98,7 +100,15 @@ Source: [About AIPAC](https://aipac.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:12:24](/episodes/ep-ms5ChhZegRg.md#ent-org-aipac-t-00-12-24)**
+> "...ccepted over six figures from AIPAC and cannot utter a single bad word about Israel. ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -350,7 +360,7 @@ Source: [About AIPAC](https://aipac.org/about)
 </details>
 
 <details>
-<summary>Funded (3)</summary>
+<summary>Funded (4)</summary>
 
 - **[Mike Lawler](/entities/person-mike-lawler.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -373,6 +383,13 @@ Source: [About AIPAC](https://aipac.org/about)
 
 </details>
 
+- **[Nancy Mace](/entities/person-nancy-mace.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:12:08](/episodes/ep-ms5ChhZegRg.md#t-00-11-44): “And just like that, like I said, you recognize these are the signs of a psyop. It's the cheapest form of politicking, by the way, you know, pretending, taking a magnifying glass, something really small and being like, told you, but I want you to check out this objectively hilarious clip of Rep. ... Nancy Mace, who has accepted over six figures from AIPAC and cannot utter a single bad word about Israel. She's been like chief among the people in politics.”
+
+</details>
+
 </details>
 
 <details>
@@ -388,7 +405,7 @@ Source: [About AIPAC](https://aipac.org/about)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Christians United for Israel](/entities/org-christians-united-for-israel.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -432,12 +449,27 @@ Source: [About AIPAC](https://aipac.org/about)
 
 </details>
 
+- **[Nancy Mace](/entities/person-nancy-mace.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:12:08](/episodes/ep-ms5ChhZegRg.md#t-00-11-44): “And just like that, like I said, you recognize these are the signs of a psyop. It's the cheapest form of politicking, by the way, you know, pretending, taking a magnifying glass, something really small and being like, told you, but I want you to check out this objectively hilarious clip of Rep. ... Nancy Mace, who has accepted over six figures from AIPAC and cannot utter a single bad word about Israel. She's been like chief among the people in politics.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (15)</strong></summary>
+<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (16)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:12:24](/episodes/ep-ms5ChhZegRg.md#t-00-12-24) (Claim) **Candace Owens**: ["Owens said Nancy Mace had accepted over six figures from AIPAC."](/statements/statement-ffdc5aea60de.md)
+  - Also about: [Nancy Mace](/entities/person-nancy-mace.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "National Security Agency"
-description: "National Security Agency (Organizations) - 12 mentions"
+description: "National Security Agency (Organizations) - 13 mentions"
 id: "org-national-security-agency"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [National Security Agency | About NSA Mission](https://www.nsa.gov/about
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-national-security-agency-t-00-17-31">2025-09-19 · 00:17:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-national-security-agency-t-00-42-11">2026-06-26 · 00:42:11</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BvthGQw3_s0.md#ent-org-national-security-agency-t-00-06-04">2026-09-21 · 00:06:17</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [National Security Agency | About NSA Mission](https://www.nsa.gov/about
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-national-security-agency-t-00-05-47" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-national-security-agency-t-00-20-02" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-national-security-agency-t-00-42-11" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-national-security-agency-t-00-06-04" style="--pulse-height:50%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [National Security Agency | About NSA Mission](https://www.nsa.gov/about
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-national-security-agency-t-00-05-47) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-national-security-agency-t-00-20-02) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-national-security-agency-t-00-42-11) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-national-security-agency-t-00-06-04) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [National Security Agency | About NSA Mission](https://www.nsa.gov/about
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:06:17](/episodes/ep-BvthGQw3_s0.md#ent-org-national-security-agency-t-00-06-04)**
+> "... for the CIA, to work for the NSA and or for the Department of Defense."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -175,7 +185,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about National Security Agency (3)</strong></summary>
+<summary><strong class="section-title">Statements about National Security Agency (4)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:06:17](/episodes/ep-BvthGQw3_s0.md#t-00-06-04) (Claim) **Candace Owens**: ["Owens said UVU has a high federal presence because it is a pipeline sc..."](/statements/statement-a0a43b989478.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>

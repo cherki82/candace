@@ -1,6 +1,6 @@
 ---
 title: "Massachusetts"
-description: "Massachusetts (Places) - 10 mentions"
+description: "Massachusetts (Places) - 12 mentions"
 id: "gpe-massachusetts"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-massachusetts-t-00-21-55">2026-02-03 · 00:22:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-massachusetts-t-00-56-06">2026-08-07 · 00:56:31</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-massachusetts-t-00-13-43">2026-10-01 · 00:13:55</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,8 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 <a href="/episodes/ep-cZxHqYsWRYg.md#t-00-27-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#t-00-07-17" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-massachusetts-t-00-56-06" style="--pulse-height:33%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-massachusetts-t-00-44-47" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-massachusetts-t-00-13-43" style="--pulse-height:33%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#t-00-27-32) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-07-17) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-massachusetts-t-00-56-06) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-massachusetts-t-00-44-47) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-massachusetts-t-00-13-43) | 1 |
 
 </details>
 </section>
@@ -63,7 +67,23 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:13:55](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-massachusetts-t-00-13-43)**
+> "...egulatory woes that it had in Massachusetts in 2025."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:45:12](/episodes/ep-5TTkMa49qj8.md#ent-gpe-massachusetts-t-00-44-47)**
+> "... not URI. This is actually in Massachusetts, my high school boyfriend."
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -135,7 +155,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Massachusetts (1)</strong></summary>
+<summary><strong class="section-title">Statements about Massachusetts (2)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:44:47](/episodes/ep-5TTkMa49qj8.md#t-00-44-47) (Claim) **Candace Owens**: ["Owens said the college video was filmed in her high-school boyfriend’s..."](/statements/statement-889ddbb6273a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [University of Rhode Island](/entities/org-university-of-rhode-island.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>

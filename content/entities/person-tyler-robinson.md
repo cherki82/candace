@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 1043 mentions"
+description: "Tyler Robinson (People) - 1166 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-40-53">2026-09-09 · 00:40:58</a></strong></div>
-<div><span>Episodes</span><strong>108</strong></div>
-<div><span>Mentions</span><strong>1,043</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-robinson-t-00-22-21">2026-10-07 · 00:22:58</a></strong></div>
+<div><span>Episodes</span><strong>121</strong></div>
+<div><span>Mentions</span><strong>1,166</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>462</strong></div>
-<div><span>Relationships</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>554</strong></div>
+<div><span>Relationships</span><strong>33</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -144,6 +144,19 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01" style="--pulse-height:30%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 31 mentions" title="2026-09-02 · 31 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-30-54" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 12 mentions" title="2026-09-09 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-robinson-t-00-01-28" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-10-08" style="--pulse-height:9%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 9 mentions" title="2026-09-15 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-41-57" style="--pulse-height:14%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 14 mentions" title="2026-09-16 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-tyler-robinson-t-00-56-23" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-02-09" style="--pulse-height:17%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 17 mentions" title="2026-09-21 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-03-20" style="--pulse-height:14%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 14 mentions" title="2026-09-22 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-tyler-robinson-t-00-03-48" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 5 mentions" title="2026-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-00-43" style="--pulse-height:35%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 36 mentions" title="2026-09-25 · 36 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-robinson-t-00-04-02" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-00-35" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 7 mentions" title="2026-10-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-tyler-robinson-t-00-18-40" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-01-41" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 7 mentions" title="2026-10-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-robinson-t-00-22-21" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -257,6 +270,19 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01) | 31 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-30-54) | 12 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-robinson-t-00-01-28) | 4 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-10-08) | 9 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-41-57) | 14 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-tyler-robinson-t-00-56-23) | 3 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-02-09) | 17 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-03-20) | 14 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-tyler-robinson-t-00-03-48) | 5 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-00-43) | 36 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-robinson-t-00-04-02) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-00-35) | 7 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-tyler-robinson-t-00-18-40) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-01-41) | 7 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-robinson-t-00-22-21) | 2 |
 
 </details>
 </section>
@@ -268,7 +294,441 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1043)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1166)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:22:32](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-robinson-t-00-22-21)**
+> "...any others who just know that Tyler Robinson killed Charlie Kirk."
+
+**[00:22:58](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-robinson-t-00-22-21)**
+> "was murdered by Tyler Robinson, who acted alone."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (7 mentions)</summary>
+
+**[00:01:54](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-01-41)**
+> "...ht at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of pr..."
+
+**[00:02:34](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-02-19)**
+> "That Tyler Robinson most definitely could have killed, uh, Charlie (C..."
+
+**[00:04:07](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-04-07)**
+> "...ring this crucial week of the Tyler Robinson preliminary hearing, why was it that our nation's..."
+
+**[00:06:13](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-06-13)**
+> "They didn't even care about Tyler Robinson. And of course, their favorite thing to say when ..."
+
+**[00:07:26](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-07-26)**
+> "...k, the preliminary hearing of Tyler Robinson, and that this money was being orchestrated by."
+
+**[00:07:59](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-07-59)**
+> "...t's apparently the place that Tyler Robinson published his alleged confession saying, I did it..."
+
+**[00:33:40](/episodes/ep-0pSAhaAZz1w.md#ent-person-tyler-robinson-t-00-33-19)**
+> "And Tyler Robinson is taking a backseat and the Candace Owens digita..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:18:58](/episodes/ep-ms5ChhZegRg.md#ent-person-tyler-robinson-t-00-18-40)**
+> "pointing to Tyler Robinson's guilt, is guilt. The same people who will not tou..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (7 mentions)</summary>
+
+**[00:00:58](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-00-35)**
+> "...that has something to do with Tyler Robinson's story."
+
+**[00:01:57](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-01-57)**
+> "...ok 33 hours before they found Tyler Robinson."
+
+**[00:50:36](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-50-29)**
+> "...ysteriously, just like in the Tyler Robinson case,"
+
+**[00:51:13](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-51-13)**
+> "...a who released the footage of Tyler Robinson's body camera footage from a normal minor traffic c..."
+
+**[00:53:16](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-53-16)**
+> "...nalists who then randomly had Tyler Robinson's from years before. "We just, we don't know how we..."
+
+**[00:53:52](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-53-16)**
+> "we have the Tyler Robinson one there? Let's roll the Tyler Robinson clip bec..."
+
+**[00:54:31](/episodes/ep-q4m-kGzvwjw.md#ent-person-tyler-robinson-t-00-54-24)**
+> "...communities in the area where Tyler Robinson lived and asking for any reports or videos that m..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (36 mentions)</summary>
+
+**[00:01:09](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-00-43)**
+> "... car wash as well that Tyler (Tyler Robinson) allegedly received, did he receive the car wash,..."
+
+**[00:06:53](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-06-27)**
+> "Stop. That the real Tyler Robinson made. We were the first to break that story. And ..."
+
+**[00:07:51](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-07-51)**
+> "...rystal clear obvious photo of Tyler Robinson. And the answer is that someone read."
+
+**[00:08:29](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-08-29)**
+> "...Dairy Queen timing because if Tyler Robinson was going to make that three-hour drive from Orem..."
+
+**[00:09:53](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-09-53)**
+> "...timeline that the real Tyler (Tyler Robinson), who we know was in fact around campus on that d..."
+
+**[00:10:52](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-10-32)**
+> "...evidence, somebody that was a Tyler Robinson lookalike, maybe it's Lance (Lance Twiggs), who k..."
+
+**[00:11:04](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-10-32)**
+> "...er the assumption that Tyler (Tyler Robinson)'s role was not on campus, which I want to assert..."
+
+**[00:11:15](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-11-15)**
+> "...we can safely assert now that Tyler Robinson's car was not the same Dodge Challenger that was in..."
+
+**[00:11:29](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-11-15)**
+> "... the clearest image of Tyler (Tyler Robinson)'s towed vehicle. I hedged yesterday and I said, ..."
+
+**[00:11:38](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-11-38)**
+> "...has made it clear that Tyler (Tyler Robinson)’s vehicle has a dual exhaust system. So you see ..."
+
+**[00:12:54](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-12-47)**
+> "...rage on September 10th is not Tyler Robinson's. That is a mismatch."
+
+**[00:13:16](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-12-47)**
+> "...g narrative as to how exactly Tyler Robinson in 33 hours managed to alter his car's exhaust sy..."
+
+**[00:13:51](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-13-30)**
+> "...d right now with what you say Tyler Robinson did, especially with Lance (Lance Twiggs)'s text ..."
+
+**[00:14:16](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-14-16)**
+> "Is that Tyler Robinson's sneakers in the Dairy Queen photo don't appear to..."
+
+**[00:14:43](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-14-16)**
+> "... is, like I said, that Tyler (Tyler Robinson) was at Dairy Queen on September 10th and we woul..."
+
+**[00:15:45](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-15-18)**
+> "...that it was at 1238 p.m. that Tyler Robinson is caught on surveillance cameras at Dairy Queen ..."
+
+**[00:15:54](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-15-54)**
+> "... per the search warrants that Tyler Robinson's vehicle is spotted."
+
+**[00:17:16](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-17-16)**
+> "...ings them to discovering that Tyler Robinson went to the car wash."
+
+**[00:17:31](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-17-16)**
+> "... so the next item is at 1246. Tyler Robinson's cell phone data reveals that he used Google Maps ..."
+
+**[00:18:08](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-17-51)**
+> "...hat they got this from Tyler (Tyler Robinson)'s phone."
+
+**[00:18:20](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-18-20)**
+> "...arch warrant was obtained for Tyler Robinson's cell phone. And during a review of data and infor..."
+
+**[00:19:00](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-19-00)**
+> "...m the Quick Quack Car Wash of Tyler Robinson’s 2013 Dodge Challenger with his license plates arr..."
+
+**[00:19:17](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-19-00)**
+> "... in this warrant, that it was Tyler Robinson's Dodge Challenger."
+
+**[00:19:46](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-19-33)**
+> "...n. If you are telling me that Tyler Robinson, you got into a cell phone and you tracked him do..."
+
+**[00:20:11](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-20-11)**
+> "...hing that is undeniable, like Tyler Robinson’s license plate. That’s all we need, is one piece o..."
+
+**[00:20:41](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-20-11)**
+> ".... It's very clear that that's Tyler Robinson. And yet they decided not to do that."
+
+**[00:20:46](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-20-11)**
+> "...e it's possible that it's not Tyler Robinson's car."
+
+**[00:20:55](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-20-55)**
+> "...hey say that we got this from Tyler Robinson's phone because I have long suspected that Lance Tw..."
+
+**[00:21:17](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-20-55)**
+> "...nd logging into all of Tyler (Tyler Robinson)'s accounts from a different device, right?"
+
+**[00:23:06](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-22-39)**
+> "...hink given what we know about Tyler Robinson, he could have been very easy manipulated by his ..."
+
+**[00:23:32](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-23-21)**
+> "... records and video footage of Tyler Robinson’s car arriving at the Quick Quack Car Wash. And the..."
+
+**[00:23:59](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-23-59)**
+> "Why would Tyler Robinson, who allegedly took one shot from a rooftop and t..."
+
+**[00:24:56](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-24-39)**
+> "... unless people are setting up Tyler Robinson."
+
+**[00:28:39](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-28-39)**
+> "... emailed and said that Tyler (Tyler Robinson)'s vehicle is a V6, which we have confirmed it is..."
+
+**[00:53:17](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-53-00)**
+> "... it and confirmed that Tyler (Tyler Robinson)'s matched."
+
+**[00:53:39](/episodes/ep-_Sq5RqP27NY.md#ent-person-tyler-robinson-t-00-53-39)**
+> "...because it potentially is not Tyler Robinson’s. If it is, and there’s a plate match, not an exha..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (4 mentions)</summary>
+
+**[00:04:35](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-robinson-t-00-04-02)**
+> "...e not just, you know, pushing Tyler Robinson narrative. They're open to other considerations. ..."
+
+**[00:30:37](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-robinson-t-00-30-27)**
+> "...k at that is we are told that Tyler Robinson is going to go up to a girl. I know it's a girl. ..."
+
+**[00:30:59](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-robinson-t-00-30-59)**
+> "... that is very interesting. If Tyler Robinson has to go up to anybody before 928, it's likely j..."
+
+**[00:31:22](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-robinson-t-00-30-59)**
+> "...that entry interesting in the Tyler Robinson timeline."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (5 mentions)</summary>
+
+**[00:03:48](/episodes/ep-_2DiIbfy4mU.md#ent-person-tyler-robinson-t-00-03-48)**
+> "... potentially not a match with Tyler Robinson's confirmed Dodge Challenger."
+
+**[00:04:52](/episodes/ep-_2DiIbfy4mU.md#ent-person-tyler-robinson-t-00-04-52)**
+> "...is is a variation from Tyler (Tyler Robinson)'s confirmed vehicle on the basis of the circulat..."
+
+**[00:05:48](/episodes/ep-_2DiIbfy4mU.md#ent-person-tyler-robinson-t-00-05-28)**
+> "...one calls, and I am told that Tyler Robinson, yes, that they are dual exhaust, two total."
+
+**[00:06:18](/episodes/ep-_2DiIbfy4mU.md#ent-person-tyler-robinson-t-00-06-10)**
+> "...en walking down the street of Tyler Robinson's parents and this was days after Tyler Robinson ha..."
+
+**[00:06:35](/episodes/ep-_2DiIbfy4mU.md#ent-person-tyler-robinson-t-00-06-35)**
+> "...o if you have other photos of Tyler Robinson's car, clear photos, maybe you were walking through..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (14 mentions)</summary>
+
+**[00:03:20](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-03-20)**
+> "... has since been identified as Tyler Robinson's Dodge Challenger and the Dodge Challenger which w..."
+
+**[00:09:50](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-09-30)**
+> "...d Hull) talked us through the Tyler Robinson sizzle reel, right?"
+
+**[00:14:11](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-13-42)**
+> "There is no reason that Tyler Robinson didn't just park off campus for the entire day. I..."
+
+**[00:16:00](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-15-32)**
+> "...ays maintained that I believe Tyler Robinson was involved with something on that day, that he ..."
+
+**[00:16:19](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-16-13)**
+> "...cause we broke the story that Tyler Robinson was seen at the Dairy Queen."
+
+**[00:16:53](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-16-53)**
+> "...with the Dairy Queen? I think Tyler Robinson's car was, like I said, used. around campus, possib..."
+
+**[00:17:17](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-16-53)**
+> "I do not believe that Tyler Robinson ever changed on September 10th into a black long ..."
+
+**[00:17:25](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-16-53)**
+> "I do not believe a Tyler Robinson was ever up on the Losee rooftop, and I'm going t..."
+
+**[00:18:45](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-18-17)**
+> "...er 15th, so that's days after Tyler Robinson was taken in and a full five days after the SBI h..."
+
+**[00:19:11](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-18-57)**
+> "...security video and discovered Robinson's Challenger enter a UVU parking structure located ..."
+
+**[00:19:29](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-18-57)**
+> "...after entering the structure, Robinson parked and exited his vehicle."
+
+**[00:19:51](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-19-41)**
+> "In the video, Robinson is seen wearing a ball cap, a red t-shirt, light-..."
+
+**[00:19:57](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-19-41)**
+> "During the time that Robinson walked around the campus, he is seen visiting are..."
+
+**[00:20:06](/episodes/ep-6XfDqKTdFKg.md#ent-person-tyler-robinson-t-00-19-41)**
+> "...te where the victim was shot. Robinson leaves the parking structure in his vehicle at ap..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (17 mentions)</summary>
+
+**[00:02:25](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-02-09)**
+> "..., I feel like that belongs to Tyler Robinson."
+
+**[00:02:32](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-02-09)**
+> "...ell, who else would it be but Tyler Robinson?"
+
+**[00:03:11](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-03-11)**
+> "...believe this is Mr. Robinson (Tyler Robinson) returning to campus?"
+
+**[00:03:14](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-03-14)**
+> "...ou believe it's Mr. Robinson (Tyler Robinson)?"
+
+**[00:03:26](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-03-17)**
+> "... and and seeing Mr. Robinson (Tyler Robinson) on the video, it's the same person."
+
+**[00:04:02](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-03-33)**
+> "...supposed to believe that only Tyler Robinson drives within the state of Utah."
+
+**[00:04:07](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-04-07)**
+> "...r that day, they're like it's Tyler Robinson's. Even when a neighbor said, actually, I saw a bal..."
+
+**[00:04:44](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-04-44)**
+> "... as we are supposed to assume Tyler Robinson dresses every day. And I thought also perhaps the..."
+
+**[00:10:54](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-10-42)**
+> "...d just to recap, we know that Tyler Robinson is first seen at 8.07 a.m. walking in the neighbo..."
+
+**[00:11:09](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-10-42)**
+> "... it was not included in their Tyler Robinson sizzle reel."
+
+**[00:19:53](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-19-26)**
+> "...d footage 807 that showed him Tyler Robinson wearing maroon shirts and shorts walking through ..."
+
+**[00:20:08](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-20-08)**
+> "... neighborhood footage catches Tyler Robinson's Dodge Challenger driving past their house. 8:29. ..."
+
+**[00:20:45](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-20-45)**
+> "...told that up until 9:24 a.m., Tyler Robinson is walking around UVU campus in his maroon shirt ..."
+
+**[00:21:15](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-20-45)**
+> "At 9:24 Tyler Robinson is on foot descending the stairs in that parking ..."
+
+**[00:21:44](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-21-30)**
+> "...at neighborhood cameras catch Tyler Robinson walking in a maroon shirt. And then we've got thi..."
+
+**[00:23:53](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-23-43)**
+> "...that person looks taller than Tyler Robinson, the person that we see wearing the black shirt w..."
+
+**[00:24:08](/episodes/ep-BvthGQw3_s0.md#ent-person-tyler-robinson-t-00-23-43)**
+> "What it means is that if I'm Tyler Robinson's defense lawyer and I'm working this case, I would..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3 mentions)</summary>
+
+**[00:56:23](/episodes/ep-NNiCZk1cuzs.md#ent-person-tyler-robinson-t-00-56-23)**
+> "... footage readily available of Tyler Robinson"
+
+**[00:57:00](/episodes/ep-NNiCZk1cuzs.md#ent-person-tyler-robinson-t-00-57-00)**
+> "The cameras outside of Tyler Robinson showing up to the police precinct. And they were ..."
+
+**[00:57:13](/episodes/ep-NNiCZk1cuzs.md#ent-person-tyler-robinson-t-00-57-00)**
+> "... who released that footage of Tyler Robinson, Scripps News, were the same two reporters who re..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (14 mentions)</summary>
+
+**[00:41:57](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-41-57)**
+> "...e footage that we released of Tyler Robinson, the version in the American shirt, walking onto ..."
+
+**[00:42:23](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-42-23)**
+> "Tyler Robinson and he also had his fingers in the pocket that wa..."
+
+**[00:42:43](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-42-23)**
+> "...this footage, 2022 footage of Tyler Robinson and then the police. It was body cam footage. You..."
+
+**[00:42:54](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-42-23)**
+> "...ter the public found out that Tyler Robinson was the suspect. OK, again, it's body cam footage..."
+
+**[00:45:27](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-45-04)**
+> "So in the case of Tyler Robinson in 2022, no citations were issued. Nobody was arr..."
+
+**[00:45:38](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-45-04)**
+> "What took place was that Tyler Robinson spoke to an officer and was handed a report numbe..."
+
+**[00:46:06](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-45-44)**
+> "...happens and I'm disputing it. Tyler Robinson was completely unknown in 2022."
+
+**[00:46:27](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-46-27)**
+> "...uesting GRAMA footage. I know Tyler Robinson. I know that he was involved in a fender bender."
+
+**[00:47:45](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-47-36)**
+> "...is random unknown 19-year-old Tyler Robinson and I'm choosing to release it to a publication t..."
+
+**[00:49:34](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-49-34)**
+> "...showing us pictures of Tyler (Tyler Robinson) in a maroon shirt, and you would think that he a..."
+
+**[00:49:51](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-49-34)**
+> "...the public's mind that Tyler (Tyler Robinson) just wore maroon every day."
+
+**[00:50:14](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-50-14)**
+> "...ual to mimic the way in which Tyler Robinson walks. I think that because the New York Post kin..."
+
+**[00:50:25](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-50-14)**
+> "..., shocking footage emerges of Tyler Robinson and he's wearing an eerily similar hat and sungla..."
+
+**[00:51:03](/episodes/ep-aLJhpxrakCU.md#ent-person-tyler-robinson-t-00-50-51)**
+> "...en days after we learned that Tyler Robinson was a suspect. How did Scripps get that?"
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (9 mentions)</summary>
+
+**[00:10:22](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-10-08)**
+> "...n to this entire case against Tyler Robinson, in my opinion, if you ask me, because he's the o..."
+
+**[00:10:34](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-10-08)**
+> "... peaceably surrender, despite Tyler Robinson's objections and saying that he did not murder Char..."
+
+**[00:11:19](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-11-19)**
+> "...lly doesn't tell us that it's Tyler Robinson's DNA."
+
+**[00:11:34](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-11-19)**
+> "...t that was their only link to Tyler Robinson. The screwdriver on the rooftop, he finds it didn..."
+
+**[00:15:48](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-15-32)**
+> "... what are these warrants for? Tyler Robinson's phone. Okay, what's the guy who specializes in in..."
+
+**[00:15:58](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-15-32)**
+> "George (George Zinn), Tyler Robinson's phone, the Google server that would have Tyler (T..."
+
+**[00:35:52](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-35-52)**
+> "...he plausibility that it's not tyler robinson like i said it's like their lives and freedom dep..."
+
+**[00:37:45](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-37-31)**
+> "..., it does not look like it is Tyler Robinson."
+
+**[00:56:16](/episodes/ep-kn1E0scy9Wc.md#ent-person-tyler-robinson-t-00-56-08)**
+> "This next user writes, Tyler (Tyler Robinson) only limps in the video that we revealed yesterd..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4 mentions)</summary>
+
+**[00:01:49](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-robinson-t-00-01-28)**
+> "...n easier for TPUSA to forgive Tyler Robinson than it is for them to forgive me for what? I don..."
+
+**[00:14:42](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-robinson-t-00-14-10)**
+> "...ust start with a fact, right? Tyler Robinson is thin. We all agree Tyler Robinson is a thin pe..."
+
+**[00:15:03](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-robinson-t-00-14-48)**
+> "...o me to be a bit bulkier than Tyler Robinson. Not a perfect science to rely upon your eyes, bu..."
+
+**[00:22:49](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-robinson-t-00-22-22)**
+> "...ow back to our supposed to be Tyler Robinson character, so I want to show you him walking up t..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (12 mentions)</summary>
@@ -4012,7 +4472,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Dating (1)</summary>
 
 - **[Lance Twiggs](/entities/person-lance-twiggs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:33:42](/episodes/ep-nPhCKwJ6ye8.md#t-01-33-02): “Lance was his boyfriend. That is a that is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:12:25](/episodes/ep-EtLHqDbxqks.md#t-00-12-25): “A very easy feat because he was his roommate and his boyfriend.”
@@ -4022,6 +4482,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:02:59](/episodes/ep-aPOyk1i2LOc.md#t-01-02-59): “Lance was his boyfriend. That is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01): “Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:14:30](/episodes/ep-q7f8r-THr84.md#t-00-14-30): “Robinson began to date his roommate, which is a biological male who was transitioning genders.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:53](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53): “What's up with the Dairy Queen? I think Tyler Robinson's car was, like I said, used. around campus, possibly driven by his boyfriend, Lance (Lance Twiggs).”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:20:55](/episodes/ep-_Sq5RqP27NY.md#t-00-20-55): “It's possible that it's the other Dodge Challenger. And I want to be clear about this, the cell phone data thing where they say that we got this from Tyler Robinson's phone because I have long suspected that Lance Twiggs may not have just been sleeping through everything that never registered to me as true that didn't register to me as a reason that you would need use immunity when you're testifying. ... That's it. Discord. Oh, he made a confession on Discord. OK, is it possible that his boyfriend had his Discord login? ... seems to be much more likely to be tied up in something. And I think given what we know about Tyler Robinson, he could have been very easy manipulated by his boyfriend to do certain things. He has the exact opposite record. His record's kind of squeaky clean.”
 
 </details>
 
@@ -4031,7 +4493,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Defended By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime.”
@@ -4039,6 +4501,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:28](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “They are willing to put an innocent man in prison. I do not. I do not believe Tyler Robinson killed Charlie Kirk.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:00](/episodes/ep-6XfDqKTdFKg.md#t-00-15-32): “My opinion, though I can say on the basis of the shifting narratives, is this. I have always maintained that I believe Tyler Robinson was involved with something on that day, that he played a role, that he was around campus. I do not believe he had anything to do with the actual killing of Charlie Kirk. But I recommend he could be guilty of tampering with evidence.”
 
 </details>
 
@@ -4051,6 +4514,56 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:13:50](/episodes/ep-HYn0P-P1wUw.md#t-00-13-32): “Tyler (Tyler Robinson) was working at Wilde Electric, by the way, in Santa Clara, Utah.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Investigated By (3)</summary>
+
+- **[Michael George Carle](/entities/person-michael-george-carle.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:15:48](/episodes/ep-kn1E0scy9Wc.md#t-00-15-32): “And what are these warrants for? Tyler Robinson's phone. Okay, what's the guy who specializes in internet crimes against children doing signing off on these warrants? George (George Zinn), Tyler Robinson's phone, the Google server that would have Tyler (Tyler Robinson)'s phone location data on September 10th. He signs off on that. The cell towers that are surrounding UVU, he signs off on that. He files for that. George Zinn's phone, Charlie (Charlie Kirk)'s belongings at Timpanogos. We've been talking about where are Charlie (Charlie Kirk)'s belongings? Well, this is the person that's behind these warrants. Surveillance footage. It's from Intermountain Health, Utah Valley Hospital. That was a strange case. We said Charlie (Charlie Kirk) had a file there. We don't know. Then we learned that the surveillance footage was also seized from Intermountain Health, Utah Valley, because they said that the perpetrator was driving around. OK, that was their excuse to seize this footage. And also the warrants to search Matt and Amber Robinson's house as well. Again, why would someone with a career emphasis on sex crimes against children be jumping in on this public assassination that had nothing to do with children or the Internet?”
+
+</details>
+
+- **[Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:19:00](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00): “Next to a Quick Quack Car Wash, Agent Draney (Utah State Bureau of Investigations agent; first name unverified) with the Utah State Bureau of Investigations obtained records and video footage from the Quick Quack Car Wash of Tyler Robinson’s 2013 Dodge Challenger with his license plates arriving at the car wash at approximately 12:57.”
+
+</details>
+
+- **[FBI](/entities/org-fbi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:17:16](/episodes/ep-_Sq5RqP27NY.md#t-00-17-16): “Because what happens next is because the public finds out about this, the FBI is able to file a warrant, which brings them to discovering that Tyler Robinson went to the car wash.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Mentored By (1)</summary>
+
+- **[Mike Mitchell](/entities/person-mike-mitchell.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:10:13](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08): “This is what they do. This is the space they work in. Then, of course, there is the curious case of the former undercover detective Mike Mitchell, right? The linchpin to this entire case against Tyler Robinson, in my opinion, if you ask me, because he's the one who claimed that he recognized Tyler Robinson in the news because, you know, he used to mentor him in Boy Scouts.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Purchased From (1)</summary>
+
+- **[Chick-fil-A](/entities/org-chick-fil-a.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:21:44](/episodes/ep-BvthGQw3_s0.md#t-00-21-30): “Then we're told that neighborhood cameras catch Tyler Robinson walking in a maroon shirt. And then we've got this break and we're not told where the Dodge Challenger is, only that we know that at 10.09 a.m., Tyler Robinson returns to campus. Right. He's going to walk through the tunnel. He's going to get to the parking structure. He's going to go to the Chick-fil-A. The Sorensen center is going to purchase food. He's going to sit. He's going to eat. He's not going to, he doesn't park in the parking garage that time.”
 
 </details>
 
@@ -4106,7 +4619,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (16)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -4132,7 +4645,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** defended this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime.”
@@ -4140,6 +4653,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:28](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “They are willing to put an innocent man in prison. I do not. I do not believe Tyler Robinson killed Charlie Kirk.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:00](/episodes/ep-6XfDqKTdFKg.md#t-00-15-32): “My opinion, though I can say on the basis of the shifting narratives, is this. I have always maintained that I believe Tyler Robinson was involved with something on that day, that he played a role, that he was around campus. I do not believe he had anything to do with the actual killing of Charlie Kirk. But I recommend he could be guilty of tampering with evidence.”
 
 </details>
 
@@ -4147,6 +4661,34 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:13:50](/episodes/ep-HYn0P-P1wUw.md#t-00-13-32): “Tyler (Tyler Robinson) was working at Wilde Electric, by the way, in Santa Clara, Utah.”
+
+</details>
+
+- **[Michael George Carle](/entities/person-michael-george-carle.md)** investigated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:15:48](/episodes/ep-kn1E0scy9Wc.md#t-00-15-32): “And what are these warrants for? Tyler Robinson's phone. Okay, what's the guy who specializes in internet crimes against children doing signing off on these warrants? George (George Zinn), Tyler Robinson's phone, the Google server that would have Tyler (Tyler Robinson)'s phone location data on September 10th. He signs off on that. The cell towers that are surrounding UVU, he signs off on that. He files for that. George Zinn's phone, Charlie (Charlie Kirk)'s belongings at Timpanogos. We've been talking about where are Charlie (Charlie Kirk)'s belongings? Well, this is the person that's behind these warrants. Surveillance footage. It's from Intermountain Health, Utah Valley Hospital. That was a strange case. We said Charlie (Charlie Kirk) had a file there. We don't know. Then we learned that the surveillance footage was also seized from Intermountain Health, Utah Valley, because they said that the perpetrator was driving around. OK, that was their excuse to seize this footage. And also the warrants to search Matt and Amber Robinson's house as well. Again, why would someone with a career emphasis on sex crimes against children be jumping in on this public assassination that had nothing to do with children or the Internet?”
+
+</details>
+
+- **[Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi.md)** investigated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:19:00](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00): “Next to a Quick Quack Car Wash, Agent Draney (Utah State Bureau of Investigations agent; first name unverified) with the Utah State Bureau of Investigations obtained records and video footage from the Quick Quack Car Wash of Tyler Robinson’s 2013 Dodge Challenger with his license plates arriving at the car wash at approximately 12:57.”
+
+</details>
+
+- **[FBI](/entities/org-fbi.md)** investigated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:17:16](/episodes/ep-_Sq5RqP27NY.md#t-00-17-16): “Because what happens next is because the public finds out about this, the FBI is able to file a warrant, which brings them to discovering that Tyler Robinson went to the car wash.”
+
+</details>
+
+- **[Mike Mitchell](/entities/person-mike-mitchell.md)** mentored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:10:13](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08): “This is what they do. This is the space they work in. Then, of course, there is the curious case of the former undercover detective Mike Mitchell, right? The linchpin to this entire case against Tyler Robinson, in my opinion, if you ask me, because he's the one who claimed that he recognized Tyler Robinson in the news because, you know, he used to mentor him in Boy Scouts.”
 
 </details>
 
@@ -4211,6 +4753,13 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:32:21](/episodes/ep-d7VsbEIWkP8.md#t-00-32-00): “So it was just Bradley (former roommate; surname unverified), the military guy, Lance (Lance Twiggs) and Tyler Robinson living as roommates until November of 2024.”
+
+</details>
+
+- **[Chick-fil-A](/entities/org-chick-fil-a.md)** sold to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:21:44](/episodes/ep-BvthGQw3_s0.md#t-00-21-30): “Then we're told that neighborhood cameras catch Tyler Robinson walking in a maroon shirt. And then we've got this break and we're not told where the Dodge Challenger is, only that we know that at 10.09 a.m., Tyler Robinson returns to campus. Right. He's going to walk through the tunnel. He's going to get to the parking structure. He's going to go to the Chick-fil-A. The Sorensen center is going to purchase food. He's going to sit. He's going to eat. He's not going to, he doesn't park in the parking garage that time.”
 
 </details>
 
@@ -4298,7 +4847,334 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (462)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (554)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:22:32](/episodes/ep-yrg_-D6oNHE.md#t-00-22-21) (Claim) **Candace Owens** (via paraphrase): ["Owens sarcastically described elephant clipping as a go-to for Ben Sha..."](/statements/statement-7125fa2da22e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Steven Crowder](/entities/person-steven-crowder.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4)</summary>
+
+- [00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41) (Claim) **Candace Owens**: ["Owens said Jennica Pounds, also known as Data Republican, presented he..."](/statements/statement-76bae3bd0aaf.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:04:07](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07) (Accusation) **Candace Owens**: ["Owens asked why the nation’s defense budget was being allocated to des..."](/statements/statement-9ff3690464b6.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:07:26](/episodes/ep-0pSAhaAZz1w.md#t-00-07-26) (Accusation) **Clipping-campaign email tipsters (identity unverified)** (via read message): ["Unidentified email tipsters, as summarized by Owens, claimed participa..."](/statements/statement-5c8cb4bac516.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Discord](/entities/org-discord.md)
+
+- [00:07:59](/episodes/ep-0pSAhaAZz1w.md#t-00-07-59) (Claim) **Candace Owens** (via paraphrase): ["Owens said Discord was apparently where Tyler Robinson published his a..."](/statements/statement-ad4530467964.md)
+  - Also about: [Discord](/entities/org-discord.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:18:48](/episodes/ep-ms5ChhZegRg.md#t-00-18-40) (Accusation) **Candace Owens**: ["Owens asked why people she described as radically pro-Israel, convince..."](/statements/statement-3c145cddc51d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5)</summary>
+
+- [00:51:03](/episodes/ep-q4m-kGzvwjw.md#t-00-50-29) (Accusation) **Candace Owens**: ["Owens said the same two Scripps journalists released body-camera foota..."](/statements/statement-2e4311d3cf43.md)
+  - Also about: [Scripps News](/entities/org-scripps-news.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:53:16](/episodes/ep-q4m-kGzvwjw.md#t-00-53-16) (Accusation) **Candace Owens**: ["Owens implied federal actors identify autistic people in certain progr..."](/statements/statement-8ef44b02abc3.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:54:00](/episodes/ep-q4m-kGzvwjw.md#t-00-54-00) (Claim) **Scripps News anchor (Stephanie; surname unverified)** (via quoted speech): ["The Scripps anchor identified as Stephanie (surname unverified) said t..."](/statements/statement-475ab8018839.md)
+  - Also about: [Scripps News](/entities/org-scripps-news.md)
+
+- [00:54:24](/episodes/ep-q4m-kGzvwjw.md#t-00-54-24) (Claim) **Lori Jane Gliha** (via quoted speech): ["Lori Jane Gliha said the team contacted police departments where Tyler..."](/statements/statement-e9d648419a9c.md)
+  - Also about: [Scripps News](/entities/org-scripps-news.md)
+
+- [00:56:09](/episodes/ep-q4m-kGzvwjw.md#t-00-55-31) (Accusation) **Candace Owens**: ["Owens said she thinks the feds are involved in both the Brian Cole and..."](/statements/statement-bdc516fe303b.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (23)</summary>
+
+- [00:07:12](/episodes/ep-_Sq5RqP27NY.md#t-00-07-12) (Claim) **Candace Owens**: ["Owens said the Dairy Queen screen grab carried a 6:38 p.m. timestamp, ..."](/statements/statement-b87778e94d84.md)
+  - Also about: [Dairy Queen](/entities/org-dairy-queen.md)
+
+- [00:08:29](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29) (Claim) **Candace Owens**: ["Owens said the Panguitch receipt led her team to conclude that somethi..."](/statements/statement-939971f692b7.md)
+  - Also about: [Dairy Queen](/entities/org-dairy-queen.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Orem, Utah](/entities/gpe-orem-utah.md)
+
+- [00:09:41](/episodes/ep-_Sq5RqP27NY.md#t-00-09-09) (Opinion) **Candace Owens**: ["Owens suggested that the Dairy Queen camera may have used UTC, which w..."](/statements/statement-69cd7d8cd84d.md)
+  - Also about: [Dairy Queen](/entities/org-dairy-queen.md)
+
+- [00:10:15](/episodes/ep-_Sq5RqP27NY.md#t-00-09-53) (Accusation) **Candace Owens**: ["Owens speculated that Tyler Robinson could have disposed of clothes in..."](/statements/statement-a95b0f0cea66.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Dairy Queen](/entities/org-dairy-queen.md), [Operation Maroon Boys](/entities/concept-operation-maroon-boys.md)
+
+- [00:11:15](/episodes/ep-_Sq5RqP27NY.md#t-00-11-15) (Claim) **Candace Owens**: ["Owens said her current belief, open to being proven wrong, was that th..."](/statements/statement-9901b9719648.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Fox News](/entities/org-fox-news.md)
+
+- [00:13:16](/episodes/ep-_Sq5RqP27NY.md#t-00-12-47) (Opinion) **Candace Owens**: ["Owens argued that the prosecution would have to explain how Tyler Robi..."](/statements/statement-bc70612098a2.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:14:16](/episodes/ep-_Sq5RqP27NY.md#t-00-14-16) (Opinion) **Candace Owens**: ["Owens said Tyler Robinson’s shoes in the Dairy Queen photo did not app..."](/statements/statement-ad80acb77275.md)
+  - Also about: [Dairy Queen](/entities/org-dairy-queen.md)
+
+- [00:14:43](/episodes/ep-_Sq5RqP27NY.md#t-00-14-16) (Claim) **Candace Owens**: ["Owens said Tyler Robinson was at Dairy Queen on September 10th."](/statements/statement-f49e6a0e4a06.md)
+  - Also about: [Dairy Queen](/entities/org-dairy-queen.md)
+
+- [00:15:54](/episodes/ep-_Sq5RqP27NY.md#t-00-15-54) (Citation) **Candace Owens**: ["Owens cited search warrants for the claim that Tyler Robinson’s vehicl..."](/statements/statement-74fc151c0c8c.md)
+  - Also about: [Mountain Shadows Shopping Center (Orem, Utah)](/entities/gpe-mountain-shadows-shopping-center-orem.md)
+
+- [00:17:31](/episodes/ep-_Sq5RqP27NY.md#t-00-17-16) (Claim) **Candace Owens**: ["Owens said Tyler Robinson’s cell-phone data showed a Google Maps route..."](/statements/statement-7cd2b2a92afe.md)
+  - Also about: [Google Maps](/entities/work-google-maps.md), [Mountain Shadows Shopping Center (Orem, Utah)](/entities/gpe-mountain-shadows-shopping-center-orem.md), [Quick Quack Car Wash](/entities/org-quick-quack-car-wash.md)
+
+- [00:17:51](/episodes/ep-_Sq5RqP27NY.md#t-00-17-51) (Accusation) **Candace Owens**: ["Owens alleged that investigators seized the Quick Quack Car Wash foota..."](/statements/statement-2359dc8fedb8.md)
+  - Also about: [Quick Quack Car Wash](/entities/org-quick-quack-car-wash.md)
+
+- [00:18:20](/episodes/ep-_Sq5RqP27NY.md#t-00-18-20) (Claim) **Search-warrant narrating officer (identity unverified)** (via quoted document): ["An unnamed officer, quoted from a search warrant by Owens, reported fi..."](/statements/statement-11b96311a973.md)
+  - Also about: [Google Maps](/entities/work-google-maps.md), [Mountain Shadows Shopping Center (Orem, Utah)](/entities/gpe-mountain-shadows-shopping-center-orem.md), [Quick Quack Car Wash](/entities/org-quick-quack-car-wash.md)
+
+- [00:19:00](/episodes/ep-_Sq5RqP27NY.md#t-00-19-00) (Citation) **Candace Owens**: ["Owens cited a warrant stating that Agent Draney of the Utah State Bure..."](/statements/statement-66c3ecad9831.md)
+  - Also about: [Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Quick Quack Car Wash](/entities/org-quick-quack-car-wash.md)
+
+- [00:20:46](/episodes/ep-_Sq5RqP27NY.md#t-00-20-11) (Opinion) **Candace Owens**: ["Owens suggested it was possible that the car at Quick Quack was the ot..."](/statements/statement-ad88c41ad27d.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Quick Quack Car Wash](/entities/org-quick-quack-car-wash.md)
+
+- [00:20:55](/episodes/ep-_Sq5RqP27NY.md#t-00-20-55) (Accusation) **Candace Owens**: ["Owens said she had long suspected Lance Twiggs was not sleeping throug..."](/statements/statement-6b54a1a929a9.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
+
+- [00:23:06](/episodes/ep-_Sq5RqP27NY.md#t-00-22-39) (Opinion) **Candace Owens**: ["Owens said she thought Tyler Robinson could have been easily manipulat..."](/statements/statement-3f32484f74e2.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:24:56](/episodes/ep-_Sq5RqP27NY.md#t-00-24-39) (Accusation) **Candace Owens**: ["Owens argued that using a home towel to wipe off DNA made no sense and..."](/statements/statement-bfd1695611b1.md)
+  - Also about: [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:25:06](/episodes/ep-_Sq5RqP27NY.md#t-00-24-39) (Citation) **Candace Owens**: ["Owens said the search warrant mentioning Quick Quack did not say Tyler..."](/statements/statement-18d03340532c.md)
+  - Also about: [Quick Quack Car Wash](/entities/org-quick-quack-car-wash.md)
+
+- [00:28:39](/episodes/ep-_Sq5RqP27NY.md#t-00-28-39) (Claim) **Candace Owens**: ["Owens said they had confirmed Tyler Robinson’s vehicle was a V6."](/statements/statement-71647e4a7a31.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:28:39](/episodes/ep-_Sq5RqP27NY.md#t-00-28-39) (Opinion) **Candace Owens** (via paraphrase): ["Owens relayed emails claiming the car entering the garage was a V8 ide..."](/statements/statement-2fb3232e921c.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:53:17](/episodes/ep-_Sq5RqP27NY.md#t-00-53-00) (Claim) **Candace Owens** (via paraphrase): ["Owens said Officer Goforth’s testimony described obtaining a partial l..."](/statements/statement-3e5b33bc8143.md)
+  - Also about: [Officer Goforth (security officer; first name unverified)](/entities/person-officer-goforth-security-officer.md)
+
+- [00:53:39](/episodes/ep-_Sq5RqP27NY.md#t-00-53-39) (Claim) **Candace Owens**: ["Owens said she could not confirm a license-plate match and did not hav..."](/statements/statement-dd2fb3e6c5d5.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:53:39](/episodes/ep-_Sq5RqP27NY.md#t-00-53-39) (Accusation) **Candace Owens**: ["Owens speculated that, if the cars’ plates matched but their exhausts ..."](/statements/statement-bbc655f096e4.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:30:37](/episodes/ep-bIuvTKlFeGo.md#t-00-30-27) (Opinion) **Candace Owens**: ["Owens questioned the timing of Tyler Robinson’s reported encounter wit..."](/statements/statement-0de5c145b349.md)
+  - Also about: [Unidentified TPUSA social-media woman (Ep 394; identity unverified)](/entities/anon-src-bIuvTKlFeGo-013.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (8)</summary>
+
+- [00:03:31](/episodes/ep-_2DiIbfy4mU.md#t-00-03-09) (Opinion) **Candace Owens**: ["Owens says it seems federal authorities did not want people to clearly..."](/statements/statement-0d8815e6a887.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:05:06](/episodes/ep-_2DiIbfy4mU.md#t-00-04-52) (Claim) **Candace Owens**: ["Owens says she is not claiming 100% certainty, but the video of Tyler ..."](/statements/statement-2d1b1ccb4fb8.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:05:48](/episodes/ep-_2DiIbfy4mU.md#t-00-05-28) (Claim) **Candace Owens** (via paraphrase): ["Owens says unnamed phone contacts told her Tyler Robinson’s car has du..."](/statements/statement-45641ae1e0c9.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:06:10](/episodes/ep-_2DiIbfy4mU.md#t-00-06-10) (Claim) **Email photo sender reporting Tyler Robinson car in driveway (identity unverified)** (via read message): ["An unnamed email sender reported seeing and photographing Tyler Robins..."](/statements/statement-8bbbac849d43.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:07:19](/episodes/ep-_2DiIbfy4mU.md#t-00-07-19) (Claim) **Candace Owens**: ["Owens says that at approximately 12:16 p.m. a person she describes as ..."](/statements/statement-9c28ac472d4f.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:08:28](/episodes/ep-_2DiIbfy4mU.md#t-00-08-05) (Opinion) **Candace Owens**: ["Owens says the person in the rooftop footage appears to her to be very..."](/statements/statement-6512bd2bd797.md)
+
+- [00:09:47](/episodes/ep-_2DiIbfy4mU.md#t-00-09-36) (Claim) **Candace Owens**: ["Owens says that around 12:17 p.m. the rooftop subject jumps over the l..."](/statements/statement-99f1ef2bab94.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:10:26](/episodes/ep-_2DiIbfy4mU.md#t-00-10-13) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterizes Blake Neff as imagining the rooftop subject was as..."](/statements/statement-2551f56a4e0c.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (12)</summary>
+
+- [00:03:20](/episodes/ep-6XfDqKTdFKg.md#t-00-03-20) (Claim) **Candace Owens**: ["Owens says the towed Dodge Challenger identified as Tyler Robinson’s a..."](/statements/statement-38588a6f21d3.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [Waluigi (UVU admissions-lot driver; identity unverified)](/entities/anon-src-6XfDqKTdFKg-002.md)
+
+- [00:14:19](/episodes/ep-6XfDqKTdFKg.md#t-00-14-19) (Claim) **Candace Owens**: ["Owens says TMZ footage shows the person she identifies as Tyler Robins..."](/statements/statement-bd0f2e1b397e.md)
+  - Also about: [TMZ](/entities/org-tmz.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+- [00:16:00](/episodes/ep-6XfDqKTdFKg.md#t-00-15-32) (Accusation) **Candace Owens**: ["Owens says she believes Tyler Robinson played some role around campus ..."](/statements/statement-d1609493a142.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:19](/episodes/ep-6XfDqKTdFKg.md#t-00-16-13) (Claim) **Candace Owens** (via paraphrase): ["Owens says her show reported that Tyler Robinson was seen at Dairy Que..."](/statements/statement-c10a3fc6207c.md)
+  - Also about: [Dairy Queen](/entities/org-dairy-queen.md)
+
+- [00:16:53](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53) (Opinion) **Candace Owens**: ["Owens thinks Tyler Robinson’s car was used around campus, possibly dri..."](/statements/statement-7d3e2461c14a.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:17:17](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53) (Opinion) **Candace Owens**: ["Owens does not believe Tyler Robinson changed into a black long-sleeve..."](/statements/statement-99cf60039cc9.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:17:25](/episodes/ep-6XfDqKTdFKg.md#t-00-16-53) (Promise) **Candace Owens**: ["Owens promises to present further evidence for why she does not believ..."](/statements/statement-8aa1e70fdd74.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:17:38](/episodes/ep-6XfDqKTdFKg.md#t-00-17-38) (Opinion) **Candace Owens**: ["Owens does not believe Converse sneakers are convincing enough evidenc..."](/statements/statement-53119c8deacf.md)
+  - Also about: [Converse (footwear brand)](/entities/org-converse.md)
+
+- [00:19:11](/episodes/ep-6XfDqKTdFKg.md#t-00-18-57) (Claim) **Utah State Bureau of Investigation** (via quoted document): ["The SBI warrant read by Owens reports that Agent Mortensen, whose full..."](/statements/statement-72de9f2c7aa0.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Agent Mortensen (campus-footage reviewer; identity unverified)](/entities/anon-src-6XfDqKTdFKg-003.md)
+
+- [00:19:51](/episodes/ep-6XfDqKTdFKg.md#t-00-19-41) (Claim) **Utah State Bureau of Investigation** (via quoted document): ["The SBI warrant read by Owens describes Robinson in a ball cap, red sh..."](/statements/statement-05f92880a825.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:20:51](/episodes/ep-6XfDqKTdFKg.md#t-00-20-22) (Claim) **Candace Owens** (via paraphrase): ["Owens characterizes the revised account as having Robinson leave campu..."](/statements/statement-6767f47e0c6d.md)
+  - Also about: [Wordle](/entities/work-wordle.md)
+
+- [00:21:28](/episodes/ep-6XfDqKTdFKg.md#t-00-21-06) (Accusation) **Candace Owens**: ["Owens says the prosecution narrative and warrants read to her as thoug..."](/statements/statement-bac3c0e070db.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (11)</summary>
+
+- [00:03:11](/episodes/ep-BvthGQw3_s0.md#t-00-03-11) (Claim) **Hearing witness introduced as Agent Hull (identity unverified)** (via quoted speech): ["The hearing witness introduced as Agent Hull (full identity and spelli..."](/statements/statement-7a7af18f9ce5.md)
+
+- [00:04:23](/episodes/ep-BvthGQw3_s0.md#t-00-04-07) (Opinion) **Candace Owens**: ["Owens said she had a feeling there might have been multiple decoys: sh..."](/statements/statement-f22336026958.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:10:54](/episodes/ep-BvthGQw3_s0.md#t-00-10-42) (Citation) **Candace Owens**: ["Owens said TMZ footage first showed Tyler Robinson walking in the neig..."](/statements/statement-ed510109dba8.md)
+  - Also about: [TMZ](/entities/org-tmz.md)
+
+- [00:11:09](/episodes/ep-BvthGQw3_s0.md#t-00-10-42) (Claim) **Candace Owens**: ["Owens said the 8:07 a.m. neighborhood footage was not discussed during..."](/statements/statement-dafb8083441c.md)
+
+- [00:20:08](/episodes/ep-BvthGQw3_s0.md#t-00-20-08) (Citation) **Candace Owens**: ["Owens recapped a timeline in which neighborhood footage catches Tyler ..."](/statements/statement-aff22fa84713.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:20:45](/episodes/ep-BvthGQw3_s0.md#t-00-20-45) (Citation) **Candace Owens**: ["Owens said the reported timeline places Tyler Robinson on UVU campus i..."](/statements/statement-c5f2faa306f9.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:21:15](/episodes/ep-BvthGQw3_s0.md#t-00-20-45) (Citation) **Candace Owens**: ["Owens said the reported timeline shows Tyler Robinson descending the p..."](/statements/statement-169db3f44c4f.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:21:30](/episodes/ep-BvthGQw3_s0.md#t-00-21-30) (Claim) **Candace Owens**: ["In her later timeline recap, Owens said the newly shown gray Challenge..."](/statements/statement-90b62d132d83.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:21:44](/episodes/ep-BvthGQw3_s0.md#t-00-21-30) (Citation) **Candace Owens**: ["Owens said Tyler Robinson reportedly returned to campus at 10:09 a.m.,..."](/statements/statement-3729ceefc437.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Sorensen Center](/entities/org-sorensen-center.md), [Chick-fil-A](/entities/org-chick-fil-a.md)
+
+- [00:23:04](/episodes/ep-BvthGQw3_s0.md#t-00-23-00) (Opinion) **Candace Owens**: ["Owens said the new footage could mean nothing and might show people at..."](/statements/statement-9f8453ef1a4a.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:24:08](/episodes/ep-BvthGQw3_s0.md#t-00-23-43) (Opinion) **Candace Owens**: ["Owens said that if she were Tyler Robinson's defense lawyer she would ..."](/statements/statement-58af22133c6f.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3)</summary>
+
+- [00:56:23](/episodes/ep-NNiCZk1cuzs.md#t-00-56-23) (Claim) **Handle Coco Rose (identity unverified)** (via quoted post): ["The viewer handle Coco Rose contrasted available 2022 footage of Tyler..."](/statements/statement-8b2bc9c30eea.md)
+
+- [00:56:56](/episodes/ep-NNiCZk1cuzs.md#t-00-56-23) (Claim) **Candace Owens**: ["Owens affirmed that a GRAMA request for cameras outside Robinson’s pol..."](/statements/statement-d53e0c247983.md)
+  - Also about: [Utah Government Records Access and Management Act](/entities/law-utah-government-records-access-and-management-act.md)
+
+- [00:57:13](/episodes/ep-NNiCZk1cuzs.md#t-00-57-00) (Claim) **Candace Owens**: ["Owens said the same two Scripps News reporters released old footage of..."](/statements/statement-059c2486c7b6.md)
+  - Also about: [Scripps News](/entities/org-scripps-news.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (10)</summary>
+
+- [00:41:57](/episodes/ep-aLJhpxrakCU.md#t-00-41-57) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Zach Costello’s comparison of the person’s fingers..."](/statements/statement-163528a5ba38.md)
+  - Also about: [Zach Costello](/entities/person-zach-costello.md)
+
+- [00:42:54](/episodes/ep-aLJhpxrakCU.md#t-00-42-23) (Claim) **Candace Owens**: ["Owens said the police bodycam recording was dated May 31, 2022 and rel..."](/statements/statement-d6ab4e1cdbab.md)
+  - Also about: [Scripps News](/entities/org-scripps-news.md)
+
+- [00:43:18](/episodes/ep-aLJhpxrakCU.md#t-00-43-04) (Opinion) **Candace Owens**: ["Owens argued that the routine 2022 bodycam footage should not exist an..."](/statements/statement-e773562defa7.md)
+  - Also about: [Scripps News](/entities/org-scripps-news.md)
+
+- [00:45:27](/episodes/ep-aLJhpxrakCU.md#t-00-45-04) (Claim) **Candace Owens**: ["Owens said no citations or arrests occurred in the 2022 crash, the bod..."](/statements/statement-db65bc4e2d72.md)
+
+- [00:46:14](/episodes/ep-aLJhpxrakCU.md#t-00-45-44) (Claim) **Candace Owens**: ["Owens said Tyler Robinson was 19 when the 2022 recording was made by a..."](/statements/statement-e132057e0e10.md)
+  - Also about: [St. George Police Department (Utah)](/entities/org-st-george-police-department-utah.md)
+
+- [00:47:58](/episodes/ep-aLJhpxrakCU.md#t-00-47-36) (Citation) **Candace Owens**: ["Owens cited a Scripps News headline saying it obtained video of the ac..."](/statements/statement-d866f3f495fa.md)
+  - Also about: [Scripps News](/entities/org-scripps-news.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:34](/episodes/ep-aLJhpxrakCU.md#t-00-49-34) (Accusation) **Candace Owens**: ["Owens said Robinson normally wore blue rather than maroon shirts and s..."](/statements/statement-6c8034adfa83.md)
+
+- [00:50:04](/episodes/ep-aLJhpxrakCU.md#t-00-49-34) (Accusation) **Candace Owens**: ["Owens said, “I think,” unidentified actors already knew they would rel..."](/statements/statement-8b303b65e400.md)
+
+- [00:50:25](/episodes/ep-aLJhpxrakCU.md#t-00-50-14) (Claim) **New York Post** (via quoted article): ["Owens read a New York Post passage describing Robinson’s 2022 fender-b..."](/statements/statement-2bf7e7a6ab69.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:52:02](/episodes/ep-aLJhpxrakCU.md#t-00-51-30) (Accusation) **Candace Owens**: ["Owens speculated, “Maybe it’s a whole blackmail thing,” regarding the ..."](/statements/statement-9cd7452f2857.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (6)</summary>
+
+- [00:10:13](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08) (Claim) **Candace Owens** (via paraphrase): ["Owens said Mike Mitchell claimed to recognize Tyler Robinson from ment..."](/statements/statement-ade7ee9dda9d.md)
+  - Also about: [Mike Mitchell](/entities/person-mike-mitchell.md), [Matt Robinson](/entities/person-matt-robinson.md)
+
+- [00:11:09](/episodes/ep-kn1E0scy9Wc.md#t-00-10-49) (Claim) **Candace Owens**: ["Owens said Christopher Bagley's body camera went off after about 25 mi..."](/statements/statement-9e3045faceee.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
+
+- [00:15:48](/episodes/ep-kn1E0scy9Wc.md#t-00-15-32) (Claim) **Candace Owens**: ["Owens said Michael George Carl's warrants concerned Tyler Robinson's p..."](/statements/statement-fd6177737d0c.md)
+  - Also about: [Michael George Carle](/entities/person-michael-george-carle.md), [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:26](/episodes/ep-kn1E0scy9Wc.md#t-00-35-18) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Turning Point USA used Paramount Tactical and introduced Ma..."](/statements/statement-e10f12f8a7dc.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md), [Matt Tardio](/entities/person-matt-tardio.md)
+
+- [00:37:31](/episodes/ep-kn1E0scy9Wc.md#t-00-37-31) (Opinion) **Candace Owens**: ["Owens said the maroon-shirt person in the parking lot footage appeared..."](/statements/statement-33fd0590217f.md)
+
+- [00:56:16](/episodes/ep-kn1E0scy9Wc.md#t-00-56-08) (Opinion) **Candace Owens** (via paraphrase): ["Owens relayed an unnamed viewer's claim that Tyler Robinson only limpe..."](/statements/statement-deef123e4ecc.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (7)</summary>
+
+- [00:15:03](/episodes/ep-O4Zw3bCALjU.md#t-00-14-48) (Citation) **Candace Owens** (via paraphrase): ["Owens said Officer Chris Bagley testified that the black-shirted perso..."](/statements/statement-ff5362194581.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
+
+- [00:15:03](/episodes/ep-O4Zw3bCALjU.md#t-00-14-48) (Opinion) **Candace Owens**: ["Owens said the black-shirted individual appeared to her to be bulkier ..."](/statements/statement-7faead81b1af.md)
+
+- [00:16:09](/episodes/ep-O4Zw3bCALjU.md#t-00-16-09) (Citation) **Candace Owens**: ["Owens cited the police warrant as placing the footage at approximately..."](/statements/statement-ef1b10d4f706.md)
+
+- [00:16:54](/episodes/ep-O4Zw3bCALjU.md#t-00-16-54) (Claim) **Candace Owens**: ["Owens said the footage showed the individual standing for some time an..."](/statements/statement-1cdd734ed19a.md)
+
+- [00:18:18](/episodes/ep-O4Zw3bCALjU.md#t-00-18-07) (Opinion) **Candace Owens**: ["Owens said it was obvious to her that the filmed individual did not ha..."](/statements/statement-d8abcfa375df.md)
+
+- [00:24:43](/episodes/ep-O4Zw3bCALjU.md#t-00-24-22) (Accusation) **Candace Owens**: ["Owens said her gut told her the black-shirted person was another decoy..."](/statements/statement-4a176ac74591.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:07](/episodes/ep-O4Zw3bCALjU.md#t-00-25-07) (Promise) **Candace Owens**: ["Owens said they would reveal more evidence later about the filmed pers..."](/statements/statement-2987b021f6f1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (7)</summary>

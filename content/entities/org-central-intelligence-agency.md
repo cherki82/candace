@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 182 mentions"
+description: "Central Intelligence Agency (Organizations) - 186 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-central-intelligence-agency-t-00-51-37">2026-09-09 · 00:51:44</a></strong></div>
-<div><span>Episodes</span><strong>76</strong></div>
-<div><span>Mentions</span><strong>182</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17">2026-10-05 · 00:07:48</a></strong></div>
+<div><span>Episodes</span><strong>80</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>64</strong></div>
+<div><span>Statements about</span><strong>67</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -112,6 +112,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-03-35" style="--pulse-height:12%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-central-intelligence-agency-t-00-03-05" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-central-intelligence-agency-t-00-51-37" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-central-intelligence-agency-t-01-04-42" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-central-intelligence-agency-t-01-04-02" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-central-intelligence-agency-t-00-06-04" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -193,6 +197,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-03-35) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-central-intelligence-agency-t-00-03-05) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-central-intelligence-agency-t-00-51-37) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-central-intelligence-agency-t-01-04-42) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-central-intelligence-agency-t-01-04-02) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-central-intelligence-agency-t-00-06-04) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17) | 1 |
 
 </details>
 </section>
@@ -204,7 +212,39 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (182)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:07:48](/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17)**
+> "...oting, which appeared to be a CIA Mossad operation."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:06:17](/episodes/ep-BvthGQw3_s0.md#ent-org-central-intelligence-agency-t-00-06-04)**
+> "...for the feds, to work for the CIA, to work for the NSA and or for the Department of..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[01:04:17](/episodes/ep-NNiCZk1cuzs.md#ent-org-central-intelligence-agency-t-01-04-02)**
+> "You can buy a CIA hat. It actually should be the decentralized inte..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[01:04:42](/episodes/ep-kn1E0scy9Wc.md#ent-org-central-intelligence-agency-t-01-04-42)**
+> "telling me that i um the truth about what i should be following what i should be pursuing how wild to say it's a form of gnosticism to not believe the cia like it's like the fbi no you shouldn't seek hidden knowledge you shouldn't seek the epstein files that's hidden knowledge that's the form of not it's gnosticism these people are crazy turning point is ghetto tpus is ghetto now i don't tell you guys it's just a fact"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -1372,7 +1412,31 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (64)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (67)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:06:39](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens** (via paraphrase): ["Owens said conspiracy theorists surmised the Las Vegas shooting was a ..."](/statements/statement-baae6c00ea67.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Israel](/entities/gpe-israel.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:06:17](/episodes/ep-BvthGQw3_s0.md#t-00-06-04) (Claim) **Candace Owens**: ["Owens said UVU has a high federal presence because it is a pipeline sc..."](/statements/statement-a0a43b989478.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [National Security Agency](/entities/org-national-security-agency.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [01:04:37](/episodes/ep-kn1E0scy9Wc.md#t-01-04-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens characterized Alex Clark as saying that not believing the CIA or..."](/statements/statement-2d8f9bc1cf80.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [FBI](/entities/org-fbi.md), [Gnosticism](/entities/concept-gnosticism.md)
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>

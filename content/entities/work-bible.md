@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 115 mentions"
+description: "Bible (Works & Media) - 130 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-work-bible-t-00-54-20">2025-09-18 · 00:54:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-work-bible-t-00-06-05">2026-09-09 · 00:06:05</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>115</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#t-00-38-45">2026-10-05 · 00:38:55</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>130</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -67,6 +67,11 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-00-01" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-work-bible-t-00-06-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-12-34" style="--pulse-height:35%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 7 mentions" title="2026-09-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-work-bible-t-01-00-02" style="--pulse-height:15%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-00-00-43" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-work-bible-t-00-55-11" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-38-45" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +109,11 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-00-01) | 2 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-work-bible-t-00-06-05) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-12-34) | 7 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-work-bible-t-01-00-02) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-work-bible-t-00-55-11) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-38-45) | 1 |
 
 </details>
 </section>
@@ -111,7 +121,71 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+<summary><strong class="section-title">Raw mentions (130)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:38:55](/episodes/ep-ms5ChhZegRg.md#t-00-38-45)**
+> "This is the new thing. It's a circus over at Turning Point USA. Whoever can perform the hardest, whoever can cry the hardest, whoever can manipulate, open your Bibles. How dare you question the widow?"
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:55:11](/episodes/ep-5TTkMa49qj8.md#ent-work-bible-t-00-55-11)**
+> "...t, yelling at people, spewing Bible verses biblical Proverbs."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:00:43](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43)**
+> "They sent the faith leaders. It's demonic. They said, oh, open your Bibles. The widow, the widow."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3 mentions)</summary>
+
+**[01:00:08](/episodes/ep-NNiCZk1cuzs.md#ent-work-bible-t-01-00-02)**
+> "...t and Erika Kirk forget their Bible"
+
+**[01:00:52](/episodes/ep-NNiCZk1cuzs.md#ent-work-bible-t-01-00-45)**
+> "They find the verses about the widow and then say honor the widow. It's a very selfish read of the Bible."
+
+**[01:00:45](/episodes/ep-NNiCZk1cuzs.md#ent-work-bible-t-01-00-45)**
+> "You know how they read their Bibles. They read their Bibles how they want the Bibles to be taken by the public."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (7 mentions)</summary>
+
+**[00:12:34](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-12-34)**
+> "Just like in the Bible. We don't know what it means, but it's mad weird,..."
+
+**[00:12:42](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-12-42)**
+> "...se fails, just talk about the Bible. Turning Point USA Faith grift just keeps on goin..."
+
+**[00:25:46](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-25-46)**
+> "...ole episode to try to use the Bible, of course, to suggest that women who are noticin..."
+
+**[00:30:30](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-30-30)**
+> "The Bible says to forgive as Christ (Jesus Christ) forgave,..."
+
+**[00:31:19](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-31-14)**
+> "When the Bible warns Christians against seeking secret knowledge..."
+
+**[00:32:42](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-32-15)**
+> "...t allow people to utilize the Bible."
+
+**[00:32:50](/episodes/ep-O4Zw3bCALjU.md#ent-work-bible-t-00-32-15)**
+> "...ey keep trying to utilize the Bible to tell you that trusting your own eyes and trust..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -625,7 +699,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bible (4)</strong></summary>
+<summary><strong class="section-title">Statements about Bible (6)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2)</summary>
+
+- [01:00:08](/episodes/ep-NNiCZk1cuzs.md#t-01-00-02) (Citation) **Mandy (Ep 389 viewer/commenter; identity unverified)** (via quoted post): ["The viewer Mandy cited Matthew 10:14, Mark 6:11 and Luke 9:5 as teachi..."](/statements/statement-d01637cfd814.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [01:00:45](/episodes/ep-NNiCZk1cuzs.md#t-01-00-45) (Opinion) **Candace Owens**: ["Owens accused Kolvet and Erika of selectively reading the Bible to emp..."](/statements/statement-f1b31e91b081.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>

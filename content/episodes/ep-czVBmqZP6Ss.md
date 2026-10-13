@@ -327,7 +327,7 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 - **2025-08-21**: [Charlie Kirk addresses moral blackmail at Myrtle Beach event](/events/event-2025-08-21-charlie-kirk-addresses-moral-blackmail-a.md)
 - **2025-08**: [Benjamin Netanyahu calls Charlie Kirk inviting him to Israel](/events/event-2025-08-benjamin-netanyahu-calls-charlie-kirk-in.md)
 - **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
-- **2025-09-10 08:29**: [Tyler Robinson arrives at UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.](/events/event-2025-09-10-tyler-robinson-arrives-at-uvu-campus-in-.md)
+- **2025-09-10 08:29**: [A gray Dodge Challenger reported as Tyler Robinson's arrives at UVU campus at approximately 8:29 a.m.; Owens disputes that vehicle identification in Ep393 based on the visible exhaust.](/events/event-2025-09-10-tyler-robinson-arrives-at-uvu-campus-in-.md)
 - **2025-09-11**: [Benjamin Netanyahu discusses Charlie Kirk on Fox News](/events/event-2025-09-11-benjamin-netanyahu-discusses-charlie-kirk-on-fox-n.md)
 - **2025-09-12**: [Tribute event held for Charlie Kirk](/events/event-2025-09-12-tribute-event-held-for-charlie-kirk.md)
 - **2025-09-12**: [Erika Kirk addresses nation after husband's death](/events/event-2025-09-12-erika-kirk-addresses-nation-after-husban.md)

@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 151 mentions"
+description: "Tax Network USA (Organizations) - 163 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44">2025-09-16 · 01:05:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-tax-network-usa-t-00-21-29">2026-09-03 · 00:21:41</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>151</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-tax-network-usa-t-00-28-05">2026-10-08 · 00:28:09</a></strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>163</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -84,6 +84,12 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-28" style="--pulse-height:17%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-tax-network-usa-t-00-41-10" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-tax-network-usa-t-00-20-46" style="--pulse-height:67%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-tax-network-usa-t-00-28-12" style="--pulse-height:33%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-tax-network-usa-t-00-54-20" style="--pulse-height:33%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-tax-network-usa-t-00-21-25" style="--pulse-height:50%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 3 mentions" title="2026-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-tax-network-usa-t-01-15-38" style="--pulse-height:33%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-tax-network-usa-t-00-54-26" style="--pulse-height:17%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-tax-network-usa-t-00-26-42" style="--pulse-height:33%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -137,6 +143,12 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-28) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-tax-network-usa-t-00-41-10) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-tax-network-usa-t-00-20-46) | 4 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-tax-network-usa-t-00-28-12) | 2 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-tax-network-usa-t-00-54-20) | 2 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-tax-network-usa-t-00-21-25) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-tax-network-usa-t-01-15-38) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-tax-network-usa-t-00-54-26) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-tax-network-usa-t-00-26-42) | 2 |
 
 </details>
 </section>
@@ -144,7 +156,73 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (151)</strong></summary>
+<summary><strong class="section-title">Raw mentions (163)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:27:07](/episodes/ep-UAdBEXs7nNc.md#ent-org-tax-network-usa-t-00-26-42)**
+> "...want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or..."
+
+**[00:28:09](/episodes/ep-UAdBEXs7nNc.md#ent-org-tax-network-usa-t-00-28-05)**
+> "...minutes to get started. Visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:54:40](/episodes/ep-0pSAhaAZz1w.md#ent-org-tax-network-usa-t-00-54-26)**
+> "Visit tnusa.com slash candace. Again, that's tnusa.com slash ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:15:38](/episodes/ep-bIuvTKlFeGo.md#ent-org-tax-network-usa-t-01-15-38)**
+> "...akes collection action called Tax Network USA, they've been helping taxpayers nationwide for mo..."
+
+**[01:16:04](/episodes/ep-bIuvTKlFeGo.md#ent-org-tax-network-usa-t-01-15-38)**
+> "So call 866-686-1651 or visit tnusa.com slash candace. Again, that's tnusa.com slash ..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3 mentions)</summary>
+
+**[00:22:00](/episodes/ep-_2DiIbfy4mU.md#ent-org-tax-network-usa-t-00-21-25)**
+> "...o want to tell you guys about Tax Network USA because maybe you owe back taxes, maybe you have ..."
+
+**[00:22:20](/episodes/ep-_2DiIbfy4mU.md#ent-org-tax-network-usa-t-00-22-09)**
+> "...takes collection action, call Tax Network USA. They have been helping taxpayers nationwide for ..."
+
+**[00:22:43](/episodes/ep-_2DiIbfy4mU.md#ent-org-tax-network-usa-t-00-22-09)**
+> "So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[00:54:20](/episodes/ep-NNiCZk1cuzs.md#ent-org-tax-network-usa-t-00-54-20)**
+> "...takes collection action, call Tax Network USA."
+
+**[00:54:46](/episodes/ep-NNiCZk1cuzs.md#ent-org-tax-network-usa-t-00-54-20)**
+> "Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:28:12](/episodes/ep-O4Zw3bCALjU.md#ent-org-tax-network-usa-t-00-28-12)**
+> "...want to remind you guys about Tax Network USA because maybe you owe back taxes, maybe you have ..."
+
+**[00:28:41](/episodes/ep-O4Zw3bCALjU.md#ent-org-tax-network-usa-t-00-28-41)**
+> "...takes collection action, call Tax Network USA. They've been helping taxpayers nationwide for mo..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
@@ -842,7 +920,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -854,6 +932,11 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:55:33](/episodes/ep-OgRyiOAVtWU.md#t-00-55-33): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:02](/episodes/ep-HZvwbfePe7o.md#t-00-37-40): “Before the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:23:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-24): “They are not on your side. Obviously, get protected the right way with Tax Network USA and start the process of settling your tax burden once and for all.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:28:41](/episodes/ep-O4Zw3bCALjU.md#t-00-28-41): “Before the IRS sends more letters or takes collection action, call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. So whether you owe $10,000 or $10 million, Their team says that they've resolved over $1 billion in tax debt. Right now, you can get a free IRS investigative call to find out what you owe and what options may be available to you. So call 866-686-1651 or visit tnnusa.com slash Candace. Again, that's tnnusa.com slash Candace.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:54:20](/episodes/ep-NNiCZk1cuzs.md#t-00-54-20): “If you don't have a plan, you could face an even bigger tax problem. Before the IRS sends more letters or takes collection action, call Tax Network USA. ... They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. ... Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:22:20](/episodes/ep-_2DiIbfy4mU.md#t-00-22-09): “Before the IRS sends more letters or takes collection action, call Tax Network USA. They have been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. So whether you owe $10,000 or $10 million, their team says that they have resolved over $1 billion in tax debt. Instead, right now you can get a free IRS investigative call to find out what you owe and what your options may be. So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
 
 </details>
 
@@ -863,7 +946,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -875,6 +958,11 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:55:33](/episodes/ep-OgRyiOAVtWU.md#t-00-55-33): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:02](/episodes/ep-HZvwbfePe7o.md#t-00-37-40): “Before the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:23:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-24): “They are not on your side. Obviously, get protected the right way with Tax Network USA and start the process of settling your tax burden once and for all.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:28:41](/episodes/ep-O4Zw3bCALjU.md#t-00-28-41): “Before the IRS sends more letters or takes collection action, call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. So whether you owe $10,000 or $10 million, Their team says that they've resolved over $1 billion in tax debt. Right now, you can get a free IRS investigative call to find out what you owe and what options may be available to you. So call 866-686-1651 or visit tnnusa.com slash Candace. Again, that's tnnusa.com slash Candace.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:54:20](/episodes/ep-NNiCZk1cuzs.md#t-00-54-20): “If you don't have a plan, you could face an even bigger tax problem. Before the IRS sends more letters or takes collection action, call Tax Network USA. ... They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. ... Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:22:20](/episodes/ep-_2DiIbfy4mU.md#t-00-22-09): “Before the IRS sends more letters or takes collection action, call Tax Network USA. They have been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. So whether you owe $10,000 or $10 million, their team says that they have resolved over $1 billion in tax debt. Instead, right now you can get a free IRS investigative call to find out what you owe and what your options may be. So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
 
 </details>
 
@@ -883,7 +971,15 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tax Network USA (2)</strong></summary>
+<summary><strong class="section-title">Statements about Tax Network USA (3)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:22:20](/episodes/ep-_2DiIbfy4mU.md#t-00-22-09) (Claim) **Candace Owens**: ["Owens says Tax Network USA has helped taxpayers nationwide for more th..."](/statements/statement-c7383e407a26.md)
+  - Also about: [Internal Revenue Service](/entities/org-internal-revenue-service.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>

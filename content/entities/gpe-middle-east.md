@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 76 mentions"
+description: "Middle East (Places) - 78 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-41-31">2026-08-04 · 00:41:31</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-middle-east-t-00-19-52">2026-09-30 · 00:19:52</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -72,6 +72,8 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-middle-east-t-00-57-39" style="--pulse-height:12%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-middle-east-t-00-26-31" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-40-52" style="--pulse-height:25%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-middle-east-t-00-28-19" style="--pulse-height:12%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-middle-east-t-00-19-52" style="--pulse-height:12%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +116,8 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-middle-east-t-00-57-39) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-middle-east-t-00-26-31) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-40-52) | 2 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-middle-east-t-00-28-19) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-middle-east-t-00-19-52) | 1 |
 
 </details>
 </section>
@@ -125,7 +129,23 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:19:52](/episodes/ep-5TTkMa49qj8.md#ent-gpe-middle-east-t-00-19-52)**
+> "...plane, had to lay over in the Middle East wearing cowboy boots."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:28:19](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-middle-east-t-00-28-19)**
+> "...ump killing pedophiles in the Middle East?"
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>

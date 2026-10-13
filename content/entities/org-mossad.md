@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 100 mentions"
+description: "Mossad (Organizations) - 106 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-44">2026-09-03 · 00:03:44</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>100</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-mossad-t-00-43-14">2026-10-05 · 00:43:36</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>106</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>40</strong></div>
+<div><span>Statements about</span><strong>44</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -78,6 +78,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30" style="--pulse-height:10%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-06-52" style="--pulse-height:60%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 6 mentions" title="2026-09-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-05" style="--pulse-height:20%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-mossad-t-00-54-25" style="--pulse-height:10%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-mossad-t-00-35-03" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-mossad-t-00-07-17" style="--pulse-height:30%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -126,6 +129,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-06-52) | 6 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-05) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-mossad-t-00-54-25) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-mossad-t-00-35-03) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-mossad-t-00-07-17) | 3 |
 
 </details>
 </section>
@@ -137,7 +143,40 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:07:48](/episodes/ep-ms5ChhZegRg.md#ent-org-mossad-t-00-07-17)**
+> "...g, which appeared to be a CIA Mossad operation."
+
+**[00:15:21](/episodes/ep-ms5ChhZegRg.md#ent-org-mossad-t-00-14-58)**
+> "... York Post in particular, the Mossad's rag, the one that had everything to do with Ghisl..."
+
+**[00:43:36](/episodes/ep-ms5ChhZegRg.md#ent-org-mossad-t-00-43-14)**
+> "Fake lies, entire Mossad network. I think of women who are pretending to l..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:35:03](/episodes/ep-q4m-kGzvwjw.md#ent-org-mossad-t-00-35-03)**
+> "... entitled MEGA, MAGA, and the Mossad. And we were barking, just so you guys know how t..."
+
+**[00:35:14](/episodes/ep-q4m-kGzvwjw.md#ent-org-mossad-t-00-35-03)**
+> "...was allegedly working for the Mossad. This particular episode was about a group of bil..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:54:25](/episodes/ep-_Sq5RqP27NY.md#ent-org-mossad-t-00-54-25)**
+> "...te. You can buy this mug. The Mossad is listening."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
@@ -736,7 +775,29 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (40)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (44)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3)</summary>
+
+- [00:06:39](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens** (via paraphrase): ["Owens said conspiracy theorists surmised the Las Vegas shooting was a ..."](/statements/statement-baae6c00ea67.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Israel](/entities/gpe-israel.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md)
+
+- [00:15:21](/episodes/ep-ms5ChhZegRg.md#t-00-14-58) (Accusation) **Candace Owens**: ["Owens called the New York Post “the Mossad’s rag” and alleged it cover..."](/statements/statement-e5a2d086381a.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:43:14](/episodes/ep-ms5ChhZegRg.md#t-00-43-14) (Accusation) **Candace Owens**: ["Owens speculated, “I bet we’d learn about how the entire system works,..."](/statements/statement-ac2410d1ef93.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [MKUltra](/entities/concept-mkultra.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:35:14](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03) (Accusation) **Candace Owens** (via paraphrase): ["Owens said they were receiving information that Brigitte Macron was al..."](/statements/statement-cb517b20ae20.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

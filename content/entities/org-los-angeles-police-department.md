@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles Police Department"
-description: "Los Angeles Police Department (Organizations) - 1 mention"
+description: "Los Angeles Police Department (Organizations) - 2 mentions"
 id: "org-los-angeles-police-department"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [LAPD: Our History](https://www.lapdonline.org/our-history/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47">2026-01-29 · 00:51:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47">2026-01-29 · 00:51:47</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-los-angeles-police-department-t-00-50-17">2026-09-14 · 00:50:17</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [LAPD: Our History](https://www.lapdonline.org/our-history/)
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47">Candace x Bassem Youssef | Candace Ep 298</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-los-angeles-police-department-t-00-50-17" style="--pulse-height:100%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-los-angeles-police-department-t-00-50-17) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [LAPD: Our History](https://www.lapdonline.org/our-history/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:50:17](/episodes/ep-O4Zw3bCALjU.md#ent-org-los-angeles-police-department-t-00-50-17)**
+> "... a nurse at Timpanogos, which LAPD told us that they were asking for weird things."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>

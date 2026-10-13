@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 97 mentions"
+description: "PDS Debt (Organizations) - 103 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-pds-debt-t-00-19-28">2026-09-03 · 00:19:34</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>97</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-pds-debt-t-00-25-23">2026-10-08 · 00:25:41</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>103</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -67,6 +67,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-pds-debt-t-00-52-41" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-pds-debt-t-00-26-43" style="--pulse-height:40%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-pds-debt-t-00-18-46" style="--pulse-height:40%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-pds-debt-t-00-32-04" style="--pulse-height:40%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-pds-debt-t-00-26-37" style="--pulse-height:40%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-pds-debt-t-00-25-23" style="--pulse-height:40%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +107,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-pds-debt-t-00-52-41) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-pds-debt-t-00-26-43) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-pds-debt-t-00-18-46) | 2 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-pds-debt-t-00-32-04) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-pds-debt-t-00-26-37) | 2 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-pds-debt-t-00-25-23) | 2 |
 
 </details>
 </section>
@@ -111,7 +117,40 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:25:23](/episodes/ep-UAdBEXs7nNc.md#ent-org-pds-debt-t-00-25-23)**
+> "...signed to keep you stuck. But PDS debt can help."
+
+**[00:25:41](/episodes/ep-UAdBEXs7nNc.md#ent-org-pds-debt-t-00-25-23)**
+> "...it score that's required with PDS debt."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:26:52](/episodes/ep-_Sq5RqP27NY.md#ent-org-pds-debt-t-00-26-37)**
+> "But PDS debt can help. They can reduce up to half of what you ..."
+
+**[00:27:11](/episodes/ep-_Sq5RqP27NY.md#ent-org-pds-debt-t-00-26-37)**
+> "...credit score that's required. PDS Debt is the top rated company in the industry with tho..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[00:32:11](/episodes/ep-NNiCZk1cuzs.md#ent-org-pds-debt-t-00-32-04)**
+> "...signed to keep you stuck. But PDS debt can help. They can reduce up to half of what you ..."
+
+**[00:32:27](/episodes/ep-NNiCZk1cuzs.md#ent-org-pds-debt-t-00-32-04)**
+> "...it score that's required with PDS debt."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
@@ -573,7 +612,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -581,6 +620,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:27:35](/episodes/ep-amqTMimDr0A.md#t-00-27-02): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:25:11](/episodes/ep-Vu6Y24pqhZs.md#t-00-25-11): “Minimum payments aren't designed to get you out of debt. They're designed to keep you stuck. PDS Debt, however, can help.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:32:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-32-02): “Also, reminding you guys about PDS debt, because whether you are struggling with credit cards, personal loans, or medical bills, PDS debt has custom options to help you get out of debt.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:11](/episodes/ep-NNiCZk1cuzs.md#t-00-32-04): “They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans, and medical bills. ... So get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
 
 </details>
 
@@ -590,7 +632,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -598,8 +640,26 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:27:35](/episodes/ep-amqTMimDr0A.md#t-00-27-02): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:25:11](/episodes/ep-Vu6Y24pqhZs.md#t-00-25-11): “Minimum payments aren't designed to get you out of debt. They're designed to keep you stuck. PDS Debt, however, can help.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:32:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-32-02): “Also, reminding you guys about PDS debt, because whether you are struggling with credit cards, personal loans, or medical bills, PDS debt has custom options to help you get out of debt.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:11](/episodes/ep-NNiCZk1cuzs.md#t-00-32-04): “They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans, and medical bills. ... So get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about PDS Debt (2)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2)</summary>
+
+- [00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37) (Claim) **Candace Owens**: ["In a sponsor read, Owens said PDS Debt could reduce up to half of what..."](/statements/statement-250db53186c8.md)
+
+- [00:27:11](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37) (Claim) **Candace Owens**: ["In a sponsor read, Owens said PDS Debt required no minimum credit scor..."](/statements/statement-96ea1dbfee05.md)
+  - Also about: [Better Business Bureau](/entities/org-better-business-bureau.md)
 
 </details>
 

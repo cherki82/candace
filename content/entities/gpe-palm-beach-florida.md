@@ -1,6 +1,6 @@
 ---
 title: "Palm Beach, Florida"
-description: "Palm Beach, Florida (Places) - 5 mentions"
+description: "Palm Beach, Florida (Places) - 7 mentions"
 id: "gpe-palm-beach-florida"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Town of Palm Beach](https://www.townofpalmbeach.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-palm-beach-florida-t-00-32-43">2026-01-30 · 00:32:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-palm-beach-florida-t-00-08-03">2026-04-16 · 00:08:43</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-palm-beach-florida-t-00-42-33">2026-10-05 · 00:42:44</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Town of Palm Beach](https://www.townofpalmbeach.com/)
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-palm-beach-florida-t-00-32-43" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-palm-beach-florida-t-00-16-27" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-palm-beach-florida-t-00-07-27" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-palm-beach-florida-t-00-41-47" style="--pulse-height:67%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Town of Palm Beach](https://www.townofpalmbeach.com/)
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-palm-beach-florida-t-00-32-43) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-palm-beach-florida-t-00-16-27) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-palm-beach-florida-t-00-07-27) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-palm-beach-florida-t-00-41-47) | 2 |
 
 </details>
 </section>
@@ -57,7 +59,18 @@ Source: [Town of Palm Beach](https://www.townofpalmbeach.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:41:47](/episodes/ep-ms5ChhZegRg.md#ent-gpe-palm-beach-florida-t-00-41-47)**
+> "...erving out a sentence down in Palm Beach. He just got right back to his own life, was stil..."
+
+**[00:42:44](/episodes/ep-ms5ChhZegRg.md#ent-gpe-palm-beach-florida-t-00-42-33)**
+> "...nd striking up a deal down in Palm Beach for having sexually abused children did not stop ..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>

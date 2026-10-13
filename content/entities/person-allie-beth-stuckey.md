@@ -1,6 +1,6 @@
 ---
 title: "Allie Beth Stuckey"
-description: "Allie Beth Stuckey (People) - 50 mentions"
+description: "Allie Beth Stuckey (People) - 51 mentions"
 id: "person-allie-beth-stuckey"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-01">2025-11-06 · 00:29:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-allie-beth-stuckey-t-00-21-55">2026-07-21 · 00:22:14</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-allie-beth-stuckey-t-00-12-04">2026-09-25 · 00:12:39</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-allie-beth-stuckey-t-00-04-44" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-allie-beth-stuckey-t-00-50-05" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-allie-beth-stuckey-t-00-21-55" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-allie-beth-stuckey-t-00-12-04" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-allie-beth-stuckey-t-00-04-44) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-allie-beth-stuckey-t-00-50-05) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-allie-beth-stuckey-t-00-21-55) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-allie-beth-stuckey-t-00-12-04) | 1 |
 
 </details>
 </section>
@@ -80,7 +82,15 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:12:39](/episodes/ep-bIuvTKlFeGo.md#ent-person-allie-beth-stuckey-t-00-12-04)**
+> "...Do you remember they sent out Allie Stuckey, who has never headlined a tour with Char..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -329,10 +339,23 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:22:14](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “So after 10 months of the Christian grift, the Allie Stuckeys (Allie Beth Stuckey), the Dana Loesches (Dana Loesch), the honor the widow presentations, Erika (Erika Kirk) is apparently done playing the role.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:41:33](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-04): “Ali Beth Stuckey does the same like tactic of attacking people, sniping them.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:12:39](/episodes/ep-bIuvTKlFeGo.md#t-00-12-04): “Something is not right. And we were having a very hard time determining who requested this event. Do you remember they sent out Allie Stuckey, who has never headlined a tour with Charlie Kirk? ... She shares an X correspondence between her and Andrew (Andrew Kolvet), putting together an event last second for this exact tour as evidence that I'm somehow lying. ... I mean, what an absolutely terrible human being this girl is. I'm truly like, I'm so sickened. I was so angry thinking through the amount of people that Charlie (Charlie Kirk) has helped in their career and how quickly they turned their back on him.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Exchanged Messages With (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:12:39](/episodes/ep-bIuvTKlFeGo.md#t-00-12-04): “Something is not right. And we were having a very hard time determining who requested this event. Do you remember they sent out Allie Stuckey, who has never headlined a tour with Charlie Kirk? ... She shares an X correspondence between her and Andrew (Andrew Kolvet), putting together an event last second for this exact tour as evidence that I'm somehow lying.”
 
 </details>
 
@@ -382,13 +405,14 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:22:14](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “So after 10 months of the Christian grift, the Allie Stuckeys (Allie Beth Stuckey), the Dana Loesches (Dana Loesch), the honor the widow presentations, Erika (Erika Kirk) is apparently done playing the role.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:41:33](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-04): “Ali Beth Stuckey does the same like tactic of attacking people, sniping them.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:12:39](/episodes/ep-bIuvTKlFeGo.md#t-00-12-04): “Something is not right. And we were having a very hard time determining who requested this event. Do you remember they sent out Allie Stuckey, who has never headlined a tour with Charlie Kirk? ... She shares an X correspondence between her and Andrew (Andrew Kolvet), putting together an event last second for this exact tour as evidence that I'm somehow lying. ... I mean, what an absolutely terrible human being this girl is. I'm truly like, I'm so sickened. I was so angry thinking through the amount of people that Charlie (Charlie Kirk) has helped in their career and how quickly they turned their back on him.”
 
 </details>
 
@@ -404,6 +428,13 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35): “she's also criticized Lila Rose heavily and she's kind of questioned Lila's military connections”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:12:39](/episodes/ep-bIuvTKlFeGo.md#t-00-12-04): “Something is not right. And we were having a very hard time determining who requested this event. Do you remember they sent out Allie Stuckey, who has never headlined a tour with Charlie Kirk? ... She shares an X correspondence between her and Andrew (Andrew Kolvet), putting together an event last second for this exact tour as evidence that I'm somehow lying.”
 
 </details>
 

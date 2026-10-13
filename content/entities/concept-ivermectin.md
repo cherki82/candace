@@ -1,6 +1,6 @@
 ---
 title: "Ivermectin"
-description: "Ivermectin (Concepts) - 5 mentions"
+description: "Ivermectin (Concepts) - 6 mentions"
 id: "concept-ivermectin"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [The 2015 Nobel Prize in Physiology or Medicine - Press release](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-ivermectin-t-00-22-47">2025-09-19 · 00:23:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-ivermectin-t-00-26-21">2025-11-19 · 00:26:49</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-ivermectin-t-00-39-17">2026-09-16 · 00:39:17</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [The 2015 Nobel Prize in Physiology or Medicine - Press release](https:/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-ivermectin-t-00-22-47" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-ivermectin-t-00-25-38" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-ivermectin-t-00-39-17" style="--pulse-height:25%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [The 2015 Nobel Prize in Physiology or Medicine - Press release](https:/
 |---|---|---:|
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-ivermectin-t-00-22-47) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-ivermectin-t-00-25-38) | 4 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-ivermectin-t-00-39-17) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [The 2015 Nobel Prize in Physiology or Medicine - Press release](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:39:17](/episodes/ep-aLJhpxrakCU.md#ent-concept-ivermectin-t-00-39-17)**
+> "...anse, which is USA compounded ivermectin and mebendazole. Each capsule was lab-tested for ..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Justin Davis"
-description: "Justin Davis (People) - 35 mentions"
+description: "Justin Davis (People) - 40 mentions"
 id: "person-justin-davis"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14">2026-06-24 · 00:09:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-22-13">2026-09-09 · 00:22:13</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-32-32">2026-10-08 · 00:32:41</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19" style="--pulse-height:83%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 10 mentions" title="2026-09-02 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 12 mentions" title="2026-09-03 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-18-13" style="--pulse-height:42%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-06-52" style="--pulse-height:42%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 5 mentions" title="2026-10-08 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19) | 10 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53) | 12 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-18-13) | 5 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-06-52) | 5 |
 
 </details>
 </section>
@@ -61,7 +63,27 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (5 mentions)</summary>
+
+**[00:06:52](/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-06-52)**
+> "...or, which was being driven by Justin Davis."
+
+**[00:29:50](/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-29-21)**
+> "...irk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Ric..."
+
+**[00:29:57](/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-29-57)**
+> "...was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger ..."
+
+**[00:30:42](/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-30-32)**
+> "...r of it and press on. Justin (Justin Davis) hits the gas as we barge through intersections l..."
+
+**[00:32:41](/episodes/ep-UAdBEXs7nNc.md#ent-person-justin-davis-t-00-32-32)**
+> "...doing the medical and Justin (Justin Davis)'s driving, you know, we're going 60, 80, 100 and..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
@@ -206,7 +228,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (4)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -229,10 +251,29 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 
 </details>
 
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -255,12 +296,40 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 
 </details>
 
+- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Davis (9)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Davis (12)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3)</summary>
+
+- [00:06:52](/episodes/ep-UAdBEXs7nNc.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens described a Jeep Wagoneer as a security vehicle, mentioned Alex ..."](/statements/statement-3b98294673d1.md)
+  - Also about: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Dan Flood](/entities/person-dan-flood.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+- [00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Justin Davis drove, Dan Flood held a p..."](/statements/statement-c3759ed718ea.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Rick Cutler](/entities/person-rick-cutler.md)
+
+- [00:32:32](/episodes/ep-UAdBEXs7nNc.md#t-00-32-32) (Claim) **Brian Harpole** (via quoted speech): ["In the Shawn Ryan clip, Harpole said Charlie Kirk's left leg prevented..."](/statements/statement-3da3ce0139a8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md), [Rick Cutler](/entities/person-rick-cutler.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

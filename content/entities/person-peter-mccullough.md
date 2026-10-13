@@ -1,6 +1,6 @@
 ---
 title: "Peter A. McCullough"
-description: "Peter A. McCullough (People) - 12 mentions"
+description: "Peter A. McCullough (People) - 13 mentions"
 id: "person-peter-mccullough"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-peter-mccullough-t-00-29-53">2026-01-05 · 00:29:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-peter-mccullough-t-00-29-09">2026-08-18 · 00:29:09</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-peter-mccullough-t-00-39-17">2026-09-16 · 00:39:17</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-peter-mccullough-t-00-26-36" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-peter-mccullough-t-00-29-44" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-peter-mccullough-t-00-29-09" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-peter-mccullough-t-00-39-17" style="--pulse-height:100%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-peter-mccullough-t-00-26-36) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-peter-mccullough-t-00-29-44) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-peter-mccullough-t-00-29-09) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-peter-mccullough-t-00-39-17) | 1 |
 
 </details>
 </section>
@@ -72,7 +74,15 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:39:17](/episodes/ep-aLJhpxrakCU.md#ent-person-peter-mccullough-t-00-39-17)**
+> "Dr. Peter McCullough recommends doing a parasite cleanse at least once..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -219,7 +229,15 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Peter A. McCullough (1)</strong></summary>
+<summary><strong class="section-title">Statements about Peter A. McCullough (2)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:39:17](/episodes/ep-aLJhpxrakCU.md#t-00-39-17) (Citation) **Candace Owens** (via paraphrase): ["In the sponsor read, Owens said Dr. Peter McCullough recommends a para..."](/statements/statement-8aac463d9f39.md)
+  - Also about: [The Wellness Company](/entities/org-the-wellness-company.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Eastern Europe"
-description: "Eastern Europe (Places) - 44 mentions"
+description: "Eastern Europe (Places) - 52 mentions"
 id: "gpe-eastern-europe"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-06-24">2026-01-09 · 00:06:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-eastern-europe-t-00-49-39">2026-07-14 · 00:49:57</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-eastern-europe-t-01-01-22">2026-10-06 · 01:01:22</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,8 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-eastern-europe-t-00-19-29" style="--pulse-height:43%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-eastern-europe-t-00-48-30" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-eastern-europe-t-00-49-39" style="--pulse-height:14%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-eastern-europe-t-00-03-53" style="--pulse-height:57%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 4 mentions" title="2026-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-eastern-europe-t-00-14-17" style="--pulse-height:57%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +75,8 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-eastern-europe-t-00-19-29) | 3 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-eastern-europe-t-00-48-30) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-eastern-europe-t-00-49-39) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-eastern-europe-t-00-03-53) | 4 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-eastern-europe-t-00-14-17) | 4 |
 
 </details>
 </section>
@@ -84,7 +88,41 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[00:14:27](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-eastern-europe-t-00-14-17)**
+> "...operation with strong ties to Eastern Europe, and the videos are being supplied by a very clos..."
+
+**[00:16:33](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-eastern-europe-t-00-16-10)**
+> "...many from poorer countries in Eastern Europe and the global south, to chop up videos that the ..."
+
+**[00:29:09](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-eastern-europe-t-00-29-09)**
+> "...lake (Blake Wynn), Las Vegas, Eastern Europe, a trail, so to speak."
+
+**[01:01:22](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-eastern-europe-t-01-01-22)**
+> "...ently those somebodies are in Eastern Europe. Pam Besley writes, hi Candace (Candace Owens), C..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (4 mentions)</summary>
+
+**[00:04:03](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-eastern-europe-t-00-03-53)**
+> "...that are particularly tied to Eastern Europe, from Erika Kirk and her Romanian angels to all o..."
+
+**[00:25:38](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-eastern-europe-t-00-25-38)**
+> "... to have something to do with Eastern Europe, duh. OK..."
+
+**[00:26:24](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-eastern-europe-t-00-26-24)**
+> "...ng about Native Americans and Eastern Europe as we did our Erika (Erika Kirk) series and going..."
+
+**[00:30:20](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-eastern-europe-t-00-26-24)**
+> "That had Eastern European underage models. I emailed them and asked for a statement. They could have easily and flatly denied that."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>

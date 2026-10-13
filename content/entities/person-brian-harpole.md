@@ -1,18 +1,14 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 368 mentions"
+description: "Brian Harpole (People) - 455 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
-aliases:
-  - "Brian"
 categories:
   - "private security"
   - "Turning Point USA"
 ---
 
 _Type: People_
-
-**Also known as:** Brian
 
 **Categories:** private security, Turning Point USA
 
@@ -22,12 +18,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-39-26">2026-09-09 · 00:39:32</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>368</strong></div>
-<div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>126</strong></div>
-<div><span>Relationships</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-55-10">2026-10-08 · 00:55:33</a></strong></div>
+<div><span>Episodes</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>455</strong></div>
+<div><span>Statements by</span><strong>37</strong></div>
+<div><span>Statements about</span><strong>171</strong></div>
+<div><span>Relationships</span><strong>45</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -91,6 +87,17 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-00-12-19" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-brian-harpole-t-00-01-34" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-09-30" style="--pulse-height:46%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 19 mentions" title="2026-09-09 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-02-42" style="--pulse-height:27%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 11 mentions" title="2026-09-14 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-07-34" style="--pulse-height:15%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 6 mentions" title="2026-09-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-brian-harpole-t-00-20-45" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-brian-harpole-t-00-18-45" style="--pulse-height:12%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 5 mentions" title="2026-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-05-20" style="--pulse-height:88%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 36 mentions" title="2026-09-25 · 36 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-brian-harpole-t-00-37-24" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-brian-harpole-t-00-37-39" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-brian-harpole-t-00-22-11" style="--pulse-height:12%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 5 mentions" title="2026-10-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-brian-harpole-t-00-57-29" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-28-07" style="--pulse-height:12%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 5 mentions" title="2026-10-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20" style="--pulse-height:32%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 13 mentions" title="2026-10-08 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -152,6 +159,17 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-00-12-19) | 3 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-brian-harpole-t-00-01-34) | 4 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-09-30) | 19 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-02-42) | 11 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-07-34) | 6 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-brian-harpole-t-00-20-45) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-brian-harpole-t-00-18-45) | 5 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-05-20) | 36 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-brian-harpole-t-00-37-24) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-brian-harpole-t-00-37-39) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-brian-harpole-t-00-22-11) | 5 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-brian-harpole-t-00-57-29) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-28-07) | 5 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20) | 13 |
 
 </details>
 </section>
@@ -163,7 +181,320 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (368)</strong></summary>
+<summary><strong class="section-title">Raw mentions (455)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (13 mentions)</summary>
+
+**[00:23:45](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20)**
+> "...Texas, and he is working with Brian Harpole."
+
+**[00:23:57](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-57)**
+> "...t at that. He is working with Brian Harpole. Still weird, I will say, because that was the ve..."
+
+**[00:29:50](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-29-21)**
+> "...vis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (..."
+
+**[00:30:11](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-29-57)**
+> "...'s head in his lap and Brian (Brian Harpole) is to my right."
+
+**[00:30:22](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-29-57)**
+> "I'm not sure how Brian (Brian Harpole) manages to stay in the SUV as we yank and bank o..."
+
+**[00:31:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-31-15)**
+> "Brian Harpole certainly has never made that claim that you trie..."
+
+**[00:31:44](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-31-15)**
+> "... were told it was just Brian (Brian Harpole)."
+
+**[00:32:26](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-31-58)**
+> "...t allow. Let's listen to what Brian Harpole said on Shawn Ryan."
+
+**[00:33:31](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-33-29)**
+> "...e have to imagine that Brian (Brian Harpole) blacked out the entire ride. Like that's the onl..."
+
+**[00:34:18](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-34-12)**
+> "Brian (Brian Harpole)'s going to black out at this point. But Charlie ..."
+
+**[00:35:56](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-35-35)**
+> "...that was actually what Brian (Brian Harpole) did. That Brian (Brian Harpole) found the room. ..."
+
+**[00:54:33](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-54-33)**
+> "...ce (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just sa..."
+
+**[00:55:33](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-55-10)**
+> "...p before I get double sued by Brian Harpole."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (5 mentions)</summary>
+
+**[00:28:07](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-28-07)**
+> "... that the message was sent to Brian Harpole, that's A, and making the world believe that the ..."
+
+**[00:30:21](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-30-09)**
+> "...told you guys, which was that Brian Harpole was severely misrepresenting things, you look bac..."
+
+**[00:30:35](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-30-09)**
+> "..., but seemingly okay to allow Brian Harpole to go out and misrepresent it?"
+
+**[00:31:15](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-30-54)**
+> "...o Dan Flood? Did you speak to Brian Harpole? Did you speak to the team and say, why didn't as..."
+
+**[00:33:59](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-33-59)**
+> "...particularly when it comes to Brian Harpole. No one has done it. The audacity, the audacity o..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:57:43](/episodes/ep-0pSAhaAZz1w.md#ent-person-brian-harpole-t-00-57-29)**
+> "... that's the case. Now, Brian (Brian Harpole) did say the hospital didn't know they were comin..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (5 mentions)</summary>
+
+**[00:22:22](/episodes/ep-ms5ChhZegRg.md#ent-person-brian-harpole-t-00-22-11)**
+> "... over from the backseat while Brian Harpole was distracted."
+
+**[00:22:36](/episodes/ep-ms5ChhZegRg.md#ent-person-brian-harpole-t-00-22-11)**
+> "...nds of the ride, he did this. Brian Harpole said that."
+
+**[00:22:44](/episodes/ep-ms5ChhZegRg.md#ent-person-brian-harpole-t-00-22-11)**
+> "...or that matter because Brian (Brian Harpole)'s story carries us beyond the car ride, right?"
+
+**[00:23:24](/episodes/ep-ms5ChhZegRg.md#ent-person-brian-harpole-t-00-23-24)**
+> "...ne another, nowhere in Brian (Brian Harpole) or Frank (Frank Turek)'s extraordinary recountin..."
+
+**[00:29:55](/episodes/ep-ms5ChhZegRg.md#ent-person-brian-harpole-t-00-29-55)**
+> "...ve amnesia to Frank Turek and Brian Harpole about this act."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:38:15](/episodes/ep-q4m-kGzvwjw.md#ent-person-brian-harpole-t-00-37-39)**
+> "On August 24th, we know that Brian (Brian Harpole) then claims security."
+
+**[00:38:31](/episodes/ep-q4m-kGzvwjw.md#ent-person-brian-harpole-t-00-38-22)**
+> "So where was Brian Harpole and where was the security planning taking place is another open-ended question. Then Operation Valhalla strike began between civilians and the military training in Minnesota."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:37:24](/episodes/ep-5TTkMa49qj8.md#ent-person-brian-harpole-t-00-37-24)**
+> "Brian Harpole, they dedicate pages to debunking Brian Harpole's..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (36 mentions)</summary>
+
+**[00:05:37](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-05-20)**
+> "...e project team reached out to Brian Harpole, who was identified as the leader of the Integrit..."
+
+**[00:05:49](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-05-20)**
+> "...m attempted to reach Harpole (Brian Harpole) by telephone and certified letter. The certified..."
+
+**[00:06:05](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-06-05)**
+> "I mean, I get more into Brian Harpole. Next up, the project team also reached out to Da..."
+
+**[00:06:19](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-06-05)**
+> "...ity for the organization with Brian Harpole of Integrity Solutions."
+
+**[00:08:26](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-08-26)**
+> "...it's also interesting because Brian Harpole was willing to speak to Sean Ryan on a podcast. H..."
+
+**[00:19:24](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-19-18)**
+> "...ing this narrative. I mean, a Brian Harpole is out there saying that this is the text message..."
+
+**[00:20:34](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-20-34)**
+> "...eason, that's explicitly what Brian Harpole said."
+
+**[00:21:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-21-02)**
+> "...ve this mysterious entry that Brian Harpole stated in a public podcast on Sean Ryan that he f..."
+
+**[00:26:34](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-26-13)**
+> "...kept up this lie. You allowed Brian Harpole to tell this lie and Erika (Erika Kirk) reinforce..."
+
+**[00:26:55](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-26-55)**
+> "...eginning, this was a lie that Brian Harpole was telling. He was not only lying by omission, b..."
+
+**[00:42:43](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-42-43)**
+> "...as severely misrepresented by Brian Harpole and they can't make Brian Harpole the fall guy."
+
+**[00:42:56](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-42-43)**
+> "This was not Brian Harpole's conversation. So there's some coordination happen..."
+
+**[00:43:14](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-42-43)**
+> "...d they start listing Harpole (Brian Harpole)'s lies."
+
+**[00:43:21](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-43-21)**
+> "...for telling you that Harpole (Brian Harpole) is a liar. And now we have an official independe..."
+
+**[00:44:04](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-04)**
+> "That means we shouldn't trust Brian Harpole, guys. We shouldn't trust Brian Harpole now that ..."
+
+**[00:44:13](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-04)**
+> "...that last paragraph, Harpole (Brian Harpole) stated that his first meeting to discuss Septemb..."
+
+**[00:44:32](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-04)**
+> "Harpole (Brian Harpole) stated that Dan Flood was a security guy for Tur..."
+
+**[00:44:41](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-04)**
+> "... pre-event planning, Harpole (Brian Harpole) stated that Flood (Dan Flood) would meticulously..."
+
+**[00:44:48](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-48)**
+> "In the podcast, Harpole (Brian Harpole) gave no indication that he considered requesting..."
+
+**[00:44:59](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-48)**
+> "Harpole (Brian Harpole) explained that his team was focused on securing ..."
+
+**[00:45:07](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-48)**
+> "Harpole (Brian Harpole) stated that when he and his team arrived at UVU ..."
+
+**[00:45:26](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-44-48)**
+> "Harpole (Brian Harpole) described that as ignorant and a security fail, ..."
+
+**[00:45:34](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-45-34)**
+> "Harpole (Brian Harpole) further stated that the venue location was selec..."
+
+**[00:45:47](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-45-34)**
+> "...e at Turning Point USA lie to Brian Harpole about that? Or is Brian Harpole lying to Sean Rya..."
+
+**[00:45:58](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-45-58)**
+> "... speak directly with Harpole (Brian Harpole) since this particular statement and a number of ..."
+
+**[00:46:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-45-58)**
+> "How could Brian (Brian Harpole) get that so wrong? They sought to clarify that, ..."
+
+**[00:46:50](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-46-40)**
+> "... During the podcast, Harpole (Brian Harpole) discussed the lack of a drone camera in the air ..."
+
+**[00:47:12](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-46-40)**
+> "But Harpole (Brian Harpole) also stated that although his team had drones, t..."
+
+**[00:47:48](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-47-24)**
+> "... speak directly with Harpole (Brian Harpole), it remains unclear to the project team why duri..."
+
+**[00:48:00](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-48-00)**
+> "... didn't request one. Harpole (Brian Harpole) just sort of said, I got a drone and I can't use..."
+
+**[00:48:26](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-48-00)**
+> "Harpole (Brian Harpole) also stated during the podcast that federal law ..."
+
+**[00:49:22](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-49-22)**
+> "...n, and this is moving on from Brian Harpole, this is the bottom of page 48, that, and I think..."
+
+**[00:51:40](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-00-51-22)**
+> "... or on September 10th between Brian Harpole, Dan Flood, and the UVU PD."
+
+**[01:07:02](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-01-07-02)**
+> "August 24th is when Brian Harpole claims that security began planning for the event..."
+
+**[01:08:52](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-01-08-26)**
+> "...y could have just told him if Brian Harpole got on the ground and said, I don't like the way ..."
+
+**[01:25:47](/episodes/ep-bIuvTKlFeGo.md#ent-person-brian-harpole-t-01-25-47)**
+> "...t the independent review says Brian Harpole is a liar. Brian Harpole is a liar. He lied about..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (5 mentions)</summary>
+
+**[00:18:45](/episodes/ep-_2DiIbfy4mU.md#ent-person-brian-harpole-t-00-18-45)**
+> "...his wife. What we are told by Brian Harpole are mints and then she takes those mints and she ..."
+
+**[00:19:00](/episodes/ep-_2DiIbfy4mU.md#ent-person-brian-harpole-t-00-18-45)**
+> "Brian Harpole, angel takes hats off of the car, and then what h..."
+
+**[00:24:08](/episodes/ep-_2DiIbfy4mU.md#ent-person-brian-harpole-t-00-24-08)**
+> "He thinks he saw Brian Harpole. I'm limited. I obviously can't confirm that. But..."
+
+**[00:24:19](/episodes/ep-_2DiIbfy4mU.md#ent-person-brian-harpole-t-00-24-08)**
+> "...mply said, I would have taken Brian Harpole's word over Mitch (Mitch Snow)'s at that time, but ..."
+
+**[00:25:07](/episodes/ep-_2DiIbfy4mU.md#ent-person-brian-harpole-t-00-24-52)**
+> "...s and get a confirmation from Brian Harpole. And I'm looking forward to getting a real alibi ..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:21:07](/episodes/ep-BvthGQw3_s0.md#ent-person-brian-harpole-t-00-20-45)**
+> "...cause that's where Dan Flood, Brian Harpole and the whole security team minus Chris (security..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (6 mentions)</summary>
+
+**[00:07:44](/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-07-34)**
+> "...ow you this clip because when Brian Harpole sat down with Shawn Ryan, Shawn Ryan went over th..."
+
+**[00:08:51](/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-08-51)**
+> "So Brian (Brian Harpole) is submitting that to Shawn Ryan to tell the wor..."
+
+**[00:26:20](/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-26-12)**
+> "...This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan when he's..."
+
+**[00:26:40](/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-26-12)**
+> "...posed to do with that, Brian (Brian Harpole)? You never received this message. There's nothin..."
+
+**[00:28:22](/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-28-12)**
+> "...ry back in November following Brian Harpole's appearance and Shawn Ryan that this message threa..."
+
+**[00:29:56](/episodes/ep-aLJhpxrakCU.md#ent-person-brian-harpole-t-00-29-56)**
+> "... you guys meaning right above Brian Harpole."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (11 mentions)</summary>
+
+**[00:02:57](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-02-42)**
+> "...longside, you know, alongside Brian Harpole, who said he was out there and no one's going in ..."
+
+**[00:05:50](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-05-18)**
+> "...ike him to explain why he and Brian Harpole have totally different memories as to whether or ..."
+
+**[00:08:44](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-08-21)**
+> "...r discrepancy between him and Brian Harpole on the rather significant matter of whether or no..."
+
+**[00:09:59](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-09-59)**
+> "...e an incongruity coupled with Brian Harpole, who was in the car as well, where I said that I ..."
+
+**[00:11:05](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-11-05)**
+> "...rank Turek)'s lying or Brian (Brian Harpole)'s lying."
+
+**[00:11:23](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-11-23)**
+> "... do that and how would Brian (Brian Harpole) not remember you jumping over?"
+
+**[00:11:53](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-11-53)**
+> "Is, I mean, Brian (Brian Harpole)'s generally right. No, we weren't doing CPR. I j..."
+
+**[00:13:00](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-12-42)**
+> "It's something that Brian Harpole would remember. It's CPR is not a subtle thing th..."
+
+**[00:13:31](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-13-25)**
+> "...elevant for me. I mean, I got Brian Harpole suing me on the basis of saying that he was just ..."
+
+**[00:50:46](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-50-46)**
+> "... confirmed, so to speak, from Brian Harpole's mouth sounds insane."
+
+**[00:53:00](/episodes/ep-O4Zw3bCALjU.md#ent-person-brian-harpole-t-00-52-49)**
+> "...do have pending lawsuits with Brian Harpole, and I'm looking forward to seeing, you know, wha..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (19 mentions)</summary>
@@ -331,10 +662,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[00:15:22](/episodes/ep-iB-YtO3UZOg.md#ent-person-brian-harpole-t-00-15-12)**
 > "...ere Frank says he did CPR and Brian says he didn't?"
 
-**[00:15:48](/episodes/ep-iB-YtO3UZOg.md#ent-person-brian-harpole-t-00-15-48)**
+**[00:15:48](/episodes/ep-iB-YtO3UZOg.md#ent-person-brian-harpole-t-00-15-12)**
 > "Like I said, Brian doesn't recall Frank doing CPR. Frank says Brian ..."
 
-**[00:16:14](/episodes/ep-iB-YtO3UZOg.md#ent-person-brian-harpole-t-00-16-14)**
+**[00:16:14](/episodes/ep-iB-YtO3UZOg.md#ent-person-brian-harpole-t-00-15-12)**
 > "Brian's: 'I cut Charlie; I took the shirt.' What happened..."
 
 **[00:17:28](/episodes/ep-iB-YtO3UZOg.md#ent-person-brian-harpole-t-00-17-28)**
@@ -451,10 +782,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[01:04:10](/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-03-52)**
 > "...most sense. If the story that Brian Harpole told was true, that leaves us with Dan Flood."
 
-**[01:04:45](/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-04-31)**
+**[01:04:45](/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-03-52)**
 > "...Turek). You're down. Bye-bye, Brian."
 
-**[01:19:06](/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-19-06)**
+**[01:19:06](/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-03-52)**
 > "...ailed me and said they dug up Brian's and it was from like 1996 and that he should have..."
 
 </details>
@@ -716,7 +1047,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[00:06:11](/episodes/ep-VMNWMXX1vO8.md#ent-person-brian-harpole-t-00-06-11)**
 > "...ange, was that sometime after Brian Harpole's interview, they almost interviewed Erika Kirk."
 
-**[00:10:46](/episodes/ep-VMNWMXX1vO8.md#ent-person-brian-harpole-t-00-10-41)**
+**[00:10:46](/episodes/ep-VMNWMXX1vO8.md#ent-person-brian-harpole-t-00-06-11)**
 > "Brian Farnsworth is his brother."
 
 **[00:38:00](/episodes/ep-VMNWMXX1vO8.md#ent-person-brian-harpole-t-00-38-00)**
@@ -845,7 +1176,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[00:46:01](/episodes/ep-KpxIBWkNsSs.md#ent-person-brian-harpole-t-00-46-01)**
 > "he saw Brian Harpole"
 
-**[00:16:21](/episodes/ep-KpxIBWkNsSs.md#ent-person-brian-harpole-t-00-16-04)**
+**[00:16:21](/episodes/ep-KpxIBWkNsSs.md#ent-person-brian-harpole-t-00-45-16)**
 > "...s is written by someone named Brian Allen."
 
 **[00:45:45](/episodes/ep-KpxIBWkNsSs.md#ent-person-brian-harpole-t-00-45-16)**
@@ -1039,10 +1370,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[00:49:36](/episodes/ep-uC_GjKU8rs8.md#ent-person-brian-harpole-t-00-49-36)**
 > "...ys to pursue discovery in the brian harpole case it's the only chance you might have to get t..."
 
-**[00:55:10](/episodes/ep-uC_GjKU8rs8.md#ent-person-brian-harpole-t-00-55-10)**
+**[00:55:10](/episodes/ep-uC_GjKU8rs8.md#ent-person-brian-harpole-t-00-49-36)**
 > "I'm blanking on Brian (Brian Friedman)'s last names. I've just been say..."
 
-**[00:55:20](/episodes/ep-uC_GjKU8rs8.md#ent-person-brian-harpole-t-00-55-10)**
+**[00:55:20](/episodes/ep-uC_GjKU8rs8.md#ent-person-brian-harpole-t-00-49-36)**
 > "Brian Friedman, congratulations to you. Um, also to Mel..."
 
 </details>
@@ -1526,7 +1857,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[00:24:18](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-23-45)**
 > "...any of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan. Now, Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members. On the day of the assassination..."
 
-**[00:24:53](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-24-27)**
+**[00:24:53](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-23-45)**
 > "For one, Brian offers up that the lack of security on the roofto..."
 
 **[00:25:08](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-25-08)**
@@ -1535,13 +1866,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[00:27:47](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-27-47)**
 > "... has an extensive military background. I'm not interested in Jeff Long's participation in this, but Brian Harpole kind of sort of laments the fact that he won't speak up and people are losing their jobs. On the ba..."
 
-**[00:28:38](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-28-27)**
+**[00:28:38](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-27-47)**
 > "Look, I've worked with Brian."
 
 **[00:29:05](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-29-05)**
 > "(Brian Harpole Clip Continued) In your coordination with UVU, did they offer any assistance, anything at all?"
 
-**[00:26:31](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-26-26)**
+**[00:26:31](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-25-08)**
 > "I have an answer for what Brian could have done. You could have followed up becau..."
 
 </details>
@@ -1555,12 +1886,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:25:54](/episodes/ep-69A8TzAGHlU.md#t-00-25-32): “That doesn't ring true. That does not ring very true. Now, another interesting point of the lawsuit is he repeatedly claims that he's upset that I described him as having lied. Okay, well. You certainly lied by severe omission by not letting the viewers know that the text message that you were presenting on Sean Ryan were not between you and the UVU police chief long, right?”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:54:59](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca. Him saying Candace had his alibi, they know that is objectively not true.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30): “This did not happen. Brian Harpole, you are lying through your teeth.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:12:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55): “Shouldn't even exist Prior to Elon (Elon Musk) making that a thing about government accountability Charlie (Charlie Kirk)'s team did not fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:26:20](/episodes/ep-aLJhpxrakCU.md#t-00-26-12): “So the context here, just so you know, is they are now addressing the text message exchange between Dan Flood and Chief Jeffrey Long of the UVU police force. This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan when he's like, what am I supposed to do with that? What do you mean? What are you supposed to do with that, Brian (Brian Harpole)? You never received this message. There's nothing you're supposed to do with anything because you're not on this thread. It's between Dan Flood and the chief of police.”
 
 </details>
 
@@ -1568,6 +1900,18 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:06:36](/episodes/ep-k1b1NDCrNFs.md#t-00-06-29): “I did not yet turn the page when I thought he has to be talking about Douglas Blake Bednarz here because Douglas Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
 
 </details>
 
@@ -1598,10 +1942,22 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:28:30](/episodes/ep-yrg_-D6oNHE.md#t-00-28-30): “We have some correspondence with the chief of the school on that day, on Monday before Charlie (Charlie Kirk) was killed and why this hadn't come out and why he won't stand up like a man and admit this, I don't know, but he's watching a bunch of men lose their careers and he's okay with it. ... On Monday before. ... This correspondence went to Chief Long (Jeff Long). Hello, Chief Long (Jeff Long). We received this message today from the student group.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1613,6 +1969,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:44:04](/episodes/ep-bIuvTKlFeGo.md#t-00-44-04): “That means we shouldn't trust Brian Harpole, guys. We shouldn't trust Brian Harpole now that we learn officially that he lied.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:37:24](/episodes/ep-5TTkMa49qj8.md#t-00-37-24): “Brian Harpole, they dedicate pages to debunking Brian Harpole's narrative on Shawn Ryan's podcast where he pretends that he the fake message, meaning it was not his message, presents it like it was his like he was in communication. ... With the police, he never was. I mean, there was so much wrong with independent review. We do an episode on it. It goes viral. It's like three million views on YouTube alone. And, you know, I gotta, I gotta pay for, I gotta pay for what Turning Point does. I am the sole focus of that organization, so I wake up, and first off, let's just, just, I didn't, I don't read everything, I'm gonna be honest with you, because it's, it's getting so unhinged. But the Daily Mail runs this headline. Just, I don't even know—”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:29:55](/episodes/ep-ms5ChhZegRg.md#t-00-29-55): “This feels significant enough that we need a concrete answer as to who performed CPR, who met Charlie (Charlie Kirk)'s SUV at the hospital and performed CPR and then gave amnesia to Frank Turek and Brian Harpole about this act. ... That's what happened. They both suddenly descended into amnesia and they both remember no one remembers no CPR remembers CPR in the last 30 seconds, but none of them remember a fire captain who gave CPR to Charlie (Charlie Kirk). ... Again, I find that to be unbelievable.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
 
 </details>
 
@@ -1649,10 +2010,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00): “Charlie (Charlie Kirk)'s chief of security, Brian (Brian Harpole)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:38:03](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49): “he was Charlie's security and I went on tour with Charlie for years”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
 
 </details>
 
@@ -1662,7 +2024,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Interviewed By (3)</summary>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -1678,6 +2040,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:47:55](/episodes/ep-1FhY-koMuWM.md#t-00-47-31): “Also, it's interesting that Brian Harpole's claim, as he told Shawn Ryan, [unclear aside about pulling it from the episode], was that Charlie (Charlie Kirk) had no fears night before. But now Turning Point USA is disputing that.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:07:44](/episodes/ep-aLJhpxrakCU.md#t-00-07-34): “SWAT commanders who worked for the highest levels of government. Actually, I'm going to show you this clip because when Brian Harpole sat down with Shawn Ryan, Shawn Ryan went over the remarkable expertise of this security team.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:08:26](/episodes/ep-bIuvTKlFeGo.md#t-00-08-26): “But it's also interesting because Brian Harpole was willing to speak to Sean Ryan on a podcast. He opened up. He talked about why wouldn't you speak to the independent review if everything you say to Sean Ryan is true and above board and we are going to learn that it was not, as I said, but if everything you're saying is true and you have nothing to hide, Erika (Erika Kirk), don't come for my employees. ... That's when they started getting things together. Remember the Sean Ryan interview? But guess what? You guys know what he was talking about.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:28:07](/episodes/ep-yrg_-D6oNHE.md#t-00-28-07): “to misrepresent the text message to the public and making the public believe that the message was sent to Brian Harpole, that's A, and making the world believe that the text message was regarding the Losee Center rooftop. That was very early on, Brian Harpole on Shawn Ryan in November of last year, and I'm going to let you listen to that. ... We have some correspondence with the chief of the school on that day, on Monday before Charlie (Charlie Kirk) was killed and why this hadn't come out and why he won't stand up like a man and admit this, I don't know, but he's watching a bunch of men lose their careers and he's okay with it.”
 
 </details>
 
@@ -1714,7 +2079,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Sued (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:40](/episodes/ep-69A8TzAGHlU.md#t-00-06-20): “Brian (Brian Harpole) wants to sue me for something that I literally never said about him. Mind you, this was actually the very first point of the letter.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41): “All of this meant to humiliate me. And then a lawsuit arrives from Brian Harpole. But then we learn it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction.”
@@ -1730,6 +2095,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 01:00:20](/episodes/ep-OgRyiOAVtWU.md#t-00-59-50): “And she's just one person. This is the person that's then retweeted by Ben Shapiro's lawyer who's been suing me for three years who's now suing me on behalf of Brian Harpole.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:25:40](/episodes/ep-4JxgOclKzqg.md#t-00-25-21): “But I need that footage. I'm being sued by Brian Harpole. I'm going to need that footage.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:10](/episodes/ep-9hRcfSrri70.md#t-00-21-41): “OK, same with me and Brian Harpole. There's another example. For example, again, these are civil examples. He filed a lawsuit.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:13:31](/episodes/ep-O4Zw3bCALjU.md#t-00-13-25): “It's an irrelevant consequence. But it feels very relevant, actually. It's definitely relevant for me. I mean, I got Brian Harpole suing me on the basis of saying that he was just did all this upstanding care.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:25:47](/episodes/ep-bIuvTKlFeGo.md#t-01-25-47): “Preemptive strike, because we're just about to find out the independent review says Brian Harpole is a liar. Brian Harpole is a liar. He lied about all this other stuff, but we should totally trust his lawyer filing a lawsuit against me”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:33:59](/episodes/ep-yrg_-D6oNHE.md#t-00-33-59): “I find that to be problematic and particularly when it comes to Brian Harpole. No one has done it. The audacity, the audacity of the gaslight, Brian Harpole suing me as he defames someone else. We'll see what happens there.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion?”
 
 </details>
 
@@ -1743,19 +2112,35 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
+<summary>Worked With (3)</summary>
 
 - **[Dan Flood](/entities/person-dan-flood.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:22:56](/episodes/ep-k1b1NDCrNFs.md#t-00-22-56): “This is all the way we're in January now. That's Brian (Brian Harpole)'s business partner, longtime colleague. On January 4th, I messaged him.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:21:07](/episodes/ep-BvthGQw3_s0.md#t-00-20-45): “Then we have a 9 a.m. I'm just putting this here because that's where Dan Flood, Brian Harpole and the whole security team minus Chris (security team member; surname unverified) arrives on site at UVU.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:06:19](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05): “Flood (Dan Flood) was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:05:37](/episodes/ep-bIuvTKlFeGo.md#t-00-05-20): “The project team reached out to Brian Harpole, who was identified as the leader of the Integrity Solutions security team working with Turning Point USA to provide executive protection for TPUSA CEO Charlie Kirk.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:05:37](/episodes/ep-bIuvTKlFeGo.md#t-00-05-20): “The project team reached out to Brian Harpole, who was identified as the leader of the Integrity Solutions security team working with Turning Point USA to provide executive protection for TPUSA CEO Charlie Kirk.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Works For (2)</summary>
+<summary>Works For (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1775,18 +2160,26 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 </details>
 
+- **[Integrity Security Solutions (Brian Harpole company)](/entities/org-integrity-security-solutions.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:05:37](/episodes/ep-bIuvTKlFeGo.md#t-00-05-20): “The project team reached out to Brian Harpole, who was identified as the leader of the Integrity Solutions security team working with Turning Point USA to provide executive protection for TPUSA CEO Charlie Kirk. ... Flood (Dan Flood) was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
+<summary>Referenced By (22)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:25:54](/episodes/ep-69A8TzAGHlU.md#t-00-25-32): “That doesn't ring true. That does not ring very true. Now, another interesting point of the lawsuit is he repeatedly claims that he's upset that I described him as having lied. Okay, well. You certainly lied by severe omission by not letting the viewers know that the text message that you were presenting on Sean Ryan were not between you and the UVU police chief long, right?”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:54:59](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca. Him saying Candace had his alibi, they know that is objectively not true.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30): “This did not happen. Brian Harpole, you are lying through your teeth.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:12:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55): “Shouldn't even exist Prior to Elon (Elon Musk) making that a thing about government accountability Charlie (Charlie Kirk)'s team did not fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:26:20](/episodes/ep-aLJhpxrakCU.md#t-00-26-12): “So the context here, just so you know, is they are now addressing the text message exchange between Dan Flood and Chief Jeffrey Long of the UVU police force. This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan when he's like, what am I supposed to do with that? What do you mean? What are you supposed to do with that, Brian (Brian Harpole)? You never received this message. There's nothing you're supposed to do with anything because you're not on this thread. It's between Dan Flood and the chief of police.”
 
 </details>
 
@@ -1794,6 +2187,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:06:36](/episodes/ep-k1b1NDCrNFs.md#t-00-06-29): “I did not yet turn the page when I thought he has to be talking about Douglas Blake Bednarz here because Douglas Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
 
 </details>
 
@@ -1805,7 +2205,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1817,6 +2217,18 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:44:04](/episodes/ep-bIuvTKlFeGo.md#t-00-44-04): “That means we shouldn't trust Brian Harpole, guys. We shouldn't trust Brian Harpole now that we learn officially that he lied.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:37:24](/episodes/ep-5TTkMa49qj8.md#t-00-37-24): “Brian Harpole, they dedicate pages to debunking Brian Harpole's narrative on Shawn Ryan's podcast where he pretends that he the fake message, meaning it was not his message, presents it like it was his like he was in communication. ... With the police, he never was. I mean, there was so much wrong with independent review. We do an episode on it. It goes viral. It's like three million views on YouTube alone. And, you know, I gotta, I gotta pay for, I gotta pay for what Turning Point does. I am the sole focus of that organization, so I wake up, and first off, let's just, just, I didn't, I don't read everything, I'm gonna be honest with you, because it's, it's getting so unhinged. But the Daily Mail runs this headline. Just, I don't even know—”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:29:55](/episodes/ep-ms5ChhZegRg.md#t-00-29-55): “This feels significant enough that we need a concrete answer as to who performed CPR, who met Charlie (Charlie Kirk)'s SUV at the hospital and performed CPR and then gave amnesia to Frank Turek and Brian Harpole about this act. ... That's what happened. They both suddenly descended into amnesia and they both remember no one remembers no CPR remembers CPR in the last 30 seconds, but none of them remember a fire captain who gave CPR to Charlie (Charlie Kirk). ... Again, I find that to be unbelievable.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
+
+</details>
+
+- **[Jeff Long](/entities/person-jeff-long.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:28:30](/episodes/ep-yrg_-D6oNHE.md#t-00-28-30): “We have some correspondence with the chief of the school on that day, on Monday before Charlie (Charlie Kirk) was killed and why this hadn't come out and why he won't stand up like a man and admit this, I don't know, but he's watching a bunch of men lose their careers and he's okay with it. ... On Monday before. ... This correspondence went to Chief Long (Jeff Long). Hello, Chief Long (Jeff Long). We received this message today from the student group.”
 
 </details>
 
@@ -1843,6 +2255,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 </details>
 
+- **[Integrity Security Solutions (Brian Harpole company)](/entities/org-integrity-security-solutions.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:05:37](/episodes/ep-bIuvTKlFeGo.md#t-00-05-20): “The project team reached out to Brian Harpole, who was identified as the leader of the Integrity Solutions security team working with Turning Point USA to provide executive protection for TPUSA CEO Charlie Kirk. ... Flood (Dan Flood) was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1859,15 +2278,16 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00): “Charlie (Charlie Kirk)'s chief of security, Brian (Brian Harpole)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:38:03](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49): “he was Charlie's security and I went on tour with Charlie for years”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
 
 </details>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -1884,6 +2304,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:47:55](/episodes/ep-1FhY-koMuWM.md#t-00-47-31): “Also, it's interesting that Brian Harpole's claim, as he told Shawn Ryan, [unclear aside about pulling it from the episode], was that Charlie (Charlie Kirk) had no fears night before. But now Turning Point USA is disputing that.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:07:44](/episodes/ep-aLJhpxrakCU.md#t-00-07-34): “SWAT commanders who worked for the highest levels of government. Actually, I'm going to show you this clip because when Brian Harpole sat down with Shawn Ryan, Shawn Ryan went over the remarkable expertise of this security team.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:08:26](/episodes/ep-bIuvTKlFeGo.md#t-00-08-26): “But it's also interesting because Brian Harpole was willing to speak to Sean Ryan on a podcast. He opened up. He talked about why wouldn't you speak to the independent review if everything you say to Sean Ryan is true and above board and we are going to learn that it was not, as I said, but if everything you're saying is true and you have nothing to hide, Erika (Erika Kirk), don't come for my employees. ... That's when they started getting things together. Remember the Sean Ryan interview? But guess what? You guys know what he was talking about.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:28:07](/episodes/ep-yrg_-D6oNHE.md#t-00-28-07): “to misrepresent the text message to the public and making the public believe that the message was sent to Brian Harpole, that's A, and making the world believe that the text message was regarding the Losee Center rooftop. That was very early on, Brian Harpole on Shawn Ryan in November of last year, and I'm going to let you listen to that. ... We have some correspondence with the chief of the school on that day, on Monday before Charlie (Charlie Kirk) was killed and why this hadn't come out and why he won't stand up like a man and admit this, I don't know, but he's watching a bunch of men lose their careers and he's okay with it.”
 
 </details>
 
@@ -1917,7 +2340,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:40](/episodes/ep-69A8TzAGHlU.md#t-00-06-20): “Brian (Brian Harpole) wants to sue me for something that I literally never said about him. Mind you, this was actually the very first point of the letter.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41): “All of this meant to humiliate me. And then a lawsuit arrives from Brian Harpole. But then we learn it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction.”
@@ -1933,6 +2356,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 01:00:20](/episodes/ep-OgRyiOAVtWU.md#t-00-59-50): “And she's just one person. This is the person that's then retweeted by Ben Shapiro's lawyer who's been suing me for three years who's now suing me on behalf of Brian Harpole.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:25:40](/episodes/ep-4JxgOclKzqg.md#t-00-25-21): “But I need that footage. I'm being sued by Brian Harpole. I'm going to need that footage.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:10](/episodes/ep-9hRcfSrri70.md#t-00-21-41): “OK, same with me and Brian Harpole. There's another example. For example, again, these are civil examples. He filed a lawsuit.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:13:31](/episodes/ep-O4Zw3bCALjU.md#t-00-13-25): “It's an irrelevant consequence. But it feels very relevant, actually. It's definitely relevant for me. I mean, I got Brian Harpole suing me on the basis of saying that he was just did all this upstanding care.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:25:47](/episodes/ep-bIuvTKlFeGo.md#t-01-25-47): “Preemptive strike, because we're just about to find out the independent review says Brian Harpole is a liar. Brian Harpole is a liar. He lied about all this other stuff, but we should totally trust his lawyer filing a lawsuit against me”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:33:59](/episodes/ep-yrg_-D6oNHE.md#t-00-33-59): “I find that to be problematic and particularly when it comes to Brian Harpole. No one has done it. The audacity, the audacity of the gaslight, Brian Harpole suing me as he defames someone else. We'll see what happens there.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion?”
 
 </details>
 
@@ -1951,12 +2378,61 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 </details>
 
+- **[Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:23:45](/episodes/ep-UAdBEXs7nNc.md#t-00-23-20): “Rhoades (Christopher Rhoades) is obviously a very common last name, so that's not suspicious at all. But the one we were looking for is Christopher Rhoades, and from what we gather, he appears to be from Texas, and he is working with Brian Harpole.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brian Harpole (28)</strong></summary>
+<summary><strong class="section-title">Statements by Brian Harpole (37)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2)</summary>
+
+- [00:32:32](/episodes/ep-UAdBEXs7nNc.md#t-00-32-32) [○] (Claim) ["In the Shawn Ryan clip, Harpole said Charlie Kirk's left leg prevented the door ..."](/statements/statement-3da3ce0139a8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md), [Rick Cutler](/entities/person-rick-cutler.md)
+
+- [00:33:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-06) [○] (Claim) ["In the Shawn Ryan clip, Harpole said he was doing medical work while Frank Turek..."](/statements/statement-ab8cdb02d48d.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Rick Cutler](/entities/person-rick-cutler.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
+
+- [00:28:30](/episodes/ep-yrg_-D6oNHE.md#t-00-28-30) [○] (Accusation) ["In the Shawn Ryan clip, Brian Harpole said there was correspondence with the sch..."](/statements/statement-6a78483f6980.md)
+  - About: [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:28:55](/episodes/ep-yrg_-D6oNHE.md#t-00-28-30) [○] (Citation) ["In the interview clip, Harpole described correspondence to Chief Long about stud..."](/statements/statement-2959b2e96612.md)
+  - About: [Jeff Long](/entities/person-jeff-long.md), [Sorensen Center](/entities/org-sorensen-center.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (5)</summary>
+
+- [00:44:13](/episodes/ep-bIuvTKlFeGo.md#t-00-44-04) [○] (Claim) ["Brian Harpole said his first event-planning meeting was August 24th, that Dan Fl..."](/statements/statement-cce1988b2fa9.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:44:59](/episodes/ep-bIuvTKlFeGo.md#t-00-44-48) [○] (Claim) ["Harpole said his team focused on the bubble around Kirk, found the venue horribl..."](/statements/statement-a006d2213719.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:34](/episodes/ep-bIuvTKlFeGo.md#t-00-45-34) [○] (Claim) ["Harpole said UVU selected the venue and told TPUSA, “nope, this is where you hav..."](/statements/statement-ba09cb8adc4f.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:46:50](/episodes/ep-bIuvTKlFeGo.md#t-00-46-40) [○] (Claim) ["Harpole said TPUSA’s video team used small drones for a quick venue shot before ..."](/statements/statement-c51d8994ae24.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Federal Aviation Administration](/entities/org-faa.md)
+
+- [00:48:26](/episodes/ep-bIuvTKlFeGo.md#t-00-48-00) [○] (Claim) ["Harpole said federal law would not allow his team to post a counter sniper on a ..."](/statements/statement-07c7b74f1a0f.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4)</summary>
@@ -2104,7 +2580,195 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (126)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (171)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (10)</summary>
+
+- [00:23:45](/episodes/ep-UAdBEXs7nNc.md#t-00-23-20) (Claim) **Candace Owens**: ["Owens said the driver she identified as Christopher Rhoades appeared t..."](/statements/statement-8aa918b284ce.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Texas](/entities/gpe-texas.md)
+
+- [00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Justin Davis drove, Dan Flood held a p..."](/statements/statement-c3759ed718ea.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:31:00](/episodes/ep-UAdBEXs7nNc.md#t-00-30-32) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said he and Rick Cutler prayed aloud and th..."](/statements/statement-c57cf5d45854.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:25](/episodes/ep-UAdBEXs7nNc.md#t-00-31-15) (Accusation) **Candace Owens**: ["Owens accused Turek of introducing a claim that he tried to stop the b..."](/statements/statement-931363af079c.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:44](/episodes/ep-UAdBEXs7nNc.md#t-00-31-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens said someone was lying about who tried to stop Charlie Kirk's bl..."](/statements/statement-ef0b0c2554bc.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:32](/episodes/ep-UAdBEXs7nNc.md#t-00-32-32) (Claim) **Brian Harpole** (via quoted speech): ["In the Shawn Ryan clip, Harpole said Charlie Kirk's left leg prevented..."](/statements/statement-3da3ce0139a8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:33:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-06) (Claim) **Brian Harpole** (via quoted speech): ["In the Shawn Ryan clip, Harpole said he was doing medical work while F..."](/statements/statement-ab8cdb02d48d.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-29) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said all three people in the back were stil..."](/statements/statement-ad8357ad7608.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:56](/episodes/ep-UAdBEXs7nNc.md#t-00-35-35) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled learning that Brian Harpole found the room, cut Charlie..."](/statements/statement-554d38c10eb0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33) (Accusation) **Candace Owens** (via paraphrase): ["Owens accused Brian Harpole of choosing to file a lawsuit instead of a..."](/statements/statement-d62c6c793f46.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (4)</summary>
+
+- [00:27:44](/episodes/ep-yrg_-D6oNHE.md#t-00-27-24) (Accusation) **Candace Owens**: ["Owens alleged that Turning Point USA and affiliates wrongfully blamed ..."](/statements/statement-5bd3b0cf5234.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Jeff Long](/entities/person-jeff-long.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09) (Accusation) **Candace Owens**: ["Owens said the UVU independent review confirmed her account that Brian..."](/statements/statement-103244a45eb1.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:30:35](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09) (Accusation) **Candace Owens**: ["Owens rhetorically asked why Harpole represented a message as his when..."](/statements/statement-ac66a285a2e3.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:33:59](/episodes/ep-yrg_-D6oNHE.md#t-00-33-59) (Accusation) **Candace Owens**: ["Owens accused Brian Harpole of defaming someone else while suing her."](/statements/statement-f9e108fa67e2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:57:29](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29) (Claim) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole had said the hospital did not know they were ..."](/statements/statement-4c5ff81ae9c6.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3)</summary>
+
+- [00:22:22](/episodes/ep-ms5ChhZegRg.md#t-00-22-11) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Frank Turek’s account as saying he administered CP..."](/statements/statement-b20130da6d78.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:22:36](/episodes/ep-ms5ChhZegRg.md#t-00-22-11) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Brian Harpole’s account as saying CPR was not admi..."](/statements/statement-ac2063959bf8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:23:24](/episodes/ep-ms5ChhZegRg.md#t-00-23-24) (Accusation) **Candace Owens**: ["Owens alleged neither Brian Harpole nor Frank Turek mentioned the fire..."](/statements/statement-be51e39834e1.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Unnamed Station 2 fire captain described in UVU review (identity unverified)](/entities/anon-src-ms5ChhZegRg-018.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:38:15](/episodes/ep-q4m-kGzvwjw.md#t-00-37-39) (Claim) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole claimed UVU event security planning began Aug..."](/statements/statement-f368d0befdd2.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:37:13](/episodes/ep-5TTkMa49qj8.md#t-00-36-41) (Accusation) **Candace Owens**: ["Owens alleged Turning Point did not participate in the UVU independent..."](/statements/statement-cdf1173e0ba6.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (16)</summary>
+
+- [00:05:20](/episodes/ep-bIuvTKlFeGo.md#t-00-05-20) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team reported no response from Brian Harpole despite telep..."](/statements/statement-c6dfe2560e41.md)
+  - Also about: [Integrity Security Solutions (Brian Harpole company)](/entities/org-integrity-security-solutions.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:05](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The report identified Dan Flood as TPUSA security supervisor coordinat..."](/statements/statement-32588e5bc4ad.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:08:26](/episodes/ep-bIuvTKlFeGo.md#t-00-08-26) (Opinion) **Candace Owens**: ["Owens contrasted Brian Harpole speaking on Shawn Ryan’s podcast with h..."](/statements/statement-12b0a2b37c09.md)
+  - Also about: [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+- [00:26:34](/episodes/ep-bIuvTKlFeGo.md#t-00-26-13) (Accusation) **Candace Owens**: ["Owens accused Brian Harpole of misrepresenting Dan Flood’s text exchan..."](/statements/statement-35aea143b0dc.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:42:36](/episodes/ep-bIuvTKlFeGo.md#t-00-42-04) (Accusation) **Candace Owens**: ["Owens accused TPUSA of coordinating with Brian Harpole before the Shaw..."](/statements/statement-d6fc0ba2f45b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Dan Flood](/entities/person-dan-flood.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+- [00:43:21](/episodes/ep-bIuvTKlFeGo.md#t-00-43-21) (Claim) **Candace Owens**: ["Owens said she was being sued for calling Brian Harpole a liar."](/statements/statement-e79749f88bbf.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:44:13](/episodes/ep-bIuvTKlFeGo.md#t-00-44-04) (Claim) **Brian Harpole** (via quoted document): ["Brian Harpole said his first event-planning meeting was August 24th, t..."](/statements/statement-cce1988b2fa9.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:44:48](/episodes/ep-bIuvTKlFeGo.md#t-00-44-48) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review said Harpole’s podcast interview gave no indication he cons..."](/statements/statement-09edb53d124b.md)
+  - Also about: [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)
+
+- [00:44:59](/episodes/ep-bIuvTKlFeGo.md#t-00-44-48) (Claim) **Brian Harpole** (via quoted document): ["Harpole said his team focused on the bubble around Kirk, found the ven..."](/statements/statement-a006d2213719.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:34](/episodes/ep-bIuvTKlFeGo.md#t-00-45-34) (Claim) **Brian Harpole** (via quoted document): ["Harpole said UVU selected the venue and told TPUSA, “nope, this is whe..."](/statements/statement-ba09cb8adc4f.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:45:58](/episodes/ep-bIuvTKlFeGo.md#t-00-45-58) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team said Harpole’s venue account and other statements con..."](/statements/statement-206d85b2aadb.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:46:50](/episodes/ep-bIuvTKlFeGo.md#t-00-46-40) (Claim) **Brian Harpole** (via quoted document): ["Harpole said TPUSA’s video team used small drones for a quick venue sh..."](/statements/statement-c51d8994ae24.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Federal Aviation Administration](/entities/org-faa.md)
+
+- [00:47:48](/episodes/ep-bIuvTKlFeGo.md#t-00-47-24) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["Without speaking to Harpole, the project team could not determine why ..."](/statements/statement-6011e65054a7.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Orem Police Department](/entities/org-orem-police-department.md)
+
+- [00:48:26](/episodes/ep-bIuvTKlFeGo.md#t-00-48-00) (Claim) **Brian Harpole** (via quoted document): ["Harpole said federal law would not allow his team to post a counter sn..."](/statements/statement-07c7b74f1a0f.md)
+
+- [00:48:32](/episodes/ep-bIuvTKlFeGo.md#t-00-48-00) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review questioned why Harpole did not post team members in elevate..."](/statements/statement-2015daaf33b6.md)
+
+- [00:51:16](/episodes/ep-bIuvTKlFeGo.md#t-00-50-40) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team identified gaps including limited planning time, no d..."](/statements/statement-0b52cdc0a049.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dan Flood](/entities/person-dan-flood.md), [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (4)</summary>
+
+- [00:18:45](/episodes/ep-_2DiIbfy4mU.md#t-00-18-45) (Claim) **Candace Owens** (via paraphrase): ["Owens describes Angel Castro handing his wife objects that Brian Harpo..."](/statements/statement-7a425aec6c13.md)
+  - Also about: [Angel Castro (UVU footage participant; identity unverified)](/entities/anon-src-_2DiIbfy4mU-001.md)
+
+- [00:23:28](/episodes/ep-_2DiIbfy4mU.md#t-00-23-28) (Opinion) **Candace Owens**: ["Owens still deems Mitch Snow’s Fort Huachuca story credible despite a ..."](/statements/statement-5e076f5934d0.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:24:08](/episodes/ep-_2DiIbfy4mU.md#t-00-24-08) (Claim) **Candace Owens**: ["Owens says she messaged Brian Harpole approximately five times before ..."](/statements/statement-12cfe410d8f3.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:25:07](/episodes/ep-_2DiIbfy4mU.md#t-00-24-52) (Prediction) **Candace Owens**: ["Owens predicts the lawsuit will make it inevitable that the public fin..."](/statements/statement-78f69981dddb.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:21:07](/episodes/ep-BvthGQw3_s0.md#t-00-20-45) (Claim) **Candace Owens**: ["Owens said Dan Flood, Brian Harpole and the security team, minus Chris..."](/statements/statement-f41aea04534e.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:08:19](/episodes/ep-aLJhpxrakCU.md#t-00-08-09) (Claim) **Shawn Ryan** (via quoted speech): ["In the Shawn Ryan interview clip, Ryan described Harpole’s team as inc..."](/statements/statement-0c85c8676103.md)
+  - Also about: [United States Navy](/entities/org-united-states-navy.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [SWAT](/entities/concept-swat.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3)</summary>
+
+- [00:09:59](/episodes/ep-O4Zw3bCALjU.md#t-00-09-59) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he had claimed to perform CPR in the car, while Brian..."](/statements/statement-4ac349390ea2.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:10:59](/episodes/ep-O4Zw3bCALjU.md#t-00-10-37) (Accusation) **Bobby Sausalito** (via quoted speech): ["Bobby Sausalito alleged that Frank Turek and Brian Harpole could not b..."](/statements/statement-444f9d3708b3.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:13:31](/episodes/ep-O4Zw3bCALjU.md#t-00-13-25) (Claim) **Candace Owens**: ["Owens said Brian Harpole was suing her on the basis that he provided u..."](/statements/statement-0d5bdd39ab4a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

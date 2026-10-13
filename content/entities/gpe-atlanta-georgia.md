@@ -1,6 +1,6 @@
 ---
 title: "Atlanta, Georgia"
-description: "Atlanta, Georgia (Places) - 7 mentions"
+description: "Atlanta, Georgia (Places) - 8 mentions"
 id: "gpe-atlanta-georgia"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-atlanta-georgia-t-00-03-28">2025-10-02 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42">2026-08-10 · 00:20:55</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-atlanta-georgia-t-00-48-34">2026-10-08 · 00:48:34</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-atlanta-georgia-t-00-35-14" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-atlanta-georgia-t-00-41-13" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-atlanta-georgia-t-00-48-34" style="--pulse-height:50%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-atlanta-georgia-t-00-35-14) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-atlanta-georgia-t-00-41-13) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-atlanta-georgia-t-00-48-34) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:48:34](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-atlanta-georgia-t-00-48-34)**
+> ".... They got a little lady from Atlanta working over here." And then I didn't, I forgot y..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>

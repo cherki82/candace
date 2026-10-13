@@ -1,6 +1,6 @@
 ---
 title: "Restaurantology"
-description: "Restaurantology (Works & Media) - 9 mentions"
+description: "Restaurantology (Works & Media) - 10 mentions"
 id: "work-restaurantology"
 type: "WORK"
 categories:
@@ -18,11 +18,11 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-work-restaurantology-t-00-59-37">2025-10-31 · 00:59:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-restaurantology-t-00-32-57">2026-09-08 · 00:33:26</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-work-restaurantology-t-00-03-57">2026-09-14 · 00:03:57</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-restaurantology-t-00-12-56" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-restaurantology-t-00-32-57" style="--pulse-height:50%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-work-restaurantology-t-00-03-57" style="--pulse-height:50%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-restaurantology-t-00-12-56) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-work-restaurantology-t-00-32-57) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-work-restaurantology-t-00-03-57) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:03:57](/episodes/ep-O4Zw3bCALjU.md#ent-work-restaurantology-t-00-03-57)**
+> "...ts coat that he had on at the restaurantology event that took place in Salt Lake City."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -166,7 +176,15 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Restaurantology (6)</strong></summary>
+<summary><strong class="section-title">Statements about Restaurantology (7)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:03:57](/episodes/ep-O4Zw3bCALjU.md#t-00-03-57) (Claim) **Candace Owens**: ["Owens claimed the feds did not collect Charlie Kirk's bloodied necklac..."](/statements/statement-a2b2093616f3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>

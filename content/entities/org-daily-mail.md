@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 74 mentions"
+description: "Daily Mail (Organizations) - 81 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-daily-mail-t-00-22-39">2026-09-03 · 00:23:00</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-daily-mail-t-01-05-28">2026-10-01 · 01:05:36</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -60,6 +60,9 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-daily-mail-t-00-14-49" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-daily-mail-t-00-22-39" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-daily-mail-t-00-20-01" style="--pulse-height:14%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 2 mentions" title="2026-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-daily-mail-t-00-37-24" style="--pulse-height:14%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-daily-mail-t-00-11-54" style="--pulse-height:21%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +97,9 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-daily-mail-t-00-14-49) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-daily-mail-t-00-22-39) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-daily-mail-t-00-20-01) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-daily-mail-t-00-37-24) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-daily-mail-t-00-11-54) | 3 |
 
 </details>
 </section>
@@ -105,7 +111,43 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:12:05](/episodes/ep-q4m-kGzvwjw.md#ent-org-daily-mail-t-00-11-54)**
+> "This is in the Daily Mail. It was also covered in the UK International Busi..."
+
+**[00:12:25](/episodes/ep-q4m-kGzvwjw.md#ent-org-daily-mail-t-00-12-25)**
+> "... kids and their families, the Daily Mail can reveal."
+
+**[01:05:36](/episodes/ep-q4m-kGzvwjw.md#ent-org-daily-mail-t-01-05-28)**
+> "...y not give them the messages? Daily Mail, you don't choose to give something. They're movi..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:37:39](/episodes/ep-5TTkMa49qj8.md#ent-org-daily-mail-t-00-37-24)**
+> "... getting so unhinged. But the Daily Mail runs this headline. Just, I don't even know—"
+
+**[00:38:00](/episodes/ep-5TTkMa49qj8.md#ent-org-daily-mail-t-00-38-00)**
+> "... getting so unhinged, but the Daily Mail runs this headline. Just, I don't even know. Some..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2 mentions)</summary>
+
+**[00:20:01](/episodes/ep-_2DiIbfy4mU.md#ent-org-daily-mail-t-00-20-01)**
+> "...'ve shown that they go to the Daily Mail. This would be a good time to do that, I think. A..."
+
+**[00:35:52](/episodes/ep-_2DiIbfy4mU.md#ent-org-daily-mail-t-00-35-34)**
+> "You could go to the Daily Mail. You've proven they're your friend. You could go ..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -495,11 +537,12 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:02:17](/episodes/ep-Wjul6YV6izo.md#t-00-02-07): “I want to shout out the Daily Mail, ... because no one has been working harder than the Daily Mail to invert reality.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:45:07](/episodes/ep-1QZ4X6q1DPg.md#t-00-44-26): “We have experts over at Daily Mail that are better suited to explain to you why it's cool to reverse course and everything that Charlie (Charlie Kirk) wanted and to pretend that you don't know what his position was on war in the Middle East because he's not here.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:37:12](/episodes/ep-ds6umq1rHAw.md#t-00-36-56): “Go onto the Daily Mail website ... They hate me. Hate me. Absolutely. The coverage of me, it's positively atrocious.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:38:00](/episodes/ep-5TTkMa49qj8.md#t-00-38-00): “It's getting so unhinged, but the Daily Mail runs this headline. Just, I don't even know. Somebody's gonna have to give me the SparkNotes on this. 'Candace Owens in crisis.' This is like the Michael Jackson thing where you pretend the person's just like radical. It's what they do to like Justin Bieber. He's like, you gotta, like, they're on drugs. 'Candace Owens in crisis as family begs her to disappear and pray she isn't killed.' In big print, 'Insiders reveal whispers of a foreign—'”
 
 </details>
 
@@ -540,11 +583,12 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:02:17](/episodes/ep-Wjul6YV6izo.md#t-00-02-07): “I want to shout out the Daily Mail, ... because no one has been working harder than the Daily Mail to invert reality.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:45:07](/episodes/ep-1QZ4X6q1DPg.md#t-00-44-26): “We have experts over at Daily Mail that are better suited to explain to you why it's cool to reverse course and everything that Charlie (Charlie Kirk) wanted and to pretend that you don't know what his position was on war in the Middle East because he's not here.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:37:12](/episodes/ep-ds6umq1rHAw.md#t-00-36-56): “Go onto the Daily Mail website ... They hate me. Hate me. Absolutely. The coverage of me, it's positively atrocious.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:38:00](/episodes/ep-5TTkMa49qj8.md#t-00-38-00): “It's getting so unhinged, but the Daily Mail runs this headline. Just, I don't even know. Somebody's gonna have to give me the SparkNotes on this. 'Candace Owens in crisis.' This is like the Michael Jackson thing where you pretend the person's just like radical. It's what they do to like Justin Bieber. He's like, you gotta, like, they're on drugs. 'Candace Owens in crisis as family begs her to disappear and pray she isn't killed.' In big print, 'Insiders reveal whispers of a foreign—'”
 
 </details>
 
@@ -581,7 +625,15 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Daily Mail (1)</strong></summary>
+<summary><strong class="section-title">Statements by Daily Mail (2)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:38:00](/episodes/ep-5TTkMa49qj8.md#t-00-38-00) [○] (Accusation) ["The Daily Mail headline alleged Owens was in crisis, with her family begging her..."](/statements/statement-28e8af8a0940.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Unnamed insiders in Ep 395 Daily Mail headline (identity unverified)](/entities/anon-src-5TTkMa49qj8-013.md)
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
@@ -594,7 +646,18 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (25)</strong></summary>
+<summary><strong class="section-title">Statements about Daily Mail (27)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:12:05](/episodes/ep-q4m-kGzvwjw.md#t-00-11-54) (Citation) **Candace Owens**: ["Owens cited a Daily Mail article reporting that Yrefy paid TPUSA for c..."](/statements/statement-6688fc20462c.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:12:44](/episodes/ep-q4m-kGzvwjw.md#t-00-12-25) (Citation) **Candace Owens**: ["In the article she was reading, Owens cited $750,000 in state sanction..."](/statements/statement-428dfce63e74.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

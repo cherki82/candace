@@ -11,7 +11,7 @@ object: "person-michael-aquino"
 
 ## [Temple of Set](/entities/org-temple-of-set) founded by [Michael Aquino](/entities/person-michael-aquino)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 
@@ -20,6 +20,10 @@ object: "person-michael-aquino"
 **[CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc)**
 
 - [00:23:20](/episodes/ep-ZZGWo6oDscc#t-00-23-20): _So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen._
+
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:06:45](/episodes/ep-kn1E0scy9Wc#t-00-06-45): _TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set._
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 

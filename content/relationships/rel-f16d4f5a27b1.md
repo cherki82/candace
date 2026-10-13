@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) spoke with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
 
 - [00:59:41](/episodes/ep-pc3pxRyNFZk#t-00-59-41): _something that I would speak about with Charlie (Charlie Kirk) because he was, in fact, very interested in Catholicism._
+
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:24:07](/episodes/ep-q4m-kGzvwjw#t-00-24-07): _February 24th, Charlie Kirk contacts Candace (Candace Owens) and says Emmanuel Macron has asked the White House for her to stop discussing Brigitte (Brigitte Macron)._
 
 ### Related
 

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wilson"
-description: "Andrew Wilson (People) - 133 mentions"
+description: "Andrew Wilson (People) - 178 mentions"
 id: "person-andrew-wilson"
 type: "PERSON"
 categories:
@@ -18,13 +18,13 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-andrew-wilson-t-00-02-36">2026-08-07 · 00:02:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-47-44">2026-09-09 · 00:47:44</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>133</strong></div>
-<div><span>Statements by</span><strong>26</strong></div>
-<div><span>Statements about</span><strong>37</strong></div>
-<div><span>Relationships</span><strong>31</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-wilson-t-00-08-01">2026-10-07 · 00:08:01</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>178</strong></div>
+<div><span>Statements by</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>55</strong></div>
+<div><span>Relationships</span><strong>42</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,14 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-andrew-wilson-t-00-51-27" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-00-37" style="--pulse-height:15%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 6 mentions" title="2026-09-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-04-06" style="--pulse-height:10%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 4 mentions" title="2026-09-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-andrew-wilson-t-00-59-30" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-wilson-t-00-51-52" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-00-35" style="--pulse-height:61%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 25 mentions" title="2026-09-23 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-andrew-wilson-t-00-44-10" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-wilson-t-01-06-51" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-00-06-48" style="--pulse-height:12%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-11-35" style="--pulse-height:17%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 7 mentions" title="2026-10-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-wilson-t-00-08-01" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +72,14 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-andrew-wilson-t-00-51-27) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-00-37) | 6 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-04-06) | 4 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-andrew-wilson-t-00-59-30) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-wilson-t-00-51-52) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-00-35) | 25 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-andrew-wilson-t-00-44-10) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-wilson-t-01-06-51) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-00-06-48) | 5 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-11-35) | 7 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-wilson-t-00-08-01) | 1 |
 
 </details>
 </section>
@@ -71,11 +87,184 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How Kirk Telegram account attribution became uncertain](/threads/thread-kirk-telegram-account-attribution) — Tracks a viewer’s matching-contact observation and Owens’s shared-account alternative in Episode 396. The progression concerns attribution of displayed messages; account ownership, authorship and message authenticity remain unverified.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (133)</strong></summary>
+<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:08:01](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-wilson-t-00-08-01)**
+> "The Andrew (Andrew Wilson) and Rachel Wilson types. It's like they're sudde..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (7 mentions)</summary>
+
+**[00:11:58](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-11-35)**
+> "I debated Andrew Wilson on August 14th, to be specific. So this campaign ..."
+
+**[00:12:30](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-12-14)**
+> "for people to try to make Andrew Wilson look good. No easy feat, you can see. And then th..."
+
+**[00:13:14](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-12-56)**
+> "...turning point look good in an Andrew Wilson debate when he said that he wasn't what?"
+
+**[00:13:43](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-13-34)**
+> "...ey said they were not funding Andrew Wilson. Semantics, semantics, my dears."
+
+**[00:14:00](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-13-34)**
+> "...y, would put up money to make Andrew Wilson look good?"
+
+**[00:20:57](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-20-44)**
+> "...r one week to focus on making Andrew Wilson look good."
+
+**[00:39:21](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-39-14)**
+> "...ming into my house to back up Andrew Wilson."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5 mentions)</summary>
+
+**[00:06:54](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-00-06-48)**
+> "... moments of her children with Andrew Wilson in text messages with the slob like Andrew Wilson..."
+
+**[01:00:58](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-01-00-58)**
+> "...aid, now she's teamed up with Andrew Wilson. You're so heaven..."
+
+**[01:01:35](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-01-00-58)**
+> "...ould share text messages with Andrew Wilson?"
+
+**[01:04:30](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-01-04-08)**
+> "...s the contact name from texts Andrew Wilson leaked of Charlie (Charlie Kirk) the night before..."
+
+**[01:05:00](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-01-04-45)**
+> "...lieve nothing that comes from Andrew Wilson, because why would you send it to Andrew Wilson w..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[01:06:51](/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-wilson-t-01-06-51)**
+> "...is like an old school graper, Andrew Wilson affiliated person."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:44:10](/episodes/ep-_Sq5RqP27NY.md#ent-person-andrew-wilson-t-00-44-10)**
+> "...rika Kirk)'s partnership with Andrew Wilson, what I think it signals about her, which is esse..."
+
+**[00:44:35](/episodes/ep-_Sq5RqP27NY.md#ent-person-andrew-wilson-t-00-44-35)**
+> "... person who was anything like Andrew Wilson. He would never have partnered, that would not ha..."
+
+**[00:45:51](/episodes/ep-_Sq5RqP27NY.md#ent-person-andrew-wilson-t-00-45-51)**
+> "...et with this partnership with Andrew Wilson, and you just go, this guy’s a drunk. He is addic..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (25 mentions)</summary>
+
+**[00:00:35](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-00-35)**
+> "...sly associating yourself with Andrew Wilson, this textual relationship with Andrew Wilson tha..."
+
+**[00:00:52](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-00-35)**
+> "...ther dramatic step to provide Andrew Wilson of all people, Smokey Boy (Andrew Wilson), with w..."
+
+**[00:01:06](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-00-35)**
+> "...ff up. She's given it over to Andrew Wilson to release to the public as what is registering t..."
+
+**[00:25:22](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-25-22)**
+> "...(Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being..."
+
+**[00:26:23](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-26-06)**
+> "...are. You saw a lot of Andrew (Andrew Wilson)'s character as he lied to my face repeatedly."
+
+**[00:27:16](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-27-16)**
+> "...st Rachel (Rachel Wilson) and Andrew Wilson. Here you go."
+
+**[00:27:28](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-27-28)**
+> "...nverified montage voice] Not [Andrew Wilson] to be a [unverified montage voice] being lot the..."
+
+**[00:28:09](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-28-09)**
+> "...ed montage voice] speak down [Andrew Wilson] Yeah,"
+
+**[00:28:13](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-28-13)**
+> "[Andrew Wilson] don't [unverified montage voice] do. [Andrew Wil..."
+
+**[00:28:48](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-28-48)**
+> "[Andrew Wilson] What did [unverified montage voice] daddies? [An..."
+
+**[00:29:13](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-29-13)**
+> "[Andrew Wilson] Shut up, [unverified debate participant] it was ..."
+
+**[00:29:49](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-29-29)**
+> "...ve never, ever, ever welcomed Andrew Wilson into the Turning Point USA 1.0 fold."
+
+**[00:30:15](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-30-04)**
+> "..., because that's when Andrew (Andrew Wilson) is up. That's when he does his streams. That's w..."
+
+**[00:31:32](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-31-32)**
+> "...ng it to anyone, least of all Andrew Wilson, to troll the internet. But that's it. He does. H..."
+
+**[00:33:16](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-33-16)**
+> "...ge of your husband at home as Andrew Wilson is claiming not her, by the way. We never get the..."
+
+**[00:33:30](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-33-16)**
+> "...ly legally clear. He can lie. Andrew Wilson can lie about everything. He has no official ties..."
+
+**[00:37:23](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-37-23)**
+> "...'s giving this information to Andrew Wilson."
+
+**[00:38:57](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-38-48)**
+> "... idea why they're coming from Andrew Wilson."
+
+**[00:39:14](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-38-48)**
+> "...our husband with your kids to Andrew Wilson for the purposes of trolling. This is just a trol..."
+
+**[00:39:35](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-39-29)**
+> "...e September 8th metadata like Andrew Wilson is not even smart enough to know that you can jus..."
+
+**[00:40:23](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-40-04)**
+> "Andrew (Andrew Wilson) didn't know this."
+
+**[00:41:15](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-40-59)**
+> "...make with people, people like Andrew Wilson and Rachel Wilson. It is just unmistakable to me ..."
+
+**[00:47:25](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-46-53)**
+> "...elf. She's desperate. Andrew (Andrew Wilson)"
+
+**[00:47:30](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-47-30)**
+> "Ashtray (Andrew Wilson) gained traction after you humiliated him, and he..."
+
+**[00:49:59](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-wilson-t-00-49-59)**
+> "...ad hours, as I call them with Andrew Wilson."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:52:03](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-wilson-t-00-51-52)**
+> "...saw when I did my debate with Andrew Wilson, and they're trying to keep their hands clean, bu..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[01:00:00](/episodes/ep-aLJhpxrakCU.md#ent-person-andrew-wilson-t-00-59-30)**
+> "...ly insincere and disingenuous Andrew Wilson."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (4 mentions)</summary>
@@ -583,7 +772,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -596,13 +785,27 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22): “And suddenly Erika (Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being introduced to Andrew Wilson, an obviously dishonest and disingenuous person who never cared about this case, who called Erika (Erika Kirk) too retarded to kill her husband, regularly lambasted Turning Point USA for feminism and promoting these archetypes until she welcomed him into TPUSA headquarters.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22): “And suddenly Erika (Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being introduced to Andrew Wilson, an obviously dishonest and disingenuous person who never cared about this case, who called Erika (Erika Kirk) too retarded to kill her husband, regularly lambasted Turning Point USA for feminism and promoting these archetypes until she welcomed him into TPUSA headquarters.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
@@ -610,6 +813,18 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
 - [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06): “Andrew Wilson drops this signature as a debunking. This is a signature that was pulled and says, well, this is not Tyler Robinson's signature, so we can all move on from the idea that Tyler Robinson was at the steakhouse. That is completely and utterly wrong.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 01:00:00](/episodes/ep-aLJhpxrakCU.md#t-00-59-30): “what the state's evidence is, that opportunity that was missed sorely by the incredibly insincere and disingenuous Andrew Wilson.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22): “And suddenly Erika (Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being introduced to Andrew Wilson, an obviously dishonest and disingenuous person who never cared about this case, who called Erika (Erika Kirk) too retarded to kill her husband, regularly lambasted Turning Point USA for feminism and promoting these archetypes until she welcomed him into TPUSA headquarters. And then everything changed and he doesn't know what's going on, but he's just going to get in front of Turning Point USA and troll the public, I guess. It's difficult to underscore how patently ghetto and trashy he and his wife are.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:45:51](/episodes/ep-_Sq5RqP27NY.md#t-00-45-51): “The ability to do that so quickly after he died, you’d be cherishing this. Like, there’s no privacy. Sell, sell, sell, sell, and get even with him. Like I said, she’s so nasty behind the scenes, but you see a glimpse of that, and then you are met with this partnership with Andrew Wilson, and you just go, this guy’s a drunk. He is addicted, you know, to chain smoking constantly. There’s like late nights, ... night stuff of him just downing whiskey or whatever it is. I mean, this should register to her as scum of the earth. And she gives him something as precious as a video, what is supposed to be, as representing it, the last video, which should be the last video of her husband with his kids. That is just bizarre, and no one will ever make that make sense to me. I’m done arguing about whether it’s just a grieving widow. That is conniving, and it is disgusting, and it is debased.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 01:05:00](/episodes/ep-q4m-kGzvwjw.md#t-01-04-45): “But, like, other people also had access to it and could communicate, and that's the American flag icon. And then the real Charlie (Charlie Kirk), the one that was speaking to the donors, the one that says Charlie Kirk, that we saw when he's like, "I've been left with no choice but to ban the pro-Israel cause." That, yeah, I've realized the American flag thing is interesting. I don't know if Erika (Erika Kirk) took over that account. I don't know what's going on. I believe nothing that comes from Andrew Wilson, because why would you send it to Andrew Wilson when you could send it to Andrew Kolvet? ... Why would you not release the information yourself? Why wouldn't you send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it to Vanity Fair. ... You gave him four months of access. Why not give them the messages? Daily Mail, you don't choose to give something. They're moving towards these sorts of people who will lie and are disgusting.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:50](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “Something feels right in the story. It feels right for a variety of reasons. One of the reasons is because I had noticed this bizarre shift in the character and the quality of the influencers that are now in the Turning Point USA orbit, right? The Andrew (Andrew Wilson) and Rachel Wilson types. It's like they're suddenly dipping into a pool of degenerates. Group chats filled with people who look and behave like something you might come across upon the Strip in Las Vegas, if we're being honest. Like they bet their last $500 against the house and the house won because the house always wins.”
+
+</details>
+
+- **[Handle UFO (identity unverified)](/entities/anon-src-BvthGQw3_s0-007.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:47:25](/episodes/ep-_2DiIbfy4mU.md#t-00-46-53): “UFO writes, 'Erika Frantzve continues to expose herself. She's desperate. Andrew (Andrew Wilson) Ashtray (Andrew Wilson) gained traction after you humiliated him, and he's now quickly losing it. He's a low-life grifter. Everybody can see that.' It's—it's not helpful for them, helpful to them, to—to give him anything. Just give it to a respectable journalist. This is bonkers that they're doing this. And, like I said, it shows that they want some legal distance. That's how I read it. They want somebody who is a routine liar, who does not care, who has nothing to lose, and who will just go out there and troll people, try to get people trapped”
 
 </details>
 
@@ -627,13 +842,15 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:06:33](/episodes/ep-aPOyk1i2LOc.md#t-00-06-23): “But we came here today to debate, and so let's get to it. The debate topic today is, one, my belief that there's overwhelming evidence that Tyler Robinson killed Charlie Kirk, and two, Candace's belief that there's overwhelming evidence that Tyler Robinson was a patsy and didn't kill Charlie Kirk.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:06](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “My, oh, my. Honestly, you guys, if we're being honest, it was over the minute that Andrew Wilson began reading his quote unquote opening statement from his phone.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:41:31](/episodes/ep-4JxgOclKzqg.md#t-00-41-23): “And the best way to solve this is to just sit down and be honest. You know, I actually taught a great lesson yesterday or last week in my debate when we turned Andrew Wilson by the end of it into a conspiracy theorist who thought.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:22:34](/episodes/ep-1FhY-koMuWM.md#t-00-21-55): “Now, this is the same message that Andrew Wilson bizarrely read as his opening statement in our debate.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:52:03](/episodes/ep-NNiCZk1cuzs.md#t-00-51-52): “They want death, trying to walk people into defamation claims, as you guys saw. I saw when I did my debate with Andrew Wilson, and they're trying to keep their hands clean, but they're obviously platforming these individuals on Charlie Kirk's show, who Charlie Kirk would have never hosted on his show.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:11:58](/episodes/ep-0pSAhaAZz1w.md#t-00-11-35): “I debated Andrew Wilson on August 14th, to be specific. So this campaign had its instructions changed. They wanted people to stop clipping generic Charlie Kirk and to instead focus on clipping Andrew Wilson to make him look good.”
 
 </details>
 
@@ -658,6 +875,19 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:16:56](/episodes/ep-E7P2ShoYDUA.md#t-00-16-29): “From Rob (Andrew Wilson's team member; surname unverified), he was very kind, very professional, even Gerald (Gerald Morgan), he was kind and professional to my face, but the just what you're doing, the exercise of what you're doing here is.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Exchanged Messages With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:00:12](/episodes/ep-_2DiIbfy4mU.md#t-00-00-00): “But man, Erika Kirk, she really is not in the business of beating the charges. That's what I feel might be her kryptonite, just trying to beat the internet charges. Like if I'm managing your PR brand and your entire... Our fake public persona is going to revolve around Christianity, and our plan is to pretend that you can't even utter a sentence that doesn't begin with the Lord. I would probably advise heavily against you simultaneously associating yourself with Andrew Wilson, this textual relationship with Andrew Wilson that's developing, because people are going to have questions when you begin sending him videos of your children. And yes, ladies and gentlemen, she has now taken the rather dramatic step to provide Andrew Wilson of all people, Smokey Boy (Andrew Wilson), with what might be the last footage ever captured of Charlie Kirk alive with his children.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:06:54](/episodes/ep-q4m-kGzvwjw.md#t-00-06-48): “You guys are just all canceled. results. You're all canceled. You're all done. I have to say somewhere between where the heavy hitters, where are the heavy hitters at and her sharing the final moments of her children with Andrew Wilson in text messages with the slob like Andrew Wilson, you've lost the crowd.”
 
 </details>
 
@@ -698,10 +928,11 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <summary>Married To (1)</summary>
 
 - **[Rachel Wilson](/entities/person-rachel-wilson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:40:49](/episodes/ep-5zgkrOaCCj4.md#t-00-40-36): “mostly getting pregnant with random people that's not the case I spent my entire adult life only in three long-term committed relationships one of which is a you know almost 20-year relationship with Andrew (Andrew Wilson) now we're like 18 years in we've been married since 2012 prior to that I was married for four years as Andrew (Andrew Wilson) had to unfortunately explain that ended not even because I left but because he uh”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 01:03:31](/episodes/ep-E7P2ShoYDUA.md#t-01-03-19): “andrew will tell you that every time he got up he had to reset it they don't work so there's no one else that could possibly be talking in your ear because of the structure of our walls so anyway rachel response who's his like horrific wife responds”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22): “And suddenly Erika (Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being introduced to Andrew Wilson, an obviously dishonest and disingenuous person who never cared about this case, who called Erika (Erika Kirk) too retarded to kill her husband, regularly lambasted Turning Point USA for feminism and promoting these archetypes until she welcomed him into TPUSA headquarters. And then everything changed and he doesn't know what's going on, but he's just going to get in front of Turning Point USA and troll the public, I guess. It's difficult to underscore how patently ghetto and trashy he and his wife are. His wife had five children out of wedlock with three different men. This is just we can't pretend this is conservative. We can't pretend this is like anywhere near conservatism. They are pious, religious, nothing of the sort. I will not have it. This is not Christianity. But I do want you to truly appreciate who these individuals are. You saw a lot of Andrew (Andrew Wilson)'s character as he lied to my face repeatedly. Lie about what happened 10 seconds ago. He does not care. He will lie, like he's proven that beyond a shadow of a doubt. But I do want you guys, since you didn't know who they were, I didn't know who they were, and Erika (Erika Kirk) just gave them to us, right? I do want you to—to see, um, see them. Like, we just put together this little reel of them. I—I find them to be truly just—I'm shocked that they're going further into relationship with these two individuals. And I have to apologize in advance here because the language is obviously debased, but I have to paint a fuller picture. So I will say if you are watching this podcast and know a lot of people who are underage, do watch this podcast or parents are watching this with their minor children, I would offer that now would be a good time for you to turn the volume down or off completely. Okay, here we go. This is just Rachel (Rachel Wilson) and Andrew Wilson. Here you go.”
 
 </details>
 
@@ -715,6 +946,18 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:04:51](/episodes/ep-d7VsbEIWkP8.md#t-00-04-50): “When I went to the TPUSA HQ and I talked to Erika (Erika Kirk) briefly while I was there.”
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:41:40](/episodes/ep-HGtMfbePDKk.md#t-00-41-15): “And, and whatever this transition happened for him it certainly was after he went to Turning Point USA headquarters and sat down with Erika and the executive team”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke At (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:29:29](/episodes/ep-_2DiIbfy4mU.md#t-00-29-29): “This is TPUSA 2.0. You can't, there's no defending this. There's no pretending it's not happening. They're hosting this guy. They're asking him to come in to teach people how to debate. They want access to middle schoolers, mandated access to middle schoolers and your children. This is what they're partnering with. You cannot.”
 
 </details>
 
@@ -747,7 +990,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details>
-<summary>Referenced By (15)</summary>
+<summary>Referenced By (21)</summary>
 
 - **[UFO 120 (commenter; identity unverified)](/entities/anon-src-HGtMfbePDKk-015.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -771,7 +1014,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
@@ -779,6 +1022,18 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
 - [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06): “Andrew Wilson drops this signature as a debunking. This is a signature that was pulled and says, well, this is not Tyler Robinson's signature, so we can all move on from the idea that Tyler Robinson was at the steakhouse. That is completely and utterly wrong.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 01:00:00](/episodes/ep-aLJhpxrakCU.md#t-00-59-30): “what the state's evidence is, that opportunity that was missed sorely by the incredibly insincere and disingenuous Andrew Wilson.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22): “And suddenly Erika (Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being introduced to Andrew Wilson, an obviously dishonest and disingenuous person who never cared about this case, who called Erika (Erika Kirk) too retarded to kill her husband, regularly lambasted Turning Point USA for feminism and promoting these archetypes until she welcomed him into TPUSA headquarters. And then everything changed and he doesn't know what's going on, but he's just going to get in front of Turning Point USA and troll the public, I guess. It's difficult to underscore how patently ghetto and trashy he and his wife are.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:45:51](/episodes/ep-_Sq5RqP27NY.md#t-00-45-51): “The ability to do that so quickly after he died, you’d be cherishing this. Like, there’s no privacy. Sell, sell, sell, sell, and get even with him. Like I said, she’s so nasty behind the scenes, but you see a glimpse of that, and then you are met with this partnership with Andrew Wilson, and you just go, this guy’s a drunk. He is addicted, you know, to chain smoking constantly. There’s like late nights, ... night stuff of him just downing whiskey or whatever it is. I mean, this should register to her as scum of the earth. And she gives him something as precious as a video, what is supposed to be, as representing it, the last video, which should be the last video of her husband with his kids. That is just bizarre, and no one will ever make that make sense to me. I’m done arguing about whether it’s just a grieving widow. That is conniving, and it is disgusting, and it is debased.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 01:05:00](/episodes/ep-q4m-kGzvwjw.md#t-01-04-45): “But, like, other people also had access to it and could communicate, and that's the American flag icon. And then the real Charlie (Charlie Kirk), the one that was speaking to the donors, the one that says Charlie Kirk, that we saw when he's like, "I've been left with no choice but to ban the pro-Israel cause." That, yeah, I've realized the American flag thing is interesting. I don't know if Erika (Erika Kirk) took over that account. I don't know what's going on. I believe nothing that comes from Andrew Wilson, because why would you send it to Andrew Wilson when you could send it to Andrew Kolvet? ... Why would you not release the information yourself? Why wouldn't you send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it to Vanity Fair. ... You gave him four months of access. Why not give them the messages? Daily Mail, you don't choose to give something. They're moving towards these sorts of people who will lie and are disgusting.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:50](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “Something feels right in the story. It feels right for a variety of reasons. One of the reasons is because I had noticed this bizarre shift in the character and the quality of the influencers that are now in the Turning Point USA orbit, right? The Andrew (Andrew Wilson) and Rachel Wilson types. It's like they're suddenly dipping into a pool of degenerates. Group chats filled with people who look and behave like something you might come across upon the Strip in Las Vegas, if we're being honest. Like they bet their last $500 against the house and the house won because the house always wins.”
+
+</details>
+
+- **[Handle UFO (identity unverified)](/entities/anon-src-BvthGQw3_s0-007.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:47:25](/episodes/ep-_2DiIbfy4mU.md#t-00-46-53): “UFO writes, 'Erika Frantzve continues to expose herself. She's desperate. Andrew (Andrew Wilson) Ashtray (Andrew Wilson) gained traction after you humiliated him, and he's now quickly losing it. He's a low-life grifter. Everybody can see that.' It's—it's not helpful for them, helpful to them, to—to give him anything. Just give it to a respectable journalist. This is bonkers that they're doing this. And, like I said, it shows that they want some legal distance. That's how I read it. They want somebody who is a routine liar, who does not care, who has nothing to lose, and who will just go out there and troll people, try to get people trapped”
 
 </details>
 
@@ -793,6 +1048,20 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22): “And suddenly Erika (Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being introduced to Andrew Wilson, an obviously dishonest and disingenuous person who never cared about this case, who called Erika (Erika Kirk) too retarded to kill her husband, regularly lambasted Turning Point USA for feminism and promoting these archetypes until she welcomed him into TPUSA headquarters.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22): “And suddenly Erika (Erika Kirk) introduces us to Andrew Wilson over the summer. The public life we are now being introduced to Andrew Wilson, an obviously dishonest and disingenuous person who never cared about this case, who called Erika (Erika Kirk) too retarded to kill her husband, regularly lambasted Turning Point USA for feminism and promoting these archetypes until she welcomed him into TPUSA headquarters.”
+
+</details>
+
 - **[Charlie (debate participant; surname unverified)](/entities/person-charlie-debate-participant.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -802,13 +1071,15 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:06:33](/episodes/ep-aPOyk1i2LOc.md#t-00-06-23): “But we came here today to debate, and so let's get to it. The debate topic today is, one, my belief that there's overwhelming evidence that Tyler Robinson killed Charlie Kirk, and two, Candace's belief that there's overwhelming evidence that Tyler Robinson was a patsy and didn't kill Charlie Kirk.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:06](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “My, oh, my. Honestly, you guys, if we're being honest, it was over the minute that Andrew Wilson began reading his quote unquote opening statement from his phone.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:41:31](/episodes/ep-4JxgOclKzqg.md#t-00-41-23): “And the best way to solve this is to just sit down and be honest. You know, I actually taught a great lesson yesterday or last week in my debate when we turned Andrew Wilson by the end of it into a conspiracy theorist who thought.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:22:34](/episodes/ep-1FhY-koMuWM.md#t-00-21-55): “Now, this is the same message that Andrew Wilson bizarrely read as his opening statement in our debate.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:52:03](/episodes/ep-NNiCZk1cuzs.md#t-00-51-52): “They want death, trying to walk people into defamation claims, as you guys saw. I saw when I did my debate with Andrew Wilson, and they're trying to keep their hands clean, but they're obviously platforming these individuals on Charlie Kirk's show, who Charlie Kirk would have never hosted on his show.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:11:58](/episodes/ep-0pSAhaAZz1w.md#t-00-11-35): “I debated Andrew Wilson on August 14th, to be specific. So this campaign had its instructions changed. They wanted people to stop clipping generic Charlie Kirk and to instead focus on clipping Andrew Wilson to make him look good.”
 
 </details>
 
@@ -819,10 +1090,25 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:00:12](/episodes/ep-_2DiIbfy4mU.md#t-00-00-00): “But man, Erika Kirk, she really is not in the business of beating the charges. That's what I feel might be her kryptonite, just trying to beat the internet charges. Like if I'm managing your PR brand and your entire... Our fake public persona is going to revolve around Christianity, and our plan is to pretend that you can't even utter a sentence that doesn't begin with the Lord. I would probably advise heavily against you simultaneously associating yourself with Andrew Wilson, this textual relationship with Andrew Wilson that's developing, because people are going to have questions when you begin sending him videos of your children. And yes, ladies and gentlemen, she has now taken the rather dramatic step to provide Andrew Wilson of all people, Smokey Boy (Andrew Wilson), with what might be the last footage ever captured of Charlie Kirk alive with his children.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:06:54](/episodes/ep-q4m-kGzvwjw.md#t-00-06-48): “You guys are just all canceled. results. You're all canceled. You're all done. I have to say somewhere between where the heavy hitters, where are the heavy hitters at and her sharing the final moments of her children with Andrew Wilson in text messages with the slob like Andrew Wilson, you've lost the crowd.”
+
+</details>
+
 - **[National Rifle Association](/entities/org-national-rifle-association.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:44:29](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-29): “And I was an NRA instructor for many, ... many, many years”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:29:29](/episodes/ep-_2DiIbfy4mU.md#t-00-29-29): “This is TPUSA 2.0. You can't, there's no defending this. There's no pretending it's not happening. They're hosting this guy. They're asking him to come in to teach people how to debate. They want access to middle schoolers, mandated access to middle schoolers and your children. This is what they're partnering with. You cannot.”
 
 </details>
 
@@ -864,6 +1150,13 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:44:10](/episodes/ep-_Sq5RqP27NY.md#t-00-44-10): “Okay. Top comments from yesterday's episode. I obviously just unpacked my personal feelings on Erika (Erika Kirk)'s partnership with Andrew Wilson, what I think it signals about her, which is essentially that the public has been correct that she is emotionally disturbed, girl interrupted and sink deep, bro.”
+
+</details>
+
 - **[Rob (Andrew Wilson's team member; surname unverified)](/entities/anon-src-E7P2ShoYDUA-002.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -876,7 +1169,18 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Wilson (26)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Wilson (28)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2)</summary>
+
+- [00:27:20](/episodes/ep-_2DiIbfy4mU.md#t-00-27-20) [○] (Opinion) ["In an embedded clip, Andrew Wilson says he does not think there is evidence Epst..."](/statements/statement-17c2e09b45c7.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:27:29](/episodes/ep-_2DiIbfy4mU.md#t-00-27-29) [○] (Claim) ["In an embedded clip, Andrew Wilson says Epstein was at least tied to intelligenc..."](/statements/statement-847b9154ef34.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -984,7 +1288,78 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Wilson (37)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Wilson (55)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:11:58](/episodes/ep-0pSAhaAZz1w.md#t-00-11-35) (Claim) **Candace Owens**: ["Owens said that after her August 14 debate with Andrew Wilson the camp..."](/statements/statement-b8c57b3216f4.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Elephant Clipping](/entities/org-elephant-clipping.md)
+
+- [00:13:34](/episodes/ep-0pSAhaAZz1w.md#t-00-13-34) (Claim) **Candace Owens** (via paraphrase): ["Owens said Turning Point USA publicly denied involvement in the Andrew..."](/statements/statement-32bb00faeeb2.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:06:54](/episodes/ep-q4m-kGzvwjw.md#t-00-06-48) (Accusation) **Candace Owens**: ["Owens alleged that Erika Kirk shared text messages about her children’..."](/statements/statement-58ec2fae7355.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:04:30](/episodes/ep-q4m-kGzvwjw.md#t-01-04-08) (Claim) **Hannah Doodle (viewer commenter; identity unverified)** (via quoted post): ["Viewer Hannah Doodle (identity unverified) wrote that the American-fla..."](/statements/statement-0e6abf494202.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2)</summary>
+
+- [00:44:10](/episodes/ep-_Sq5RqP27NY.md#t-00-44-10) (Opinion) **Candace Owens**: ["Owens said she thought Erika Kirk’s partnership with Andrew Wilson sig..."](/statements/statement-c63ee31931be.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:45:51](/episodes/ep-_Sq5RqP27NY.md#t-00-45-51) (Accusation) **Candace Owens**: ["Owens called Andrew Wilson a drunk and said there were late-night clip..."](/statements/statement-86a033953d35.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (12)</summary>
+
+- [00:00:52](/episodes/ep-_2DiIbfy4mU.md#t-00-00-35) (Claim) **Candace Owens**: ["Owens says Erika Kirk provided Andrew Wilson with what might be the la..."](/statements/statement-9b27c976fe8a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:01:26](/episodes/ep-_2DiIbfy4mU.md#t-00-01-15) (Accusation) **Candace Owens**: ["Owens accuses TPUSA of deploying people such as the Wilsons as chaos a..."](/statements/statement-ce7fa6442f94.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Rachel Wilson](/entities/person-rachel-wilson.md)
+
+- [00:25:22](/episodes/ep-_2DiIbfy4mU.md#t-00-25-22) (Claim) **Candace Owens** (via paraphrase): ["Owens says Andrew Wilson criticized TPUSA for feminism and its promote..."](/statements/statement-332d37cf9252.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:26:23](/episodes/ep-_2DiIbfy4mU.md#t-00-26-06) (Accusation) **Candace Owens**: ["Owens accuses Andrew Wilson of repeatedly lying to her face, including..."](/statements/statement-9538cb89a68a.md)
+
+- [00:29:29](/episodes/ep-_2DiIbfy4mU.md#t-00-29-29) (Accusation) **Candace Owens**: ["Owens says TPUSA is hosting Andrew Wilson to teach debate and wants ma..."](/statements/statement-e6c098c034e5.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:29:49](/episodes/ep-_2DiIbfy4mU.md#t-00-29-29) (Opinion) **Candace Owens**: ["Owens believes Charlie Kirk would never have welcomed Andrew Wilson in..."](/statements/statement-2d3ed050b724.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:30:15](/episodes/ep-_2DiIbfy4mU.md#t-00-30-04) (Claim) **Candace Owens** (via paraphrase): ["Owens says Andrew Wilson claimed a private video of Charlie Kirk with ..."](/statements/statement-754d8b1883ce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Chicago Bears](/entities/org-chicago-bears.md)
+
+- [00:33:16](/episodes/ep-_2DiIbfy4mU.md#t-00-33-16) (Claim) **Candace Owens**: ["Owens identifies Andrew Kolvet as TPUSA’s official spokesperson and sa..."](/statements/statement-e30daaedca0b.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:06](/episodes/ep-_2DiIbfy4mU.md#t-00-36-06) (Opinion) **Candace Owens**: ["Owens believes Erika Kirk chose Andrew Wilson to publish the footage f..."](/statements/statement-13a6676c9e07.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:36:56](/episodes/ep-_2DiIbfy4mU.md#t-00-36-37) (Claim) **Candace Owens** (via paraphrase): ["Owens says Andrew Wilson alleges Erika Kirk supplied him a private Sep..."](/statements/statement-afa5d0354327.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:39:35](/episodes/ep-_2DiIbfy4mU.md#t-00-39-29) (Claim) **Candace Owens**: ["Owens claims a person can edit metadata on their own phone so a photo ..."](/statements/statement-253ba27a308c.md)
+
+- [00:47:25](/episodes/ep-_2DiIbfy4mU.md#t-00-46-53) (Opinion) **Handle UFO (identity unverified)** (via quoted post): ["The commenter using the handle UFO calls Andrew Wilson a grifter and s..."](/statements/statement-69258062ba1b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>

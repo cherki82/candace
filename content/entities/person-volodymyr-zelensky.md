@@ -1,6 +1,6 @@
 ---
 title: "Volodymyr Zelensky"
-description: "Volodymyr Zelensky (People) - 8 mentions"
+description: "Volodymyr Zelensky (People) - 9 mentions"
 id: "person-volodymyr-zelensky"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-volodymyr-zelensky-t-00-07-32">2025-10-31 · 00:07:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08">2026-07-27 · 00:35:08</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-volodymyr-zelensky-t-00-21-02">2026-10-07 · 00:21:16</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-volodymyr-zelensky-t-00-39-28" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-volodymyr-zelensky-t-00-52-31" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08" style="--pulse-height:50%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-volodymyr-zelensky-t-00-21-02" style="--pulse-height:50%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-volodymyr-zelensky-t-00-39-28) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-volodymyr-zelensky-t-00-52-31) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-volodymyr-zelensky-t-00-21-02) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:21:16](/episodes/ep-yrg_-D6oNHE.md#ent-person-volodymyr-zelensky-t-00-21-02)**
+> "... the person that put, uh, uh, Zelensky (Volodymyr Zelenskyy) into power, just so you kno..."
+
+</details>
 
 <details>
 <summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
@@ -122,6 +132,18 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Funded By (1)</summary>
+
+- **[Ihor Kolomoisky](/entities/person-ihor-kolomoisky.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:20:53](/episodes/ep-yrg_-D6oNHE.md#t-00-20-23): “Igor Kolomoisky, a former politician, is under investigation in the United States and Ukraine for allegedly laundering bank proceeds through shell companies around the world. He's also he's Israeli, by the way, Israeli Ukrainian billionaire. If you don't know who Igor Kolomoisky is, please do your due diligence. It is worth reading up on Igor Kolomoisky. It just everything about this man is just what we are fighting. Being, okay, just like this really greedy billionaire, ties with the Chabad Lubavitch, um, just getting away with so much. He's the person that put, uh, uh, Zelensky (Volodymyr Zelenskyy) into power, just so you know, like funded him into power, and then, um, nationalized the private bank and then money went missing. It's just a classic scandal that will help you learn a lot about your nation, how things operate. Anyway, not going to go on...”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
@@ -146,7 +168,14 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Ihor Kolomoisky](/entities/person-ihor-kolomoisky.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:20:53](/episodes/ep-yrg_-D6oNHE.md#t-00-20-23): “Igor Kolomoisky, a former politician, is under investigation in the United States and Ukraine for allegedly laundering bank proceeds through shell companies around the world. He's also he's Israeli, by the way, Israeli Ukrainian billionaire. If you don't know who Igor Kolomoisky is, please do your due diligence. It is worth reading up on Igor Kolomoisky. It just everything about this man is just what we are fighting. Being, okay, just like this really greedy billionaire, ties with the Chabad Lubavitch, um, just getting away with so much. He's the person that put, uh, uh, Zelensky (Volodymyr Zelenskyy) into power, just so you know, like funded him into power, and then, um, nationalized the private bank and then money went missing. It's just a classic scandal that will help you learn a lot about your nation, how things operate. Anyway, not going to go on...”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -167,7 +196,15 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Volodymyr Zelensky (1)</strong></summary>
+<summary><strong class="section-title">Statements about Volodymyr Zelensky (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:21:02](/episodes/ep-yrg_-D6oNHE.md#t-00-21-02) (Accusation) **Candace Owens**: ["Owens described Ihor Kolomoisky as an Israeli-Ukrainian billionaire wi..."](/statements/statement-bfee850d53bf.md)
+  - Also about: [Ihor Kolomoisky](/entities/person-ihor-kolomoisky.md), [Chabad-Lubavitch](/entities/org-chabad-lubavitch.md)
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>

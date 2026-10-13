@@ -1,6 +1,6 @@
 ---
 title: "Paul the Apostle"
-description: "Paul the Apostle (People) - 6 mentions"
+description: "Paul the Apostle (People) - 8 mentions"
 id: "person-paul-the-apostle"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Solemnity of the Conversion of Saint Paul the Apostle | Vatican](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-38-09">2025-09-22 · 00:38:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#t-00-23-13">2026-07-27 · 00:23:31</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-paul-the-apostle-t-00-30-30">2026-09-14 · 00:30:48</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Solemnity of the Conversion of Saint Paul the Apostle | Vatican](https:
 <a href="/episodes/ep-Qfwr08Ebczo.md#t-00-33-02" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-22-23" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#t-00-23-13" style="--pulse-height:50%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-paul-the-apostle-t-00-30-30" style="--pulse-height:100%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Solemnity of the Conversion of Saint Paul the Apostle | Vatican](https:
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-22-23) | 2 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#t-00-23-13) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-paul-the-apostle-t-00-30-30) | 2 |
 
 </details>
 </section>
@@ -58,7 +60,18 @@ Source: [Solemnity of the Conversion of Saint Paul the Apostle | Vatican](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:30:30](/episodes/ep-O4Zw3bCALjU.md#ent-person-paul-the-apostle-t-00-30-30)**
+> "...y 3, 6 through 7, where Paul (Paul the Apostle) talks about the false teachers who are creeping ..."
+
+**[00:30:48](/episodes/ep-O4Zw3bCALjU.md#ent-person-paul-the-apostle-t-00-30-30)**
+> "Would Paul (Paul the Apostle) specifically call out women as being more suscep..."
+
+</details>
 
 <details>
 <summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>

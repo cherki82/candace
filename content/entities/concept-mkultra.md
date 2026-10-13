@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 44 mentions"
+description: "MKUltra (Concepts) - 47 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44">2025-09-24 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-45-38">2026-07-29 · 00:45:38</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-mkultra-t-00-43-14">2026-10-05 · 00:43:36</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,6 +56,9 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54" style="--pulse-height:14%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-35-33" style="--pulse-height:29%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-concept-mkultra-t-01-02-13" style="--pulse-height:14%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-mkultra-t-00-40-06" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-mkultra-t-00-43-14" style="--pulse-height:14%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +82,9 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-35-33) | 2 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-concept-mkultra-t-01-02-13) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-mkultra-t-00-40-06) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-mkultra-t-00-43-14) | 1 |
 
 </details>
 </section>
@@ -86,7 +92,31 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:43:36](/episodes/ep-ms5ChhZegRg.md#ent-concept-mkultra-t-00-43-14)**
+> "... who are going through, like, MKUltra programming from a time that they're young. I thi..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:40:20](/episodes/ep-q4m-kGzvwjw.md#ent-concept-mkultra-t-00-40-06)**
+> "...hday falls on the creation of MKUltra, Brigitte (Brigitte Macron) disappearing, Jean-Mi..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[01:02:19](/episodes/ep-NNiCZk1cuzs.md#ent-concept-mkultra-t-01-02-13)**
+> "...nds to like boiling the frog, MKUltra, et cetera."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
@@ -320,7 +350,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MKUltra (14)</strong></summary>
+<summary><strong class="section-title">Statements about MKUltra (15)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:43:14](/episodes/ep-ms5ChhZegRg.md#t-00-43-14) (Accusation) **Candace Owens**: ["Owens speculated, “I bet we’d learn about how the entire system works,..."](/statements/statement-ac2410d1ef93.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Mossad](/entities/org-mossad.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2)</summary>

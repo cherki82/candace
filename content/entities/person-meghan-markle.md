@@ -1,6 +1,6 @@
 ---
 title: "Meghan Markle"
-description: "Meghan Markle (People) - 8 mentions"
+description: "Meghan Markle (People) - 9 mentions"
 id: "person-meghan-markle"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-meghan-markle-t-00-22-09">2025-11-06 · 00:22:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-meghan-markle-t-00-56-09">2026-04-15 · 00:56:09</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-meghan-markle-t-00-58-22">2026-09-30 · 00:58:56</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-meghan-markle-t-00-02-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-meghan-markle-t-00-01-09" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-meghan-markle-t-00-56-09" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-meghan-markle-t-00-58-22" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-meghan-markle-t-00-02-57) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-meghan-markle-t-00-01-09) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-meghan-markle-t-00-56-09) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-meghan-markle-t-00-58-22) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:58:56](/episodes/ep-5TTkMa49qj8.md#ent-person-meghan-markle-t-00-58-22)**
+> "...be the same that he does with Meghan Markle. Yes, that is exactly who I want to watch go thro..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>

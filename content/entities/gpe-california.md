@@ -1,6 +1,6 @@
 ---
 title: "California"
-description: "California (Places) - 60 mentions"
+description: "California (Places) - 64 mentions"
 id: "gpe-california"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-california-t-00-04-56">2025-09-11 · 00:05:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-california-t-00-06-17">2026-09-01 · 00:06:26</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-california-t-00-20-23">2026-10-07 · 00:20:23</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -62,6 +62,10 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-california-t-00-43-01" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-20-04" style="--pulse-height:100%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-california-t-00-05-10" style="--pulse-height:40%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-california-t-00-14-54" style="--pulse-height:20%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-01-00-59" style="--pulse-height:20%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-california-t-00-07-51" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-california-t-00-20-23" style="--pulse-height:20%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +103,10 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-california-t-00-43-01) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-20-04) | 5 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-california-t-00-05-10) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-california-t-00-14-54) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-california-t-00-07-51) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-california-t-00-20-23) | 1 |
 
 </details>
 </section>
@@ -106,7 +114,39 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:20:23](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-california-t-00-20-23)**
+> "...disbarred lawyer convicted in California of pimping and pandering at massage parlors, a fe..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:07:51](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-california-t-00-07-51)**
+> "So if you were going to do California, do back-to-back-to-back so that you're not wasti..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:01:20](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59)**
+> "Like I said, President Trump (Donald J. Trump) is in the call. OK, he says on his show he's going to stop covering the Epstein (Jeffrey Epstein) story on the 14th. Erika (Erika Kirk) travels aboard a private flight to Long Beach, California, and she speaks at James Caddis's Calvary Chapel Church."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:14:54](/episodes/ep-aLJhpxrakCU.md#ent-gpe-california-t-00-14-54)**
+> "...as brutally attacked in their California home?"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Dose"
-description: "Dose (Organizations) - 70 mentions"
+description: "Dose (Organizations) - 74 mentions"
 id: "org-dose"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21">2025-11-03 · 00:25:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-52">2026-09-09 · 00:28:05</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>70</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-dose-t-00-23-48">2026-10-07 · 00:24:08</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -52,6 +52,8 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-dose-t-00-27-41" style="--pulse-height:38%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-22-57" style="--pulse-height:38%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-11" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-dose-t-00-26-30" style="--pulse-height:38%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 3 mentions" title="2026-09-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-dose-t-00-23-48" style="--pulse-height:12%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +75,8 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-dose-t-00-27-41) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-22-57) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-11) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-dose-t-00-26-30) | 3 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-dose-t-00-23-48) | 1 |
 
 </details>
 </section>
@@ -80,7 +84,29 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:24:08](/episodes/ep-yrg_-D6oNHE.md#ent-org-dose-t-00-23-48)**
+> "...response, which is why I take Dose for Your Liver."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (3 mentions)</summary>
+
+**[00:26:43](/episodes/ep-BvthGQw3_s0.md#ent-org-dose-t-00-26-30)**
+> "...want to remind you guys about dose because did you know that more than half of the a..."
+
+**[00:27:18](/episodes/ep-BvthGQw3_s0.md#ent-org-dose-t-00-27-08)**
+> "That's why I take Dose for Your Liver. Dose is a highly absorbable liqui..."
+
+**[00:27:32](/episodes/ep-BvthGQw3_s0.md#ent-org-dose-t-00-27-08)**
+> "People who take Dose consistently report less sluggishness, fewer midd..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -381,12 +407,14 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:23:30](/episodes/ep-DdPjoy5W-wY.md#t-00-22-59): “Also want to tell you guys about Dose because one of the most underrated organs in your body is your liver.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:30:38](/episodes/ep-9CuC1yf8-PU.md#t-00-30-38): “I believe in products that are actually backed by research ... that's why I take Dose for your liver.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:26:18](/episodes/ep-Vu6Y24pqhZs.md#t-00-25-53): “just more sluggish, foggy, just not quite yourself. A lot of people chalk that up to getting older, but feeling that way shouldn't just be something that you accept. ... That's why I take Dose for Your Liver. Dose is a highly absorbable liquid supplement taken in a daily two ounce shot that tastes like fresh orange juice.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:23:44](/episodes/ep-_cNtgris8Ik.md#t-00-23-39): “That's why I take Dose for your liver. Dose is a highly absorbable liquid supplement taken in a daily two-ounce shot that tastes like fresh orange juice.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:18](/episodes/ep-BvthGQw3_s0.md#t-00-27-08): “That's why I take Dose for Your Liver. Dose is a highly absorbable liquid supplement taken in a daily two ounce shot that tastes like fresh orange juice. It's a plant forward formula that's clinically backed to promote liver function and cleanse the liver of unwanted stressors that may slow it down.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:24:08](/episodes/ep-yrg_-D6oNHE.md#t-00-23-48): “Will it be lawsuits? I wonder. We'll be right back. All right, you guys, if you have been feeling sluggish, bloated, or like your metabolism is not what it used to be, your liver is one of the first things that you should be thinking about because it plays a major role in metabolism, energy, and your inflammatory response, which is why I take Dose for Your Liver. I've been taking it for over a year and I've noticed less bloating and steadier energy throughout the day. It's a doctor formulated plant-based liquid supplement with zero sugar. Just one two ounce shot is equivalent to 17 cold pressed turmeric shots. which can help to decrease inflammation. Plus, it tastes just like fresh orange juice, so it's easy to take daily or really gives me confidence that the full formula has been tested in two double-blind placebo-controlled clinical studies showing positive impacts on liver enzyme levels with clinical backing for reducing fatigue and bloating. So if you're ready to give your liver the support that it deserves, head to dosedaily.co slash Candace or enter code Candace at checkout to get... to get 35% off your first subscription. Your body does so much for you so you can do something for your body this time. Again, that's dosedaily.co slash Candace for 35% off your first month subscription. Try it for three months and see how you feel.”
 
 </details>
 
@@ -396,12 +424,14 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:23:30](/episodes/ep-DdPjoy5W-wY.md#t-00-22-59): “Also want to tell you guys about Dose because one of the most underrated organs in your body is your liver.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:30:38](/episodes/ep-9CuC1yf8-PU.md#t-00-30-38): “I believe in products that are actually backed by research ... that's why I take Dose for your liver.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:26:18](/episodes/ep-Vu6Y24pqhZs.md#t-00-25-53): “just more sluggish, foggy, just not quite yourself. A lot of people chalk that up to getting older, but feeling that way shouldn't just be something that you accept. ... That's why I take Dose for Your Liver. Dose is a highly absorbable liquid supplement taken in a daily two ounce shot that tastes like fresh orange juice.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:23:44](/episodes/ep-_cNtgris8Ik.md#t-00-23-39): “That's why I take Dose for your liver. Dose is a highly absorbable liquid supplement taken in a daily two-ounce shot that tastes like fresh orange juice.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:18](/episodes/ep-BvthGQw3_s0.md#t-00-27-08): “That's why I take Dose for Your Liver. Dose is a highly absorbable liquid supplement taken in a daily two ounce shot that tastes like fresh orange juice. It's a plant forward formula that's clinically backed to promote liver function and cleanse the liver of unwanted stressors that may slow it down.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:24:08](/episodes/ep-yrg_-D6oNHE.md#t-00-23-48): “Will it be lawsuits? I wonder. We'll be right back. All right, you guys, if you have been feeling sluggish, bloated, or like your metabolism is not what it used to be, your liver is one of the first things that you should be thinking about because it plays a major role in metabolism, energy, and your inflammatory response, which is why I take Dose for Your Liver. I've been taking it for over a year and I've noticed less bloating and steadier energy throughout the day. It's a doctor formulated plant-based liquid supplement with zero sugar. Just one two ounce shot is equivalent to 17 cold pressed turmeric shots. which can help to decrease inflammation. Plus, it tastes just like fresh orange juice, so it's easy to take daily or really gives me confidence that the full formula has been tested in two double-blind placebo-controlled clinical studies showing positive impacts on liver enzyme levels with clinical backing for reducing fatigue and bloating. So if you're ready to give your liver the support that it deserves, head to dosedaily.co slash Candace or enter code Candace at checkout to get... to get 35% off your first subscription. Your body does so much for you so you can do something for your body this time. Again, that's dosedaily.co slash Candace for 35% off your first month subscription. Try it for three months and see how you feel.”
 
 </details>
 

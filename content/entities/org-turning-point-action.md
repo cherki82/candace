@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 36 mentions"
+description: "Turning Point Action (Organizations) - 42 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-00-00">2025-10-06 · 00:00:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-27-18">2026-07-22 · 00:27:18</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11">2026-10-01 · 00:14:11</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -55,6 +55,9 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36" style="--pulse-height:43%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26" style="--pulse-height:43%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-25-17" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-08" style="--pulse-height:57%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26" style="--pulse-height:14%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +82,9 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36) | 3 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-25-17) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-08) | 4 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11) | 1 |
 
 </details>
 </section>
@@ -90,7 +96,40 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:14:11](/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11)**
+> "...was trouble specifically with Turning Point action and Turning Point has declined, has denied those ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:20:57](/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26)**
+> "...as missing, particularly from Turning Point Action, which Tyler Bowyer controls."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4 mentions)</summary>
+
+**[00:39:21](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-08)**
+> "...ing us that we should give to turning point action, which is not the 501c3 charitable arm, right? Th..."
+
+**[00:39:32](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-08)**
+> "...ou should sign up and head to turning point action. That's what we can do to deal with this."
+
+**[00:40:19](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-45)**
+> "Go to tpaction.com slash 100, tpaction.com slash 100 if we have ..."
+
+**[00:41:10](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-40-46)**
+> "... Bowyer, by the way, who runs TP Action, tweeted in response to this as well."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
@@ -353,6 +392,18 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
+<summary>Endorsed By (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:40:19](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Austin Smith](/entities/person-austin-smith.md)**
@@ -378,19 +429,45 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
-<summary>Part Of (1)</summary>
+<summary>Operated By (1)</summary>
 
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24): “the campaign arm of Turning Point USA,”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Operates (1)</summary>
+
+- **[Commit 100](/entities/concept-commit-100.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:40:19](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up. But get involved. The people have surged to our Commit 100 program. And so God bless you guys. And we even have some friends of Charlie (Charlie Kirk) and Erika (Erika Kirk) that have put up $10,000 reward if anybody has a tip that they can send law enforcement that leads to the arrest of the vandals who did it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Part Of (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24): “the campaign arm of Turning Point USA,”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:16](/episodes/ep-O4Zw3bCALjU.md#t-00-39-08): “They're not looking, they're not seeking the public's help in trying to figure out who did this. this. Rather, they're all in unison essentially telling us that we should give to turning point action, which is not the 501c3 charitable arm, right? That's their 501c4. And they're basically like, you should sign up and head to turning point action. That's what we can do to deal with this.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (11)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -421,6 +498,13 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:40:19](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up.”
+
+</details>
+
 - **[Austin Smith](/entities/person-austin-smith.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -429,9 +513,10 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** includes this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24): “the campaign arm of Turning Point USA,”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:16](/episodes/ep-O4Zw3bCALjU.md#t-00-39-08): “They're not looking, they're not seeking the public's help in trying to figure out who did this. this. Rather, they're all in unison essentially telling us that we should give to turning point action, which is not the 501c3 charitable arm, right? That's their 501c4. And they're basically like, you should sign up and head to turning point action. That's what we can do to deal with this.”
 
 </details>
 
@@ -439,6 +524,21 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+- **[Commit 100](/entities/concept-commit-100.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:40:19](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up. But get involved. The people have surged to our Commit 100 program. And so God bless you guys. And we even have some friends of Charlie (Charlie Kirk) and Erika (Erika Kirk) that have put up $10,000 reward if anybody has a tip that they can send law enforcement that leads to the arrest of the vandals who did it.”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
 
 </details>
 
@@ -458,7 +558,37 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (22)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (27)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:14:11](/episodes/ep-q4m-kGzvwjw.md#t-00-14-11) (Accusation) **Candace Owens**: ["Owens said TPUSA denied claims that money was missing, but she believe..."](/statements/statement-9097ad19b949.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she heard rumblings from people inside TPUSA about missing ..."](/statements/statement-5a97d2fa5d83.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3)</summary>
+
+- [00:39:21](/episodes/ep-O4Zw3bCALjU.md#t-00-39-08) (Claim) **Candace Owens**: ["Owens said Turning Point's response directed people to Turning Point A..."](/statements/statement-d38b90ff62d8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:39:45](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said participation in the Commit 100 program was surging..."](/statements/statement-cbfd67aaa34b.md)
+  - Also about: [Commit 100](/entities/concept-commit-100.md)
+
+- [00:41:22](/episodes/ep-O4Zw3bCALjU.md#t-00-41-22) (Claim) **Tyler Bowyer** (via quoted tweet): ["Tyler Bowyer's tweet, as read by Owens, blamed the left for what happe..."](/statements/statement-53b085dd37f3.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Commit 100](/entities/concept-commit-100.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>

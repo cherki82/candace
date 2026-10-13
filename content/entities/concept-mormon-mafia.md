@@ -1,6 +1,6 @@
 ---
 title: "Mormon Mafia"
-description: "Mormon Mafia (Concepts) - 7 mentions"
+description: "Mormon Mafia (Concepts) - 8 mentions"
 id: "concept-mormon-mafia"
 type: "CONCEPT"
 categories:
@@ -18,11 +18,11 @@ Source: [The Nation: The Keepers of the King | TIME](https://content.time.com/ti
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormon-mafia-t-00-01-21">2026-07-22 · 00:01:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormon-mafia-t-00-22-29">2026-07-22 · 00:22:42</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-mormon-mafia-t-00-45-30">2026-10-06 · 00:45:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -32,12 +32,14 @@ Source: [The Nation: The Keepers of the King | TIME](https://content.time.com/ti
 <p>Highest activity: <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormon-mafia-t-00-01-21">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormon-mafia-t-00-01-21" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 7 mentions" title="2026-07-22 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-mormon-mafia-t-00-45-30" style="--pulse-height:14%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormon-mafia-t-00-01-21) | 7 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-mormon-mafia-t-00-45-30) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [The Nation: The Keepers of the King | TIME](https://content.time.com/ti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:45:30](/episodes/ep-0pSAhaAZz1w.md#ent-concept-mormon-mafia-t-00-45-30)**
+> "...alked about the quote-unquote Mormon mafia, a term that was used to describe vultures who we..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (7 mentions)</summary>
@@ -135,7 +145,15 @@ Source: [The Nation: The Keepers of the King | TIME](https://content.time.com/ti
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mormon Mafia (3)</strong></summary>
+<summary><strong class="section-title">Statements about Mormon Mafia (4)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:45:30](/episodes/ep-0pSAhaAZz1w.md#t-00-45-30) (Accusation) **Candace Owens**: ["Owens alleged that the “Mormon mafia” surrounding Howard Hughes allowe..."](/statements/statement-77d60bca0527.md)
+  - Also about: [Howard Hughes](/entities/person-howard-hughes.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3)</summary>

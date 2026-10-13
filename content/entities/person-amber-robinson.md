@@ -1,6 +1,6 @@
 ---
 title: "Amber Robinson"
-description: "Amber Robinson (People) - 16 mentions"
+description: "Amber Robinson (People) - 17 mentions"
 id: "person-amber-robinson"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-amber-robinson-t-00-24-05">2026-08-14 · 00:24:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-amber-robinson-t-00-31-36">2026-08-19 · 00:31:54</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-amber-robinson-t-00-16-06">2026-09-15 · 00:16:38</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -34,6 +34,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-amber-robinson-t-00-48-46" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 7 mentions" title="2026-08-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-amber-robinson-t-00-24-05" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 7 mentions" title="2026-08-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-amber-robinson-t-00-31-36" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-amber-robinson-t-00-16-06" style="--pulse-height:14%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-amber-robinson-t-00-48-46) | 7 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-amber-robinson-t-00-24-05) | 7 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-amber-robinson-t-00-31-36) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-amber-robinson-t-00-16-06) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:16:38](/episodes/ep-kn1E0scy9Wc.md#ent-person-amber-robinson-t-00-16-06)**
+> "...e warrants to search Matt and Amber Robinson's house as well."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -153,7 +163,15 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Amber Robinson (5)</strong></summary>
+<summary><strong class="section-title">Statements about Amber Robinson (6)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:15:48](/episodes/ep-kn1E0scy9Wc.md#t-00-15-32) (Claim) **Candace Owens**: ["Owens said Michael George Carl's warrants concerned Tyler Robinson's p..."](/statements/statement-fd6177737d0c.md)
+  - Also about: [Michael George Carle](/entities/person-michael-george-carle.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [George Zinn](/entities/person-george-zinn.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>

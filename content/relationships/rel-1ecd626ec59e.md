@@ -1,0 +1,23 @@
+---
+title: "Donald J. Trump appeared with Blake Wynn"
+description: "Evidence for the relationship: Donald J. Trump appeared with Blake Wynn"
+relationship_id: "rel-1ecd626ec59e"
+subject: "person-donald-trump"
+predicate: "appeared with"
+object: "person-blake-wynn"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Donald J. Trump](/entities/person-donald-trump) appeared with [Blake Wynn](/entities/person-blake-wynn)
+
+### Evidence (1 mentions)
+
+**[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
+
+- [00:30:55](/episodes/ep-0pSAhaAZz1w#t-00-30-55): _Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy._
+
+### Related
+
+- [Donald J. Trump](/entities/person-donald-trump)
+- [Blake Wynn](/entities/person-blake-wynn)

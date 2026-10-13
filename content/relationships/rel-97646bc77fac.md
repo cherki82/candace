@@ -1,0 +1,23 @@
+---
+title: "Agent Draney (Utah SBI agent; first name unverified) works for Utah State Bureau of Investigation"
+description: "Evidence for the relationship: Agent Draney (Utah SBI agent; first name unverified) works for Utah State Bureau of Investigation"
+relationship_id: "rel-97646bc77fac"
+subject: "person-agent-draney-utah-sbi"
+predicate: "works for"
+object: "org-utah-state-bureau-of-investigation"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi) works for [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation)
+
+### Evidence (1 mentions)
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:19:00](/episodes/ep-_Sq5RqP27NY#t-00-19-00): _Next to a Quick Quack Car Wash, Agent Draney (Utah State Bureau of Investigations agent; first name unverified) with the Utah State Bureau of Investigations obtained records and video footage from the Quick Quack Car Wash of Tyler Robinson’s 2013 Dodge Challenger with his license plates arriving at the car wash at approximately 12:57._
+
+### Related
+
+- [Agent Draney (Utah SBI agent; first name unverified)](/entities/person-agent-draney-utah-sbi)
+- [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation)

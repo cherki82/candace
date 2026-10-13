@@ -1,6 +1,6 @@
 ---
 title: "devil"
-description: "devil (Concepts) - 28 mentions"
+description: "devil (Concepts) - 29 mentions"
 id: "concept-devil"
 type: "CONCEPT"
 categories:
@@ -17,9 +17,9 @@ Source: [Britannica: Devil](https://www.britannica.com/topic/devil)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-devil-t-00-54-20">2025-09-18 · 00:54:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-devil-t-01-37-55">2026-05-21 · 01:40:02</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-devil-t-00-29-17">2026-09-14 · 00:29:44</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Britannica: Devil](https://www.britannica.com/topic/devil)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-devil-t-00-44-48" style="--pulse-height:17%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-concept-devil-t-00-09-17" style="--pulse-height:33%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-devil-t-01-18-08" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 6 mentions" title="2026-05-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-devil-t-00-29-17" style="--pulse-height:17%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Britannica: Devil](https://www.britannica.com/topic/devil)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-devil-t-00-44-48) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-concept-devil-t-00-09-17) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-devil-t-01-18-08) | 6 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-concept-devil-t-00-29-17) | 1 |
 
 </details>
 </section>
@@ -72,7 +74,15 @@ Source: [Britannica: Devil](https://www.britannica.com/topic/devil)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:29:44](/episodes/ep-O4Zw3bCALjU.md#ent-concept-devil-t-00-29-17)**
+> "...mehow being influenced by the devil and there is no better, greater example of this t..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (6 mentions)</summary>

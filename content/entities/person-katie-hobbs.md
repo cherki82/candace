@@ -1,6 +1,6 @@
 ---
 title: "Katie Hobbs"
-description: "Katie Hobbs (People) - 6 mentions"
+description: "Katie Hobbs (People) - 7 mentions"
 id: "person-katie-hobbs"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Meet Governor Katie Hobbs | Office of the Arizona Governor](https://azg
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-katie-hobbs-t-00-33-15">2026-03-11 · 00:33:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-katie-hobbs-t-00-38-28">2026-03-11 · 00:38:28</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-katie-hobbs-t-00-43-44">2026-09-14 · 00:43:53</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,12 +32,14 @@ Source: [Meet Governor Katie Hobbs | Office of the Arizona Governor](https://azg
 <p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-katie-hobbs-t-00-33-57">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-katie-hobbs-t-00-33-57" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 6 mentions" title="2026-03-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-katie-hobbs-t-00-43-44" style="--pulse-height:17%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-katie-hobbs-t-00-33-57) | 6 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-katie-hobbs-t-00-43-44) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Meet Governor Katie Hobbs | Office of the Arizona Governor](https://azg
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:43:53](/episodes/ep-O4Zw3bCALjU.md#ent-person-katie-hobbs-t-00-43-44)**
+> "...es, why haven't we heard from Katie Hobbs or anyone with a D next to their name after Charl..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (6 mentions)</summary>
@@ -88,12 +98,19 @@ Source: [Meet Governor Katie Hobbs | Office of the Arizona Governor](https://azg
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Jake Hoffman](/entities/person-jake-hoffman.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:34:41](/episodes/ep-H9p2ZGHAs9A.md#t-00-34-41): “Listen, the only thing that falls short, unfortunately, is Katie Hobbs' track record actually trying to unite the people of Arizona.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:43:44](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44): “It just sort of makes me sick. Like even Andrew Kolvet's tweet coming after a Democrat like they had anything to do with anything, a Democrat in office. She writes, why haven't we he writes, why haven't we heard from Katie Hobbs or anyone with a D next to their name after Charlie (Charlie Kirk)'s statue was vandalized? Is it because they're terrified? It was one of their own activists behind it. We are working with law enforcement and pulling video from neighboring buildings.”
 
 </details>
 
@@ -112,12 +129,19 @@ Source: [Meet Governor Katie Hobbs | Office of the Arizona Governor](https://azg
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Jake Hoffman](/entities/person-jake-hoffman.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:34:41](/episodes/ep-H9p2ZGHAs9A.md#t-00-34-41): “Listen, the only thing that falls short, unfortunately, is Katie Hobbs' track record actually trying to unite the people of Arizona.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:43:44](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44): “It just sort of makes me sick. Like even Andrew Kolvet's tweet coming after a Democrat like they had anything to do with anything, a Democrat in office. She writes, why haven't we he writes, why haven't we heard from Katie Hobbs or anyone with a D next to their name after Charlie (Charlie Kirk)'s statue was vandalized? Is it because they're terrified? It was one of their own activists behind it. We are working with law enforcement and pulling video from neighboring buildings.”
 
 </details>
 
@@ -153,7 +177,15 @@ Source: [Meet Governor Katie Hobbs | Office of the Arizona Governor](https://azg
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Katie Hobbs (3)</strong></summary>
+<summary><strong class="section-title">Statements about Katie Hobbs (4)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:43:53](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44) (Accusation) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet's tweet asked why Katie Hobbs or other Democrats had not..."](/statements/statement-302b7439c6c9.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3)</summary>

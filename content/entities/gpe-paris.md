@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 48 mentions"
+description: "Paris (Places) - 49 mentions"
 id: "gpe-paris"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35">2025-10-06 · 01:01:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45">2026-08-06 · 00:56:13</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-paris-t-00-31-09">2026-10-01 · 00:31:21</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -57,6 +57,7 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-paris-t-00-19-54" style="--pulse-height:17%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-17-36" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-paris-t-00-31-09" style="--pulse-height:17%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +85,7 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-paris-t-00-19-54) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-17-36) | 4 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-paris-t-00-31-09) | 1 |
 
 </details>
 </section>
@@ -95,7 +97,15 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:31:21](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-paris-t-00-31-09)**
+> "...ne flew from Cairo through to Paris onto Omaha, Nebraska, and then onward to Lincoln,..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -361,7 +371,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paris (3)</strong></summary>
+<summary><strong class="section-title">Statements about Paris (4)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:31:21](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09) (Claim) **Candace Owens**: ["Owens said an Egyptian plane flew July 20 from Cairo through Paris to ..."](/statements/statement-b0b4d3424269.md)
+  - Also about: [Cairo](/entities/gpe-cairo.md), [Omaha](/entities/gpe-omaha.md), [Lincoln](/entities/gpe-lincoln.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>

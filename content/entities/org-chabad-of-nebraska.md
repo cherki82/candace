@@ -19,6 +19,8 @@ _Type: Organizations_
 
 **Categories:** Jewish organization, Chabad-Lubavitch, Omaha
 
+> **Possibly overlapping entity records:** [Chabad-Lubavitch](/entities/org-chabad-lubavitch). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official site identifies the Omaha organization canonically as Chabad of Nebraska.
 Source: [Chabad of Nebraska — Official Website](https://www.ochabad.com/)

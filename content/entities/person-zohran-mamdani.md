@@ -1,6 +1,6 @@
 ---
 title: "Zohran Mamdani"
-description: "Zohran Mamdani (People) - 27 mentions"
+description: "Zohran Mamdani (People) - 30 mentions"
 id: "person-zohran-mamdani"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-offic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-zohran-mamdani-t-00-28-49">2025-11-04 · 00:29:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-52-33">2025-11-08 · 00:52:55</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-zohran-mamdani-t-00-39-19">2026-10-07 · 00:39:19</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-offic
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-zohran-mamdani-t-00-28-49" style="--pulse-height:12%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-zohran-mamdani-t-00-00-00" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 16 mentions" title="2025-11-05 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12" style="--pulse-height:56%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 9 mentions" title="2025-11-08 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-zohran-mamdani-t-00-38-06" style="--pulse-height:19%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-offic
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-zohran-mamdani-t-00-28-49) | 2 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-zohran-mamdani-t-00-00-00) | 16 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12) | 9 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-zohran-mamdani-t-00-38-06) | 3 |
 
 </details>
 </section>
@@ -53,7 +55,21 @@ Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-offic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:38:06](/episodes/ep-yrg_-D6oNHE.md#ent-person-zohran-mamdani-t-00-38-06)**
+> "...achine at the DMV in Mamdani (Zohran Mamdani)'s New York City have the Palestinian flag as the..."
+
+**[00:38:17](/episodes/ep-yrg_-D6oNHE.md#ent-person-zohran-mamdani-t-00-38-06)**
+> "Mamdani (Zohran Mamdani), disgraceful. It is deliberate and intentional."
+
+**[00:39:19](/episodes/ep-yrg_-D6oNHE.md#ent-person-zohran-mamdani-t-00-39-19)**
+> "... that. I don't think Mamdani (Zohran Mamdani) did that. You're just, you're missing the black,..."
+
+</details>
 
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (9 mentions)</summary>
@@ -157,12 +173,19 @@ Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-offic
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-38): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:37:58](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24): “This is so funny. She wrote, this was just sent to me. The photo was taken at a DMV today in New York City. ... Why does the credit card machine at the DMV in Mamdani (Zohran Mamdani)'s New York City have the Palestinian flag as the screensaver on October 7th? ... Mamdani (Zohran Mamdani), disgraceful. It is deliberate and intentional.”
 
 </details>
 
@@ -181,12 +204,19 @@ Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-offic
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-38): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:37:58](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24): “This is so funny. She wrote, this was just sent to me. The photo was taken at a DMV today in New York City. ... Why does the credit card machine at the DMV in Mamdani (Zohran Mamdani)'s New York City have the Palestinian flag as the screensaver on October 7th? ... Mamdani (Zohran Mamdani), disgraceful. It is deliberate and intentional.”
 
 </details>
 
@@ -218,7 +248,18 @@ Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-offic
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zohran Mamdani (12)</strong></summary>
+<summary><strong class="section-title">Statements about Zohran Mamdani (14)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
+
+- [00:37:58](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24) (Accusation) **Laura Loomer** (via quoted tweet): ["In a post read by Owens, Laura Loomer said a photo taken at a New York..."](/statements/statement-47395602bb2b.md)
+  - Also about: [New York State Department of Motor Vehicles](/entities/org-new-york-state-department-of-motor-vehicles.md)
+
+- [00:38:27](/episodes/ep-yrg_-D6oNHE.md#t-00-38-06) (Opinion) **Candace Owens**: ["Owens said she thought the credit-card-machine screen showed red and g..."](/statements/statement-7827d4e2372f.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md)
+
+</details>
 
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (12)</summary>

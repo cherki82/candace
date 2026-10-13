@@ -227,7 +227,7 @@ youtube_url: "https://www.youtube.com/watch?v=Vu6Y24pqhZs"
 - **2025-09-10**: [A 33-hour manhunt followed Charlie Kirk's shooting.](/events/event-2025-09-10-a-33-hour-manhunt-followed-charlie-kirks.md)
 - **2025-09-10**: [Zachariah Qureshi was detained during the manhunt after Charlie Kirk was shot](/events/event-2025-09-10-zachariah-qureshi-was-detained-during-th.md)
 - **2025-09-10**: [George Zinn arrested for false confession to Charlie Kirk shooting](/events/event-2025-09-10-george-zinn-arrested-for-false-confessio.md)
-- **2025-09-10**: [Bomb-detection dogs failed to find the recently discharged weapon after Charlie Kirk's shooting, and federal agents directed three rookie officers to locate it.](/events/event-2025-09-10-bomb-detection-dogs-failed-to-find-the-r.md)
+- **2025-09-10**: [Candace Owens reports that bomb-detection dogs failed to find the weapon after Charlie Kirk's shooting, and federal agents directed three inexperienced officers to search again and locate it.](/events/event-2025-09-10-bomb-detection-dogs-failed-to-find-the-r.md)
 - **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
 - **2025-09-10 12:22**: [Anonymous witness recorded a person on the Losee Center roof shortly before Charlie Kirk was shot; the video later circulated widely.](/events/event-2025-09-10-losee-center-rooftop-video.md)
 - **2025-10**: [A United States House committee released a version of Jeffrey Epstein's flight manifest.](/events/event-2025-10-a-united-states-house-committee-released.md)

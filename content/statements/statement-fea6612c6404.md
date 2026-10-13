@@ -23,7 +23,7 @@ type: "opinion"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (4)
+## Appearances (5)
 
 ### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
@@ -56,6 +56,14 @@ type: "opinion"
 <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what we've seen in terms of the evidence, I'm at zero percent. ... If you said, was he involved that day, ... as I have consistently said on my platform, I would say yes, he was. I don't know what role he played, but as the shooter, zero percent.
+
+### 5. BREAKING! Blake Neff Grants Interview To Gay Podcaster. More...
+
+**Episode:** [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md)
+**Timestamp:** [00:16:13](/episodes/ep-6XfDqKTdFKg.md#t-00-16-13) 
+<a href="https://www.youtube.com/watch?v=6XfDqKTdFKg&t=973s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> I do not believe he had anything to do with the actual killing of Charlie Kirk. But I recommend he could be guilty of tampering with evidence.
 
 ## Verification
 

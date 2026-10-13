@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 152 mentions"
+description: "Romania (Places) - 162 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-romania-t-00-08-14">2025-10-31 · 00:08:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>152</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-romania-t-00-51-06">2026-10-07 · 00:51:06</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>162</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>55</strong></div>
+<div><span>Statements about</span><strong>57</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -58,6 +58,10 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-romania-t-00-24-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-romania-t-00-05-06" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-romania-t-00-23-04" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-romania-t-00-34-46" style="--pulse-height:14%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-romania-t-00-07-24" style="--pulse-height:10%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -90,6 +94,10 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09) | 3 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-romania-t-00-24-47) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-romania-t-00-05-06) | 2 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-romania-t-00-23-04) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-romania-t-00-34-46) | 4 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-romania-t-00-07-24) | 3 |
 
 </details>
 </section>
@@ -101,7 +109,57 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (152)</strong></summary>
+<summary><strong class="section-title">Raw mentions (162)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:07:34](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-romania-t-00-07-24)**
+> "...hen learned has an imprint in Romania."
+
+**[00:07:42](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-romania-t-00-07-24)**
+> "What is going on in Romania? Why is everybody in Romania just doing stuff? An..."
+
+**[00:51:06](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-romania-t-00-51-06)**
+> "...also feel obliged to say that Romania is a beautiful and a faithful country. Our leader..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[00:34:55](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-romania-t-00-34-46)**
+> "Romania."
+
+**[00:34:58](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-romania-t-00-34-46)**
+> "Romania. I kid you not. I kid you not."
+
+**[00:52:08](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-romania-t-00-52-08)**
+> "...to you about what happened in Romania with Andrew (Andrew Tate) and Tristan (Tristan Ta..."
+
+**[01:08:37](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-romania-t-01-08-28)**
+> "... Maybe it's, maybe they're in Romania. I don't know that points to this, but if they're..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:23:25](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-romania-t-00-23-04)**
+> "...ne, which used to be owned in Romania."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:05:06](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-romania-t-00-05-06)**
+> "... of trafficking children from Romania."
+
+**[00:07:52](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-romania-t-00-07-43)**
+> "...re and training to orphans in Romania, Albania and Ukraine."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -780,7 +838,18 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Romania (55)</strong></summary>
+<summary><strong class="section-title">Statements about Romania (57)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:34:46](/episodes/ep-0pSAhaAZz1w.md#t-00-34-46) (Claim) **Candace Owens**: ["Owens asserted that Enclave and Key had a footprint in Romania."](/statements/statement-d8b64e728953.md)
+  - Also about: [Enclave & Key](/entities/org-enclave-and-key.md)
+
+- [00:52:08](/episodes/ep-0pSAhaAZz1w.md#t-00-52-08) (Promise) **Candace Owens**: ["Owens said she wanted to wait until she had read the new UK filings be..."](/statements/statement-5e645779895a.md)
+  - Also about: [Andrew Tate](/entities/person-andrew-tate.md), [Tristan Tate](/entities/person-tristan-tate.md), [United Kingdom](/entities/gpe-united-kingdom.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2)</summary>

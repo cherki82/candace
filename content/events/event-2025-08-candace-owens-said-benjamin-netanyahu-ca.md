@@ -16,7 +16,7 @@ date: "2025-08"
 
 > Candace Owens said Benjamin Netanyahu called Charlie Kirk during the Hamptons retreat, offered to elevate Turning Point USA, and Kirk declined.
 
-## Mentioned In (4 times)
+## Mentioned In (7 times)
 
 ### 1. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
 
@@ -52,3 +52,33 @@ date: "2025-08"
 <a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=333s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and that he was not particularly friendly. He didn't speak to anyone at Turning Point USA's facilities. He was on Charlie, and so that's why nobody seems to know his last name. ... And I was also told that he was allegedly in attendance during that fateful Hamptons summit where Bibi Netanyahu called Charlie Kirk something, a story that we broke and which, I mean, Erika confirmed the reasons for that phone.
+
+### 5. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [01:05:11](/episodes/ep-bIuvTKlFeGo.md#t-01-05-01) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=3911s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And he decides to call Charlie and he makes an offer. I was told directly by Andrew
+
+### 6. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:49:06](/episodes/ep-5TTkMa49qj8.md#t-00-48-33) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=2946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie was in the Hamptons. Receiving a phone call from Bibi Netanyahu (Benjamin
+
+> **Date stated in this source:** “August 5th, 2025 in the preceding question”
+> **Date review note:** This source puts the alleged Hamptons call on August 5; previous source evidence dates it August 5-6. Retain canonical month precision and the attributed account, with source-specific day wording preserved.
+
+### 7. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:33:54](/episodes/ep-q4m-kGzvwjw.md#t-00-33-54) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=2034s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> but it's now since been confirmed that Bibi Netanyahu did in fact call. Erika
+
+> **Date stated in this source:** “From the 4th to the 6th (August 2025); best guess on the 4th”
+> **Date review note:** The source expressly says the precise phone-call day is unknown and guesses August 4 within the August 4-6 retreat. Retain canonical August month precision and do not promote the guess to an exact date.

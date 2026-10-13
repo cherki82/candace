@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 211 mentions"
+description: "Russia (Places) - 214 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-russia-t-00-34-21">2026-09-08 · 00:34:41</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>211</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-russia-t-00-59-57">2026-10-06 · 01:00:26</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>214</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -79,6 +79,9 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-39" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-russia-t-00-34-21" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-russia-t-01-00-03" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-russia-t-00-19-08" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-russia-t-00-59-57" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -129,6 +132,9 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-39) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-russia-t-00-34-21) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-russia-t-01-00-03) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-russia-t-00-19-08) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-russia-t-00-59-57) | 1 |
 
 </details>
 </section>
@@ -140,7 +146,31 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (211)</strong></summary>
+<summary><strong class="section-title">Raw mentions (214)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:00:26](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-russia-t-00-59-57)**
+> "...he Saudis. She's working with Russia."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:19:44](/episodes/ep-5TTkMa49qj8.md#ent-gpe-russia-t-00-19-08)**
+> "... the story of our security in Russia."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:00:13](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-russia-t-01-00-03)**
+> "...ly being taken in Ukraine and Russia. We have tons of announcements happening when it ..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

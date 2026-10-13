@@ -1,0 +1,27 @@
+---
+title: "Andrew Wilson exchanged messages with Erika Kirk"
+description: "Evidence for the relationship: Andrew Wilson exchanged messages with Erika Kirk"
+relationship_id: "rel-9a9bcb574e8d"
+subject: "person-andrew-wilson"
+predicate: "exchanged messages with"
+object: "person-erika-kirk"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Andrew Wilson](/entities/person-andrew-wilson) exchanged messages with [Erika Kirk](/entities/person-erika-kirk)
+
+### Evidence (2 mentions)
+
+**[SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU)**
+
+- [00:00:12](/episodes/ep-_2DiIbfy4mU#t-00-00-12): _But man, Erika Kirk, she really is not in the business of beating the charges. That's what I feel might be her kryptonite, just trying to beat the internet charges. Like if I'm managing your PR brand and your entire... Our fake public persona is going to revolve around Christianity, and our plan is to pretend that you can't even utter a sentence that doesn't begin with the Lord. I would probably advise heavily against you simultaneously associating yourself with Andrew Wilson, this textual relationship with Andrew Wilson that's developing, because people are going to have questions when you begin sending him videos of your children. And yes, ladies and gentlemen, she has now taken the rather dramatic step to provide Andrew Wilson of all people, Smokey Boy (Andrew Wilson), with what might be the last footage ever captured of Charlie Kirk alive with his children._
+
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:06:54](/episodes/ep-q4m-kGzvwjw#t-00-06-54): _You guys are just all canceled. results. You're all canceled. You're all done. I have to say somewhere between where the heavy hitters, where are the heavy hitters at and her sharing the final moments of her children with Andrew Wilson in text messages with the slob like Andrew Wilson, you've lost the crowd._
+
+### Related
+
+- [Andrew Wilson](/entities/person-andrew-wilson)
+- [Erika Kirk](/entities/person-erika-kirk)

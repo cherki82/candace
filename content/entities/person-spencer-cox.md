@@ -1,6 +1,6 @@
 ---
 title: "Spencer Cox"
-description: "Spencer Cox (People) - 50 mentions"
+description: "Spencer Cox (People) - 51 mentions"
 id: "person-spencer-cox"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-spencer-cox-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-50-58">2026-07-20 · 00:51:06</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24">2026-09-15 · 00:08:34</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-31-03" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-spencer-cox-t-00-44-22" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42" style="--pulse-height:38%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-31-03) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-spencer-cox-t-00-44-22) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24) | 1 |
 
 </details>
 </section>
@@ -78,7 +80,15 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:08:34](/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24)**
+> "...ly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie ..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
@@ -292,9 +302,10 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary>Appointed (2)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-05-48): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them.”
 
 </details>
 
@@ -350,9 +361,10 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary>Referenced By (5)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-05-48): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them.”
 
 </details>
 
@@ -452,7 +464,15 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (11)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (12)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24) (Claim) **Candace Owens**: ["Owens said Judge Tony Graf was appointed by Governor Cox in August of ..."](/statements/statement-05fe3f79ebaa.md)
+  - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>

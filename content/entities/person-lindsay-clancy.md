@@ -1,6 +1,6 @@
 ---
 title: "Lindsay Clancy"
-description: "Lindsay Clancy (People) - 8 mentions"
+description: "Lindsay Clancy (People) - 12 mentions"
 id: "person-lindsay-clancy"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [What to know about the Lindsay Clancy murder trial - AP](https://apnews
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-lindsay-clancy-t-00-56-06">2026-08-07 · 00:56:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-lindsay-clancy-t-01-02-29">2026-09-02 · 01:02:29</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-lindsay-clancy-t-00-14-17">2026-10-05 · 00:14:43</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [What to know about the Lindsay Clancy murder trial - AP](https://apnews
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-lindsay-clancy-t-00-56-06" style="--pulse-height:60%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-lindsay-clancy-t-00-36-25" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 5 mentions" title="2026-09-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-lindsay-clancy-t-00-09-47" style="--pulse-height:80%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 4 mentions" title="2026-10-05 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [What to know about the Lindsay Clancy murder trial - AP](https://apnews
 |---|---|---:|
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-lindsay-clancy-t-00-56-06) | 3 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lindsay-clancy-t-00-36-25) | 5 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-lindsay-clancy-t-00-09-47) | 4 |
 
 </details>
 </section>
@@ -51,7 +53,24 @@ Source: [What to know about the Lindsay Clancy murder trial - AP](https://apnews
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4 mentions)</summary>
+
+**[00:09:47](/episodes/ep-ms5ChhZegRg.md#ent-person-lindsay-clancy-t-00-09-47)**
+> "It started with the Lindsey Clancy case. I was very open and honest regarding the fa..."
+
+**[00:10:23](/episodes/ep-ms5ChhZegRg.md#ent-person-lindsay-clancy-t-00-10-23)**
+> "toward Lindsey Clancy, they're throwing dolls at walls or down the stai..."
+
+**[00:10:55](/episodes/ep-ms5ChhZegRg.md#ent-person-lindsay-clancy-t-00-10-23)**
+> "in solidarity with Lindsey Clancy. It's absurd, but this is what neocons began push..."
+
+**[00:14:43](/episodes/ep-ms5ChhZegRg.md#ent-person-lindsay-clancy-t-00-14-17)**
+> "Then, are Lindsey Clancy fans going to support her too? Oh."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (5 mentions)</summary>
@@ -97,7 +116,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lindsay Clancy (6)</strong></summary>
+<summary><strong class="section-title">Statements about Lindsay Clancy (7)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:09:47](/episodes/ep-ms5ChhZegRg.md#t-00-09-47) (Opinion) **Candace Owens**: ["Owens said she did not follow the Lindsay Clancy case after her early ..."](/statements/statement-c4900d3fad34.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3)</summary>

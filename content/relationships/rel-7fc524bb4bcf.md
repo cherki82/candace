@@ -1,0 +1,23 @@
+---
+title: "Elizabeth (Michael McCoy companion; identity unverified) appeared with Erika Kirk"
+description: "Evidence for the relationship: Elizabeth (Michael McCoy companion; identity unverified) appeared with Erika Kirk"
+relationship_id: "rel-7fc524bb4bcf"
+subject: "anon-src-q4m-kGzvwjw-003"
+predicate: "appeared with"
+object: "person-erika-kirk"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Elizabeth (Michael McCoy companion; identity unverified)](/entities/anon-src-q4m-kGzvwjw-003) appeared with [Erika Kirk](/entities/person-erika-kirk)
+
+### Evidence (1 mentions)
+
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:31:40](/episodes/ep-q4m-kGzvwjw#t-00-31-40): _Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname unverified) join Erika (Erika Kirk) and Charlie (Charlie Kirk) for the first time, according to them, capturing what's going to be the final footage that is immediately distributed following Charlie (Charlie Kirk)'s assassination._
+
+### Related
+
+- [Elizabeth (Michael McCoy companion; identity unverified)](/entities/anon-src-q4m-kGzvwjw-003)
+- [Erika Kirk](/entities/person-erika-kirk)

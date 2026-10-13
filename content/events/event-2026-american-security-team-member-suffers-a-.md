@@ -16,7 +16,7 @@ date: "2026"
 
 > American security team member suffers a stroke during Owens family trip to Russia
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. I’m Back! Russian Collusion & Turning Point Delusion. | Ep 3...
 
@@ -41,3 +41,14 @@ date: "2026"
 <a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=1810s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he had a very severe stroke, had to have brain surgery.
+
+### 4. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:19:52](/episodes/ep-5TTkMa49qj8.md#event-event-2026-american-security-team-member-suffers-a--t-00-19-52) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=1192s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> who had a stroke and we thought he was going to die. His wife, as I told you, jumped onto the first
+
+> **Date stated in this source:** “our security in Russia who had a stroke”
+> **Date review note:** This source recalls the same Moscow security-team stroke without restating its date; retain the existing year-only canonical date, with no added day or month.

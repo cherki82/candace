@@ -1,6 +1,6 @@
 ---
 title: "New York Post"
-description: "New York Post (Organizations) - 28 mentions"
+description: "New York Post (Organizations) - 35 mentions"
 id: "org-new-york-post"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [New York Post](https://nypost.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-new-york-post-t-00-18-10">2025-09-17 · 00:18:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-new-york-post-t-00-31-37">2026-09-09 · 00:31:37</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-new-york-post-t-00-15-41">2026-10-05 · 00:15:41</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,10 @@ Source: [New York Post](https://nypost.com/)
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-new-york-post-t-00-11-51" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 6 mentions" title="2026-05-21 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-new-york-post-t-00-22-39" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-new-york-post-t-00-31-37" style="--pulse-height:17%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-new-york-post-t-00-12-21" style="--pulse-height:17%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-new-york-post-t-00-50-14" style="--pulse-height:17%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-new-york-post-t-01-26-32" style="--pulse-height:17%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-new-york-post-t-00-12-59" style="--pulse-height:67%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 4 mentions" title="2026-10-05 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +70,10 @@ Source: [New York Post](https://nypost.com/)
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-new-york-post-t-00-11-51) | 6 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-new-york-post-t-00-22-39) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-new-york-post-t-00-31-37) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-new-york-post-t-00-12-21) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-new-york-post-t-00-50-14) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-new-york-post-t-01-26-32) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-new-york-post-t-00-12-59) | 4 |
 
 </details>
 </section>
@@ -73,7 +81,48 @@ Source: [New York Post](https://nypost.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4 mentions)</summary>
+
+**[00:13:28](/episodes/ep-ms5ChhZegRg.md#ent-org-new-york-post-t-00-12-59)**
+> "...n and she shares a story from New York Post."
+
+**[00:13:38](/episodes/ep-ms5ChhZegRg.md#ent-org-new-york-post-t-00-13-38)**
+> "... there.' Again, shared by the New York Post. Okay, give me another one: 'Not only did she sta..."
+
+**[00:15:21](/episodes/ep-ms5ChhZegRg.md#ent-org-new-york-post-t-00-14-58)**
+> "...is pushing this, but also the New York Post in particular, the Mossad's rag, the one that had..."
+
+**[00:15:41](/episodes/ep-ms5ChhZegRg.md#ent-org-new-york-post-t-00-15-41)**
+> "... look at these headlines from New York Post recent ones, five of them, four of them, type it ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:26:32](/episodes/ep-bIuvTKlFeGo.md#ent-org-new-york-post-t-01-26-32)**
+> "...ed tried to heavily imply the New York Post, you know, Israel's publication that I accepted $..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:50:14](/episodes/ep-aLJhpxrakCU.md#ent-org-new-york-post-t-00-50-14)**
+> "...lks. I think that because the New York Post kind of said that, right?"
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:12:21](/episodes/ep-kn1E0scy9Wc.md#ent-org-new-york-post-t-00-12-21)**
+> "...d creating a distraction. The New York Post covered this. It's not an article worth reading b..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -262,10 +311,12 @@ Source: [New York Post](https://nypost.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:05:01](/episodes/ep-2WEHTk0Xewg.md#t-01-04-48): “The New York Post would like to—I said literally: "New York Post, you guys are just feds."”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:38:49](/episodes/ep-sreYYcID-QY.md#t-00-38-34): “But they ran with it. The New York Post— outfit of the Mossad, outfit of the deep state— ran with it. “Charlie (Charlie Kirk) had a breakup with Candace (Candace Owens).””
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:26:32](/episodes/ep-bIuvTKlFeGo.md#t-01-26-32): “I mean, this week I also had a random story completely untrue that I accepted tried to heavily imply the New York Post, you know, Israel's publication that I accepted $1.5 million from Harvey Weinstein to interview him. What are you talking about? ... Not a single red cent did I accept from Harvey Weinstein. They ran the story anyways. After not contacting me at all, despite having my PRs contact for years.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:15:21](/episodes/ep-ms5ChhZegRg.md#t-00-14-58): “That seems to have backfired a little bit. So, yeah, it makes it makes sense that TikTok is pushing this, but also the New York Post in particular, the Mossad's rag, the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein discovering he had been suicided in his cell covering for Ghislaine Maxwell. ... She's just poor Ghislaine (Ghislaine Maxwell). Suddenly, they are very focused on this beat. Take a look at these headlines from New York Post recent ones, five of them, four of them, type it in Texas mother, a South Carolina mom, South Carolina mother Taylor (headline fragment; referent unverified), Texas mom sharing story after story of women that are killing their children, killing their children. ... That's how you know it's a psychological operation. And beyond that, you know it's a psychological operation, a psyop, because it has no basis in statistical reality.”
 
 </details>
 
@@ -275,10 +326,12 @@ Source: [New York Post](https://nypost.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:05:01](/episodes/ep-2WEHTk0Xewg.md#t-01-04-48): “The New York Post would like to—I said literally: "New York Post, you guys are just feds."”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:38:49](/episodes/ep-sreYYcID-QY.md#t-00-38-34): “But they ran with it. The New York Post— outfit of the Mossad, outfit of the deep state— ran with it. “Charlie (Charlie Kirk) had a breakup with Candace (Candace Owens).””
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:26:32](/episodes/ep-bIuvTKlFeGo.md#t-01-26-32): “I mean, this week I also had a random story completely untrue that I accepted tried to heavily imply the New York Post, you know, Israel's publication that I accepted $1.5 million from Harvey Weinstein to interview him. What are you talking about? ... Not a single red cent did I accept from Harvey Weinstein. They ran the story anyways. After not contacting me at all, despite having my PRs contact for years.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:15:21](/episodes/ep-ms5ChhZegRg.md#t-00-14-58): “That seems to have backfired a little bit. So, yeah, it makes it makes sense that TikTok is pushing this, but also the New York Post in particular, the Mossad's rag, the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein discovering he had been suicided in his cell covering for Ghislaine Maxwell. ... She's just poor Ghislaine (Ghislaine Maxwell). Suddenly, they are very focused on this beat. Take a look at these headlines from New York Post recent ones, five of them, four of them, type it in Texas mother, a South Carolina mom, South Carolina mother Taylor (headline fragment; referent unverified), Texas mom sharing story after story of women that are killing their children, killing their children. ... That's how you know it's a psychological operation. And beyond that, you know it's a psychological operation, a psyop, because it has no basis in statistical reality.”
 
 </details>
 
@@ -287,7 +340,44 @@ Source: [New York Post](https://nypost.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York Post (6)</strong></summary>
+<summary><strong class="section-title">Statements by New York Post (1)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:50:25](/episodes/ep-aLJhpxrakCU.md#t-00-50-14) [○] (Claim) ["Owens read a New York Post passage describing Robinson’s 2022 fender-bender hat ..."](/statements/statement-2bf7e7a6ab69.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about New York Post (9)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:15:21](/episodes/ep-ms5ChhZegRg.md#t-00-14-58) (Accusation) **Candace Owens**: ["Owens called the New York Post “the Mossad’s rag” and alleged it cover..."](/statements/statement-e5a2d086381a.md)
+  - Also about: [Mossad](/entities/org-mossad.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:26:32](/episodes/ep-bIuvTKlFeGo.md#t-01-26-32) (Accusation) **Candace Owens**: ["Owens denied accepting any money from Harvey Weinstein and accused the..."](/statements/statement-d3de57583628.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Harvey Weinstein](/entities/person-harvey-weinstein.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:11:56](/episodes/ep-kn1E0scy9Wc.md#t-00-11-56) (Accusation) **Candace Owens**: ["Owens said George Zinn shouted 'I did it' after the explosion, was arr..."](/statements/statement-cca9da6330cc.md)
+  - Also about: [George Zinn](/entities/person-george-zinn.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1)</summary>

@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Bill Ackman](/entities/person-bill-ackman) met with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:50:59](/episodes/ep-5TTkMa49qj8#t-00-50-59): _What's going on? Why is Bill Ackman in particular interested in this thing that happened to be archived when Charlie (Charlie Kirk) was with Bill Ackman?_
 
 **[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
 

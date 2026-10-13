@@ -1,6 +1,6 @@
 ---
 title: "Jacqueline Kennedy Onassis"
-description: "Jacqueline Kennedy Onassis (People) - 4 mentions"
+description: "Jacqueline Kennedy Onassis (People) - 5 mentions"
 id: "person-jacqueline-kennedy-onassis"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13">2026-01-05 · 00:18:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jacqueline-kennedy-onassis-t-00-25-07">2026-03-26 · 00:25:35</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-jacqueline-kennedy-onassis-t-00-11-50">2026-09-30 · 00:12:18</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jacqueline-kennedy-onassis-t-00-19-09" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-jacqueline-kennedy-onassis-t-00-11-50" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jacqueline-kennedy-onassis-t-00-19-09) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-jacqueline-kennedy-onassis-t-00-11-50) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:12:18](/episodes/ep-5TTkMa49qj8.md#ent-person-jacqueline-kennedy-onassis-t-00-11-50)**
+> "... dressed in my best Jackie O (Jacqueline Kennedy Onassis) impression, conservative shift dress, ballet fla..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>

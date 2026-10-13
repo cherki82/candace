@@ -1,6 +1,6 @@
 ---
 title: "West Bank"
-description: "West Bank (Places) - 12 mentions"
+description: "West Bank (Places) - 13 mentions"
 id: "gpe-west-bank"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-west-bank-t-01-07-05">2025-10-28 · 01:07:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-west-bank-t-00-51-56">2026-08-14 · 00:52:10</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-west-bank-t-00-44-05">2026-09-15 · 00:44:05</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-west-bank-t-00-52-08" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-west-bank-t-01-01-38" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-west-bank-t-00-51-56" style="--pulse-height:25%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-west-bank-t-00-44-05" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-west-bank-t-00-52-08) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-west-bank-t-01-01-38) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-west-bank-t-00-51-56) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-west-bank-t-00-44-05) | 1 |
 
 </details>
 </section>
@@ -66,7 +68,15 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:44:05](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-west-bank-t-00-44-05)**
+> "...a all the way to the occupied West Bank know that we have not forgotten them."
+
+</details>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
@@ -154,7 +164,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about West Bank (3)</strong></summary>
+<summary><strong class="section-title">Statements about West Bank (4)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:43:31](/episodes/ep-kn1E0scy9Wc.md#t-00-43-31) (Opinion) **Macklemore** (via quoted speech): ["Macklemore said one reason he joined the tour was to say 'free Palesti..."](/statements/statement-212c179bcd7e.md)
+  - Also about: [Palestine](/entities/gpe-palestine.md), [Gaza](/entities/gpe-gaza.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Beijing"
-description: "Beijing (Places) - 1 mention"
+description: "Beijing (Places) - 2 mentions"
 id: "gpe-beijing"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Beijing municipal government: Facts](https://english.beijing.gov.cn/bei
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-beijing-t-00-49-30">2026-09-03 · 00:49:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-beijing-t-00-49-30">2026-09-03 · 00:49:48</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-beijing-t-00-37-33">2026-09-16 · 00:37:44</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Beijing municipal government: Facts](https://english.beijing.gov.cn/bei
 <p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-beijing-t-00-49-30">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-beijing-t-00-49-30" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-beijing-t-00-37-33" style="--pulse-height:100%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-beijing-t-00-49-30) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-beijing-t-00-37-33) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Beijing municipal government: Facts](https://english.beijing.gov.cn/bei
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:37:44](/episodes/ep-aLJhpxrakCU.md#ent-gpe-beijing-t-00-37-33)**
+> "...government, and worst of all, Beijing is appointing its own loyalist bishops, ignoring ..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

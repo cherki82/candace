@@ -1,6 +1,6 @@
 ---
 title: "Baal"
-description: "Baal (Concepts) - 40 mentions"
+description: "Baal (Concepts) - 42 mentions"
 id: "concept-baal"
 type: "CONCEPT"
 categories:
@@ -17,9 +17,9 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-baal-t-01-39-19">2026-01-29 · 01:39:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-41-31">2026-08-04 · 00:41:31</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-baal-t-00-00-01">2026-10-05 · 00:00:09</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,8 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-concept-baal-t-00-52-50" style="--pulse-height:12%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-baal-t-00-36-38" style="--pulse-height:25%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 2 mentions" title="2026-08-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-40-22" style="--pulse-height:25%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-baal-t-00-54-50" style="--pulse-height:12%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-baal-t-00-00-01" style="--pulse-height:12%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +75,8 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-concept-baal-t-00-52-50) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-baal-t-00-36-38) | 2 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-40-22) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-baal-t-00-54-50) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-baal-t-00-00-01) | 1 |
 
 </details>
 </section>
@@ -80,7 +84,23 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:00:09](/episodes/ep-ms5ChhZegRg.md#ent-concept-baal-t-00-00-01)**
+> "...ekend if you secretly worship Baal. I'll say that right now. The Epstein (Jeffrey Ep..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:54:59](/episodes/ep-aLJhpxrakCU.md#ent-concept-baal-t-00-54-50)**
+> "...e sense to people who worship Baal."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>

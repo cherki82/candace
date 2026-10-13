@@ -11,7 +11,7 @@ object: "org-united-states-navy"
 
 ## [Frank Turek](/entities/person-frank-turek) formerly worked for [United States Navy](/entities/org-united-states-navy)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -20,6 +20,10 @@ object: "org-united-states-navy"
 **[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
 
 - [00:23:08](/episodes/ep-Cq7nj9rxPdo#t-00-23-08): _And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:37:38](/episodes/ep-ms5ChhZegRg#t-00-37-38): _Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?_
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

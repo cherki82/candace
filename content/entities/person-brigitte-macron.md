@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 255 mentions"
+description: "Brigitte Macron (People) - 264 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05">2026-08-19 · 00:23:21</a></strong></div>
-<div><span>Episodes</span><strong>66</strong></div>
-<div><span>Mentions</span><strong>255</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-brigitte-macron-t-00-54-00">2026-10-05 · 00:54:00</a></strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>264</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -104,6 +104,9 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-brigitte-macron-t-00-07-52" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-brigitte-macron-t-00-36-13" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-23-49" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-brigitte-macron-t-00-54-00" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -175,6 +178,9 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16) | 2 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-brigitte-macron-t-00-07-52) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-brigitte-macron-t-00-36-13) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-23-49) | 6 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-brigitte-macron-t-00-54-00) | 1 |
 
 </details>
 </section>
@@ -186,7 +192,49 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (255)</strong></summary>
+<summary><strong class="section-title">Raw mentions (264)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:54:00](/episodes/ep-ms5ChhZegRg.md#ent-person-brigitte-macron-t-00-54-00)**
+> ".... It all began with Brigitte (Brigitte Macron). And it seems like we are now all on the brink o..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (6 mentions)</summary>
+
+**[00:24:07](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-23-49)**
+> "... to stop discussing Brigitte (Brigitte Macron)."
+
+**[00:24:34](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-24-34)**
+> "...d asks her to stop discussing Brigitte Macron as a favor to President Trump (Donald J. Trump). ..."
+
+**[00:29:19](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-29-11)**
+> "...me person I did the Brigitte (Brigitte Macron) series with."
+
+**[00:35:14](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-35-03)**
+> "...ng information that Brigitte (Brigitte Macron) was allegedly working for the Mossad. This parti..."
+
+**[00:40:20](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-40-06)**
+> "...e calling you about Brigitte (Brigitte Macron), Brigitte (Brigitte Macron) to be suing me over ..."
+
+**[00:43:11](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-42-48)**
+> "...p) tweeting, I hope Brigitte (Brigitte Macron) bank what? What does all this have to do with on..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:36:24](/episodes/ep-6XfDqKTdFKg.md#ent-person-brigitte-macron-t-00-36-13)**
+> "...am. If I'm covering Brigitte (Brigitte Macron), he's talking about Brigitte (Brigitte Macron). ..."
+
+**[00:54:47](/episodes/ep-6XfDqKTdFKg.md#ent-person-brigitte-macron-t-00-54-47)**
+> "...picture of him with Brigitte (Brigitte Macron) doll is fly, and it needs to happen. And we need..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -1353,7 +1401,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <summary>Sued (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:15](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court to prove that Brigitte is a woman. That's what her lawyer says. Well, the lawyer's a liar because we haven't even started this case yet. So how could you have offered scientific proof to a court to prove you're a woman—especially because you're not suing me over the claim that I said you were born a man. You were born a man. I guess you were born a boy—a male is what I should say. You were born a male, and you've never sued anybody for making that statement. You sue for things around it. You're suing me because you're saying, "Well, you said I stole the identity from my sister."”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#t-00-17-12): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court”
@@ -1367,6 +1415,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:30](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brigitte Macron, who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of the UK and America.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-03): “This lawsuit that Brigitte (Brigitte Macron) has brought against me matters deeply. I am telling you guys, this lawsuit, everyone should be paying attention to every single filing pertaining to this lawsuit in Delaware.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:55:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-02): “Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of her lying about having been born with a penis. ... And yeah, I'm being sued because that's the next logical step. ... You're suing me for the claim that I said you stole your sister's identity to transition.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:40:20](/episodes/ep-q4m-kGzvwjw.md#t-00-40-06): “Yeah, this is not normal at the highest level of government to be calling you about Brigitte (Brigitte Macron), Brigitte (Brigitte Macron) to be suing me over mention that the Brigitte (Brigitte Macron) birthday falls on the creation of MKUltra, Brigitte (Brigitte Macron) disappearing, Jean-Michel Trogno (Brigitte-family referent; name spelling unverified) disappearing in the United States, never to be seen again.”
 
 </details>
 
@@ -1423,7 +1472,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:15](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court to prove that Brigitte is a woman. That's what her lawyer says. Well, the lawyer's a liar because we haven't even started this case yet. So how could you have offered scientific proof to a court to prove you're a woman—especially because you're not suing me over the claim that I said you were born a man. You were born a man. I guess you were born a boy—a male is what I should say. You were born a male, and you've never sued anybody for making that statement. You sue for things around it. You're suing me because you're saying, "Well, you said I stole the identity from my sister."”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#t-00-17-12): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court”
@@ -1437,6 +1486,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:30](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brigitte Macron, who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of the UK and America.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-03): “This lawsuit that Brigitte (Brigitte Macron) has brought against me matters deeply. I am telling you guys, this lawsuit, everyone should be paying attention to every single filing pertaining to this lawsuit in Delaware.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:55:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-02): “Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of her lying about having been born with a penis. ... And yeah, I'm being sued because that's the next logical step. ... You're suing me for the claim that I said you stole your sister's identity to transition.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:40:20](/episodes/ep-q4m-kGzvwjw.md#t-00-40-06): “Yeah, this is not normal at the highest level of government to be calling you about Brigitte (Brigitte Macron), Brigitte (Brigitte Macron) to be suing me over mention that the Brigitte (Brigitte Macron) birthday falls on the creation of MKUltra, Brigitte (Brigitte Macron) disappearing, Jean-Michel Trogno (Brigitte-family referent; name spelling unverified) disappearing in the United States, never to be seen again.”
 
 </details>
 
@@ -1445,7 +1495,21 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigitte Macron (49)</strong></summary>
+<summary><strong class="section-title">Statements about Brigitte Macron (52)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3)</summary>
+
+- [00:24:07](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk contacted her February 24 to say Emmanuel Macr..."](/statements/statement-d8485c19e510.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:24:28](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49) (Claim) **Candace Owens**: ["Owens said Sergio Gor called her February 25 asking her to stop discus..."](/statements/statement-6e938e7bc402.md)
+  - Also about: [Sergio Gor](/entities/person-sergio-gor.md), [Donald J. Trump](/entities/person-donald-trump.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:35:14](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03) (Accusation) **Candace Owens** (via paraphrase): ["Owens said they were receiving information that Brigitte Macron was al..."](/statements/statement-cb517b20ae20.md)
+  - Also about: [Mossad](/entities/org-mossad.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>

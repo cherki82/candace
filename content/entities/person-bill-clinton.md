@@ -1,6 +1,6 @@
 ---
 title: "Bill Clinton"
-description: "Bill Clinton (People) - 11 mentions"
+description: "Bill Clinton (People) - 12 mentions"
 id: "person-bill-clinton"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32">2026-02-25 · 00:08:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-bill-clinton-t-00-06-56">2026-07-22 · 00:07:13</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-bill-clinton-t-00-35-03">2026-10-01 · 00:35:14</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-01-13-33" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-bill-clinton-t-00-19-54" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-bill-clinton-t-00-06-56" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-bill-clinton-t-00-35-03" style="--pulse-height:33%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-01-13-33) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-bill-clinton-t-00-19-54) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-clinton-t-00-06-56) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-bill-clinton-t-00-35-03) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:35:14](/episodes/ep-q4m-kGzvwjw.md#ent-person-bill-clinton-t-00-35-03)**
+> "...rael. And particularly during Bill Clinton's term, mega became a nickname for a mole that was ..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -162,7 +172,15 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Clinton (2)</strong></summary>
+<summary><strong class="section-title">Statements about Bill Clinton (3)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:35:14](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03) (Accusation) **Candace Owens** (via paraphrase): ["Recounting her Epstein series, Owens alleged Netanyahu blackmailed Bil..."](/statements/statement-a2263a08adfb.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>

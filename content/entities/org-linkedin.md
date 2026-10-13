@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 26 mentions"
+description: "LinkedIn (Organizations) - 27 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-06-55">2025-09-30 · 00:07:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04">2026-08-03 · 00:20:04</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-linkedin-t-00-16-10">2026-10-06 · 00:16:23</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -47,6 +47,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-18-34" style="--pulse-height:40%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-linkedin-t-00-13-05" style="--pulse-height:20%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-linkedin-t-00-16-10" style="--pulse-height:20%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-18-34) | 2 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-linkedin-t-00-13-05) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-linkedin-t-00-16-10) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:16:23](/episodes/ep-0pSAhaAZz1w.md#ent-org-linkedin-t-00-16-10)**
+> "..., according to Matt Serviuos' LinkedIn, he says that he's just running it. He's just run..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -271,7 +281,15 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about LinkedIn (7)</strong></summary>
+<summary><strong class="section-title">Statements about LinkedIn (8)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:16:23](/episodes/ep-0pSAhaAZz1w.md#t-00-16-10) (Citation) **Candace Owens**: ["Owens said Matt Serviuos’s LinkedIn described him as running the compa..."](/statements/statement-933f2378ba79.md)
+  - Also about: [Matt Serviuos](/entities/person-matt-serviuos.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>

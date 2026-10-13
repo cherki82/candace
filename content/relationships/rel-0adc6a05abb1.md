@@ -11,7 +11,7 @@ object: "org-battalion-metals"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Battalion Metals](/entities/org-battalion-metals)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 
@@ -20,6 +20,10 @@ object: "org-battalion-metals"
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:35:10](/episodes/ep-YeEtS7nix3o#t-00-35-10): _Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too._
+
+**[SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU)**
+
+- [00:21:45](/episodes/ep-_2DiIbfy4mU#t-00-21-45): _So glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing. So visit BattalionMetals.com slash Candace and use code Candace at checkout. Again, that's BattalionMetals.com slash Candace._
 
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 

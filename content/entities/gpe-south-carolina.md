@@ -1,6 +1,6 @@
 ---
 title: "South Carolina"
-description: "South Carolina (Places) - 5 mentions"
+description: "South Carolina (Places) - 8 mentions"
 id: "gpe-south-carolina"
 type: "GPE"
 categories:
@@ -17,24 +17,25 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10">2025-09-11 · 00:12:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23">2026-08-11 · 00:44:23</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-south-carolina-t-00-15-41">2026-10-05 · 00:15:41</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10">To My Friend, Charlie Kirk.</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-south-carolina-t-00-13-38">COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10" style="--pulse-height:100%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-49" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#t-01-00-11" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10" style="--pulse-height:33%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-49" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#t-01-00-11" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23" style="--pulse-height:33%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-south-carolina-t-00-13-38" style="--pulse-height:100%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-01-00-11) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-south-carolina-t-00-13-38) | 3 |
 
 </details>
 </section>
@@ -52,7 +54,21 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:14:06](/episodes/ep-ms5ChhZegRg.md#ent-gpe-south-carolina-t-00-13-38)**
+> "To them also, perhaps the South Carolina legislature could make an exception to the death ..."
+
+**[00:14:30](/episodes/ep-ms5ChhZegRg.md#ent-gpe-south-carolina-t-00-14-17)**
+> "...nes (accused mother in quoted South Carolina story; transcript name spelling unverified), who ..."
+
+**[00:15:41](/episodes/ep-ms5ChhZegRg.md#ent-gpe-south-carolina-t-00-15-41)**
+> "...m, type it in Texas mother, a South Carolina mom, South Carolina mother Taylor (headline fragm..."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -100,5 +116,21 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about South Carolina (2)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>
+
+- [00:13:38](/episodes/ep-ms5ChhZegRg.md#t-00-13-38) (Opinion) **Nancy Mace** (via quoted tweet): ["In a tweet read by Owens, Nancy Mace alleged a mother stabbed her chil..."](/statements/statement-e9c90f49e47c.md)
+  - Also about: [Nancy Mace](/entities/person-nancy-mace.md), [Filicide](/entities/concept-filicide.md)
+
+- [00:14:25](/episodes/ep-ms5ChhZegRg.md#t-00-14-17) (Claim) **Chaya Raichik** (via quoted tweet): ["In the Libs of TikTok post read by Owens, Chaya Raichik said Tynisha L..."](/statements/statement-1e4b94fb6c2a.md)
+  - Also about: [Tynisha Lashae Jones](/entities/person-tynisha-lashae-jones.md), [Filicide](/entities/concept-filicide.md)
+
+</details>
 
 </details>

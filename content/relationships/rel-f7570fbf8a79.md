@@ -11,7 +11,7 @@ object: "person-lori-frantzve"
 
 ## [Erika Kirk](/entities/person-erika-kirk) child of [Lori Frantzve](/entities/person-lori-frantzve)
 
-### Evidence (17 mentions)
+### Evidence (18 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -56,6 +56,10 @@ object: "person-lori-frantzve"
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 
 - [00:17:04](/episodes/ep-ZAsV0fHGBiM#t-00-17-04): _Erika Kirk has learned a lot from her mother, Lori Frantzve._
+
+**[SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU)**
+
+- [00:36:56](/episodes/ep-_2DiIbfy4mU#t-00-36-56): _He alleges that Erika (Erika Kirk) supplied him with a private text communication between her and her mother from September 8th. Again, nothing about these messages is going to tell us where Erika (Erika Kirk) is. We're not going to be able to say whether she's on Fort Huachuca base, whether she's in Arizona. I've never said that she's in Fort Huachuca. I couldn't tell you. I don't have Mitch (Mitch Snow)'s eyes and these people have been dancing around just giving an answer. They'd rather file a lawsuit than answer a text message. It's bizarre. But here is the text message thread that he showed about her apparently between her and her mother. She's giving this information to Andrew Wilson. I cannot process this in my mind. Mama Lowe, her mother writes, did you make it to the bank? You make the bank? I'm sorry, I am so much work and you're just tapped out. Erika (Erika Kirk) says, no, you're fine. I love you. I just am trying to fit it in. I'm still at the bank._
 
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 

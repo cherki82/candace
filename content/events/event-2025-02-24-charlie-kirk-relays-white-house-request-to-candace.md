@@ -12,7 +12,7 @@ date: "2025-02-24"
 
 > Charlie Kirk relays White House request to Candace Owens on Brigitte.
 
-## Mentioned In (10 times)
+## Mentioned In (11 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -93,3 +93,11 @@ date: "2025-02-24"
 <a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=706s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he tells me that the White House is asking me to stop speaking about Brigitte.
+
+### 11. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:24:07](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1447s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> February 24th, Charlie Kirk contacts Candace and says Emmanuel Macron has asked the

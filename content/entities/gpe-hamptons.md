@@ -1,6 +1,6 @@
 ---
 title: "Hamptons"
-description: "Hamptons (Places) - 98 mentions"
+description: "Hamptons (Places) - 104 mentions"
 id: "gpe-hamptons"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01">2025-09-15 · 00:15:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-40-31">2026-09-03 · 00:40:51</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>98</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-hamptons-t-00-34-23">2026-10-01 · 00:34:23</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>104</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -75,6 +75,9 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-hamptons-t-02-25-29" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-hamptons-t-01-44-27" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-05-25" style="--pulse-height:21%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-hamptons-t-01-04-22" style="--pulse-height:14%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-hamptons-t-00-48-33" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-hamptons-t-00-10-32" style="--pulse-height:21%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -117,6 +120,9 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-hamptons-t-02-25-29) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-hamptons-t-01-44-27) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-05-25) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-hamptons-t-01-04-22) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-hamptons-t-00-48-33) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-hamptons-t-00-10-32) | 3 |
 
 </details>
 </section>
@@ -128,7 +134,40 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:10:53](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-hamptons-t-00-10-32)**
+> "...pro-Israel influencers to the Hamptons for that one ill-fated weekend."
+
+**[00:33:36](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-hamptons-t-00-33-17)**
+> "...in Bedford, New York, for the Hamptons retreat. From the 4th to the 6th, there's this, l..."
+
+**[00:34:23](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-hamptons-t-00-34-23)**
+> "...ludes to what happened in the Hamptons and says that people are calling him an anti-Semi..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:49:06](/episodes/ep-5TTkMa49qj8.md#ent-gpe-hamptons-t-00-48-33)**
+> "...lie (Charlie Kirk) was in the Hamptons. Receiving a phone call from Bibi Netanyahu (Benj..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:04:22](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-hamptons-t-01-04-22)**
+> "... in Bedford, New York for the Hamptons retreat."
+
+**[01:04:32](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-hamptons-t-01-04-22)**
+> "... 5th and sit through six, the Hamptons retreat, which Charlie (Charlie Kirk) will descri..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
@@ -613,7 +652,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hamptons (11)</strong></summary>
+<summary><strong class="section-title">Statements about Hamptons (12)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:04:22](/episodes/ep-bIuvTKlFeGo.md#t-01-04-22) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie and Erika Kirk landed in Bedford, New York on Augus..."](/statements/statement-3bcf123c94b8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

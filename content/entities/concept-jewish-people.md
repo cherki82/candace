@@ -1,6 +1,6 @@
 ---
 title: "Jewish people"
-description: "Jewish people (Concepts) - 45 mentions"
+description: "Jewish people (Concepts) - 50 mentions"
 id: "concept-jewish-people"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#t-00-43-52">2025-09-17 · 00:44:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#t-00-05-34">2026-07-22 · 00:05:52</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#t-00-03-21">2026-10-05 · 00:03:21</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -52,6 +52,9 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 <a href="/episodes/ep-WoXd4oLwd3w.md#t-00-40-41" style="--pulse-height:14%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#t-00-57-38" style="--pulse-height:14%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#t-00-05-34" style="--pulse-height:14%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-34-03" style="--pulse-height:14%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#t-00-39-15" style="--pulse-height:29%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-02-06" style="--pulse-height:29%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +77,9 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-40-41) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-00-57-38) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#t-00-05-34) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-34-03) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#t-00-39-15) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-02-06) | 2 |
 
 </details>
 </section>
@@ -85,7 +91,37 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:02:19](/episodes/ep-ms5ChhZegRg.md#t-00-02-06)**
+> "Ironically, she sources her nannies from an elite Jewish nanny agency."
+
+**[00:03:21](/episodes/ep-ms5ChhZegRg.md#t-00-03-21)**
+> "Me, okay? I'm all of the things. I am all of the things. Now, some of you guys might be wondering, practically, why is the elite Jewish nanny agency giving Candace (Candace Owens) illegals to hoard in a mansion? Why is Candace (Candace Owens) putting them in a mansion if she's underpaying them? Why not keep them somewhere cheaper? And the answer is because everybody fears me: the Jewish elite nanny agency and the illegals. I am the Scarface of Nashville. I haven't actually seen that movie, by the way, but it sounds scary."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:39:36](/episodes/ep-5TTkMa49qj8.md#t-00-39-15)**
+> "The Jews are not safe with me running around. Literally in..."
+
+**[00:39:47](/episodes/ep-5TTkMa49qj8.md#t-00-39-15)**
+> "...tralia for hatred towards the Jews, making a mockery, they said, of the Holocaust, m..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:34:10](/episodes/ep-_Sq5RqP27NY.md#t-00-34-03)**
+> "...it was our duty to defend the Jews or else a Holocaust."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

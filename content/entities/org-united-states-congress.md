@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 35 mentions"
+description: "United States Congress (Organizations) - 38 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27">2025-09-15 · 00:30:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03">2026-08-06 · 01:02:29</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-united-states-congress-t-00-46-58">2026-10-06 · 00:47:32</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -62,6 +62,8 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01" style="--pulse-height:67%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-congress-t-00-50-03" style="--pulse-height:33%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-united-states-congress-t-00-41-22" style="--pulse-height:67%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-united-states-congress-t-00-46-58" style="--pulse-height:33%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +94,8 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01) | 2 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-congress-t-00-50-03) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-united-states-congress-t-00-41-22) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-united-states-congress-t-00-46-58) | 1 |
 
 </details>
 </section>
@@ -99,7 +103,26 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:47:32](/episodes/ep-0pSAhaAZz1w.md#ent-org-united-states-congress-t-00-46-58)**
+> "...e and gay. I don't want to do Congress anymore. They've got the money. Why not?"
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:41:22](/episodes/ep-6XfDqKTdFKg.md#ent-org-united-states-congress-t-00-41-22)**
+> "...hem sweeping both chambers of Congress in 2026 midterms have soared and this caused a re..."
+
+**[00:41:40](/episodes/ep-6XfDqKTdFKg.md#ent-org-united-states-congress-t-00-41-22)**
+> "...he last day in DC, members of Congress until the end of midterms. No more bills, no more..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -376,7 +399,29 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Congress (6)</strong></summary>
+<summary><strong class="section-title">Statements about United States Congress (10)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [01:08:19](/episodes/ep-0pSAhaAZz1w.md#t-01-07-51) (Opinion) **Candace Owens**: ["Owens said she would be very interested in a congressional investigati..."](/statements/statement-47d05e6f7d94.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3)</summary>
+
+- [00:41:22](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22) (Claim) **Candace Owens** (via paraphrase): ["Owens reports that Polymarket odds of Democrats sweeping both chambers..."](/statements/statement-e12ed402da0d.md)
+  - Also about: [Polymarket](/entities/org-polymarket.md), [Democratic Party](/entities/org-democratic-party.md)
+
+- [00:41:40](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22) (Prediction) **Laura Loomer** (via quoted tweet): ["Loomer tweeted that the SAVE America Act would not pass before the mid..."](/statements/statement-739f97777f74.md)
+  - Also about: [SAVE America Act](/entities/law-save-america-act.md), [Democratic Party](/entities/org-democratic-party.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:45:19](/episodes/ep-6XfDqKTdFKg.md#t-00-44-56) (Claim) **Libs of TikTok** (via quoted post): ["Libs of TikTok says prediction markets give Democrats a 59 percent cha..."](/statements/statement-0f608c2f533b.md)
+  - Also about: [Democratic Party](/entities/org-democratic-party.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>

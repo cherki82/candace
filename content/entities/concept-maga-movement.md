@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 124 mentions"
+description: "MAGA movement (Concepts) - 134 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-maga-movement-t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-maga-movement-t-00-17-11">2026-09-08 · 00:17:11</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>124</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-35-03">2026-10-01 · 00:35:03</a></strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -81,6 +81,10 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57" style="--pulse-height:9%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-24-42" style="--pulse-height:18%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-maga-movement-t-00-17-11" style="--pulse-height:9%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-maga-movement-t-00-37-01" style="--pulse-height:9%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-concept-maga-movement-t-00-40-51" style="--pulse-height:27%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-29-24" style="--pulse-height:45%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 5 mentions" title="2026-09-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-35-03" style="--pulse-height:9%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -131,6 +135,10 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-24-42) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-maga-movement-t-00-17-11) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-concept-maga-movement-t-00-37-01) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-concept-maga-movement-t-00-40-51) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-29-24) | 5 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03) | 1 |
 
 </details>
 </section>
@@ -142,7 +150,57 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:35:03](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03)**
+> "... Files episode entitled MEGA, MAGA, and the Mossad. And we were barking, just so you..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (5 mentions)</summary>
+
+**[00:30:01](/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-29-24)**
+> "...e the neocons that ruined the MAGA movement. Trump (Donald Trump) allowed it to happen. J.D. ..."
+
+**[00:31:04](/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-30-46)**
+> "...s entire life revolved around MAGA."
+
+**[00:31:42](/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-31-31)**
+> "... was running around wearing a MAGA hat, just like Charlie (Charlie Kirk), with Charl..."
+
+**[00:48:32](/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-48-19)**
+> "...Alzheimer's and is a longtime MAGA supporter. On Father's Day, he said it's time for..."
+
+**[00:54:38](/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-54-25)**
+> "...ing to be a great success for MAGA, which is now MIGA, make Israel great again."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3 mentions)</summary>
+
+**[00:40:51](/episodes/ep-6XfDqKTdFKg.md#ent-concept-maga-movement-t-00-40-51)**
+> "...es, this flip in what was the MAGA movement, which quickly got invaded by the neocon movement..."
+
+**[00:43:28](/episodes/ep-6XfDqKTdFKg.md#ent-concept-maga-movement-t-00-43-28)**
+> "... was a part and parcel of the MAGA movement, you guys have been attacking and demanding that ..."
+
+**[00:49:39](/episodes/ep-6XfDqKTdFKg.md#ent-concept-maga-movement-t-00-49-39)**
+> "...attacked, you attacked all of MAGA, and now you claw back and you're like, hey, hey,..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:37:01](/episodes/ep-O4Zw3bCALjU.md#ent-concept-maga-movement-t-00-37-01)**
+> "...f his grave and talking about MAGA, MAGA, MAGA and how people all need to rally arou..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -751,7 +809,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MAGA movement (9)</strong></summary>
+<summary><strong class="section-title">Statements about MAGA movement (10)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:30:01](/episodes/ep-_Sq5RqP27NY.md#t-00-29-24) (Opinion) **Candace Owens**: ["Owens said pro-Israel neoconservatives ruined the MAGA movement and th..."](/statements/statement-4e2cfc8e1e53.md)
+  - Also about: [Neoconservatism](/entities/concept-neoconservatism.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>

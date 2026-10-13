@@ -1,6 +1,6 @@
 ---
 title: "Lincoln Navigator (model)"
-description: "Lincoln Navigator (model) (Vehicles) - 2 mentions"
+description: "Lincoln Navigator (model) (Vehicles) - 3 mentions"
 id: "vehicle-lincoln-navigator-model"
 type: "VEHICLE"
 aliases:
@@ -21,11 +21,11 @@ Source: [Lincoln Navigator](https://www.lincoln.com/luxury-suvs/navigator/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-lincoln-navigator-model-t-00-12-19">2026-09-02 · 00:12:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-lincoln-navigator-model-t-00-12-19">2026-09-02 · 00:12:36</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-lincoln-navigator-model-t-00-06-52">2026-10-08 · 00:06:52</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,12 +35,14 @@ Source: [Lincoln Navigator](https://www.lincoln.com/luxury-suvs/navigator/)
 <p>Highest activity: <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-lincoln-navigator-model-t-00-12-19">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-lincoln-navigator-model-t-00-12-19" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-lincoln-navigator-model-t-00-06-52" style="--pulse-height:50%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-lincoln-navigator-model-t-00-12-19) | 2 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-lincoln-navigator-model-t-00-06-52) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [Lincoln Navigator](https://www.lincoln.com/luxury-suvs/navigator/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:06:52](/episodes/ep-UAdBEXs7nNc.md#ent-vehicle-lincoln-navigator-model-t-00-06-52)**
+> "...ed), Dan Flood. We've got the Lincoln Navigator, which was being driven by Justin Davis."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
@@ -71,7 +81,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lincoln Navigator (model) (2)</strong></summary>
+<summary><strong class="section-title">Statements about Lincoln Navigator (model) (3)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:06:52](/episodes/ep-UAdBEXs7nNc.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens described a Jeep Wagoneer as a security vehicle, mentioned Alex ..."](/statements/statement-3b98294673d1.md)
+  - Also about: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Dan Flood](/entities/person-dan-flood.md), [Justin Davis](/entities/person-justin-davis.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2)</summary>

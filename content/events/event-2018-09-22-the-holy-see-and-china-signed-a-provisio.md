@@ -20,10 +20,20 @@ date: "2018-09-22"
 
 > The Holy See and China signed a provisional agreement on appointing bishops, which Owens criticized in this episode.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
 
 **Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
 **Timestamp:** [00:49:37](/episodes/ep-1FhY-koMuWM.md#event-event-2018-09-22-the-holy-see-and-china-signed-a-provisio-t-00-49-30) 
 <a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=2977s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And in 2018, the Vatican entered a secretive deal with the Chinese Communist Party. The idea was to make things better for the Chinese Christians that the CCP was oppressing. But since then, it's only gotten worse. Bishops are disappearing.
+
+### 2. BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charli...
+
+**Episode:** [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md)
+**Timestamp:** [00:37:33](/episodes/ep-aLJhpxrakCU.md#event-event-2018-09-22-the-holy-see-and-china-signed-a-provisio-t-00-37-33) 
+<a href="https://www.youtube.com/watch?v=aLJhpxrakCU&t=2253s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> In 2018, the Vatican entered a secretive deal with the Chinese Communist Party.

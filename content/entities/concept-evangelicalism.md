@@ -1,6 +1,6 @@
 ---
 title: "Evangelicalism"
-description: "Evangelicalism (Concepts) - 20 mentions"
+description: "Evangelicalism (Concepts) - 23 mentions"
 id: "concept-evangelicalism"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-evangelicalism-t-00-38-18">2025-10-30 · 00:38:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-evangelicalism-t-01-03-09">2026-09-02 · 01:03:24</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-evangelicalism-t-00-06-49">2026-09-30 · 00:06:49</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -50,6 +50,7 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-evangelicalism-t-00-13-15" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-evangelicalism-t-01-03-09" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-evangelicalism-t-00-06-04" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 3 mentions" title="2026-09-30 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-evangelicalism-t-00-13-15) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-evangelicalism-t-01-03-09) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-evangelicalism-t-00-06-04) | 3 |
 
 </details>
 </section>
@@ -81,7 +83,21 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3 mentions)</summary>
+
+**[00:06:20](/episodes/ep-5TTkMa49qj8.md#ent-concept-evangelicalism-t-00-06-04)**
+> "...herself as in the article, an evangelical Catholic hybrid. It reads, quote, across hours of..."
+
+**[00:06:34](/episodes/ep-5TTkMa49qj8.md#ent-concept-evangelicalism-t-00-06-04)**
+> "...t she was raised with and the evangelical Christianity that she embraced as a young adult, ..."
+
+**[00:06:49](/episodes/ep-5TTkMa49qj8.md#ent-concept-evangelicalism-t-00-06-49)**
+> "...he bat, you're not a Catholic evangelical hybrid, because you can't be, you either submit t..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -228,7 +244,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Evangelicalism (4)</strong></summary>
+<summary><strong class="section-title">Statements about Evangelicalism (6)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:06:34](/episodes/ep-5TTkMa49qj8.md#t-00-06-04) (Claim) **Clara Molot** (via quoted article): ["Molot wrote that Erika Kirk described her faith as a hybrid of the Cat..."](/statements/statement-63a588c082e9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Catholicism](/entities/concept-catholicism.md)
+
+- [00:06:49](/episodes/ep-5TTkMa49qj8.md#t-00-06-49) (Opinion) **Candace Owens**: ["Owens argued that one cannot be a Catholic-evangelical hybrid because ..."](/statements/statement-4142925632f8.md)
+  - Also about: [Catholicism](/entities/concept-catholicism.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>

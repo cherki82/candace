@@ -1,6 +1,6 @@
 ---
 title: "Sergio Gor"
-description: "Sergio Gor (People) - 17 mentions"
+description: "Sergio Gor (People) - 19 mentions"
 id: "person-sergio-gor"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-19">2025-11-20 · 00:12:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-sergio-gor-t-00-25-00">2026-05-13 · 00:25:00</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-sergio-gor-t-00-23-49">2026-10-01 · 00:24:28</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -39,6 +39,8 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-19" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gor-t-00-09-46" style="--pulse-height:15%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-sergio-gor-t-00-20-24" style="--pulse-height:100%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 13 mentions" title="2026-05-13 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-sergio-gor-t-00-23-17" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-sergio-gor-t-00-23-49" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +49,8 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-sergio-gor-t-00-12-19) | 1 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gor-t-00-09-46) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-sergio-gor-t-00-20-24) | 13 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-sergio-gor-t-00-23-17) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-sergio-gor-t-00-23-49) | 1 |
 
 </details>
 </section>
@@ -58,7 +62,23 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:24:28](/episodes/ep-q4m-kGzvwjw.md#ent-person-sergio-gor-t-00-23-49)**
+> "February 25th, Sergio Gore (White House caller; name spelling unverifie..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:23:17](/episodes/ep-5TTkMa49qj8.md#ent-person-sergio-gor-t-00-23-17)**
+> "Sergio Gor's appointment in the Oval Office, that's pretty ran..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (13 mentions)</summary>
@@ -165,6 +185,18 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 </details>
 
 <details>
+<summary>Spoke With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:24:28](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49): “February 25th, Sergio Gore (White House caller; name spelling unverified). Well, that Erika (Erika Kirk) is going to see off to India following Charlie (Charlie Kirk)'s assassination. ... Calls Candace (Candace Owens) and asks her to stop discussing Brigitte Macron as a favor to President Trump (Donald J. Trump). February 26th, Trump (Donald J. Trump) calls Candace (Candace Owens) and asks her to stop speaking about Brigitte Macron.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Warned (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -189,7 +221,7 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[White House](/entities/org-white-house.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -209,6 +241,13 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:23:04](/episodes/ep-7FS1tUeSfdE.md#t-00-22-29): “Sergio Gor then got moved to India as the ambassador. He was sort of like randomly named the ambassador to India.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:24:28](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49): “February 25th, Sergio Gore (White House caller; name spelling unverified). Well, that Erika (Erika Kirk) is going to see off to India following Charlie (Charlie Kirk)'s assassination. ... Calls Candace (Candace Owens) and asks her to stop discussing Brigitte Macron as a favor to President Trump (Donald J. Trump). February 26th, Trump (Donald J. Trump) calls Candace (Candace Owens) and asks her to stop speaking about Brigitte Macron.”
 
 </details>
 
@@ -237,7 +276,23 @@ Source: [Nominations - U.S. Senate Committee on Foreign Relations](https://www.f
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sergio Gor (4)</strong></summary>
+<summary><strong class="section-title">Statements about Sergio Gor (6)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:24:28](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49) (Claim) **Candace Owens**: ["Owens said Sergio Gor called her February 25 asking her to stop discus..."](/statements/statement-6e938e7bc402.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:22:41](/episodes/ep-5TTkMa49qj8.md#t-00-22-41) (Claim) **Candace Owens**: ["In rebuttal to the suit explanation, Owens cited Erika Kirk wearing a ..."](/statements/statement-3eee2eefeac2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3)</summary>

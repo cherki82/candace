@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 234 mentions"
+description: "Kanye West (People) - 240 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-25-41">2026-09-10 · 00:25:58</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>234</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-kanye-west-t-00-51-27">2026-09-22 · 00:51:42</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>240</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
-<div><span>Statements about</span><strong>44</strong></div>
+<div><span>Statements about</span><strong>45</strong></div>
 <div><span>Relationships</span><strong>41</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -83,6 +83,8 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-00-01" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 37 mentions" title="2026-09-08 · 37 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-kanye-west-t-00-46-17" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-11-48" style="--pulse-height:32%" aria-label="One Year On… To My Friend Charlie Kirk.: 12 mentions" title="2026-09-10 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-41-55" style="--pulse-height:14%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 5 mentions" title="2026-09-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-kanye-west-t-00-51-27" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +136,8 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-00-01) | 37 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-kanye-west-t-00-46-17) | 3 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-11-48) | 12 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-41-55) | 5 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-kanye-west-t-00-51-27) | 1 |
 
 </details>
 </section>
@@ -145,7 +149,35 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (234)</strong></summary>
+<summary><strong class="section-title">Raw mentions (240)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:51:42](/episodes/ep-6XfDqKTdFKg.md#ent-person-kanye-west-t-00-51-27)**
+> "At the Ye (Kanye West) concert, we kept saying, no way, Candace (Candac..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (5 mentions)</summary>
+
+**[00:41:55](/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-41-55)**
+> "...on, with Princess Diana, with Kanye West, people who did not understand what they were tal..."
+
+**[00:49:26](/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-49-16)**
+> "...banked, as they did to Kanye (Kanye West)."
+
+**[00:51:22](/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-51-22)**
+> "...plain to you guys why I loved Kanye West, what that messaging meant to me, the willingness..."
+
+**[00:51:41](/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-51-22)**
+> "...m his life at the end. Kanye (Kanye West) clearly had that power."
+
+**[01:01:42](/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-01-01-35)**
+> "Kanye (Kanye West) knows it and I know his truth. What you're doing..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (12 mentions)</summary>
@@ -1267,9 +1299,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Supported By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:51:22](/episodes/ep-kn1E0scy9Wc.md#t-00-51-22): “We haven't yet clicked to that, that actually, no, we have the power. And this is why I went through great pain to explain to you guys why I loved Kanye West, what that messaging meant to me, the willingness to be canceled and to stand up for something and to have the power to let power go.”
 
 </details>
 
@@ -1436,9 +1469,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:51:22](/episodes/ep-kn1E0scy9Wc.md#t-00-51-22): “We haven't yet clicked to that, that actually, no, we have the power. And this is why I went through great pain to explain to you guys why I loved Kanye West, what that messaging meant to me, the willingness to be canceled and to stand up for something and to have the power to let power go.”
 
 </details>
 
@@ -1508,7 +1542,15 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (44)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (45)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:49:16](/episodes/ep-kn1E0scy9Wc.md#t-00-49-16) (Accusation) **Candace Owens**: ["Owens accused the Israel lobby of having the power to get people cance..."](/statements/statement-eab43dedab32.md)
+  - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (5)</summary>

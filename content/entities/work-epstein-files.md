@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 47 mentions"
+description: "Epstein Files (Works & Media) - 58 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10">2025-11-04 · 00:30:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05">2026-08-19 · 00:37:30</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-42-48">2026-10-01 · 00:42:48</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -54,6 +54,8 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-29-37" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-44-10" style="--pulse-height:67%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 4 mentions" title="2026-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-23-08" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +80,8 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23) | 3 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-29-37) | 3 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05) | 2 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-44-10) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-23-08) | 6 |
 
 </details>
 </section>
@@ -89,7 +93,47 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (6 mentions)</summary>
+
+**[00:23:21](/episodes/ep-q4m-kGzvwjw.md#t-00-23-08)**
+> "What a weird thing. Why would you have to have? meetings in the situation room about how to manage the Epstein (Jeffrey Epstein) files."
+
+**[00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54)**
+> "Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files."
+
+**[00:32:28](/episodes/ep-q4m-kGzvwjw.md#t-00-31-51)**
+> "This meeting coincided also with the house oversight meeting voting to subpoena the president on the Epstein (Jeffrey Epstein) files."
+
+**[00:40:44](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44)**
+> "I just feel like the Epstein (Jeffrey Epstein) files of which the Todd Blanche story was we can't give you the files. It's really just all child pornography may have consisted of something bigger than that."
+
+**[00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02)**
+> "There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk)."
+
+**[00:42:48](/episodes/ep-q4m-kGzvwjw.md#t-00-42-48)**
+> "Are we still talking about Jeffrey (Jeffrey Epstein)? Yes, we're still talking about Jeffrey Epstein. And I'm wondering if Charlie (Charlie Kirk) was murdered over the Epstein (Jeffrey Epstein) files."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4 mentions)</summary>
+
+**[00:44:32](/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-44-10)**
+> "...ssassinations? Maybe it's the Epstein files. Guys, why do you care about the Epstein files?"
+
+**[00:44:39](/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-44-10)**
+> "...Yeah, we're talking about the Epstein files."
+
+**[00:45:40](/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-45-40)**
+> "...when you don't care about the Epstein files."
+
+**[00:46:50](/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-46-42)**
+> "...l us, release the rest of the Epstein files that we know all of your homies are in the Epstei..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -337,7 +381,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Epstein Files (17)</strong></summary>
+<summary><strong class="section-title">Statements about Epstein Files (18)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:46:45](/episodes/ep-6XfDqKTdFKg.md#t-00-46-42) (Opinion) **Candace Owens**: ["Owens rejects Vance’s request for another chance, demands answers abou..."](/statements/statement-4740735ad935.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Thomas Massie](/entities/person-thomas-massie.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>

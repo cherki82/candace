@@ -23,7 +23,7 @@ type: "factual_claim"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Instagram](/entities/org-instagram.md) (org)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Halftime Wars: TPUSA vs The NFL | Candace Ep 304
 
@@ -40,6 +40,14 @@ type: "factual_claim"
 <a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1712s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that's an interesting, there's an interesting inflection point in my view. On that very same day, June 19th, the second day that he's arguing at the White House, Erika (Erika Kirk) purges her Instagram. She deletes 126 posts.
+
+### 3. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:26:33](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On June 19th, Erika (Erika Kirk) purges her Instagram. She deletes 126 posts. On June 22nd, we have Operation Midnight Hammer.
 
 ## Verification
 

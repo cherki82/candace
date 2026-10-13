@@ -12,7 +12,7 @@ date: "2025-02-26"
 
 > Donald Trump calls Candace Owens to stop Brigitte Macron coverage.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
@@ -37,3 +37,11 @@ date: "2025-02-26"
 <a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=782s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte.
+
+### 4. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:24:34](/episodes/ep-q4m-kGzvwjw.md#t-00-24-34) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1474s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> February 26th, Trump calls Candace and asks her to stop speaking

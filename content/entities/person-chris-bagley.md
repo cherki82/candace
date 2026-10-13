@@ -1,6 +1,6 @@
 ---
 title: "Chris Bagley"
-description: "Chris Bagley (People) - 50 mentions"
+description: "Chris Bagley (People) - 59 mentions"
 id: "person-chris-bagley"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-chris-bagley-t-00-05-13">2026-07-16 · 00:05:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-chris-bagley-t-00-32-16">2026-09-01 · 00:32:28</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-50-03">2026-09-25 · 00:50:22</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -45,6 +45,10 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-chris-bagley-t-02-53-28" style="--pulse-height:18%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-chris-bagley-t-00-35-18" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-chris-bagley-t-00-32-16" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-chris-bagley-t-00-14-48" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-chris-bagley-t-00-07-43" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-chris-bagley-t-00-30-35" style="--pulse-height:12%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 2 mentions" title="2026-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-49-22" style="--pulse-height:24%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +63,10 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-chris-bagley-t-02-53-28) | 3 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-chris-bagley-t-00-35-18) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-chris-bagley-t-00-32-16) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-chris-bagley-t-00-14-48) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-chris-bagley-t-00-07-43) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-chris-bagley-t-00-30-35) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-49-22) | 4 |
 
 </details>
 </section>
@@ -70,7 +78,54 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (4 mentions)</summary>
+
+**[00:49:34](/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-49-22)**
+> "... page 48 that Officer Bagley (Chris Bagley) was indeed the first to suggest going up to the ..."
+
+**[00:49:41](/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-49-22)**
+> "...ial response, Officer Bagley (Chris Bagley) identified the elevated roof area of the Losey C..."
+
+**[00:49:48](/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-49-22)**
+> "... interesting. Officer Bagley (Chris Bagley), whose body cam footage went off, lost the batte..."
+
+**[00:50:22](/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-50-03)**
+> "... interesting. Officer Bagley (Chris Bagley) was the person behind that because we've told yo..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2 mentions)</summary>
+
+**[00:30:44](/episodes/ep-aLJhpxrakCU.md#ent-person-chris-bagley-t-00-30-35)**
+> "...r and the or. Officer Bagley (Chris Bagley) was sent to monitor the rooftop traffic control...."
+
+**[00:32:27](/episodes/ep-aLJhpxrakCU.md#ent-person-chris-bagley-t-00-32-27)**
+> "...d the or. OK, Officer Bagley (Chris Bagley), your own guys are up there. And now you're like..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:08:15](/episodes/ep-kn1E0scy9Wc.md#ent-person-chris-bagley-t-00-07-43)**
+> "...e going to talk about Officer Christopher Bagley."
+
+**[00:11:09](/episodes/ep-kn1E0scy9Wc.md#ent-person-chris-bagley-t-00-10-49)**
+> "Now, Officer Christopher Bagley, we briefly went over this. He is our officer who..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:15:03](/episodes/ep-O4Zw3bCALjU.md#ent-person-chris-bagley-t-00-14-48)**
+> "...'s not forget Officer Bagley (Chris Bagley) testifies he knows this is the same person than ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -288,16 +343,17 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <summary>Formerly Worked For (1)</summary>
 
 - **[Utah County Sheriff's Office](/entities/org-utah-county-sheriff-s-office.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:01:50](/episodes/ep-ChuWo-n49B8.md#t-00-01-37): “We learned that Officer Bagley, while he was employed by the Utah County Sheriff's Office, so that was actually his last place of employment before he began working for UBU. He worked for Utah.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:11:09](/episodes/ep-kn1E0scy9Wc.md#t-00-10-49): “Now, Officer Christopher Bagley, we briefly went over this. He is our officer who they used at the preliminary hearing. His body cam footage notoriously went off after about, what, 25 minutes. He's the one. that found the screwdriver on the rooftop, which was the only, which actually the screwdriver was proven really doesn't tell us that it's Tyler Robinson's DNA. I'm not going to get into that today, but that was their only link to Tyler Robinson. The screwdriver on the rooftop, he finds it didn't capture the moment. Unfortunately, his body cam footage failed him. He too formally worked in child sex crimes at Utah County Sheriff's Office. office before he left and joined the UVU police force. I believe that was in 2022.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Works For (1)</summary>
+<summary>Works For (2)</summary>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -309,10 +365,17 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 
 </details>
 
+- **[Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:11:09](/episodes/ep-kn1E0scy9Wc.md#t-00-10-49): “Now, Officer Christopher Bagley, we briefly went over this. He is our officer who they used at the preliminary hearing. His body cam footage notoriously went off after about, what, 25 minutes. He's the one. that found the screwdriver on the rooftop, which was the only, which actually the screwdriver was proven really doesn't tell us that it's Tyler Robinson's DNA. I'm not going to get into that today, but that was their only link to Tyler Robinson. The screwdriver on the rooftop, he finds it didn't capture the moment. Unfortunately, his body cam footage failed him. He too formally worked in child sex crimes at Utah County Sheriff's Office. office before he left and joined the UVU police force. I believe that was in 2022.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -331,10 +394,18 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 
 </details>
 
-- **[Utah County Sheriff's Office](/entities/org-utah-county-sheriff-s-office.md)** formerly employed this
+- **[Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:11:09](/episodes/ep-kn1E0scy9Wc.md#t-00-10-49): “Now, Officer Christopher Bagley, we briefly went over this. He is our officer who they used at the preliminary hearing. His body cam footage notoriously went off after about, what, 25 minutes. He's the one. that found the screwdriver on the rooftop, which was the only, which actually the screwdriver was proven really doesn't tell us that it's Tyler Robinson's DNA. I'm not going to get into that today, but that was their only link to Tyler Robinson. The screwdriver on the rooftop, he finds it didn't capture the moment. Unfortunately, his body cam footage failed him. He too formally worked in child sex crimes at Utah County Sheriff's Office. office before he left and joined the UVU police force. I believe that was in 2022.”
+
+</details>
+
+- **[Utah County Sheriff's Office](/entities/org-utah-county-sheriff-s-office.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:01:50](/episodes/ep-ChuWo-n49B8.md#t-00-01-37): “We learned that Officer Bagley, while he was employed by the Utah County Sheriff's Office, so that was actually his last place of employment before he began working for UBU. He worked for Utah.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:11:09](/episodes/ep-kn1E0scy9Wc.md#t-00-10-49): “Now, Officer Christopher Bagley, we briefly went over this. He is our officer who they used at the preliminary hearing. His body cam footage notoriously went off after about, what, 25 minutes. He's the one. that found the screwdriver on the rooftop, which was the only, which actually the screwdriver was proven really doesn't tell us that it's Tyler Robinson's DNA. I'm not going to get into that today, but that was their only link to Tyler Robinson. The screwdriver on the rooftop, he finds it didn't capture the moment. Unfortunately, his body cam footage failed him. He too formally worked in child sex crimes at Utah County Sheriff's Office. office before he left and joined the UVU police force. I believe that was in 2022.”
 
 </details>
 
@@ -362,7 +433,44 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chris Bagley (21)</strong></summary>
+<summary><strong class="section-title">Statements about Chris Bagley (27)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>
+
+- [00:49:34](/episodes/ep-bIuvTKlFeGo.md#t-00-49-22) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review said Officer Chris Bagley identified the Losee Center roof ..."](/statements/statement-6c258c94e4c6.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:49:48](/episodes/ep-bIuvTKlFeGo.md#t-00-49-22) (Claim) **Candace Owens**: ["Owens said Chris Bagley had no working body camera during the response..."](/statements/statement-0ceff3c1c33b.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:30:44](/episodes/ep-aLJhpxrakCU.md#t-00-30-35) (Claim) **Candace Owens**: ["Owens said Officer Chris Bagley was sent to monitor rooftop traffic an..."](/statements/statement-4f167753c854.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:11:09](/episodes/ep-kn1E0scy9Wc.md#t-00-10-49) (Claim) **Candace Owens**: ["Owens said Christopher Bagley's body camera went off after about 25 mi..."](/statements/statement-9e3045faceee.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:11:44](/episodes/ep-kn1E0scy9Wc.md#t-00-11-19) (Claim) **Candace Owens**: ["Owens said Christopher Bagley formerly worked in child sex crimes at t..."](/statements/statement-9d884c0c39ee.md)
+  - Also about: [Utah County Sheriff's Office](/entities/org-utah-county-sheriff-s-office.md), [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:15:03](/episodes/ep-O4Zw3bCALjU.md#t-00-14-48) (Citation) **Candace Owens** (via paraphrase): ["Owens said Officer Chris Bagley testified that the black-shirted perso..."](/statements/statement-ff5362194581.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>

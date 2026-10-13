@@ -1,6 +1,6 @@
 ---
 title: "United Kingdom"
-description: "United Kingdom (Places) - 53 mentions"
+description: "United Kingdom (Places) - 59 mentions"
 id: "gpe-united-kingdom"
 type: "GPE"
 aliases:
@@ -26,11 +26,11 @@ Source: [GOV.UK](https://www.gov.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#t-00-12-32">2026-09-10 · 00:13:01</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#t-00-52-08">2026-10-06 · 00:52:21</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,9 @@ Source: [GOV.UK](https://www.gov.uk/)
 <a href="/episodes/ep-ChuWo-n49B8.md#t-00-56-28" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#t-00-08-52" style="--pulse-height:14%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#t-00-12-32" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#t-00-41-00" style="--pulse-height:21%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-kingdom-t-00-36-17" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#t-00-52-08" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +97,9 @@ Source: [GOV.UK](https://www.gov.uk/)
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-56-28) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#t-00-08-52) | 2 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#t-00-41-00) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-kingdom-t-00-36-17) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-00-52-08) | 1 |
 
 </details>
 </section>
@@ -101,7 +107,40 @@ Source: [GOV.UK](https://www.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:52:21](/episodes/ep-0pSAhaAZz1w.md#t-00-52-08)**
+> "...gs that are coming out of the UK so I know what's happening."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:12:05](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-kingdom-t-00-36-17)**
+> "...l. It was also covered in the UK International Business Times. And the headline is..."
+
+**[00:36:23](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-kingdom-t-00-36-17)**
+> "...), and JD Vance by phone from Britain."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3 mentions)</summary>
+
+**[00:41:39](/episodes/ep-NNiCZk1cuzs.md#t-00-41-00)**
+> "... is familiar to people in the UK."
+
+**[00:41:45](/episodes/ep-NNiCZk1cuzs.md#t-00-41-45)**
+> "...lved murder from the 90s of a UK journalist who was basically shot point blank in ..."
+
+**[00:41:53](/episodes/ep-NNiCZk1cuzs.md#t-00-41-45)**
+> "...rking on a story about former UK."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -394,7 +433,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United Kingdom (2)</strong></summary>
+<summary><strong class="section-title">Statements about United Kingdom (3)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:52:08](/episodes/ep-0pSAhaAZz1w.md#t-00-52-08) (Promise) **Candace Owens**: ["Owens said she wanted to wait until she had read the new UK filings be..."](/statements/statement-5e645779895a.md)
+  - Also about: [Andrew Tate](/entities/person-andrew-tate.md), [Tristan Tate](/entities/person-tristan-tate.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

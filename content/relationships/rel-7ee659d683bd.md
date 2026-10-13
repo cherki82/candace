@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (54 mentions)
+### Evidence (60 mentions)
 
 **[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
 
@@ -32,6 +32,10 @@ object: "person-charlie-kirk"
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
 - [00:44:25](/episodes/ep-4YgrOhhy708#t-00-44-25): _my relationship with Charlie (Charlie Kirk) was genuine i knew he wasn't his faults were um and he was just like a kid brother_
+
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:56:24](/episodes/ep-5TTkMa49qj8#t-00-56-24): _You know, I'm beginning to think that after looking at this timeline and like I said tomorrow, it's going to get very dark that Charlie (Charlie Kirk) was an even truer friend in those last days. ... And our unbreakable bond is something like despite all of these people trying to pull me and Charlie (Charlie Kirk) apart, it wasn't possible._
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
@@ -101,6 +105,10 @@ object: "person-charlie-kirk"
 
 - [00:53:45](/episodes/ep-N4uM8Jdr410#t-00-53-45): _I don't team up behind the scenes. Nothing. I just investigate when I'm interested, and right now it is the assassination of my friend Charlie Kirk._
 
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:10:25](/episodes/ep-NNiCZk1cuzs#t-00-10-25): _Also recall that recently, Andrew (Andrew Kolvet) has been trying to spin to the public that Charlie (Charlie Kirk) and me were not friends since 2018. ... And what is real can't be threatened. Anyway. It's crazy that he even says this because Charlie (Charlie Kirk) and Erika (Erika Kirk) came to my wedding in August of 2019, a year beyond 2018. ... If nothing else, this thread proves that Andrew Kolvet is a routine liar. There was absolutely no falling out between me and Charlie (Charlie Kirk). I couldn't make sense of why someone was suddenly insisting on trying to force that narrative in the media._
+
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
 - [00:25:51](/episodes/ep-OgRyiOAVtWU#t-00-25-51): _I wish only for the absolute truth to surface about who really killed my friend Charlie Kirk and why._
@@ -153,6 +161,14 @@ object: "person-charlie-kirk"
 
 - [00:02:27](/episodes/ep-ZIH5-V6UPkg#t-00-02-27): _I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk._
 
+**[SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU)**
+
+- [00:34:03](/episodes/ep-_2DiIbfy4mU#t-00-34-03): _Okay. Beyond this point, no one will ever convince me that Erika (Erika Kirk) loved her husband. There's no way I could not go through footage as his friend. I could not go through or watch footage of me and Charlie (Charlie Kirk). It hurt me. It hurt me. It brought tears to my eyes. It was not something that I could do._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:48:59](/episodes/ep-_Sq5RqP27NY#t-00-48-59): _have, and it does seem that that conversation is finally cracking amongst them as well, which is a good thing. Brooke (viewer; surname unverified) writes, “Turning Point USA probably watching right now, turning what you say into something absurd. They can’t take away how powerful your voice is or break the bond that you and Charlie (Charlie Kirk) had. That friendship was real and stronger than the noise. Sending all of my love and everyone here in Houston.” Thank you so much. And yeah, I never was concerned about that. Anything that actually is based in substance and is real can’t be threatened._
+
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 
 - [00:42:06](/episodes/ep-_cNtgris8Ik#t-00-42-06): _It's such a nonsense and it's so easily. debunked we've debunked it so many times on this show and yet they still are trying to push it because they have nothing left they cannot respond to anything and they are trying to rewrite Charlie's history Charlie and I were very close we were like brother and sister and yes we spent so much time together when we were obviously both single and once you become a parent and get married you your relationship has to change your_
@@ -193,9 +209,17 @@ object: "person-charlie-kirk"
 
 - [00:43:01](/episodes/ep-k1b1NDCrNFs#t-00-43-01): _OK, so for me, it is the audacity of him using Charlie Kirk, my friend, not his as a human shield, claiming that he's doing that for Erika (Erika Kirk)._
 
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [01:01:49](/episodes/ep-kn1E0scy9Wc#t-01-01-49): _Thank you, Brooke (viewer commenter; surname unverified). Angelina (viewer commenter; surname unverified) writes, I just finished watching your anniversary video to Charlie (Charlie Kirk). I think I filled a pool by accident. There wasn't. wasn't a second that a tear was not falling from my face god bless you candace thank you that i'm just so happy that you guys can see who charlie (Charlie Kirk) was because he was so great and so funny and just so fun i loved spending time with him i loved traveling we loved the road trips they were the best i mean we just uh you just do so much when you travel with someone you just really get to know them that's the only way that you can say it and it was a fun time that i looked back on fondly and i_
+
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:42:00](/episodes/ep-mFuno0TuuQQ#t-00-42-00): _And I got through it and I got through it in large part not because I'm particularly tough, but because I was motivated by true friendship with Charlie (Charlie Kirk)._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:55:06](/episodes/ep-ms5ChhZegRg#t-00-55-06): _Charlie (Charlie Kirk) was a good friend to me and I think that drove them insane. I think it drove them insane._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 

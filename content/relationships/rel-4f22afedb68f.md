@@ -11,7 +11,7 @@ object: "person-tucker-carlson"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) friend of [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
 
@@ -20,6 +20,10 @@ object: "person-tucker-carlson"
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
 - [00:18:53](/episodes/ep-K1tFD7FfoCU#t-00-18-53): _The point of me sharing this though is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson)._
+
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:46:56](/episodes/ep-NNiCZk1cuzs#t-00-46-56): _like, you know, Stephen King's it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that Tucker Carlson and Charlie (Charlie Kirk) were not friends when he would not have had his job were Tucker Carlson and Charlie Kirk not friends._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 

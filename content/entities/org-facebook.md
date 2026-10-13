@@ -1,6 +1,6 @@
 ---
 title: "Facebook"
-description: "Facebook (Organizations) - 10 mentions"
+description: "Facebook (Organizations) - 11 mentions"
 id: "org-facebook"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Meta Account: Access Your Apps and Devices](https://about.fb.com/news/2
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-org-facebook-t-00-24-20">2025-12-05 · 00:24:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-facebook-t-00-03-17">2026-09-10 · 00:03:17</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-org-facebook-t-00-44-01">2026-09-30 · 00:44:01</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Meta Account: Access Your Apps and Devices](https://about.fb.com/news/2
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-facebook-t-00-06-24" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-facebook-t-00-08-09" style="--pulse-height:67%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-facebook-t-00-03-17" style="--pulse-height:33%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-facebook-t-00-44-01" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Meta Account: Access Your Apps and Devices](https://about.fb.com/news/2
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-facebook-t-00-06-24) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-facebook-t-00-08-09) | 2 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-org-facebook-t-00-03-17) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-facebook-t-00-44-01) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Meta Account: Access Your Apps and Devices](https://about.fb.com/news/2
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:44:01](/episodes/ep-5TTkMa49qj8.md#ent-org-facebook-t-00-44-01)**
+> "...entire album, which was on my Facebook of me at a birthday party in 2015, my birthday pa..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>

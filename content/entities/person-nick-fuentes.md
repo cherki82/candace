@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 94 mentions"
+description: "Nick Fuentes (People) - 97 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12">2025-10-06 · 00:46:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58">2026-07-22 · 00:26:06</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>94</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-nick-fuentes-t-00-51-22">2026-10-06 · 00:51:54</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>97</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>26</strong></div>
-<div><span>Relationships</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -52,6 +52,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-00" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-nick-fuentes-t-00-31-28" style="--pulse-height:10%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-00) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-nick-fuentes-t-00-31-28) | 3 |
 
 </details>
 </section>
@@ -85,7 +87,21 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
+
+**[00:31:28](/episodes/ep-0pSAhaAZz1w.md#ent-person-nick-fuentes-t-00-31-28)**
+> "...ist Megyn Kelly, commentators Nick Fuentes and Tucker Carlson, Health and Human Services Sec..."
+
+**[00:51:46](/episodes/ep-0pSAhaAZz1w.md#ent-person-nick-fuentes-t-00-51-22)**
+> "Nick Fuentes is banned from Instagram. He's banned from YouTub..."
+
+**[00:51:54](/episodes/ep-0pSAhaAZz1w.md#ent-person-nick-fuentes-t-00-51-22)**
+> "... are on Instagram are finding Nick Fuentes."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -502,6 +518,25 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details>
+<summary>Barred By (2)</summary>
+
+- **[Instagram](/entities/org-instagram.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram? How is that possible? Because other people, clippers, are posting his content all over Instagram. And that's how people who are on Instagram are finding Nick Fuentes. despite the fact that he is banned.”
+
+</details>
+
+- **[YouTube](/entities/org-youtube.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Critic Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
@@ -606,7 +641,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -620,6 +655,20 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
+
+</details>
+
+- **[Instagram](/entities/org-instagram.md)** barred this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram? How is that possible? Because other people, clippers, are posting his content all over Instagram. And that's how people who are on Instagram are finding Nick Fuentes. despite the fact that he is banned.”
+
+</details>
+
+- **[YouTube](/entities/org-youtube.md)** barred this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram?”
 
 </details>
 
@@ -719,7 +768,18 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Fuentes (26)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Fuentes (28)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:31:28](/episodes/ep-0pSAhaAZz1w.md#t-00-31-28) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Elephant Clipping prohibited clips of Megyn Kell..."](/statements/statement-4217e08a6468.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+- [00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson said Nick Fuentes was banned from Instagram and YouTube but p..."](/statements/statement-95deb8ee40e1.md)
+  - Also about: [Instagram](/entities/org-instagram.md), [YouTube](/entities/org-youtube.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

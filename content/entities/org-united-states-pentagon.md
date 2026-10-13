@@ -1,6 +1,6 @@
 ---
 title: "United States Pentagon"
-description: "United States Pentagon (Organizations) - 52 mentions"
+description: "United States Pentagon (Organizations) - 56 mentions"
 id: "org-united-states-pentagon"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43">2025-09-18 · 00:04:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-40-25">2026-09-02 · 00:40:25</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-united-states-pentagon-t-00-18-09">2026-10-07 · 00:18:09</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -53,6 +53,9 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49" style="--pulse-height:30%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-united-states-pentagon-t-00-27-53" style="--pulse-height:70%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 7 mentions" title="2026-08-31 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-08-40" style="--pulse-height:40%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-united-states-pentagon-t-00-26-29" style="--pulse-height:20%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-united-states-pentagon-t-00-19-22" style="--pulse-height:10%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-united-states-pentagon-t-00-18-09" style="--pulse-height:10%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +78,9 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49) | 3 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-united-states-pentagon-t-00-27-53) | 7 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-08-40) | 4 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-united-states-pentagon-t-00-26-29) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-united-states-pentagon-t-00-19-22) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-united-states-pentagon-t-00-18-09) | 1 |
 
 </details>
 </section>
@@ -86,7 +92,34 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:18:09](/episodes/ep-yrg_-D6oNHE.md#ent-org-united-states-pentagon-t-00-18-09)**
+> "... is that we are told that the Pentagon just can't complete an audit, or, like, when we'r..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:19:22](/episodes/ep-ms5ChhZegRg.md#ent-org-united-states-pentagon-t-00-19-22)**
+> "...he astonishing failure of the Pentagon to cover their own tracks regarding the assassina..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:26:41](/episodes/ep-5TTkMa49qj8.md#ent-org-united-states-pentagon-t-00-26-29)**
+> "...ith them. It's totally normal Pentagon stuff."
+
+**[00:37:01](/episodes/ep-5TTkMa49qj8.md#ent-org-united-states-pentagon-t-00-36-41)**
+> "Pentagon, Erica (Erika Kirk) is like the Department of War..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
@@ -335,6 +368,18 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:19:22](/episodes/ep-ms5ChhZegRg.md#t-00-19-22): “My honest opinion is that it's because ultimately they are going to seek to regulate the Internet because of the failure, the astonishing failure of the Pentagon to cover their own tracks regarding the assassination of Charlie (Charlie Kirk).”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (1)</summary>
 
 - **[Kingsley Wilson](/entities/person-kingsley-wilson.md)**
@@ -380,7 +425,14 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:19:22](/episodes/ep-ms5ChhZegRg.md#t-00-19-22): “My honest opinion is that it's because ultimately they are going to seek to regulate the Internet because of the failure, the astonishing failure of the Pentagon to cover their own tracks regarding the assassination of Charlie (Charlie Kirk).”
+
+</details>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -422,7 +474,23 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Pentagon (8)</strong></summary>
+<summary><strong class="section-title">Statements about United States Pentagon (10)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:19:22](/episodes/ep-ms5ChhZegRg.md#t-00-19-22) (Accusation) **Candace Owens**: ["Owens said her honest opinion was that efforts to regulate the interne..."](/statements/statement-3ff863eaa633.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:26:41](/episodes/ep-5TTkMa49qj8.md#t-00-26-29) (Accusation) **Candace Owens**: ["Owens alleged Turning Point USA is “an extension of the state” and cha..."](/statements/statement-ac7158aa4592.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

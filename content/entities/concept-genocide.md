@@ -1,6 +1,6 @@
 ---
 title: "Genocide"
-description: "Genocide (Concepts) - 35 mentions"
+description: "Genocide (Concepts) - 36 mentions"
 id: "concept-genocide"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-genocide-t-00-46-40">2025-10-30 · 00:46:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-genocide-t-00-22-59">2026-09-08 · 00:23:19</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-genocide-t-00-54-10">2026-09-16 · 00:54:43</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56" style="--pulse-height:42%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 5 mentions" title="2026-06-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-genocide-t-00-22-59" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-genocide-t-00-54-10" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56) | 5 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49) | 3 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-genocide-t-00-22-59) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-genocide-t-00-54-10) | 1 |
 
 </details>
 </section>
@@ -71,7 +73,15 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:54:43](/episodes/ep-aLJhpxrakCU.md#ent-concept-genocide-t-00-54-10)**
+> "...ething that's basically true? Genocide is always wrong in my view."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

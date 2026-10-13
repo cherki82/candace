@@ -1,0 +1,23 @@
+---
+title: "Jack O’Hara affiliated with Enclave & Key"
+description: "Evidence for the relationship: Jack O’Hara affiliated with Enclave & Key"
+relationship_id: "rel-1f4ffbcf4233"
+subject: "person-jack-ohara"
+predicate: "affiliated with"
+object: "org-enclave-and-key"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Jack O’Hara](/entities/person-jack-ohara) affiliated with [Enclave & Key](/entities/org-enclave-and-key)
+
+### Evidence (1 mentions)
+
+**[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
+
+- [00:24:27](/episodes/ep-0pSAhaAZz1w#t-00-24-27): _The article continues. The Discord server doesn't specify who is paying elephant clipping or the other right-leaning political clipping operations, but Google Drive folders in each of the campaigns are filled with files uploaded by what appears to be three employees of Enclave and Key, a Las Vegas-based marketing company. Jules Katz, the chief of staff, Benjamin Goodman, a vice president of operations, and Jack O'Hara, the head of media production at an Enclave and Key subsidiary. O'Hara (Jack O'Hara) and Katz (Jules Katz) seem to have uploaded videos to the Google Drive with their company email address. In at least one instance, O'Hara (Jack O'Hara) also used what appears to be his personal email address. It's not specified what role, if any, Enclave and Key plays in the campaign._
+
+### Related
+
+- [Jack O’Hara](/entities/person-jack-ohara)
+- [Enclave & Key](/entities/org-enclave-and-key)

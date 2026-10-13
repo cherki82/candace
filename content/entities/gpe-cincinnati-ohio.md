@@ -1,6 +1,6 @@
 ---
 title: "Cincinnati, Ohio"
-description: "Cincinnati, Ohio (Places) - 14 mentions"
+description: "Cincinnati, Ohio (Places) - 15 mentions"
 id: "gpe-cincinnati-ohio"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Cincinnati | City of Cincinnati](https://www.cincinnati-oh.gov/ci
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-cincinnati-ohio-t-00-18-02">2026-01-22 · 00:18:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-cincinnati-ohio-t-00-07-55">2026-03-03 · 00:07:55</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cincinnati-ohio-t-00-54-45">2026-10-01 · 00:55:23</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [About Cincinnati | City of Cincinnati](https://www.cincinnati-oh.gov/ci
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-cincinnati-ohio-t-00-02-48" style="--pulse-height:67%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-cincinnati-ohio-t-00-38-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-cincinnati-ohio-t-00-06-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cincinnati-ohio-t-00-54-45" style="--pulse-height:33%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [About Cincinnati | City of Cincinnati](https://www.cincinnati-oh.gov/ci
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-cincinnati-ohio-t-00-02-48) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-cincinnati-ohio-t-00-38-32) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-cincinnati-ohio-t-00-06-32) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cincinnati-ohio-t-00-54-45) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [About Cincinnati | City of Cincinnati](https://www.cincinnati-oh.gov/ci
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:55:23](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cincinnati-ohio-t-00-54-45)**
+> "...ually the Scripps building in Cincinnati, Ohio. That's where the company was based."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (3 mentions)</summary>
@@ -162,7 +172,19 @@ Source: [About Cincinnati | City of Cincinnati](https://www.cincinnati-oh.gov/ci
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Former Base Of (1)</summary>
+
+- **[The E.W. Scripps Company](/entities/org-ew-scripps-company.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:55:16](/episodes/ep-q4m-kGzvwjw.md#t-00-54-45): “The building was built in 1990 and Erika (Erika Kirk) was attending daycare there in 1991. ... And it was actually the Scripps building in Cincinnati, Ohio. That's where the company was based. ... Erika (Erika Kirk) was attending that daycare at the Walnut Street, 312 Walnut Street at the corner of Third Street.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** born in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -171,12 +193,27 @@ Source: [About Cincinnati | City of Cincinnati](https://www.cincinnati-oh.gov/ci
 
 </details>
 
+- **[The E.W. Scripps Company](/entities/org-ew-scripps-company.md)** formerly based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:55:16](/episodes/ep-q4m-kGzvwjw.md#t-00-54-45): “The building was built in 1990 and Erika (Erika Kirk) was attending daycare there in 1991. ... And it was actually the Scripps building in Cincinnati, Ohio. That's where the company was based. ... Erika (Erika Kirk) was attending that daycare at the Walnut Street, 312 Walnut Street at the corner of Third Street.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cincinnati, Ohio (5)</strong></summary>
+<summary><strong class="section-title">Statements about Cincinnati, Ohio (6)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:54:45](/episodes/ep-q4m-kGzvwjw.md#t-00-54-45) (Claim) **Candace Owens**: ["Owens said Erika Kirk attended daycare in 1991 in the Scripps corporat..."](/statements/statement-513da9fda66f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The E.W. Scripps Company](/entities/org-ew-scripps-company.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>

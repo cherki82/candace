@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (11 mentions)
+### Evidence (14 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -29,6 +29,10 @@ object: "person-blake-neff"
 
 - [00:32:05](/episodes/ep-5NQyGuRYbU8#t-00-32-05): _the latest thing that candace will fixate on for the next two weeks as all important the key to blowing the case wide open so that she has an excuse to harass more people_
 
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:37:21](/episodes/ep-6XfDqKTdFKg#t-00-37-21): _She is a malicious, hateful, dishonest, destructive actor in American life._
+
 **[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
 
 - [00:01:00](/episodes/ep-9hRcfSrri70#t-00-01-00): _Anyway, I got a strange press request today. Blake Neff is now entering the foray. He's speaking to reporters who wants everyone to know that I'm just jealous of Erika (Erika Kirk)._
@@ -36,6 +40,10 @@ object: "person-blake-neff"
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
 - [00:45:48](/episodes/ep-OgRyiOAVtWU#t-00-45-48): _Nothing compares remotely to the fact that Candace Owens has spent a sustained 10 months making effectively every episode of her show about finding some new way to target Erika (Erika Kirk), target Turning Point, target other people who are in the Turning Point universe, target_
+
+**[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
+
+- [00:01:33](/episodes/ep-UAdBEXs7nNc#t-00-01-33): _You know what, guys? Blakey (Blake Neff) hurt my feelings yesterday. He called me so many names. I mean, he completely violated one of Charlie (Charlie Kirk)'s cardinal rules of never engaging in ad hominem attacks. I mean, he called me all sorts of things in that X Space. He said I was wretched, nasty, absolutely awful, claimed that I dislike other pretty women. He also called me illiterate thereafter on X. I just feel sad on the inside. I sad, Blake (Blake Neff)._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 
@@ -53,6 +61,10 @@ object: "person-blake-neff"
 
 - [00:28:34](/episodes/ep-xi8SYJTUXPM#t-00-28-34): _This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun._
 - [00:29:00](/episodes/ep-xi8SYJTUXPM#t-00-29-00): _So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun._
+
+**[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
+
+- [00:03:08](/episodes/ep-yrg_-D6oNHE#t-00-03-08): _And I think Candace (Candace Owens) is like by far the most obvious case of this. She's clearly like a wretched individual who like has always enjoyed being nasty to people. If you talk to anyone who's ever worked with her, they never have anything good to say about her because she's always been. Absolutely awful to assistants, to people sent to help her. And you just see a new manifestation of this, like with Erika (Erika Kirk). Like, she probably, she probably never liked the fact that she would, she would probably hated anyone who married Charlie (Charlie Kirk), so of course she's gonna hate Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). She, you know, probably on some level she probably, like, dislikes, like... White women. She probably dislikes other pretty women. Any number of things can, like, go into this. And she found her paper-thin excuse to, like, bully and ridicule someone who's just manifestly a better person than she is. So that's my thoughts on some of that._
 
 ### Related
 

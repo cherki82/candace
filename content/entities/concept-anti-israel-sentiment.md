@@ -1,6 +1,6 @@
 ---
 title: "Anti-Israel sentiment"
-description: "Anti-Israel sentiment (Concepts) - 27 mentions"
+description: "Anti-Israel sentiment (Concepts) - 30 mentions"
 id: "concept-anti-israel-sentiment"
 type: "CONCEPT"
 aliases:
@@ -18,9 +18,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-anti-israel-sentiment-t-00-36-52">2025-09-19 · 00:37:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-anti-israel-sentiment-t-00-36-04">2026-06-24 · 00:36:29</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-anti-israel-sentiment-t-00-28-27">2026-10-01 · 00:28:58</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,9 @@ _Type: Concepts_
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-concept-anti-israel-sentiment-t-00-00-45" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 7 mentions" title="2026-06-15 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-anti-israel-sentiment-t-00-42-01" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-anti-israel-sentiment-t-00-36-04" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-anti-israel-sentiment-t-01-03-00" style="--pulse-height:14%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-anti-israel-sentiment-t-00-28-36" style="--pulse-height:14%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-anti-israel-sentiment-t-00-28-27" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +69,9 @@ _Type: Concepts_
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-concept-anti-israel-sentiment-t-00-00-45) | 7 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-anti-israel-sentiment-t-00-42-01) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-anti-israel-sentiment-t-00-36-04) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-anti-israel-sentiment-t-01-03-00) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-anti-israel-sentiment-t-00-28-36) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-anti-israel-sentiment-t-00-28-27) | 1 |
 
 </details>
 </section>
@@ -77,7 +83,31 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:28:58](/episodes/ep-q4m-kGzvwjw.md#ent-concept-anti-israel-sentiment-t-00-28-27)**
+> "...e's not experiencing the same anti-Israel feeling as her husband, at least not in her speec..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:28:54](/episodes/ep-5TTkMa49qj8.md#ent-concept-anti-israel-sentiment-t-00-28-36)**
+> "...t Erica (Erika Kirk) was more anti-Israel than Charlie (Charlie Kirk) was behind the scenes..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[01:03:07](/episodes/ep-aLJhpxrakCU.md#ent-concept-anti-israel-sentiment-t-01-03-00)**
+> "...harlie (Charlie Kirk) in that anti-Israel direction."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>

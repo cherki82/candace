@@ -1,0 +1,23 @@
+---
+title: "Candace Owens defended Brian Cole Jr."
+description: "Evidence for the relationship: Candace Owens defended Brian Cole Jr."
+relationship_id: "rel-f2b4a7d78c6a"
+subject: "person-candace-owens"
+predicate: "defended"
+object: "person-brian-cole-jr"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Candace Owens](/entities/person-candace-owens) defended [Brian Cole Jr.](/entities/person-brian-cole-jr)
+
+### Evidence (1 mentions)
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:51:36](/episodes/ep-ms5ChhZegRg#t-00-51-36): _Yes, free Brian Cole Jr. We covered that last week. We're going to keep covering that today because there are some dots that are connecting. ... And if someone keeps repeating that you did something, what that might do to them. It's despicable. And we should all be rising up against it. Hey, BLM, I think we got off on the wrong foot. ... You know, I'm not I'm not a supporter of the George Floyd stuff, but I can get behind making some noise over Brian J. Cole. ... I mean, we're not we're not I'm not talking rioting, of course, but I'm saying like where is this is a topic that really actually matters. The feds are blaming something on a black autistic kid._
+
+### Related
+
+- [Candace Owens](/entities/person-candace-owens)
+- [Brian Cole Jr.](/entities/person-brian-cole-jr)

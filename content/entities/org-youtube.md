@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 157 mentions"
+description: "YouTube (Organizations) - 174 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-youtube-t-00-56-19">2026-09-03 · 00:56:42</a></strong></div>
-<div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>157</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-youtube-t-00-51-22">2026-10-06 · 00:51:46</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>174</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -103,6 +103,12 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-youtube-t-00-47-30" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-20-47" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-youtube-t-00-56-19" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-youtube-t-00-38-06" style="--pulse-height:11%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-youtube-t-00-58-11" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-youtube-t-00-37-13" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-youtube-t-00-04-11" style="--pulse-height:11%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-37-24" style="--pulse-height:47%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 9 mentions" title="2026-09-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-youtube-t-00-20-44" style="--pulse-height:11%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -180,6 +186,12 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-youtube-t-00-47-30) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-20-47) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-youtube-t-00-56-19) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-youtube-t-00-38-06) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-youtube-t-00-58-11) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-youtube-t-00-37-13) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-youtube-t-00-04-11) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-37-24) | 9 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-youtube-t-00-20-44) | 2 |
 
 </details>
 </section>
@@ -191,7 +203,88 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (157)</strong></summary>
+<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:20:44](/episodes/ep-0pSAhaAZz1w.md#ent-org-youtube-t-00-20-44)**
+> "...o post videos edited from the YouTube channel of Turning Point USA, the conservative no..."
+
+**[00:51:46](/episodes/ep-0pSAhaAZz1w.md#ent-org-youtube-t-00-51-22)**
+> "...m Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (9 mentions)</summary>
+
+**[00:37:39](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-37-24)**
+> "...s like three million views on YouTube alone. And, you know, I gotta, I gotta pay for, I..."
+
+**[00:43:22](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-43-22)**
+> "...of course you would upload on YouTube to send in the link as your final. Well, apparent..."
+
+**[00:43:55](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-43-22)**
+> "...on if you're watching this on YouTube, you should watch it. It's hilarious."
+
+**[00:44:01](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-44-01)**
+> "I think I'm a star. Early on YouTube star, Candace does this project. So they find thi..."
+
+**[00:45:44](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-45-20)**
+> "... science that they found this YouTube video of me at my then boyfriend's dorm. And so n..."
+
+**[00:47:02](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-47-02)**
+> "...ve. Like, who hacked into the YouTube, if it is hacked, or if, I don't know if they cre..."
+
+**[00:47:32](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-47-02)**
+> "...very first time archived this YouTube page."
+
+**[00:50:01](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-50-01)**
+> "...ough AI voice analysis on the YouTube and that he did confirm that the Flickr account i..."
+
+**[00:54:33](/episodes/ep-5TTkMa49qj8.md#ent-org-youtube-t-00-54-33)**
+> "...ot possible. A two-decade-old YouTube video from a college final does not get archived ..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:04:11](/episodes/ep-_Sq5RqP27NY.md#ent-org-youtube-t-00-04-11)**
+> "...s, because we would be hit on YouTube otherwise, and also because nobody needs to look ..."
+
+**[00:45:02](/episodes/ep-_Sq5RqP27NY.md#ent-org-youtube-t-00-44-35)**
+> "...rlie (Charlie Kirk). He has a YouTube channel for gaming and I still haven't been able ..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:37:13](/episodes/ep-6XfDqKTdFKg.md#ent-org-youtube-t-00-37-13)**
+> "...peech. I have never once said YouTube should ban Candace (Candace Owens)."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:58:31](/episodes/ep-BvthGQw3_s0.md#ent-org-youtube-t-00-58-11)**
+> "As we hit more followers on YouTube, if you're watching this on YouTube, please do su..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:38:17](/episodes/ep-kn1E0scy9Wc.md#ent-org-youtube-t-00-38-06)**
+> "Check that out on YouTube and other places. Matt (Matt Tardio), welcome bac..."
+
+**[00:52:41](/episodes/ep-kn1E0scy9Wc.md#ent-org-youtube-t-00-52-41)**
+> "...st him with his old videos on YouTube before he got locked up in all of these contracts..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -1029,12 +1122,64 @@ Source: [About YouTube](https://about.youtube/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Barred (1)</summary>
+
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)** barred by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Nick Fuentes is banned from Instagram. He's banned from YouTube. So then the question is, why is Nick Fuentes all over Instagram?”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about YouTube (17)</strong></summary>
+<summary><strong class="section-title">Statements about YouTube (22)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:51:46](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson said Nick Fuentes was banned from Instagram and YouTube but p..."](/statements/statement-95deb8ee40e1.md)
+  - Also about: [Nick Fuentes](/entities/person-nick-fuentes.md), [Instagram](/entities/org-instagram.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3)</summary>
+
+- [00:42:54](/episodes/ep-5TTkMa49qj8.md#t-00-42-54) (Claim) **Candace Owens**: ["Owens said her Adderall video was a 2008 sophomore journalism final ab..."](/statements/statement-bab22c98139a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Adderall](/entities/concept-adderall.md)
+
+- [00:47:02](/episodes/ep-5TTkMa49qj8.md#t-00-47-02) (Claim) **Candace Owens**: ["Owens said her sophomore college video is real but that she does not k..."](/statements/statement-28079a104db8.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:47:32](/episodes/ep-5TTkMa49qj8.md#t-00-47-02) (Claim) **Candace Owens**: ["Owens said her college-project YouTube page was first archived on July..."](/statements/statement-31d71598aecb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:37:13](/episodes/ep-6XfDqKTdFKg.md#t-00-37-13) (Opinion) **Blake Neff** (via quoted speech): ["In the interview trailer, Neff says he supports maximal free speech an..."](/statements/statement-d40a7f92e84a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>

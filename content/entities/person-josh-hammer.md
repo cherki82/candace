@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 192 mentions"
+description: "Josh Hammer (People) - 193 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-40-54">2025-09-16 · 00:41:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33">2026-09-09 · 00:07:50</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>192</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-josh-hammer-t-01-05-42">2026-09-25 · 01:05:49</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>193</strong></div>
 <div><span>Statements by</span><strong>19</strong></div>
 <div><span>Statements about</span><strong>43</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
@@ -78,6 +78,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-josh-hammer-t-00-32-15" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-josh-hammer-t-00-52-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-josh-hammer-t-01-05-42" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -125,6 +126,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-josh-hammer-t-00-32-15) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-josh-hammer-t-00-52-52) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-josh-hammer-t-01-05-42) | 1 |
 
 </details>
 </section>
@@ -136,7 +138,15 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (192)</strong></summary>
+<summary><strong class="section-title">Raw mentions (193)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:05:49](/episodes/ep-bIuvTKlFeGo.md#ent-person-josh-hammer-t-01-05-42)**
+> "...le who like Dave Smith versus Josh Hammer allowing him to just absolutely destroy Josh Hamm..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -1009,10 +1019,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Debated (1)</summary>
 
 - **[Dave Smith](/entities/person-dave-smith.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:40:02](/episodes/ep-his-JBjlkh8.md#t-00-40-02): “Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:05:49](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42): “He also Charlie (Charlie Kirk) also declined to have Bibi Netanyahu (Benjamin Netanyahu) on his show. So it's very clear which way the wind was blowing if he's covering Epstein (Jeffrey Epstein) hosting people who like Dave Smith versus Josh Hammer allowing him to just absolutely destroy Josh Hammer in a debate.”
 
 </details>
 
@@ -1179,10 +1190,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 - **[Dave Smith](/entities/person-dave-smith.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:40:02](/episodes/ep-his-JBjlkh8.md#t-00-40-02): “Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:05:49](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42): “He also Charlie (Charlie Kirk) also declined to have Bibi Netanyahu (Benjamin Netanyahu) on his show. So it's very clear which way the wind was blowing if he's covering Epstein (Jeffrey Epstein) hosting people who like Dave Smith versus Josh Hammer allowing him to just absolutely destroy Josh Hammer in a debate.”
 
 </details>
 

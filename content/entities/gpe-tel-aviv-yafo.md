@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv-Yafo"
-description: "Tel Aviv-Yafo (Places) - 27 mentions"
+description: "Tel Aviv-Yafo (Places) - 28 mentions"
 id: "gpe-tel-aviv-yafo"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-01-02-48">2025-09-15 · 01:03:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-tel-aviv-yafo-t-00-23-45">2026-07-14 · 00:24:00</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-tel-aviv-yafo-t-00-36-31">2026-09-15 · 00:36:31</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -49,6 +49,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-13" style="--pulse-height:33%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-tel-aviv-yafo-t-00-23-17" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-tel-aviv-yafo-t-00-23-45" style="--pulse-height:17%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-tel-aviv-yafo-t-00-36-31" style="--pulse-height:17%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-13) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-tel-aviv-yafo-t-00-23-17) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-tel-aviv-yafo-t-00-23-45) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-tel-aviv-yafo-t-00-36-31) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:36:31](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-tel-aviv-yafo-t-00-36-31)**
+> "... run this morning over inside Tel Aviv along the beach against Iraq's better judgment."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>

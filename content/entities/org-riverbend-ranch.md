@@ -1,6 +1,6 @@
 ---
 title: "Riverbend Ranch"
-description: "Riverbend Ranch (Organizations) - 174 mentions"
+description: "Riverbend Ranch (Organizations) - 179 mentions"
 id: "org-riverbend-ranch"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-riverbend-ranch-t-00-37-09">2025-09-17 · 00:37:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-31-15">2026-03-18 · 00:31:23</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>174</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-36-41">2026-09-30 · 00:36:41</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>179</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -62,6 +62,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35" style="--pulse-height:67%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 6 mentions" title="2026-02-11 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-11" style="--pulse-height:67%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 6 mentions" title="2026-03-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-29-46" style="--pulse-height:67%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 6 mentions" title="2026-03-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-35-12" style="--pulse-height:56%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 5 mentions" title="2026-09-30 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +93,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35) | 6 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-11) | 6 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-29-46) | 6 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-35-12) | 5 |
 
 </details>
 </section>
@@ -99,7 +101,27 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+<summary><strong class="section-title">Raw mentions (179)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (5 mentions)</summary>
+
+**[00:35:43](/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-35-12)**
+> "...I have to tell you guys about Riverbend Ranch. I absolutely love their steaks. They are incredi..."
+
+**[00:35:49](/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-35-12)**
+> "For 35 years, Riverbend Ranch has been creating an elite Angus herd using ultra..."
+
+**[00:36:08](/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-35-56)**
+> "Now, Riverbend Ranch is using the fat from their cattle to make 100% p..."
+
+**[00:36:31](/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-35-56)**
+> "... difference yourself, head to RiverbendRanch.com and use promo code CANDACE at checkout for $20 of..."
+
+**[00:36:41](/episodes/ep-5TTkMa49qj8.md#ent-org-riverbend-ranch-t-00-36-41)**
+> "Again, that's riverbendranch.com promo code CANDACE at checkout."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (6 mentions)</summary>
@@ -748,12 +770,13 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “All right, you guys, this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:26:36](/episodes/ep-5-HUyv9LyMg.md#t-00-26-11): “you know how much I absolutely love Riverbend Ranch steaks”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:26:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-26-13): “I have been speaking a lot about Riverbend Ranch because I love their steaks.”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:22](/episodes/ep-2WEHTk0Xewg.md#t-00-37-09): “I want to remind you guys about Riverbend Ranch because I absolutely love them as a company”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:35:43](/episodes/ep-5TTkMa49qj8.md#t-00-35-12): “Also, I have to tell you guys about Riverbend Ranch. I absolutely love their steaks. They are incredible.”
 
 </details>
 
@@ -763,14 +786,30 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “All right, you guys, this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:26:36](/episodes/ep-5-HUyv9LyMg.md#t-00-26-11): “you know how much I absolutely love Riverbend Ranch steaks”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:26:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-26-13): “I have been speaking a lot about Riverbend Ranch because I love their steaks.”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:22](/episodes/ep-2WEHTk0Xewg.md#t-00-37-09): “I want to remind you guys about Riverbend Ranch because I absolutely love them as a company”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:35:43](/episodes/ep-5TTkMa49qj8.md#t-00-35-12): “Also, I have to tell you guys about Riverbend Ranch. I absolutely love their steaks. They are incredible.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Riverbend Ranch (2)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:35:49](/episodes/ep-5TTkMa49qj8.md#t-00-35-12) (Claim) **Candace Owens**: ["In a sponsor read, Owens said Riverbend Ranch had developed its Angus ..."](/statements/statement-273444c53428.md)
+  - Also about: [Angus cattle](/entities/concept-angus-cattle.md)
+
+- [00:36:08](/episodes/ep-5TTkMa49qj8.md#t-00-35-56) (Claim) **Candace Owens**: ["In a sponsor read, Owens said Riverbend Ranch’s 100% pure beef tallow ..."](/statements/statement-2cf7457f8674.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "House Inhabit"
-description: "House Inhabit (Works & Media) - 8 mentions"
+description: "House Inhabit (Works & Media) - 11 mentions"
 id: "work-house-inhabit"
 type: "WORK"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Us | House Inhabit](https://www.houseinhabit.com/pages/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-work-house-inhabit-t-00-55-14">2026-03-30 · 00:55:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-work-house-inhabit-t-00-31-07">2026-05-07 · 00:31:21</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#t-01-02-04">2026-10-06 · 01:02:15</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,9 @@ Source: [About Us | House Inhabit](https://www.houseinhabit.com/pages/about-us)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-work-house-inhabit-t-00-55-14" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-work-house-inhabit-t-00-26-57" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 6 mentions" title="2026-05-07 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#t-00-06-48" style="--pulse-height:17%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-02-06" style="--pulse-height:17%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#t-01-02-04" style="--pulse-height:17%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +47,9 @@ Source: [About Us | House Inhabit](https://www.houseinhabit.com/pages/about-us)
 |---|---|---:|
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-work-house-inhabit-t-00-55-14) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-work-house-inhabit-t-00-26-57) | 6 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-02-06) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-01-02-04) | 1 |
 
 </details>
 </section>
@@ -51,7 +57,31 @@ Source: [About Us | House Inhabit](https://www.houseinhabit.com/pages/about-us)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:02:15](/episodes/ep-0pSAhaAZz1w.md#t-01-02-04)**
+> "And the mamacitas aren't happy. They're talking a house and habit and stuff, but we're going to keep them there."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06)**
+> "This was originally reported on by Jessica Reed Krause (House and Habit author; transcript surname spelling unverified), House and Habit. I independently confirmed this information via three individuals who separately know Candace (Candace Owens). Oh, it's, I'm just getting worse every week, you guys."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:06:55](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48)**
+> "He told House and Habit like Jessica Reed Kraus that she has all the same natural talents as Candace (Candace Owens)."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (6 mentions)</summary>
@@ -93,6 +123,18 @@ Source: [About Us | House Inhabit](https://www.houseinhabit.com/pages/about-us)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Authored By (1)</summary>
+
+- **[Jessica Reed Kraus](/entities/person-jessica-reed-kraus.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06): “This was originally reported on by Jessica Reed Krause (House and Habit author; transcript surname spelling unverified), House and Habit. I independently confirmed this information via three individuals who separately know Candace (Candace Owens). Oh, it's, I'm just getting worse every week, you guys.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -105,7 +147,14 @@ Source: [About Us | House Inhabit](https://www.houseinhabit.com/pages/about-us)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Jessica Reed Kraus](/entities/person-jessica-reed-kraus.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06): “This was originally reported on by Jessica Reed Krause (House and Habit author; transcript surname spelling unverified), House and Habit. I independently confirmed this information via three individuals who separately know Candace (Candace Owens). Oh, it's, I'm just getting worse every week, you guys.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -119,7 +168,15 @@ Source: [About Us | House Inhabit](https://www.houseinhabit.com/pages/about-us)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about House Inhabit (1)</strong></summary>
+<summary><strong class="section-title">Statements about House Inhabit (2)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06) (Citation) **Lisa Knows (social-media account; identity unverified)** (via quoted tweet): ["The account introduced as Lisa Knows claimed the nanny allegations wer..."](/statements/statement-fc461bf14d6f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Jessica Reed Kraus](/entities/person-jessica-reed-kraus.md), [Three unnamed individuals cited in Lisa Knows tweet (identities unverified)](/entities/anon-src-ms5ChhZegRg-020.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>

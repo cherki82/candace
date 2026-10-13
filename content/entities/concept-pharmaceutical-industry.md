@@ -1,6 +1,6 @@
 ---
 title: "Pharmaceutical industry"
-description: "Pharmaceutical industry (Concepts) - 13 mentions"
+description: "Pharmaceutical industry (Concepts) - 15 mentions"
 id: "concept-pharmaceutical-industry"
 type: "CONCEPT"
 aliases:
@@ -24,11 +24,11 @@ Source: [Pharmaceutical industry | Britannica](https://www.britannica.com/techno
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-pharmaceutical-industry-t-00-50-05">2025-12-05 · 00:50:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-pharmaceutical-industry-t-00-56-06">2026-08-07 · 00:56:40</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-pharmaceutical-industry-t-00-47-37">2026-10-06 · 00:47:48</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Pharmaceutical industry | Britannica](https://www.britannica.com/techno
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-pharmaceutical-industry-t-00-31-25" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pharmaceutical-industry-t-00-17-19" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-pharmaceutical-industry-t-00-56-06" style="--pulse-height:33%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-pharmaceutical-industry-t-00-47-37" style="--pulse-height:67%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Pharmaceutical industry | Britannica](https://www.britannica.com/techno
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-pharmaceutical-industry-t-00-31-25) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pharmaceutical-industry-t-00-17-19) | 2 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-pharmaceutical-industry-t-00-56-06) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-pharmaceutical-industry-t-00-47-37) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Pharmaceutical industry | Britannica](https://www.britannica.com/techno
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:47:37](/episodes/ep-0pSAhaAZz1w.md#ent-concept-pharmaceutical-industry-t-00-47-37)**
+> "...nnedy Jr.) because, you know, big pharma, big piece of that wealth, you know."
+
+**[00:47:48](/episodes/ep-0pSAhaAZz1w.md#ent-concept-pharmaceutical-industry-t-00-47-37)**
+> "...f cross-contamination between Big Pharma, the Adelsons, methadone, et cetera, et cetera. B..."
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -163,7 +176,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pharmaceutical industry (3)</strong></summary>
+<summary><strong class="section-title">Statements about Pharmaceutical industry (4)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:47:37](/episodes/ep-0pSAhaAZz1w.md#t-00-47-37) (Opinion) **Candace Owens**: ["Owens guessed that RFK Jr. could not be clipped because pharmaceutical..."](/statements/statement-091cfe9ed430.md)
+  - Also about: [Robert F. Kennedy Jr.](/entities/person-robert-f-kennedy-jr.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2)</summary>

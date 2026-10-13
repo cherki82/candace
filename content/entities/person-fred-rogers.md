@@ -1,6 +1,6 @@
 ---
 title: "Fred Rogers"
-description: "Fred Rogers (People) - 3 mentions"
+description: "Fred Rogers (People) - 5 mentions"
 id: "person-fred-rogers"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Fred — Fred Rogers Institute](https://www.fredrogersinstitute.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-fred-rogers-t-00-43-18">2026-05-06 · 00:43:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-fred-rogers-t-00-43-50">2026-05-06 · 00:44:17</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-fred-rogers-t-00-08-21">2026-09-14 · 00:08:21</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,14 @@ Source: [About Fred — Fred Rogers Institute](https://www.fredrogersinstitute.o
 <p>Highest activity: <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-fred-rogers-t-00-43-18">Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-fred-rogers-t-00-43-18" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-fred-rogers-t-00-08-21" style="--pulse-height:67%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-fred-rogers-t-00-43-18) | 3 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-fred-rogers-t-00-08-21) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [About Fred — Fred Rogers Institute](https://www.fredrogersinstitute.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:08:12](/episodes/ep-O4Zw3bCALjU.md#ent-person-fred-rogers-t-00-08-21)**
+> "... Boreing is Ted Bundy doing a Mr. Rogers (Fred Rogers) impression. And he's now just sort ..."
+
+**[00:08:21](/episodes/ep-O4Zw3bCALjU.md#ent-person-fred-rogers-t-00-08-21)**
+> "Rogers (Fred Rogers) impression. And he's now just sort of pretending..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>

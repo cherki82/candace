@@ -1,6 +1,6 @@
 ---
 title: "Discord"
-description: "Discord (Organizations) - 51 mentions"
+description: "Discord (Organizations) - 72 mentions"
 id: "org-discord"
 type: "ORG"
 aliases:
@@ -22,36 +22,40 @@ Source: [Discord — About Discord](https://discord.com/company)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">2025-09-15 · 00:52:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-45-23">2026-09-01 · 00:45:41</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-51-50">2026-10-07 · 00:52:01</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-07-26">CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44" style="--pulse-height:88%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-discord-t-00-16-45" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-discord-t-00-15-13" style="--pulse-height:12%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51" style="--pulse-height:38%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-discord-t-00-38-02" style="--pulse-height:12%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-discord-t-00-42-43" style="--pulse-height:12%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-discord-t-00-01-24" style="--pulse-height:25%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-discord-t-00-22-05" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-discord-t-00-53-11" style="--pulse-height:38%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 8 mentions" title="2026-04-13 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-discord-t-00-11-53" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-discord-t-00-08-38" style="--pulse-height:12%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 8 mentions" title="2026-07-31 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14" style="--pulse-height:12%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-43-55" style="--pulse-height:50%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44" style="--pulse-height:50%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-discord-t-00-16-45" style="--pulse-height:29%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-discord-t-00-15-13" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51" style="--pulse-height:21%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-discord-t-00-38-02" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-discord-t-00-42-43" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-discord-t-00-01-24" style="--pulse-height:14%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-discord-t-00-22-05" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-discord-t-00-53-11" style="--pulse-height:21%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55" style="--pulse-height:57%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 8 mentions" title="2026-04-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-discord-t-00-11-53" style="--pulse-height:14%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-discord-t-00-08-38" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45" style="--pulse-height:57%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 8 mentions" title="2026-07-31 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-43-55" style="--pulse-height:29%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-discord-t-00-21-37" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-discord-t-00-41-00" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-07-26" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 14 mentions" title="2026-10-06 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-06-42" style="--pulse-height:36%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 5 mentions" title="2026-10-07 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +78,10 @@ Source: [Discord — About Discord](https://discord.com/company)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-43-55) | 4 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-discord-t-00-21-37) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-discord-t-00-41-00) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-07-26) | 14 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-06-42) | 5 |
 
 </details>
 </section>
@@ -85,7 +93,90 @@ Source: [Discord — About Discord](https://discord.com/company)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (5 mentions)</summary>
+
+**[00:07:07](/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-06-42)**
+> "... Monster Labs complete with a discord elephant clipping channel."
+
+**[00:09:01](/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-08-40)**
+> "...cal clipping campaign through Discord?"
+
+**[00:09:08](/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-08-40)**
+> "Through Discord."
+
+**[00:43:52](/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-43-32)**
+> "...hady sites and pay people via discord. I don't even understand the legality of that."
+
+**[00:52:01](/episodes/ep-yrg_-D6oNHE.md#ent-org-discord-t-00-51-50)**
+> "You don't have to go on Discord. We don't need your cash given to a Latvian nerd ..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (14 mentions)</summary>
+
+**[00:07:51](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-07-26)**
+> "Discord. The assignment was going out on Discord. I was l..."
+
+**[00:07:59](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-07-59)**
+> "I'm not hip with Discord. All I really know about Discord is that that's a..."
+
+**[00:08:13](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-07-59)**
+> "...urning point USA is not using Discord. to go after their enemies. Well, officially, you..."
+
+**[00:09:28](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-09-11)**
+> "...one, you are then thrown into Discord."
+
+**[00:09:34](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-09-11)**
+> "Discord is then going to give you details about the campa..."
+
+**[00:12:14](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-12-14)**
+> "...cated these instructions over Discord. So here is what was communicated from elephant c..."
+
+**[00:13:43](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-13-34)**
+> "Ah, discord tells a different story. They said they were not ..."
+
+**[00:14:27](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-14-17)**
+> "...cause this group is closed on Discord by someone who wanted to expose what was happenin..."
+
+**[00:16:56](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-16-49)**
+> "...ally rely on chat servers, on Discord, an internet messaging app that was initially dev..."
+
+**[00:17:06](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-16-49)**
+> "... me, I was able to access its Discord server and other related political clipping campa..."
+
+**[00:18:00](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-17-32)**
+> "Discord records for elephant clipping's budget go back on..."
+
+**[00:24:27](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-24-08)**
+> "The article continues. The Discord server doesn't specify who is paying elephant cli..."
+
+**[00:30:06](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-30-06)**
+> "...inked to Enclave and Key, the Discord channels for U.S. politics clipping and elephant ..."
+
+**[00:32:10](/episodes/ep-0pSAhaAZz1w.md#ent-org-discord-t-00-32-10)**
+> "Two sub-campaigns in the Discord offer extra money for clippers to post favorable ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:41:18](/episodes/ep-5TTkMa49qj8.md#ent-org-discord-t-00-41-00)**
+> "...know they're paying people on discord to do this stuff, but they're acting too proud."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:21:37](/episodes/ep-_Sq5RqP27NY.md#ent-org-discord-t-00-21-37)**
+> "That's it. Discord. Oh, he made a confession on Discord. OK, is it p..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
@@ -348,7 +439,63 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Discord (5)</strong></summary>
+<summary><strong class="section-title">Statements about Discord (17)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:09:01](/episodes/ep-yrg_-D6oNHE.md#t-00-08-40) (Accusation) **Candace Owens**: ["Owens rhetorically asked, "Who in their right mind would pay a million..."](/statements/statement-aafa1fa7af37.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (9)</summary>
+
+- [00:07:26](/episodes/ep-0pSAhaAZz1w.md#t-00-07-26) (Accusation) **Clipping-campaign email tipsters (identity unverified)** (via read message): ["Unidentified email tipsters, as summarized by Owens, claimed participa..."](/statements/statement-5c8cb4bac516.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:07:59](/episodes/ep-0pSAhaAZz1w.md#t-00-07-59) (Claim) **Candace Owens** (via paraphrase): ["Owens said Discord was apparently where Tyler Robinson published his a..."](/statements/statement-ad4530467964.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:08:58](/episodes/ep-0pSAhaAZz1w.md#t-00-08-36) (Claim) **Candace Owens**: ["Owens described Monster Lab editors choosing campaigns, receiving inst..."](/statements/statement-24812ddb9ebf.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md), [Instagram](/entities/org-instagram.md)
+
+- [00:11:58](/episodes/ep-0pSAhaAZz1w.md#t-00-11-35) (Claim) **Candace Owens**: ["Owens said that after her August 14 debate with Andrew Wilson the camp..."](/statements/statement-b8c57b3216f4.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:33](/episodes/ep-0pSAhaAZz1w.md#t-00-16-10) (Accusation) **Ali Breland** (via quoted article): ["Breland reported that the clipping company paid subcontractors, many f..."](/statements/statement-31e7473ef752.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:17:06](/episodes/ep-0pSAhaAZz1w.md#t-00-16-49) (Accusation) **Ali Breland** (via quoted article): ["Breland reported joining Elephant Clipping’s Discord after an anonymou..."](/statements/statement-16a014e3d941.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Republican Party](/entities/org-republican-party.md), [Astroturfing](/entities/concept-astroturfing.md)
+
+- [00:18:00](/episodes/ep-0pSAhaAZz1w.md#t-00-17-32) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Elephant Clipping’s Discord budget records went ..."](/statements/statement-c29cef06f367.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md)
+
+- [00:29:43](/episodes/ep-0pSAhaAZz1w.md#t-00-29-43) (Claim) **Ali Breland** (via quoted article): ["Breland reported that after he contacted the Wynns, Enclave and Key, a..."](/statements/statement-97a3f8affc42.md)
+  - Also about: [Enclave & Key](/entities/org-enclave-and-key.md), [Jules Katz](/entities/person-jules-katz.md), [Jack O’Hara](/entities/person-jack-ohara.md)
+
+- [00:32:10](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10) (Claim) **Ali Breland** (via quoted article): ["Breland reported two Discord sub-campaigns offering extra money for fa..."](/statements/statement-e8909a0b27b1.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:41:18](/episodes/ep-5TTkMa49qj8.md#t-00-41-00) (Accusation) **Candace Owens**: ["Owens alleged people are being paid on Discord to produce attacks agai..."](/statements/statement-271b3bc45cc5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:20:55](/episodes/ep-_Sq5RqP27NY.md#t-00-20-55) (Accusation) **Candace Owens**: ["Owens said she had long suspected Lance Twiggs was not sleeping throug..."](/statements/statement-6b54a1a929a9.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

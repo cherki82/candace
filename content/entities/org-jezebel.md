@@ -1,6 +1,6 @@
 ---
 title: "Jezebel"
-description: "Jezebel (Organizations) - 11 mentions"
+description: "Jezebel (Organizations) - 12 mentions"
 id: "org-jezebel"
 type: "ORG"
 categories:
@@ -17,11 +17,11 @@ Source: [Jezebel](https://www.jezebel.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-jezebel-t-00-33-55">2025-09-24 · 00:33:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-jezebel-t-00-29-12">2026-05-27 · 00:29:21</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-jezebel-t-01-27-56">2026-09-25 · 01:28:17</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -35,6 +35,7 @@ Source: [Jezebel](https://www.jezebel.com/)
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-jezebel-t-00-48-20" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-jezebel-t-00-38-30" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-jezebel-t-00-29-12" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-jezebel-t-01-27-56" style="--pulse-height:25%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Jezebel](https://www.jezebel.com/)
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-jezebel-t-00-48-20) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-jezebel-t-00-38-30) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-jezebel-t-00-29-12) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-jezebel-t-01-27-56) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [Jezebel](https://www.jezebel.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:28:17](/episodes/ep-bIuvTKlFeGo.md#ent-org-jezebel-t-01-27-56)**
+> "... writes her first article for Jezebel. She's going to be the one that writes the articl..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -125,9 +135,10 @@ Source: [Jezebel](https://www.jezebel.com/)
 <summary>Has Contributor (1)</summary>
 
 - **[Claire Guinan](/entities/person-claire-guinan.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:29:21](/episodes/ep-MhakwJxK-Zk.md#t-00-29-12): “This writer, Claire Guinan, who had never published before—she has no writing profile at all—writes her first article for Jezebel.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:28:17](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56): “Yeah. And then on June 26th is when suddenly Claire Guinan writes her first article for Jezebel. She's going to be the one that writes the article about the witch's curse. She had no writing profile before that new writer.”
 
 </details>
 
@@ -137,9 +148,10 @@ Source: [Jezebel](https://www.jezebel.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Claire Guinan](/entities/person-claire-guinan.md)** contributor to this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:29:21](/episodes/ep-MhakwJxK-Zk.md#t-00-29-12): “This writer, Claire Guinan, who had never published before—she has no writing profile at all—writes her first article for Jezebel.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:28:17](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56): “Yeah. And then on June 26th is when suddenly Claire Guinan writes her first article for Jezebel. She's going to be the one that writes the article about the witch's curse. She had no writing profile before that new writer.”
 
 </details>
 
@@ -148,7 +160,15 @@ Source: [Jezebel](https://www.jezebel.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jezebel (3)</strong></summary>
+<summary><strong class="section-title">Statements about Jezebel (4)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:28:17](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56) (Claim) **Candace Owens**: ["Owens said Claire Guinan wrote her first Jezebel article on June 26th ..."](/statements/statement-7bd757b66e85.md)
+  - Also about: [Claire Guinan](/entities/person-claire-guinan.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

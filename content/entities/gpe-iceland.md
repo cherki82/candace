@@ -1,6 +1,6 @@
 ---
 title: "Iceland"
-description: "Iceland (Places) - 18 mentions"
+description: "Iceland (Places) - 21 mentions"
 id: "gpe-iceland"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iceland-t-00-56-19">2026-06-10 · 00:56:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-iceland-t-00-34-21">2026-09-08 · 00:34:41</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-iceland-t-01-00-09">2026-09-15 · 01:00:32</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01" style="--pulse-height:11%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-00-37" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-iceland-t-00-34-21" style="--pulse-height:11%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-iceland-t-00-59-30" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-00-37) | 3 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-iceland-t-00-34-21) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-iceland-t-00-59-30) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:59:30](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-iceland-t-00-59-30)**
+> "...o Brandon Tatum when I was in Iceland just because of the time difference."
+
+**[00:59:41](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-iceland-t-00-59-30)**
+> "So I was literally fishing in Iceland with John Mappin and my husband and me and Brando..."
+
+**[01:00:32](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-iceland-t-01-00-09)**
+> "... conversation when we were in Iceland."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

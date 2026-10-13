@@ -16,10 +16,23 @@ date: "2019"
 
 > Charlie Kirk and Erika Kirk attended Candace Owens's wedding.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigan...
 
 **Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
 **Timestamp:** [00:38:50](/episodes/ep-_cNtgris8Ik.md#event-event-2019-charlie-kirk-and-erika-kirk-attended-can-t-00-38-50) 
 <a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=2330s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > why were charlie and erica at my wedding at the end of 2019
+
+### 2. Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces ...
+
+**Episode:** [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md)
+**Timestamp:** [00:10:40](/episodes/ep-NNiCZk1cuzs.md#t-00-10-32) 
+<a href="https://www.youtube.com/watch?v=NNiCZk1cuzs&t=640s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie and Erika came to my wedding in August of 2019,
+
+> **Date stated in this source:** “August of 2019”
+> **Date review note:** This source gives August; the existing canonical event retains year precision. No second event is created.

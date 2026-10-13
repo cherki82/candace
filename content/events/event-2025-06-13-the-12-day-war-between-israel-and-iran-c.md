@@ -20,7 +20,7 @@ date: "2025-06-13"
 
 > The 12-day war between Israel and Iran commenced.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
 
@@ -37,3 +37,11 @@ date: "2025-06-13"
 <a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1668s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > June 13th, we have Iran and Israel's 12-day war, but I really want to scroll down here
+
+### 3. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:25:50](/episodes/ep-q4m-kGzvwjw.md#t-00-25-50) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1550s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> June 13th, Iran and Israel 12 day war commences. Bibi Netanyahu and his

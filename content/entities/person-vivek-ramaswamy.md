@@ -1,6 +1,6 @@
 ---
 title: "Vivek Ramaswamy"
-description: "Vivek Ramaswamy (People) - 4 mentions"
+description: "Vivek Ramaswamy (People) - 6 mentions"
 id: "person-vivek-ramaswamy"
 type: "PERSON"
 categories:
@@ -17,23 +17,24 @@ Source: [Vivek Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-vivek-ramaswamy-t-00-19-58">2025-09-25 · 00:20:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-vivek-ramaswamy-t-00-16-26">2025-12-03 · 00:16:32</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-vivek-ramaswamy-t-00-45-08">2026-10-06 · 00:45:16</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-vivek-ramaswamy-t-00-19-58">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-vivek-ramaswamy-t-00-32-10">CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-vivek-ramaswamy-t-00-19-58" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-vivek-ramaswamy-t-00-41-32" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-vivek-ramaswamy-t-00-13-42" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-vivek-ramaswamy-t-00-16-26" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-vivek-ramaswamy-t-00-19-58" style="--pulse-height:50%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-vivek-ramaswamy-t-00-41-32" style="--pulse-height:50%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-vivek-ramaswamy-t-00-13-42" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-vivek-ramaswamy-t-00-16-26" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-vivek-ramaswamy-t-00-32-10" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [Vivek Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy)
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-vivek-ramaswamy-t-00-41-32) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-vivek-ramaswamy-t-00-13-42) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-vivek-ramaswamy-t-00-16-26) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-vivek-ramaswamy-t-00-32-10) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [Vivek Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:32:10](/episodes/ep-0pSAhaAZz1w.md#ent-person-vivek-ramaswamy-t-00-32-10)**
+> "...o post favorable videos about Vivek Ramaswamy, a GOP candidate for Ohio governor, and Gabbard (..."
+
+**[00:45:16](/episodes/ep-0pSAhaAZz1w.md#ent-person-vivek-ramaswamy-t-00-45-08)**
+> "... Ben Shapiro, Steven Crowder, Vivek Ramaswamy, President Trump (Donald J. Trump), J.D. Vance. A..."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
@@ -90,5 +103,18 @@ Source: [Vivek Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Vivek Ramaswamy (1)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:32:10](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10) (Claim) **Ali Breland** (via quoted article): ["Breland reported two Discord sub-campaigns offering extra money for fa..."](/statements/statement-e8909a0b27b1.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Discord](/entities/org-discord.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+</details>
 
 </details>

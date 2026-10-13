@@ -12,7 +12,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (14 times)
+## Mentioned In (15 times)
 
 ### 1. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
@@ -125,3 +125,11 @@ date: "2025-09-09"
 <a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=551s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And during that call, he was texting people that he was worried that he was going to be killed the next day.
+
+### 15. BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charli...
+
+**Episode:** [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md)
+**Timestamp:** [00:18:35](/episodes/ep-aLJhpxrakCU.md#t-00-18-13) 
+<a href="https://www.youtube.com/watch?v=aLJhpxrakCU&t=1115s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie notified his security team the night before that he was worried

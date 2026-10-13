@@ -358,7 +358,7 @@ youtube_url: "https://www.youtube.com/watch?v=SubDoZWHARo"
 <summary><strong>Timeline Events (9)</strong></summary>
 
 - **2025-09-09**: [Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.](/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md)
-- **2025-09-10**: [Candace Owens said Andrew Pasqualo was detained on September 10, 2025; the transcript flags his name spelling as unverified.](/events/event-2025-09-10-candace-owens-said-andrew-pasqualo-was-d.md)
+- **2025-09-10**: [Candace Owens said the September 10 witness Andrew, described as researching military-linked Ukrainian trafficking, was detained or questioned by federal investigators on September 10, 2025; transcripts render the unverified surname as Pasqualo or Pisgodlo.](/events/event-2025-09-10-candace-owens-said-andrew-pasqualo-was-d.md)
 - **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
 - **2025-10**: [Candace Owens said Turning Point USA moved a Believers Summit that had been scheduled for October 2025 after weak ticket demand.](/events/event-2025-10-candace-owens-said-turning-point-usa-mov.md)
 - **2026-03-30**: [Candace Owens said a notice showed that Erika Kirk's planned Georgia high school event had been arranged on March 30, 2026.](/events/event-2026-03-30-candace-owens-said-a-notice-showed-that-.md)

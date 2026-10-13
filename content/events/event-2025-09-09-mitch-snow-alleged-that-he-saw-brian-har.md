@@ -16,7 +16,7 @@ date: "2025-09-09"
 
 > Mitch Snow alleged that he saw Brian Harpole at a senior-level meeting at Fort Huachuca.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -65,3 +65,11 @@ date: "2025-09-09"
 <a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=967s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > evidence that Mitch was telling the truth about what happened on September 9th.
+
+### 7. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
+
+**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
+**Timestamp:** [00:41:26](/episodes/ep-9k2xrAC0H88.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-40-54) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=2486s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He's convinced he saw Brian Harpole walking out of this big wig meeting on the 9th.

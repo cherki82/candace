@@ -11,7 +11,7 @@ object: "gpe-china"
 
 ## [Erika Kirk](/entities/person-erika-kirk) formerly lived in [China](/entities/gpe-china)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
@@ -28,6 +28,10 @@ object: "gpe-china"
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 
 - [00:48:17](/episodes/ep-SubDoZWHARo#t-00-48-17): _Erika Kirk says that she lived in China and worked with child sex trafficking victims_
+
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:06:33](/episodes/ep-kn1E0scy9Wc#t-00-06-33): _I did interview Tim Ballard. Erika (Erika Kirk) lived in China and worked with child sex trafficking victims. According to her, we have not been able to locate who she was working with at that time._
 
 ### Related
 

@@ -1,19 +1,27 @@
 ---
 title: "Alex Faria (security team member; identity unverified)"
-description: "Alex Faria (security team member; identity unverified) (Anonymous Sources) - 7 mentions"
+description: "Alex Faria (security team member; identity unverified) (Anonymous Sources) - 8 mentions"
 id: "anon-src-HIlPQ-_dcxM-001"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "source-named security participant"
 ---
 
 _Type: Anonymous Sources_
 
+**Categories:** source-named security participant
+
+**Entity verification:** verified
+> Reused recurring security participant Alex Faria; legal identity remains unverified. Source representation only; no underlying claim verification.
+Source: [Candace Ep 400 — source appearance](https://www.youtube.com/watch?v=UAdBEXs7nNc&t=412s)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11">2026-09-02 · 00:11:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-25-01">2026-09-09 · 00:25:15</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-anon-src-HIlPQ-_dcxM-001-t-00-06-52">2026-10-08 · 00:06:52</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -25,6 +33,7 @@ _Type: Anonymous Sources_
 <a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11" style="--pulse-height:20%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#t-00-01-34" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 5 mentions" title="2026-09-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#t-00-25-01" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-anon-src-HIlPQ-_dcxM-001-t-00-06-52" style="--pulse-height:20%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -33,6 +42,7 @@ _Type: Anonymous Sources_
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-01-34) | 5 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-25-01) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-anon-src-HIlPQ-_dcxM-001-t-00-06-52) | 1 |
 
 </details>
 </section>
@@ -44,7 +54,15 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:06:52](/episodes/ep-UAdBEXs7nNc.md#ent-anon-src-HIlPQ-_dcxM-001-t-00-06-52)**
+> "Here's a refresher on that. Here's the map of cars. Okay, now we know that that Yukon Denali is gone, which was being driven by Christopher (Christopher Rhoades), but we have a Jeep Wagoneer, which was a security vehicle that was being driven by Alex Faria (security team member; identity unverified), Dan Flood. We've got the Lincoln Navigator, which was being driven by Justin Davis."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -92,7 +110,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Faria (security team member; identity unverified) (2)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Faria (security team member; identity unverified) (3)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:06:52](/episodes/ep-UAdBEXs7nNc.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens described a Jeep Wagoneer as a security vehicle, mentioned Alex ..."](/statements/statement-3b98294673d1.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Justin Davis](/entities/person-justin-davis.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>

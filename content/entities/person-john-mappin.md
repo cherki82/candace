@@ -1,6 +1,6 @@
 ---
 title: "John Mappin"
-description: "John Mappin (People) - 22 mentions"
+description: "John Mappin (People) - 28 mentions"
 id: "person-john-mappin"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-44-22">2025-10-07 · 00:44:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-john-mappin-t-00-05-59">2026-09-10 · 00:05:59</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-john-mappin-t-00-56-04">2026-09-16 · 00:56:31</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,8 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-john-mappin-t-00-22-42" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-john-mappin-t-00-03-40" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 12 mentions" title="2026-08-31 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-john-mappin-t-00-05-21" style="--pulse-height:17%" aria-label="One Year On… To My Friend Charlie Kirk.: 2 mentions" title="2026-09-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-john-mappin-t-00-58-51" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 4 mentions" title="2026-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-john-mappin-t-00-56-04" style="--pulse-height:17%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 2 mentions" title="2026-09-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +52,8 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-john-mappin-t-00-22-42) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-john-mappin-t-00-03-40) | 12 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-john-mappin-t-00-05-21) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-john-mappin-t-00-58-51) | 4 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-john-mappin-t-00-56-04) | 2 |
 
 </details>
 </section>
@@ -57,7 +61,35 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2 mentions)</summary>
+
+**[00:56:04](/episodes/ep-aLJhpxrakCU.md#ent-person-john-mappin-t-00-56-04)**
+> "...ne providence in action. P.S. John Mappin is a proper legend, a top bloke and an absolute d..."
+
+**[00:56:31](/episodes/ep-aLJhpxrakCU.md#ent-person-john-mappin-t-00-56-04)**
+> "...man is what I would say about John Mappin without question."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (4 mentions)</summary>
+
+**[00:59:00](/episodes/ep-kn1E0scy9Wc.md#ent-person-john-mappin-t-00-58-51)**
+> "...Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also ..."
+
+**[00:59:14](/episodes/ep-kn1E0scy9Wc.md#ent-person-john-mappin-t-00-58-51)**
+> "... weekend, that interview with John Mappin."
+
+**[00:59:30](/episodes/ep-kn1E0scy9Wc.md#ent-person-john-mappin-t-00-59-30)**
+> "...of people were discussing me. John Mappin was with me when I spoke to Brandon Tatum when I ..."
+
+**[00:59:41](/episodes/ep-kn1E0scy9Wc.md#ent-person-john-mappin-t-00-59-30)**
+> "...rally fishing in Iceland with John Mappin and my husband and me and Brandon (Brandon Tatum)..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (2 mentions)</summary>
@@ -191,9 +223,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <summary>Defended (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:07:56](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38): “It says, quote, Charlie (Charlie Kirk)'s execution is an assassination with potentially far reaching political consequences for America and the world.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin.”
 
 </details>
 
@@ -212,9 +245,11 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin. Then and Brandon Tatum, I sort of took a vow of silence this weekend because I just kind of wanted to sort of sit in the one year anniversary of Charlie (Charlie Kirk)'s death. And for some reason, I felt like a lot of people were discussing me. John Mappin was with me when I spoke to Brandon Tatum when I was in Iceland just because of the time difference. So I was literally fishing in Iceland with John Mappin and my husband and me and Brandon (Brandon Tatum) were trying to.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
 
 </details>
 
@@ -242,6 +277,18 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details>
+<summary>Interviewed By (1)</summary>
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Married To (1)</summary>
 
 - **[Irina Mappin](/entities/person-irina-mappin.md)**
@@ -254,7 +301,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details>
-<summary>Supporter Of (1)</summary>
+<summary>Supporter Of (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -264,10 +311,17 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Candace Owens, Charlie Kirk and the Pursuit of Truth](/entities/work-candace-owens-charlie-kirk-pursuit-of-truth.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -285,9 +339,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** defended by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:07:56](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38): “It says, quote, Charlie (Charlie Kirk)'s execution is an assassination with potentially far reaching political consequences for America and the world.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin.”
 
 </details>
 
@@ -301,9 +356,11 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin. Then and Brandon Tatum, I sort of took a vow of silence this weekend because I just kind of wanted to sort of sit in the one year anniversary of Charlie (Charlie Kirk)'s death. And for some reason, I felt like a lot of people were discussing me. John Mappin was with me when I spoke to Brandon Tatum when I was in Iceland just because of the time difference. So I was literally fishing in Iceland with John Mappin and my husband and me and Brandon (Brandon Tatum) were trying to.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
 
 </details>
 
@@ -328,11 +385,25 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 </details>
 
+- **[Piers Morgan](/entities/person-piers-morgan.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51): “Like what? So crazy to reflect upon. Tony Hill (viewer commenter; identity unverified) writes, hi, Candace. I watched Pierce (Piers Morgan) and saw John Mappin as a guest. He did well defending you while also not giving too much considering he had three people constantly talking over him. It's nice to see real friends having your back. We love and support you always. Yes, I did see and hear that that was trending over the weekend, that interview with John Mappin.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
 - [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:56:40](/episodes/ep-aLJhpxrakCU.md#t-00-56-04): “And it's just really just all very interesting, like how we met and none of us actually should have met and how it all came together. And him and Irina (Irina Mappin) have just been fantastic friends to us, especially throughout this time, they have been extremely loyal to Charlie (Charlie Kirk) and making sure that”
 
 </details>
 
@@ -371,7 +442,18 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about John Mappin (5)</strong></summary>
+<summary><strong class="section-title">Statements about John Mappin (7)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:59:00](/episodes/ep-kn1E0scy9Wc.md#t-00-58-51) (Claim) **Tony Hill (commenter; identity unverified)** (via read message): ["Tony Hill, a commenter whose identity is unverified, wrote that John M..."](/statements/statement-c617716b18cd.md)
+  - Also about: [Piers Morgan](/entities/person-piers-morgan.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:59:30](/episodes/ep-kn1E0scy9Wc.md#t-00-59-30) (Claim) **Candace Owens**: ["Owens said she spoke with Brandon Tatum for about an hour and a half w..."](/statements/statement-2bd212182e8b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Brandon Tatum](/entities/person-brandon-tatum.md)
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1)</summary>

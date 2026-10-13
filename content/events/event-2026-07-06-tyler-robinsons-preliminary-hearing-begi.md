@@ -20,7 +20,7 @@ date: "2026-07-06"
 
 > Tyler Robinson's preliminary hearing begins in Provo, Utah
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 3...
 
@@ -53,3 +53,11 @@ date: "2026-07-06"
 <a href="https://www.youtube.com/watch?v=AH1KVKkweUE&t=622s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > some of his less than compelling moments from his testimony at the preliminary hearing
+
+### 5. CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth B...
+
+**Episode:** [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md)
+**Timestamp:** [00:01:54](/episodes/ep-0pSAhaAZz1w.md#event-event-2026-07-06-tyler-robinsons-preliminary-hearing-begi-t-00-01-41) 
+<a href="https://www.youtube.com/watch?v=0pSAhaAZz1w&t=114s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> right at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of

@@ -1,6 +1,6 @@
 ---
 title: "Antifa"
-description: "Antifa (Concepts) - 13 mentions"
+description: "Antifa (Concepts) - 15 mentions"
 id: "concept-antifa"
 type: "CONCEPT"
 categories:
@@ -19,11 +19,11 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-concept-antifa-t-00-14-52">2025-09-11 · 00:15:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42">2026-08-11 · 00:25:00</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-concept-antifa-t-00-40-54">2026-09-15 · 00:40:54</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-antifa-t-00-29-36" style="--pulse-height:17%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-antifa-t-00-06-15" style="--pulse-height:17%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42" style="--pulse-height:17%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-concept-antifa-t-00-40-20" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-antifa-t-00-29-36) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-antifa-t-00-06-15) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antifa-t-00-40-20) | 2 |
 
 </details>
 </section>
@@ -60,7 +62,18 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:40:38](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antifa-t-00-40-20)**
+> "So where she took her, there were cameras, and it got entirely captured on camera. And when interviewed by a Portland detective, Tardio's explanation was that the left-wing Antifa activists had plotted to get him."
+
+**[00:40:54](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antifa-t-00-40-54)**
+> "get him stoned makes entirely no sense he's not left wing or we're supposed to believe he took he took drugs from antifa obviously that did not work which is why he pled no contest and so he's a sexual deviant he's exactly the vibe that i get from all of these characters around turning point you just add it to the pile and when people it seems that whenever people are married to the Israel cause in a way that just unnerves me,"
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -187,7 +200,15 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antifa (1)</strong></summary>
+<summary><strong class="section-title">Statements about Antifa (2)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:40:27](/episodes/ep-kn1E0scy9Wc.md#t-00-40-20) (Claim) **Candace Owens** (via paraphrase): ["Owens said surveillance cameras at the ICE facility captured the incid..."](/statements/statement-2f3b6ecf3dc6.md)
+  - Also about: [Matt Tardio](/entities/person-matt-tardio.md), [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md)
+
+</details>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>

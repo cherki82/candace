@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 97 mentions"
+description: "Fox News (Organizations) - 105 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fox-news-t-00-31-37">2026-09-09 · 00:31:51</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>97</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-22-41">2026-09-30 · 00:23:31</a></strong></div>
+<div><span>Episodes</span><strong>58</strong></div>
+<div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -93,6 +93,10 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-fox-news-t-00-13-36" style="--pulse-height:12%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-fox-news-t-00-31-35" style="--pulse-height:12%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fox-news-t-00-31-37" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#t-00-57-26" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-fox-news-t-00-11-15" style="--pulse-height:38%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-fox-news-t-01-04-22" style="--pulse-height:12%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-15-21" style="--pulse-height:38%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 3 mentions" title="2026-09-30 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -152,6 +156,10 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-fox-news-t-00-13-36) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-fox-news-t-00-31-35) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-fox-news-t-00-31-37) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#t-00-57-26) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-fox-news-t-00-11-15) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-fox-news-t-01-04-22) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-15-21) | 3 |
 
 </details>
 </section>
@@ -163,7 +171,51 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3 mentions)</summary>
+
+**[00:15:49](/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-15-21)**
+> "...was taking interviews, taking Fox News hits. Remember this?"
+
+**[00:23:09](/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-22-41)**
+> "...he Charlie Kirk Legacy Award, Fox News. Okay, maybe the glitter. Again, I didn't even re..."
+
+**[00:23:31](/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-22-41)**
+> "...nterview on December 8th, the Fox and Friends on December 9th, co-hosting Fox's The..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:11:29](/episodes/ep-_Sq5RqP27NY.md#ent-org-fox-news-t-00-11-15)**
+> "Thank you, Fox News, for supplying the clearest image of Tyler (Tyler..."
+
+**[00:11:38](/episodes/ep-_Sq5RqP27NY.md#ent-org-fox-news-t-00-11-38)**
+> "... is weird. Now I can say that Fox News has made it clear that Tyler (Tyler Robinson)’s v..."
+
+**[00:48:40](/episodes/ep-_Sq5RqP27NY.md#ent-org-fox-news-t-00-48-19)**
+> "...the last stronghold where the Fox News viewers who day in and day out are told that what..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:04:55](/episodes/ep-bIuvTKlFeGo.md#ent-org-fox-news-t-01-04-22)**
+> "... be very clear. He said it on Fox News, so it must be true. He's killed a lot of people."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:57:26](/episodes/ep-kn1E0scy9Wc.md#t-00-57-26)**
+> "Just bravery inspires other people to be brave. Ali (viewer commenter; surname unverified) writes, Erika (Erika Kirk) gets to go on a media tour with Fox, Bari Weiss and Glenn Beck to paint you as a liar and a crazy person before you even said a bad word about her, but you can't share a meme or two. It's not like she was minding her business at home grieving when you went after her. Exactly right. The entire tour was about debunking Candace. She had first sent out the troops, the Alex Clark types, um, because she likes to keep her hands clean. But when she then did that little media..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -905,7 +957,31 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fox News (9)</strong></summary>
+<summary><strong class="section-title">Statements about Fox News (12)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:15:37](/episodes/ep-5TTkMa49qj8.md#t-00-15-21) (Claim) **Candace Owens**: ["Owens said Erika Kirk allowed Michael McCoy into Charlie Kirk’s home o..."](/statements/statement-99432392d356.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:11:15](/episodes/ep-_Sq5RqP27NY.md#t-00-11-15) (Claim) **Candace Owens**: ["Owens said her current belief, open to being proven wrong, was that th..."](/statements/statement-9901b9719648.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:57:26](/episodes/ep-kn1E0scy9Wc.md#t-00-57-26) (Accusation) **Ali (episode 387 viewer commenter; identity unverified)** (via read message): ["Ali, a viewer commenter whose legal identity is unverified, wrote that..."](/statements/statement-0bdf8dbe9c2a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 175 mentions"
+description: "Internal Revenue Service (Organizations) - 194 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-05-44">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-21-29">2026-09-03 · 00:21:29</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>175</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-27-23">2026-10-08 · 00:27:57</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>194</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -86,6 +86,12 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47" style="--pulse-height:80%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10" style="--pulse-height:80%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-20-46" style="--pulse-height:80%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-internal-revenue-service-t-00-28-12" style="--pulse-height:60%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 3 mentions" title="2026-09-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-internal-revenue-service-t-00-53-43" style="--pulse-height:80%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 4 mentions" title="2026-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-internal-revenue-service-t-00-22-09" style="--pulse-height:60%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 3 mentions" title="2026-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-internal-revenue-service-t-01-15-02" style="--pulse-height:60%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-internal-revenue-service-t-00-53-46" style="--pulse-height:60%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-26-42" style="--pulse-height:60%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,6 +148,12 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10) | 4 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-20-46) | 4 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-internal-revenue-service-t-00-28-12) | 3 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-internal-revenue-service-t-00-53-43) | 4 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-internal-revenue-service-t-00-22-09) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-internal-revenue-service-t-01-15-02) | 3 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-internal-revenue-service-t-00-53-46) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-26-42) | 3 |
 
 </details>
 </section>
@@ -149,7 +161,94 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+<summary><strong class="section-title">Raw mentions (194)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3 mentions)</summary>
+
+**[00:27:14](/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-26-42)**
+> "...k or an IRA early and now the IRS wants their share."
+
+**[00:27:30](/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-27-23)**
+> "...49. They can pull your actual IRS data and give you a free tax strategy."
+
+**[00:27:57](/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-27-23)**
+> "The IRS is not waiting. They are enforcing collections th..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
+
+**[00:53:46](/episodes/ep-0pSAhaAZz1w.md#ent-org-internal-revenue-service-t-00-53-46)**
+> "...401k or IRA early and now the IRS wants their share. However your tax issue started..."
+
+**[00:53:59](/episodes/ep-0pSAhaAZz1w.md#ent-org-internal-revenue-service-t-00-53-46)**
+> "...49. They can pull your actual IRS data and give you a..."
+
+**[00:54:26](/episodes/ep-0pSAhaAZz1w.md#ent-org-internal-revenue-service-t-00-54-26)**
+> "The IRS is not waiting. They are enforcing collections th..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[01:15:30](/episodes/ep-bIuvTKlFeGo.md#ent-org-internal-revenue-service-t-01-15-02)**
+> "...n. Every month that you wait, IRS penalties and interest can continue adding to wha..."
+
+**[01:15:38](/episodes/ep-bIuvTKlFeGo.md#ent-org-internal-revenue-service-t-01-15-38)**
+> "...er tax problem. So before the IRS sends more letters or takes collection action cal..."
+
+**[01:15:53](/episodes/ep-bIuvTKlFeGo.md#ent-org-internal-revenue-service-t-01-15-38)**
+> "... Right now you can get a free IRS investigative call to find out what you owe and w..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3 mentions)</summary>
+
+**[00:22:13](/episodes/ep-_2DiIbfy4mU.md#ent-org-internal-revenue-service-t-00-22-09)**
+> "Every month that you wait, IRS penalties and interest can continue adding to wha..."
+
+**[00:22:20](/episodes/ep-_2DiIbfy4mU.md#ent-org-internal-revenue-service-t-00-22-09)**
+> "Before the IRS sends more letters or takes collection action, ca..."
+
+**[00:22:37](/episodes/ep-_2DiIbfy4mU.md#ent-org-internal-revenue-service-t-00-22-09)**
+> "... right now you can get a free IRS investigative call to find out what you owe and w..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (4 mentions)</summary>
+
+**[00:54:16](/episodes/ep-NNiCZk1cuzs.md#ent-org-internal-revenue-service-t-00-53-43)**
+> "...very month that you wait, the IRS penalties and interest can continue adding to wha..."
+
+**[00:54:20](/episodes/ep-NNiCZk1cuzs.md#ent-org-internal-revenue-service-t-00-54-20)**
+> "...igger tax problem. Before the IRS sends more letters or takes collection action, ca..."
+
+**[00:54:29](/episodes/ep-NNiCZk1cuzs.md#ent-org-internal-revenue-service-t-00-54-20)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:54:41](/episodes/ep-NNiCZk1cuzs.md#ent-org-internal-revenue-service-t-00-54-20)**
+> "Right now, you can get a free IRS investigative call to find out what you owe and w..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3 mentions)</summary>
+
+**[00:28:34](/episodes/ep-O4Zw3bCALjU.md#ent-org-internal-revenue-service-t-00-28-12)**
+> "Every month you wait, IRS penalties and interest can continue adding to wha..."
+
+**[00:28:41](/episodes/ep-O4Zw3bCALjU.md#ent-org-internal-revenue-service-t-00-28-41)**
+> "Before the IRS sends more letters or takes collection action, ca..."
+
+**[00:29:00](/episodes/ep-O4Zw3bCALjU.md#ent-org-internal-revenue-service-t-00-28-41)**
+> "Right now, you can get a free IRS investigative call to find out what you owe and w..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
@@ -938,7 +1037,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Internal Revenue Service (2)</strong></summary>
+<summary><strong class="section-title">Statements about Internal Revenue Service (3)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:22:20](/episodes/ep-_2DiIbfy4mU.md#t-00-22-09) (Claim) **Candace Owens**: ["Owens says Tax Network USA has helped taxpayers nationwide for more th..."](/statements/statement-c7383e407a26.md)
+  - Also about: [Tax Network USA](/entities/org-tax-network-usa.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>

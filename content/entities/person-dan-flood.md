@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 124 mentions"
+description: "Dan Flood (People) - 174 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -22,60 +22,67 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17">2025-11-20 · 00:33:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-dan-flood-t-00-22-13">2026-09-09 · 00:22:27</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>124</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>54</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-37-41">2026-10-08 · 00:37:41</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>174</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>83</strong></div>
+<div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-dan-flood-t-00-23-24">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (17 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-05-20">WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394</a> (30 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17" style="--pulse-height:35%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-dan-flood-t-00-20-18" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-26" style="--pulse-height:18%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-08" style="--pulse-height:35%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-26" style="--pulse-height:10%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-08" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-28" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-28" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-57" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00" style="--pulse-height:59%" aria-label="A Legal Turning Point? | Candace Ep 292: 10 mentions" title="2026-01-19 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07" style="--pulse-height:53%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 9 mentions" title="2026-01-20 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00" style="--pulse-height:33%" aria-label="A Legal Turning Point? | Candace Ep 292: 10 mentions" title="2026-01-19 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07" style="--pulse-height:30%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 9 mentions" title="2026-01-20 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-01" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-dan-flood-t-00-30-51" style="--pulse-height:18%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dan-flood-t-00-40-46" style="--pulse-height:59%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-dan-flood-t-00-23-11" style="--pulse-height:18%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-dan-flood-t-00-45-20" style="--pulse-height:12%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-dan-flood-t-00-07-26" style="--pulse-height:12%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-dan-flood-t-00-01-27" style="--pulse-height:12%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-dan-flood-t-00-30-51" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dan-flood-t-00-40-46" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-dan-flood-t-00-23-11" style="--pulse-height:10%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-dan-flood-t-00-45-20" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-dan-flood-t-00-07-26" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-dan-flood-t-00-01-27" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-dan-flood-t-00-53-36" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-dan-flood-t-00-23-14" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-dan-flood-t-00-38-42" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-dan-flood-t-00-48-08" style="--pulse-height:12%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-17-29" style="--pulse-height:41%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 7 mentions" title="2026-04-30 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-dan-flood-t-00-49-36" style="--pulse-height:12%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-dan-flood-t-00-48-08" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-17-29" style="--pulse-height:23%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 7 mentions" title="2026-04-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-dan-flood-t-00-49-36" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-dan-flood-t-00-04-32" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-dan-flood-t-00-22-11" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37" style="--pulse-height:18%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37" style="--pulse-height:10%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-dan-flood-t-00-12-27" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-dan-flood-t-01-06-06" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-dan-flood-t-00-05-24" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-dan-flood-t-00-40-02" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-09-14" style="--pulse-height:24%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52" style="--pulse-height:24%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-09-14" style="--pulse-height:13%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52" style="--pulse-height:13%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-dan-flood-t-00-12-22" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-dan-flood-t-00-51-43" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-dan-flood-t-00-24-12" style="--pulse-height:12%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-dan-flood-t-00-24-12" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-dan-flood-t-00-15-12" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-19-48" style="--pulse-height:12%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-19-48" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-dan-flood-t-00-23-24" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 17 mentions" title="2026-09-03 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-dan-flood-t-00-23-24" style="--pulse-height:57%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 17 mentions" title="2026-09-03 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-dan-flood-t-00-22-13" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-dan-flood-t-00-26-12" style="--pulse-height:17%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 5 mentions" title="2026-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-dan-flood-t-00-20-45" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-05-20" style="--pulse-height:100%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 30 mentions" title="2026-09-25 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-flood-t-00-39-21" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-dan-flood-t-00-36-38" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-dan-flood-t-00-30-09" style="--pulse-height:10%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-06-52" style="--pulse-height:27%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 8 mentions" title="2026-10-08 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +129,13 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-dan-flood-t-00-23-24) | 17 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-dan-flood-t-00-22-13) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-dan-flood-t-00-26-12) | 5 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-dan-flood-t-00-20-45) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-05-20) | 30 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-flood-t-00-39-21) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-dan-flood-t-00-36-38) | 2 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-dan-flood-t-00-30-09) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-06-52) | 8 |
 
 </details>
 </section>
@@ -133,7 +147,192 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (8 mentions)</summary>
+
+**[00:06:52](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-06-52)**
+> "...member; identity unverified), Dan Flood. We've got the Lincoln Navigator, which was being..."
+
+**[00:29:50](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-29-21)**
+> "..., Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), ..."
+
+**[00:29:57](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-29-57)**
+> "...ustin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with ..."
+
+**[00:36:21](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-36-17)**
+> "...le section. He's referring to Dan Flood. I embrace Dan Flood, the head of Charlie (Charli..."
+
+**[00:36:31](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-36-17)**
+> "Dan (Dan Flood)'s team only had jurisdiction over Charlie (Charl..."
+
+**[00:36:53](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-36-17)**
+> "Dan (Dan Flood) later showed me a text confirming exactly that. ..."
+
+**[00:37:09](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-37-02)**
+> "..., yeah, in the hospital, Dan (Dan Flood) showed me the text."
+
+**[00:37:41](/episodes/ep-UAdBEXs7nNc.md#ent-person-dan-flood-t-00-37-41)**
+> "... be. It'd be very odd if Dan (Dan Flood) showed him that message at the hospital. But, of..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:30:35](/episodes/ep-yrg_-D6oNHE.md#ent-person-dan-flood-t-00-30-09)**
+> "..., which is not his? Why would Dan Flood give him this message and be okay, seemingly okay..."
+
+**[00:31:15](/episodes/ep-yrg_-D6oNHE.md#ent-person-dan-flood-t-00-30-54)**
+> "...u ask about, did you speak to Dan Flood? Did you speak to Brian Harpole? Did you speak to..."
+
+**[00:32:44](/episodes/ep-yrg_-D6oNHE.md#ent-person-dan-flood-t-00-32-44)**
+> "... the people Who are employing Dan Flood, who have access to the messages, therefore have ..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:36:43](/episodes/ep-ms5ChhZegRg.md#ent-person-dan-flood-t-00-36-38)**
+> "...ve the roofs. I saw the text. Dan Flood, who was on the security team with Charlie (Charl..."
+
+**[00:38:22](/episodes/ep-ms5ChhZegRg.md#ent-person-dan-flood-t-00-38-02)**
+> "... 'We got to the hospital, and Dan Flood showed me the messages.' He's like, 'Actually, it..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:39:21](/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-flood-t-00-39-21)**
+> "... to establish connection with Dan Flood. And I want to be clear, by the way, September 2n..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (30 mentions)</summary>
+
+**[00:05:58](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-05-20)**
+> "... We're going to get more into Dan Flood."
+
+**[00:06:05](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-06-05)**
+> "...ject team also reached out to Dan Flood, Turning Point USA's security supervisor."
+
+**[00:06:19](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-06-05)**
+> "Flood (Dan Flood) was identified as the person who coordinated sec..."
+
+**[00:06:26](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-06-05)**
+> "Flood (Dan Flood) was present at UVU on September 10th and had a p..."
+
+**[00:06:45](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-06-45)**
+> "...e learned that neither Flood (Dan Flood) nor Crofts (Macy Crofts) responded to phone call..."
+
+**[00:06:59](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-06-45)**
+> "In Flood (Dan Flood)'s case, the project team also sent a certified l..."
+
+**[00:07:06](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-06-45)**
+> "...assistance in connecting with Dan Flood and Macy (Macy Crofts), but the project team did ..."
+
+**[00:24:46](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-24-26)**
+> "For the first time, Dan Flood and Chief Long (Jeff Long) get on the phone for j..."
+
+**[00:24:53](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-24-53)**
+> "... Long (Jeff Long) asks Flood (Dan Flood) what Turning Point USA needs. And Dan Flood is f..."
+
+**[00:25:23](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-24-53)**
+> "...nd Chief Long (Jeff Long) and Dan Flood were talking about ticketing. And guess what Dan ..."
+
+**[00:25:50](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-25-37)**
+> "And Dan Flood, the chief security person, is telling him, yep, ..."
+
+**[00:26:34](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-26-13)**
+> "...is text communication between Dan Flood was not about the canopy but more broadly speakin..."
+
+**[00:27:07](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-26-55)**
+> "It's a communication between Dan Flood and a communication between him and Jeff Long abo..."
+
+**[00:29:21](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-29-04)**
+> "At 904, Dan Flood texts Chief Long (Jeff Long), advising that the r..."
+
+**[00:29:52](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-29-45)**
+> "...uestion anymore that that was Dan Flood's main focus."
+
+**[00:31:35](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-31-35)**
+> "...l this back and forth between Dan Flood and Chief Long (Jeff Long) because, lo and behold..."
+
+**[00:32:35](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-32-17)**
+> "...Chief Long (Jeff Long) texted Dan Flood to meet at the Hall of Flags outdoor."
+
+**[00:33:37](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-33-03)**
+> "...e are the communications that Dan Flood has with him. Then at 11.30, Chief Long (Jeff Lon..."
+
+**[00:41:40](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-41-24)**
+> "...text message exchange between Dan Flood and Jeff Long, just for confirmation, and it's ve..."
+
+**[00:41:55](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-41-24)**
+> "Dan Flood, right when they are discussing the Hall of Flags..."
+
+**[00:42:04](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-42-04)**
+> "...over this message many times. Dan Flood was speaking about that student roof access prett..."
+
+**[00:42:21](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-42-04)**
+> "Dan Flood says, I was told students have access above us. I..."
+
+**[00:42:29](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-42-04)**
+> "... says, I got you covered. And Dan Flood says, thank you, sir. And indeed, they did have t..."
+
+**[00:42:56](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-42-43)**
+> "...oordination happening between Dan Flood and Brian Harpole before he goes on to Sean Ryan ..."
+
+**[00:44:32](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-44-04)**
+> "...e (Brian Harpole) stated that Dan Flood was a security guy for Turning Point. He said Flo..."
+
+**[00:44:41](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-44-04)**
+> "...n Harpole) stated that Flood (Dan Flood) would meticulously share any intelligence that h..."
+
+**[00:51:40](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-00-51-22)**
+> "...r 10th between Brian Harpole, Dan Flood, and the UVU PD."
+
+**[01:08:10](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-01-07-45)**
+> "And then finally, Dan Flood calls him the next day."
+
+**[01:20:07](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-01-19-45)**
+> "They could force Dan Flood to do that because he was their employee. They di..."
+
+**[01:20:14](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-flood-t-01-19-45)**
+> "Why is that Dan Flood didn't want to accept the raise and bonus that Er..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:21:07](/episodes/ep-BvthGQw3_s0.md#ent-person-dan-flood-t-00-20-45)**
+> "...his here because that's where Dan Flood, Brian Harpole and the whole security team minus ..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (5 mentions)</summary>
+
+**[00:26:20](/episodes/ep-aLJhpxrakCU.md#ent-person-dan-flood-t-00-26-12)**
+> "...text message exchange between Dan Flood and Chief Jeffrey Long of the UVU police force. T..."
+
+**[00:26:40](/episodes/ep-aLJhpxrakCU.md#ent-person-dan-flood-t-00-26-12)**
+> "... on this thread. It's between Dan Flood and the chief of police."
+
+**[00:27:25](/episodes/ep-aLJhpxrakCU.md#ent-person-dan-flood-t-00-26-50)**
+> "...e original text message. From Dan Flood, and he says, hello, Chief Long (Jeffrey Long), w..."
+
+**[00:31:05](/episodes/ep-aLJhpxrakCU.md#ent-person-dan-flood-t-00-30-35)**
+> "He met both of Dan Flood's demands."
+
+**[00:41:17](/episodes/ep-aLJhpxrakCU.md#ent-person-dan-flood-t-00-41-17)**
+> "..., I don't know. Again, Flood (Dan Flood) was actually providing security to her in the im..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -712,12 +911,19 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:28:57](/episodes/ep-t4U7NjnUEgc.md#t-00-28-26): “No, well, that checks out because Dan Flood was with Charlie in Korea.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
 
 </details>
 
@@ -739,9 +945,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:05:40](/episodes/ep-DdPjoy5W-wY.md#t-01-05-40): “dan flood right who was offered a raise at turning point usa after it's like man you were by this guy every day and he trusted you how do you do it”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:35](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 
 </details>
 
@@ -760,12 +967,29 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Formerly Worked For (2)</summary>
+<summary>Exchanged Messages With (1)</summary>
+
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:26:20](/episodes/ep-aLJhpxrakCU.md#t-00-26-12): “So the context here, just so you know, is they are now addressing the text message exchange between Dan Flood and Chief Jeffrey Long of the UVU police force. This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan when he's like, what am I supposed to do with that?”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:06:26](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05): “Flood (Dan Flood) was present at UVU on September 10th and had a phone and text communication with UVU Police Chief Jeff Long a few days before and the morning of the event.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:36:43](/episodes/ep-ms5ChhZegRg.md#t-00-36-38): “I said, you did have the roofs. I saw the text. Dan Flood, who was on the security team with Charlie (Charlie Kirk), when we got to the hospital, he showed me the text. Actually, he showed it to me a couple of days after that. ... But he showed me the text that said that I need somebody on the roofs and you texted back, I got you covered. ... And then Long (Jeff Long) said after I said that, he said. Well, Charlie (Charlie Kirk)'s team should have gotten here early. ... I said, what does that have to do with it? He said, well, they got here the day of. They should have been here the day before. ... Again, what does that have to do with it? You said you had the roofs. And he said, well, it was just the roof above you. What do you mean the roof above you? Well, that bridge that was above you, that roof above, we had that because we didn't want people throwing stuff down on Charlie (Charlie Kirk).”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:37:02](/episodes/ep-UAdBEXs7nNc.md#t-00-37-02): “Rick (Rick Cutler) and I continue to pray out loud. Now, we had showed you a few days ago when he went on to Brandon Tatum's show and he said. sort of this narrative and then quickly shifted. He said, yeah, in the hospital, Dan (Dan Flood) showed me the text. between him and Chief Long (Jeff Long). And they said he actually showed me a couple of days later, that seems to be like a crucial detail. When did he show you this text? Because it shouldn't have been that soon.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:36:43](/episodes/ep-ms5ChhZegRg.md#t-00-36-38): “I said, you did have the roofs. I saw the text. Dan Flood, who was on the security team with Charlie (Charlie Kirk), when we got to the hospital, he showed me the text. Actually, he showed it to me a couple of days after that.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
 
 </details>
 
@@ -774,6 +998,13 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:06:05](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05): “I mean, I get more into Brian Harpole. Next up, the project team also reached out to Dan Flood, Turning Point USA's security supervisor. ... He's on staff. And Macy Crofts, a Turning Point USA senior field representative. Those two would know a lot. ... They could force Dan Flood to do that because he was their employee. They didn't do that.”
 
 </details>
 
@@ -804,6 +1035,31 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
+<summary>Spoke With (1)</summary>
+
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:24:46](/episodes/ep-bIuvTKlFeGo.md#t-00-24-26): “For the first time, Dan Flood and Chief Long (Jeff Long) get on the phone for just five minutes and 28 seconds. ... And Chief Long (Jeff Long) asks Flood (Dan Flood) what Turning Point USA needs. And Dan Flood is focusing on, as I told you, the arrival, the departure, and the parking logistics. They were really concerned about Charlie (Charlie Kirk)'s SUV having a clean exit.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:39:09](/episodes/ep-q4m-kGzvwjw.md#t-00-38-45): “And yet UVU police chief Jeff Long is asking for a contact which he doesn't actually get. So on September 2nd, he follows up with them. He says, hey, still don't have a contact for the security. ... And so he reaches out to the club president. Again, this is per the independent review. And then he is supplied one. And on September 3rd, he is able to establish connection with Dan Flood. And I want to be clear, by the way, September 2nd is the first time that this upcoming event that we could find is mentioned.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:41:17](/episodes/ep-aLJhpxrakCU.md#t-00-41-17): “On that day, I don't know. Again, Flood (Dan Flood) was actually providing security to her in the immediate aftermath. He certainly was on her at the White House when Charlie (Charlie Kirk), I think it was Charlie (Charlie Kirk)'s birthday or Trump (Donald Trump) did something there.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -818,7 +1074,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (14)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -827,10 +1083,18 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:05:40](/episodes/ep-DdPjoy5W-wY.md#t-01-05-40): “dan flood right who was offered a raise at turning point usa after it's like man you were by this guy every day and he trusted you how do you do it”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:35](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 
 </details>
 
@@ -850,10 +1114,22 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 
+- **[Jeff Long](/entities/person-jeff-long.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:26:20](/episodes/ep-aLJhpxrakCU.md#t-00-26-12): “So the context here, just so you know, is they are now addressing the text message exchange between Dan Flood and Chief Jeffrey Long of the UVU police force. This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan when he's like, what am I supposed to do with that?”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:06:26](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05): “Flood (Dan Flood) was present at UVU on September 10th and had a phone and text communication with UVU Police Chief Jeff Long a few days before and the morning of the event.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:36:43](/episodes/ep-ms5ChhZegRg.md#t-00-36-38): “I said, you did have the roofs. I saw the text. Dan Flood, who was on the security team with Charlie (Charlie Kirk), when we got to the hospital, he showed me the text. Actually, he showed it to me a couple of days after that. ... But he showed me the text that said that I need somebody on the roofs and you texted back, I got you covered. ... And then Long (Jeff Long) said after I said that, he said. Well, Charlie (Charlie Kirk)'s team should have gotten here early. ... I said, what does that have to do with it? He said, well, they got here the day of. They should have been here the day before. ... Again, what does that have to do with it? You said you had the roofs. And he said, well, it was just the roof above you. What do you mean the roof above you? Well, that bridge that was above you, that roof above, we had that because we didn't want people throwing stuff down on Charlie (Charlie Kirk).”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:37:02](/episodes/ep-UAdBEXs7nNc.md#t-00-37-02): “Rick (Rick Cutler) and I continue to pray out loud. Now, we had showed you a few days ago when he went on to Brandon Tatum's show and he said. sort of this narrative and then quickly shifted. He said, yeah, in the hospital, Dan (Dan Flood) showed me the text. between him and Chief Long (Jeff Long). And they said he actually showed me a couple of days later, that seems to be like a crucial detail. When did he show you this text? Because it shouldn't have been that soon.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:36:43](/episodes/ep-ms5ChhZegRg.md#t-00-36-38): “I said, you did have the roofs. I saw the text. Dan Flood, who was on the security team with Charlie (Charlie Kirk), when we got to the hospital, he showed me the text. Actually, he showed it to me a couple of days after that.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
 
 </details>
 
@@ -862,6 +1138,13 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:06:05](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05): “I mean, I get more into Brian Harpole. Next up, the project team also reached out to Dan Flood, Turning Point USA's security supervisor. ... He's on staff. And Macy Crofts, a Turning Point USA senior field representative. Those two would know a lot. ... They could force Dan Flood to do that because he was their employee. They didn't do that.”
 
 </details>
 
@@ -886,10 +1169,20 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 
+- **[Jeff Long](/entities/person-jeff-long.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:24:46](/episodes/ep-bIuvTKlFeGo.md#t-00-24-26): “For the first time, Dan Flood and Chief Long (Jeff Long) get on the phone for just five minutes and 28 seconds. ... And Chief Long (Jeff Long) asks Flood (Dan Flood) what Turning Point USA needs. And Dan Flood is focusing on, as I told you, the arrival, the departure, and the parking logistics. They were really concerned about Charlie (Charlie Kirk)'s SUV having a clean exit.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:39:09](/episodes/ep-q4m-kGzvwjw.md#t-00-38-45): “And yet UVU police chief Jeff Long is asking for a contact which he doesn't actually get. So on September 2nd, he follows up with them. He says, hey, still don't have a contact for the security. ... And so he reaches out to the club president. Again, this is per the independent review. And then he is supplied one. And on September 3rd, he is able to establish connection with Dan Flood. And I want to be clear, by the way, September 2nd is the first time that this upcoming event that we could find is mentioned.”
+
+</details>
+
 - **[Brian Harpole](/entities/person-brian-harpole.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:22:56](/episodes/ep-k1b1NDCrNFs.md#t-00-22-56): “This is all the way we're in January now. That's Brian (Brian Harpole)'s business partner, longtime colleague. On January 4th, I messaged him.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:21:07](/episodes/ep-BvthGQw3_s0.md#t-00-20-45): “Then we have a 9 a.m. I'm just putting this here because that's where Dan Flood, Brian Harpole and the whole security team minus Chris (security team member; surname unverified) arrives on site at UVU.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:06:19](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05): “Flood (Dan Flood) was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions.”
 
 </details>
 
@@ -898,7 +1191,23 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Dan Flood (2)</strong></summary>
+<summary><strong class="section-title">Statements by Dan Flood (4)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:25:23](/episodes/ep-bIuvTKlFeGo.md#t-00-24-53) [○] (Claim) ["Dan Flood told Chief Long that the national office handled ticketing and ticket ..."](/statements/statement-51476e0318a3.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:27:51](/episodes/ep-aLJhpxrakCU.md#t-00-27-33) [○] (Claim) ["Dan Flood wrote that he was told students had access above them and, “If this is..."](/statements/statement-6a7cb106dc61.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>
@@ -914,7 +1223,129 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (54)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (83)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (6)</summary>
+
+- [00:06:52](/episodes/ep-UAdBEXs7nNc.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens described a Jeep Wagoneer as a security vehicle, mentioned Alex ..."](/statements/statement-3b98294673d1.md)
+  - Also about: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Justin Davis](/entities/person-justin-davis.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+- [00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Justin Davis drove, Dan Flood held a p..."](/statements/statement-c3759ed718ea.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Justin Davis](/entities/person-justin-davis.md), [Rick Cutler](/entities/person-rick-cutler.md)
+
+- [00:36:21](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, with Owens correcting Don to Dan Flood, Turek sai..."](/statements/statement-134020286a2a.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:31](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Dan Flood's team had jurisdiction only..."](/statements/statement-06b65d019091.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:36:31](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) (Accusation) **Candace Owens**: ["Owens called the book's assertions that Flood's team had jurisdiction ..."](/statements/statement-cde768864611.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:09](/episodes/ep-UAdBEXs7nNc.md#t-00-37-02) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Turek's Brandon Tatum interview as first saying Fl..."](/statements/statement-ab373570da73.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Jeff Long](/entities/person-jeff-long.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
+
+- [00:30:35](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09) (Accusation) **Candace Owens**: ["Owens rhetorically asked why Harpole represented a message as his when..."](/statements/statement-ac66a285a2e3.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:32:44](/episodes/ep-yrg_-D6oNHE.md#t-00-32-44) (Accusation) **Candace Owens**: ["Owens said she thought Jeff Long could demonstrate reckless disregard ..."](/statements/statement-19652be85f4a.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>
+
+- [00:36:43](/episodes/ep-ms5ChhZegRg.md#t-00-36-38) (Claim) **Frank Turek** (via quoted speech): ["In the clip, Frank Turek said Dan Flood showed him a text asking for s..."](/statements/statement-0b81350c8164.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02) (Accusation) **Candace Owens**: ["Owens accused Frank Turek of dishonesty and defaming UVU police by con..."](/statements/statement-abd7630d80df.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Utah Valley University](/entities/org-utah-valley-university.md), [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:39:09](/episodes/ep-q4m-kGzvwjw.md#t-00-38-45) (Citation) **Candace Owens**: ["Citing the independent review, Owens said UVU police chief Jeff Long f..."](/statements/statement-415ebdf9a6b4.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (12)</summary>
+
+- [00:06:05](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The report identified Dan Flood as TPUSA security supervisor coordinat..."](/statements/statement-32588e5bc4ad.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Jeff Long](/entities/person-jeff-long.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:06:36](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The report identified Maycee Crofts as a TPUSA senior field representa..."](/statements/statement-e1bc7412db8b.md)
+  - Also about: [Maycee Crofts](/entities/person-maycee-crofts.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:07:06](/episodes/ep-bIuvTKlFeGo.md#t-00-06-45) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team said senior TPUSA staff in Phoenix did not respond to..."](/statements/statement-ef913b06df19.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Maycee Crofts](/entities/person-maycee-crofts.md)
+
+- [00:24:15](/episodes/ep-bIuvTKlFeGo.md#t-00-23-47) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The timeline said Chief Long sought a security contact September 2nd; ..."](/statements/statement-ec208bb0046d.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:25:23](/episodes/ep-bIuvTKlFeGo.md#t-00-24-53) (Claim) **Dan Flood** (via quoted document): ["Dan Flood told Chief Long that the national office handled ticketing a..."](/statements/statement-51476e0318a3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:26:34](/episodes/ep-bIuvTKlFeGo.md#t-00-26-13) (Accusation) **Candace Owens**: ["Owens accused Brian Harpole of misrepresenting Dan Flood’s text exchan..."](/statements/statement-35aea143b0dc.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Jeff Long](/entities/person-jeff-long.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:41](/episodes/ep-bIuvTKlFeGo.md#t-00-27-41) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review said Dan Flood initiated a September 8th text exchange abou..."](/statements/statement-3261cd008d1c.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Hall of Flags](/entities/gpe-hall-of-flags.md)
+
+- [00:29:04](/episodes/ep-bIuvTKlFeGo.md#t-00-29-04) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The timeline said security arrived at campus at 9 AM on September 10th..."](/statements/statement-ab4ac41e75a2.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Hall of Flags](/entities/gpe-hall-of-flags.md)
+
+- [00:32:35](/episodes/ep-bIuvTKlFeGo.md#t-00-32-17) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The timeline said Chief Long texted Dan Flood at 1049 requesting a mee..."](/statements/statement-93a72d910e10.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:42:36](/episodes/ep-bIuvTKlFeGo.md#t-00-42-04) (Accusation) **Candace Owens**: ["Owens accused TPUSA of coordinating with Brian Harpole before the Shaw..."](/statements/statement-d6fc0ba2f45b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+- [00:44:13](/episodes/ep-bIuvTKlFeGo.md#t-00-44-04) (Claim) **Brian Harpole** (via quoted document): ["Brian Harpole said his first event-planning meeting was August 24th, t..."](/statements/statement-cce1988b2fa9.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:51:16](/episodes/ep-bIuvTKlFeGo.md#t-00-50-40) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team identified gaps including limited planning time, no d..."](/statements/statement-0b52cdc0a049.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:21:07](/episodes/ep-BvthGQw3_s0.md#t-00-20-45) (Claim) **Candace Owens**: ["Owens said Dan Flood, Brian Harpole and the security team, minus Chris..."](/statements/statement-f41aea04534e.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (5)</summary>
+
+- [00:26:50](/episodes/ep-aLJhpxrakCU.md#t-00-26-50) (Accusation) **Candace Owens**: ["Owens accused the Kirk family lawyers of omitting “I was told students..."](/statements/statement-8a1e70a5e026.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:51](/episodes/ep-aLJhpxrakCU.md#t-00-27-33) (Claim) **Dan Flood** (via read message): ["Dan Flood wrote that he was told students had access above them and, “..."](/statements/statement-6a7cb106dc61.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:22](/episodes/ep-aLJhpxrakCU.md#t-00-28-12) (Claim) **Candace Owens**: ["Owens said the Flood–Long message thread concerned the student walkway..."](/statements/statement-3d16daef62f6.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Hall of Flags](/entities/gpe-hall-of-flags.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:30:44](/episodes/ep-aLJhpxrakCU.md#t-00-30-35) (Claim) **Candace Owens**: ["Owens said Officer Chris Bagley was sent to monitor rooftop traffic an..."](/statements/statement-4f167753c854.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:17](/episodes/ep-aLJhpxrakCU.md#t-00-41-17) (Claim) **Candace Owens**: ["Owens said Dan Flood provided security to Erika Kirk after Charlie’s d..."](/statements/statement-02198de4b6ea.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

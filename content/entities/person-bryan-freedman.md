@@ -1,6 +1,6 @@
 ---
 title: "Bryan Freedman"
-description: "Bryan Freedman (People) - 5 mentions"
+description: "Bryan Freedman (People) - 6 mentions"
 id: "person-bryan-freedman"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Blake Lively claims get support in publicist suit | Associated Press](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-bryan-freedman-t-00-45-25">2026-05-05 · 00:45:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-bryan-freedman-t-00-46-01">2026-05-11 · 00:46:01</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-bryan-freedman-t-00-35-47">2026-09-16 · 00:35:55</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +33,7 @@ Source: [Blake Lively claims get support in publicist suit | Associated Press](h
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-bryan-freedman-t-00-45-25" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-bryan-freedman-t-00-46-01" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-bryan-freedman-t-00-35-47" style="--pulse-height:50%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Blake Lively claims get support in publicist suit | Associated Press](h
 |---|---|---:|
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-bryan-freedman-t-00-45-25) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-bryan-freedman-t-00-46-01) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-bryan-freedman-t-00-35-47) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Blake Lively claims get support in publicist suit | Associated Press](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:35:55](/episodes/ep-aLJhpxrakCU.md#ent-person-bryan-freedman-t-00-35-47)**
+> "...nd then you kind of wait, and Bryan Freedman drops, like, a lot of receipts, and you go, "Oh m..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>

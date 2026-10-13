@@ -24,13 +24,23 @@ veracity: "mixed"
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:03:23](/episodes/ep-vwG1juDCQZQ.md#t-00-03-13) 
 <a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=203s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And that was me when I no longer wanted to do the pro-Israel thing. Of course, as always, I thank Ben Shapiro. ... I thank Jeremy Boreing. I thank the Daily Wire and them realizing it before I did that I should be fired. ... Thank you for firing me. And thank you for the publicity of the firing.
+
+### 2. BREAKING! Blake Neff Grants Interview To Gay Podcaster. More...
+
+**Episode:** [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md)
+**Timestamp:** [00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40) 
+<a href="https://www.youtube.com/watch?v=6XfDqKTdFKg&t=2200s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.
 
 ## Verification
 

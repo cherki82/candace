@@ -1,6 +1,6 @@
 ---
 title: "Monica Lewinsky"
-description: "Monica Lewinsky (People) - 2 mentions"
+description: "Monica Lewinsky (People) - 3 mentions"
 id: "person-monica-lewinsky"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Monica Lewinsky — Encyclopaedia Britannica](https://www.britannica.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-monica-lewinsky-t-00-08-32">2026-02-25 · 00:08:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-monica-lewinsky-t-00-26-31">2026-04-10 · 00:26:43</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-monica-lewinsky-t-00-35-37">2026-10-01 · 00:35:37</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Monica Lewinsky — Encyclopaedia Britannica](https://www.britannica.co
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-monica-lewinsky-t-00-08-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-monica-lewinsky-t-00-26-31" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-monica-lewinsky-t-00-35-37" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Monica Lewinsky — Encyclopaedia Britannica](https://www.britannica.co
 |---|---|---:|
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-monica-lewinsky-t-00-08-32) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-monica-lewinsky-t-00-26-31) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-monica-lewinsky-t-00-35-37) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Monica Lewinsky — Encyclopaedia Britannica](https://www.britannica.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:35:37](/episodes/ep-q4m-kGzvwjw.md#ent-person-monica-lewinsky-t-00-35-37)**
+> "...anyahu), who said, "We've got Monica Lewinsky and you on tape, so you're going to stop looking ..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -83,7 +93,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Monica Lewinsky (1)</strong></summary>
+<summary><strong class="section-title">Statements about Monica Lewinsky (2)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:35:14](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03) (Accusation) **Candace Owens** (via paraphrase): ["Recounting her Epstein series, Owens alleged Netanyahu blackmailed Bil..."](/statements/statement-a2263a08adfb.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Clinton](/entities/person-bill-clinton.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>

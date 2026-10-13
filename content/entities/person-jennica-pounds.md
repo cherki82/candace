@@ -1,6 +1,6 @@
 ---
 title: "Jennica Pounds"
-description: "Jennica Pounds (People) - 18 mentions"
+description: "Jennica Pounds (People) - 27 mentions"
 id: "person-jennica-pounds"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-29-08">2026-08-31 · 00:29:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-52-57">2026-09-01 · 00:53:08</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-06-13">2026-10-06 · 00:06:49</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -38,6 +38,8 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-29-08" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-00-39" style="--pulse-height:38%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jennica-pounds-t-00-54-00" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-01-41" style="--pulse-height:62%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 8 mentions" title="2026-10-06 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +47,8 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 |---|---|---:|
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-29-08) | 13 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-00-39) | 5 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jennica-pounds-t-00-54-00) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-01-41) | 8 |
 
 </details>
 </section>
@@ -56,7 +60,44 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (8 mentions)</summary>
+
+**[00:01:41](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-01-41)**
+> "...ou guys remember? This chick, Jennica Pounds, a.k.a. Data Republican (Jennica Pounds), who unb..."
+
+**[00:03:20](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-03-00)**
+> "...y, in her thread, Ms. Pounds (Jennica Pounds) was reinforcing the NCRI report, which was dropp..."
+
+**[00:03:34](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-03-00)**
+> "The problem is that Jennica (Jennica Pounds) didn't think that it was worth mentioning that s..."
+
+**[00:04:34](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-04-07)**
+> "Jennica Pounds has announced her resignation from the DOD. She w..."
+
+**[00:05:14](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-04-49)**
+> "...question for Data Republican (Jennica Pounds)"
+
+**[00:05:25](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-04-49)**
+> "...ister. I don't know. Jennica (Jennica Pounds), where were you? We don't know now, but we know."
+
+**[00:05:35](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-05-34)**
+> "But Data Republican (Jennica Pounds)'s DOD-directed attacks against me were not uniqu..."
+
+**[00:06:49](/episodes/ep-0pSAhaAZz1w.md#ent-person-jennica-pounds-t-00-06-13)**
+> "In the case of Jennica (Jennica Pounds), the Department of War is paying Jennica (Jennic..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:54:09](/episodes/ep-ms5ChhZegRg.md#ent-person-jennica-pounds-t-00-54-00)**
+> "...talk about the resignation of Data Republican who was literally hired to go after me."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>
@@ -143,9 +184,10 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:34:24](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07): “And what she means is to serve the Department of War in propagandizing Americans not to look into Charlie Kirk's assassination. That's what she means. That's what she's saying, but this is what she means.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:54:09](/episodes/ep-ms5ChhZegRg.md#t-00-54-00): “There, by the way, I forgot to remind me also, Skylar (Schuyler Pryor), we got to talk about the resignation of Data Republican who was literally hired to go after me. ... Just amazing. Like the Department of War is like, we'll just send out and make you look like you're a normal person after we tried to use you to destroy Candace (Candace Owens).”
 
 </details>
 
@@ -164,12 +206,25 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41): “Let's start with this chick. Do you guys remember? This chick, Jennica Pounds, a.k.a. Data Republican (Jennica Pounds), who unbeknownst to the public was presenting like she's just like an independent investigator. We find out that actually she was hired by the Department of War back in July of this year, right at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of propaganda that week, and it seems that right after she got hired, her first. Her first task or her first assignment as a quote unquote special government employee was to construct this really long thread about yours truly. Of course, of course, it was a very long thread on X attacking me. It was also attacking you guys back at home, my audience and our treatment of the widow. That was the theme that week. It was also a staunch defense, of course, of the narrative.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:00:55](/episodes/ep-ZkDO-MRLUco.md#t-00-00-39): “Just why does Data Republican (Jennica Pounds), a.k.a. Jennica Pounds, a.k.a. the Department of War's fake analyst. ... Analyst who attacked me for looking into this case just why does she look so much like Tyler Robinson check this out uncanny uncanny what are they doing out in Utah I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the point we don't know no But we know.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership. I'm stepping back to focus on my book tour and midterms analysis in the months ahead. I do want to say that I'm disappointed by how special government employees, not just myself, have been treated in public discourse. Blah, blah, blah, blah, blah, blah. We don't care. You're a fraud, okay, for not revealing that you were working for them. That is what makes you a fraud and no one will ever believe anything you say ever again now that this has been revealed.”
 
 </details>
 
@@ -188,6 +243,42 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership. I'm stepping back to focus on my book tour and midterms analysis in the months ahead. I do want to say that I'm disappointed by how special government employees, not just myself, have been treated in public discourse.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Hired By (1)</summary>
+
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41): “Let's start with this chick. Do you guys remember? This chick, Jennica Pounds, a.k.a. Data Republican (Jennica Pounds), who unbeknownst to the public was presenting like she's just like an independent investigator. We find out that actually she was hired by the Department of War back in July of this year, right at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of propaganda that week, and it seems that right after she got hired, her first.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Pete Hegseth](/entities/person-pete-hegseth.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
@@ -200,12 +291,13 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:34:24](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07): “And what she means is to serve the Department of War in propagandizing Americans not to look into Charlie Kirk's assassination. That's what she means. That's what she's saying, but this is what she means.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:54:09](/episodes/ep-ms5ChhZegRg.md#t-00-54-00): “There, by the way, I forgot to remind me also, Skylar (Schuyler Pryor), we got to talk about the resignation of Data Republican who was literally hired to go after me. ... Just amazing. Like the Department of War is like, we'll just send out and make you look like you're a normal person after we tried to use you to destroy Candace (Candace Owens).”
 
 </details>
 
@@ -217,9 +309,17 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:00:55](/episodes/ep-ZkDO-MRLUco.md#t-00-00-39): “Just why does Data Republican (Jennica Pounds), a.k.a. Jennica Pounds, a.k.a. the Department of War's fake analyst. ... Analyst who attacked me for looking into this case just why does she look so much like Tyler Robinson check this out uncanny uncanny what are they doing out in Utah I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the point we don't know no But we know.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership. I'm stepping back to focus on my book tour and midterms analysis in the months ahead. I do want to say that I'm disappointed by how special government employees, not just myself, have been treated in public discourse. Blah, blah, blah, blah, blah, blah. We don't care. You're a fraud, okay, for not revealing that you were working for them. That is what makes you a fraud and no one will ever believe anything you say ever again now that this has been revealed.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41): “Let's start with this chick. Do you guys remember? This chick, Jennica Pounds, a.k.a. Data Republican (Jennica Pounds), who unbeknownst to the public was presenting like she's just like an independent investigator. We find out that actually she was hired by the Department of War back in July of this year, right at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of propaganda that week, and it seems that right after she got hired, her first. Her first task or her first assignment as a quote unquote special government employee was to construct this really long thread about yours truly. Of course, of course, it was a very long thread on X attacking me. It was also attacking you guys back at home, my audience and our treatment of the widow. That was the theme that week. It was also a staunch defense, of course, of the narrative.”
 
 </details>
 
@@ -237,10 +337,31 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 
 </details>
 
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership. I'm stepping back to focus on my book tour and midterms analysis in the months ahead. I do want to say that I'm disappointed by how special government employees, not just myself, have been treated in public discourse.”
+
+</details>
+
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)** hired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41): “Let's start with this chick. Do you guys remember? This chick, Jennica Pounds, a.k.a. Data Republican (Jennica Pounds), who unbeknownst to the public was presenting like she's just like an independent investigator. We find out that actually she was hired by the Department of War back in July of this year, right at the commencement of the Tyler Robinson preliminary hearing. We were hit with a lot of propaganda that week, and it seems that right after she got hired, her first.”
+
+</details>
+
 - **[Utah](/entities/gpe-utah.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:36:13](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01): “That's what Jennica Pounds did. Jennica Pounds is based in Utah. Where was Jennica Pounds on September 10th?”
+
+</details>
+
+- **[Pete Hegseth](/entities/person-pete-hegseth.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership.”
 
 </details>
 
@@ -249,7 +370,15 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jennica Pounds (2)</strong></summary>
+<summary><strong class="section-title">Statements by Jennica Pounds (3)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07) [○] (Claim) ["Jennica Pounds announced that she had submitted her resignation from the Departm..."](/statements/statement-c83635b9da24.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>
@@ -265,7 +394,38 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jennica Pounds (7)</strong></summary>
+<summary><strong class="section-title">Statements about Jennica Pounds (14)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (6)</summary>
+
+- [00:01:41](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41) (Claim) **Candace Owens**: ["Owens said Jennica Pounds, also known as Data Republican, presented he..."](/statements/statement-76bae3bd0aaf.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:01:54](/episodes/ep-0pSAhaAZz1w.md#t-00-01-41) (Accusation) **Candace Owens**: ["Owens alleged that it seems Jennica Pounds’s first assignment after be..."](/statements/statement-765bb58483e5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:03:20](/episodes/ep-0pSAhaAZz1w.md#t-00-03-00) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Jennica Pounds’s thread as reinforcing the NCRI re..."](/statements/statement-7327461fee43.md)
+  - Also about: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:03:41](/episodes/ep-0pSAhaAZz1w.md#t-00-03-41) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet and Bill Ackman instantly boosted Jennica Pou..."](/statements/statement-e2a2ca65c8d5.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Bill Ackman](/entities/person-bill-ackman.md)
+
+- [00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07) (Claim) **Jennica Pounds** (via quoted tweet): ["Jennica Pounds announced that she had submitted her resignation from t..."](/statements/statement-c83635b9da24.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+- [00:06:49](/episodes/ep-0pSAhaAZz1w.md#t-00-06-13) (Accusation) **Candace Owens**: ["Owens alleged that in Jennica Pounds’s case the Department of War paid..."](/statements/statement-66fa93b051b8.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:54:09](/episodes/ep-ms5ChhZegRg.md#t-00-54-00) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Data Republican, the alias of Jennica Pounds, had been h..."](/statements/statement-b72988b5256e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (7)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Gigi Kirk"
-description: "Gigi Kirk (People) - 15 mentions"
+description: "Gigi Kirk (People) - 18 mentions"
 id: "person-gigi-kirk"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [Charlie Kirk's Widow, Erika, Says Her Final Goodbye | Inside Edition](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#t-00-47-03">2026-02-02 · 00:47:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#t-00-46-01">2026-06-22 · 00:46:28</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-gigi-kirk-t-00-03-57">2026-09-30 · 00:04:14</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -39,6 +39,7 @@ Source: [Charlie Kirk's Widow, Erika, Says Her Final Goodbye | Inside Edition](h
 <a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26" style="--pulse-height:11%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-01-43" style="--pulse-height:11%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#t-00-21-32" style="--pulse-height:22%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-gigi-kirk-t-00-03-57" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 3 mentions" title="2026-09-30 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Charlie Kirk's Widow, Erika, Says Her Final Goodbye | Inside Edition](h
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-01-43) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#t-00-21-32) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-gigi-kirk-t-00-03-57) | 3 |
 
 </details>
 </section>
@@ -60,7 +62,21 @@ Source: [Charlie Kirk's Widow, Erika, Says Her Final Goodbye | Inside Edition](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3 mentions)</summary>
+
+**[00:03:57](/episodes/ep-5TTkMa49qj8.md#ent-person-gigi-kirk-t-00-03-57)**
+> "...f. The bad news is that Gigi (Gigi Kirk), her daughter."
+
+**[00:04:07](/episodes/ep-5TTkMa49qj8.md#ent-person-gigi-kirk-t-00-03-57)**
+> "...g, I don't like the way Gigi (Gigi Kirk)'s being treated. I don't, I'd never like it. Gig..."
+
+**[00:04:14](/episodes/ep-5TTkMa49qj8.md#ent-person-gigi-kirk-t-00-03-57)**
+> "... mildly. I think saying Gigi (Gigi Kirk) does not look comfortable."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
@@ -150,10 +166,11 @@ Source: [Charlie Kirk's Widow, Erika, Says Her Final Goodbye | Inside Edition](h
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:22:00](/episodes/ep-VMNWMXX1vO8.md#t-00-21-32): “Gigi (Charlie and Erika Kirk's daughter; full name unconfirmed) would have dance class”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:11:05](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43): “And he always loved when Gigi (Charlie and Erika Kirk's daughter; full name unverified) slept in our bed because she's, you know, little ones, they like curl up inside of you and like they're just nuzzled in.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:48](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “It's like they're doing it on purpose. They want us to respond to this. There's a lot happening here. The good news is, I guess, that Erica (Erika Kirk) is not in the drapes. ... She's not in the drapes. They're sheer and she probably wants to be there, but she's controlling herself. The bad news is that Gigi (Gigi Kirk), her daughter.”
 
 </details>
 
@@ -172,10 +189,11 @@ Source: [Charlie Kirk's Widow, Erika, Says Her Final Goodbye | Inside Edition](h
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:22:00](/episodes/ep-VMNWMXX1vO8.md#t-00-21-32): “Gigi (Charlie and Erika Kirk's daughter; full name unconfirmed) would have dance class”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:11:05](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43): “And he always loved when Gigi (Charlie and Erika Kirk's daughter; full name unverified) slept in our bed because she's, you know, little ones, they like curl up inside of you and like they're just nuzzled in.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:48](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “It's like they're doing it on purpose. They want us to respond to this. There's a lot happening here. The good news is, I guess, that Erica (Erika Kirk) is not in the drapes. ... She's not in the drapes. They're sheer and she probably wants to be there, but she's controlling herself. The bad news is that Gigi (Gigi Kirk), her daughter.”
 
 </details>
 

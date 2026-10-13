@@ -11,7 +11,15 @@ object: "person-jeremy-boreing"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Jeremy Boreing](/entities/person-jeremy-boreing)
 
-### Evidence (2 mentions)
+### Evidence (4 mentions)
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:31:41](/episodes/ep-6XfDqKTdFKg#t-00-31-41): _This is a real tweet. It's an aspirational level of derangement. He wrote this. She does this largely on purpose. All Candace (Candace Owens) cares about is fame and money. Nothing is beneath her. And everything that causes people to talk more about her is a tool in her arsenal. So I..._
+
+**[More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU)**
+
+- [00:07:13](/episodes/ep-O4Zw3bCALjU#t-00-07-13): _There's—this is just what we could fit, could fit onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Candace (Candace Owens)'s Receipts,' 'Why Women Believe Candace (Candace Owens),' 'One of the Darkest Things I've Ever Seen,' 'Candace (Candace Owens) Has Nothing but False Accusations,' 'Candace (Candace Owens) Gave Off Massive Red Flags.' He's kind of—his new imagination..._
 
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 

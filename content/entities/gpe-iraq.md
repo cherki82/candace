@@ -1,6 +1,6 @@
 ---
 title: "Iraq"
-description: "Iraq (Places) - 54 mentions"
+description: "Iraq (Places) - 55 mentions"
 id: "gpe-iraq"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46">2025-11-12 · 00:10:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iraq-t-00-37-12">2026-09-25 · 00:37:12</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iraq-t-00-15-45" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iraq-t-00-37-12" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iraq-t-00-15-45) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iraq-t-00-37-12) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:37:12](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iraq-t-00-37-12)**
+> "...he Houthis, Iran, militias in Iraq, militias in Syria. Palestinian terrorists in Jud..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -343,7 +353,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iraq (17)</strong></summary>
+<summary><strong class="section-title">Statements about Iraq (18)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:36:49](/episodes/ep-_Sq5RqP27NY.md#t-00-36-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel had fought a seven-fr..."](/statements/statement-db410504f811.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md), [Hezbollah](/entities/org-hezbollah.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

@@ -11,7 +11,7 @@ object: "person-benjamin-netanyahu"
 
 ## [Israel](/entities/gpe-israel) has prime minister [Benjamin Netanyahu](/entities/person-benjamin-netanyahu)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
 
@@ -20,6 +20,10 @@ object: "person-benjamin-netanyahu"
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 
 - [00:41:05](/episodes/ep-X3VKJVJ7cN4#t-00-41-05): _That's the prime minister of Israel._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:32:51](/episodes/ep-_Sq5RqP27NY#t-00-32-51): _The Assembly will hear an address by His Excellency Benjamin Netanyahu, ... Prime Minister of the State of Israel._
 
 **[A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU)**
 

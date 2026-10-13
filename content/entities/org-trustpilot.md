@@ -1,6 +1,6 @@
 ---
 title: "Trustpilot"
-description: "Trustpilot (Organizations) - 23 mentions"
+description: "Trustpilot (Organizations) - 27 mentions"
 id: "org-trustpilot"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-trustpilot-t-00-25-49">2025-09-25 · 00:25:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-trustpilot-t-00-49-37">2026-09-08 · 00:50:08</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-trustpilot-t-00-44-59">2026-10-01 · 00:45:25</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,10 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-trustpilot-t-02-30-51" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-trustpilot-t-00-57-00" style="--pulse-height:50%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-trustpilot-t-00-49-37" style="--pulse-height:50%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-trustpilot-t-00-27-31" style="--pulse-height:50%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-trustpilot-t-00-34-00" style="--pulse-height:50%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-trustpilot-t-00-27-53" style="--pulse-height:50%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-trustpilot-t-00-44-59" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +84,10 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-trustpilot-t-02-30-51) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-trustpilot-t-00-57-00) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-trustpilot-t-00-49-37) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-trustpilot-t-00-27-31) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-trustpilot-t-00-34-00) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-trustpilot-t-00-27-53) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-trustpilot-t-00-44-59) | 1 |
 
 </details>
 </section>
@@ -87,7 +95,39 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:45:25](/episodes/ep-q4m-kGzvwjw.md#ent-org-trustpilot-t-00-44-59)**
+> "...s has a 4.9 out of 5 stars on Trustpilot with over 5,000 reviews. And what really stands o..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:28:07](/episodes/ep-_Sq5RqP27NY.md#ent-org-trustpilot-t-00-27-53)**
+> "...s has a 4.9 out of 5 stars on Trustpilot with over 5,000 reviews. And what really stands o..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:34:19](/episodes/ep-NNiCZk1cuzs.md#ent-org-trustpilot-t-00-34-00)**
+> "...s has a 4.9 out of 5 stars on Trustpilot with over 5,000 reviews. And what really stands o..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:27:46](/episodes/ep-O4Zw3bCALjU.md#ent-org-trustpilot-t-00-27-31)**
+> "...s has a 4.9 out of 5 stars on Trustpilot with over 5,500 reviews. And what really stands o..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -274,5 +314,18 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Trustpilot (1)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:28:07](/episodes/ep-_Sq5RqP27NY.md#t-00-27-53) (Claim) **Candace Owens**: ["In a sponsor read, Owens said Ethos had a 4.9 out of 5 Trustpilot rati..."](/statements/statement-7c750e28d72a.md)
+  - Also about: [Ethos](/entities/org-ethos.md)
+
+</details>
 
 </details>

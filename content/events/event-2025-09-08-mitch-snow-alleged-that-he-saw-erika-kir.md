@@ -16,7 +16,7 @@ date: "2025-09-08"
 
 > Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -65,3 +65,11 @@ date: "2025-09-08"
 <a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=607s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They saw her in that lobby on the 8th leaving, jumping into a green pickup truck
+
+### 7. SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final M...
+
+**Episode:** [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md)
+**Timestamp:** [00:45:18](/episodes/ep-_2DiIbfy4mU.md#event-event-2025-09-08-mitch-snow-alleged-that-he-saw-erika-kir-t-00-45-00) 
+<a href="https://www.youtube.com/watch?v=_2DiIbfy4mU&t=2718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He just said he saw her leaving a hotel on the base.

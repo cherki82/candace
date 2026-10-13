@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 351 mentions"
+description: "France (Places) - 359 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-37-00">2026-09-08 · 00:37:00</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>351</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-france-t-00-54-00">2026-10-05 · 00:54:00</a></strong></div>
+<div><span>Episodes</span><strong>62</strong></div>
+<div><span>Mentions</span><strong>359</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>43</strong></div>
+<div><span>Statements about</span><strong>45</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -92,6 +92,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-france-t-00-23-47" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-36" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-14-21" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-france-t-00-30-28" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-france-t-00-01-29" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-france-t-00-39-02" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-france-t-00-31-51" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-france-t-00-54-00" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -154,6 +159,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-france-t-00-23-47) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-36) | 5 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-14-21) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-france-t-00-30-28) | 3 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-france-t-00-01-29) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-france-t-00-39-02) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-france-t-00-31-51) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-france-t-00-54-00) | 1 |
 
 </details>
 </section>
@@ -165,7 +175,56 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (351)</strong></summary>
+<summary><strong class="section-title">Raw mentions (359)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:54:00](/episodes/ep-ms5ChhZegRg.md#ent-gpe-france-t-00-54-00)**
+> "...these ties. It all began with France. It all began with Brigitte (Brigitte Macron). An..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:32:04](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-france-t-00-31-51)**
+> "...ly I mean this is a this is a French family if you will and"
+
+**[00:40:55](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-france-t-00-40-44)**
+> "...Epstein) story has to do with France."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:39:02](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-france-t-00-39-02)**
+> "...state of Israel, the state of France,"
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:01:45](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-france-t-00-01-29)**
+> "...ding a threat on my life from France."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:30:28](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-france-t-00-30-28)**
+> "...started by Jean-Luc Brunel of France."
+
+**[00:30:41](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-france-t-00-30-28)**
+> "...und suicided, as they say, in France when Epstein (Jeffrey Epstein) went down, that wo..."
+
+**[01:03:25](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-france-t-01-03-16)**
+> "... head on over to our Spanish, French, or Portuguese channels. We have links in the des..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
@@ -1656,7 +1715,23 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (43)</strong></summary>
+<summary><strong class="section-title">Statements about France (45)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:38:49](/episodes/ep-6XfDqKTdFKg.md#t-00-38-49) (Accusation) **Jeremy Boreing** (via quoted speech): ["In a separate podcast clip, Boreing says Owens probably committed the ..."](/statements/statement-37e04823cd93.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1)</summary>
+
+- [00:01:45](/episodes/ep-NNiCZk1cuzs.md#t-00-01-29) (Claim) **Candace Owens**: ["Owens said she received information about a threat on her life from Fr..."](/statements/statement-bc615ba490b5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>

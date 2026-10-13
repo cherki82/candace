@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (50 mentions)
+### Evidence (64 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -49,9 +49,17 @@ object: "person-candace-owens"
 
 - [00:49:07](/episodes/ep-5NQyGuRYbU8#t-00-49-07): _Turning Point USA because it just grew so remarkably corrupt in such a short space of time and they're just behaving like they have everything to hide._
 
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:14:32](/episodes/ep-5TTkMa49qj8#t-00-14-32): _Now we should actually clock some of her, to be expected, I would say, like Erica (Erika Kirk), you should expect some lies, also some strange revelations. We've kind of grown accustomed to Turning Point USA just, you know. ... Feeding us BS, but the article is an exceptional strand of that, I would tell you. First, is Erica (Erika Kirk) pretending that she's sensitive about maintaining Charlie (Charlie Kirk)'s spaces?_
+
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:17:49](/episodes/ep-5m-Wn6Pr5rM#t-00-17-49): _It's Turning Point USA. You don't need to take anything they say as fact._
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:52:32](/episodes/ep-6XfDqKTdFKg#t-00-52-32): _It is demonstration of your own character when you do stuff like that. And that is why Turning Point has fallen apart so quickly because people can see the day in and day out betrayal of what Charlie (Charlie Kirk) believed in, what his mission was, what his brand was, what he was going through in those last days and look at how quickly they weakened an organization that had so much influence._
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
@@ -72,6 +80,10 @@ object: "person-candace-owens"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:13:27](/episodes/ep-B9TyCs-6o_0#t-00-13-27): _angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad. ... Liars hate when they get caught._
+
+**[Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0)**
+
+- [00:39:52](/episodes/ep-BvthGQw3_s0#t-00-39-52): _I felt it was important to read that in its entirety because I again, I am just amazed at the lengths through which Turning Point USA will go to gaslight people about something that never needed to go this far._
 
 **[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
 
@@ -117,6 +129,14 @@ object: "person-candace-owens"
 
 - [00:04:11](/episodes/ep-KpxIBWkNsSs#t-00-04-11): _Me, regarding that, I'm just forever amazed at what Turning Point USA and their execs choose to respond to and the more important things that they remain._
 
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:09:29](/episodes/ep-NNiCZk1cuzs#t-00-09-29): _Yeah, Yeah, it feels like textbook narcissistic abuse. I keep saying that with the way Turning Point USA is operating. ... You'll launch lawsuits to shut people up. That is what Turning Point USA 2.0 is, and it is so far removed from Charlie Kirk's vision. If you do not see that yet, you absolutely must wake up._
+
+**[More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU)**
+
+- [00:01:02](/episodes/ep-O4Zw3bCALjU#t-00-01-02): _They did erect a statue of Charlie (Charlie Kirk) in front of their campus. Two days later, they now claim without any positive evidence, by the way, that the left, the left in particular, has vandalized that statue with red paint. And true to what Turning Point USA has become, they are already trying to fundraise off of the act of leftist vandalism. We're going to discuss all of that. But first, of course._
+
 **[You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI)**
 
 - [00:09:19](/episodes/ep-OEAHy3SsIiI#t-00-09-19): _Now, maybe Turning Point USA is not striving for relatability and that's fine. Money can, in fact, be your motive. But for me, when it moved toward becoming an abomination, abomination. The thing that sent me over the edge was when I saw the tent._
@@ -140,6 +160,10 @@ object: "person-candace-owens"
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 
 - [00:00:30](/episodes/ep-SubDoZWHARo#t-00-00-30): _Too old to have to take time out of my precious day to work through the latest turning point public relations blunder._
+
+**[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
+
+- [00:51:27](/episodes/ep-UAdBEXs7nNc#t-00-51-27): _This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways._
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
@@ -169,13 +193,29 @@ object: "person-candace-owens"
 
 - [00:43:26](/episodes/ep-ZkDO-MRLUco#t-00-43-26): _Or played some role that day which I've always thought that he was around campus on that day but it would to me I think it would be ultimately a good thing for us to be able to sort of look this beast in the face this beast of government in the face and to see how it operates and to continue to watch Turning Point USA growing more desperate in their smears and in their lies I did see, recently, again, they rely on public ignorance as most people don't go through trials. ... Most people are not being sued every single day. And so they are relying on public ignorance of not knowing how trials function for them to be able to spin and to lie and to present things as if they're big wins. For example, I saw Blake (Blake Neff) pushing today._
 
+**[SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU)**
+
+- [00:48:54](/episodes/ep-_2DiIbfy4mU#t-00-48-54): _So I would like to urge parents or commend parents, but also to urge parents. to recognize that I urge parents to recognize this is a different company. This is a different organization. This is not what Charlie Kirk built. We see evidence of that everywhere. Erika Kirk is very different from Charlie (Charlie Kirk) and how he handled things, how very different that organization under Charlie Kirk. Blake Neff is obviously unwell. It's the nicest way that we could possibly say it. He's coming apart. And this is not an organization that believes in free speech and believes in a meritocracy and believes in the free markets. This is an organization that believes in power and has demonstrated themselves as willing to engage in corrupt measures to get what they want._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:30:16](/episodes/ep-_Sq5RqP27NY#t-00-30-16): _Exact opposite. Trump (Donald Trump) 2.0 is like Turning Point USA 2.0. You know, these are two different, don't even ask about what this is. It is nothing. ... nothing. They have nothing to do with one another. And there is something that just made me feel so great today about the wider awakening that is happening, especially people that were commenting._
+
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 
 - [00:50:03](/episodes/ep-a2bZf4fic10#t-00-50-03): _...more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives._
 
+**[BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU)**
+
+- [00:00:01](/episodes/ep-aLJhpxrakCU#t-00-00-01): _All right, you guys, happy Wednesday. Some news today, some big news today, actually. Turning Point USA just makes me sick. And I have to be honest with you guys, I just know so much of what goes on behind the scenes. Then when I wake up on a day like today and I see them running another PR game, trying to delude the public into thinking that they want justice for Charlie (Charlie Kirk), it just makes me sick. And that's what they're doing today. In case you missed it, there is basically wall-to-wall coverage._
+
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 
 - [00:26:54](/episodes/ep-amqTMimDr0A#t-00-26-54): _But I wanted to just really underscore how despicable the Turning Point USA team has been in their lies._
+
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [01:17:50](/episodes/ep-bIuvTKlFeGo#t-01-17-50): _But your main takeaway from today's episode should be the audacity of turning point USA over this last year, the audacity of Blake Neff, the audacity of Andrew Kolvet, but most of all, the audacity of Erika (Erika Kirk), the audacity of Erika (Erika Kirk) to. ... Could it be a rational answer for why Turning Point USA did not want to participate in what they were already signaling to the public? They're willing to speak to the press. They're willing to speak to CBS News, ABC News, official spokespersons are coming out and saying the security did this, security did that, but they were not willing to sit down with an independent review._
 
 **[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
 
@@ -193,6 +233,14 @@ object: "person-candace-owens"
 
 - [01:00:57](/episodes/ep-kaWtDuoY_ns#t-01-00-57): _it is for some reason very hard for Turning Point to surround themselves with pastors that do not have complicated pasts or presents._
 
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:29:23](/episodes/ep-kn1E0scy9Wc#t-00-29-23): _It should be noted this is new, it is different, and as a parent myself. I would never, ever, ever allow my children to be involved with Turning Point USA, ever. I want to say that strongly. I want to state that repeatedly, given everything that we have uncovered, the non-existent answers that we are being given, that this is not the organization, in my view, that Charlie Kirk built and their insistence on wanting to have access to high school students, it alarms me. I don't like it. It makes me uncomfortable._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:34:36](/episodes/ep-ms5ChhZegRg#t-00-34-36): _And one of the things you walk away with is how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long for the absence of what they deem to be acceptable security when Charlie (Charlie Kirk)'s security team, which was made up of about 13 members, all of them seals, former seals. ... And having these long military records did virtually nothing. I mean, didn't even try to get in touch with the police. The police had to, uh, play offense on that. And then, of course, we learned that headquarters was not sharing the ticket count, so there's no way they could have prepped without even knowing the numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript name spelling unverified) podcast, uh, gave an interview. He's been just speaking way too much, and there's one very funny part of his entire spiel which is just, it's just him._
+
 **[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
 
 - [00:08:14](/episodes/ep-pc3pxRyNFZk#t-00-08-14): _it certainly looked like Turning Point employees or staff or students thugged him so that he wouldn't say what he thought happened._
@@ -205,6 +253,10 @@ object: "person-candace-owens"
 
 - [00:18:38](/episodes/ep-q1NRQQAYS_Q#t-00-18-38): _So why is this particular one you're worried about people thinking it's AI? They even share outdated videos and try to pretend that he's supporting the Iranian war, like they're getting fact checked on X because they're sharing outdated videos and misrepresenting Charlie (Charlie Kirk)'s._
 
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:13:33](/episodes/ep-q4m-kGzvwjw#t-00-13-33): _Turning Point has refused to comment for this story. I should say Turning Point 2.0 never comments for a story. They're always up to it. There's always this stuff circulating. This is 2.0, just so you know, watchdog company. This is not 1.0. This is dominate 2.0. And how do you dominate? Just by being shady, I think. Not answering any questions._
+
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 
 - [00:56:49](/episodes/ep-qZ8RWfyuewQ#t-00-56-49): _I wouldn't be able to stomach looking at Kash Patel, and you can. I'm sorry that we're all noticing these sorts of things and keeping track of the very many lies that you and Turning Point people have told._
@@ -212,6 +264,10 @@ object: "person-candace-owens"
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 
 - [00:41:31](/episodes/ep-uC_GjKU8rs8#t-00-41-31): _And maybe if you were one of the lucky ones who got to attend this event of the century, you might be able to work to find out by contacting turning point and saying actually who was your partners that were geofencing us._
+
+**[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
+
+- [00:08:22](/episodes/ep-yrg_-D6oNHE#t-00-08-22): _Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell._
 
 ### Related
 

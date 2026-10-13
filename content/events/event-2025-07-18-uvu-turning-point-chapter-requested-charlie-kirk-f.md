@@ -18,7 +18,7 @@ date: "2025-07-18"
 
 > UVU Turning Point chapter requested Charlie Kirk for campus speaking event.
 
-## Mentioned In (9 times)
+## Mentioned In (11 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -91,3 +91,19 @@ date: "2025-07-18"
 <a href="https://www.youtube.com/watch?v=MUA9ebCF4Ow&t=1144s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > it was July 18th that UVU Turning Point chapter requested to have Charlie speak.
+
+### 10. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [00:17:20](/episodes/ep-bIuvTKlFeGo.md#t-00-16-53) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=1040s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On July 18th is when he formally, maybe he got more details from Macy, submits an
+
+### 11. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:31:09](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-07-18-uvu-turning-point-chapter-requested-charlie-kirk-f-t-00-31-09) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1869s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On July 18th, there was a formal request for Turning Point USA's UVU chapter that submitted. We

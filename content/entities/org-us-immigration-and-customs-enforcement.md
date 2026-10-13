@@ -1,6 +1,6 @@
 ---
 title: "U.S. Immigration and Customs Enforcement"
-description: "U.S. Immigration and Customs Enforcement (Organizations) - 7 mentions"
+description: "U.S. Immigration and Customs Enforcement (Organizations) - 11 mentions"
 id: "org-us-immigration-and-customs-enforcement"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-us-immigration-and-customs-enforcement-t-00-44-45">2025-09-24 · 00:44:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-47">2026-01-30 · 00:45:47</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48">2026-10-05 · 00:02:48</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,9 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-56" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-42" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-47" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-us-immigration-and-customs-enforcement-t-00-40-20" style="--pulse-height:67%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-us-immigration-and-customs-enforcement-t-00-58-32" style="--pulse-height:33%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48" style="--pulse-height:33%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +55,9 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-56) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-42) | 3 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-47) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-us-immigration-and-customs-enforcement-t-00-40-20) | 2 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-us-immigration-and-customs-enforcement-t-00-58-32) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48) | 1 |
 
 </details>
 </section>
@@ -59,7 +65,34 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:02:48](/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48)**
+> "I am, I am the ICE, the Immigration Customs Enforcement. Nope, nothi..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:58:54](/episodes/ep-NNiCZk1cuzs.md#ent-org-us-immigration-and-customs-enforcement-t-00-58-32)**
+> "...women down alleys in front of ICE facilities."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:40:27](/episodes/ep-kn1E0scy9Wc.md#ent-org-us-immigration-and-customs-enforcement-t-00-40-20)**
+> "...y surveillance cameras at the ICE facility."
+
+**[00:45:12](/episodes/ep-kn1E0scy9Wc.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-12)**
+> "...r this terrorist organization ICE."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>
@@ -113,6 +146,18 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Macklemore](/entities/person-macklemore.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:45:12](/episodes/ep-kn1E0scy9Wc.md#t-00-45-12): “So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Trained By (1)</summary>
 
 - **[Israel Defense Forces](/entities/org-israel-defense-forces.md)**
@@ -125,7 +170,14 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Macklemore](/entities/person-macklemore.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:45:12](/episodes/ep-kn1E0scy9Wc.md#t-00-45-12): “So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE.”
+
+</details>
 
 - **[Israel Defense Forces](/entities/org-israel-defense-forces.md)** trained this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -139,7 +191,18 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about U.S. Immigration and Customs Enforcement (1)</strong></summary>
+<summary><strong class="section-title">Statements about U.S. Immigration and Customs Enforcement (3)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:40:27](/episodes/ep-kn1E0scy9Wc.md#t-00-40-20) (Claim) **Candace Owens** (via paraphrase): ["Owens said surveillance cameras at the ICE facility captured the incid..."](/statements/statement-2f3b6ecf3dc6.md)
+  - Also about: [Matt Tardio](/entities/person-matt-tardio.md), [Antifa](/entities/concept-antifa.md)
+
+- [00:45:12](/episodes/ep-kn1E0scy9Wc.md#t-00-45-12) (Opinion) **Macklemore** (via quoted speech): ["Macklemore said 'free Palestine,' 'free Lebanon,' 'free Cuba,' 'free C..."](/statements/statement-753a3fee7216.md)
+  - Also about: [Palestine](/entities/gpe-palestine.md), [Lebanon](/entities/gpe-lebanon.md), [Cuba](/entities/gpe-cuba.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

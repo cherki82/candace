@@ -1,24 +1,28 @@
 ---
 title: "Blake (security team member; surname unverified)"
-description: "Blake (security team member; surname unverified) (Anonymous Sources) - 10 mentions"
+description: "Blake (security team member; surname unverified) (Anonymous Sources) - 17 mentions"
 id: "anon-src-HIlPQ-_dcxM-003"
 type: "ANONYMOUS_SOURCE"
 aliases:
   - "Blake Hariff (security team member; surname unverified)"
+categories:
+  - "security team participant; surname unverified"
 ---
 
 _Type: Anonymous Sources_
 
 **Also known as:** Blake Hariff (security team member; surname unverified)
 
+**Categories:** security team participant; surname unverified
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-19-36">2026-09-02 · 00:19:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-23-35">2026-09-09 · 00:24:05</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-04-38">2026-09-14 · 00:04:38</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -29,6 +33,7 @@ _Type: Anonymous Sources_
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-19-36" style="--pulse-height:14%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-06-53" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 7 mentions" title="2026-09-03 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-18-13" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42" style="--pulse-height:100%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 7 mentions" title="2026-09-14 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -37,6 +42,7 @@ _Type: Anonymous Sources_
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-19-36) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-06-53) | 7 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-18-13) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42) | 7 |
 
 </details>
 </section>
@@ -48,7 +54,33 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (7 mentions)</summary>
+
+**[00:01:56](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42)**
+> "We'll talk about it in a bit. Anyway, where did we leave off? Okay, well, we certainly discovered something interesting. This was Wednesday of last week, namely about Blake Harris (security team member; surname spelling unverified)."
+
+**[00:02:07](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42)**
+> "One of the many individuals that were put onto Charlie (Charlie Kirk)'s security detail on September 10th, Blake Hariff (security team member; surname spelling unverified), we had noted to the public, had no blood on him. It was important to note that he also did not help to carry or transport Charlie (Charlie Kirk) to the hospital thereafter."
+
+**[00:02:42](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42)**
+> "Everybody, they were just handing these scrubs out. Despite racking our brains, we could not think of a reason why that would make any sense, why Blake Harris (security team member; surname spelling unverified) in particular would be rocking the hospital scrubs. Now, does it mean that there isn't a sensible reason?"
+
+**[00:02:57](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42)**
+> "Right. It just means that we can't come up with one at all, even under a pretend scenario where Blake (security team member; surname unverified) went to the hospital sometime thereafter, perhaps to provide more security to the emergency wing alongside, you know, alongside Brian Harpole, who said he was out there and no one's going in because I'm Brian Harpole."
+
+**[00:03:47](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42)**
+> "But if you really think about it, it fails upon a further common sense test, right? Because why would the feds collect Blake Harroff (security team member; surname spelling unverified)'s shirt, which had no blood on it?"
+
+**[00:04:25](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-02-42)**
+> "So no, it becomes pretty difficult for us to imagine or to suppose that for some reason they decided to strip Blake Harreth (security team member; surname spelling unverified) in particular despite having no blood in him. It doesn't add up to me."
+
+**[00:04:38](/episodes/ep-O4Zw3bCALjU.md#ent-anon-src-HIlPQ-_dcxM-003-t-00-04-38)**
+> "Now, there were some other people who suggested that it might have been out of exceeding caution. Because maybe Blake (security team member; surname unverified), when he slid across the table, may have got some explosive residue on him. If we are running the theory that it was explosive that took Charlie (Charlie Kirk) out, well,"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -125,6 +157,18 @@ _Type: Anonymous Sources_
 </details>
 
 <details>
+<summary>Worked With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:01:56](/episodes/ep-O4Zw3bCALjU.md#t-00-01-28): “We'll talk about it in a bit. Anyway, where did we leave off? Okay, well, we certainly discovered something interesting. This was Wednesday of last week, namely about Blake Harris (security team member; surname spelling unverified). One of the many individuals that were put onto Charlie (Charlie Kirk)'s security detail on September 10th, Blake Hariff (security team member; surname spelling unverified), we had noted to the public, had no blood on him. It was important to note that he also did not help to carry or transport Charlie (Charlie Kirk) to the hospital thereafter.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Referenced By (2)</summary>
 
 - **[Justin Davis](/entities/person-justin-davis.md)** appeared with this
@@ -146,7 +190,21 @@ _Type: Anonymous Sources_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake (security team member; surname unverified) (6)</strong></summary>
+<summary><strong class="section-title">Statements about Blake (security team member; surname unverified) (9)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3)</summary>
+
+- [00:02:07](/episodes/ep-O4Zw3bCALjU.md#t-00-02-07) (Claim) **Candace Owens**: ["Owens said Blake, the security team member whose surname is unverified..."](/statements/statement-43544f6e7435.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:02:24](/episodes/ep-O4Zw3bCALjU.md#t-00-02-07) (Claim) **Candace Owens**: ["Owens said Blake was wearing hospital scrubs by nighttime, presumably ..."](/statements/statement-b8abebd796b9.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:04:38](/episodes/ep-O4Zw3bCALjU.md#t-00-04-38) (Accusation) **Candace Owens** (via paraphrase): ["Owens described an interesting theory suggested by correspondents: the..."](/statements/statement-2323e076ba49.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3)</summary>

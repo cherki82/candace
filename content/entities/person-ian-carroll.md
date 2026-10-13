@@ -1,6 +1,6 @@
 ---
 title: "Ian Carroll"
-description: "Ian Carroll (People) - 47 mentions"
+description: "Ian Carroll (People) - 52 mentions"
 id: "person-ian-carroll"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-ian-carroll-t-00-40-46">2025-09-29 · 00:40:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-46-29">2026-08-18 · 00:46:29</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04">2026-10-07 · 00:40:26</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -58,6 +58,9 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-ian-carroll-t-00-03-34" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-40-45" style="--pulse-height:43%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 3 mentions" title="2026-08-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ian-carroll-t-00-06-39" style="--pulse-height:14%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-ian-carroll-t-01-07-10" style="--pulse-height:14%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04" style="--pulse-height:43%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +89,9 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-ian-carroll-t-00-03-34) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-40-45) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-ian-carroll-t-00-06-39) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-ian-carroll-t-01-07-10) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04) | 3 |
 
 </details>
 </section>
@@ -97,7 +103,37 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:40:04](/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04)**
+> "...een going back and forth with Ian Carroll. And somebody wrote, every day I think that we've..."
+
+**[00:40:18](/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04)**
+> "...erified) replies, 'You follow Ian Carroll, says all I need to know about you.'"
+
+**[00:40:26](/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04)**
+> "Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount ..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:07:27](/episodes/ep-0pSAhaAZz1w.md#ent-person-ian-carroll-t-01-07-10)**
+> "...; surname unverified) writes, Ian Carroll and then Baron (Baron Coleman) are great choices ..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:06:49](/episodes/ep-ms5ChhZegRg.md#ent-person-ian-carroll-t-00-06-39)**
+> "Ian Carroll has actually done a lot of great work with that, ..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (3 mentions)</summary>
@@ -364,6 +400,30 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Gary Melton](/entities/person-gary-melton.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:18](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Exchanged Messages With (1)</summary>
+
+- **[Gary Melton](/entities/person-gary-melton.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:04](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “He actually tweeted this. He's been going back and forth with Ian Carroll. And somebody wrote, every day I think that we've reached the bottom on just how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, only to find that he's hit a new subterranean level. ... Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -376,12 +436,26 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Israel](/entities/gpe-israel.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:28:29](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-12): “Within a day or two of Kirk's death, Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk.”
+
+</details>
+
+- **[Gary Melton](/entities/person-gary-melton.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:18](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
+
+</details>
+
+- **[Gary Melton](/entities/person-gary-melton.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:40:04](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04): “He actually tweeted this. He's been going back and forth with Ian Carroll. And somebody wrote, every day I think that we've reached the bottom on just how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, only to find that he's hit a new subterranean level. ... Paramount not so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies, 'You follow Ian Carroll, says all I need to know about you.' ... Ian (Ian Carroll) comes back with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you follow me, bro. ... You didn't realize he's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no, Paramount not so tactical. ... And then he goes, oh, I'll fix that. That was that was way back before I realized what a liar and propagandist you were. ... I have your phone number two doesn't mean I use it. I mean, this is what I mean when I say that they are scraping the bottom of the barrel in terms of influencers, in terms of people that they are working with. They just.”
 
 </details>
 
@@ -405,7 +479,15 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ian Carroll (2)</strong></summary>
+<summary><strong class="section-title">Statements by Ian Carroll (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:40:26](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04) [○] (Claim) ["In the post read by Owens, Ian Carroll replied to the Paramount Tactical comment..."](/statements/statement-0064ab93ec13.md)
+  - About: [Gary Melton](/entities/person-gary-melton.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2)</summary>
@@ -421,7 +503,16 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ian Carroll (2)</strong></summary>
+<summary><strong class="section-title">Statements about Ian Carroll (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
+
+- [00:40:18](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04) (Opinion) **Gary Melton** (via quoted tweet): ["In the post read by Owens, Paramount Tactical’s Gary Melton wrote, "Yo..."](/statements/statement-7420b52b270b.md)
+
+- [00:40:41](/episodes/ep-yrg_-D6oNHE.md#t-00-40-04) (Accusation) **Gary Melton** (via quoted tweet): ["Owens read the Paramount Tactical commentator’s response saying he wou..."](/statements/statement-a1dd3aa8ae10.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>

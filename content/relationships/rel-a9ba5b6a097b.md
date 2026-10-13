@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -32,6 +32,10 @@ object: "person-blake-neff"
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 
 - [00:19:05](/episodes/ep-w1oqQbR_bYs#t-00-19-05): _the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk_
+
+**[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
+
+- [00:02:17](/episodes/ep-yrg_-D6oNHE#t-00-02-17): _We should take everything that any person says at face value. And let's shouldn't forget that Andrew Kolvet and Blake Neff over at Turning Point USA have expressed these very sentiments. They keep a list. They check it twice._
 
 ### Related
 

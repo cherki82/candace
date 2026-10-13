@@ -1,6 +1,6 @@
 ---
 title: "Orem Police Department"
-description: "Orem Police Department (Organizations) - 5 mentions"
+description: "Orem Police Department (Organizations) - 8 mentions"
 id: "org-orem-police-department"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [Orem Police Department](https://orem.org/police/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-46">2025-09-25 · 00:15:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-org-orem-police-department-t-00-29-57">2025-11-18 · 00:30:07</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-orem-police-department-t-00-51-54">2026-09-25 · 00:51:54</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,8 @@ Source: [Orem Police Department](https://orem.org/police/)
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-46" style="--pulse-height:33%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-orem-police-department-t-00-18-54" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-orem-police-department-t-00-29-57" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-orem-police-department-t-00-22-23" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-orem-police-department-t-00-48-00" style="--pulse-height:67%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +47,8 @@ Source: [Orem Police Department](https://orem.org/police/)
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-46) | 1 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-orem-police-department-t-00-18-54) | 3 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-orem-police-department-t-00-29-57) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-orem-police-department-t-00-22-23) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-orem-police-department-t-00-48-00) | 2 |
 
 </details>
 </section>
@@ -56,7 +60,26 @@ Source: [Orem Police Department](https://orem.org/police/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[00:48:15](/episodes/ep-bIuvTKlFeGo.md#ent-org-orem-police-department-t-00-48-00)**
+> "... a drone from the neighboring Orem Police Department could have been requested."
+
+**[00:51:54](/episodes/ep-bIuvTKlFeGo.md#ent-org-orem-police-department-t-00-51-54)**
+> "...e a mutual aid request to the Orem Police Department or other local public safety partners before the ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:22:23](/episodes/ep-kn1E0scy9Wc.md#ent-org-orem-police-department-t-00-22-23)**
+> "So maybe this woman worked locally out of the Orem police department. I don't know. I would like to know who she is, but it makes no sense that they would have tasked her with taking that statement."
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
@@ -132,7 +155,18 @@ Source: [Orem Police Department](https://orem.org/police/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Orem Police Department (3)</strong></summary>
+<summary><strong class="section-title">Statements about Orem Police Department (5)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>
+
+- [00:47:48](/episodes/ep-bIuvTKlFeGo.md#t-00-47-24) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["Without speaking to Harpole, the project team could not determine why ..."](/statements/statement-6011e65054a7.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:51:54](/episodes/ep-bIuvTKlFeGo.md#t-00-51-54) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review said Chief Long did not request mutual aid from Orem police..."](/statements/statement-c0eebcf44ba1.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md)
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "South America"
-description: "South America (Places) - 5 mentions"
+description: "South America (Places) - 6 mentions"
 id: "gpe-south-america"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [South America: Human Geography | National Geographic](https://media.nat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-america-t-00-05-50">2025-12-09 · 00:06:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-south-america-t-00-31-51">2026-05-11 · 00:31:51</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-south-america-t-00-07-43">2026-09-15 · 00:07:43</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [South America: Human Geography | National Geographic](https://media.nat
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-america-t-00-48-52" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-south-america-t-01-17-41" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-south-america-t-00-31-51" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-south-america-t-00-07-43" style="--pulse-height:50%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [South America: Human Geography | National Geographic](https://media.nat
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-america-t-00-48-52) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-south-america-t-01-17-41) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-south-america-t-00-31-51) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-south-america-t-00-07-43) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [South America: Human Geography | National Geographic](https://media.nat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:07:43](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-south-america-t-00-07-43)**
+> "... kids from sex trafficking in South America. He did that via Operation Underground, which I s..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>

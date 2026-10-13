@@ -1,6 +1,6 @@
 ---
 title: "Deep state"
-description: "Deep state (Concepts) - 15 mentions"
+description: "Deep state (Concepts) - 16 mentions"
 id: "concept-deep-state"
 type: "CONCEPT"
 categories:
@@ -14,9 +14,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48">2025-12-05 · 00:17:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-47-07">2026-09-08 · 00:47:30</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-deep-state-t-00-37-01">2026-09-14 · 00:37:13</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ _Type: Concepts_
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-deep-state-t-00-24-00" style="--pulse-height:25%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-deep-state-t-00-00-45" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-41-07" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-deep-state-t-00-37-01" style="--pulse-height:25%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ _Type: Concepts_
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-deep-state-t-00-24-00) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-deep-state-t-00-00-45) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-41-07) | 4 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-concept-deep-state-t-00-37-01) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:37:13](/episodes/ep-O4Zw3bCALjU.md#ent-concept-deep-state-t-00-37-01)**
+> "...he courage to stand up to the deep state. You don't have the courage to stand up and depar..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>

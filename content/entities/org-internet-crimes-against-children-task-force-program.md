@@ -1,6 +1,6 @@
 ---
 title: "Internet Crimes Against Children Task Force Program"
-description: "Internet Crimes Against Children Task Force Program (Organizations) - 2 mentions"
+description: "Internet Crimes Against Children Task Force Program (Organizations) - 5 mentions"
 id: "org-internet-crimes-against-children-task-force-program"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-00-33-01">2026-05-19 · 00:33:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-01-21-53">2026-05-19 · 01:21:53</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-07-29">2026-10-08 · 00:07:29</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,12 +37,16 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 <p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-00-33-01">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-00-33-01" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-22-23" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-07-29" style="--pulse-height:50%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-00-33-01) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-22-23) | 2 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-07-29) | 1 |
 
 </details>
 </section>
@@ -50,7 +54,26 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:07:29](/episodes/ep-UAdBEXs7nNc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-07-29)**
+> "...ment of sorts to a woman from ICAC. ICAC stands for Internet Crimes Against Children..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:22:37](/episodes/ep-kn1E0scy9Wc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-22-23)**
+> "...nwide now. Every state has an ICAC division."
+
+**[00:22:52](/episodes/ep-kn1E0scy9Wc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-22-52)**
+> "...nt of Justice established the Internet Crimes Against Children Task Force Program back in 1998 to help states and local law enforce..."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2 mentions)</summary>
@@ -68,6 +91,68 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Founded By (1)</summary>
+
+- **[United States Department of Justice](/entities/org-united-states-department-of-justice.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:22:46](/episodes/ep-kn1E0scy9Wc.md#t-00-22-23): “Wondering about who established that? The answer is the Department of Justice. The United States Department of Justice established the Internet Crimes Against Children Task Force Program back in 1998 to help states and local law enforcement fight technology-facilitated child sexual exploitation. Again, that's not what occurred on September 10th.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Former Part (1)</summary>
+
+- **[Lafieta Asisi](/entities/person-lafieta-asisi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:07:29](/episodes/ep-UAdBEXs7nNc.md#t-00-07-29): “Then we discovered and revealed to the public that no, Mikey (Mikey McCoy) did not immediately go to the hospital. He actually gave an interview, a statement of sorts to a woman from ICAC. ICAC stands for Internet Crimes Against Children. We had wondered out loud why that would be the correct person to be taking a statement from Mikey McCoy. Is he a child? Is he on the Internet? By the way, I can tell you this, that woman, that officer has since left her position, by the way. Her name is Fia Asisi (Lafieta Asisi), Fia spelled F-I-A, fuller name is Lafieta Asisi, and she is no longer doing that.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Lafieta Asisi](/entities/person-lafieta-asisi.md)** formerly part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:07:29](/episodes/ep-UAdBEXs7nNc.md#t-00-07-29): “Then we discovered and revealed to the public that no, Mikey (Mikey McCoy) did not immediately go to the hospital. He actually gave an interview, a statement of sorts to a woman from ICAC. ICAC stands for Internet Crimes Against Children. We had wondered out loud why that would be the correct person to be taking a statement from Mikey McCoy. Is he a child? Is he on the Internet? By the way, I can tell you this, that woman, that officer has since left her position, by the way. Her name is Fia Asisi (Lafieta Asisi), Fia spelled F-I-A, fuller name is Lafieta Asisi, and she is no longer doing that.”
+
+</details>
+
+- **[United States Department of Justice](/entities/org-united-states-department-of-justice.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:22:46](/episodes/ep-kn1E0scy9Wc.md#t-00-22-23): “Wondering about who established that? The answer is the Department of Justice. The United States Department of Justice established the Internet Crimes Against Children Task Force Program back in 1998 to help states and local law enforcement fight technology-facilitated child sexual exploitation. Again, that's not what occurred on September 10th.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Internet Crimes Against Children Task Force Program (2)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:07:29](/episodes/ep-UAdBEXs7nNc.md#t-00-07-29) (Claim) **Candace Owens**: ["Owens said Michael McCoy did not immediately go to the hospital but in..."](/statements/statement-ca351794d6fb.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:22:52](/episodes/ep-kn1E0scy9Wc.md#t-00-22-52) (Claim) **Candace Owens**: ["Owens said the United States Department of Justice established the Int..."](/statements/statement-3d80df7751bd.md)
+  - Also about: [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+</details>
 
 </details>

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [fatty15](/entities/org-fatty15) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
 - [00:40:58](/episodes/ep-OgRyiOAVtWU#t-00-40-58): _Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years._
+
+**[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
+
+- [00:26:04](/episodes/ep-UAdBEXs7nNc#t-00-26-04): _I also remind you guys about Fatty 15 because are you doing all the right things? all the right things for your health, but still wondering if there's more that you could be doing to support your healthy aging. Well, that's why I'm excited to tell you about Fatty 15, which is a science-backed supplement that's built around C15, which is the first essential fatty acid discovered in more than 90 years._
 
 **[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
 

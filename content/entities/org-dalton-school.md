@@ -1,6 +1,6 @@
 ---
 title: "The Dalton School"
-description: "The Dalton School (Organizations) - 1 mention"
+description: "The Dalton School (Organizations) - 2 mentions"
 id: "org-dalton-school"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Dalton School](https://www.dalton.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-dalton-school-t-00-02-39">2026-01-22 · 00:02:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-dalton-school-t-00-02-39">2026-01-22 · 00:02:39</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-dalton-school-t-00-30-33">2026-10-01 · 00:30:54</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [The Dalton School](https://www.dalton.org/)
 <p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-dalton-school-t-00-02-39">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-dalton-school-t-00-02-39" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-dalton-school-t-00-30-33" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-dalton-school-t-00-02-39) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-dalton-school-t-00-30-33) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [The Dalton School](https://www.dalton.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:30:54](/episodes/ep-q4m-kGzvwjw.md#ent-org-dalton-school-t-00-30-33)**
+> "...Bill Barr's contributions and the Dalton School in New York to creating. this fake persona of som..."
+
+</details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>

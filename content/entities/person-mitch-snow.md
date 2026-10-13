@@ -1,6 +1,6 @@
 ---
 title: "Mitch Snow"
-description: "Mitch Snow (People) - 132 mentions"
+description: "Mitch Snow (People) - 138 mentions"
 id: "person-mitch-snow"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-00-00">2025-12-18 · 00:00:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-mitch-snow-t-00-39-26">2026-09-09 · 00:39:26</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>132</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-mitch-snow-t-01-25-47">2026-09-25 · 01:26:01</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>138</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>32</strong></div>
+<div><span>Statements about</span><strong>36</strong></div>
 <div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -62,6 +62,8 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-mitch-snow-t-00-08-50" style="--pulse-height:21%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-mitch-snow-t-00-39-26" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-mitch-snow-t-00-23-28" style="--pulse-height:26%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 5 mentions" title="2026-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-mitch-snow-t-01-25-47" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +96,8 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-mitch-snow-t-00-08-50) | 4 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-mitch-snow-t-00-39-26) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-mitch-snow-t-00-23-28) | 5 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-mitch-snow-t-01-25-47) | 1 |
 
 </details>
 </section>
@@ -105,7 +109,35 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+<summary><strong class="section-title">Raw mentions (138)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:26:01](/episodes/ep-bIuvTKlFeGo.md#ent-person-mitch-snow-t-01-25-47)**
+> "...I don't know, this guy Mitch (Mitch Snow)'s story seems credible. He probably maybe just s..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (5 mentions)</summary>
+
+**[00:23:28](/episodes/ep-_2DiIbfy4mU.md#ent-person-mitch-snow-t-00-23-28)**
+> "... from last December regarding Mitch Snow, a man whose story I still I still despite being ..."
+
+**[00:24:08](/episodes/ep-_2DiIbfy4mU.md#ent-person-mitch-snow-t-00-24-08)**
+> "...n Harpole before I had Mitch (Mitch Snow) on my show and asked him for a clean answer."
+
+**[00:24:19](/episodes/ep-_2DiIbfy4mU.md#ent-person-mitch-snow-t-00-24-08)**
+> "...an Harpole's word over Mitch (Mitch Snow)'s at that time, but they got crazy. But this is ..."
+
+**[00:37:10](/episodes/ep-_2DiIbfy4mU.md#ent-person-mitch-snow-t-00-36-37)**
+> "...tell you. I don't have Mitch (Mitch Snow)'s eyes and these people have been dancing around..."
+
+**[00:44:50](/episodes/ep-_2DiIbfy4mU.md#ent-person-mitch-snow-t-00-44-24)**
+> "...t point, I didn't know Mitch (Mitch Snow) from a hole in the wall."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -697,10 +729,11 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:29:07](/episodes/ep-69A8TzAGHlU.md#t-00-29-07): “Okay, here is just one of many examples on my podcast. This is actually when I interviewed Mitch Snow where I said, I can't confirm who you saw.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07): “airbase that were not you know weird so I made the decision when I first presented the story which was absent before my interview with Mitch (Mitch Snow) so I basically first told Mitch (Mitch Snow)'s story um his entire background and then I said and he says that he saw Brian Harpole if you go back and you watch that I said he saw Brian Harpole on the 9th right removed Erika (Erika Kirk) from it entirely instantly the next day Erika (Erika Kirk) did went on her tour the stop tour day Erika (Erika Kirk) did went on her tour the stop tour”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:24:08](/episodes/ep-_2DiIbfy4mU.md#t-00-24-08): “He thinks he saw Brian Harpole. I'm limited. I obviously can't confirm that. But I did try to. I reached out to Brian Harpole before I had Mitch (Mitch Snow) on my show and asked him for a clean answer.”
 
 </details>
 
@@ -843,11 +876,12 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:25:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-09): “Mitch, welcome to my podcast. It's so great to have you here.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:29:07](/episodes/ep-69A8TzAGHlU.md#t-00-29-07): “Okay, here is just one of many examples on my podcast. This is actually when I interviewed Mitch Snow where I said, I can't confirm who you saw.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07): “airbase that were not you know weird so I made the decision when I first presented the story which was absent before my interview with Mitch (Mitch Snow) so I basically first told Mitch (Mitch Snow)'s story um his entire background and then I said and he says that he saw Brian Harpole if you go back and you watch that I said he saw Brian Harpole on the 9th right removed Erika (Erika Kirk) from it entirely instantly the next day Erika (Erika Kirk) did went on her tour the stop tour day Erika (Erika Kirk) did went on her tour the stop tour”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:24:08](/episodes/ep-_2DiIbfy4mU.md#t-00-24-08): “He thinks he saw Brian Harpole. I'm limited. I obviously can't confirm that. But I did try to. I reached out to Brian Harpole before I had Mitch (Mitch Snow) on my show and asked him for a clean answer.”
 
 </details>
 
@@ -958,7 +992,24 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitch Snow (32)</strong></summary>
+<summary><strong class="section-title">Statements about Mitch Snow (36)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (4)</summary>
+
+- [00:23:28](/episodes/ep-_2DiIbfy4mU.md#t-00-23-28) (Opinion) **Candace Owens**: ["Owens still deems Mitch Snow’s Fort Huachuca story credible despite a ..."](/statements/statement-5e076f5934d0.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:24:08](/episodes/ep-_2DiIbfy4mU.md#t-00-24-08) (Claim) **Candace Owens**: ["Owens says she messaged Brian Harpole approximately five times before ..."](/statements/statement-12cfe410d8f3.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:37:10](/episodes/ep-_2DiIbfy4mU.md#t-00-36-37) (Claim) **Candace Owens**: ["Owens says she has never asserted Erika Kirk was at Fort Huachuca and ..."](/statements/statement-94658aacac72.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:45:00](/episodes/ep-_2DiIbfy4mU.md#t-00-45-00) (Claim) **Candace Owens** (via paraphrase): ["Owens says Mitch Snow only reported seeing Erika Kirk leave a hotel on..."](/statements/statement-32005c363434.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>

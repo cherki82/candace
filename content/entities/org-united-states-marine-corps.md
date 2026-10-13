@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 67 mentions"
+description: "United States Marine Corps (Organizations) - 69 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-marine-corps-t-00-10-41">2026-09-16 · 00:11:08</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -66,6 +66,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-20-04" style="--pulse-height:44%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 4 mentions" title="2026-08-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-united-states-marine-corps-t-00-14-06" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-marine-corps-t-00-07-34" style="--pulse-height:22%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 2 mentions" title="2026-09-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +100,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-20-04) | 4 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-united-states-marine-corps-t-00-14-06) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-marine-corps-t-00-07-34) | 2 |
 
 </details>
 </section>
@@ -110,7 +112,18 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2 mentions)</summary>
+
+**[00:07:34](/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-marine-corps-t-00-07-34)**
+> "...ry, former Navy SEALs, former Marines, Army snipers, SWAT."
+
+**[00:11:08](/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-marine-corps-t-00-10-41)**
+> "...ive security team who 20-year Marines days in advance of the event minimally. Minimally..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -597,7 +610,15 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Marine Corps (23)</strong></summary>
+<summary><strong class="section-title">Statements about United States Marine Corps (24)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:08:19](/episodes/ep-aLJhpxrakCU.md#t-00-08-09) (Claim) **Shawn Ryan** (via quoted speech): ["In the Shawn Ryan interview clip, Ryan described Harpole’s team as inc..."](/statements/statement-0c85c8676103.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [United States Navy](/entities/org-united-states-navy.md), [SWAT](/entities/concept-swat.md)
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>

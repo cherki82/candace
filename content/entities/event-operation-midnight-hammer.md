@@ -1,6 +1,6 @@
 ---
 title: "Operation Midnight Hammer"
-description: "Operation Midnight Hammer (Events) - 4 mentions"
+description: "Operation Midnight Hammer (Events) - 6 mentions"
 id: "event-operation-midnight-hammer"
 type: "EVENT"
 categories:
@@ -18,11 +18,11 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-event-operation-midnight-hammer-t-00-28-49">2026-02-09 · 00:29:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#t-00-03-17">2026-03-23 · 00:03:30</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-midnight-hammer-t-00-26-33">2026-10-01 · 00:26:33</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -35,6 +35,8 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-event-operation-midnight-hammer-t-00-00-00" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-event-operation-midnight-hammer-t-00-49-48" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-03-17" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-event-operation-midnight-hammer-t-01-27-56" style="--pulse-height:100%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-midnight-hammer-t-00-26-33" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-event-operation-midnight-hammer-t-00-00-00) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-event-operation-midnight-hammer-t-00-49-48) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-event-operation-midnight-hammer-t-01-27-56) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-midnight-hammer-t-00-26-33) | 1 |
 
 </details>
 </section>
@@ -55,7 +59,23 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:26:33](/episodes/ep-q4m-kGzvwjw.md#ent-event-operation-midnight-hammer-t-00-26-33)**
+> "... posts. On June 22nd, we have Operation Midnight Hammer."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:27:56](/episodes/ep-bIuvTKlFeGo.md#ent-event-operation-midnight-hammer-t-01-27-56)**
+> "...g up to June. And then we had Operation Midnight Hammer, which was Trump (Donald J. Trump) agreed to do t..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
@@ -99,7 +119,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Operation Midnight Hammer (2)</strong></summary>
+<summary><strong class="section-title">Statements about Operation Midnight Hammer (3)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:27:56](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56) (Claim) **Candace Owens**: ["Owens said Trump agreed to Operation Midnight Hammer to bomb Fordow an..."](/statements/statement-a55adf21fd09.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Fordow](/entities/gpe-fordow.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>

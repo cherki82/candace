@@ -1,6 +1,6 @@
 ---
 title: "Enron"
-description: "Enron (Organizations) - 2 mentions"
+description: "Enron (Organizations) - 3 mentions"
 id: "org-enron"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Enron Corporation | U.S. Securities and Exchange Commission](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-enron-t-00-01-28">2025-12-05 · 00:01:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-enron-t-00-07-22">2026-05-04 · 00:07:38</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-org-enron-t-00-08-46">2026-09-30 · 00:08:46</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [Enron Corporation | U.S. Securities and Exchange Commission](https://ww
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-enron-t-00-01-28" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-enron-t-00-07-22" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-enron-t-00-08-46" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ Source: [Enron Corporation | U.S. Securities and Exchange Commission](https://ww
 |---|---|---:|
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-enron-t-00-01-28) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-enron-t-00-07-22) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-enron-t-00-08-46) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ Source: [Enron Corporation | U.S. Securities and Exchange Commission](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:08:46](/episodes/ep-5TTkMa49qj8.md#ent-org-enron-t-00-08-46)**
+> "...used. Imagine like the CFO of Enron being peppered with questions about the finances ..."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>

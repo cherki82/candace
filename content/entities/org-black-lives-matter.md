@@ -1,6 +1,6 @@
 ---
 title: "Black Lives Matter"
-description: "Black Lives Matter (Organizations) - 34 mentions"
+description: "Black Lives Matter (Organizations) - 36 mentions"
 id: "org-black-lives-matter"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16">2025-09-11 · 00:04:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-black-lives-matter-t-00-45-56">2026-08-21 · 00:46:22</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-black-lives-matter-t-00-52-40">2026-10-05 · 00:52:57</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -53,6 +53,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-black-lives-matter-t-00-36-37" style="--pulse-height:14%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-black-lives-matter-t-00-08-51" style="--pulse-height:14%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-black-lives-matter-t-00-45-56" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-black-lives-matter-t-00-09-10" style="--pulse-height:29%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-black-lives-matter-t-00-36-37) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-black-lives-matter-t-00-08-51) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-black-lives-matter-t-00-45-56) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-black-lives-matter-t-00-09-10) | 2 |
 
 </details>
 </section>
@@ -83,7 +85,18 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:09:35](/episodes/ep-ms5ChhZegRg.md#ent-org-black-lives-matter-t-00-09-10)**
+> "...e setup of this reminds me of BLM, right? They're holding a magnifying glass to one..."
+
+**[00:52:57](/episodes/ep-ms5ChhZegRg.md#ent-org-black-lives-matter-t-00-52-40)**
+> "...be rising up against it. Hey, BLM, I think we got off on the wrong foot."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>

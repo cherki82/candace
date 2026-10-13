@@ -12,7 +12,7 @@ date: "2023-10-07"
 
 > Hamas attacks Israel on October 7
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Ben Shapiro Is Crying Again. | Candace Ep 261
 
@@ -45,3 +45,11 @@ date: "2023-10-07"
 <a href="https://www.youtube.com/watch?v=4DvYXBn_5JI&t=251s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > From, you guessed it, Israel right after October 7th. Yes, naturally, of course, duh, Israel.
+
+### 5. CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That B...
+
+**Episode:** [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md)
+**Timestamp:** [00:35:28](/episodes/ep-_Sq5RqP27NY.md#event-event-2023-10-07-hamas-attacks-israel-on-october-7-t-00-35-14) 
+<a href="https://www.youtube.com/watch?v=_Sq5RqP27NY&t=2128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> During his speech, talking about October 7th and talking about 9-11.

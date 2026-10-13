@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 477 mentions"
+description: "Jeffrey Epstein (People) - 556 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,114 +22,123 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jeffrey-epstein-t-00-43-09">2026-09-01 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>95</strong></div>
-<div><span>Mentions</span><strong>477</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-56-06">2026-10-05 · 00:56:36</a></strong></div>
+<div><span>Episodes</span><strong>104</strong></div>
+<div><span>Mentions</span><strong>556</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>129</strong></div>
-<div><span>Relationships</span><strong>50</strong></div>
+<div><span>Statements about</span><strong>160</strong></div>
+<div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jeffrey-epstein-t-00-09-42">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (30 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23">LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396</a> (35 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54" style="--pulse-height:37%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 11 mentions" title="2025-09-15 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51" style="--pulse-height:17%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54" style="--pulse-height:31%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 11 mentions" title="2025-09-15 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51" style="--pulse-height:14%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-43" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-jeffrey-epstein-t-00-17-52" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-57" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jeffrey-epstein-t-00-00-55" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-33" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-38-18" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-jeffrey-epstein-t-00-17-39" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 6 mentions" title="2025-10-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-jeffrey-epstein-t-00-17-39" style="--pulse-height:17%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 6 mentions" title="2025-10-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jeffrey-epstein-t-00-31-52" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17" style="--pulse-height:10%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17" style="--pulse-height:9%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-21" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-jeffrey-epstein-t-00-10-53" style="--pulse-height:10%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-54" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27" style="--pulse-height:30%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 9 mentions" title="2025-11-13 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 3 mentions" title="2025-11-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-jeffrey-epstein-t-00-10-53" style="--pulse-height:9%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-54" style="--pulse-height:9%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27" style="--pulse-height:26%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 9 mentions" title="2025-11-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48" style="--pulse-height:9%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 3 mentions" title="2025-11-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#t-00-46-00" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-37-20" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-02" style="--pulse-height:13%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-02" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-jeffrey-epstein-t-00-49-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-jeffrey-epstein-t-00-11-12" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-jeffrey-epstein-t-00-44-57" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-jeffrey-epstein-t-00-34-25" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55" style="--pulse-height:30%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 9 mentions" title="2025-12-08 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55" style="--pulse-height:26%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 9 mentions" title="2025-12-08 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-jeffrey-epstein-t-00-05-50" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-44" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jeffrey-epstein-t-00-21-09" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-15" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01" style="--pulse-height:9%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-15" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-26-31" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-54-36" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 10 mentions" title="2026-01-16 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 10 mentions" title="2026-01-16 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-jeffrey-epstein-t-00-23-58" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-epstein-t-00-01-58" style="--pulse-height:10%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeffrey-epstein-t-01-28-44" style="--pulse-height:30%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 9 mentions" title="2026-01-29 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-epstein-t-00-01-58" style="--pulse-height:9%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeffrey-epstein-t-01-28-44" style="--pulse-height:26%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 9 mentions" title="2026-01-29 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-jeffrey-epstein-t-00-47-40" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jeffrey-epstein-t-00-09-42" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 30 mentions" title="2026-02-02 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jeffrey-epstein-t-00-09-42" style="--pulse-height:86%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 30 mentions" title="2026-02-02 · 30 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeffrey-epstein-t-00-50-37" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-jeffrey-epstein-t-00-01-00" style="--pulse-height:30%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 9 mentions" title="2026-02-04 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-jeffrey-epstein-t-00-01-00" style="--pulse-height:26%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 9 mentions" title="2026-02-04 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-jeffrey-epstein-t-00-26-55" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jeffrey-epstein-t-00-48-46" style="--pulse-height:17%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-09-51" style="--pulse-height:87%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 26 mentions" title="2026-02-13 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jeffrey-epstein-t-00-48-46" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-09-51" style="--pulse-height:74%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 26 mentions" title="2026-02-13 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-jeffrey-epstein-t-00-08-32" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#t-00-06-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-21-58" style="--pulse-height:17%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-21-58" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-jeffrey-epstein-t-00-33-53" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-29-29" style="--pulse-height:23%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 7 mentions" title="2026-03-06 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-37-50" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 5 mentions" title="2026-03-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-00-47" style="--pulse-height:87%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 26 mentions" title="2026-03-10 · 26 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-01-47" style="--pulse-height:37%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 11 mentions" title="2026-03-11 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:57%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 17 mentions" title="2026-03-12 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-26" style="--pulse-height:13%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-29-29" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 7 mentions" title="2026-03-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-37-50" style="--pulse-height:14%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 5 mentions" title="2026-03-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-00-47" style="--pulse-height:74%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 26 mentions" title="2026-03-10 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-01-47" style="--pulse-height:31%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 11 mentions" title="2026-03-11 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:49%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 17 mentions" title="2026-03-12 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-26" style="--pulse-height:11%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jeffrey-epstein-t-00-38-00" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01" style="--pulse-height:13%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-04-41" style="--pulse-height:10%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-04-41" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-jeffrey-epstein-t-00-40-20" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-19" style="--pulse-height:27%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 8 mentions" title="2026-04-02 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-13-37" style="--pulse-height:17%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-19" style="--pulse-height:23%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 8 mentions" title="2026-04-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-13-37" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jeffrey-epstein-t-00-46-35" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-26-34" style="--pulse-height:10%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-05" style="--pulse-height:10%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-22-28" style="--pulse-height:17%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-52-28" style="--pulse-height:23%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 7 mentions" title="2026-04-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-26-34" style="--pulse-height:9%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-05" style="--pulse-height:9%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-22-28" style="--pulse-height:14%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-52-28" style="--pulse-height:20%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 7 mentions" title="2026-04-30 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-jeffrey-epstein-t-00-35-29" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-jeffrey-epstein-t-00-34-27" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-jeffrey-epstein-t-00-20-30" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-jeffrey-epstein-t-00-02-36" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-jeffrey-epstein-t-00-59-14" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-00-00" style="--pulse-height:13%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14" style="--pulse-height:23%" aria-label="Candace x Hunter Biden: The Interview: 7 mentions" title="2026-05-21 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44" style="--pulse-height:17%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 5 mentions" title="2026-05-26 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-30-35" style="--pulse-height:10%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-45" style="--pulse-height:43%" aria-label="Candace Owens x Ana Kasparian: 13 mentions" title="2026-05-28 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-00-00" style="--pulse-height:11%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14" style="--pulse-height:20%" aria-label="Candace x Hunter Biden: The Interview: 7 mentions" title="2026-05-21 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 5 mentions" title="2026-05-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-30-35" style="--pulse-height:9%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-45" style="--pulse-height:37%" aria-label="Candace Owens x Ana Kasparian: 13 mentions" title="2026-05-28 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jeffrey-epstein-t-00-08-47" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-14-41" style="--pulse-height:53%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 16 mentions" title="2026-06-13 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-14-41" style="--pulse-height:46%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 16 mentions" title="2026-06-13 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-jeffrey-epstein-t-00-34-59" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-jeffrey-epstein-t-00-52-19" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-21-41" style="--pulse-height:43%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 13 mentions" title="2026-06-17 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:73%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 22 mentions" title="2026-06-18 · 22 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-01-34" style="--pulse-height:33%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 10 mentions" title="2026-06-23 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-21-41" style="--pulse-height:37%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 13 mentions" title="2026-06-17 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:63%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 22 mentions" title="2026-06-18 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-01-34" style="--pulse-height:29%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 10 mentions" title="2026-06-23 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jeffrey-epstein-t-00-59-35" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54" style="--pulse-height:70%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 21 mentions" title="2026-06-26 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54" style="--pulse-height:60%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 21 mentions" title="2026-06-26 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-jeffrey-epstein-t-00-51-43" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-25-22" style="--pulse-height:17%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-jeffrey-epstein-t-00-29-37" style="--pulse-height:30%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 9 mentions" title="2026-07-29 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-jeffrey-epstein-t-00-36-00" style="--pulse-height:10%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-25-22" style="--pulse-height:14%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-jeffrey-epstein-t-00-29-37" style="--pulse-height:26%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 9 mentions" title="2026-07-29 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-jeffrey-epstein-t-00-36-00" style="--pulse-height:9%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-jeffrey-epstein-t-00-57-04" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-jeffrey-epstein-t-00-48-35" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-jeffrey-epstein-t-00-24-42" style="--pulse-height:10%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 3 mentions" title="2026-08-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-jeffrey-epstein-t-00-24-42" style="--pulse-height:9%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 3 mentions" title="2026-08-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jeffrey-epstein-t-00-42-25" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-23-31" style="--pulse-height:23%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 8 mentions" title="2026-09-15 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-jeffrey-epstein-t-00-39-05" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-jeffrey-epstein-t-00-48-15" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-jeffrey-epstein-t-00-44-10" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-jeffrey-epstein-t-00-27-20" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 2 mentions" title="2026-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-jeffrey-epstein-t-00-30-46" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-58-03" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 14 mentions" title="2026-09-25 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 35 mentions" title="2026-10-01 · 35 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:40%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 14 mentions" title="2026-10-05 · 14 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -230,6 +239,15 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-jeffrey-epstein-t-00-48-35) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-jeffrey-epstein-t-00-24-42) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jeffrey-epstein-t-00-42-25) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-23-31) | 8 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-jeffrey-epstein-t-00-39-05) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-jeffrey-epstein-t-00-48-15) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeffrey-epstein-t-00-44-10) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-jeffrey-epstein-t-00-27-20) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-jeffrey-epstein-t-00-30-46) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-58-03) | 14 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23) | 35 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01) | 14 |
 
 </details>
 </section>
@@ -241,7 +259,289 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (477)</strong></summary>
+<summary><strong class="section-title">Raw mentions (556)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (14 mentions)</summary>
+
+**[00:00:09](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01)**
+> "... that right now. The Epstein (Jeffrey Epstein) class is down real bad right now."
+
+**[00:00:16](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01)**
+> "...t's connected to the Epstein (Jeffrey Epstein) files-ish. Also, you have country singer Zach Br..."
+
+**[00:00:46](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-46)**
+> "...o tell you guys, the Epstein (Jeffrey Epstein) files, all of it, you probably didn't even. We d..."
+
+**[00:15:21](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-14-58)**
+> "...do with Ghislaine Maxwell and Jeffrey Epstein discovering he had been suicided in his cell cove..."
+
+**[00:40:31](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-40-31)**
+> "...y are telling the story about Jeffrey Epstein, the Jeffrey Epstein network, it just a lot of su..."
+
+**[00:41:27](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-41-12)**
+> "... Lutnick had visited Epstein (Jeffrey Epstein)'s Island, had visited this temple, this undergro..."
+
+**[00:41:35](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-41-12)**
+> "... want us to have the Epstein (Jeffrey Epstein) files. This could be a reason why, because earli..."
+
+**[00:41:47](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-41-47)**
+> "...I have visited the island and Jeffrey Epstein wasn't on the record sex offender by then. There'..."
+
+**[00:42:12](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-41-47)**
+> "... a business relationship with Jeffrey Epstein."
+
+**[00:42:33](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-42-33)**
+> "..., in which Howard Lutnick and Jeffrey Epstein had discussed prospects of a startup business the..."
+
+**[00:42:44](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-42-33)**
+> "So again, Jeffrey Epstein having been found guilty of and striking up a dea..."
+
+**[00:43:58](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-43-58)**
+> "... the nucleus of everything is Jeffrey Epstein."
+
+**[00:44:15](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-43-58)**
+> "What did Epstein (Jeffrey Epstein) represent? global trafficking."
+
+**[00:56:36](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-56-06)**
+> "...ll talking about the Epstein (Jeffrey Epstein) Files DJT (Donald J. Trump), and I think. all wi..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (35 mentions)</summary>
+
+**[00:23:01](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23)**
+> "...ent, what about this Epstein (Jeffrey Epstein) stuff?"
+
+**[00:23:08](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-23-08)**
+> "...uation room over the Epstein (Jeffrey Epstein) files."
+
+**[00:23:21](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-23-08)**
+> "...ut how to manage the Epstein (Jeffrey Epstein) files."
+
+**[00:24:15](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-23-49)**
+> "...forgot was an entire Epstein (Jeffrey Epstein) series."
+
+**[00:27:34](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-27-13)**
+> "... sure we do have the Epstein (Jeffrey Epstein) series in this one, guys, that we have the right..."
+
+**[00:27:52](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-27-52)**
+> "...him to go max on the Epstein (Jeffrey Epstein) stuff."
+
+**[00:28:03](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-27-52)**
+> "...ons. Tucker Carlson calls out Jeffrey Epstein. He says that people who serve in foreign armies ..."
+
+**[00:28:27](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-28-27)**
+> "...ts, claims it was an Epstein (Jeffrey Epstein) grievance fest. On July 14th, Charlie Kirk annou..."
+
+**[00:29:19](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-29-11)**
+> "On July 16th, I begin my Jeffrey Epstein series in conjunction with Xavier Pussard's repor..."
+
+**[00:29:44](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-29-36)**
+> "...tart we premiere our Epstein (Jeffrey Epstein) series, Dead Men Tell No Tales, which is the int..."
+
+**[00:29:59](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-29-54)**
+> "... room to discuss the Epstein (Jeffrey Epstein) files."
+
+**[00:30:33](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-30-33)**
+> "...one of the series on Epstein (Jeffrey Epstein) Files called The Midas Touch, how they pulled hi..."
+
+**[00:31:51](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-31-51)**
+> "...on July 22nd, I drop Epstein (Jeffrey Epstein) files episode two, House of Maxwell, very intere..."
+
+**[00:32:20](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-31-51)**
+> "...ry next day, another Epstein (Jeffrey Epstein) situation room. Every one of my episodes, the ve..."
+
+**[00:32:28](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-31-51)**
+> "...the president on the Epstein (Jeffrey Epstein) files."
+
+**[00:35:03](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-35-03)**
+> "... 13th, I dropped the Epstein (Jeffrey Epstein) Files episode entitled MEGA, MAGA, and the Mossa..."
+
+**[00:35:37](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-35-37)**
+> "... the follow-up to an Epstein (Jeffrey Epstein) meeting. That meeting ran,"
+
+**[00:40:09](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-40-06)**
+> "...d have continued our Epstein (Jeffrey Epstein) series."
+
+**[00:40:44](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-40-44)**
+> "I just feel like the Epstein (Jeffrey Epstein) files of which the Todd Blanche story was we can..."
+
+**[00:40:55](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-40-44)**
+> "...ting how much of the Epstein (Jeffrey Epstein) story has to do with France."
+
+**[00:41:07](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-40-44)**
+> "...tentially suicided partner of Jeffrey Epstein through the modeling group, the modeling group fo..."
+
+**[00:41:30](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-41-30)**
+> "...us to go back to the Epstein (Jeffrey Epstein) story."
+
+**[00:41:37](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-41-30)**
+> "...t of panic about the Epstein (Jeffrey Epstein) story. And I've already expressed a million time..."
+
+**[00:42:02](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-02)**
+> "...those questions if it's about Jeffrey Epstein."
+
+**[00:42:22](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-02)**
+> "... kept going with the Epstein (Jeffrey Epstein) series."
+
+**[00:42:28](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-02)**
+> "...y panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone ca..."
+
+**[00:42:39](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-02)**
+> "It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the..."
+
+**[00:42:43](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-02)**
+> "...be, we should be aggrieved by Jeffrey Epstein."
+
+**[00:42:48](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-48)**
+> "... still talking about Jeffrey (Jeffrey Epstein)? Yes, we're still talking about Jeffrey Epstein...."
+
+**[00:42:58](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-48)**
+> "...Charlie was murdered over the Epstein network."
+
+**[00:43:22](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-42-48)**
+> "...f all of this is the Epstein (Jeffrey Epstein) files, actually. And we should go back. And so w..."
+
+**[00:43:32](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-43-32)**
+> "...oing to go back to discussing Jeffrey Epstein. and trying to figure out what caused so much pan..."
+
+**[00:58:43](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-58-19)**
+> "...n you have the first Epstein (Jeffrey Epstein) situation room meeting."
+
+**[00:59:01](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-59-01)**
+> "...ng that there was no Epstein (Jeffrey Epstein) list."
+
+**[00:59:07](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-59-01)**
+> "...th that we began our Epstein (Jeffrey Epstein) series."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:30:46](/episodes/ep-_Sq5RqP27NY.md#ent-person-jeffrey-epstein-t-00-30-46)**
+> "...ike first I was talking about Jeffrey Epstein. Yeah, we're definitely talking about Jeffrey Eps..."
+
+**[00:39:32](/episodes/ep-_Sq5RqP27NY.md#ent-person-jeffrey-epstein-t-00-39-17)**
+> "... He's protecting the Epstein (Jeffrey Epstein) class."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (14 mentions)</summary>
+
+**[00:58:31](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-58-03)**
+> "...s him to go max. He calls out Jeffrey Epstein in particular because that's what Charlie (Charli..."
+
+**[00:58:37](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-58-03)**
+> "...r the release of the Epstein (Jeffrey Epstein) files. He asks Megyn (Megyn Kelly) to speak abou..."
+
+**[00:58:55](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-58-44)**
+> "...k) said go after the Epstein (Jeffrey Epstein) stuff. On July 11th, Frank Turek deletes his web..."
+
+**[00:59:23](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-59-23)**
+> "... turned sass into an Epstein (Jeffrey Epstein) grievance fest."
+
+**[00:59:35](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-59-23)**
+> "... Kirk)'s pushing the Epstein (Jeffrey Epstein) stuff."
+
+**[00:59:39](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-59-23)**
+> "...to stop covering the Epstein (Jeffrey Epstein) story."
+
+**[00:59:44](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-59-23)**
+> "...essure to stop speaking about Jeffrey Epstein. Do we have that clip, Sky (Schuyler Pryor)?"
+
+**[00:59:54](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-59-54)**
+> "...d at our event about Epstein (Jeffrey Epstein). Honestly, I'm done talking about Epstein (Jeffr..."
+
+**[01:00:21](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-01-00-03)**
+> "...my opinion about the Epstein (Jeffrey Epstein) thing, the messaging fumble."
+
+**[01:00:59](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-01-00-59)**
+> "...aying, I went max on Epstein (Jeffrey Epstein) at SAS. And we learned later, thanks to Tucker (..."
+
+**[01:01:20](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-01-00-59)**
+> "...to stop covering the Epstein (Jeffrey Epstein) story on the 14th. Erika (Erika Kirk) travels ab..."
+
+**[01:02:01](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-01-01-35)**
+> "...oing max against the Epstein (Jeffrey Epstein) stuff and she's like just giving a speech."
+
+**[01:05:49](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-01-05-42)**
+> "...ing if he's covering Epstein (Jeffrey Epstein) hosting people who like Dave Smith versus Josh H..."
+
+**[01:14:32](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-01-14-19)**
+> "...s frequenting the office that Jeffrey Epstein and his cohorts were frequenting. I've never, nev..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2 mentions)</summary>
+
+**[00:27:20](/episodes/ep-_2DiIbfy4mU.md#ent-person-jeffrey-epstein-t-00-27-20)**
+> "...ence to support that Epstein (Jeffrey Epstein) was involved in international sex blackmail oper..."
+
+**[00:47:11](/episodes/ep-_2DiIbfy4mU.md#ent-person-jeffrey-epstein-t-00-46-53)**
+> "...cken me. We have the Epstein (Jeffrey Epstein) class of people still trying to gaslight us abou..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:44:39](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeffrey-epstein-t-00-44-10)**
+> "...it's—are we talking about the Epstein? Yeah, we're talking about the Epstein files."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:48:15](/episodes/ep-BvthGQw3_s0.md#ent-person-jeffrey-epstein-t-00-48-15)**
+> "...at a place where we knew that Jeffrey Epstein frequented. I think you should respond to that gi..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[00:39:20](/episodes/ep-NNiCZk1cuzs.md#ent-person-jeffrey-epstein-t-00-39-05)**
+> "...l she did was sort of inherit Jeffrey Epstein's secrets or something."
+
+**[00:39:36](/episodes/ep-NNiCZk1cuzs.md#ent-person-jeffrey-epstein-t-00-39-36)**
+> "...like she's just the friend of Jeffrey Epstein kind of painting her as a victim herself who was ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (8 mentions)</summary>
+
+**[00:23:48](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-23-31)**
+> "at Epstein (Jeffrey Epstein)'s network reemerge in not-for-profit world in 20..."
+
+**[00:23:53](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-23-31)**
+> "...r speaking about the Epstein (Jeffrey Epstein) case, Trump (Donald J. Trump)'s protection of th..."
+
+**[00:24:09](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-23-31)**
+> "... stage. He was speaking about Jeffrey Epstein."
+
+**[00:25:03](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-24-43)**
+> "We know that Epstein (Jeffrey Epstein) was Israel's guy. Okay. That's. Too much coincid..."
+
+**[00:30:28](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-30-28)**
+> "Office where Epstein (Jeffrey Epstein) frequented someone he was very close with, Faith..."
+
+**[00:30:41](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-30-28)**
+> "... say, in France when Epstein (Jeffrey Epstein) went down, that would be something that a normal..."
+
+**[00:35:01](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-00-34-41)**
+> "Okay, so the Epstein (Jeffrey Epstein) network in general runs on blackmail. Obviously,..."
+
+**[01:04:42](/episodes/ep-kn1E0scy9Wc.md#ent-person-jeffrey-epstein-t-01-04-42)**
+> "...wledge you shouldn't seek the epstein files that's hidden knowledge that's the form of ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
@@ -2180,11 +2480,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Close Associate Of (3)</summary>
 
 - **[Faith Kates](/entities/person-faith-kates.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:30:28](/episodes/ep-kn1E0scy9Wc.md#t-00-30-28): “Office where Epstein (Jeffrey Epstein) frequented someone he was very close with, Faith Kates' running that modeling agency and or a modeling agency that started started by Jean-Luc Brunel of France. who was found suicided, as they say, in France when Epstein (Jeffrey Epstein) went down, that would be something that a normal person would just respond to and say no.”
 
 </details>
 
@@ -2208,9 +2509,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Criticized By (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:03](/episodes/ep-q4m-kGzvwjw.md#t-00-27-52): “And the Zionist donors freak out. Bob Shillman pulls out millions. Others pull out millions. Tucker Carlson calls out Jeffrey Epstein. He says that people who serve in foreign armies should be stripped of their citizenship.”
 
 </details>
 
@@ -2238,6 +2540,18 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:35:44](/episodes/ep-9CuC1yf8-PU.md#t-00-35-28): “We know this. This was his thing of how he trafficked a lot of women from Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France and his ties to Faith Kates, who stood by his side even when he was found guilty of harming children. Faith Kates was his loyal defender and it ended up costing her her entire reputation, her career, really. If you look her up, you can't really.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Exchanged Messages With (1)</summary>
+
+- **[Howard Lutnick](/entities/person-howard-lutnick.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:42:12](/episodes/ep-ms5ChhZegRg.md#t-00-41-47): “Of a player when it came to blackmailing and global trafficking. That's the reality. Okay. And Andres (Simon Andres; banker whistleblower; transcript name spelling unverified), who is now dead, previously had told the BBC that he had unearthed this evidence which indicated that Howard Lutnick failed to disclose a business relationship with Jeffrey Epstein. ... He told BBC that he had discovered an email chain. ... In 2018, in which Howard Lutnick, a email chain from 2018, pardon, in which Howard Lutnick and Jeffrey Epstein had discussed prospects of a startup business they were both involved in.”
 
 </details>
 
@@ -2377,10 +2691,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): “what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel”
 - [Candace Owens x Ana Kasparian @ 00:43:11](/episodes/ep-SKNJPul29zU.md#t-00-43-11): “the guy Jean-Luc Brunel was his partner in Paris for like the modeling firm who ended up killing himself in prison.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:41:07](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44): “Jean-Luc Brunel, of course. potentially suicided partner of Jeffrey Epstein through the modeling group, the modeling group founded by him, Faith Kate (modeling-company figure; name spelling unverified)'s modeling group, a question that we could not get an answer on when we asked Turning Point USA explicitly why we had people that worked there saying that Erika (Erika Kirk) was in control of the modeling apartments. ... The company that Jean-Luc Brunel started, this feels like it could be very important for us to go back to the Epstein (Jeffrey Epstein) story.”
 
 </details>
 
@@ -2394,7 +2709,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Referenced By (25)</summary>
+<summary>Referenced By (27)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2418,11 +2733,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Faith Kates](/entities/person-faith-kates.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:30:28](/episodes/ep-kn1E0scy9Wc.md#t-00-30-28): “Office where Epstein (Jeffrey Epstein) frequented someone he was very close with, Faith Kates' running that modeling agency and or a modeling agency that started started by Jean-Luc Brunel of France. who was found suicided, as they say, in France when Epstein (Jeffrey Epstein) went down, that would be something that a normal person would just respond to and say no.”
 
 </details>
 
@@ -2441,9 +2757,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:03](/episodes/ep-q4m-kGzvwjw.md#t-00-27-52): “And the Zionist donors freak out. Bob Shillman pulls out millions. Others pull out millions. Tucker Carlson calls out Jeffrey Epstein. He says that people who serve in foreign armies should be stripped of their citizenship.”
 
 </details>
 
@@ -2466,6 +2783,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:35:44](/episodes/ep-9CuC1yf8-PU.md#t-00-35-28): “We know this. This was his thing of how he trafficked a lot of women from Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France and his ties to Faith Kates, who stood by his side even when he was found guilty of harming children. Faith Kates was his loyal defender and it ended up costing her her entire reputation, her career, really. If you look her up, you can't really.”
+
+</details>
+
+- **[Howard Lutnick](/entities/person-howard-lutnick.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:42:12](/episodes/ep-ms5ChhZegRg.md#t-00-41-47): “Of a player when it came to blackmailing and global trafficking. That's the reality. Okay. And Andres (Simon Andres; banker whistleblower; transcript name spelling unverified), who is now dead, previously had told the BBC that he had unearthed this evidence which indicated that Howard Lutnick failed to disclose a business relationship with Jeffrey Epstein. ... He told BBC that he had discovered an email chain. ... In 2018, in which Howard Lutnick, a email chain from 2018, pardon, in which Howard Lutnick and Jeffrey Epstein had discussed prospects of a startup business they were both involved in.”
 
 </details>
 
@@ -2579,6 +2903,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 </details>
 
+- **[Howard Lutnick](/entities/person-howard-lutnick.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:42:12](/episodes/ep-ms5ChhZegRg.md#t-00-41-47): “Of a player when it came to blackmailing and global trafficking. That's the reality. Okay. And Andres (Simon Andres; banker whistleblower; transcript name spelling unverified), who is now dead, previously had told the BBC that he had unearthed this evidence which indicated that Howard Lutnick failed to disclose a business relationship with Jeffrey Epstein. ... He told BBC that he had discovered an email chain. ... In 2018, in which Howard Lutnick, a email chain from 2018, pardon, in which Howard Lutnick and Jeffrey Epstein had discussed prospects of a startup business they were both involved in.”
+
+</details>
+
 </details>
 
 </details>
@@ -2605,7 +2936,129 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (129)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (160)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (9)</summary>
+
+- [00:15:21](/episodes/ep-ms5ChhZegRg.md#t-00-14-58) (Accusation) **Candace Owens**: ["Owens called the New York Post “the Mossad’s rag” and alleged it cover..."](/statements/statement-e5a2d086381a.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md), [Mossad](/entities/org-mossad.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
+
+- [00:40:31](/episodes/ep-ms5ChhZegRg.md#t-00-40-31) (Claim) **Candace Owens**: ["Owens said former British banker and whistleblower Simon Andriesz, pre..."](/statements/statement-c3469fb7c3fd.md)
+  - Also about: [Simon Andriesz](/entities/person-simon-andriesz.md), [Howard Lutnick](/entities/person-howard-lutnick.md), [BGC Group](/entities/org-bgc-group.md)
+
+- [00:41:12](/episodes/ep-ms5ChhZegRg.md#t-00-41-12) (Accusation) **Candace Owens** (via paraphrase): ["Owens characterized Andriesz’s whistleblowing as alleging money launde..."](/statements/statement-fef5d809b2ac.md)
+  - Also about: [Simon Andriesz](/entities/person-simon-andriesz.md), [Howard Lutnick](/entities/person-howard-lutnick.md)
+
+- [00:41:35](/episodes/ep-ms5ChhZegRg.md#t-00-41-12) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Howard Lutnick initially said he never visited Epstein’s..."](/statements/statement-6a0f9ecfcca9.md)
+  - Also about: [Howard Lutnick](/entities/person-howard-lutnick.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:41:47](/episodes/ep-ms5ChhZegRg.md#t-00-41-47) (Accusation) **Candace Owens**: ["Owens alleged Jeffrey Epstein returned to his life and was still given..."](/statements/statement-15b40f7f92ae.md)
+  - Also about: [Harvard University](/entities/org-harvard-university.md)
+
+- [00:42:12](/episodes/ep-ms5ChhZegRg.md#t-00-41-47) (Accusation) **Simon Andriesz** (via quoted article): ["According to Owens’s account of his BBC remarks, Simon Andriesz said h..."](/statements/statement-874359379fad.md)
+  - Also about: [Howard Lutnick](/entities/person-howard-lutnick.md), [BGC Group](/entities/org-bgc-group.md)
+
+- [00:42:44](/episodes/ep-ms5ChhZegRg.md#t-00-42-33) (Accusation) **Candace Owens**: ["Owens alleged Epstein’s prior conviction involving sexually abused chi..."](/statements/statement-871855b87955.md)
+  - Also about: [Howard Lutnick](/entities/person-howard-lutnick.md)
+
+- [00:43:14](/episodes/ep-ms5ChhZegRg.md#t-00-43-14) (Accusation) **Candace Owens**: ["Owens speculated, “I bet we’d learn about how the entire system works,..."](/statements/statement-ac2410d1ef93.md)
+  - Also about: [Mossad](/entities/org-mossad.md), [MKUltra](/entities/concept-mkultra.md)
+
+- [00:43:14](/episodes/ep-ms5ChhZegRg.md#t-00-43-14) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Pam Bondi as saying release of the Epstein files w..."](/statements/statement-b532d979e3d8.md)
+  - Also about: [Pam Bondi](/entities/person-pam-bondi.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (8)</summary>
+
+- [00:28:27](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk announced July 14 he would stop covering Epste..."](/statements/statement-8f6a928a6c93.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:54](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54) (Citation) **Candace Owens**: ["Citing the New York Times, Owens corrected her timeline: Trump was abs..."](/statements/statement-bc512b895e2b.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [JD Vance](/entities/person-jd-vance.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:32:20](/episodes/ep-q4m-kGzvwjw.md#t-00-31-51) (Claim) **Candace Owens**: ["Owens said another Epstein Situation Room meeting took place the day a..."](/statements/statement-592ea9e6759f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [JD Vance](/entities/person-jd-vance.md), [U.S. House Committee on Oversight and Government Reform](/entities/org-us-house-committee-on-oversight-and-government-reform.md)
+
+- [00:35:37](/episodes/ep-q4m-kGzvwjw.md#t-00-35-37) (Citation) **Candace Owens**: ["Owens said an August 13 follow-up Epstein meeting included JD Vance by..."](/statements/statement-6ad1bef9c637.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Donald J. Trump](/entities/person-donald-trump.md), [David Warrington](/entities/person-david-warrington.md)
+
+- [00:40:44](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44) (Opinion) **Candace Owens**: ["Owens felt the Epstein files might concern something larger than the c..."](/statements/statement-ad8844399a8f.md)
+
+- [00:42:48](/episodes/ep-q4m-kGzvwjw.md#t-00-42-48) (Accusation) **Candace Owens**: ["Owens wondered whether Charlie Kirk was murdered over the Epstein file..."](/statements/statement-9bbc11ea0f99.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:22](/episodes/ep-q4m-kGzvwjw.md#t-00-42-48) (Promise) **Candace Owens**: ["Owens committed to return to discussing Jeffrey Epstein and investigat..."](/statements/statement-db17f6045fa7.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:58:30](/episodes/ep-q4m-kGzvwjw.md#t-00-58-19) (Citation) **Candace Owens**: ["Owens added July 9 as the first Epstein Situation Room meeting, concer..."](/statements/statement-3f033dc7b378.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:39:23](/episodes/ep-_Sq5RqP27NY.md#t-00-39-17) (Accusation) **Candace Owens**: ["Owens alleged that Netanyahu was blackmailing all US politicians and t..."](/statements/statement-a794f49df98e.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (4)</summary>
+
+- [00:58:25](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03) (Claim) **Candace Owens** (via paraphrase): ["Owens said donors reacted negatively to Tucker Carlson’s July 11th spe..."](/statements/statement-90e9d9a3dae0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+- [00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23) (Citation) **Candace Owens**: ["Citing the New York Times, Owens said President Trump called Charlie K..."](/statements/statement-e8388a4e8994.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:59:54](/episodes/ep-bIuvTKlFeGo.md#t-00-59-54) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said he was done talking about Epstein for the time being..."](/statements/statement-e5fd3ba91ba2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:00:27](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03) (Opinion) **Charlie Kirk** (via quoted speech): ["Kirk said he would love the DOJ to move to unseal grand jury testimony..."](/statements/statement-3999622dbf71.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3)</summary>
+
+- [00:27:20](/episodes/ep-_2DiIbfy4mU.md#t-00-27-20) (Opinion) **Andrew Wilson** (via quoted speech): ["In an embedded clip, Andrew Wilson says he does not think there is evi..."](/statements/statement-17c2e09b45c7.md)
+
+- [00:27:29](/episodes/ep-_2DiIbfy4mU.md#t-00-27-29) (Claim) **Andrew Wilson** (via quoted speech): ["In an embedded clip, Andrew Wilson says Epstein was at least tied to i..."](/statements/statement-847b9154ef34.md)
+
+- [00:47:11](/episodes/ep-_2DiIbfy4mU.md#t-00-46-53) (Accusation) **Candace Owens**: ["Owens claims not all Epstein files have been released and accuses powe..."](/statements/statement-5e147de4e55b.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:48:00](/episodes/ep-BvthGQw3_s0.md#t-00-47-30) (Opinion) **Candace Owens** (via paraphrase): ["Owens called for Erika Kirk to respond to other people's on-record ass..."](/statements/statement-4937bc4eb773.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (5)</summary>
+
+- [00:23:12](/episodes/ep-kn1E0scy9Wc.md#t-00-22-52) (Accusation) **Candace Owens**: ["Owens said, in her strong opinion, the pattern feels like an intention..."](/statements/statement-bf04cd4ed7a6.md)
+
+- [00:23:53](/episodes/ep-kn1E0scy9Wc.md#t-00-23-31) (Accusation) **Candace Owens**: ["Owens said she believes the Epstein network is a plausible motive for ..."](/statements/statement-5c93fc0d65b8.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:24:09](/episodes/ep-kn1E0scy9Wc.md#t-00-23-31) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tucker Carlson spoke on stage about Jeffrey Epstein and ask..."](/statements/statement-b25d2f858124.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Bill Ackman](/entities/person-bill-ackman.md)
+
+- [00:25:03](/episodes/ep-kn1E0scy9Wc.md#t-00-24-43) (Accusation) **Candace Owens**: ["Owens asserted that Epstein was 'Israel's guy.'"](/statements/statement-eef5d3d83f27.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:35:01](/episodes/ep-kn1E0scy9Wc.md#t-00-34-41) (Accusation) **Candace Owens**: ["Owens said the Epstein network uses parties with underage girls to cap..."](/statements/statement-2d329267a1b9.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

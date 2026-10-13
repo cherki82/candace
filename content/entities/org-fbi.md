@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 766 mentions"
+description: "FBI (Organizations) - 798 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-fbi-t-00-31-13">2026-08-21 · 00:31:49</a></strong></div>
-<div><span>Episodes</span><strong>108</strong></div>
-<div><span>Mentions</span><strong>766</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-fbi-t-00-30-44">2026-10-06 · 00:30:55</a></strong></div>
+<div><span>Episodes</span><strong>114</strong></div>
+<div><span>Mentions</span><strong>798</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>229</strong></div>
-<div><span>Relationships</span><strong>39</strong></div>
+<div><span>Statements about</span><strong>235</strong></div>
+<div><span>Relationships</span><strong>43</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -147,6 +147,12 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-fbi-t-00-14-40" style="--pulse-height:45%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 14 mentions" title="2026-08-18 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-fbi-t-00-11-57" style="--pulse-height:10%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 3 mentions" title="2026-08-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-fbi-t-00-29-58" style="--pulse-height:10%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-03-26" style="--pulse-height:23%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 7 mentions" title="2026-09-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-05-43" style="--pulse-height:29%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 9 mentions" title="2026-09-15 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-fbi-t-00-17-16" style="--pulse-height:13%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-00-35" style="--pulse-height:29%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 9 mentions" title="2026-10-01 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-fbi-t-00-05-56" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-fbi-t-00-30-44" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -260,6 +266,12 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-fbi-t-00-14-40) | 14 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-fbi-t-00-11-57) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-fbi-t-00-29-58) | 3 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-03-26) | 7 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-05-43) | 9 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-fbi-t-00-17-16) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-00-35) | 9 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-fbi-t-00-05-56) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-fbi-t-00-30-44) | 1 |
 
 </details>
 </section>
@@ -271,7 +283,133 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (766)</strong></summary>
+<summary><strong class="section-title">Raw mentions (798)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:30:55](/episodes/ep-0pSAhaAZz1w.md#ent-org-fbi-t-00-30-44)**
+> "...that he regularly speaks with FBI director Kash Patel. And that he was good friends..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:06:07](/episodes/ep-ms5ChhZegRg.md#ent-org-fbi-t-00-05-56)**
+> "... and the analysts over at the FBI, they concluded in 2019 that they actually couldn..."
+
+**[00:53:14](/episodes/ep-ms5ChhZegRg.md#ent-org-fbi-t-00-52-40)**
+> "... really actually matters. The feds are blaming something on a black autistic kid."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (9 mentions)</summary>
+
+**[00:00:58](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-00-35)**
+> "...ely tortured. captured by the feds into taking responsibility for dropping off the p..."
+
+**[00:46:21](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-46-15)**
+> "The feds were behind this. I actually received information..."
+
+**[00:46:45](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-46-15)**
+> "...he events on January 6th. The FBI says he confessed. His legal team, however, tells..."
+
+**[00:50:36](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-50-29)**
+> "... that happened days after the feds had announced that they had their person, Brian C..."
+
+**[00:53:16](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-53-16)**
+> "...." Yeah, it's almost like the feds are highlighting people"
+
+**[00:53:34](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-53-16)**
+> "...in programs, that in case the feds commit a crime, they can just sort of dump it on ..."
+
+**[00:55:48](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-55-31)**
+> "...I don't believe that when the feds get sloppy and we're pulling up obscure body-cam ..."
+
+**[00:56:09](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-55-31)**
+> "And I think the feds are up to it in both of these cases."
+
+**[00:59:01](/episodes/ep-q4m-kGzvwjw.md#ent-org-fbi-t-00-59-01)**
+> "...cause they issued a memo, the FBI issued a memo stating that there was no Epstein (..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (4 mentions)</summary>
+
+**[00:17:16](/episodes/ep-_Sq5RqP27NY.md#ent-org-fbi-t-00-17-16)**
+> "...lic finds out about this, the FBI is able to file a warrant, which brings them to d..."
+
+**[00:22:39](/episodes/ep-_Sq5RqP27NY.md#ent-org-fbi-t-00-22-39)**
+> "...er who was blackmailed by the feds, Lance (Lance Twiggs) would be the person given h..."
+
+**[00:25:12](/episodes/ep-_Sq5RqP27NY.md#ent-org-fbi-t-00-25-12)**
+> "...his is like the one thing the feds did,”"
+
+**[00:53:39](/episodes/ep-_Sq5RqP27NY.md#ent-org-fbi-t-00-53-39)**
+> "...ger fish to fry. It means the feds are printing out fake plates or matching plates a..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (9 mentions)</summary>
+
+**[00:05:43](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-05-43)**
+> "...as one of the people that the feds questioned on September 10th. He also in his own ..."
+
+**[00:13:49](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-13-20)**
+> "... listed on his affidavit. The FBI Child Exploitation Task Force. He was on the Lehi..."
+
+**[00:13:59](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-13-59)**
+> ".... task force officer with the FBI child task"
+
+**[00:15:10](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-14-44)**
+> "... since been approached by the FBI child"
+
+**[00:15:16](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-14-44)**
+> "...a task force officer with the FBI child E-Word Task Force."
+
+**[00:20:57](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-20-57)**
+> "...e that in the presence of the FBI, eventually the SBI, the UVU police are already t..."
+
+**[00:23:24](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-22-52)**
+> "... that's being directed by the feds, like this is one big group."
+
+**[00:23:31](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-23-31)**
+> "And for some reason, the feds wanted them in particular to have their hands eve..."
+
+**[00:37:13](/episodes/ep-kn1E0scy9Wc.md#ent-org-fbi-t-00-36-59)**
+> "And then if the feds come or the police come, you say, well, it obviou..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (7 mentions)</summary>
+
+**[00:03:26](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-03-26)**
+> "...it might be the case that the feds."
+
+**[00:03:47](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-03-26)**
+> "... right? Because why would the feds collect Blake Harroff (security team member; surn..."
+
+**[00:04:19](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-03-57)**
+> "...hing that you would think the feds would hold on to. Nope. They instantly released t..."
+
+**[00:05:12](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-04-38)**
+> "...urek was back of the car, the feds took care of their clothes."
+
+**[00:21:45](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-21-19)**
+> "...iately sent over files to the FBI and he chose to do that."
+
+**[00:33:56](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-33-21)**
+> "... an agency that we trust, the FBI, they've never."
+
+**[00:34:12](/episodes/ep-O4Zw3bCALjU.md#ent-org-fbi-t-00-34-05)**
+> "... actually partnering with the feds. Ignore all of the obvious holes in the story."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>
@@ -3021,7 +3159,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>Criticized By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
@@ -3029,6 +3167,8 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:50:03](/episodes/ep-a2bZf4fic10.md#t-00-49-53): “...more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:23:52](/episodes/ep-puuMVxEu5NU.md#t-00-23-19): “When you ask the FBI, did you ask the FBI to no longer test those items or is that the FBI is telling you that you have to now tell the public?”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:30:48](/episodes/ep-4JxgOclKzqg.md#t-00-30-48): “Anyway, speaking of this totally inappropriate chain of custody, the FBI jumping on the case like cowboys, that's not how this works.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:33:56](/episodes/ep-O4Zw3bCALjU.md#t-00-33-21): “None of you cared to explore what happened to try to make sure that the feds who are not traditionally an agency that we trust, the FBI, they've never. Ever, ever, has there ever been a period of even five years in this country since their founding, period of one year, where they were not up to no good? They are constantly up to no good. All of you basically said, ignore that. We're actually partnering with the feds. Ignore all of the obvious holes in the story.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:53:36](/episodes/ep-ms5ChhZegRg.md#t-00-53-24): “The Federal Bureau of Investigations has always been corrupt, ladies and gentlemen. You should not be that shocked by that. But tomorrow.”
 
 </details>
 
@@ -3119,7 +3259,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>Has Director (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
@@ -3130,6 +3270,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:37](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “One, Charlie Kirk was a big supporter of Kash Patel, had him on his show, really pushed for him to get the role that he is in—director of the FBI—and he has just been terrible in this case.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -3148,12 +3289,26 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Investigated (1)</summary>
+<summary>Investigated (3)</summary>
 
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
+
+</details>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:17:16](/episodes/ep-_Sq5RqP27NY.md#t-00-17-16): “Because what happens next is because the public finds out about this, the FBI is able to file a warrant, which brings them to discovering that Tyler Robinson went to the car wash.”
+
+</details>
+
+- **[Stephen Craig Paddock](/entities/person-stephen-craig-paddock.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:05:37](/episodes/ep-ms5ChhZegRg.md#t-00-05-14): “It resulted in 60 deaths. 869 documented injuries. Investigators claimed that they recovered 24 firearms from a man named Stephen Paddock's hotel suite and another firearm from his vehicle. ... And what did Stephen (Stephen Paddock) claim? Well, Nothing, because a 64-year-old alleged gunman died by suicide before police entered into his hotel room. ... OK, so ultimately, investigators and the analysts over at the FBI, they concluded in 2019 that they actually couldn't determine a motive they couldn't determine. And they said, quote, a single or clear motivating factor behind the attack.”
 
 </details>
 
@@ -3186,7 +3341,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
+<summary>Referenced By (20)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (6)</summary>
@@ -3208,7 +3363,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
@@ -3216,6 +3371,8 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:50:03](/episodes/ep-a2bZf4fic10.md#t-00-49-53): “...more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:23:52](/episodes/ep-puuMVxEu5NU.md#t-00-23-19): “When you ask the FBI, did you ask the FBI to no longer test those items or is that the FBI is telling you that you have to now tell the public?”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:30:48](/episodes/ep-4JxgOclKzqg.md#t-00-30-48): “Anyway, speaking of this totally inappropriate chain of custody, the FBI jumping on the case like cowboys, that's not how this works.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:33:56](/episodes/ep-O4Zw3bCALjU.md#t-00-33-21): “None of you cared to explore what happened to try to make sure that the feds who are not traditionally an agency that we trust, the FBI, they've never. Ever, ever, has there ever been a period of even five years in this country since their founding, period of one year, where they were not up to no good? They are constantly up to no good. All of you basically said, ignore that. We're actually partnering with the feds. Ignore all of the obvious holes in the story.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:53:36](/episodes/ep-ms5ChhZegRg.md#t-00-53-24): “The Federal Bureau of Investigations has always been corrupt, ladies and gentlemen. You should not be that shocked by that. But tomorrow.”
 
 </details>
 
@@ -3241,7 +3398,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** director of this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
@@ -3252,6 +3409,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:37](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “One, Charlie Kirk was a big supporter of Kash Patel, had him on his show, really pushed for him to get the role that he is in—director of the FBI—and he has just been terrible in this case.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -3281,6 +3439,20 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
+
+</details>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)** investigated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:17:16](/episodes/ep-_Sq5RqP27NY.md#t-00-17-16): “Because what happens next is because the public finds out about this, the FBI is able to file a warrant, which brings them to discovering that Tyler Robinson went to the car wash.”
+
+</details>
+
+- **[Stephen Craig Paddock](/entities/person-stephen-craig-paddock.md)** investigated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:05:37](/episodes/ep-ms5ChhZegRg.md#t-00-05-14): “It resulted in 60 deaths. 869 documented injuries. Investigators claimed that they recovered 24 firearms from a man named Stephen Paddock's hotel suite and another firearm from his vehicle. ... And what did Stephen (Stephen Paddock) claim? Well, Nothing, because a 64-year-old alleged gunman died by suicide before police entered into his hotel room. ... OK, so ultimately, investigators and the analysts over at the FBI, they concluded in 2019 that they actually couldn't determine a motive they couldn't determine. And they said, quote, a single or clear motivating factor behind the attack.”
 
 </details>
 
@@ -3372,7 +3544,44 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (229)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (235)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>
+
+- [00:06:07](/episodes/ep-ms5ChhZegRg.md#t-00-05-56) (Citation) **Candace Owens**: ["Owens cited the FBI’s 2019 conclusion that investigators could not det..."](/statements/statement-fccb1c1f99fc.md)
+  - Also about: [Stephen Craig Paddock](/entities/person-stephen-craig-paddock.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+- [00:53:36](/episodes/ep-ms5ChhZegRg.md#t-00-53-24) (Accusation) **Candace Owens**: ["Owens alleged the FBI has always been corrupt."](/statements/statement-9ef6c8ed316c.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:46:37](/episodes/ep-q4m-kGzvwjw.md#t-00-46-15) (Claim) **Candace Owens**: ["Owens said Brian J. Cole Jr. was arrested five years after January 6, ..."](/statements/statement-76eb643e021e.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [00:58:30](/episodes/ep-q4m-kGzvwjw.md#t-00-58-19) (Citation) **Candace Owens**: ["Owens added July 9 as the first Epstein Situation Room meeting, concer..."](/statements/statement-3f033dc7b378.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [01:04:37](/episodes/ep-kn1E0scy9Wc.md#t-01-04-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens characterized Alex Clark as saying that not believing the CIA or..."](/statements/statement-2d8f9bc1cf80.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Gnosticism](/entities/concept-gnosticism.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:21:30](/episodes/ep-O4Zw3bCALjU.md#t-00-21-19) (Accusation) **Candace Owens**: ["Owens alleged Terryl Farnsworth lied to her by saying he did not know ..."](/statements/statement-eba38a82d214.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md), [Google](/entities/org-google.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

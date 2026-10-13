@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 263 mentions"
+description: "Kash Patel (People) - 278 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:08:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-kash-patel-t-00-46-47">2026-09-03 · 00:46:47</a></strong></div>
-<div><span>Episodes</span><strong>80</strong></div>
-<div><span>Mentions</span><strong>263</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-46-12">2026-10-06 · 00:46:30</a></strong></div>
+<div><span>Episodes</span><strong>86</strong></div>
+<div><span>Mentions</span><strong>278</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>70</strong></div>
-<div><span>Relationships</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>77</strong></div>
+<div><span>Relationships</span><strong>33</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -117,6 +117,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-kash-patel-t-00-37-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kash-patel-t-01-05-38" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-kash-patel-t-00-46-47" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-kash-patel-t-00-29-09" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-kash-patel-t-00-35-34" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-kash-patel-t-01-00-03" style="--pulse-height:23%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-29-54" style="--pulse-height:38%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-kash-patel-t-00-53-24" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-27-07" style="--pulse-height:31%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -202,6 +208,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-kash-patel-t-00-37-05) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-kash-patel-t-01-05-38) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-kash-patel-t-00-46-47) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-kash-patel-t-00-29-09) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-kash-patel-t-00-35-34) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-kash-patel-t-01-00-03) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-29-54) | 5 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-kash-patel-t-00-53-24) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-27-07) | 4 |
 
 </details>
 </section>
@@ -213,7 +225,82 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (263)</strong></summary>
+<summary><strong class="section-title">Raw mentions (278)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[00:27:18](/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-27-07)**
+> "... her, holding her bag next to Kash Patel, and they were outside by the cars."
+
+**[00:30:55](/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-30-44)**
+> "...arly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie ..."
+
+**[00:42:39](/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-42-39)**
+> "...it. And I distinctly remember Kash Patel, we've learned, is friends with all these people,..."
+
+**[00:46:30](/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-46-12)**
+> "...oward Hughes Inc. today, that Kash Patel, who's from Las Vegas, now we know that Erika (Er..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:53:24](/episodes/ep-ms5ChhZegRg.md#ent-person-kash-patel-t-00-53-24)**
+> "...his consistent like how could Kash Patel, Dan Bongino, people talking about how they belie..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5 mentions)</summary>
+
+**[00:30:12](/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-29-54)**
+> "... Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone."
+
+**[00:32:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-32-36)**
+> "...dd Blanche, David Warrington, Kash Patel, Pam Bondi, James Blair, Stephen Chung (meeting p..."
+
+**[00:36:23](/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-36-17)**
+> "...les, Pam Bondi, Todd Blanche, Kash Patel, James Blair, Taylor Budowick (meeting participan..."
+
+**[00:37:39](/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-37-39)**
+> "... Omaha. And strangely enough, Kash Patel goes to Omaha. Now we..."
+
+**[00:46:37](/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-46-15)**
+> "And suddenly, Kash Patel and Dan Bongino, they found the guy and it's an a..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[01:00:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-kash-patel-t-01-00-03)**
+> "...'m going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys..."
+
+**[01:06:07](/episodes/ep-bIuvTKlFeGo.md#ent-person-kash-patel-t-01-05-42)**
+> "...appens next on August 19th is Kash Patel visits the Omaha, Nebraska field office. I wonder..."
+
+**[01:06:53](/episodes/ep-bIuvTKlFeGo.md#ent-person-kash-patel-t-01-06-22)**
+> "...was who was on the plane with Kash Patel."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:35:52](/episodes/ep-_2DiIbfy4mU.md#ent-person-kash-patel-t-00-35-34)**
+> "... your friend. You could go to Kash Patel."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:29:42](/episodes/ep-NNiCZk1cuzs.md#ent-person-kash-patel-t-00-29-09)**
+> "...SA 2.0. We got power. We know Kash Patel. We know Pete Hegseth."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -1480,7 +1567,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Director Of (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
@@ -1491,6 +1578,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:37](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “One, Charlie Kirk was a big supporter of Kash Patel, had him on his show, really pushed for him to get the role that he is in—director of the FBI—and he has just been terrible in this case.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -1513,11 +1601,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
 - [Candace x Hunter Biden: The Interview @ 01:03:41](/episodes/ep-Ux1kzgQxkws.md#t-01-03-14): “the entire political apparatus that has the power and the Department of Justice is in the hands of Charlie Kirk's friends. Like that was how I felt, right? This is it. No, whoever did this is never going to get away with it because these are Charlie's friends.”
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-03): “I think his soul was being compromised with the Charlie Kirk situation because Charlie Kirk was a friend of Dan Bongino's. ... He was also a friend of Kash Patel's and he seems to just be pretty soulless at this moment.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:00:33](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03): “I would love to see that. And I'm going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys.”
 
 </details>
 
@@ -1586,6 +1675,30 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
+<summary>Met With (1)</summary>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke With (1)</summary>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
@@ -1599,7 +1712,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (16)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1658,16 +1771,17 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
 - [Candace x Hunter Biden: The Interview @ 01:03:41](/episodes/ep-Ux1kzgQxkws.md#t-01-03-14): “the entire political apparatus that has the power and the Department of Justice is in the hands of Charlie Kirk's friends. Like that was how I felt, right? This is it. No, whoever did this is never going to get away with it because these are Charlie's friends.”
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-03): “I think his soul was being compromised with the Charlie Kirk situation because Charlie Kirk was a friend of Dan Bongino's. ... He was also a friend of Kash Patel's and he seems to just be pretty soulless at this moment.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:00:33](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03): “I would love to see that. And I'm going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys.”
 
 </details>
 
 - **[FBI](/entities/org-fbi.md)** has director this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
@@ -1678,6 +1792,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:37](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “One, Charlie Kirk was a big supporter of Kash Patel, had him on his show, really pushed for him to get the role that he is in—director of the FBI—and he has just been terrible in this case.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -1720,11 +1835,25 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 </details>
 
+- **[JD Vance](/entities/person-jd-vance.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
 - **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)** residence of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): “He lives in ... Las Vegas with ... a dude.”
+
+</details>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
 
 </details>
 
@@ -1825,7 +1954,43 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (70)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (77)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3)</summary>
+
+- [00:26:21](/episodes/ep-0pSAhaAZz1w.md#t-00-25-52) (Claim) **Candace Owens**: ["Owens said Blake Wynn was close to Erika Kirk and had accompanied her ..."](/statements/statement-bf05a586106e.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+- [00:30:44](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44) (Claim) **Blake Wynn** (via quoted article): ["Blake Wynn said in a November 2025 Bring the Juice interview that he a..."](/statements/statement-4820d3584592.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:39](/episodes/ep-0pSAhaAZz1w.md#t-00-42-39) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled Kash Patel talking about finding who ran archive.ph and..."](/statements/statement-93a61c5f16b6.md)
+  - Also about: [archive.today](/entities/work-archive-today.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:37:32](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01) (Claim) **Candace Owens**: ["Owens said Egyptian planes were in Lincoln and Omaha August 17 and Kas..."](/statements/statement-c3e34ed8e140.md)
+  - Also about: [Lincoln](/entities/gpe-lincoln.md), [Omaha](/entities/gpe-omaha.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+- [00:46:37](/episodes/ep-q4m-kGzvwjw.md#t-00-46-15) (Claim) **Candace Owens**: ["Owens said Brian J. Cole Jr. was arrested five years after January 6, ..."](/statements/statement-76eb643e021e.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [FBI](/entities/org-fbi.md), [Dan Bongino](/entities/person-dan-bongino.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>
+
+- [01:00:27](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03) (Opinion) **Charlie Kirk** (via quoted speech): ["Kirk said he would love the DOJ to move to unseal grand jury testimony..."](/statements/statement-3999622dbf71.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [01:06:07](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42) (Citation) **Candace Owens**: ["Owens said Kash Patel visited the Omaha field office August 19th and h..."](/statements/statement-2953f1d069c4.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Omaha](/entities/gpe-omaha.md)
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>

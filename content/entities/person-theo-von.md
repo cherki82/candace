@@ -1,6 +1,6 @@
 ---
 title: "Theo Von"
-description: "Theo Von (People) - 41 mentions"
+description: "Theo Von (People) - 49 mentions"
 id: "person-theo-von"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36">2025-10-02 · 00:46:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-45-16">2026-05-20 · 00:45:16</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56">2026-10-08 · 00:48:18</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,8 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <a href="/episodes/ep-uC_GjKU8rs8.md#t-00-16-31" style="--pulse-height:64%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 7 mentions" title="2026-05-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15" style="--pulse-height:18%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43" style="--pulse-height:100%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 11 mentions" title="2026-05-20 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13" style="--pulse-height:36%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56" style="--pulse-height:27%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +66,8 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31) | 7 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15) | 2 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43) | 11 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13) | 4 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56) | 3 |
 
 </details>
 </section>
@@ -71,7 +75,38 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3 mentions)</summary>
+
+**[00:47:56](/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56)**
+> "... who watched My Sit Down with Theo Von."
+
+**[00:48:09](/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56)**
+> "...im. They call him Uncle Theo (Theo Von) and he makes for a great neighbor as you might a..."
+
+**[00:48:18](/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56)**
+> "So head over to Theo (Theo Von)'s channel and support him, and watch the episode..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[01:03:13](/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13)**
+> "...an writes, we don't know that Theo Von said Erika Kirk doesn't have kind eyes, but we kn..."
+
+**[01:03:39](/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13)**
+> "... my thing. I feel like I book Theo Von and then I book Tim Dillon when I'm super pregnan..."
+
+**[01:03:53](/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-53)**
+> "...ave you tried podcasting with Theo Von and Tim Dillon? It's great. Anyway, that was rele..."
+
+**[01:04:09](/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-53)**
+> "...im. They call him Uncle Theo (Theo Von). And it's fun just, you know, having somebody so..."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (11 mentions)</summary>
@@ -308,13 +343,27 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Friend Of (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:39](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “Theo Vaughn is basically just a Bernie Sanders leftist who does not like the censorious impulses of the left and engages in all the same conspiracy theories and, of course, is good friends with Candace Owens and all the rest of it.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:38:22](/episodes/ep-cPidFQDJLbo.md#t-00-37-43): “I obviously like Joe Rogan. I am friends with Theo Von. He's literally one of the best people that I know.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:03:53](/episodes/ep-0pSAhaAZz1w.md#t-01-03-53): “I'm like, have you tried podcasting with Theo Von and Tim Dillon? It's great. Anyway, that was released yesterday on Theo Von's channel and people have really loved it. I think I saw that it passed a million views and it's just really been put up. So thank you guys for indulging us. We have a blast. I absolutely adore Theo (Theo Von). My children absolutely adore him. They call him Uncle Theo (Theo Von). And it's fun just, you know, having somebody so authentic in your life because I kind of abstain from the world of famous people because everyone's weird and chasing something and Theo (Theo Von) is just exactly. Exactly what you get on his show. His brain is just taking different routes than the rest of ours. Uh, The One You Feed writes, moral of the story, do not engage on X or elsewhere with any of these sellouts that are taking money. Starve them. That is true. I thought about that. I am going to stop engaging, because now you realize why they get so crazy, because they, they actually need”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:09](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “I always have a great time with him. He's a wonderful friend. My children positively adore him. They call him Uncle Theo (Theo Von) and he makes for a great neighbor as you might as you might imagine.”
 
 </details>
 
@@ -328,7 +377,19 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Interviewed (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:47:56](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “They have she who must not be named for everyone who watched My Sit Down with Theo Von. We had such a great time. I think like already over 2 million people have watched it and just been up for two days.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (8)</summary>
 
 - **[Joe Rogan](/entities/person-joe-rogan.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -352,11 +413,20 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:39](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “Theo Vaughn is basically just a Bernie Sanders leftist who does not like the censorious impulses of the left and engages in all the same conspiracy theories and, of course, is good friends with Candace Owens and all the rest of it.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:38:22](/episodes/ep-cPidFQDJLbo.md#t-00-37-43): “I obviously like Joe Rogan. I am friends with Theo Von. He's literally one of the best people that I know.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:03:53](/episodes/ep-0pSAhaAZz1w.md#t-01-03-53): “I'm like, have you tried podcasting with Theo Von and Tim Dillon? It's great. Anyway, that was released yesterday on Theo Von's channel and people have really loved it. I think I saw that it passed a million views and it's just really been put up. So thank you guys for indulging us. We have a blast. I absolutely adore Theo (Theo Von). My children absolutely adore him. They call him Uncle Theo (Theo Von). And it's fun just, you know, having somebody so authentic in your life because I kind of abstain from the world of famous people because everyone's weird and chasing something and Theo (Theo Von) is just exactly. Exactly what you get on his show. His brain is just taking different routes than the rest of ours. Uh, The One You Feed writes, moral of the story, do not engage on X or elsewhere with any of these sellouts that are taking money. Starve them. That is true. I thought about that. I am going to stop engaging, because now you realize why they get so crazy, because they, they actually need”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:09](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “I always have a great time with him. He's a wonderful friend. My children positively adore him. They call him Uncle Theo (Theo Von) and he makes for a great neighbor as you might as you might imagine.”
 
 </details>
 
@@ -364,6 +434,13 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:44:33](/episodes/ep-cPidFQDJLbo.md#t-00-44-33): “Theo (Theo Von)'s very important to me. He's an awesome person, a great friend, and one of the most interesting and funny people I've ever met in my life. And I just felt terrible about it. And I told him I'd never bring it up publicly again. But I think it is important to let people know that aspect of it.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:47:56](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “They have she who must not be named for everyone who watched My Sit Down with Theo Von. We had such a great time. I think like already over 2 million people have watched it and just been up for two days.”
 
 </details>
 

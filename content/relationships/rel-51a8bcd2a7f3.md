@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Gigi Kirk](/entities/person-gigi-kirk) child of [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:03:48](/episodes/ep-5TTkMa49qj8#t-00-03-48): _It's like they're doing it on purpose. They want us to respond to this. There's a lot happening here. The good news is, I guess, that Erica (Erika Kirk) is not in the drapes. ... She's not in the drapes. They're sheer and she probably wants to be there, but she's controlling herself. The bad news is that Gigi (Gigi Kirk), her daughter._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 

@@ -12,7 +12,7 @@ date: "2025-09-03"
 
 > Charlie Kirk requests DOGE department at Turning Point USA.
 
-## Mentioned In (13 times)
+## Mentioned In (14 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -117,3 +117,14 @@ date: "2025-09-03"
 <a href="https://www.youtube.com/watch?v=JQjCAsfoXEE&t=2139s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > seven days before Charlie died, he said that he wanted to establish DOGE, right?
+
+### 14. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:14:42](/episodes/ep-q4m-kGzvwjw.md#t-00-14-11) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=882s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> That Charlie established a doge for no reason seven days before he died. It just
+
+> **Date stated in this source:** “seven days before he died”
+> **Date review note:** Seven days before the established September 10, 2025 death anchors to September 3, matching the canonical request event; distinguish the separate September 2 announcement memo.

@@ -1,6 +1,6 @@
 ---
 title: "Democratic Party"
-description: "Democratic Party (Organizations) - 21 mentions"
+description: "Democratic Party (Organizations) - 25 mentions"
 id: "org-democratic-party"
 type: "ORG"
 aliases:
@@ -22,35 +22,36 @@ Source: [Democratic National Committee](https://democrats.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33">2026-08-21 · 00:46:33</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-44-56">2026-09-22 · 00:45:19</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-org-democratic-party-t-00-03-42">Candace Owens x Ana Kasparian</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-41-22">BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#t-00-51-57" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-democratic-party-t-00-05-08" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-democratic-party-t-00-27-05" style="--pulse-height:33%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#t-00-13-45" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41" style="--pulse-height:67%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-democratic-party-t-00-34-48" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58" style="--pulse-height:67%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#t-00-58-45" style="--pulse-height:33%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-democratic-party-t-01-40-08" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-org-democratic-party-t-00-03-42" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-democratic-party-t-00-22-56" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#t-00-04-57" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-democratic-party-t-00-06-56" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-org-democratic-party-t-00-41-11" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-51-57" style="--pulse-height:25%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-democratic-party-t-00-05-08" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-democratic-party-t-00-27-05" style="--pulse-height:25%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#t-00-13-45" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-democratic-party-t-00-34-48" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#t-00-58-45" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-democratic-party-t-01-40-08" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-democratic-party-t-00-03-42" style="--pulse-height:75%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-democratic-party-t-00-22-56" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#t-00-04-57" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-democratic-party-t-00-06-56" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-democratic-party-t-00-41-11" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-41-22" style="--pulse-height:100%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 4 mentions" title="2026-09-22 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-democratic-party-t-00-06-56) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-democratic-party-t-00-41-11) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-41-22) | 4 |
 
 </details>
 </section>
@@ -79,7 +81,24 @@ Source: [Democratic National Committee](https://democrats.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4 mentions)</summary>
+
+**[00:41:22](/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-41-22)**
+> "...ly dropped odds and said that Democrats are surging to record high. The odds of them swee..."
+
+**[00:42:06](/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-42-06)**
+> "Miracle if the Democrats don't take the House and the Senate this November..."
+
+**[00:42:32](/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-42-32)**
+> "...GOP is genuinely useless. The Democrats want to castrate your children and completely rep..."
+
+**[00:45:19](/episodes/ep-6XfDqKTdFKg.md#ent-org-democratic-party-t-00-44-56)**
+> "...t. Prediction markets project Democrats have a 59 percent to sweep both chambers. This is..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -231,7 +250,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Democratic Party (6)</strong></summary>
+<summary><strong class="section-title">Statements about Democratic Party (10)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4)</summary>
+
+- [00:41:22](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22) (Claim) **Candace Owens** (via paraphrase): ["Owens reports that Polymarket odds of Democrats sweeping both chambers..."](/statements/statement-e12ed402da0d.md)
+  - Also about: [Polymarket](/entities/org-polymarket.md), [United States Congress](/entities/org-united-states-congress.md)
+
+- [00:41:40](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22) (Prediction) **Laura Loomer** (via quoted tweet): ["Loomer tweeted that the SAVE America Act would not pass before the mid..."](/statements/statement-739f97777f74.md)
+  - Also about: [SAVE America Act](/entities/law-save-america-act.md), [United States Congress](/entities/org-united-states-congress.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:45:19](/episodes/ep-6XfDqKTdFKg.md#t-00-44-56) (Claim) **Libs of TikTok** (via quoted post): ["Libs of TikTok says prediction markets give Democrats a 59 percent cha..."](/statements/statement-0f608c2f533b.md)
+  - Also about: [United States Congress](/entities/org-united-states-congress.md)
+
+- [00:46:29](/episodes/ep-6XfDqKTdFKg.md#t-00-46-02) (Opinion) **JD Vance** (via quoted speech): ["In a clip, JD Vance asks voters not to give power to the people who ca..."](/statements/statement-1da86800ef57.md)
+  - Also about: [Republican Party](/entities/org-republican-party.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>

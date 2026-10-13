@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 90 mentions"
+description: "Bill Ackman (People) - 105 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-bill-ackman-t-00-05-25">2026-09-03 · 00:06:00</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>90</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-bill-ackman-t-00-46-12">2026-10-06 · 00:46:30</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>105</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -68,6 +68,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-bill-ackman-t-00-52-57" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-bill-ackman-t-00-08-40" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-bill-ackman-t-00-05-25" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-bill-ackman-t-00-24-15" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-bill-ackman-t-00-58-44" style="--pulse-height:11%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-49-19" style="--pulse-height:42%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 8 mentions" title="2026-09-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-bill-ackman-t-00-27-52" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-bill-ackman-t-00-03-41" style="--pulse-height:16%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +110,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-bill-ackman-t-00-52-57) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-bill-ackman-t-00-08-40) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-bill-ackman-t-00-05-25) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-bill-ackman-t-00-24-15) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-bill-ackman-t-00-58-44) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-49-19) | 8 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-bill-ackman-t-00-27-52) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-bill-ackman-t-00-03-41) | 3 |
 
 </details>
 </section>
@@ -116,7 +126,77 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
+
+**[00:03:41](/episodes/ep-0pSAhaAZz1w.md#ent-person-bill-ackman-t-00-03-41)**
+> "...he likes of Andrew Kolvet and Bill Ackman pretending to have casually stumbled upon it. Wow..."
+
+**[00:03:57](/episodes/ep-0pSAhaAZz1w.md#ent-person-bill-ackman-t-00-03-41)**
+> "But that's Bill Ackman's favorite move. Wow. The Internet is so stunning a..."
+
+**[00:46:30](/episodes/ep-0pSAhaAZz1w.md#ent-person-bill-ackman-t-00-46-12)**
+> "You had I told you Bill Ackman. who is on the board of Howard Hughes Inc. today,..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:28:16](/episodes/ep-q4m-kGzvwjw.md#ent-person-bill-ackman-t-00-27-52)**
+> "He muses about where Bill Ackman's wealth comes from."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (8 mentions)</summary>
+
+**[00:49:28](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-49-19)**
+> "...in college? Who do you think? Bill Ackman. Bill Ackman. He writes, 'X is incredible—'"
+
+**[00:50:01](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-50-01)**
+> "Bill Ackman has since deleted this tweet, but not before we g..."
+
+**[00:50:25](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-50-01)**
+> "But why is Bill Ackman tweeting that?"
+
+**[00:50:28](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-50-01)**
+> "Bill Ackman, you're a billionaire."
+
+**[00:50:59](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-50-41)**
+> "What's going on? Why is Bill Ackman in particular interested in this thing that happe..."
+
+**[00:51:22](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-51-22)**
+> "...s fake. It is being pushed by Bill Ackman, among other people."
+
+**[00:51:30](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-51-22)**
+> "...never going to stop. But like Bill Ackman, he seems very interested in taking down Candace ..."
+
+**[00:52:28](/episodes/ep-5TTkMa49qj8.md#ent-person-bill-ackman-t-00-52-02)**
+> "Why is Bill Ackman so invested? Why delete the tweet? Why delete it?"
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[00:58:44](/episodes/ep-bIuvTKlFeGo.md#ent-person-bill-ackman-t-00-58-44)**
+> "...hip. And he muses about where Bill Ackman's wealth comes from."
+
+**[01:04:41](/episodes/ep-bIuvTKlFeGo.md#ent-person-bill-ackman-t-01-04-22)**
+> "...luencers trip is sponsored by Bill Ackman, the very person that Tucker Carlson called out o..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:24:15](/episodes/ep-kn1E0scy9Wc.md#ent-person-bill-ackman-t-00-24-15)**
+> "He was asking where Bill Ackman's money came from. And he was speaking to power whe..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -554,6 +634,18 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Board Member Of (1)</summary>
+
+- **[Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:46:30](/episodes/ep-0pSAhaAZz1w.md#t-00-46-12): “You had I told you Bill Ackman. who is on the board of Howard Hughes Inc. today, that Kash Patel, who's from Las Vegas, now we know that Erika (Erika Kirk)'s dear friend Blake Wynn, he's connected.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Chairman Of (1)</summary>
 
 - **[Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)**
@@ -566,7 +658,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Criticized (2)</summary>
+<summary>Criticized (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -582,24 +674,34 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:49:28](/episodes/ep-5TTkMa49qj8.md#t-00-49-19): “Was among the first to retweet this absurd, schizophrenic, crackhead, 0% true narrative that I was running lesbian accounts while I had a full-time boyfriend that I was obsessed with, was my high school relationship in college? Who do you think? Bill Ackman. Bill Ackman. He writes, 'X is incredible—' ... Where the world's experts gather and share their knowledge and interesting on Candace Owens, the plot thickens. ... Bill Ackman has since deleted this tweet, but not before we grabbed it. And he's retweeting another person who actually confirms that the lesbian links are all fake, but says that he did confirm that the video is me through AI voice analysis on the YouTube and that he did confirm that the Flickr account is me or he can and you should read through it. He confirmed that George (George Farmer) studied Hebrew.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized By (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40): “Tucker specifically asked the question, where does Bill Ackman's money come from? You know, who is this guy?”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#t-00-16-29): “That's the infamous speech that Tucker Carlson gave where he calls out Bill Ackman.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:58:44](/episodes/ep-bIuvTKlFeGo.md#t-00-58-44): “He says that Tucker Carlson says that people who serve in foreign armies should be stripped of their citizenship. And he muses about where Bill Ackman's wealth comes from. ... Who is this guy? Where is his money coming from? Tucker (Tucker Carlson) will later say he doesn't know what came over him. He just—just this is just how he felt, and Charlie (Charlie Kirk) said go after the Epstein (Jeffrey Epstein) stuff. On July 11th, Frank Turek deletes his website, frankturek.com. The website has remnants of an expedition he took. I went on Wayback Machine. He was looking for remnants of Noah's Ark. I don't know what that means, but just found that to be interesting that he deletes his website. On July 12th”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “We also have Bill Ackman, who is sending his press hounds after me.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46): “So beyond in this very same day, oh, actually three days later, Bill Ackman promotes Data Republican, an important read on Charlie Kirk and Candace Owens. I bet, Bill (Bill Ackman), I bet you're always a little too close to the situation, Bill (Bill Ackman).”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:49:28](/episodes/ep-5TTkMa49qj8.md#t-00-49-19): “Was among the first to retweet this absurd, schizophrenic, crackhead, 0% true narrative that I was running lesbian accounts while I had a full-time boyfriend that I was obsessed with, was my high school relationship in college? Who do you think? Bill Ackman. Bill Ackman. He writes, 'X is incredible—' ... Billionaires are not on X retweeting crackhead feeds about college accounts. about college projects and whether or not George (George Farmer) studied Hebrew. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
 
 </details>
 
@@ -618,7 +720,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Met With (3)</summary>
+<summary>Met With (4)</summary>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -628,10 +730,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:19:14](/episodes/ep-czVBmqZP6Ss.md#t-00-19-14): “I sent him Bill Ackman's tweets because, you know, he tweeted, “I feel incredibly privileged to have spent a day and shared a meal with Charlie this summer. He was a giant of a man.””
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:50:25](/episodes/ep-q7f8r-THr84.md#t-00-50-15): “Bill Ackman just confirmed that he hosted his meeting with Charlie (Charlie Kirk) on August 4th and 5th.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:59](/episodes/ep-5TTkMa49qj8.md#t-00-50-41): “What's going on? Why is Bill Ackman in particular interested in this thing that happened to be archived when Charlie (Charlie Kirk) was with Bill Ackman?”
 
 </details>
 
@@ -639,6 +742,13 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:41:29](/episodes/ep-5NQyGuRYbU8.md#t-00-40-54): “She goes with him to the Hamptons and sits across from Bill Ackman at dinner”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
@@ -657,21 +767,24 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40): “Tucker specifically asked the question, where does Bill Ackman's money come from? You know, who is this guy?”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#t-00-16-29): “That's the infamous speech that Tucker Carlson gave where he calls out Bill Ackman.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:58:44](/episodes/ep-bIuvTKlFeGo.md#t-00-58-44): “He says that Tucker Carlson says that people who serve in foreign armies should be stripped of their citizenship. And he muses about where Bill Ackman's wealth comes from. ... Who is this guy? Where is his money coming from? Tucker (Tucker Carlson) will later say he doesn't know what came over him. He just—just this is just how he felt, and Charlie (Charlie Kirk) said go after the Epstein (Jeffrey Epstein) stuff. On July 11th, Frank Turek deletes his website, frankturek.com. The website has remnants of an expedition he took. I went on Wayback Machine. He was looking for remnants of Noah's Ark. I don't know what that means, but just found that to be interesting that he deletes his website. On July 12th”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “We also have Bill Ackman, who is sending his press hounds after me.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46): “So beyond in this very same day, oh, actually three days later, Bill Ackman promotes Data Republican, an important read on Charlie Kirk and Candace Owens. I bet, Bill (Bill Ackman), I bet you're always a little too close to the situation, Bill (Bill Ackman).”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:49:28](/episodes/ep-5TTkMa49qj8.md#t-00-49-19): “Was among the first to retweet this absurd, schizophrenic, crackhead, 0% true narrative that I was running lesbian accounts while I had a full-time boyfriend that I was obsessed with, was my high school relationship in college? Who do you think? Bill Ackman. Bill Ackman. He writes, 'X is incredible—' ... Billionaires are not on X retweeting crackhead feeds about college accounts. about college projects and whether or not George (George Farmer) studied Hebrew. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
 
 </details>
 
@@ -686,6 +799,20 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-38): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:49:28](/episodes/ep-5TTkMa49qj8.md#t-00-49-19): “Was among the first to retweet this absurd, schizophrenic, crackhead, 0% true narrative that I was running lesbian accounts while I had a full-time boyfriend that I was obsessed with, was my high school relationship in college? Who do you think? Bill Ackman. Bill Ackman. He writes, 'X is incredible—' ... Where the world's experts gather and share their knowledge and interesting on Candace Owens, the plot thickens. ... Bill Ackman has since deleted this tweet, but not before we grabbed it. And he's retweeting another person who actually confirms that the lesbian links are all fake, but says that he did confirm that the video is me through AI voice analysis on the YouTube and that he did confirm that the Flickr account is me or he can and you should read through it. He confirmed that George (George Farmer) studied Hebrew.”
+
+</details>
+
+- **[Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)** has board member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:46:30](/episodes/ep-0pSAhaAZz1w.md#t-00-46-12): “You had I told you Bill Ackman. who is on the board of Howard Hughes Inc. today, that Kash Patel, who's from Las Vegas, now we know that Erika (Erika Kirk)'s dear friend Blake Wynn, he's connected.”
 
 </details>
 
@@ -711,10 +838,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:19:14](/episodes/ep-czVBmqZP6Ss.md#t-00-19-14): “I sent him Bill Ackman's tweets because, you know, he tweeted, “I feel incredibly privileged to have spent a day and shared a meal with Charlie this summer. He was a giant of a man.””
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:50:25](/episodes/ep-q7f8r-THr84.md#t-00-50-15): “Bill Ackman just confirmed that he hosted his meeting with Charlie (Charlie Kirk) on August 4th and 5th.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:59](/episodes/ep-5TTkMa49qj8.md#t-00-50-41): “What's going on? Why is Bill Ackman in particular interested in this thing that happened to be archived when Charlie (Charlie Kirk) was with Bill Ackman?”
 
 </details>
 
@@ -722,6 +850,13 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:41:29](/episodes/ep-5NQyGuRYbU8.md#t-00-40-54): “She goes with him to the Hamptons and sits across from Bill Ackman at dinner”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
@@ -737,7 +872,15 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Bill Ackman (2)</strong></summary>
+<summary><strong class="section-title">Statements by Bill Ackman (3)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:49:28](/episodes/ep-5TTkMa49qj8.md#t-00-49-19) [○] (Opinion) ["Bill Ackman wrote “X is incredible,” describing experts sharing knowledge, and s..."](/statements/statement-a4c1bc4b1183.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Twitter](/entities/org-twitter.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -758,7 +901,48 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Ackman (29)</strong></summary>
+<summary><strong class="section-title">Statements about Bill Ackman (36)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:03:41](/episodes/ep-0pSAhaAZz1w.md#t-00-03-41) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet and Bill Ackman instantly boosted Jennica Pou..."](/statements/statement-e2a2ca65c8d5.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Jennica Pounds](/entities/person-jennica-pounds.md)
+
+- [00:46:30](/episodes/ep-0pSAhaAZz1w.md#t-00-46-12) (Claim) **Candace Owens**: ["Owens said Bill Ackman was on the board of Howard Hughes Inc. today."](/statements/statement-36e31ddaaaf6.md)
+  - Also about: [Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3)</summary>
+
+- [00:50:01](/episodes/ep-5TTkMa49qj8.md#t-00-50-01) (Claim) **Candace Owens** (via paraphrase): ["Owens said Bill Ackman deleted the tweet after her team captured it, a..."](/statements/statement-c7e16142332b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Flickr](/entities/org-flickr.md), [George Farmer](/entities/person-george-farmer.md)
+
+- [00:50:30](/episodes/ep-5TTkMa49qj8.md#t-00-50-01) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterized Tucker Carlson as finding Bill Ackman’s money myst..."](/statements/statement-aad4af48dc75.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22) (Accusation) **Candace Owens**: ["Owens alleged Bill Ackman and the Daily Wire are pushing a fake narrat..."](/statements/statement-ea1a3bb78b9d.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:04:22](/episodes/ep-bIuvTKlFeGo.md#t-01-04-22) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie and Erika Kirk landed in Bedford, New York on Augus..."](/statements/statement-3bcf123c94b8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Bedford, New York](/entities/gpe-bedford-new-york.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:24:09](/episodes/ep-kn1E0scy9Wc.md#t-00-23-31) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tucker Carlson spoke on stage about Jeffrey Epstein and ask..."](/statements/statement-b25d2f858124.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

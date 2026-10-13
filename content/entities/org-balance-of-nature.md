@@ -1,6 +1,6 @@
 ---
 title: "Balance of Nature"
-description: "Balance of Nature (Organizations) - 35 mentions"
+description: "Balance of Nature (Organizations) - 43 mentions"
 id: "org-balance-of-nature"
 type: "ORG"
 categories:
@@ -20,11 +20,11 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37">2026-01-05 · 00:59:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-44">2026-09-02 · 00:35:44</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-balance-of-nature-t-00-57-00">2026-10-01 · 00:57:18</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,9 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-28-47" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-01" style="--pulse-height:75%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-balance-of-nature-t-00-33-57" style="--pulse-height:75%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-balance-of-nature-t-00-42-05" style="--pulse-height:50%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-balance-of-nature-t-00-56-14" style="--pulse-height:75%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +75,9 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-28-47) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-01) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-balance-of-nature-t-00-33-57) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-balance-of-nature-t-00-42-05) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-balance-of-nature-t-00-56-14) | 3 |
 
 </details>
 </section>
@@ -79,7 +85,46 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:56:38](/episodes/ep-q4m-kGzvwjw.md#ent-org-balance-of-nature-t-00-56-14)**
+> "I need things that are simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients on real whole fruits, vegetables, spices, and fiber."
+
+**[00:57:00](/episodes/ep-q4m-kGzvwjw.md#ent-org-balance-of-nature-t-00-57-00)**
+> "Different whole foods bring different phytonutrients, so variety actually really matters. Balance of Nature uses a tailored vacuum cold process designed to help stabilize those naturally occurring nutrients and the ingredients are independently tested."
+
+**[00:57:18](/episodes/ep-q4m-kGzvwjw.md#ent-org-balance-of-nature-t-00-57-00)**
+> "For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and get 35% off your first subscription if you use."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:42:20](/episodes/ep-_Sq5RqP27NY.md#ent-org-balance-of-nature-t-00-42-05)**
+> "...simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredi..."
+
+**[00:42:40](/episodes/ep-_Sq5RqP27NY.md#ent-org-balance-of-nature-t-00-42-40)**
+> "... so variety actually matters. Balance of Nature uses a tailored vacuum cold process that's design..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:33:57](/episodes/ep-kn1E0scy9Wc.md#ent-org-balance-of-nature-t-00-33-57)**
+> "...ite. And you guys know I love Balance of Nature because as a mom, I don't really have the time to..."
+
+**[00:34:09](/episodes/ep-kn1E0scy9Wc.md#ent-org-balance-of-nature-t-00-33-57)**
+> "That's why I love Balance of Nature's whole health system. It's built around 47 ingredi..."
+
+**[00:34:33](/episodes/ep-kn1E0scy9Wc.md#ent-org-balance-of-nature-t-00-33-57)**
+> "Balance of Nature uses a tailored vacuum cold process that's design..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
@@ -280,7 +325,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
@@ -289,6 +334,9 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:12](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “It includes fruits and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com and get 10% off their fruits and veggie supplements with the promo code Candace at checkout.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:29:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-29-30): “Or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com to get 10% off their fruits and veggies supplements with promo code Candace at checkout.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:42:32](/episodes/ep-OgRyiOAVtWU.md#t-00-42-32): “So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com to get 10% off their fruits and veggies supplements with promo code Candace at checkout.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:33:57](/episodes/ep-kn1E0scy9Wc.md#t-00-33-57): “It's my favorite. And you guys know I love Balance of Nature because as a mom, I don't really have the time to read a supplement label that looks like it requires a chemistry degree. Between everything I need to get done in the day and raising kids, I need things to be simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices, and fiber. Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. Phytonutrients are naturally occurring plant nutrients that give fruits and vegetables their color, taste, and smell. Different whole foods bring different phytonutrients, so variety actually matters. Balance of Nature uses a tailored vacuum cold process that's designed to help stabilize those naturally occurring nutrients, and the ingredients are independently tested. The routine is simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. For me, it feels like one simple thing that I can actually stick with. So head to balanceofnature.com to get 10% off their fruits and veggies supplements, plus a free gift with promo code Candace at checkout. That's balanceofnature.com with code Candace at checkout.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:42:20](/episodes/ep-_Sq5RqP27NY.md#t-00-42-05): “I need things simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices and fiber. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today. today and get 35% off your first subscription with code Candace at checkout.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:56:38](/episodes/ep-q4m-kGzvwjw.md#t-00-56-14): “I need things that are simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients on real whole fruits, vegetables, spices, and fiber. ... Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. ... Phytonutrients are naturally occurring plant nutrients that give... give fruits and vegetables their color, their taste, and their smell. ... Different whole foods bring different phytonutrients, so variety actually really matters. Balance of Nature uses a tailored vacuum cold process designed to help stabilize those naturally occurring nutrients and the ingredients are independently tested. ... The routine is very simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and get 35% off your first subscription if you use. ... Use code CANDICE at checkout. That's balanceofnature.com. I also have to remind you guys about American financing because cheap simple things like fast food stops with the family have become out of control expensive.”
 
 </details>
 
@@ -310,7 +358,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
@@ -319,6 +367,9 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:12](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “It includes fruits and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com and get 10% off their fruits and veggie supplements with the promo code Candace at checkout.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:29:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-29-30): “Or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com to get 10% off their fruits and veggies supplements with promo code Candace at checkout.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:42:32](/episodes/ep-OgRyiOAVtWU.md#t-00-42-32): “So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com to get 10% off their fruits and veggies supplements with promo code Candace at checkout.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:33:57](/episodes/ep-kn1E0scy9Wc.md#t-00-33-57): “It's my favorite. And you guys know I love Balance of Nature because as a mom, I don't really have the time to read a supplement label that looks like it requires a chemistry degree. Between everything I need to get done in the day and raising kids, I need things to be simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices, and fiber. Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. Phytonutrients are naturally occurring plant nutrients that give fruits and vegetables their color, taste, and smell. Different whole foods bring different phytonutrients, so variety actually matters. Balance of Nature uses a tailored vacuum cold process that's designed to help stabilize those naturally occurring nutrients, and the ingredients are independently tested. The routine is simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. For me, it feels like one simple thing that I can actually stick with. So head to balanceofnature.com to get 10% off their fruits and veggies supplements, plus a free gift with promo code Candace at checkout. That's balanceofnature.com with code Candace at checkout.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:42:20](/episodes/ep-_Sq5RqP27NY.md#t-00-42-05): “I need things simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices and fiber. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today. today and get 35% off your first subscription with code Candace at checkout.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:56:38](/episodes/ep-q4m-kGzvwjw.md#t-00-56-14): “I need things that are simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients on real whole fruits, vegetables, spices, and fiber. ... Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. ... Phytonutrients are naturally occurring plant nutrients that give... give fruits and vegetables their color, their taste, and their smell. ... Different whole foods bring different phytonutrients, so variety actually really matters. Balance of Nature uses a tailored vacuum cold process designed to help stabilize those naturally occurring nutrients and the ingredients are independently tested. ... The routine is very simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and get 35% off your first subscription if you use. ... Use code CANDICE at checkout. That's balanceofnature.com. I also have to remind you guys about American financing because cheap simple things like fast food stops with the family have become out of control expensive.”
 
 </details>
 
@@ -328,6 +379,20 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:35:09](/episodes/ep-HIlPQ-_dcxM.md#t-00-35-01): “I also want to remind you guys about Balance of Nature because as a mom, I don't have time to read a supplement label that looks like it requires a chemistry degree.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Balance of Nature (2)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2)</summary>
+
+- [00:42:20](/episodes/ep-_Sq5RqP27NY.md#t-00-42-05) (Claim) **Candace Owens**: ["In a sponsor read, Owens said Balance of Nature’s whole health system ..."](/statements/statement-06e4934cb765.md)
+
+- [00:42:40](/episodes/ep-_Sq5RqP27NY.md#t-00-42-40) (Claim) **Candace Owens**: ["In a sponsor read, Owens said Balance of Nature used a vacuum cold pro..."](/statements/statement-7e15090db7ba.md)
 
 </details>
 

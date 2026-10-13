@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 71 mentions"
+description: "Las Vegas, Nevada (Places) - 94 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -25,45 +25,50 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00">2026-08-06 · 00:38:00</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-las-vegas-nevada-t-00-51-47">2026-10-08 · 00:51:54</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>94</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (10 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-07-24">BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48" style="--pulse-height:60%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-nevada-t-00-18-59" style="--pulse-height:10%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-26" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-09-45" style="--pulse-height:30%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03" style="--pulse-height:80%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 8 mentions" title="2025-12-17 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-28" style="--pulse-height:10%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40" style="--pulse-height:60%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-25-17" style="--pulse-height:20%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-39" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 10 mentions" title="2026-03-04 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-00-44" style="--pulse-height:30%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-las-vegas-nevada-t-00-34-43" style="--pulse-height:10%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-las-vegas-nevada-t-00-41-16" style="--pulse-height:10%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-las-vegas-nevada-t-00-24-18" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-las-vegas-nevada-t-00-12-32" style="--pulse-height:10%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-las-vegas-nevada-t-00-36-41" style="--pulse-height:10%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49" style="--pulse-height:10%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03" style="--pulse-height:20%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29" style="--pulse-height:10%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52" style="--pulse-height:60%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00" style="--pulse-height:10%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48" style="--pulse-height:55%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-nevada-t-00-18-59" style="--pulse-height:9%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-26" style="--pulse-height:9%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-09-45" style="--pulse-height:27%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03" style="--pulse-height:73%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 8 mentions" title="2025-12-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-28" style="--pulse-height:9%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40" style="--pulse-height:55%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13" style="--pulse-height:18%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09" style="--pulse-height:9%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-25-17" style="--pulse-height:18%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02" style="--pulse-height:9%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-39" style="--pulse-height:36%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04" style="--pulse-height:9%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28" style="--pulse-height:91%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 10 mentions" title="2026-03-04 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-00-44" style="--pulse-height:27%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-las-vegas-nevada-t-00-34-43" style="--pulse-height:9%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-las-vegas-nevada-t-00-41-16" style="--pulse-height:9%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-las-vegas-nevada-t-00-24-18" style="--pulse-height:18%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-las-vegas-nevada-t-00-12-32" style="--pulse-height:9%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26" style="--pulse-height:36%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-las-vegas-nevada-t-00-36-41" style="--pulse-height:9%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49" style="--pulse-height:9%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03" style="--pulse-height:18%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29" style="--pulse-height:9%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52" style="--pulse-height:55%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00" style="--pulse-height:9%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-las-vegas-nevada-t-01-02-20" style="--pulse-height:9%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-las-vegas-nevada-t-00-05-14" style="--pulse-height:27%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-29-09" style="--pulse-height:64%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 7 mentions" title="2026-10-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-07-24" style="--pulse-height:100%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 11 mentions" title="2026-10-07 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-las-vegas-nevada-t-00-51-47" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +100,11 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52) | 6 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-las-vegas-nevada-t-01-02-20) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-las-vegas-nevada-t-00-05-14) | 3 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-29-09) | 7 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-07-24) | 11 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-las-vegas-nevada-t-00-51-47) | 1 |
 
 </details>
 </section>
@@ -106,7 +116,101 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:51:54](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-las-vegas-nevada-t-00-51-47)**
+> "Someone in Vegas, if I had to guess. But Hollow writes, "The more ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (11 mentions)</summary>
+
+**[00:07:24](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-07-24)**
+> "... USA were being provided by a Las Vegas marketing."
+
+**[00:07:42](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-07-24)**
+> "... stuff? And I have to say the Vegas theme finally."
+
+**[00:08:01](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-08-01)**
+> "...come across upon the Strip in Las Vegas, if we're being honest."
+
+**[00:08:33](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-08-01)**
+> "You're in Vegas like it's a Vegas convention. It's gaudy now. Let..."
+
+**[00:22:28](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-22-21)**
+> "...now, has deep pockets. That's Vegas."
+
+**[00:41:08](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-40-47)**
+> "...that, to me, register more as Vegas deviants."
+
+**[00:46:16](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-46-16)**
+> "...rning Point and their ties to Vegas, that was one of the first things they did, remem..."
+
+**[00:46:25](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-46-16)**
+> "...ka (Erika Kirk) opening their Vegas office, right? Like another headquarters in Vegas..."
+
+**[00:46:33](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-46-16)**
+> "...efinitely opened something in Vegas, which I was like, oh, interesting place for you ..."
+
+**[00:46:53](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-46-53)**
+> "You have a Las Vegas opening. When was that? Was that in March? Great ..."
+
+**[00:47:05](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-las-vegas-nevada-t-00-46-53)**
+> "...y place. Everybody knows that Las Vegas is as holy as it gets. Anyway, more comments from..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (7 mentions)</summary>
+
+**[00:29:09](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-29-09)**
+> "...s back to Blake (Blake Wynn), Las Vegas, Eastern Europe, a trail, so to speak."
+
+**[00:45:16](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-45-08)**
+> "...t the fact that we're back in Vegas."
+
+**[00:45:56](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-45-30)**
+> "... you could say actually built Las Vegas, but didn't intend for it to be a place of debauc..."
+
+**[00:46:12](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-46-12)**
+> "... thread of this Howard Hughes Las Vegas thing after his company got chopped up. Adelson g..."
+
+**[00:46:30](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-46-12)**
+> "..., that Kash Patel, who's from Las Vegas, now we know that Erika (Erika Kirk)'s dear frien..."
+
+**[00:47:48](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-47-37)**
+> "... be kind of running into this Las Vegas syndicate, and that people would have money, that..."
+
+**[00:52:33](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-las-vegas-nevada-t-00-52-33)**
+> "...se people have a, think about Vegas, unlimited money to do this. Turning Point USA is..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:05:28](/episodes/ep-ms5ChhZegRg.md#ent-gpe-las-vegas-nevada-t-00-05-14)**
+> "...ss shooting which occurred in Las Vegas in 2017. Biggest mass shooting in American histor..."
+
+**[00:07:48](/episodes/ep-ms5ChhZegRg.md#ent-gpe-las-vegas-nevada-t-00-07-17)**
+> "...nobody was speaking about the Las Vegas shooting, which appeared to be a CIA Mossad opera..."
+
+**[00:52:03](/episodes/ep-ms5ChhZegRg.md#ent-gpe-las-vegas-nevada-t-00-52-03)**
+> "...ke there might have been some Vegas money in going after us. We're going to talk abou..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[01:02:20](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-las-vegas-nevada-t-01-02-20)**
+> "...by the October 1st tragedy in Vegas nine years ago."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -469,12 +573,20 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Location Of (2)</summary>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+- **[Enclave & Key](/entities/org-enclave-and-key.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:24:27](/episodes/ep-0pSAhaAZz1w.md#t-00-24-08): “The article continues. The Discord server doesn't specify who is paying elephant clipping or the other right-leaning political clipping operations, but Google Drive folders in each of the campaigns are filled with files uploaded by what appears to be three employees of Enclave and Key, a Las Vegas-based marketing company.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:24](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “We had to get real techie, techie for me at least. And we learned that the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing. marketing firm owned by Erika (Erika Kirk)'s dear friend, Blake Wynn, a firm that we then learned has an imprint in Romania. ... There is definitely panic that seems to be settling. Blakey (Blake Neff) is off the rails. The Atlantic article informed us that they moved to delete all the videos from the associative Google Drive, one that was providing all the clips. Many of the campaigns were pulled down after the writer began inquiring about Blake Wynn's enclave and key, the enclave and key's involvement, so to speak.”
 
 </details>
 
@@ -494,12 +606,20 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+- **[Enclave & Key](/entities/org-enclave-and-key.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:24:27](/episodes/ep-0pSAhaAZz1w.md#t-00-24-08): “The article continues. The Discord server doesn't specify who is paying elephant clipping or the other right-leaning political clipping operations, but Google Drive folders in each of the campaigns are filled with files uploaded by what appears to be three employees of Enclave and Key, a Las Vegas-based marketing company.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:24](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “We had to get real techie, techie for me at least. And we learned that the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing. marketing firm owned by Erika (Erika Kirk)'s dear friend, Blake Wynn, a firm that we then learned has an imprint in Romania. ... There is definitely panic that seems to be settling. Blakey (Blake Neff) is off the rails. The Atlantic article informed us that they moved to delete all the videos from the associative Google Drive, one that was providing all the clips. Many of the campaigns were pulled down after the writer began inquiring about Blake Wynn's enclave and key, the enclave and key's involvement, so to speak.”
 
 </details>
 
@@ -523,7 +643,42 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Las Vegas, Nevada (14)</strong></summary>
+<summary><strong class="section-title">Statements about Las Vegas, Nevada (21)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:47:37](/episodes/ep-0pSAhaAZz1w.md#t-00-47-37) (Opinion) **Candace Owens**: ["Owens guessed that RFK Jr. could not be clipped because pharmaceutical..."](/statements/statement-091cfe9ed430.md)
+  - Also about: [Robert F. Kennedy Jr.](/entities/person-robert-f-kennedy-jr.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md), [Miriam Adelson](/entities/person-miriam-adelson.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (5)</summary>
+
+- [00:05:28](/episodes/ep-ms5ChhZegRg.md#t-00-05-14) (Claim) **Candace Owens**: ["Owens said the 2017 Las Vegas mass shooting resulted in 60 deaths and ..."](/statements/statement-4e640f74a6c9.md)
+  - Also about: [Stephen Craig Paddock](/entities/person-stephen-craig-paddock.md)
+
+- [00:06:07](/episodes/ep-ms5ChhZegRg.md#t-00-05-56) (Citation) **Candace Owens**: ["Owens cited the FBI’s 2019 conclusion that investigators could not det..."](/statements/statement-fccb1c1f99fc.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Stephen Craig Paddock](/entities/person-stephen-craig-paddock.md)
+
+- [00:06:39](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens** (via paraphrase): ["Owens said conspiracy theorists surmised the Las Vegas shooting was a ..."](/statements/statement-baae6c00ea67.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:06:49](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens**: ["Owens alleged the Las Vegas shooting disappeared from the media cycle ..."](/statements/statement-f63096f6ee9c.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Harvey Weinstein](/entities/person-harvey-weinstein.md), [Me Too movement](/entities/concept-me-too-movement.md)
+
+- [00:51:45](/episodes/ep-ms5ChhZegRg.md#t-00-51-21) (Accusation) **Candace Owens**: ["Owens said it felt like there might have been Vegas money behind attac..."](/statements/statement-5c51545bfb2d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [01:02:20](/episodes/ep-q4m-kGzvwjw.md#t-01-02-20) (Claim) **Roll Tide (viewer commenter; identity unverified)** (via quoted post): ["Viewer Roll Tide (identity unverified) wrote that they were an ER nurs..."](/statements/statement-76896098f242.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

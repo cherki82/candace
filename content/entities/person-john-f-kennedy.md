@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 110 mentions"
+description: "John F. Kennedy (People) - 114 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-john-f-kennedy-t-00-47-07">2026-09-08 · 00:47:35</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>110</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-john-f-kennedy-t-00-04-34">2026-10-05 · 00:04:34</a></strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>114</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -100,6 +100,10 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-john-f-kennedy-t-00-12-47" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-00-31-56" style="--pulse-height:15%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-john-f-kennedy-t-00-47-07" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-john-f-kennedy-t-01-02-39" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-john-f-kennedy-t-00-41-00" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-john-f-kennedy-t-00-04-02" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-john-f-kennedy-t-00-04-34" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -167,6 +171,10 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-john-f-kennedy-t-00-12-47) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-00-31-56) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-john-f-kennedy-t-00-47-07) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-john-f-kennedy-t-01-02-39) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-john-f-kennedy-t-00-41-00) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-john-f-kennedy-t-00-04-02) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-john-f-kennedy-t-00-04-34) | 1 |
 
 </details>
 </section>
@@ -178,7 +186,39 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+<summary><strong class="section-title">Raw mentions (114)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:04:34](/episodes/ep-ms5ChhZegRg.md#ent-person-john-f-kennedy-t-00-04-34)**
+> "...tate, at least since the JFK (John F. Kennedy) assassination, right?"
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:04:02](/episodes/ep-bIuvTKlFeGo.md#ent-person-john-f-kennedy-t-00-04-02)**
+> "...s a bigger assassination than JFK because of the ability for the video to have spre..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:41:12](/episodes/ep-NNiCZk1cuzs.md#ent-person-john-f-kennedy-t-00-41-00)**
+> "JFK (John F. Kennedy) didn't even say anything to her. She was ghosted..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[01:02:39](/episodes/ep-kn1E0scy9Wc.md#ent-person-john-f-kennedy-t-01-02-39)**
+> "It will not be another JFK (John F. Kennedy). Cindy (viewer commenter; surname unverified) wr..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

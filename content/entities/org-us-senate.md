@@ -1,6 +1,6 @@
 ---
 title: "United States Senate"
-description: "United States Senate (Organizations) - 9 mentions"
+description: "United States Senate (Organizations) - 12 mentions"
 id: "org-us-senate"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55">2025-09-19 · 00:01:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-senate-t-00-13-13">2026-05-27 · 00:13:13</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33">2026-10-01 · 00:26:41</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -43,6 +43,9 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-us-senate-t-00-34-48" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-us-senate-t-01-19-08" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-senate-t-00-13-13" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-us-senate-t-01-00-51" style="--pulse-height:50%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-us-senate-t-00-42-06" style="--pulse-height:50%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +58,9 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-us-senate-t-00-34-48) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-us-senate-t-01-19-08) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-us-senate-t-00-13-13) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-us-senate-t-01-00-51) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-us-senate-t-00-42-06) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33) | 1 |
 
 </details>
 </section>
@@ -62,7 +68,31 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:26:41](/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33)**
+> "...verified) is confirmed by the Senate as the Undersecretary of Defense."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:42:06](/episodes/ep-6XfDqKTdFKg.md#ent-org-us-senate-t-00-42-06)**
+> "... don't take the House and the Senate this November. What is it they say?"
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[01:00:51](/episodes/ep-aLJhpxrakCU.md#ent-org-us-senate-t-01-00-51)**
+> "... we please flip the House and Senate and take power from Trump (Donald Trump)? Crisis ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

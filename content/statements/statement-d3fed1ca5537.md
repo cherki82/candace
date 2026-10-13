@@ -27,13 +27,23 @@ veracity: "true"
 - [Jeff Long](/entities/person-jeff-long.md) (person)
 - [Shawn Ryan](/entities/person-shawn-ryan.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:33:37](/episodes/ep-sImMM04XdWY.md#t-00-33-17) 
 <a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=2017s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I can tell you right now, the reason why he describes his communication with the chief of the UVU police in an odd way is because it's not his communication. ... He's actually presenting a text message between Dan Flood and Chief Long.
+
+### 2. BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charli...
+
+**Episode:** [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md)
+**Timestamp:** [00:26:20](/episodes/ep-aLJhpxrakCU.md#t-00-26-12) 
+<a href="https://www.youtube.com/watch?v=aLJhpxrakCU&t=1580s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So the context here, just so you know, is they are now addressing the text message exchange between Dan Flood and Chief Jeffrey Long of the UVU police force. This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan when he's like, what am I supposed to do with that? ... What do you mean? What are you supposed to do with that, Brian (Brian Harpole)? You never received this message. There's nothing you're supposed to do with anything because you're not on this thread. It's between Dan Flood and the chief of police.
 
 ## Verification
 

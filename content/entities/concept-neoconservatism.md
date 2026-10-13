@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 32 mentions"
+description: "Neoconservatism (Concepts) - 36 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-neoconservatism-t-00-09-46">2025-11-12 · 00:09:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01">2026-09-02 · 00:00:21</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-neoconservatism-t-00-10-01">2026-09-30 · 00:10:22</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,8 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-37-11" style="--pulse-height:20%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-neoconservatism-t-00-29-24" style="--pulse-height:30%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-neoconservatism-t-00-10-01" style="--pulse-height:10%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +69,8 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-37-11) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-neoconservatism-t-00-29-24) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-neoconservatism-t-00-10-01) | 1 |
 
 </details>
 </section>
@@ -74,7 +78,29 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:10:22](/episodes/ep-5TTkMa49qj8.md#ent-concept-neoconservatism-t-00-10-01)**
+> "...an Party, the war between the neocons who have never been conservative and the America ..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:30:01](/episodes/ep-_Sq5RqP27NY.md#ent-concept-neoconservatism-t-00-29-24)**
+> "... course, because they are the neocons that ruined the MAGA movement. Trump (Donald Trum..."
+
+**[00:40:00](/episodes/ep-_Sq5RqP27NY.md#ent-concept-neoconservatism-t-00-40-00)**
+> "...os that make us smile mocking neocons. And, like I said, these people have come into Sa..."
+
+**[00:41:52](/episodes/ep-_Sq5RqP27NY.md#ent-concept-neoconservatism-t-00-41-27)**
+> "That the left is, is what the neocon class is. So I absolutely love At Wear Forbidden...."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -247,7 +273,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Neoconservatism (4)</strong></summary>
+<summary><strong class="section-title">Statements about Neoconservatism (5)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:30:01](/episodes/ep-_Sq5RqP27NY.md#t-00-29-24) (Opinion) **Candace Owens**: ["Owens said pro-Israel neoconservatives ruined the MAGA movement and th..."](/statements/statement-4e2cfc8e1e53.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>

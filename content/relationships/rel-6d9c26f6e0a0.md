@@ -11,7 +11,7 @@ object: "person-glenn-beck"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [Glenn Beck](/entities/person-glenn-beck)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
 
@@ -20,6 +20,10 @@ object: "person-glenn-beck"
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
 - [00:38:19](/episodes/ep-1hcjQGgvxUY#t-00-38-19): _as she told Glenn Beck_
+
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:28:10](/episodes/ep-5TTkMa49qj8#t-00-28-10): _So we're supposed to imagine this will update has something to do with the fact that Charlie (Charlie Kirk) thought he was going to die, and he throws it to things that they were discussing the night before. But also don't forget that Erica (Erika Kirk) is going to tell Glenn Beck in December that, you know, she has his phone and he wasn't concerned about the death threats and he was awake because he was—_
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 

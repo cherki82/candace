@@ -1,6 +1,6 @@
 ---
 title: "Jean-Michel Trogneux"
-description: "Jean-Michel Trogneux (People) - 21 mentions"
+description: "Jean-Michel Trogneux (People) - 22 mentions"
 id: "person-jean-michel-trogneux"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19">2025-10-28 · 00:56:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34">2026-04-10 · 00:10:06</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-michel-trogneux-t-00-40-06">2026-10-01 · 00:40:20</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-16" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-michel-trogneux-t-00-40-06" style="--pulse-height:10%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-16) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-michel-trogneux-t-00-40-06) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:40:20](/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-michel-trogneux-t-00-40-06)**
+> "Yeah, this is not normal at the highest level of government to be calling you about Brigitte (Brigitte Macron), Brigitte (Brigitte Macron) to be suing me over mention that the Brigitte (Brigitte Macron) birthday falls on the creation of MKUltra, Brigitte (Brigitte Macron) disappearing, Jean-Michel Trogno (Brigitte-family referent; name spelling unverified) disappearing in the United States, never to be seen again."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

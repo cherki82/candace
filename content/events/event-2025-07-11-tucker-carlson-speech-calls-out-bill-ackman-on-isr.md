@@ -12,7 +12,7 @@ date: "2025-07-11"
 
 > Tucker Carlson speech calls out Bill Ackman on Israel and citizenship
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
@@ -69,3 +69,11 @@ date: "2025-07-11"
 <a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=1827s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Tucker Carlson speaks at the Turning Point USA conference and the donors lose their mind.
+
+### 8. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:28:03](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-07-11-tucker-carlson-speech-calls-out-bill-ackman-on-isr-t-00-27-52) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1683s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Tucker Carlson calls out Jeffrey Epstein. He says that people who serve in foreign armies should be

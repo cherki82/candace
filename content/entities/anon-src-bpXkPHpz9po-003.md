@@ -1,15 +1,19 @@
 ---
 title: "Hospital account sources in episode 385 (identities unverified)"
-description: "Hospital account sources in episode 385 (identities unverified) (Anonymous Sources) - 1 mention"
+description: "Hospital account sources in episode 385 (identities unverified) (Anonymous Sources) - 2 mentions"
 id: "anon-src-bpXkPHpz9po-003"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "unnamed hospital account sources"
 ---
 
 _Type: Anonymous Sources_
 
+**Categories:** unnamed hospital account sources
+
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,7 +23,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 </details>
 

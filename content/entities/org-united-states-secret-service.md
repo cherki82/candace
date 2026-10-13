@@ -1,6 +1,6 @@
 ---
 title: "United States Secret Service"
-description: "United States Secret Service (Organizations) - 39 mentions"
+description: "United States Secret Service (Organizations) - 40 mentions"
 id: "org-united-states-secret-service"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-org-united-states-secret-service-t-00-30-43">2025-11-18 · 00:31:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-united-states-secret-service-t-00-04-51">2026-07-22 · 00:05:13</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-secret-service-t-00-11-24">2026-09-16 · 00:11:33</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -53,6 +53,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-united-states-secret-service-t-00-04-51" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-secret-service-t-00-11-24" style="--pulse-height:17%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-united-states-secret-service-t-00-04-51) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-secret-service-t-00-11-24) | 1 |
 
 </details>
 </section>
@@ -88,7 +90,15 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:11:33](/episodes/ep-aLJhpxrakCU.md#ent-org-united-states-secret-service-t-00-11-24)**
+> "...oing to need. That's what his secret service detail is for, right?"
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

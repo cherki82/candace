@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 108 mentions"
+description: "Texas (Places) - 111 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-01">2025-10-09 · 00:37:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-texas-t-00-02-03">2026-09-09 · 00:02:10</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-texas-t-00-23-57">2026-10-08 · 00:24:17</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>111</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -65,6 +65,8 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-05-23" style="--pulse-height:11%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-texas-t-00-07-33" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-texas-t-00-02-03" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-texas-t-00-15-41" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-texas-t-00-23-20" style="--pulse-height:11%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +107,8 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-05-23) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-texas-t-00-07-33) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-texas-t-00-02-03) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-texas-t-00-15-41) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-texas-t-00-23-20) | 2 |
 
 </details>
 </section>
@@ -116,7 +120,26 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (111)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:23:45](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-texas-t-00-23-20)**
+> "...gather, he appears to be from Texas, and he is working with Brian Harpole."
+
+**[00:24:17](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-texas-t-00-23-57)**
+> "...ust have grown up with him in Texas."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:15:41](/episodes/ep-ms5ChhZegRg.md#ent-gpe-texas-t-00-15-41)**
+> "...hem, four of them, type it in Texas mother, a South Carolina mom, South Carolina moth..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -646,7 +669,15 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Texas (7)</strong></summary>
+<summary><strong class="section-title">Statements about Texas (8)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:23:45](/episodes/ep-UAdBEXs7nNc.md#t-00-23-20) (Claim) **Candace Owens**: ["Owens said the driver she identified as Christopher Rhoades appeared t..."](/statements/statement-8aa918b284ce.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>

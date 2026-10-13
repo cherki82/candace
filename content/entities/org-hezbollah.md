@@ -1,6 +1,6 @@
 ---
 title: "Hezbollah"
-description: "Hezbollah (Organizations) - 9 mentions"
+description: "Hezbollah (Organizations) - 12 mentions"
 id: "org-hezbollah"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-hezbollah-t-00-08-33">2026-05-27 · 00:08:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-hezbollah-t-00-25-19">2026-06-26 · 00:25:19</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-hezbollah-t-00-38-04">2026-09-25 · 00:38:04</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-hezbollah-t-00-36-49" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-hezbollah-t-00-13-22" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 4 mentions" title="2026-06-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-hezbollah-t-00-25-19" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-hezbollah-t-00-37-08" style="--pulse-height:75%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-hezbollah-t-00-36-49) | 2 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-hezbollah-t-00-13-22) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-hezbollah-t-00-25-19) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-hezbollah-t-00-37-08) | 3 |
 
 </details>
 </section>
@@ -59,7 +61,21 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:37:08](/episodes/ep-_Sq5RqP27NY.md#ent-org-hezbollah-t-00-37-08)**
+> "fronts Hamas, Hezbollah,"
+
+**[00:37:49](/episodes/ep-_Sq5RqP27NY.md#ent-org-hezbollah-t-00-37-49)**
+> "...l hammered Hamas. We pummeled Hezbollah."
+
+**[00:38:04](/episodes/ep-_Sq5RqP27NY.md#ent-org-hezbollah-t-00-38-04)**
+> "Well, I can tell you this, Hezbollah certainly remembers them."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -111,6 +127,18 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attacked By (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Purchased From (1)</summary>
 
 - **[Mossad](/entities/org-mossad.md)**
@@ -136,7 +164,14 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Israel](/entities/gpe-israel.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
+
+</details>
 
 - **[Mossad](/entities/org-mossad.md)** sold to this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -158,7 +193,18 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hezbollah (6)</strong></summary>
+<summary><strong class="section-title">Statements about Hezbollah (8)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2)</summary>
+
+- [00:36:49](/episodes/ep-_Sq5RqP27NY.md#t-00-36-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel had fought a seven-fr..."](/statements/statement-db410504f811.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md), [Houthis](/entities/org-houthis.md)
+
+- [00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel hammered Hamas and pu..."](/statements/statement-4bb25663f99f.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>

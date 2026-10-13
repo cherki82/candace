@@ -13,7 +13,7 @@ time: "12:24"
 
 > Blake Neff calls his mother shortly after Charlie Kirk is shot; the call lasts 45 seconds.
 
-## Mentioned In (12 times)
+## Mentioned In (13 times)
 
 ### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
@@ -110,3 +110,11 @@ time: "12:24"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1852s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I around the same time I pull out my phone and I call my mom just to say, Mom, there's been a shooting. You're going to see it on the news. I'm OK. ... You know, pray for me. I've got to go. And I remember that call. And around the time I put that phone away and then he immediately calls his dad.
+
+### 13. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:04:17](/episodes/ep-UAdBEXs7nNc.md#event-event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k-t-00-04-17) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=257s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> I pull out my phone and I call my mom just to say, "Mom, there's been a shooting."

@@ -1,6 +1,6 @@
 ---
 title: "Steven Crowder"
-description: "Steven Crowder (People) - 18 mentions"
+description: "Steven Crowder (People) - 23 mentions"
 id: "person-steven-crowder"
 type: "PERSON"
 aliases:
@@ -21,12 +21,12 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16">2025-11-17 · 00:04:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-steven-crowder-t-00-00-27">2026-08-18 · 00:00:27</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-steven-crowder-t-00-22-21">2026-10-07 · 00:22:32</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -41,6 +41,8 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 8 mentions" title="2026-08-17 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-steven-crowder-t-00-00-27" style="--pulse-height:12%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-steven-crowder-t-00-32-10" style="--pulse-height:50%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-steven-crowder-t-00-22-21" style="--pulse-height:12%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +55,8 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20) | 8 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-steven-crowder-t-00-00-27) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-steven-crowder-t-00-32-10) | 4 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-steven-crowder-t-00-22-21) | 1 |
 
 </details>
 </section>
@@ -64,7 +68,32 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:22:32](/episodes/ep-yrg_-D6oNHE.md#ent-person-steven-crowder-t-00-22-21)**
+> "... for people like Ben Shapiro, Steven Crowder and many others who just know that Tyler Robinson..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[00:32:21](/episodes/ep-0pSAhaAZz1w.md#ent-person-steven-crowder-t-00-32-10)**
+> "...e influencers Ben Shapiro and Steven Crowder. Both campaigns are listed on Monster Lab with $3..."
+
+**[00:32:34](/episodes/ep-0pSAhaAZz1w.md#ent-person-steven-crowder-t-00-32-10)**
+> "And Crowder (Steven Crowder)'s campaign also links to Enclave and Key connect..."
+
+**[00:39:21](/episodes/ep-0pSAhaAZz1w.md#ent-person-steven-crowder-t-00-39-14)**
+> "...,000 a month on this website. Steven Crowder. We told you he effectively snuck in his producer..."
+
+**[00:45:16](/episodes/ep-0pSAhaAZz1w.md#ent-person-steven-crowder-t-00-45-08)**
+> "..., Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vivek Ramaswamy, President Trump (Donald J. Trum..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -188,7 +217,19 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Has Clipping Campaign Managed By (1)</summary>
+
+- **[Matt Serviuos](/entities/person-matt-serviuos.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:32:21](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10): “Serviuos (Matt Serviuos) also manages clipping campaigns for the conservative influencers Ben Shapiro and Steven Crowder. Both campaigns are listed on Monster Lab with $30,000 budgets for last month.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -204,6 +245,13 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:09:18](/episodes/ep-JQjCAsfoXEE.md#t-00-09-18): “Well, let me first be tactful here and tell you that outrageous claims—and this is an outrageous claim—require outrageous evidence. Of course, as is par for the course, none has been presented.”
+
+</details>
+
+- **[Matt Serviuos](/entities/person-matt-serviuos.md)** manages clipping campaign for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:32:21](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10): “Serviuos (Matt Serviuos) also manages clipping campaigns for the conservative influencers Ben Shapiro and Steven Crowder. Both campaigns are listed on Monster Lab with $30,000 budgets for last month.”
 
 </details>
 
@@ -228,7 +276,23 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Steven Crowder (4)</strong></summary>
+<summary><strong class="section-title">Statements about Steven Crowder (6)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:22:32](/episodes/ep-yrg_-D6oNHE.md#t-00-22-21) (Claim) **Candace Owens** (via paraphrase): ["Owens sarcastically described elephant clipping as a go-to for Ben Sha..."](/statements/statement-7125fa2da22e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:32:21](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Matt Serviuos managed Ben Shapiro and Steven Cro..."](/statements/statement-56fc16baff5b.md)
+  - Also about: [Matt Serviuos](/entities/person-matt-serviuos.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>

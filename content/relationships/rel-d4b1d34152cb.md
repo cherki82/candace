@@ -11,7 +11,7 @@ object: "person-michael-mccoy"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) has chief of staff [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo)**
 
@@ -20,6 +20,10 @@ object: "person-michael-mccoy"
 **[EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo)**
 
 - [00:03:01](/episodes/ep-Qfwr08Ebczo#t-00-03-01): _And my husband's chief of staff, the amazing Mikey McCoy_
+
+**[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
+
+- [00:05:46](/episodes/ep-UAdBEXs7nNc#t-00-05-46): _How old? Mikey (Mikey McCoy), early 20s, right? I think he did like was going to go to Liberty University and then decided to be Charlie (Charlie Kirk)'s chief of staff._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 

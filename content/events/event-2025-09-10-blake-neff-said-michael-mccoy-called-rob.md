@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
@@ -41,3 +41,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He calls Rob McCoy and he says, Dad, someone shot Charlie. You need to call all of your pastor friends. ... Charlie was hit. We need everyone to pray right now.
+
+### 4. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=277s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He calls Rob McCoy and he says, dad, someone shot Charlie.

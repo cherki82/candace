@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (33 mentions)
+### Evidence (42 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -33,6 +33,14 @@ object: "person-candace-owens"
 
 - [00:46:55](/episodes/ep-5NQyGuRYbU8#t-00-46-55): _What is wrong with Blake Neff? Why is the whole concept of asking questions just so upsetting for him?_
 
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:03:19](/episodes/ep-5TTkMa49qj8#t-00-03-19): _And Blake (Blake Neff), who thought he was just being so funny, decided to add that tweet to his bookmarks. Well, Blakey (Blake Neff), you can, you can remove that from your bookmarks. You guys are forever gaslighting me and my sources, but yes, Erica (Erika Kirk)'s profile was at long last dropped. And we should just begin with the headline photo because it is something. It is something, this photo. I don't know why she can never just be normal and do normal things._
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:00:26](/episodes/ep-6XfDqKTdFKg#t-00-00-26): _What do I have for you guys today other than this unnecessarily gay photo of Blake Neff and Jeremy Boreing, which they consciously selected. That's what makes it so funny. They consciously selected this photo to promote their upcoming sit down, which will undoubtedly be about me._
+
 **[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
 
 - [00:18:33](/episodes/ep-9hRcfSrri70#t-00-18-33): _This is a tweet, by the way, from just this morning from Blakey (Blake Neff). He's already been community noted on it for its intentional misrepresentation. He just lies and misrepresents and we're the bad guys for noticing that he's doing it. This is what the tweet read._
@@ -40,6 +48,10 @@ object: "person-candace-owens"
 **[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
 
 - [00:51:05](/episodes/ep-AoYZel7_cGQ#t-00-51-05): _when you see blake neff who is an evil man saying convict tyler robinson_
+
+**[Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0)**
+
+- [00:40:46](/episodes/ep-BvthGQw3_s0#t-00-40-46): _Like the anger of Blake (Blake Neff) calling me a liar, knowing fully well that I was telling the truth, trying to find a random loophole._
 
 **[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
 
@@ -77,6 +89,10 @@ object: "person-candace-owens"
 
 - [00:36:21](/episodes/ep-N4uM8Jdr410#t-00-36-21): _Blake Neff doesn't remember what city. At first, he says he stayed in Orem. Then he has another discussion and changes his mind and says that they stayed in Salt Lake City. Salt Lake City is the true events—true version of events. The entire Turning Point team stayed in Salt Lake City, but Blake (Blake Neff) does not remember what hotel they stayed in. It's a lot, and I want you to hear him in his own words._
 
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:52:26](/episodes/ep-NNiCZk1cuzs#t-00-52-26): _Just start your own show, Blake (Blake Neff), if you really truly believe that you've got the it factor. Sorry to laugh. I'm sure your parents told you you do. Then start your own show, Blake (Blake Neff), because I've never—you crashed Charlie (Charlie Kirk)'s. Actually, this might be your only talent,_
+
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
 - [01:01:20](/episodes/ep-OgRyiOAVtWU#t-01-01-20): _So I don't feel that way about Blake Neff. I don't feel that way about Andrew Kolvet. I hate what they are doing to Charlie (Charlie Kirk)'s legacy._
@@ -88,6 +104,10 @@ object: "person-candace-owens"
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
 - [00:55:29](/episodes/ep-SgVcnx4Oh30#t-00-55-29): _Blake (Blake Neff) let me tell you do not quit your day job man you do not have what it takes in Hollywood_
+
+**[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
+
+- [00:51:54](/episodes/ep-UAdBEXs7nNc#t-00-51-54): _He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
@@ -105,6 +125,14 @@ object: "person-candace-owens"
 
 - [00:33:17](/episodes/ep-ZzAT2xijKGQ#t-00-33-17): _He's one of my favorite characters because he always just says too much and it's never good._
 
+**[SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU)**
+
+- [00:49:21](/episodes/ep-_2DiIbfy4mU#t-00-49-21): _Blake Neff is obviously unwell. It's the nicest way that we could possibly say it. He's coming apart._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:40:27](/episodes/ep-_Sq5RqP27NY#t-00-40-27): _We unpacked the absurdity of Blake Neff's sit down interview wherein he just says all the things that everyone says all the time about this Charlie Kirk investigation, but he did a AI video which really covered the basis on what took place during that interview._
+
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 
 - [00:43:23](/episodes/ep-_cNtgris8Ik#t-00-43-23): _she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,_
@@ -112,6 +140,10 @@ object: "person-candace-owens"
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 
 - [00:40:04](/episodes/ep-a2bZf4fic10#t-00-40-04): _Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?_
+
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [01:17:50](/episodes/ep-bIuvTKlFeGo#t-01-17-50): _But your main takeaway from today's episode should be the audacity of turning point USA over this last year, the audacity of Blake Neff, the audacity of Andrew Kolvet, but most of all, the audacity of Erika (Erika Kirk), the audacity of Erika (Erika Kirk) to._
 
 **[A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8)**
 
@@ -141,6 +173,10 @@ object: "person-candace-owens"
 
 - [00:31:02](/episodes/ep-xi8SYJTUXPM#t-00-31-02): _So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory._
 - [00:31:13](/episodes/ep-xi8SYJTUXPM#t-00-31-13): _And you, my friend, do not have a good memory. But while we have your attention. Blake Neff, there was this huge claim that we made on the show about a week ago where I said that I spoke to multiple donors who tell me that the audio that you released of Charlie Kirk saying, I appoint Erika Kirk._
+
+**[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
+
+- [00:04:28](/episodes/ep-yrg_-D6oNHE#t-00-04-28): _They're just going to gaslight us. They tried to gaslight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). Why would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking that way? A lot of allegations you're throwing out. I'm back to hating white people again or something. I hate pretty women. I hate white women. He's just whatever will stick. Also, he's admitted that he's never met me, so he has no idea. idea how I treat people around me. He has no evidence of anything he's saying, given the fact that my assistant lasted six years, actually, the one that we were just trying to replace and also my other assistant lasted five years and went on to become my manager._
 
 ### Related
 

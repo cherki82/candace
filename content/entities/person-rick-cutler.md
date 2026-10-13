@@ -1,6 +1,6 @@
 ---
 title: "Rick Cutler"
-description: "Rick Cutler (People) - 38 mentions"
+description: "Rick Cutler (People) - 46 mentions"
 id: "person-rick-cutler"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rick-cutler-t-01-17-26">2026-01-09 · 01:17:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-52-19">2026-09-09 · 00:52:40</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-37-02">2026-10-08 · 00:37:02</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -42,6 +42,8 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03" style="--pulse-height:46%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 6 mentions" title="2026-08-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#t-00-08-04" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-13-45" style="--pulse-height:38%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-rick-cutler-t-00-07-43" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-29-21" style="--pulse-height:54%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 7 mentions" title="2026-10-08 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03) | 6 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-08-04) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-13-45) | 5 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-rick-cutler-t-00-07-43) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-29-21) | 7 |
 
 </details>
 </section>
@@ -69,7 +73,41 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (7 mentions)</summary>
+
+**[00:29:50](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-29-21)**
+> "...an (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are m..."
+
+**[00:30:11](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-29-57)**
+> "To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s hea..."
+
+**[00:31:00](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-30-32)**
+> "In the back, Rick (Rick Cutler) and I are praying out loud while urging Charlie ..."
+
+**[00:31:58](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-31-58)**
+> "He doesn't even say Rick Cutler is trying to stop the bleeding. But you wrote in ..."
+
+**[00:32:41](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-32-32)**
+> "...e going 60, 80, 100 and Rick (Rick Cutler) has me across the kit and my shirt so that I can..."
+
+**[00:33:06](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-33-06)**
+> "...me. I know he's got me. Rick (Rick Cutler)'s a brother. He's got the tattoo. And so I was l..."
+
+**[00:37:02](/episodes/ep-UAdBEXs7nNc.md#ent-person-rick-cutler-t-00-37-02)**
+> "Rick (Rick Cutler) and I continue to pray out loud. Now, we had sho..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:07:43](/episodes/ep-kn1E0scy9Wc.md#ent-person-rick-cutler-t-00-07-43)**
+> "Rick Cutler rescued kids from sex trafficking in South Americ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
@@ -245,12 +283,96 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Affiliated With (1)</summary>
+
+- **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:07:43](/episodes/ep-kn1E0scy9Wc.md#t-00-07-43): “Rick Cutler rescued kids from sex trafficking in South America. He did that via Operation Underground, which I said mentioned was funded by Glenn Beck.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rick Cutler (9)</strong></summary>
+<summary><strong class="section-title">Statements about Rick Cutler (16)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (6)</summary>
+
+- [00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Justin Davis drove, Dan Flood held a p..."](/statements/statement-c3759ed718ea.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:31:00](/episodes/ep-UAdBEXs7nNc.md#t-00-30-32) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said he and Rick Cutler prayed aloud and th..."](/statements/statement-c57cf5d45854.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:44](/episodes/ep-UAdBEXs7nNc.md#t-00-31-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens said someone was lying about who tried to stop Charlie Kirk's bl..."](/statements/statement-ef0b0c2554bc.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:32](/episodes/ep-UAdBEXs7nNc.md#t-00-32-32) (Claim) **Brian Harpole** (via quoted speech): ["In the Shawn Ryan clip, Harpole said Charlie Kirk's left leg prevented..."](/statements/statement-3da3ce0139a8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md), [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:33:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-06) (Claim) **Brian Harpole** (via quoted speech): ["In the Shawn Ryan clip, Harpole said he was doing medical work while F..."](/statements/statement-ab8cdb02d48d.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-29) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said all three people in the back were stil..."](/statements/statement-ad8357ad7608.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:07:43](/episodes/ep-kn1E0scy9Wc.md#t-00-07-43) (Claim) **Candace Owens**: ["Owens said Rick Cutler rescued children from sex trafficking in South ..."](/statements/statement-5c0d29cccc42.md)
+  - Also about: [Operation Underground Railroad](/entities/org-operation-underground-railroad.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

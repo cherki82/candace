@@ -1,6 +1,6 @@
 ---
 title: "Spain"
-description: "Spain (Places) - 30 mentions"
+description: "Spain (Places) - 32 mentions"
 id: "gpe-spain"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-spain-t-00-24-35">2025-10-02 · 00:24:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-spain-t-00-21-38">2026-09-10 · 00:22:00</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-spain-t-01-06-30">2026-10-06 · 01:06:30</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,6 +50,7 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-spain-t-00-27-53" style="--pulse-height:25%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-spain-t-00-34-21" style="--pulse-height:25%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-spain-t-00-21-38" style="--pulse-height:50%" aria-label="One Year On… To My Friend Charlie Kirk.: 2 mentions" title="2026-09-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-spain-t-00-05-34" style="--pulse-height:50%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +76,7 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-spain-t-00-27-53) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-spain-t-00-34-21) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-spain-t-00-21-38) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-spain-t-00-05-34) | 2 |
 
 </details>
 </section>
@@ -82,7 +84,18 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:05:35](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-spain-t-00-05-34)**
+> ".... You remember. I was away in Spain."
+
+**[01:06:30](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-spain-t-01-06-30)**
+> "... know why, but when I went to Spain, I felt ready. And I saw how evil they were and t..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (2 mentions)</summary>

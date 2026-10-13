@@ -16,6 +16,8 @@ _Type: Places_
 
 **Categories:** city, Texas
 
+> **Possibly overlapping entity records:** [Converse (footwear brand)](/entities/org-converse). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official city website confirms the canonical place name.
 Source: [City of Converse](https://www.conversetx.net/)

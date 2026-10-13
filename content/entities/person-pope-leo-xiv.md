@@ -1,6 +1,6 @@
 ---
 title: "Pope Leo XIV"
-description: "Pope Leo XIV (People) - 11 mentions"
+description: "Pope Leo XIV (People) - 13 mentions"
 id: "person-pope-leo-xiv"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26">2026-04-13 · 00:00:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-pope-leo-xiv-t-00-49-30">2026-09-03 · 00:50:07</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-pope-leo-xiv-t-00-37-33">2026-09-16 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-pope-leo-xiv-t-01-14-48" style="--pulse-height:17%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-pope-leo-xiv-t-01-43-58" style="--pulse-height:17%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-pope-leo-xiv-t-00-49-30" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-pope-leo-xiv-t-00-37-33" style="--pulse-height:33%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 2 mentions" title="2026-09-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-pope-leo-xiv-t-01-14-48) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-pope-leo-xiv-t-01-43-58) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-pope-leo-xiv-t-00-49-30) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-pope-leo-xiv-t-00-37-33) | 2 |
 
 </details>
 </section>
@@ -58,7 +60,18 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2 mentions)</summary>
+
+**[00:37:53](/episodes/ep-aLJhpxrakCU.md#ent-person-pope-leo-xiv-t-00-37-33)**
+> "... whole church. Even Pope Leo (Pope Leo XIV) himself has nervously refused to comment on it w..."
+
+**[00:38:00](/episodes/ep-aLJhpxrakCU.md#ent-person-pope-leo-xiv-t-00-37-33)**
+> "Pope Leo (Pope Leo XIV) himself has nervously refused to comment on it w..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
@@ -208,7 +221,15 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pope Leo XIV (4)</strong></summary>
+<summary><strong class="section-title">Statements about Pope Leo XIV (5)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:37:53](/episodes/ep-aLJhpxrakCU.md#t-00-37-33) (Claim) **Candace Owens**: ["In the sponsor read, Owens said Pope Leo XIV refused to comment on the..."](/statements/statement-f82d8c1d9286.md)
+  - Also about: [Holy See](/entities/org-holy-see.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>

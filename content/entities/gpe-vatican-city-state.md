@@ -1,6 +1,6 @@
 ---
 title: "Vatican City State"
-description: "Vatican City State (Places) - 1 mention"
+description: "Vatican City State (Places) - 2 mentions"
 id: "gpe-vatican-city-state"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Origins and Characteristics | Vatican City State](https://www.vaticanst
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-vatican-city-state-t-00-34-36">2026-03-17 · 00:34:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-vatican-city-state-t-00-34-36">2026-03-17 · 00:34:45</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#t-00-20-05">2026-10-06 · 00:20:15</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Origins and Characteristics | Vatican City State](https://www.vaticanst
 <p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-vatican-city-state-t-00-34-36">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-vatican-city-state-t-00-34-36" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#t-00-20-05" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-vatican-city-state-t-00-34-36) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-00-20-05) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Origins and Characteristics | Vatican City State](https://www.vaticanst
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:20:15](/episodes/ep-0pSAhaAZz1w.md#t-00-20-05)**
+> "He was an alcoholic gay man. We were living in a separate house that I was hosting podcast influencer summits at the Vatican funded by Russians."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>

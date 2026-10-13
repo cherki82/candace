@@ -1,6 +1,6 @@
 ---
 title: "Phillip Goldsberry Jr."
-description: "Phillip Goldsberry Jr. (People) - 8 mentions"
+description: "Phillip Goldsberry Jr. (People) - 11 mentions"
 id: "person-phillip-goldsberry-jr"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [About — Phillip Goldsberry Jr.](https://phillipgoldsberry.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-14-41">2026-06-17 · 00:15:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-13-03">2026-08-21 · 00:13:42</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-phillip-goldsberry-jr-t-00-07-43">2026-09-15 · 00:08:15</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [About — Phillip Goldsberry Jr.](https://phillipgoldsberry.com/about)
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-14-41" style="--pulse-height:17%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-16-18" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-02-00" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 6 mentions" title="2026-08-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-phillip-goldsberry-jr-t-00-07-43" style="--pulse-height:50%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [About — Phillip Goldsberry Jr.](https://phillipgoldsberry.com/about)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-14-41) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-16-18) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-02-00) | 6 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-phillip-goldsberry-jr-t-00-07-43) | 3 |
 
 </details>
 </section>
@@ -59,7 +61,21 @@ Source: [About — Phillip Goldsberry Jr.](https://phillipgoldsberry.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:07:52](/episodes/ep-kn1E0scy9Wc.md#ent-person-phillip-goldsberry-jr-t-00-07-43)**
+> "Phil Goldsberry, you know, it is his son that miked Charlie (Charlie Kirk), we told you about him co-founding Sofer Global Ministries (organization name spelling unverified), a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine."
+
+**[00:08:15](/episodes/ep-kn1E0scy9Wc.md#ent-person-phillip-goldsberry-jr-t-00-07-43)**
+> "We oh, it's junior. That's right. They're both Philip Goldsberry. Pardon me. We're going to talk about Officer Christopher Bagley."
+
+**[00:08:08](/episodes/ep-kn1E0scy9Wc.md#ent-person-phillip-goldsberry-jr-t-00-07-43)**
+> "OK, sorry, I don't know if Philip (Phillip Goldsberry Jr.; host explicitly expresses uncertainty between father and son) is the son. I think Philip (Phillip Goldsberry Jr.; host explicitly expresses uncertainty between father and son) is actually the son. It should be the father."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (6 mentions)</summary>
@@ -109,9 +125,10 @@ Source: [About — Phillip Goldsberry Jr.](https://phillipgoldsberry.com/about)
 <summary>Child Of (1)</summary>
 
 - **[Phil Goldsberry](/entities/person-phil-goldsberry.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:17:42](/episodes/ep-G3zdOeHpvS0.md#t-00-17-14): “Also, his name is Dr. Philip Goldsberry. So they have obviously the same name. That's his dad right there.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:07:52](/episodes/ep-kn1E0scy9Wc.md#t-00-07-43): “Phil Goldsberry, you know, it is his son that miked Charlie (Charlie Kirk), we told you about him co-founding Sofer Global Ministries (organization name spelling unverified), a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine. OK, sorry, I don't know if Philip (Phillip Goldsberry Jr.; host explicitly expresses uncertainty between father and son) is the son. I think Philip (Phillip Goldsberry Jr.; host explicitly expresses uncertainty between father and son) is actually the son. It should be the father. We oh, it's junior. That's right. They're both Philip Goldsberry. Pardon me. We're going to talk about Officer Christopher Bagley.”
 
 </details>
 
@@ -152,9 +169,10 @@ Source: [About — Phillip Goldsberry Jr.](https://phillipgoldsberry.com/about)
 </details>
 
 - **[Phil Goldsberry](/entities/person-phil-goldsberry.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:17:42](/episodes/ep-G3zdOeHpvS0.md#t-00-17-14): “Also, his name is Dr. Philip Goldsberry. So they have obviously the same name. That's his dad right there.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:07:52](/episodes/ep-kn1E0scy9Wc.md#t-00-07-43): “Phil Goldsberry, you know, it is his son that miked Charlie (Charlie Kirk), we told you about him co-founding Sofer Global Ministries (organization name spelling unverified), a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine. OK, sorry, I don't know if Philip (Phillip Goldsberry Jr.; host explicitly expresses uncertainty between father and son) is the son. I think Philip (Phillip Goldsberry Jr.; host explicitly expresses uncertainty between father and son) is actually the son. It should be the father. We oh, it's junior. That's right. They're both Philip Goldsberry. Pardon me. We're going to talk about Officer Christopher Bagley.”
 
 </details>
 
@@ -163,7 +181,15 @@ Source: [About — Phillip Goldsberry Jr.](https://phillipgoldsberry.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Phillip Goldsberry Jr. (3)</strong></summary>
+<summary><strong class="section-title">Statements about Phillip Goldsberry Jr. (4)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:07:52](/episodes/ep-kn1E0scy9Wc.md#t-00-07-43) (Claim) **Candace Owens**: ["Owens linked Phil Goldsberry to co-founding Sofer Global Ministries, d..."](/statements/statement-7451fe242c50.md)
+  - Also about: [Phil Goldsberry](/entities/person-phil-goldsberry.md), [Soter Global Ministries](/entities/org-soter-global-ministries.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

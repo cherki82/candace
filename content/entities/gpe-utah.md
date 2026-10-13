@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 416 mentions"
+description: "Utah (Places) - 448 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [State of Utah official website](https://utah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-utah-t-00-31-37">2026-09-09 · 00:31:44</a></strong></div>
-<div><span>Episodes</span><strong>95</strong></div>
-<div><span>Mentions</span><strong>416</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-36-17">2026-10-08 · 00:36:53</a></strong></div>
+<div><span>Episodes</span><strong>102</strong></div>
+<div><span>Mentions</span><strong>448</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -130,6 +130,13 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-utah-t-00-35-30" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-utah-t-00-36-15" style="--pulse-height:18%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-utah-t-00-31-37" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-utah-t-00-08-24" style="--pulse-height:29%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 5 mentions" title="2026-09-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-00-28" style="--pulse-height:82%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 14 mentions" title="2026-09-16 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-utah-t-00-03-14" style="--pulse-height:24%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 4 mentions" title="2026-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-utah-t-00-03-33" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-utah-t-00-07-59" style="--pulse-height:18%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-utah-t-00-07-12" style="--pulse-height:18%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-17-49" style="--pulse-height:12%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -230,6 +237,13 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-utah-t-00-35-30) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-utah-t-00-36-15) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-utah-t-00-31-37) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-utah-t-00-08-24) | 5 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-00-28) | 14 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-utah-t-00-03-14) | 4 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-gpe-utah-t-00-03-33) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-utah-t-00-07-59) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-utah-t-00-07-12) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-17-49) | 2 |
 
 </details>
 </section>
@@ -241,7 +255,138 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (416)</strong></summary>
+<summary><strong class="section-title">Raw mentions (448)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:17:49](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-17-49)**
+> "...Fox 5 Atlanta newsroom out of Utah where we're continuing to follow developments sur..."
+
+**[00:36:53](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-36-17)**
+> "...nnsylvania tragically came to Utah that day."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:07:38](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-utah-t-00-07-12)**
+> "...y. I was expressing that even Utah, doing back-to-back Utah stops separated by 10 da..."
+
+**[00:07:51](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-utah-t-00-07-51)**
+> "... want to travel to and fro to Utah if you could do them back-to-back, especially bec..."
+
+**[00:54:00](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-utah-t-00-54-00)**
+> "...k that the county attorney in Utah will pursue the death penalty against the suspect..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[00:07:59](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-utah-t-00-07-59)**
+> "Lastly, they tell us that a Utah risk management official had communications with ..."
+
+**[00:28:36](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-utah-t-00-28-24)**
+> "...Long (Jeff Long) contacts the Utah SIAC regarding an anonymous threat."
+
+**[00:40:31](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-utah-t-00-40-05)**
+> "... request information from the Utah SIAC."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:04:02](/episodes/ep-BvthGQw3_s0.md#ent-gpe-utah-t-00-03-33)**
+> "...on drives within the state of Utah."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (4 mentions)</summary>
+
+**[00:03:14](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-utah-t-00-03-14)**
+> "...time Charlie Kirk had been to Utah was in April of 2024, and he was at the Universit..."
+
+**[00:56:06](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-utah-t-00-55-45)**
+> "...ere so failed by the state of Utah, why would you let allow any anniversary event to..."
+
+**[00:56:56](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-utah-t-00-56-23)**
+> "That's correct. Remember, Utah news broke that they tried to GRAMA-request"
+
+**[00:58:15](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-utah-t-00-57-53)**
+> "...ever Brian Cole is from or in Utah, as we demonstrated."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (14 mentions)</summary>
+
+**[00:00:28](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-00-28)**
+> "... to file against the state of Utah, among others, and they have their typical orbit ..."
+
+**[00:01:58](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-01-51)**
+> "...of claim against the state of Utah, also Utah Valley University Police Department, a..."
+
+**[00:03:07](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-03-07)**
+> "... lawsuit against the state of Utah."
+
+**[00:05:35](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-05-06)**
+> "... practices for UVU and all of Utah higher education, end quote."
+
+**[00:34:19](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-33-44)**
+> "...al wrongful death claim under Utah law. Thank you for receiving the above notice of ..."
+
+**[00:36:50](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-36-14)**
+> "I mean, Utah is not. To me, it seems a little corrupt. The sta..."
+
+**[00:40:58](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-40-35)**
+> "...ertainly would be if I was in Utah and I was taxpayer frustrated by the idea that Tu..."
+
+**[00:45:04](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-45-04)**
+> "In Utah, I looked up the law that body cam duration for r..."
+
+**[00:47:45](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-47-36)**
+> "Who in Utah was like, I happen to have this footage from 2022..."
+
+**[00:50:40](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-50-14)**
+> "The fender bender in Utah sporting sunglasses and a hat that are eerily sim..."
+
+**[00:51:18](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-50-51)**
+> "...after 60 days in the state of Utah, which no one should have requested because no on..."
+
+**[00:58:06](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-00-58-06)**
+> "...he attorney general rather of Utah."
+
+**[01:01:44](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-01-01-36)**
+> "...t is deep. We are the people. Utah has everything that you need to know about."
+
+**[01:02:18](/episodes/ep-aLJhpxrakCU.md#ent-gpe-utah-t-01-02-18)**
+> "...nic abuse claims full stop in Utah outside of David O."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (5 mentions)</summary>
+
+**[00:08:24](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-utah-t-00-08-24)**
+> "...ling the Charlie Kirk case in Utah."
+
+**[00:15:32](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-utah-t-00-15-32)**
+> "...r, it's announced around 2.45 Utah local time that Charlie (Charlie Kirk) has passed..."
+
+**[00:22:03](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-utah-t-00-21-40)**
+> "... attorney general's office of Utah, the same attorney general's office that then bro..."
+
+**[00:25:12](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-utah-t-00-25-12)**
+> "...2022, the attorney general of Utah was a man named David O."
+
+**[00:28:37](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-utah-t-00-28-37)**
+> "...here's a lot going on here in Utah that makes me very uncomfortable, and I wanted to..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -1966,6 +2111,18 @@ Source: [State of Utah official website](https://utah.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:36:50](/episodes/ep-aLJhpxrakCU.md#t-00-36-14): “I mean, Utah is not. To me, it seems a little corrupt. The state seems a little corrupt.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Former Residence Of (1)</summary>
 
 - **[Senator Mike Lee](/entities/person-senator-mike-lee.md)**
@@ -2061,12 +2218,19 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Jennica Pounds](/entities/person-jennica-pounds.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:36:13](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01): “That's what Jennica Pounds did. Jennica Pounds is based in Utah. Where was Jennica Pounds on September 10th?”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:36:50](/episodes/ep-aLJhpxrakCU.md#t-00-36-14): “I mean, Utah is not. To me, it seems a little corrupt. The state seems a little corrupt.”
 
 </details>
 
@@ -2133,7 +2297,31 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (28)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (35)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (7)</summary>
+
+- [00:01:58](/episodes/ep-aLJhpxrakCU.md#t-00-01-51) (Claim) **Candace Owens**: ["Owens said Charlie Kirk’s family filed a notice of claim against Utah,..."](/statements/statement-e1d3d3328090.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md), [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:02:29](/episodes/ep-aLJhpxrakCU.md#t-00-02-29) (Citation) **Candace Owens**: ["Owens said a notice of claim is a mandatory prerequisite to this kind ..."](/statements/statement-7bd4fd5b99fe.md)
+
+- [00:03:07](/episodes/ep-aLJhpxrakCU.md#t-00-03-07) (Claim) **Candace Owens** (via paraphrase): ["Owens said she had known since approximately last December that Charli..."](/statements/statement-801a1f0b8f36.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:05:35](/episodes/ep-aLJhpxrakCU.md#t-00-05-06) (Promise) **Astrid Tuminez** (via quoted article): ["Astrid Tuminez said UVU would integrate the review findings into effor..."](/statements/statement-0204080b1af9.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:36:44](/episodes/ep-aLJhpxrakCU.md#t-00-36-14) (Prediction) **Candace Owens**: ["Owens thought it possible that the claimants would score a big payday ..."](/statements/statement-30c18e468dc2.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:45:04](/episodes/ep-aLJhpxrakCU.md#t-00-45-04) (Citation) **Candace Owens**: ["Owens said she looked up Utah’s law and that routine bodycam footage w..."](/statements/statement-0fa8df294ade.md)
+
+- [01:02:18](/episodes/ep-aLJhpxrakCU.md#t-01-02-18) (Opinion) **Candace Owens**: ["Owens said Utah had a history of satanic-abuse allegations outside Dav..."](/statements/statement-0374ebeac5cb.md)
+  - Also about: [David O. Leavitt](/entities/person-david-o-leavitt.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

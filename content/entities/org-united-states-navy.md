@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 35 mentions"
+description: "United States Navy (Organizations) - 39 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-02-03">2026-09-09 · 00:02:03</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#t-00-37-19">2026-10-05 · 00:37:38</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -60,6 +60,8 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <a href="/episodes/ep-N4uM8Jdr410.md#t-00-02-41" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 4 mentions" title="2026-07-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#t-00-01-19" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#t-00-07-34" style="--pulse-height:75%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 3 mentions" title="2026-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-37-19" style="--pulse-height:25%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +91,8 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#t-00-02-41) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30) | 4 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-01-19) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#t-00-07-34) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) | 1 |
 
 </details>
 </section>
@@ -100,7 +104,29 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19)**
+> "...just a guy here. I was in the Navy, but I'm no security expert.' And coming into thi..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (3 mentions)</summary>
+
+**[00:07:34](/episodes/ep-aLJhpxrakCU.md#t-00-07-34)**
+> "...ghly trained military, former Navy SEALs, former Marines, Army snipers, SWAT."
+
+**[00:08:31](/episodes/ep-aLJhpxrakCU.md#t-00-08-09)**
+> "I mean, 22 years is a Navy SEAL."
+
+**[00:34:45](/episodes/ep-aLJhpxrakCU.md#t-00-34-28)**
+> "... military-trained snipers and Navy SEALs, but we are really shocked."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -355,11 +381,12 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <summary>Formerly Employed (10)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19): “Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?”
 
 </details>
 
@@ -456,11 +483,12 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <summary>Referenced By (15)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19): “Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?”
 
 </details>
 
@@ -568,7 +596,23 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Navy (8)</strong></summary>
+<summary><strong class="section-title">Statements about United States Navy (10)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) (Claim) **Frank Turek** (via quoted speech): ["In the clip, Frank Turek said he had served in the Navy but was no sec..."](/statements/statement-70210b6bbf55.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:08:19](/episodes/ep-aLJhpxrakCU.md#t-00-08-09) (Claim) **Shawn Ryan** (via quoted speech): ["In the Shawn Ryan interview clip, Ryan described Harpole’s team as inc..."](/statements/statement-0c85c8676103.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [SWAT](/entities/concept-swat.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

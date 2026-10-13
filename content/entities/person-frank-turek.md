@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 320 mentions"
+description: "Frank Turek (People) - 366 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,28 +23,28 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-45-37">2026-09-09 · 00:46:00</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>320</strong></div>
-<div><span>Statements by</span><strong>38</strong></div>
-<div><span>Statements about</span><strong>65</strong></div>
-<div><span>Relationships</span><strong>50</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-50-38">2026-10-08 · 00:50:38</a></strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>366</strong></div>
+<div><span>Statements by</span><strong>57</strong></div>
+<div><span>Statements about</span><strong>96</strong></div>
+<div><span>Relationships</span><strong>74</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01">EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385</a> (34 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01">EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385</a> (32 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-frank-turek-t-01-02-32" style="--pulse-height:9%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-56-33" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43" style="--pulse-height:18%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43" style="--pulse-height:19%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#t-00-43-24" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-24" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39" style="--pulse-height:18%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39" style="--pulse-height:19%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-frank-turek-t-00-32-55" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23" style="--pulse-height:21%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23" style="--pulse-height:22%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-02" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
@@ -56,14 +56,14 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-01-01-26" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:26%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:28%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-frank-turek-t-00-02-11" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-frank-turek-t-00-21-03" style="--pulse-height:9%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-frank-turek-t-00-34-37" style="--pulse-height:32%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-frank-turek-t-00-34-37" style="--pulse-height:34%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-frank-turek-t-00-35-54" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:44%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 15 mentions" title="2026-03-25 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:47%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 15 mentions" title="2026-03-25 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:12%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
@@ -71,30 +71,39 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-frank-turek-t-00-08-44" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-frank-turek-t-00-46-41" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-frank-turek-t-00-06-46" style="--pulse-height:12%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-frank-turek-t-00-25-56" style="--pulse-height:26%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 9 mentions" title="2026-06-16 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-frank-turek-t-00-15-25" style="--pulse-height:21%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 7 mentions" title="2026-06-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-frank-turek-t-00-25-56" style="--pulse-height:28%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 9 mentions" title="2026-06-16 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-frank-turek-t-00-15-25" style="--pulse-height:22%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 7 mentions" title="2026-06-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-frank-turek-t-00-03-37" style="--pulse-height:12%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-frank-turek-t-00-01-22" style="--pulse-height:74%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 25 mentions" title="2026-06-24 · 25 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36" style="--pulse-height:15%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20" style="--pulse-height:44%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 15 mentions" title="2026-06-26 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12" style="--pulse-height:21%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22" style="--pulse-height:21%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22" style="--pulse-height:18%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59" style="--pulse-height:53%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 18 mentions" title="2026-07-16 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:32%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-frank-turek-t-00-01-22" style="--pulse-height:78%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 25 mentions" title="2026-06-24 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36" style="--pulse-height:16%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20" style="--pulse-height:47%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 15 mentions" title="2026-06-26 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12" style="--pulse-height:22%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22" style="--pulse-height:22%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22" style="--pulse-height:19%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59" style="--pulse-height:56%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 18 mentions" title="2026-07-16 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:34%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-frank-turek-t-00-02-20" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-frank-turek-t-00-15-57" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-frank-turek-t-00-34-53" style="--pulse-height:9%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 3 mentions" title="2026-07-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-frank-turek-t-00-14-28" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-frank-turek-t-00-05-49" style="--pulse-height:21%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 7 mentions" title="2026-08-03 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:24%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 8 mentions" title="2026-08-04 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-frank-turek-t-00-05-49" style="--pulse-height:22%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 7 mentions" title="2026-08-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:25%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 8 mentions" title="2026-08-04 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-frank-turek-t-00-43-45" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58" style="--pulse-height:24%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-frank-turek-t-00-54-13" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44" style="--pulse-height:32%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 11 mentions" title="2026-09-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44" style="--pulse-height:34%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 11 mentions" title="2026-09-03 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-frank-turek-t-00-52-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 34 mentions" title="2026-09-09 · 34 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 32 mentions" title="2026-09-09 · 32 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-02-07" style="--pulse-height:53%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 17 mentions" title="2026-09-14 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-frank-turek-t-00-35-09" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-frank-turek-t-00-32-15" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-frank-turek-t-00-03-21" style="--pulse-height:9%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-frank-turek-t-01-03-19" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-frank-turek-t-00-23-49" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-22-11" style="--pulse-height:22%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 7 mentions" title="2026-10-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54" style="--pulse-height:9%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27" style="--pulse-height:44%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 14 mentions" title="2026-10-08 · 14 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -158,7 +167,16 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-frank-turek-t-00-54-13) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44) | 11 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-frank-turek-t-00-52-52) | 2 |
-| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01) | 34 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01) | 32 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-02-07) | 17 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-frank-turek-t-00-35-09) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-frank-turek-t-00-32-15) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-frank-turek-t-00-03-21) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-frank-turek-t-01-03-19) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-frank-turek-t-00-23-49) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-22-11) | 7 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27) | 14 |
 
 </details>
 </section>
@@ -170,16 +188,205 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (320)</strong></summary>
+<summary><strong class="section-title">Raw mentions (366)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (34 mentions)</summary>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (14 mentions)</summary>
+
+**[00:01:00](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27)**
+> "...tember 10th. And according to Frank Turek's recently dropped book, did you know that he dropp..."
+
+**[00:25:03](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-24-40)**
+> "...ht back after a break because Frank Turek has dropped a book that we need to go over becaus..."
+
+**[00:28:20](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-28-05)**
+> "...h ago on September 8th, 2026, Frank Turek published a book appropriately entitled The War o..."
+
+**[00:28:54](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-28-42)**
+> "...u are the appropriate author, Frank Turek, because I think you are engaged in that war."
+
+**[00:31:15](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-31-15)**
+> "...problematic statement, Frank (Frank Turek)."
+
+**[00:33:06](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-33-06)**
+> "...t working medical, and Frank (Frank Turek)'s praying out loud. Rick (Rick Cutler)'s praying..."
+
+**[00:34:12](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-34-12)**
+> "... the bleeding and then Frank (Frank Turek) switches to CPR."
+
+**[00:37:41](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-37-41)**
+> ".... But, of course, with Frank (Frank Turek), the details change. It gets hazy."
+
+**[00:38:47](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-38-22)**
+> "... one to call her." Uh, Frank (Frank Turek) is not clear here as to whether or not, uh, Mike..."
+
+**[00:39:41](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-39-41)**
+> "...two of them, I believe Frank (Frank Turek) on this. I think the surgeon was the one that's ..."
+
+**[00:39:54](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-39-41)**
+> "...ery uncomfortable that Frank (Frank Turek) just cannot remember what happened on the way to..."
+
+**[00:40:46](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-40-22)**
+> "... because don't forget, Frank (Frank Turek) then tells a story that he's the one who told th..."
+
+**[00:41:11](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-41-07)**
+> "Not when Frank (Frank Turek) went back to the car to grab his backpack and th..."
+
+**[00:50:38](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-50-38)**
+> "...ate title. I just don't think Frank Turek should be the author of that because they have be..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:31:22](/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54)**
+> "...t a text message in his hand. Frank Turek apparently got the text message he said while he ..."
+
+**[00:31:27](/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54)**
+> "... a couple of days after. It's Frank Turek. He has amnesia. This is the things that he does."
+
+**[00:48:49](/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-48-15)**
+> "Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? W..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (7 mentions)</summary>
+
+**[00:22:22](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-22-11)**
+> "...ble contention. First, we had Frank Turek who said he did CPR. He administered it from the ..."
+
+**[00:23:06](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-22-52)**
+> "... We are to assume that Frank (Frank Turek) was facetiming Jack Hibbs on the basis of a stor..."
+
+**[00:23:24](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-23-24)**
+> "...ian (Brian Harpole) or Frank (Frank Turek)'s extraordinary recounting of what happened on t..."
+
+**[00:29:55](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-29-55)**
+> "... CPR and then gave amnesia to Frank Turek and Brian Harpole about this act."
+
+**[00:34:54](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-34-54)**
+> "...numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript..."
+
+**[00:35:50](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-35-22)**
+> "Anyway, take a listen to Frank Turek recounting his interaction with Jeff Long."
+
+**[00:38:02](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-38-02)**
+> "With Frank Turek, it's just amazing to me. I don't know how people..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:23:55](/episodes/ep-q4m-kGzvwjw.md#ent-person-frank-turek-t-00-23-49)**
+> "...raska-Lincoln. February 12th, Frank Turek speaks at the University of Nebraska-Lincoln."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[01:03:41](/episodes/ep-5TTkMa49qj8.md#ent-person-frank-turek-t-01-03-19)**
+> "...tor. Hopefully that pastor is Frank Turek. And he will get you sorted."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[00:03:21](/episodes/ep-bIuvTKlFeGo.md#ent-person-frank-turek-t-00-03-21)**
+> "...erybody get together. Where's Frank Turek? Where's Frank and Bank Turek? We're going to yan..."
+
+**[00:58:55](/episodes/ep-bIuvTKlFeGo.md#ent-person-frank-turek-t-00-58-44)**
+> "...Epstein) stuff. On July 11th, Frank Turek deletes his website, frankturek.com. The website ..."
+
+**[01:08:52](/episodes/ep-bIuvTKlFeGo.md#ent-person-frank-turek-t-01-08-26)**
+> "...t like the way this feels and Frank Turek said, I don't like the way this feels, they still..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:32:26](/episodes/ep-_2DiIbfy4mU.md#ent-person-frank-turek-t-00-32-15)**
+> "Frank Turek was the one that told us initially that Charlie (..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:35:09](/episodes/ep-6XfDqKTdFKg.md#ent-person-frank-turek-t-00-35-09)**
+> "...key McCoy (Michael McCoy) is, Frank Turek is, and how the official story is exactly as they..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (17 mentions)</summary>
+
+**[00:02:24](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-02-07)**
+> "...ries that have been shared by Frank Turek."
+
+**[00:05:12](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-04-38)**
+> "On the ground, as Frank Turek was back of the car, the feds took care of their ..."
+
+**[00:05:18](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-05-18)**
+> "...g of that interesting theory, Frank Turek, of course, would be an individual that I'm dying..."
+
+**[00:05:39](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-05-18)**
+> "...ower questions. And we'd like Frank Turek to, well, for one, address the condition of the c..."
+
+**[00:08:37](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-08-21)**
+> "So naturally, he hosted Frank Turek on his show and he keeps trying to like insert hi..."
+
+**[00:08:44](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-08-21)**
+> "...h Turning Point USA Faith and Frank Turek was on the show and addresses this rather major d..."
+
+**[00:09:05](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-09-05)**
+> "And what does Frank Turek want us to know about the discrepancy? Well, that..."
+
+**[00:09:10](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-09-05)**
+> "...tually going to show you what Frank Turek said, but I'm going to present it within the cont..."
+
+**[00:09:21](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-09-05)**
+> "... he's basically responding to Frank Turek on behalf of all of us because it's what you're t..."
+
+**[00:09:35](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-09-05)**
+> "...e we go. Take it away, Frank (Frank Turek) and Bobby (Bobby Sausalito) on behalf of the wor..."
+
+**[00:09:47](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-09-47)**
+> "Frank (Frank Turek), what are you doing, buddy? This interview is cr..."
+
+**[00:10:20](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-10-20)**
+> "... it does. And it does, Frank (Frank Turek). They're just saying who's lying about it and wh..."
+
+**[00:10:59](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-10-37)**
+> "...cause someone's lying, Frank (Frank Turek). Don't you see? You can't both. Both be telling ..."
+
+**[00:11:05](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-11-05)**
+> "...her than to say, well, Frank (Frank Turek)'s lying or Brian (Brian Harpole)'s lying."
+
+**[00:13:20](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-12-42)**
+> "...d I just don't understand why Frank Turek thinks that he can just keep coming up with all o..."
+
+**[00:25:22](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-25-07)**
+> "...ere turned, and that includes Frank Turek because I don't necessarily buy his story on the ..."
+
+**[00:33:09](/episodes/ep-O4Zw3bCALjU.md#ent-person-frank-turek-t-00-32-58)**
+> "There are the ones like Frank Turek who is now saying, oh yeah, that's right. We're t..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (32 mentions)</summary>
 
 **[00:00:14](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01)**
 > "...y from giving birth, Frankie (Frank Turek). Where are your manners?"
 
 **[00:05:24](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-05-24)**
-> "And on that topic, Pastor Frank Turek, he most certainly was not on my radar. Go back. ..."
+> "And on that topic, Pastor Frank Turek, he most certainly was not on my radar. Go back. Check the tapes. He wasn't on my radar at all. At the beginning of this journey, you will recall that I said repeatedly that he appeared to be the only person that reacted normally in those immediate moments following the explosive going off. He ducked down."
 
 **[00:05:46](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-05-24)**
 > "...a, et cetera. But then Frank (Frank Turek) just kept talking."
@@ -194,7 +401,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > "What is Frank (Frank Turek) hiding?"
 
 **[00:07:06](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
-> "Like Frank (Frank Turek) wants us to believe that he was with Charlie (Ch..."
+> "Like Frank (Frank Turek) wants us to believe that he was with Charlie (Charlie Kirk) in Arizona. He was in the 48 hours leading up to his death."
 
 **[00:07:25](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
 > "Frank (Frank Turek) would then join Charlie (Charlie Kirk) the next ..."
@@ -270,12 +477,6 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 **[00:46:00](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-45-37)**
 > "Megyn Kelly has Frank Turek on her show today. Thoughts? He was Charlie (Char..."
-
-**[00:07:06](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
-> "Like Frank (Frank Turek) wants us to believe that he was with Charlie (Charlie Kirk) in Arizona. He was in the 48 hours leading up to his death."
-
-**[00:05:24](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-05-24)**
-> "And on that topic, Pastor Frank Turek, he most certainly was not on my radar. Go back. Check the tapes. He wasn't on my radar at all. At the beginning of this journey, you will recall that I said repeatedly that he appeared to be the only person that reacted normally in those immediate moments following the explosive going off. He ducked down."
 
 </details>
 
@@ -1424,7 +1625,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (7)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1450,10 +1651,38 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Justin Davis](/entities/person-justin-davis.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Dan Flood](/entities/person-dan-flood.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Rick Cutler](/entities/person-rick-cutler.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Authored (1)</summary>
+<summary>Authored (2)</summary>
 
 - **[Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1462,10 +1691,17 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[The War on Reality](/entities/work-the-war-on-reality.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:28:20](/episodes/ep-UAdBEXs7nNc.md#t-00-28-05): “Okay, I don't know how I missed this, but exactly one month ago on September 8th, 2026, Frank Turek published a book appropriately entitled The War on Reality.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
@@ -1481,13 +1717,20 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:36:11](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “And my security team packing up the computer, the final things before we had to go. And Jeff Long, who was the head of the police there at UVU, the chief of police, he comes up to me, comes up kind of from behind me, and he sticks his hand out to shake my hand. He goes, 'Hi, I'm Jeff Long. I'm the, uh, chief of police here at UVU. I take a bullet for Charlie (Charlie Kirk). I take a bullet for you. I kind of think I got thrown under the bus today.' ... I said, are you telling me when you said you had the roofs that you didn't think you had to have the roofs out there? ... Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1506,6 +1749,17 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
 - [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:12:43](/episodes/ep-bpXkPHpz9po.md#t-00-12-25): “If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:13:20](/episodes/ep-O4Zw3bCALjU.md#t-00-12-42): “And I just don't understand why Frank Turek thinks that he can just keep coming up with all of these euphemisms for lie. Thus far, he's presented to the public it was just a discrepancy. It's an incongruity. It's an irrelevant detail. It's an irrelevant consequence. But it feels very relevant, actually. It's definitely relevant for me. I mean, I got Brian Harpole suing me on the basis of saying that he was just did all this upstanding care.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02): “With Frank Turek, it's just amazing to me. I don't know how people can look at this person and think that after everything that we have seen, all of the stories running into one another, that he is A, honest, or that he is at all actually a pastor, that he cares about the truth. ... Whatsoever. How can you look at that man, think that he can't even tell the truth? As he gets to, he's like, 'We got to the hospital, and Dan Flood showed me the messages.' He's like, 'Actually, it was a couple days after that.' What? Like, what? How can you be so convinced of memory and so strong and then, like, quietly whisper in your breath, 'But actually, that's not the right memory. Let's just move on from that.' And after this report came out, how, how do you possess”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
+
+</details>
+
+- **[Bobby Sausalito](/entities/person-bobby-sausalito.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:10:20](/episodes/ep-O4Zw3bCALjU.md#t-00-10-20): “Nobody said it does. And it does, Frank (Frank Turek). They're just saying who's lying about it and why.”
 
 </details>
 
@@ -1546,11 +1800,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Formerly Worked For (2)</summary>
 
 - **[United States Navy](/entities/org-united-states-navy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19): “Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?”
 
 </details>
 
@@ -1609,7 +1864,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Interviewed By (3)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1620,10 +1875,24 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:08:12](/episodes/ep-O4Zw3bCALjU.md#t-00-07-37): “Anyway, there will never be a better description provided of him other than the one offered by Shane Cashman where he said Jeremy Boreing is Ted Bundy doing a Mr. Rogers (Fred Rogers) impression. And he's now just sort of pretending like he has a podcast when in reality he's just hosting any person or topic that runs counter to what I say. I could say anything. I could say like, hey kids, don't drink bleach. And he would be like, Clorox, you know, he's out there. So naturally, he hosted Frank Turek on his show and he keeps trying to like insert himself in the Charlie Kirk narrative. He was never friends with Charlie Kirk. He didn't know Charlie Kirk. And he's now talking about how he's going to be touring with Turning Point USA Faith and Frank Turek was on the show and addresses this rather major discrepancy between him and Brian Harpole on the rather significant matter of whether or not CPR was given to Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Brennan Tatum (Ep 397 podcast reference; identity unverified)](/entities/anon-src-ms5ChhZegRg-003.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:34:54](/episodes/ep-ms5ChhZegRg.md#t-00-34-54): “And having these long military records did virtually nothing. I mean, didn't even try to get in touch with the police. The police had to, uh, play offense on that. And then, of course, we learned that headquarters was not sharing the ticket count, so there's no way they could have prepped without even knowing the numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript name spelling unverified) podcast, uh, gave an interview. He's been just speaking way too much, and there's one very funny part of his entire spiel which is just, it's just him.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Met With (2)</summary>
+<summary>Met With (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1638,6 +1907,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:28:05](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05): “The night before Charlie (Charlie Kirk) was murdered— I'm not just saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks.”
+
+</details>
+
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “So I went back to UVU in March of 2026. So this is what, six, seven months after the murder and to give a presentation and students showed up and after the presentation was over, they all left the room and it was just me. ... And my security team packing up the computer, the final things before we had to go. And Jeff Long, who was the head of the police there at UVU, the chief of police, he comes up to me, comes up kind of from behind me, and he sticks his hand out to shake my hand. He goes, 'Hi, I'm Jeff Long. I'm the, uh, chief of police here at UVU. I take a bullet for Charlie (Charlie Kirk). I take a bullet for you. I kind of think I got thrown under the bus today.'”
 
 </details>
 
@@ -1663,12 +1939,26 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Spoke At (1)</summary>
+<summary>Spoke At (3)</summary>
 
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02): “He gave the speech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek”
+
+</details>
+
+- **[University of Nebraska, Lincoln](/entities/org-university-of-nebraska-lincoln.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:23:55](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49): “February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska-Lincoln. February 12th, Frank Turek speaks at the University of Nebraska-Lincoln.”
+
+</details>
+
+- **[Utah Valley University](/entities/org-utah-valley-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “So I went back to UVU in March of 2026. So this is what, six, seven months after the murder and to give a presentation and students showed up and after the presentation was over, they all left the room and it was just me.”
 
 </details>
 
@@ -1707,7 +1997,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Referenced By (25)</summary>
+<summary>Referenced By (37)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1733,10 +2023,45 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Justin Davis](/entities/person-justin-davis.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Dan Flood](/entities/person-dan-flood.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
+- **[Rick Cutler](/entities/person-rick-cutler.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21): “Charlie (Charlie Kirk)'s security team, Justin (Justin Davis), Dan (Dan Flood), Brian (Brian Harpole), and Rick (Rick Cutler), men who loved Charlie (Charlie Kirk) too, are much cooler under pressure than I am. They calmly but swiftly do exactly what they were trained to do. While I'm perched over the back seat looking down at Charlie (Charlie Kirk) and yelling, that was my special skill, Justin (Justin Davis) is driving, Dan (Dan Flood) is in the passenger seat holding his phone with direction to the hospital. To my left, Rick (Rick Cutler) is in the back with Charlie (Charlie Kirk)'s head in his lap and Brian (Brian Harpole) is to my right.”
+
+</details>
+
 - **[Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:40:50](/episodes/ep-mLvJqdxS-FY.md#t-00-40-17): “By the way. Well, fun fact, Frank (Frank Turek) and his son, Zach (Frank Zach Turek), Pentagon Zach (Frank Zach Turek), actually wrote a book together entitled Hollywood Heroes, How Your Favorite Superhero Movies Reveal God.”
+
+</details>
+
+- **[The War on Reality](/entities/work-the-war-on-reality.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:28:20](/episodes/ep-UAdBEXs7nNc.md#t-00-28-05): “Okay, I don't know how I missed this, but exactly one month ago on September 8th, 2026, Frank Turek published a book appropriately entitled The War on Reality.”
 
 </details>
 
@@ -1755,7 +2080,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1774,6 +2099,17 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
 - [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:12:43](/episodes/ep-bpXkPHpz9po.md#t-00-12-25): “If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:13:20](/episodes/ep-O4Zw3bCALjU.md#t-00-12-42): “And I just don't understand why Frank Turek thinks that he can just keep coming up with all of these euphemisms for lie. Thus far, he's presented to the public it was just a discrepancy. It's an incongruity. It's an irrelevant detail. It's an irrelevant consequence. But it feels very relevant, actually. It's definitely relevant for me. I mean, I got Brian Harpole suing me on the basis of saying that he was just did all this upstanding care.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02): “With Frank Turek, it's just amazing to me. I don't know how people can look at this person and think that after everything that we have seen, all of the stories running into one another, that he is A, honest, or that he is at all actually a pastor, that he cares about the truth. ... Whatsoever. How can you look at that man, think that he can't even tell the truth? As he gets to, he's like, 'We got to the hospital, and Dan Flood showed me the messages.' He's like, 'Actually, it was a couple days after that.' What? Like, what? How can you be so convinced of memory and so strong and then, like, quietly whisper in your breath, 'But actually, that's not the right memory. Let's just move on from that.' And after this report came out, how, how do you possess”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
+
+</details>
+
+- **[Bobby Sausalito](/entities/person-bobby-sausalito.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:10:20](/episodes/ep-O4Zw3bCALjU.md#t-00-10-20): “Nobody said it does. And it does, Frank (Frank Turek). They're just saying who's lying about it and why.”
 
 </details>
 
@@ -1788,6 +2124,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:01:45](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24): “But Candace (Candace Owens) is well within her rights to suggest certain things and all this, and she has the right to free speech and all that. That's fine. She's right to ask questions. I just think it is hurtful and not helpful when you cross a line to strongly suggest somebody's guilty of something for which you have no evidence. Challenge accepted, Frank Turek.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03): “I heard today—I guess I hadn't seen it myself—but I heard today she was judging people who didn't act the right way. ... Candace Owens: 'These people did not act the right way after Charlie (Charlie Kirk)'s death. ... He apparently didn't act the right way according to Candace Owens.”
 - [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:06:18](/episodes/ep-bpXkPHpz9po.md#t-00-06-05): “We've seen lies. We've seen accusations and we've seen slander with no evidence. Yeah, I'm talking to you, Candace Owens.”
+
+</details>
+
+- **[Jeff Long](/entities/person-jeff-long.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:36:11](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “And my security team packing up the computer, the final things before we had to go. And Jeff Long, who was the head of the police there at UVU, the chief of police, he comes up to me, comes up kind of from behind me, and he sticks his hand out to shake my hand. He goes, 'Hi, I'm Jeff Long. I'm the, uh, chief of police here at UVU. I take a bullet for Charlie (Charlie Kirk). I take a bullet for you. I kind of think I got thrown under the bus today.' ... I said, are you telling me when you said you had the roofs that you didn't think you had to have the roofs out there? ... Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?”
 
 </details>
 
@@ -1813,11 +2156,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[United States Navy](/entities/org-united-states-navy.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19): “Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?”
 
 </details>
 
@@ -1863,12 +2207,40 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[University of Nebraska, Lincoln](/entities/org-university-of-nebraska-lincoln.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:23:55](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49): “February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska-Lincoln. February 12th, Frank Turek speaks at the University of Nebraska-Lincoln.”
+
+</details>
+
+- **[Utah Valley University](/entities/org-utah-valley-university.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “So I went back to UVU in March of 2026. So this is what, six, seven months after the murder and to give a presentation and students showed up and after the presentation was over, they all left the room and it was just me.”
+
+</details>
+
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-02): “Again, going back to the early interviews that a lot of TPUSA people gave, Frank (Frank Turek), who was with Charlie (Charlie Kirk), he died with Charlie (Charlie Kirk) in the hospital, and carried Charlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:37:32](/episodes/ep-h76ZN-xXC6c.md#t-00-37-32): “Oops. How'd you do that, Frank (Frank Turek)? Because here's you telling Megyn Kelly that your phone was on FaceTime the entire time with your kids.”
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:26:56](/episodes/ep-9k2xrAC0H88.md#t-00-26-38): “Well, the only indication of what we have learned from people that were actually in that vehicle on that day came from Frank Turek. ... And he does discuss with Megyn Kelly, him getting his bag at the hospital after the FBI cleared the vehicle. ... I don't want to put words into his mouth. Let's take a listen to what Frank Turek had to say.”
+
+</details>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:08:12](/episodes/ep-O4Zw3bCALjU.md#t-00-07-37): “Anyway, there will never be a better description provided of him other than the one offered by Shane Cashman where he said Jeremy Boreing is Ted Bundy doing a Mr. Rogers (Fred Rogers) impression. And he's now just sort of pretending like he has a podcast when in reality he's just hosting any person or topic that runs counter to what I say. I could say anything. I could say like, hey kids, don't drink bleach. And he would be like, Clorox, you know, he's out there. So naturally, he hosted Frank Turek on his show and he keeps trying to like insert himself in the Charlie Kirk narrative. He was never friends with Charlie Kirk. He didn't know Charlie Kirk. And he's now talking about how he's going to be touring with Turning Point USA Faith and Frank Turek was on the show and addresses this rather major discrepancy between him and Brian Harpole on the rather significant matter of whether or not CPR was given to Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Brennan Tatum (Ep 397 podcast reference; identity unverified)](/entities/anon-src-ms5ChhZegRg-003.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:34:54](/episodes/ep-ms5ChhZegRg.md#t-00-34-54): “And having these long military records did virtually nothing. I mean, didn't even try to get in touch with the police. The police had to, uh, play offense on that. And then, of course, we learned that headquarters was not sharing the ticket count, so there's no way they could have prepped without even knowing the numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript name spelling unverified) podcast, uh, gave an interview. He's been just speaking way too much, and there's one very funny part of his entire spiel which is just, it's just him.”
 
 </details>
 
@@ -1892,6 +2264,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:28:05](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05): “The night before Charlie (Charlie Kirk) was murdered— I'm not just saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks.”
+
+</details>
+
+- **[Jeff Long](/entities/person-jeff-long.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “So I went back to UVU in March of 2026. So this is what, six, seven months after the murder and to give a presentation and students showed up and after the presentation was over, they all left the room and it was just me. ... And my security team packing up the computer, the final things before we had to go. And Jeff Long, who was the head of the police there at UVU, the chief of police, he comes up to me, comes up kind of from behind me, and he sticks his hand out to shake my hand. He goes, 'Hi, I'm Jeff Long. I'm the, uh, chief of police here at UVU. I take a bullet for Charlie (Charlie Kirk). I take a bullet for you. I kind of think I got thrown under the bus today.'”
 
 </details>
 
@@ -1922,7 +2301,79 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (38)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (57)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (11)</summary>
+
+- [00:29:21](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21) [○] (Claim) ["In the book passage read by Owens, Turek said he heard a loud pop, saw Charlie K..."](/statements/statement-49597c023c07.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:29:50](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21) [○] (Claim) ["In the book excerpt, Turek said Justin Davis drove, Dan Flood held a phone with ..."](/statements/statement-c3759ed718ea.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:30:32](/episodes/ep-UAdBEXs7nNc.md#t-00-30-32) [○] (Claim) ["In the book excerpt, Turek said the SUV traveled with an open door, no sirens an..."](/statements/statement-a5f2431e04f6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:31:00](/episodes/ep-UAdBEXs7nNc.md#t-00-30-32) [○] (Claim) ["In the book excerpt, Turek said he and Rick Cutler prayed aloud and that all thr..."](/statements/statement-c57cf5d45854.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Rick Cutler](/entities/person-rick-cutler.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:34:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-29) [○] (Claim) ["In the book excerpt, Turek said all three people in the back were still trying t..."](/statements/statement-ad8357ad7608.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Rick Cutler](/entities/person-rick-cutler.md)
+
+- [00:34:25](/episodes/ep-UAdBEXs7nNc.md#t-00-34-12) [○] (Claim) ["In the book excerpt, Turek said the emergency room felt empty, nobody seemed rea..."](/statements/statement-52b2a5a6eb85.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:34:41](/episodes/ep-UAdBEXs7nNc.md#t-00-34-12) [○] (Claim) ["In the book excerpt, Turek said the medical team got a pulse and rushed Charlie ..."](/statements/statement-605445264111.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:36:21](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) [○] (Claim) ["In the book excerpt, with Owens correcting Don to Dan Flood, Turek said he embra..."](/statements/statement-134020286a2a.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:31](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) [○] (Claim) ["In the book excerpt, Turek said Dan Flood's team had jurisdiction only over Char..."](/statements/statement-06b65d019091.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:37:53](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41) [○] (Claim) ["In the book excerpt, Turek said Charlie Kirk's 23-year-old chief of staff Michae..."](/statements/statement-a63a6f398193.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [00:38:28](/episodes/ep-UAdBEXs7nNc.md#t-00-38-22) [○] (Claim) ["In the book excerpt, Turek said the surgeon demanded to talk to Erika Kirk on th..."](/statements/statement-372fc2e08cc8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4)</summary>
+
+- [00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55) [○] (Claim) ["In the interview clip, Frank Turek said he returned to UVU in March 2026, six or..."](/statements/statement-ffd550f1ea18.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Jeff Long](/entities/person-jeff-long.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:36:43](/episodes/ep-ms5ChhZegRg.md#t-00-36-38) [○] (Claim) ["In the clip, Frank Turek said Dan Flood showed him a text asking for someone on ..."](/statements/statement-0b81350c8164.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:33](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) [○] (Accusation) ["In the clip, Frank Turek said Jeff Long was trying to backpedal about covering r..."](/statements/statement-7032754994d7.md)
+  - About: [Jeff Long](/entities/person-jeff-long.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) [○] (Claim) ["In the clip, Frank Turek said he had served in the Navy but was no security expe..."](/statements/statement-70210b6bbf55.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [United States Navy](/entities/org-united-states-navy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4)</summary>
+
+- [00:09:59](/episodes/ep-O4Zw3bCALjU.md#t-00-09-59) [○] (Claim) ["Frank Turek said he had claimed to perform CPR in the car, while Brian Harpole, ..."](/statements/statement-4ac349390ea2.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:12](/episodes/ep-O4Zw3bCALjU.md#t-00-10-12) [○] (Opinion) ["Frank Turek said whether he performed CPR had no bearing on who killed Charlie K..."](/statements/statement-826c547378e9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:12:06](/episodes/ep-O4Zw3bCALjU.md#t-00-12-06) [○] (Opinion) ["Frank Turek denied lying about CPR and argued that even hypothetically lying to ..."](/statements/statement-f52cad28100d.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:24](/episodes/ep-O4Zw3bCALjU.md#t-00-12-24) [○] (Opinion) ["Frank Turek said eyewitness accounts differ on details but agree on the central ..."](/statements/statement-7f12a1214834.md)
+  - About: [New Testament](/entities/work-new-testament.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
@@ -2154,7 +2605,139 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (65)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (96)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (14)</summary>
+
+- [00:28:20](/episodes/ep-UAdBEXs7nNc.md#t-00-28-05) (Claim) **Candace Owens**: ["Owens said Frank Turek published The War on Reality on September 8, 20..."](/statements/statement-cf7b229f31bc.md)
+  - Also about: [The War on Reality](/entities/work-the-war-on-reality.md)
+
+- [00:29:21](/episodes/ep-UAdBEXs7nNc.md#t-00-29-21) (Claim) **Frank Turek** (via quoted document): ["In the book passage read by Owens, Turek said he heard a loud pop, saw..."](/statements/statement-49597c023c07.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:00](/episodes/ep-UAdBEXs7nNc.md#t-00-30-32) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said he and Rick Cutler prayed aloud and th..."](/statements/statement-c57cf5d45854.md)
+  - Also about: [Rick Cutler](/entities/person-rick-cutler.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:25](/episodes/ep-UAdBEXs7nNc.md#t-00-31-15) (Accusation) **Candace Owens**: ["Owens accused Turek of introducing a claim that he tried to stop the b..."](/statements/statement-931363af079c.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:44](/episodes/ep-UAdBEXs7nNc.md#t-00-31-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens said someone was lying about who tried to stop Charlie Kirk's bl..."](/statements/statement-ef0b0c2554bc.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:33:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-06) (Claim) **Brian Harpole** (via quoted speech): ["In the Shawn Ryan clip, Harpole said he was doing medical work while F..."](/statements/statement-ab8cdb02d48d.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-29) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said all three people in the back were stil..."](/statements/statement-ad8357ad7608.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:53](/episodes/ep-UAdBEXs7nNc.md#t-00-34-53) (Accusation) **Candace Owens**: ["Owens said Turek's published account omitted the fire captain doing CP..."](/statements/statement-c35f8a8526de.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:36:21](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, with Owens correcting Don to Dan Flood, Turek sai..."](/statements/statement-134020286a2a.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:31](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) (Accusation) **Candace Owens**: ["Owens called the book's assertions that Flood's team had jurisdiction ..."](/statements/statement-cde768864611.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:09](/episodes/ep-UAdBEXs7nNc.md#t-00-37-02) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Turek's Brandon Tatum interview as first saying Fl..."](/statements/statement-ab373570da73.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:39:05](/episodes/ep-UAdBEXs7nNc.md#t-00-39-05) (Claim) **Candace Owens**: ["Owens said that according to her timeline McCoy should have arrived ju..."](/statements/statement-ca4a730f8b79.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:41](/episodes/ep-UAdBEXs7nNc.md#t-00-39-41) (Claim) **Candace Owens** (via paraphrase): ["Owens said she believed Turek rather than Neff on who delivered the ne..."](/statements/statement-e8feb1722bdb.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Hospital surgeon-news source (Ep 400; identity unverified)](/entities/anon-src-UAdBEXs7nNc-012.md)
+
+- [00:40:46](/episodes/ep-UAdBEXs7nNc.md#t-00-40-22) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Turek as saying he told federal officers he would ..."](/statements/statement-893326e4c8a5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Necklace tip source (Ep 400; identity unverified)](/entities/anon-src-UAdBEXs7nNc-013.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:31:22](/episodes/ep-yrg_-D6oNHE.md#t-00-30-54) (Accusation) **Candace Owens**: ["Owens said Frank Turek apparently claimed he received the text message..."](/statements/statement-93c6443e31b6.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (7)</summary>
+
+- [00:22:22](/episodes/ep-ms5ChhZegRg.md#t-00-22-11) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Frank Turek’s account as saying he administered CP..."](/statements/statement-b20130da6d78.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:23:24](/episodes/ep-ms5ChhZegRg.md#t-00-23-24) (Accusation) **Candace Owens**: ["Owens alleged neither Brian Harpole nor Frank Turek mentioned the fire..."](/statements/statement-be51e39834e1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Unnamed Station 2 fire captain described in UVU review (identity unverified)](/entities/anon-src-ms5ChhZegRg-018.md)
+
+- [00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55) (Claim) **Frank Turek** (via quoted speech): ["In the interview clip, Frank Turek said he returned to UVU in March 20..."](/statements/statement-ffd550f1ea18.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:11](/episodes/ep-ms5ChhZegRg.md#t-00-35-55) (Opinion) **Jeff Long** (via quoted speech): ["As reenacted by Frank Turek in the interview clip, Jeff Long said he w..."](/statements/statement-1d095f4f51e4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) (Claim) **Frank Turek** (via quoted speech): ["In the clip, Frank Turek said he had served in the Navy but was no sec..."](/statements/statement-70210b6bbf55.md)
+  - Also about: [United States Navy](/entities/org-united-states-navy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02) (Accusation) **Candace Owens**: ["Owens accused Frank Turek of dishonesty and defaming UVU police by con..."](/statements/statement-abd7630d80df.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Utah Valley University](/entities/org-utah-valley-university.md), [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md)
+
+- [00:40:00](/episodes/ep-ms5ChhZegRg.md#t-00-40-00) (Accusation) **Candace Owens**: ["Owens rhetorically questioned whether Turek was repeating talking poin..."](/statements/statement-d63a06a3fd55.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:23:55](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49) (Claim) **Candace Owens**: ["Owens said TPUSA reopened its University of Nebraska–Lincoln chapter F..."](/statements/statement-3adfa92ad324.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [University of Nebraska, Lincoln](/entities/org-university-of-nebraska-lincoln.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:58:55](/episodes/ep-bIuvTKlFeGo.md#t-00-58-44) (Claim) **Candace Owens**: ["Owens said Frank Turek deleted frankturek.com on July 11th and that sh..."](/statements/statement-562b633e3c44.md)
+  - Also about: [Wayback Machine](/entities/work-wayback-machine.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:32:26](/episodes/ep-_2DiIbfy4mU.md#t-00-32-15) (Claim) **Candace Owens** (via paraphrase): ["Owens says Frank Turek first told the public Charlie Kirk was home wat..."](/statements/statement-645772ef4b10.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Chicago Bears](/entities/org-chicago-bears.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:34:59](/episodes/ep-6XfDqKTdFKg.md#t-00-34-59) (Prediction) **Bobby Sausalito** (via quoted speech): ["Sausalito predicts most of the Boreing–Neff interview will be a hate s..."](/statements/statement-de180c549ecb.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (5)</summary>
+
+- [00:02:24](/episodes/ep-O4Zw3bCALjU.md#t-00-02-07) (Claim) **Candace Owens**: ["Owens said Blake was wearing hospital scrubs by nighttime, presumably ..."](/statements/statement-b8abebd796b9.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:09:59](/episodes/ep-O4Zw3bCALjU.md#t-00-09-59) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he had claimed to perform CPR in the car, while Brian..."](/statements/statement-4ac349390ea2.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:10:59](/episodes/ep-O4Zw3bCALjU.md#t-00-10-37) (Accusation) **Bobby Sausalito** (via quoted speech): ["Bobby Sausalito alleged that Frank Turek and Brian Harpole could not b..."](/statements/statement-444f9d3708b3.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:12:06](/episodes/ep-O4Zw3bCALjU.md#t-00-12-06) (Opinion) **Frank Turek** (via quoted speech): ["Frank Turek denied lying about CPR and argued that even hypothetically..."](/statements/statement-f52cad28100d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:41](/episodes/ep-O4Zw3bCALjU.md#t-00-13-25) (Accusation) **Candace Owens**: ["Owens said she and Bobby Sausalito had never suggested Frank Turek mur..."](/statements/statement-ad6fc807b38b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bobby Sausalito](/entities/person-bobby-sausalito.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>

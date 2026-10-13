@@ -1,6 +1,6 @@
 ---
 title: "Karoline Leavitt"
-description: "Karoline Leavitt (People) - 10 mentions"
+description: "Karoline Leavitt (People) - 14 mentions"
 id: "person-karoline-leavitt"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-karoline-leavitt-t-00-27-32">2025-11-21 · 00:27:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-karoline-leavitt-t-00-10-08">2026-05-14 · 00:10:29</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-32-36">2026-10-01 · 00:32:50</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -37,6 +37,8 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-karoline-leavitt-t-00-40-52" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-person-karoline-leavitt-t-00-58-16" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-karoline-leavitt-t-00-10-08" style="--pulse-height:50%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-karoline-leavitt-t-00-53-10" style="--pulse-height:50%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-32-36" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-karoline-leavitt-t-00-40-52) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-karoline-leavitt-t-00-58-16) | 2 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-karoline-leavitt-t-00-10-08) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-karoline-leavitt-t-00-53-10) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-32-36) | 1 |
 
 </details>
 </section>
@@ -60,7 +64,23 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:32:50](/episodes/ep-q4m-kGzvwjw.md#t-00-32-36)**
+> "From those attendees, sorry if you will, were Susie Wiles, J.D. Vance, Todd Blanche, David Warrington, Kash Patel, Pam Bondi, James Blair, Stephen Chung (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), and Caroline Leavitt (meeting participant; name spelling unverified). Again, Trump (Donald J. Trump) was not present for that meeting."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:53:20](/episodes/ep-BvthGQw3_s0.md#ent-person-karoline-leavitt-t-00-53-10)**
+> "...e. Is when she's interviewing Karoline Leavitt and indeed the internet has just recently uncover..."
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
@@ -154,7 +174,31 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:53:20](/episodes/ep-BvthGQw3_s0.md#t-00-53-10): “They shouldn't believe their own eyes. UFO writes, have you seen Erika Frantzve (Erika Kirk) new white kicks sneakers with Charlie (Charlie Kirk)'s picture on her shoes? It is so bizarre. Is this a grift? Is this betrayal question mark? I have. I saw this trending. We did not cover this. I do want to assert that it is an old image. Is when she's interviewing Karoline Leavitt and indeed the internet has just recently uncovered that Erika (Erika Kirk) was wearing air force charlies.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -167,6 +211,20 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:58:16](/episodes/ep-69A8TzAGHlU.md#t-00-58-16): “I don't feel threatened by that. OK, you have a right to think racist thoughts. Now, I happen to genuinely not be a racist, but if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight full fire, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to violence. Take a listen.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:53:20](/episodes/ep-BvthGQw3_s0.md#t-00-53-10): “They shouldn't believe their own eyes. UFO writes, have you seen Erika Frantzve (Erika Kirk) new white kicks sneakers with Charlie (Charlie Kirk)'s picture on her shoes? It is so bizarre. Is this a grift? Is this betrayal question mark? I have. I saw this trending. We did not cover this. I do want to assert that it is an old image. Is when she's interviewing Karoline Leavitt and indeed the internet has just recently uncovered that Erika (Erika Kirk) was wearing air force charlies.”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
 
 </details>
 
@@ -213,7 +271,15 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Karoline Leavitt (3)</strong></summary>
+<summary><strong class="section-title">Statements about Karoline Leavitt (4)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:53:20](/episodes/ep-BvthGQw3_s0.md#t-00-53-10) (Claim) **Candace Owens**: ["Owens said the newly trending image of Erika Kirk wearing sneakers wit..."](/statements/statement-15612ec33e2e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>

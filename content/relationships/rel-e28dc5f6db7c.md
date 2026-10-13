@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Mark Levin](/entities/person-mark-levin) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
 - [00:42:28](/episodes/ep-1CFDtD0IgEg#t-00-42-28): _Psychos, like actual psychopaths like Mark Levin._
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:42:19](/episodes/ep-6XfDqKTdFKg#t-00-42-19): _I'm not telling anybody that they should go vote for more of this. Vote for what? Speech censorship that's being platformed, demanded by people like Mark Levin and your type, people that are asking for the state to get involved._
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Utah County Attorney's Office"
-description: "Utah County Attorney's Office (Organizations) - 3 mentions"
+description: "Utah County Attorney's Office (Organizations) - 5 mentions"
 id: "org-utah-county-attorneys-office"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-27-01">2026-03-31 · 00:27:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30">2026-08-21 · 00:19:30</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#t-00-25-12">2026-09-15 · 00:25:12</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>19</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-27-01" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#t-00-08-50" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 |---|---|---:|
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-27-01) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#t-00-08-50) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:08:50](/episodes/ep-kn1E0scy9Wc.md#t-00-08-50)**
+> "them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022."
+
+**[00:25:12](/episodes/ep-kn1E0scy9Wc.md#t-00-25-12)**
+> "By the way, speaking of the Utah County's attorney office in general, in general, because people have sent us so many tips about various things that have gone on that have been controversial that used to be up until 2022, the attorney general of Utah was a man named David O."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -81,7 +94,29 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+</details>
 
 </details>
 

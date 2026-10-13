@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Beekeeper's Naturals](/entities/org-beekeepers-naturals) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 
 - [00:28:18](/episodes/ep-X3VKJVJ7cN4#t-00-28-18): _That's why Beekeepers Naturals is always stocked in our house. I especially love their propolis throat spray._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:32:50](/episodes/ep-ms5ChhZegRg#t-00-32-50): _That's why Beekeepers Naturals is always stocked in our house. I especially love their any other propolis throat spray. ... And what I love most is that it's clean and simple, no dyes, no harsh chemicals and no fake sugars, just powerful ingredients that you can actually feel good about. ... out using for your family. So head to beekeepersnaturals.com slash Candace and enter code Candace at checkout to get 20% off your order._
 
 ### Related
 

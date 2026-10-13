@@ -1,6 +1,6 @@
 ---
 title: "fatty15"
-description: "fatty15 (Organizations) - 49 mentions"
+description: "fatty15 (Organizations) - 53 mentions"
 id: "org-fatty15"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-31-23">2025-10-07 · 00:31:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-43-01">2026-09-09 · 00:43:10</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-fatty15-t-00-26-42">2026-10-08 · 00:26:59</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -46,6 +46,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50" style="--pulse-height:71%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-41-16" style="--pulse-height:43%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-41-34" style="--pulse-height:71%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-fatty15-t-00-26-04" style="--pulse-height:57%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50) | 5 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-41-16) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-41-34) | 5 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-fatty15-t-00-26-04) | 4 |
 
 </details>
 </section>
@@ -68,7 +70,24 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (4 mentions)</summary>
+
+**[00:26:04](/episodes/ep-UAdBEXs7nNc.md#ent-org-fatty15-t-00-26-04)**
+> "I also remind you guys about Fatty 15 because are you doing all the right things? all t..."
+
+**[00:26:12](/episodes/ep-UAdBEXs7nNc.md#ent-org-fatty15-t-00-26-04)**
+> "...I'm excited to tell you about Fatty 15, which is a science-backed supplement that's buil..."
+
+**[00:26:42](/episodes/ep-UAdBEXs7nNc.md#ent-org-fatty15-t-00-26-42)**
+> "Fatty 15 was developed to support healthy aging for all fr..."
+
+**[00:26:59](/episodes/ep-UAdBEXs7nNc.md#ent-org-fatty15-t-00-26-42)**
+> "kit by heading to fatty15.com slash Candace and using code Candace at check..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
@@ -276,12 +295,13 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:52:08](/episodes/ep-DdPjoy5W-wY.md#t-00-51-34): “I've been taking a science-backed supplement designed to help optimize your C15 levels. It's called Fatty 15.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:42:35](/episodes/ep-xi8SYJTUXPM.md#t-00-42-24): “by going to fatty15.com slash Candace and using code Candace at checkout. Again, that's fatty15.com slash Candace and use promo code Candace at checkout.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:58](/episodes/ep-OgRyiOAVtWU.md#t-00-40-50): “Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:41:32](/episodes/ep-AH1KVKkweUE.md#t-00-41-16): “Well, that's why I'm very excited to tell you guys about Fatty 15, a science-based supplement that's built around C15, which is the first essential fatty acid that's been discovered in more than 90 years.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:26:04](/episodes/ep-UAdBEXs7nNc.md#t-00-26-04): “I also remind you guys about Fatty 15 because are you doing all the right things? all the right things for your health, but still wondering if there's more that you could be doing to support your healthy aging. Well, that's why I'm excited to tell you about Fatty 15, which is a science-backed supplement that's built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 
 </details>
 
@@ -304,12 +324,13 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:52:08](/episodes/ep-DdPjoy5W-wY.md#t-00-51-34): “I've been taking a science-backed supplement designed to help optimize your C15 levels. It's called Fatty 15.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:42:35](/episodes/ep-xi8SYJTUXPM.md#t-00-42-24): “by going to fatty15.com slash Candace and using code Candace at checkout. Again, that's fatty15.com slash Candace and use promo code Candace at checkout.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:58](/episodes/ep-OgRyiOAVtWU.md#t-00-40-50): “Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:41:32](/episodes/ep-AH1KVKkweUE.md#t-00-41-16): “Well, that's why I'm very excited to tell you guys about Fatty 15, a science-based supplement that's built around C15, which is the first essential fatty acid that's been discovered in more than 90 years.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:26:04](/episodes/ep-UAdBEXs7nNc.md#t-00-26-04): “I also remind you guys about Fatty 15 because are you doing all the right things? all the right things for your health, but still wondering if there's more that you could be doing to support your healthy aging. Well, that's why I'm excited to tell you about Fatty 15, which is a science-backed supplement that's built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 
 </details>
 

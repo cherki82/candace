@@ -20,10 +20,23 @@ date: "2025-12-08"
 
 > Turning Point USA fundraiser at Mar-a-Lago reportedly raises $40 million over two nights
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Cand...
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
 **Timestamp:** [00:13:06](/episodes/ep-6DhWawD4ZiM.md#event-event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la-t-00-12-56) 
 <a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=786s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they made $40 million, like two nights ago at Mar-a-Lago
+
+### 2. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:03:54](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la-t-00-03-54) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=234s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> They allegedly raised $40 million at that event, in part due to things that were meant to pull at
+
+> **Date stated in this source:** “their annual Mar-a-Lago event; last year (2025)”
+> **Date review note:** The source identifies the same post-assassination Mar-a-Lago fundraiser and alleged $40 million total but gives no exact day. The preexisting canonical December 8 date is retained rather than inferred from the Telegram reference to this weekend.

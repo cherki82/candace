@@ -20,10 +20,20 @@ date: "2025-09-10"
 
 > Candace Owens said Charlie Kirk's bloodied jacket made it back to Erika Kirk's apartment after the shooting.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:07:06](/episodes/ep-a2bZf4fic10.md#event-event-2025-09-10-candace-owens-said-charlie-kirks-bloodie-t-00-07-00) 
 <a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=426s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > that jacket was returned to his security and made it back to Erika Kirk's apartment
+
+### 2. More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 3...
+
+**Episode:** [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md)
+**Timestamp:** [00:03:57](/episodes/ep-O4Zw3bCALjU.md#t-00-03-57) 
+<a href="https://www.youtube.com/watch?v=O4Zw3bCALjU&t=237s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> they immediately released other belongings of Charlie's, namely his sports coat

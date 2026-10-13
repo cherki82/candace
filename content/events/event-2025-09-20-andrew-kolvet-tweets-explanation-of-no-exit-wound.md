@@ -20,7 +20,7 @@ date: "2025-09-20"
 
 > Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
@@ -45,3 +45,11 @@ date: "2025-09-20"
 <a href="https://www.youtube.com/watch?v=UYkXV9mYbT4&t=710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the fact that there wasn't an exit wound is probably another miracle
+
+### 4. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
+
+**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
+**Timestamp:** [00:03:33](/episodes/ep-9k2xrAC0H88.md#event-event-2025-09-20-andrew-kolvet-tweets-explanation-of-no-exit-wound-t-00-03-12) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=213s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> he tweeted out that long tweet about Superman neck and he puts this quotation in here,

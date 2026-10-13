@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-description: "Tennessee (Places) - 35 mentions"
+description: "Tennessee (Places) - 41 mentions"
 id: "gpe-tennessee"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-tennessee-t-00-22-17">2025-11-04 · 00:22:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-tennessee-t-00-04-51">2026-09-09 · 00:04:59</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-tennessee-t-00-02-48">2026-10-05 · 00:03:13</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -60,6 +60,10 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-tennessee-t-00-35-44" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-tennessee-t-00-37-40" style="--pulse-height:25%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-tennessee-t-00-04-51" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-tennessee-t-00-03-17" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-tennessee-t-00-17-28" style="--pulse-height:75%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 3 mentions" title="2026-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-tennessee-t-00-52-51" style="--pulse-height:25%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-tennessee-t-00-02-48" style="--pulse-height:25%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -90,6 +94,10 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-tennessee-t-00-35-44) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-tennessee-t-00-37-40) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-tennessee-t-00-04-51) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-tennessee-t-00-03-17) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-tennessee-t-00-17-28) | 3 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-tennessee-t-00-52-51) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-tennessee-t-00-02-48) | 1 |
 
 </details>
 </section>
@@ -97,7 +105,45 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:03:13](/episodes/ep-ms5ChhZegRg.md#ent-gpe-tennessee-t-00-02-48)**
+> "...treets in Nashville. I am the Tennessee mafia, the kingpin, the godmother. People fear me..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:53:02](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-tennessee-t-00-52-51)**
+> "...onder if Houston is as hot as Tennessee is right now. I can't even go outside, guys. It's..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (3 mentions)</summary>
+
+**[00:17:28](/episodes/ep-aLJhpxrakCU.md#ent-gpe-tennessee-t-00-17-28)**
+> "...had recently done an event in Tennessee and he did, by the way, that's fact, in March of ..."
+
+**[00:44:46](/episodes/ep-aLJhpxrakCU.md#ent-gpe-tennessee-t-00-44-28)**
+> "But in Tennessee, that would have been filed under routine footage..."
+
+**[00:44:52](/episodes/ep-aLJhpxrakCU.md#ent-gpe-tennessee-t-00-44-28)**
+> "...eleted about 30 days later in Tennessee."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:03:17](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-tennessee-t-00-03-17)**
+> "...man venture into the state of Tennessee, I will be conducting a citizen's arrest. Terryl ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>

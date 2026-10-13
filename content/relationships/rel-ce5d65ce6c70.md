@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has CEO [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (36 mentions)
+### Evidence (41 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -21,6 +21,10 @@ object: "person-erika-kirk"
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
 - [00:18:51](/episodes/ep-1QZ4X6q1DPg#t-00-18-51): _secrecy around the footage has become a major point of contention for critics of Turning Point and its new CEO, Erika Kirk._
+
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:00:26](/episodes/ep-5TTkMa49qj8#t-00-00-26): _In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit._
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -74,6 +78,10 @@ object: "person-erika-kirk"
 
 - [00:15:32](/episodes/ep-MUA9ebCF4Ow#t-00-15-32): _Erika Kirk is now the CEO_
 
+**[More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU)**
+
+- [00:41:58](/episodes/ep-O4Zw3bCALjU#t-00-41-58): _Erika (Erika Kirk), of course, uh, tweeted. I am assuming someone runs her Twitter feed. I don't even think this is Erika (Erika Kirk), if I'm being honest with you, but it's—she's the CEO, so she's gotta make a comment, and she sticks to, you know, the—the Lord and biblical. She said, 'Charlie (Charlie Kirk) once said we should be building two statues for every statue that they tear down. His instinct was always to build, not to destroy. They thought a bullet would silence my husband's voice, but it only made it louder.' That line she has run..._
+
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [00:09:48](/episodes/ep-QdM9jLwjwLw#t-00-09-48): _And now it is our great pride to announce Erika Kirk as the new CEO and chair of the board for Turning Point USA._
@@ -111,6 +119,10 @@ object: "person-erika-kirk"
 
 - [00:54:03](/episodes/ep-a-e7HC6SeK8#t-00-54-03): _I think in this new capacity—CEO and chairman—that we deserve an answer about that check._
 
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [00:01:14](/episodes/ep-bIuvTKlFeGo#t-00-01-14): _This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day._
+
 **[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
 
 - [00:31:29](/episodes/ep-cPidFQDJLbo#t-00-31-29): _Interestingly enough, you might recall from that Daily Mail article that they said that they spoke to a TPUSA board member who said that he was helping with those affairs. ... And this is if I'm just taking a shot in the dark. I would imagine it was one of the board members who announced that Erika (Erika Kirk) was going to be the CEO and the chairman._
@@ -127,6 +139,10 @@ object: "person-erika-kirk"
 
 - [00:06:05](/episodes/ep-ja26iltROkM#t-00-06-05): _Erika Kirk is at the head of Turning Point USA_
 
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:00:32](/episodes/ep-kn1E0scy9Wc#t-00-00-32): _And in somewhat related news, have you noticed that Turning Point USA 2.0, just to be clear under CEO Erika Kirk, appears to be openly promoting sexual deviance to do their bidding for them, like they're suddenly in with the crooks, really scraping the bottom of the barrel?_
+
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:02:58](/episodes/ep-mFuno0TuuQQ#t-00-02-58): _plea to the courts, I don't know, I think that it stands in stark contrast to the actions that are available to Erika Kirk as the CEO and chairman of this massive organization._
@@ -138,6 +154,10 @@ object: "person-erika-kirk"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:19:05](/episodes/ep-q1NRQQAYS_Q#t-00-19-05): _Why does that feel more like a confession to me? Like they're trying to get ahead of something like this might be the reason they didn't release it in the first place. And also, was I like under the influence or high or was it not Erica (Erika Kirk), the CEO of Turning Point USA and the team that guaranteed us that they were going to release tons of never before seen speeches and videos? They had a whole supply of them._
+
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:01:46](/episodes/ep-q4m-kGzvwjw#t-00-01-46): _So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination._
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 

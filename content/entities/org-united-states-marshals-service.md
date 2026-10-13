@@ -1,6 +1,6 @@
 ---
 title: "United States Marshals Service"
-description: "United States Marshals Service (Organizations) - 8 mentions"
+description: "United States Marshals Service (Organizations) - 9 mentions"
 id: "org-united-states-marshals-service"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08">2025-12-17 · 00:32:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-39-52">2026-08-14 · 02:39:52</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-marshals-service-t-00-20-57">2026-09-15 · 00:20:57</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-38-11" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-marshals-service-t-00-20-57" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-32-08) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-38-11) | 3 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-marshals-service-t-00-20-57) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:20:57](/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-marshals-service-t-00-20-57)**
+> "...there, SWAT is already there, U.S. Marshals, even the Utah State University police are underg..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>

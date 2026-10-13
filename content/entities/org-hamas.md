@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 42 mentions"
+description: "Hamas (Organizations) - 44 mentions"
 id: "org-hamas"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-hamas-t-00-34-47">2026-09-03 · 00:34:59</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-hamas-t-00-37-49">2026-09-25 · 00:37:49</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40" style="--pulse-height:10%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-hamas-t-00-34-47" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-hamas-t-00-37-08" style="--pulse-height:20%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-hamas-t-00-34-47) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-hamas-t-00-37-08) | 2 |
 
 </details>
 </section>
@@ -81,7 +83,18 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:37:08](/episodes/ep-_Sq5RqP27NY.md#ent-org-hamas-t-00-37-08)**
+> "fronts Hamas, Hezbollah,"
+
+**[00:37:49](/episodes/ep-_Sq5RqP27NY.md#ent-org-hamas-t-00-37-49)**
+> "Israel hammered Hamas. We pummeled Hezbollah."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -307,6 +320,18 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attacked By (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Funded By (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
@@ -319,12 +344,19 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Qatar](/entities/gpe-qatar.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:39:42](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23): “And they said, the reason why we have a relationship with Hamas is because the U.S. government asked us to establish one.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
 
 </details>
 
@@ -340,7 +372,18 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hamas (11)</strong></summary>
+<summary><strong class="section-title">Statements about Hamas (13)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2)</summary>
+
+- [00:36:49](/episodes/ep-_Sq5RqP27NY.md#t-00-36-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel had fought a seven-fr..."](/statements/statement-db410504f811.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hezbollah](/entities/org-hezbollah.md), [Houthis](/entities/org-houthis.md)
+
+- [00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel hammered Hamas and pu..."](/statements/statement-4bb25663f99f.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hezbollah](/entities/org-hezbollah.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

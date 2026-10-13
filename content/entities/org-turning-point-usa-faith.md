@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 104 mentions"
+description: "Turning Point USA Faith (Organizations) - 109 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -28,13 +28,13 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-42">2025-10-01 · 00:43:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-faith-t-00-03-42">2026-09-01 · 00:04:03</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>104</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-faith-t-00-09-18">2026-10-07 · 00:09:28</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>109</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>27</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>29</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -70,6 +70,9 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-turning-point-usa-faith-t-00-21-32" style="--pulse-height:18%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-faith-t-00-03-42" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-usa-faith-t-00-08-21" style="--pulse-height:12%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-turning-point-usa-faith-t-00-31-55" style="--pulse-height:12%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 2 mentions" title="2026-09-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-faith-t-00-09-18" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +107,9 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-turning-point-usa-faith-t-00-21-32) | 3 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-faith-t-00-03-42) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-usa-faith-t-00-08-21) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-turning-point-usa-faith-t-00-31-55) | 2 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-faith-t-00-09-18) | 1 |
 
 </details>
 </section>
@@ -111,11 +117,42 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+<summary><strong class="section-title">Raw mentions (109)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:09:28](/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-faith-t-00-09-18)**
+> "...a (Erika Kirk)'s going around Turning Point Faith: the Lord, my faith."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2 mentions)</summary>
+
+**[00:31:55](/episodes/ep-BvthGQw3_s0.md#ent-org-turning-point-usa-faith-t-00-31-55)**
+> "... speaker Erika Kirk who leads Turning Point Faith."
+
+**[00:51:07](/episodes/ep-BvthGQw3_s0.md#ent-org-turning-point-usa-faith-t-00-50-30)**
+> "...ith that. It is a veneer. The TPUSA faith thing is a veneer. We've talked about the pastors..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:08:44](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-usa-faith-t-00-08-21)**
+> "...he's going to be touring with Turning Point USA Faith and Frank Turek was on the show and addresses thi..."
+
+**[00:12:42](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-usa-faith-t-00-12-42)**
+> "...s, just talk about the Bible. Turning Point USA Faith grift just keeps on going on."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -611,6 +648,19 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:12:42](/episodes/ep-O4Zw3bCALjU.md#t-00-12-42): “If all else fails, just talk about the Bible. Turning Point USA Faith grift just keeps on going on.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:51:07](/episodes/ep-BvthGQw3_s0.md#t-00-50-30): “And I agree with that. It is a veneer. The TPUSA faith thing is a veneer. We've talked about the pastors that are involved.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (3)</summary>
 
 - **[Sean Feucht](/entities/person-sean-feucht.md)**
@@ -621,10 +671,11 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:36:13](/episodes/ep-Dkxa9OUA9K8.md#t-01-35-46): “Thus, much about leaving Erika (Erika Kirk) out of the story. Charlie (Charlie Kirk) was already married to her. She was the one who was driving home Turning Point Faith. In fact, Charlie (Charlie Kirk) said as much on stage in Aspen. Notorious Aspen trip, Charlie (Charlie Kirk) said when he mentioned Turning Point USA Faith that his wife does a lot of work for Turning Point USA Faith.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:04:11](/episodes/ep-YeEtS7nix3o.md#t-01-03-53): “Of course, my wife, Erika Kirk, is very involved in the faith division.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:31:55](/episodes/ep-BvthGQw3_s0.md#t-00-31-55): “Thursday assembly. Thursday morning, it reads our high school and middle school students at the Flamingo campus will have a special assembly featuring guest speaker Erika Kirk who leads Turning Point Faith.”
 
 </details>
 
@@ -734,7 +785,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (13)</summary>
+<summary>Referenced By (14)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -779,6 +830,14 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:12:42](/episodes/ep-O4Zw3bCALjU.md#t-00-12-42): “If all else fails, just talk about the Bible. Turning Point USA Faith grift just keeps on going on.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:51:07](/episodes/ep-BvthGQw3_s0.md#t-00-50-30): “And I agree with that. It is a veneer. The TPUSA faith thing is a veneer. We've talked about the pastors that are involved.”
+
+</details>
+
 - **[James Kaddis](/entities/person-james-kaddis.md)** director of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -815,10 +874,11 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:36:13](/episodes/ep-Dkxa9OUA9K8.md#t-01-35-46): “Thus, much about leaving Erika (Erika Kirk) out of the story. Charlie (Charlie Kirk) was already married to her. She was the one who was driving home Turning Point Faith. In fact, Charlie (Charlie Kirk) said as much on stage in Aspen. Notorious Aspen trip, Charlie (Charlie Kirk) said when he mentioned Turning Point USA Faith that his wife does a lot of work for Turning Point USA Faith.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:04:11](/episodes/ep-YeEtS7nix3o.md#t-01-03-53): “Of course, my wife, Erika Kirk, is very involved in the faith division.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:31:55](/episodes/ep-BvthGQw3_s0.md#t-00-31-55): “Thursday assembly. Thursday morning, it reads our high school and middle school students at the Flamingo campus will have a special assembly featuring guest speaker Erika Kirk who leads Turning Point Faith.”
 
 </details>
 
@@ -834,7 +894,26 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA Faith (24)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA Faith (27)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2)</summary>
+
+- [00:31:55](/episodes/ep-BvthGQw3_s0.md#t-00-31-55) (Citation) **Nampa Christian Schools** (via quoted document): ["Nampa Christian's newsletter announced a Thursday morning assembly for..."](/statements/statement-4a1e22e32124.md)
+  - Also about: [Nampa Christian Schools](/entities/org-nampa-christian-schools.md), [Nampa Christian Flamingo Campus](/entities/org-nampa-christian-flamingo-campus.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:51:07](/episodes/ep-BvthGQw3_s0.md#t-00-50-30) (Opinion) **Candace Owens**: ["Owens characterized TPUSA Faith as a veneer and said its partnership w..."](/statements/statement-9bd4346faf0f.md)
+  - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:08:37](/episodes/ep-O4Zw3bCALjU.md#t-00-08-21) (Claim) **Candace Owens**: ["Owens said Jeremy Boreing was never friends with Charlie Kirk, did not..."](/statements/statement-46d23f7171ec.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>

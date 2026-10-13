@@ -16,7 +16,7 @@ date: "2026-04"
 
 > Lance Twiggs gave a recorded interview under use immunity.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
@@ -33,3 +33,11 @@ date: "2026-04"
 <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=2751s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I think they shot it in like April 20th of 2026 that is not compelling to me for somebody
+
+### 3. A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemor...
+
+**Episode:** [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md)
+**Timestamp:** [00:22:03](/episodes/ep-kn1E0scy9Wc.md#t-00-21-40) 
+<a href="https://www.youtube.com/watch?v=kn1E0scy9Wc&t=1323s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> brought in Lance for a second statement in April.

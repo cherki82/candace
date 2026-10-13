@@ -1,6 +1,6 @@
 ---
 title: "Democratic National Committee"
-description: "Democratic National Committee (Organizations) - 3 mentions"
+description: "Democratic National Committee (Organizations) - 4 mentions"
 id: "org-democratic-national-committee"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Democratic National Committee Presidential Code of Conduct](https://dem
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-democratic-national-committee-t-00-07-31">2025-11-10 · 00:07:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-org-democratic-national-committee-t-00-07-39">2026-02-09 · 00:07:59</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-52-28">2026-10-01 · 00:52:28</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Democratic National Committee Presidential Code of Conduct](https://dem
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-democratic-national-committee-t-00-07-31" style="--pulse-height:100%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-democratic-national-committee-t-00-14-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-democratic-national-committee-t-00-07-39" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-52-28" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Democratic National Committee Presidential Code of Conduct](https://dem
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-democratic-national-committee-t-00-07-31) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-democratic-national-committee-t-00-14-00) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-democratic-national-committee-t-00-07-39) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-52-28) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Democratic National Committee Presidential Code of Conduct](https://dem
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:52:28](/episodes/ep-q4m-kGzvwjw.md#t-00-52-28)**
+> "Police responding to a Virginia traffic accident in 2024 captured these images of Brian J. Cole Jr. More than a year before federal authorities took him into custody and accused him of planting pipe bombs near Democratic and Republican headquarters in Washington, D.C."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>

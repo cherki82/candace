@@ -1,6 +1,6 @@
 ---
 title: "Nashville"
-description: "Nashville (Places) - 32 mentions"
+description: "Nashville (Places) - 35 mentions"
 id: "gpe-nashville"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nashville-t-00-13-53">2025-10-31 · 00:14:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-nashville-t-00-02-22">2026-08-31 · 00:02:31</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-nashville-t-00-48-05">2026-10-05 · 00:48:16</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -55,6 +55,7 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-nashville-t-00-45-10" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-nashville-t-00-52-17" style="--pulse-height:20%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-nashville-t-00-02-22" style="--pulse-height:20%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-nashville-t-00-02-48" style="--pulse-height:60%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-nashville-t-00-45-10) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-nashville-t-00-52-17) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-nashville-t-00-02-22) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-nashville-t-00-02-48) | 3 |
 
 </details>
 </section>
@@ -85,7 +87,21 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:03:13](/episodes/ep-ms5ChhZegRg.md#ent-gpe-nashville-t-00-02-48)**
+> "...w that I run these streets in Nashville. I am the Tennessee mafia, the kingpin, the godmo..."
+
+**[00:03:21](/episodes/ep-ms5ChhZegRg.md#ent-gpe-nashville-t-00-03-21)**
+> "...llegals. I am the Scarface of Nashville. I haven't actually seen that movie, by the way, ..."
+
+**[00:48:16](/episodes/ep-ms5ChhZegRg.md#ent-gpe-nashville-t-00-48-05)**
+> "...s up in mansions down here in Nashville and Baron (Baron Coleman) is going to have access..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 574 mentions"
+description: "God (Concepts) - 614 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#t-00-08-02">2026-09-10 · 00:08:30</a></strong></div>
-<div><span>Episodes</span><strong>113</strong></div>
-<div><span>Mentions</span><strong>574</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#t-00-52-31">2026-10-08 · 00:52:49</a></strong></div>
+<div><span>Episodes</span><strong>124</strong></div>
+<div><span>Mentions</span><strong>614</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -147,6 +147,17 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-FGoeoZxDN1c.md#t-00-29-33" style="--pulse-height:10%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#t-00-26-27" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#t-00-08-02" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#t-00-25-46" style="--pulse-height:23%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 7 mentions" title="2026-09-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#t-01-01-56" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#t-00-55-23" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#t-00-26-09" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-47-35" style="--pulse-height:10%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-01-23-18" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#t-00-09-27" style="--pulse-height:27%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 8 mentions" title="2026-09-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-31-13" style="--pulse-height:13%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 4 mentions" title="2026-10-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#t-00-35-29" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#t-00-02-09" style="--pulse-height:10%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#t-00-45-55" style="--pulse-height:20%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 6 mentions" title="2026-10-08 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -265,6 +276,17 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#t-00-29-33) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-26-27) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#t-00-08-02) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#t-00-25-46) | 7 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#t-01-01-56) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#t-00-55-23) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#t-00-26-09) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-47-35) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-01-23-18) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#t-00-09-27) | 8 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-31-13) | 4 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-00-35-29) | 2 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#t-00-45-55) | 6 |
 
 </details>
 </section>
@@ -272,7 +294,176 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (574)</strong></summary>
+<summary><strong class="section-title">Raw mentions (614)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (6 mentions)</summary>
+
+**[00:46:19](/episodes/ep-UAdBEXs7nNc.md#t-00-45-55)**
+> "God does work in mysterious ways. The truth needs no ..."
+
+**[00:47:30](/episodes/ep-UAdBEXs7nNc.md#t-00-47-12)**
+> "...ind. Truth grows organically. God bless. And St. Joan of Arc, pray for us. Christ i..."
+
+**[00:47:50](/episodes/ep-UAdBEXs7nNc.md#t-00-47-12)**
+> "...s every time you're pregnant. God bless you and your family. We ride at dawn for Ca..."
+
+**[00:50:01](/episodes/ep-UAdBEXs7nNc.md#t-00-49-44)**
+> "God bless you, Candace, your team, your family, and e..."
+
+**[00:50:13](/episodes/ep-UAdBEXs7nNc.md#t-00-50-13)**
+> "...e, lol. Enjoy the little one. God bless you and yours." I mean, from the beginning,..."
+
+**[00:52:49](/episodes/ep-UAdBEXs7nNc.md#t-00-52-31)**
+> "God bless you and yours today and always. Thank you s..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:02:35](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09)**
+> "...you know what? Ha ha, because God really does have the best sense of humor. Yesterd..."
+
+**[00:47:14](/episodes/ep-yrg_-D6oNHE.md#t-00-46-53)**
+> ".... It makes me really sad. May God protect you and your family always."
+
+**[00:47:51](/episodes/ep-yrg_-D6oNHE.md#t-00-47-33)**
+> "...ity unverified) writes, oh my God, my new neighbor bought a rundown house with an L..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:35:29](/episodes/ep-0pSAhaAZz1w.md#t-00-35-29)**
+> "...nd hope. And this year alone, God has used preborn to save nearly 60,000 babies fro..."
+
+**[01:09:05](/episodes/ep-0pSAhaAZz1w.md#t-01-09-05)**
+> "I pray that God gives people courage to speak the truth and not l..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4 mentions)</summary>
+
+**[00:31:40](/episodes/ep-ms5ChhZegRg.md#t-00-31-13)**
+> "And this year alone, God has used preborn to save nearly 60,000 babies fro..."
+
+**[00:45:33](/episodes/ep-ms5ChhZegRg.md#t-00-45-21)**
+> "God intervenes and the shows that were scheduled to t..."
+
+**[00:46:17](/episodes/ep-ms5ChhZegRg.md#t-00-46-04)**
+> "...the best part of the way that God works is not only He has two nights. He wore both..."
+
+**[00:52:29](/episodes/ep-ms5ChhZegRg.md#t-00-52-03)**
+> "... said, I don't. I don't know. God bless their hearts. They are very innocent souls...."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (8 mentions)</summary>
+
+**[00:09:48](/episodes/ep-5TTkMa49qj8.md#t-00-09-27)**
+> "what happens if, you know, God forbid the president and the vice president die? ..."
+
+**[00:14:03](/episodes/ep-5TTkMa49qj8.md#t-00-14-03)**
+> "Oh my god, I love your bracelet. Where did you get it?"
+
+**[00:34:43](/episodes/ep-5TTkMa49qj8.md#t-00-34-33)**
+> "...nd hope. And this year alone, God has used pre-born to save nearly 60,000 babies fr..."
+
+**[00:56:17](/episodes/ep-5TTkMa49qj8.md#t-00-55-55)**
+> "...unbearable, yet you march on. God bless you, Candace. What a true friend and truth ..."
+
+**[00:57:10](/episodes/ep-5TTkMa49qj8.md#t-00-56-37)**
+> "..., first time catching a live. God bless and protect you and your precious family. A..."
+
+**[00:57:34](/episodes/ep-5TTkMa49qj8.md#t-00-57-20)**
+> "... if the soldiers come, I have God, my Lord, who will know how to clear the route."
+
+**[01:01:27](/episodes/ep-5TTkMa49qj8.md#t-01-01-27)**
+> "...ing even stronger behind you. God in the truth. Go Max Candace."
+
+**[01:03:56](/episodes/ep-5TTkMa49qj8.md#t-01-03-19)**
+> "God bless you, Candace. We have reached the comedy er..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:47:46](/episodes/ep-_Sq5RqP27NY.md#t-00-47-35)**
+> "Thank you for everything. God bless. Christ is king. Go Max. Thank you so much...."
+
+**[00:49:55](/episodes/ep-_Sq5RqP27NY.md#t-00-49-37)**
+> "...appening exactly the way that God wants it to happen. I truly believe that."
+
+**[00:50:51](/episodes/ep-_Sq5RqP27NY.md#t-00-50-21)**
+> "...ven sheets writes truth. Just God bless and protect you and your beautifully growin..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:23:42](/episodes/ep-bIuvTKlFeGo.md#t-01-23-18)**
+> "...tice for him. Keep going max. God bless.' That makes—I don't know why it makes me v..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:26:16](/episodes/ep-6XfDqKTdFKg.md#t-00-26-09)**
+> "...nd hope. And this year alone, God has used preborn to save nearly 60,000 babies fro..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:55:23](/episodes/ep-aLJhpxrakCU.md#t-00-55-23)**
+> "...er UVU for security failures. God forbid Candace (Candace Owens) says something tha..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[01:01:56](/episodes/ep-kn1E0scy9Wc.md#t-01-01-56)**
+> "... was not falling from my face god bless you candace thank you that i'm just so happ..."
+
+**[01:02:39](/episodes/ep-kn1E0scy9Wc.md#t-01-02-39)**
+> "...ified) writes, coincidence is God's way of remaining anonymous. You are uncovering ..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (7 mentions)</summary>
+
+**[00:26:10](/episodes/ep-O4Zw3bCALjU.md#t-00-25-46)**
+> "...nd hope. And this year alone, God has used Preborn to save nearly 60,000 babies fro..."
+
+**[00:39:45](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45)**
+> "... the enemy intended for evil, God is using for good. I want to praise so many of yo..."
+
+**[00:40:28](/episodes/ep-O4Zw3bCALjU.md#t-00-40-28)**
+> "...ur Commit 100 program. And so God bless you guys. And we even have some friends of ..."
+
+**[00:42:25](/episodes/ep-O4Zw3bCALjU.md#t-00-42-25)**
+> "...hrist). We will stand anyway. God will not be mocked. We'll put his name right back..."
+
+**[00:53:31](/episodes/ep-O4Zw3bCALjU.md#t-00-53-31)**
+> "...lie Kirk), that they will ask God to send you the graces that you need to always st..."
+
+**[00:56:06](/episodes/ep-O4Zw3bCALjU.md#t-00-55-34)**
+> "God bless you. Keep going, Max. We are with you all t..."
+
+**[00:56:18](/episodes/ep-O4Zw3bCALjU.md#t-00-56-18)**
+> "...trength and power of trust in God. Christ (Jesus Christ) is King. Yeah, and it's sa..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>

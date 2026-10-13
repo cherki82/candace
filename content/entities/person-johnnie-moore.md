@@ -1,6 +1,6 @@
 ---
 title: "Johnnie Moore"
-description: "Johnnie Moore (People) - 46 mentions"
+description: "Johnnie Moore (People) - 47 mentions"
 id: "person-johnnie-moore"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23">2026-08-06 · 00:18:30</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-johnnie-moore-t-00-25-09">2026-10-01 · 00:25:20</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>33</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -49,6 +49,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47" style="--pulse-height:12%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-johnnie-moore-t-00-21-18" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-johnnie-moore-t-00-25-09" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-johnnie-moore-t-00-21-18) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-johnnie-moore-t-00-25-09) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:25:20](/episodes/ep-q4m-kGzvwjw.md#ent-person-johnnie-moore-t-00-25-09)**
+> "On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working"
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -289,12 +299,19 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
-<summary>Affiliated With (1)</summary>
+<summary>Affiliated With (2)</summary>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15): “So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,”
+
+</details>
+
+- **[KAIROS Company](/entities/org-kairos-company.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working ... With Kairos when I met him and TPUSA took on Andrew (Andrew Kolvet) took on TPUSA through Kairos. If I remember correctly, his email address at the time it no longer is was at the Kairos company.”
 
 </details>
 
@@ -316,9 +333,10 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Chairman Of (1)</summary>
 
 - **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working”
 
 </details>
 
@@ -547,9 +565,10 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 - **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)** has chairman this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working”
 
 </details>
 
@@ -575,9 +594,10 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47): “Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, Johnnie Moore on the board of NCRI when the Christ is King report was published.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working ... With Kairos when I met him and TPUSA took on Andrew (Andrew Kolvet) took on TPUSA through Kairos. If I remember correctly, his email address at the time it no longer is was at the Kairos company.”
 
 </details>
 
@@ -609,7 +629,15 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Johnnie Moore (18)</strong></summary>
+<summary><strong class="section-title">Statements about Johnnie Moore (19)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09) (Claim) **Candace Owens**: ["Owens said Johnnie Moore became Gaza aid-project chairman June 3 and w..."](/statements/statement-b64c8946157a.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [KAIROS Company](/entities/org-kairos-company.md), [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

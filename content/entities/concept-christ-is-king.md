@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 64 mentions"
+description: "Christ Is King (Concepts) - 67 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christ-is-king-t-01-06-16">2025-09-17 · 01:06:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-01-01-16">2026-09-02 · 01:01:27</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-christ-is-king-t-01-05-28">2026-09-30 · 01:05:28</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -67,6 +67,8 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-08-04" style="--pulse-height:60%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christ-is-king-t-00-50-18" style="--pulse-height:20%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-00-58-33" style="--pulse-height:60%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-christ-is-king-t-00-47-35" style="--pulse-height:20%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-christ-is-king-t-00-57-20" style="--pulse-height:40%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +107,8 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-08-04) | 3 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-christ-is-king-t-00-50-18) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-00-58-33) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-christ-is-king-t-00-47-35) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-christ-is-king-t-00-57-20) | 2 |
 
 </details>
 </section>
@@ -112,7 +116,26 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:57:20](/episodes/ep-5TTkMa49qj8.md#ent-concept-christ-is-king-t-00-57-20)**
+> "... than spending time with you. Christ is king."
+
+**[01:05:28](/episodes/ep-5TTkMa49qj8.md#ent-concept-christ-is-king-t-01-05-28)**
+> "Christ is—sorry, Christ is King. 4 p.m. Eastern on Friday is the book club. You c..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:47:46](/episodes/ep-_Sq5RqP27NY.md#ent-concept-christ-is-king-t-00-47-35)**
+> "...ou for everything. God bless. Christ is king. Go Max. Thank you so much. I wouldn't even, by t..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>

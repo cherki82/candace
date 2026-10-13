@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 153 mentions"
+description: "Gaza (Places) - 161 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-gaza-t-00-44-30">2025-09-17 · 00:44:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-gaza-t-00-33-38">2026-09-03 · 00:33:38</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>153</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-01-05-28">2026-09-30 · 01:05:37</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>161</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Statements about</span><strong>42</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -79,6 +79,9 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-gaza-t-00-18-23" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-gaza-t-00-33-38" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-gaza-t-00-44-05" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-gaza-t-00-31-55" style="--pulse-height:14%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 2 mentions" title="2026-09-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-00-10-01" style="--pulse-height:36%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 5 mentions" title="2026-09-30 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +131,9 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-gaza-t-00-18-23) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-gaza-t-00-33-38) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-gaza-t-00-44-05) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-gpe-gaza-t-00-31-55) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-00-10-01) | 5 |
 
 </details>
 </section>
@@ -139,7 +145,46 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+<summary><strong class="section-title">Raw mentions (161)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (5 mentions)</summary>
+
+**[00:10:36](/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-00-10-01)**
+> "...ave an opinion on genocide in Gaza, all of it. It's central to the political divide ..."
+
+**[00:29:14](/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-00-29-14)**
+> "...criticize Israel's actions in Gaza, even as he received mounting pressure from Zioni..."
+
+**[00:29:36](/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-00-29-14)**
+> "...her about Israel's actions in Gaza."
+
+**[00:59:13](/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-00-59-05)**
+> "...pdated Google Earth images of Gaza.'"
+
+**[01:05:37](/episodes/ep-5TTkMa49qj8.md#ent-gpe-gaza-t-01-05-28)**
+> "...not be changing my mind about Gaza being a genocide. I got fired for that. Can you g..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2 mentions)</summary>
+
+**[00:32:28](/episodes/ep-BvthGQw3_s0.md#ent-gpe-gaza-t-00-31-55)**
+> "...bing innocent Palestinians in Gaza."
+
+**[00:32:45](/episodes/ep-BvthGQw3_s0.md#ent-gpe-gaza-t-00-32-38)**
+> "... Israel. Bomb the crap out of Gaza while you wait for the release of the innocent."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:44:05](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-gaza-t-00-44-05)**
+> "...and clear so that people from Gaza all the way to the occupied West Bank know that w..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -821,7 +866,43 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gaza (35)</strong></summary>
+<summary><strong class="section-title">Statements about Gaza (42)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (5)</summary>
+
+- [00:29:14](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) (Claim) **Clara Molot** (via quoted article): ["Molot wrote that in his last year Charlie Kirk became increasingly wil..."](/statements/statement-67575892227c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:29:36](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) (Opinion) **Erika Kirk** (via quoted article): ["Erika Kirk said people can question how other leaders run their countr..."](/statements/statement-be80bfa3b76f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Israel](/entities/gpe-israel.md), [Freedom of speech](/entities/concept-free-speech.md)
+
+- [00:59:13](/episodes/ep-5TTkMa49qj8.md#t-00-59-05) (Opinion) **Flower Powers (commenter; identity unverified)** (via quoted post): ["The commenter “Flower Powers” called Erika Kirk Turning Point USA’s “n..."](/statements/statement-77f827ba22ff.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:05:37](/episodes/ep-5TTkMa49qj8.md#t-01-05-28) (Opinion) **Candace Owens**: ["Owens said she would not change her position that Gaza is a genocide."](/statements/statement-3925e3f7da7c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:05:37](/episodes/ep-5TTkMa49qj8.md#t-01-05-28) (Claim) **Candace Owens**: ["Owens said she was fired for her position that Gaza is a genocide."](/statements/statement-5ac60a61b7c3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:32:45](/episodes/ep-BvthGQw3_s0.md#t-00-32-38) (Opinion) **Handle Idaho Heartland (identity unverified)** (via quoted tweet): ["The Idaho Heartland account tweeted: 'Bomb the crap out of Gaza while ..."](/statements/statement-f88b5c048a6a.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:43:31](/episodes/ep-kn1E0scy9Wc.md#t-00-43-31) (Opinion) **Macklemore** (via quoted speech): ["Macklemore said one reason he joined the tour was to say 'free Palesti..."](/statements/statement-212c179bcd7e.md)
+  - Also about: [Palestine](/entities/gpe-palestine.md), [West Bank](/entities/gpe-west-bank.md)
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Cardiopulmonary resuscitation"
-description: "Cardiopulmonary resuscitation (Concepts) - 67 mentions"
+description: "Cardiopulmonary resuscitation (Concepts) - 98 mentions"
 id: "concept-cardiopulmonary-resuscitation"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-cardiopulmonary-resuscitation-t-00-38-48">2026-06-17 · 00:38:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-13">2026-09-09 · 00:22:35</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-41-51">2026-10-08 · 00:41:59</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -46,6 +46,11 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-01" style="--pulse-height:25%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-08-49" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 12 mentions" title="2026-09-09 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-05-18" style="--pulse-height:75%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 9 mentions" title="2026-09-14 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-32" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-11" style="--pulse-height:75%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 9 mentions" title="2026-10-05 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-57-29" style="--pulse-height:33%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-15" style="--pulse-height:67%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 8 mentions" title="2026-10-08 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +67,11 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-01) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-08-49) | 12 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-05-18) | 9 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-32) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-11) | 9 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-57-29) | 4 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-15) | 8 |
 
 </details>
 </section>
@@ -73,7 +83,125 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (8 mentions)</summary>
+
+**[00:31:51](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-15)**
+> "...wound, said that there was no CPR, that he's the one that's trying to stop the blee..."
+
+**[00:33:31](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-33-29)**
+> "...d, you also said you provided CPR, but Brian (Brian Harpole) was distracted. Well, ..."
+
+**[00:34:06](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-33-29)**
+> "...top the bleeding. I switch to CPR."
+
+**[00:34:12](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-12)**
+> "...ank (Frank Turek) switches to CPR."
+
+**[00:34:53](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-53)**
+> "...ntion of a fire captain doing CPR, which was revealed by the independent review."
+
+**[00:35:28](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-53)**
+> "...ence. You say you switched to CPR."
+
+**[00:41:29](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-41-07)**
+> "...ire captain that administered CPR to Charlie (Charlie Kirk) at the hospital, please..."
+
+**[00:41:59](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-41-51)**
+> "...usin. He was the one that did CPR that day. That's the information that we're looki..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[00:57:29](/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-57-29)**
+> "...ing weird about the fact that CPR was done by a fire captain who was meeting them t..."
+
+**[00:58:10](/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-58-10)**
+> "...k to a hospital ER to perform CPR on a corpse that has been deceased for 15 minutes..."
+
+**[00:58:25](/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-58-10)**
+> "...ey are highly qualified to do CPR and you can see a million in one circumstances wh..."
+
+**[00:58:35](/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-58-35)**
+> "...know, that they may help with CPR potentially on the spot. Actually, you would thin..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (9 mentions)</summary>
+
+**[00:22:11](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-11)**
+> "...pertaining to the question of CPR. The CPR question is a point of impossible conten..."
+
+**[00:22:22](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-11)**
+> "...d Frank Turek who said he did CPR. He administered it from the back, administered C..."
+
+**[00:22:44](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-11)**
+> "CPR actually was not administered in the car or anywh..."
+
+**[00:23:24](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-23-24)**
+> "...hospital and began performing CPR on Charlie (Charlie Kirk)."
+
+**[00:26:19](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-26-02)**
+> "...ation 2 assisted in providing CPR to Charlie Kirk at the hospital."
+
+**[00:29:55](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-29-55)**
+> "...te answer as to who performed CPR, who met Charlie (Charlie Kirk)'s SUV at the hosp..."
+
+**[00:30:10](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-29-55)**
+> "... remember no one remembers no CPR remembers CPR in the last 30 seconds, but none of..."
+
+**[00:30:38](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-30-38)**
+> "...ire captain was that provided CPR to Charlie (Charlie Kirk) who might have been wit..."
+
+**[00:31:24](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-13)**
+> "...ire captain was who conducted CPR. are more tips at candaceowens.com."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:34:57](/episodes/ep-bIuvTKlFeGo.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-32)**
+> "...s a fire chief that performed CPR, throws into further chaos various statements tha..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (9 mentions)</summary>
+
+**[00:05:50](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-05-18)**
+> "...memories as to whether or not CPR was performed in the car, short car journey on th..."
+
+**[00:08:44](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-08-21)**
+> "...cant matter of whether or not CPR was given to Charlie (Charlie Kirk)."
+
+**[00:09:59](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-09-59)**
+> "...well, where I said that I did CPR and Brian (Brian Harpole) says I didn't."
+
+**[00:10:12](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-10-12)**
+> "...it then. Whether or not I did CPR has no bearing on who killed Charlie Kirk."
+
+**[00:11:10](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-11-10)**
+> "...he hospital, we weren't doing CPR."
+
+**[00:11:34](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-11-34)**
+> "... seconds, I tried to give him CPR."
+
+**[00:11:53](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-11-53)**
+> "...y right. No, we weren't doing CPR. I just tried it in the last few seconds, the las..."
+
+**[00:13:00](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-12-42)**
+> "... Harpole would remember. It's CPR is not a subtle thing that you do, right?"
+
+**[00:13:06](/episodes/ep-O4Zw3bCALjU.md#ent-concept-cardiopulmonary-resuscitation-t-00-12-42)**
+> "... in the correct way and to do CPR."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (12 mentions)</summary>
@@ -341,7 +469,66 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cardiopulmonary resuscitation (2)</strong></summary>
+<summary><strong class="section-title">Statements about Cardiopulmonary resuscitation (15)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3)</summary>
+
+- [00:34:06](/episodes/ep-UAdBEXs7nNc.md#t-00-33-29) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said all three people in the back were stil..."](/statements/statement-ad8357ad7608.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Rick Cutler](/entities/person-rick-cutler.md)
+
+- [00:34:53](/episodes/ep-UAdBEXs7nNc.md#t-00-34-53) (Accusation) **Candace Owens**: ["Owens said Turek's published account omitted the fire captain doing CP..."](/statements/statement-c35f8a8526de.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:29](/episodes/ep-UAdBEXs7nNc.md#t-00-41-07) (Claim) **Candace Owens**: ["Owens said her team had narrowed the identity of the fire captain who ..."](/statements/statement-54ddcb2ce5b2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:58:04](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29) (Accusation) **Fire-captain CPR question commenter (identity unverified)** (via read message): ["An unnamed viewer asked how often a fire captain rode a fire truck to ..."](/statements/statement-02c07339a076.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:59:02](/episodes/ep-0pSAhaAZz1w.md#t-00-58-35) (Promise) **Candace Owens**: ["Owens said she wanted to identify the fire captain involved in CPR and..."](/statements/statement-27e75e742dac.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4)</summary>
+
+- [00:22:22](/episodes/ep-ms5ChhZegRg.md#t-00-22-11) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Frank Turek’s account as saying he administered CP..."](/statements/statement-b20130da6d78.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:36](/episodes/ep-ms5ChhZegRg.md#t-00-22-11) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Brian Harpole’s account as saying CPR was not admi..."](/statements/statement-ac2063959bf8.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:23:24](/episodes/ep-ms5ChhZegRg.md#t-00-23-24) (Accusation) **Candace Owens**: ["Owens alleged neither Brian Harpole nor Frank Turek mentioned the fire..."](/statements/statement-be51e39834e1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:35](/episodes/ep-ms5ChhZegRg.md#t-00-25-23) (Citation) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The UVU independent review stated that fire personnel from Stations 1 ..."](/statements/statement-fc50ff3e6efa.md)
+  - Also about: [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Unnamed Station 2 fire captain described in UVU review (identity unverified)](/entities/anon-src-ms5ChhZegRg-018.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4)</summary>
+
+- [00:09:59](/episodes/ep-O4Zw3bCALjU.md#t-00-09-59) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he had claimed to perform CPR in the car, while Brian..."](/statements/statement-4ac349390ea2.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:12](/episodes/ep-O4Zw3bCALjU.md#t-00-10-12) (Opinion) **Frank Turek** (via quoted speech): ["Frank Turek said whether he performed CPR had no bearing on who killed..."](/statements/statement-826c547378e9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:59](/episodes/ep-O4Zw3bCALjU.md#t-00-10-37) (Accusation) **Bobby Sausalito** (via quoted speech): ["Bobby Sausalito alleged that Frank Turek and Brian Harpole could not b..."](/statements/statement-444f9d3708b3.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:13:31](/episodes/ep-O4Zw3bCALjU.md#t-00-13-25) (Claim) **Candace Owens**: ["Owens said Brian Harpole was suing her on the basis that he provided u..."](/statements/statement-0d5bdd39ab4a.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>

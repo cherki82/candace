@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Owens interpreted footage as showing security driver Christopher, whose surname is unverified, and Nate Walker upstairs near the Sorensen building minutes before Kirk was struck.
 
-## Mentioned In (2 times)
+## Mentioned In (4 times)
 
 ### 1. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
 
@@ -33,3 +33,19 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=737s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The driver, who one might assume had the keys, Chris, and who had previously locked that car at some point before the explosive goes off, he presumably unlocks the car and then makes a decision to go upstairs with Charlie's assistant, Nate Walker, heading toward the Sorensen Center. ... Just before the bang, I mean, minutes before the bang. And like I said, some people thought that maybe it's Mikey who handed those keys to Justin Davis because Mikey was, in fact, in the car. Maybe he had a spare set during that little front-of-car powwow. Maybe. I do think it's odd that both Danny and Mikey instantly went to that exact spot, separately but instantly, especially Danny, because Danny didn't arrive in that car.
+
+### 3. SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final M...
+
+**Episode:** [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md)
+**Timestamp:** [00:16:43](/episodes/ep-_2DiIbfy4mU.md#event-event-2025-09-10-owens-interpreted-footage-as-showing-sec-t-00-16-31) 
+<a href="https://www.youtube.com/watch?v=_2DiIbfy4mU&t=1003s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> We know for a fact that Nate Walker, after dropping off this bag in the car, is going to head up
+
+### 4. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:20:36](/episodes/ep-UAdBEXs7nNc.md#event-event-2025-09-10-owens-interpreted-footage-as-showing-sec-t-00-20-01) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=1236s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Christopher Rhoades, as we know, is the one who mysteriously went up to the rooftop with Nate Walker

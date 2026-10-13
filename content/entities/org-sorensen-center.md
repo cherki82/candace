@@ -1,6 +1,6 @@
 ---
 title: "Sorensen Center"
-description: "Sorensen Center (Organizations) - 14 mentions"
+description: "Sorensen Center (Organizations) - 20 mentions"
 id: "org-sorensen-center"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56">2025-09-30 · 00:16:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-21-55">2026-09-03 · 00:21:55</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-sorensen-center-t-00-29-09">2026-10-07 · 00:29:09</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,12 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-12-04" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-sorensen-center-t-00-27-33" style="--pulse-height:33%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#t-00-05-54" style="--pulse-height:33%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-sorensen-center-t-00-21-30" style="--pulse-height:33%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-sorensen-center-t-00-16-31" style="--pulse-height:33%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-sorensen-center-t-00-42-04" style="--pulse-height:33%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-sorensen-center-t-00-29-09" style="--pulse-height:33%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +59,12 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-12-04) | 3 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-sorensen-center-t-00-27-33) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#t-00-05-54) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-sorensen-center-t-00-21-30) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-sorensen-center-t-00-16-31) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-sorensen-center-t-00-42-04) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-sorensen-center-t-00-29-09) | 1 |
 
 </details>
 </section>
@@ -64,7 +76,55 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:29:09](/episodes/ep-yrg_-D6oNHE.md#ent-org-sorensen-center-t-00-29-09)**
+> "The Sorensen Center has a couple of staircases that go up to walkways..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:42:13](/episodes/ep-bIuvTKlFeGo.md#ent-org-sorensen-center-t-00-42-04)**
+> "The Sorensen Student Center has a couple staircases that go up to the walkway..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:16:43](/episodes/ep-_2DiIbfy4mU.md#ent-org-sorensen-center-t-00-16-31)**
+> "... Hall of Flags and toward the Sorenson Center with Charlie (Charlie Kirk)'s driver, Chris (Char..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:22:00](/episodes/ep-BvthGQw3_s0.md#ent-org-sorensen-center-t-00-21-30)**
+> "...to go to the Chick-fil-A. The Sorensen center is going to purchase food. He's going to sit. He'..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:06:10](/episodes/ep-NNiCZk1cuzs.md#t-00-05-54)**
+> "including those just walking by, but PD and event coordinators estimated the attendance at approximately 3,000. While the tour stop was slated to take place in the Sorenson Student Center courtyard and ultimately ended up occurring there, someone with a UVU email address whose name was redacted by the school suggested that the event be held elsewhere on campus."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:27:33](/episodes/ep-aLJhpxrakCU.md#ent-org-sorensen-center-t-00-27-33)**
+> "...be set up at Utah Valley. The Sorensen Student Center has a couple of staircases that go up to the walk..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
@@ -170,7 +230,39 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sorensen Center (2)</strong></summary>
+<summary><strong class="section-title">Statements about Sorensen Center (6)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:28:55](/episodes/ep-yrg_-D6oNHE.md#t-00-28-30) (Citation) **Brian Harpole** (via quoted speech): ["In the interview clip, Harpole described correspondence to Chief Long ..."](/statements/statement-2959b2e96612.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:16:43](/episodes/ep-_2DiIbfy4mU.md#t-00-16-31) (Claim) **Candace Owens**: ["Owens says Nate Walker headed toward the Hall of Flags and Sorensen Ce..."](/statements/statement-4a3f54c68078.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Danny Philip](/entities/person-danny-philip.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:21:44](/episodes/ep-BvthGQw3_s0.md#t-00-21-30) (Citation) **Candace Owens**: ["Owens said Tyler Robinson reportedly returned to campus at 10:09 a.m.,..."](/statements/statement-3729ceefc437.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Chick-fil-A](/entities/org-chick-fil-a.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:27:25](/episodes/ep-aLJhpxrakCU.md#t-00-26-50) (Claim) **Anonymous Source #16 (Ep aLJhpxrakCU)** (via read message): ["Owens introduced the quoted student-group message with “Apparently”; i..."](/statements/statement-acf2157e376a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "AmericaFest 2025"
-description: "AmericaFest 2025 (Events) - 44 mentions"
+description: "AmericaFest 2025 (Events) - 47 mentions"
 id: "event-americafest-2025"
 type: "EVENT"
 aliases:
@@ -26,13 +26,13 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04">2026-01-05 · 00:02:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-event-americafest-2025-t-00-45-27">2026-09-08 · 00:45:27</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-event-americafest-2025-t-00-22-01">2026-09-30 · 00:22:08</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -58,6 +58,8 @@ Source: [AmericaFest](https://www.amfest.com/)
 <a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-event-americafest-2025-t-00-45-27" style="--pulse-height:10%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-event-americafest-2025-t-00-07-27" style="--pulse-height:10%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-event-americafest-2025-t-00-21-16" style="--pulse-height:20%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +84,8 @@ Source: [AmericaFest](https://www.amfest.com/)
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-event-americafest-2025-t-00-45-27) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-event-americafest-2025-t-00-07-27) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-event-americafest-2025-t-00-21-16) | 2 |
 
 </details>
 </section>
@@ -89,11 +93,31 @@ Source: [AmericaFest](https://www.amfest.com/)
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the AmFest suit-fit explanation was disputed](/threads/thread-erika-amfest-suit-fit-dispute) — Tracks Erika Kirk’s quoted explanation that only the sparkly suit fit and Owens’s later rebuttal using other public outfits; it does not establish what fit on the day.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:21:16](/episodes/ep-5TTkMa49qj8.md#ent-event-americafest-2025-t-00-21-16)**
+> "a designer suit to open AmFest in her husband's stead. Erica (Erika Kirk) says t..."
+
+**[00:22:08](/episodes/ep-5TTkMa49qj8.md#ent-event-americafest-2025-t-00-22-01)**
+> "... stylists. Apparently opening AmFest, we're supposed to imagine, caught her off guard."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:07:40](/episodes/ep-bIuvTKlFeGo.md#ent-event-americafest-2025-t-00-07-27)**
+> "...a (Erika Kirk) spotlighted at AmFest, seemingly did not want to help the university th..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -343,9 +367,10 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:21:16](/episodes/ep-5TTkMa49qj8.md#t-00-21-16): “a designer suit to open AmFest in her husband's stead. Erica (Erika Kirk) says this in the article, quote, people can see the sparkly suit on stage, but they have no idea the fact that that was the only thing that fit. ... But Erica (Erika Kirk), she's got a team of people working on her every move: hair, makeup, wardrobe, stylists. Apparently opening AmFest, we're supposed to imagine, caught her off guard.”
 
 </details>
 
@@ -380,9 +405,10 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** spoke at this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:21:16](/episodes/ep-5TTkMa49qj8.md#t-00-21-16): “a designer suit to open AmFest in her husband's stead. Erica (Erika Kirk) says this in the article, quote, people can see the sparkly suit on stage, but they have no idea the fact that that was the only thing that fit. ... But Erica (Erika Kirk), she's got a team of people working on her every move: hair, makeup, wardrobe, stylists. Apparently opening AmFest, we're supposed to imagine, caught her off guard.”
 
 </details>
 
@@ -398,7 +424,18 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about AmericaFest 2025 (16)</strong></summary>
+<summary><strong class="section-title">Statements about AmericaFest 2025 (18)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:21:04](/episodes/ep-5TTkMa49qj8.md#t-00-20-34) (Claim) **Candace Owens**: ["Owens said Erika Kirk’s suit for opening AmFest in her husband’s stead..."](/statements/statement-176d5622ed8e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [ALICE + OLIVIA](/entities/org-alice-and-olivia.md)
+
+- [00:21:16](/episodes/ep-5TTkMa49qj8.md#t-00-21-16) (Opinion) **Erika Kirk** (via quoted article): ["Erika Kirk said people see her sparkly suit on stage but do not know i..."](/statements/statement-22ac91204a96.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>

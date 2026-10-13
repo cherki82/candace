@@ -1,0 +1,23 @@
+---
+title: "Utah County Attorney’s Office Special Victims Unit formerly employed Tony F. Graf Jr."
+description: "Evidence for the relationship: Utah County Attorney’s Office Special Victims Unit formerly employed Tony F. Graf Jr."
+relationship_id: "rel-45094a6aced9"
+subject: "org-utah-county-attorney-special-victims-unit"
+predicate: "formerly employed"
+object: "person-tony-f-graf-jr"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Utah County Attorney’s Office Special Victims Unit](/entities/org-utah-county-attorney-special-victims-unit) formerly employed [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr)
+
+### Evidence (1 mentions)
+
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:08:34](/episodes/ep-kn1E0scy9Wc#t-00-08-34): _So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022._
+
+### Related
+
+- [Utah County Attorney’s Office Special Victims Unit](/entities/org-utah-county-attorney-special-victims-unit)
+- [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr)

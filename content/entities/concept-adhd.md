@@ -1,6 +1,6 @@
 ---
 title: "Attention-deficit/hyperactivity disorder"
-description: "Attention-deficit/hyperactivity disorder (Concepts) - 8 mentions"
+description: "Attention-deficit/hyperactivity disorder (Concepts) - 9 mentions"
 id: "concept-adhd"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-adhd-t-00-01-30">2025-10-29 · 00:01:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-adhd-t-00-50-47">2026-09-02 · 00:50:47</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-adhd-t-00-05-14">2026-10-05 · 00:05:14</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-adhd-t-00-50-47" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-adhd-t-00-05-14" style="--pulse-height:50%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-adhd-t-00-50-47) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-adhd-t-00-05-14) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:05:14](/episodes/ep-ms5ChhZegRg.md#ent-concept-adhd-t-00-05-14)**
+> "...rash on the shore of societal ADHD."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>

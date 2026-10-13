@@ -26,7 +26,7 @@ veracity: "true"
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
-## Appearances (3)
+## Appearances (4)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -51,6 +51,14 @@ veracity: "true"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > day for the past two years I know his personality very well he's a very bubbly guy he's a very happy guy almost all of the time and I'll never forget what I saw because it was clear in the moment that he was profoundly freaked out what I'll always remember is the way his lip was quivering which I'd never seen before and you very rarely see from someone that he was freaking out and then I think he literally said to me I might be imagining this but I think what he literally said was ... says, I need to call Erika. And then he takes his phone and he begins calling Erika. And I don't want to disclose how that call ... unfolded, but he did that this, you know, your mind extends all of this, but that is happening within a minute of all of this occurring. I remember he calls Erika.
+
+### 4. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:03:56](/episodes/ep-UAdBEXs7nNc.md#t-00-03-48) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=236s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And you very rarely see from someone that he was freaking out. And then I think he literally said to me—I might be imagining this—but I think what he literally said was, "He's..." And then he was looking around, and then he says, "I, I need to call Erika (Erika Kirk)." And then he takes his phone and he begins calling Erika (Erika Kirk), and I don't want to disclose how that ... call unfolded, but he did that. This, you know, your mind extends all of this, but that is happening within a minute of all of this occurring. I remember he calls Erika (Erika Kirk). I, around the same time, I pull out my phone and I call my mom just to say, "Mom, there's been a shooting."
 
 ## Verification
 

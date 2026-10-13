@@ -11,11 +11,15 @@ object: "person-otto-a-busher-iii"
 
 ## [Romanian Angels Project](/entities/org-romanian-angels-project) worked with [Otto A. Busher III](/entities/person-otto-a-busher-iii)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 
 - [00:46:58](/episodes/ep-SubDoZWHARo#t-00-46-58): _Colonel Otto Buescher, obviously the Romanian instance with Erika (Erika Kirk) all surrounding what happened at the military. military base and he worked with Romanian angels_
+
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:04:34](/episodes/ep-kn1E0scy9Wc#t-00-04-34): _Colonel Otto Busher (Otto A. Busher III), of course, was accused of running a brothel with Romanian children from 2011-2015 at the Romanian military base. He worked with Erika (Erika Kirk)'s Romanian Angels during this time. David Frodsham, he was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring._
 
 **[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
 

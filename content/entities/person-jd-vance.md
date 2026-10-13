@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 78 mentions"
+description: "JD Vance (People) - 89 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jd-vance-t-00-45-27">2026-09-08 · 00:45:27</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>78</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>26</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-jd-vance-t-00-37-41">2026-10-08 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
+<div><span>Relationships</span><strong>42</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -68,6 +68,12 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jd-vance-t-00-45-27" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-jd-vance-t-00-43-06" style="--pulse-height:12%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-jd-vance-t-00-45-40" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-jd-vance-t-00-29-24" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jd-vance-t-00-29-54" style="--pulse-height:31%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-jd-vance-t-00-45-08" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-jd-vance-t-00-37-41" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +111,12 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-jd-vance-t-00-45-27) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-jd-vance-t-00-43-06) | 2 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-jd-vance-t-00-45-40) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-jd-vance-t-00-29-24) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jd-vance-t-00-29-54) | 5 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-jd-vance-t-00-45-08) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-jd-vance-t-00-37-41) | 1 |
 
 </details>
 </section>
@@ -116,7 +128,70 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:38:00](/episodes/ep-UAdBEXs7nNc.md#ent-person-jd-vance-t-00-37-41)**
+> "... United States Vice President J.D. Vance."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:45:16](/episodes/ep-0pSAhaAZz1w.md#ent-person-jd-vance-t-00-45-08)**
+> "...dent Trump (Donald J. Trump), J.D. Vance. And there's something to be said about the fact ..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5 mentions)</summary>
+
+**[00:29:59](/episodes/ep-q4m-kGzvwjw.md#ent-person-jd-vance-t-00-29-54)**
+> "...k we've corrected that since. J.D. Vance and top advisors meet in a situation room to disc..."
+
+**[00:30:12](/episodes/ep-q4m-kGzvwjw.md#ent-person-jd-vance-t-00-29-54)**
+> "...not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Ste..."
+
+**[00:30:25](/episodes/ep-q4m-kGzvwjw.md#ent-person-jd-vance-t-00-29-54)**
+> "Apparently J.D. Vance was the only one in the room that was arguing for..."
+
+**[00:32:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-jd-vance-t-00-32-36)**
+> "...f you will, were Susie Wiles, J.D. Vance, Todd Blanche, David Warrington, Kash Patel, Pam ..."
+
+**[00:36:23](/episodes/ep-q4m-kGzvwjw.md#ent-person-jd-vance-t-00-36-17)**
+> "...) is telling me that only JD (JD Vance) was on the phone. It doesn't specify who was in ..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:30:01](/episodes/ep-_Sq5RqP27NY.md#ent-person-jd-vance-t-00-29-24)**
+> "...wed it to happen. J.D. Vance (JD Vance) allowed it to happen."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:45:55](/episodes/ep-6XfDqKTdFKg.md#ent-person-jd-vance-t-00-45-40)**
+> "J.D. Vance is asking for another chance. Here's what J.D. Va..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:43:22](/episodes/ep-O4Zw3bCALjU.md#ent-person-jd-vance-t-00-43-06)**
+> "...ust like we're going to elect JD Vance, Charlie (Charlie Kirk)'s statue."
+
+**[00:43:27](/episodes/ep-O4Zw3bCALjU.md#ent-person-jd-vance-t-00-43-06)**
+> "...g to do? We're going to elect JD Vance. We're going to register some ballots."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -538,12 +613,20 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:22](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:45:55](/episodes/ep-6XfDqKTdFKg.md#t-00-45-40): “J.D. Vance is asking for another chance. Here's what J.D. Vance had to say. Take a listen. ... There is a lot of good that we've done over the past 18 months. We cut taxes bigly. We cut taxes on overtime, Social Security, and tips. Those are tax cuts for middle American workers, not just for the elites in Washington and New York City. We've had an amazing success with the border with immigration. We've pursued H-1B reform that prioritizes American workers over foreign nationals. There's a lot of good that's been done, but there's a lot of work left. left to do. Don't give power to the people who cause the problems that we're fixing. Give us another chance or give us another couple of years to continue to work on the amazing things that we've been doing for the past two years. ... How about no? Let me tell us who killed Charlie Kirk and why. Let's start there. How about you tell us, release the rest of the Epstein files that we know all of your homies are in the Epstein files that you promised you were going to release before you got into office and we took your word for it and voted you in. How about, yeah, said you punished Thomas Massie for wanting to get that done, which was your promise. I'm going to say, no, I'm going to hold you to your promises, not allow you to make more. Sorry, guys.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:30:01](/episodes/ep-_Sq5RqP27NY.md#t-00-29-24): “of course, because they are the neocons that ruined the MAGA movement. Trump (Donald Trump) allowed it to happen. J.D. Vance (JD Vance) allowed it to happen. ... They did not draw a line in the sand and listen to the people that got them into office deliver the promises that they made. That was the whole first thing, the first term, promises made, promises kept.”
 
 </details>
 
@@ -598,6 +681,93 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
+<summary>Met With (10)</summary>
+
+- **[Susie Wiles](/entities/person-susie-wiles.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[David Warrington](/entities/person-david-warrington.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Todd Blanche](/entities/person-todd-blanche.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Steven Cheung](/entities/person-steven-cheung.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Karoline Leavitt](/entities/person-karoline-leavitt.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Taylor Budowich](/entities/person-taylor-budowich.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[James Blair](/entities/person-james-blair.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Stanley Woodward](/entities/person-stanley-woodward.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Kash Patel](/entities/person-kash-patel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Pam Bondi](/entities/person-pam-bondi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke With (1)</summary>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:38:00](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41): “carries a maturity far beyond his years. Mikey (Mikey McCoy) has already sent a plane to get Erika (Erika Kirk) and is on the phone with the United States Vice President J.D. Vance.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supported By (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -610,7 +780,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (21)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -637,6 +807,14 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:22](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:45:55](/episodes/ep-6XfDqKTdFKg.md#t-00-45-40): “J.D. Vance is asking for another chance. Here's what J.D. Vance had to say. Take a listen. ... There is a lot of good that we've done over the past 18 months. We cut taxes bigly. We cut taxes on overtime, Social Security, and tips. Those are tax cuts for middle American workers, not just for the elites in Washington and New York City. We've had an amazing success with the border with immigration. We've pursued H-1B reform that prioritizes American workers over foreign nationals. There's a lot of good that's been done, but there's a lot of work left. left to do. Don't give power to the people who cause the problems that we're fixing. Give us another chance or give us another couple of years to continue to work on the amazing things that we've been doing for the past two years. ... How about no? Let me tell us who killed Charlie Kirk and why. Let's start there. How about you tell us, release the rest of the Epstein files that we know all of your homies are in the Epstein files that you promised you were going to release before you got into office and we took your word for it and voted you in. How about, yeah, said you punished Thomas Massie for wanting to get that done, which was your promise. I'm going to say, no, I'm going to hold you to your promises, not allow you to make more. Sorry, guys.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:30:01](/episodes/ep-_Sq5RqP27NY.md#t-00-29-24): “of course, because they are the neocons that ruined the MAGA movement. Trump (Donald Trump) allowed it to happen. J.D. Vance (JD Vance) allowed it to happen. ... They did not draw a line in the sand and listen to the people that got them into office deliver the promises that they made. That was the whole first thing, the first term, promises made, promises kept.”
 
 </details>
 
@@ -668,6 +846,83 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 
+- **[Susie Wiles](/entities/person-susie-wiles.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[David Warrington](/entities/person-david-warrington.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Todd Blanche](/entities/person-todd-blanche.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Steven Cheung](/entities/person-steven-cheung.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Karoline Leavitt](/entities/person-karoline-leavitt.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Taylor Budowich](/entities/person-taylor-budowich.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[James Blair](/entities/person-james-blair.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Stanley Woodward](/entities/person-stanley-woodward.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Kash Patel](/entities/person-kash-patel.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Pam Bondi](/entities/person-pam-bondi.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:38:00](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41): “carries a maturity far beyond his years. Mikey (Mikey McCoy) has already sent a plane to get Erika (Erika Kirk) and is on the phone with the United States Vice President J.D. Vance.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -680,7 +935,21 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by JD Vance (4)</strong></summary>
+<summary><strong class="section-title">Statements by JD Vance (7)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3)</summary>
+
+- [00:46:02](/episodes/ep-6XfDqKTdFKg.md#t-00-46-02) [○] (Claim) ["In a clip, JD Vance says the administration cut taxes on overtime, Social Securi..."](/statements/statement-47f935f37899.md)
+  - About: [Social Security (United States)](/entities/concept-social-security-us.md)
+
+- [00:46:17](/episodes/ep-6XfDqKTdFKg.md#t-00-46-02) [○] (Claim) ["In a clip, JD Vance says the administration has had amazing success on border im..."](/statements/statement-344d80864144.md)
+  - About: [United States](/entities/gpe-united-states.md)
+
+- [00:46:29](/episodes/ep-6XfDqKTdFKg.md#t-00-46-02) [○] (Opinion) ["In a clip, JD Vance asks voters not to give power to the people who caused the p..."](/statements/statement-1da86800ef57.md)
+  - About: [Republican Party](/entities/org-republican-party.md), [Democratic Party](/entities/org-democratic-party.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
@@ -707,7 +976,45 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (26)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (32)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>
+
+- [00:37:53](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Charlie Kirk's 23-year-old chief of st..."](/statements/statement-a63a6f398193.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3)</summary>
+
+- [00:29:54](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54) (Citation) **Candace Owens**: ["Citing the New York Times, Owens corrected her timeline: Trump was abs..."](/statements/statement-bc512b895e2b.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:32:20](/episodes/ep-q4m-kGzvwjw.md#t-00-31-51) (Claim) **Candace Owens**: ["Owens said another Epstein Situation Room meeting took place the day a..."](/statements/statement-592ea9e6759f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [U.S. House Committee on Oversight and Government Reform](/entities/org-us-house-committee-on-oversight-and-government-reform.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:35:37](/episodes/ep-q4m-kGzvwjw.md#t-00-35-37) (Citation) **Candace Owens**: ["Owens said an August 13 follow-up Epstein meeting included JD Vance by..."](/statements/statement-6ad1bef9c637.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [David Warrington](/entities/person-david-warrington.md), [Stanley Woodward](/entities/person-stanley-woodward.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:30:01](/episodes/ep-_Sq5RqP27NY.md#t-00-29-24) (Opinion) **Candace Owens**: ["Owens said pro-Israel neoconservatives ruined the MAGA movement and th..."](/statements/statement-4e2cfc8e1e53.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md), [Neoconservatism](/entities/concept-neoconservatism.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:46:45](/episodes/ep-6XfDqKTdFKg.md#t-00-46-42) (Opinion) **Candace Owens**: ["Owens rejects Vance’s request for another chance, demands answers abou..."](/statements/statement-4740735ad935.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Epstein Files](/entities/work-epstein-files.md), [Thomas Massie](/entities/person-thomas-massie.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>

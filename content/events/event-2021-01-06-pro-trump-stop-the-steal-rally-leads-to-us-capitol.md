@@ -12,7 +12,7 @@ date: "2021-01-06"
 
 > Pro-Trump Stop the Steal rally leads to US Capitol riot
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
@@ -40,3 +40,11 @@ date: "2021-01-06"
 
 > **Date stated in this source:** “January 6th, 2020”
 > **Date review note:** The speaker immediately expressed uncertainty and misstated the year; the canonical event date remains 2021-01-06.
+
+### 4. CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth B...
+
+**Episode:** [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md)
+**Timestamp:** [00:31:49](/episodes/ep-0pSAhaAZz1w.md#event-event-2021-01-06-pro-trump-stop-the-steal-rally-leads-to-us-capitol-t-00-31-28) 
+<a href="https://www.youtube.com/watch?v=0pSAhaAZz1w&t=1909s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Banned subjects include the January 6th, 2021 attack on the Capitol and cryptocurrencies that

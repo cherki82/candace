@@ -1,6 +1,6 @@
 ---
 title: "United Nations"
-description: "United Nations (Organizations) - 10 mentions"
+description: "United Nations (Organizations) - 14 mentions"
 id: "org-united-nations"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-nations-t-00-11-57">2025-10-02 · 00:12:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-20-29">2026-06-18 · 00:20:29</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#t-00-32-14">2026-09-25 · 00:32:36</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-nations-t-00-10-14" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-nations-t-00-29-57" style="--pulse-height:25%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-32-14" style="--pulse-height:25%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-nations-t-00-10-14) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-united-nations-t-00-29-57) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10) | 4 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-32-14) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:32:36](/episodes/ep-_Sq5RqP27NY.md#t-00-32-14)**
+> "...yahu) Netanyahu addressed the UN today and one of the things that made me feel. gr..."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (4 mentions)</summary>
@@ -127,6 +137,18 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Hosted Speaker (1)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:32:36](/episodes/ep-_Sq5RqP27NY.md#t-00-32-14): “Bibi (Benjamin Netanyahu) Netanyahu addressed the UN today and one of the things that made me feel. great about where we are in society is that the majority of the UN delegates simply walked out as soon as he took the stage.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Includes (1)</summary>
 
 - **[International Police Task Force](/entities/org-international-police-task-force.md)**
@@ -139,7 +161,7 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[International Police Task Force](/entities/org-international-police-task-force.md)** part of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -148,12 +170,27 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 
 </details>
 
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:32:36](/episodes/ep-_Sq5RqP27NY.md#t-00-32-14): “Bibi (Benjamin Netanyahu) Netanyahu addressed the UN today and one of the things that made me feel. great about where we are in society is that the majority of the UN delegates simply walked out as soon as he took the stage.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United Nations (1)</strong></summary>
+<summary><strong class="section-title">Statements about United Nations (2)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:32:36](/episodes/ep-_Sq5RqP27NY.md#t-00-32-14) (Claim) **Candace Owens**: ["Owens said the majority of UN delegates walked out as Benjamin Netanya..."](/statements/statement-4f7de45112d5.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

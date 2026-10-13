@@ -12,7 +12,7 @@ date: "2025-02-24"
 
 > Donald Trump meets Emmanuel Macron.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
@@ -29,3 +29,11 @@ date: "2025-02-24"
 <a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=722s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is the day that Donald Trump meets with Emmanuel Macron.
+
+### 3. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:24:15](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-02-24-donald-trump-meets-emmanuel-macron-t-00-23-49) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1455s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Emmanuel Macron was at the White House on this day and put in a personal request. That is going to

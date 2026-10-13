@@ -1,6 +1,6 @@
 ---
 title: "Andrew Tate"
-description: "Andrew Tate (People) - 16 mentions"
+description: "Andrew Tate (People) - 22 mentions"
 id: "person-andrew-tate"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02">2025-09-25 · 00:36:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45">2026-08-06 · 00:55:45</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-52-08">2026-10-06 · 00:52:08</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-tate-t-00-49-40" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-01-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-48-50" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 6 mentions" title="2026-10-06 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-tate-t-00-49-40) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-01-29) | 6 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-48-50) | 6 |
 
 </details>
 </section>
@@ -61,7 +63,30 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (6 mentions)</summary>
+
+**[00:48:50](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-48-50)**
+> "... cutting clips. This was what Andrew Tate built"
+
+**[00:49:46](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-49-21)**
+> "...y and how it was pioneered by Andrew Tate."
+
+**[00:49:57](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-49-57)**
+> "...a real operation, and that is Andrew Tate."
+
+**[00:50:50](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-50-50)**
+> "...ia account that is related to Andrew Tate and Hustlers University, and I want you to post a..."
+
+**[00:51:22](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-51-22)**
+> "Eventually, Andrew Tate gets banned because he's racist, he's sexist, he'..."
+
+**[00:52:08](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-tate-t-00-52-08)**
+> "...pened in Romania with Andrew (Andrew Tate) and Tristan (Tristan Tate) and the allegations f..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -149,6 +174,30 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Barred By (1)</summary>
+
+- **[TikTok](/entities/org-tiktok.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:22](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Eventually, Andrew Tate gets banned because he's racist, he's sexist, he's misogynistic, he says a ton of awful, awful things. TikTok decides to ban him. And yet his clips live on because he has a clipping army that is out there on TikTok, out on the platform.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Founded (1)</summary>
+
+- **[Hustlers University](/entities/org-hustlers-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:49:57](/episodes/ep-0pSAhaAZz1w.md#t-00-49-57): “But there's one person who really pioneered this and who turned it into a real operation, and that is Andrew Tate. ... Yeah, walk me through that. How did he stumble upon this as a business model? ... So I don't purport to know how he figured it out, but he figured it out and he was the first one to figure it out. And he did that in 2021 and that is he created this community that he called Hustlers University and he said that this was going to be if you want to escape the matrix, which is sort of tagline, then join Hustlers University and I'll teach you how to do it. And what happened when you when you join Hustlers University.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -185,7 +234,21 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[TikTok](/entities/org-tiktok.md)** barred this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:51:22](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22): “Eventually, Andrew Tate gets banned because he's racist, he's sexist, he's misogynistic, he says a ton of awful, awful things. TikTok decides to ban him. And yet his clips live on because he has a clipping army that is out there on TikTok, out on the platform.”
+
+</details>
+
+- **[Hustlers University](/entities/org-hustlers-university.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:49:57](/episodes/ep-0pSAhaAZz1w.md#t-00-49-57): “But there's one person who really pioneered this and who turned it into a real operation, and that is Andrew Tate. ... Yeah, walk me through that. How did he stumble upon this as a business model? ... So I don't purport to know how he figured it out, but he figured it out and he was the first one to figure it out. And he did that in 2021 and that is he created this community that he called Hustlers University and he said that this was going to be if you want to escape the matrix, which is sort of tagline, then join Hustlers University and I'll teach you how to do it. And what happened when you when you join Hustlers University.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -206,7 +269,24 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Tate (3)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Tate (7)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4)</summary>
+
+- [00:49:57](/episodes/ep-0pSAhaAZz1w.md#t-00-49-57) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson said Andrew Tate pioneered the organized clip economy and cre..."](/statements/statement-0b36ccc34703.md)
+  - Also about: [Hustlers University](/entities/org-hustlers-university.md)
+
+- [00:50:16](/episodes/ep-0pSAhaAZz1w.md#t-00-50-10) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson described Andrew Tate instructing Hustlers University members..."](/statements/statement-ffb193ac021f.md)
+  - Also about: [Hustlers University](/entities/org-hustlers-university.md), [TikTok](/entities/org-tiktok.md)
+
+- [00:51:22](/episodes/ep-0pSAhaAZz1w.md#t-00-51-22) (Claim) **Ed Elson** (via quoted speech): ["Ed Elson said TikTok banned Andrew Tate but his clips continued to cir..."](/statements/statement-520155240817.md)
+  - Also about: [TikTok](/entities/org-tiktok.md), [Instagram](/entities/org-instagram.md)
+
+- [00:52:08](/episodes/ep-0pSAhaAZz1w.md#t-00-52-08) (Promise) **Candace Owens**: ["Owens said she wanted to wait until she had read the new UK filings be..."](/statements/statement-5e645779895a.md)
+  - Also about: [Tristan Tate](/entities/person-tristan-tate.md), [United Kingdom](/entities/gpe-united-kingdom.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>

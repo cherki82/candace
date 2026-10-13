@@ -18,7 +18,7 @@ date: "2025-08-06"
 
 > Charlie Kirk interviews with Megyn Kelly on Israel pressure
 
-## Mentioned In (9 times)
+## Mentioned In (10 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -91,3 +91,11 @@ date: "2025-08-06"
 <a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=691s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You've seen how I've been treated, Megyn, by some, not all, by some.
+
+### 10. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:34:23](/episodes/ep-q4m-kGzvwjw.md#t-00-34-23) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=2063s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> August 6th, obviously Charlie goes on Megyn Kelly's show where he explains what

@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 648 mentions"
+description: "Tucker Carlson (People) - 698 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-tucker-carlson-t-00-24-56">2026-09-10 · 00:24:56</a></strong></div>
-<div><span>Episodes</span><strong>109</strong></div>
-<div><span>Mentions</span><strong>648</strong></div>
-<div><span>Statements by</span><strong>62</strong></div>
-<div><span>Statements about</span><strong>95</strong></div>
-<div><span>Relationships</span><strong>124</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tucker-carlson-t-00-31-28">2026-10-06 · 00:31:28</a></strong></div>
+<div><span>Episodes</span><strong>119</strong></div>
+<div><span>Mentions</span><strong>698</strong></div>
+<div><span>Statements by</span><strong>69</strong></div>
+<div><span>Statements about</span><strong>112</strong></div>
+<div><span>Relationships</span><strong>142</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -144,6 +144,16 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tucker-carlson-t-00-37-04" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-tucker-carlson-t-00-24-56" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-tucker-carlson-t-00-23-31" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-tucker-carlson-t-01-02-18" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 4 mentions" title="2026-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-00-41" style="--pulse-height:16%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 9 mentions" title="2026-09-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-00-44" style="--pulse-height:18%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 10 mentions" title="2026-09-22 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-tucker-carlson-t-00-21-25" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 3 mentions" title="2026-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-tucker-carlson-t-00-47-01" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-55-12" style="--pulse-height:15%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 8 mentions" title="2026-09-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-25-09" style="--pulse-height:13%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 7 mentions" title="2026-09-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-00-27-52" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tucker-carlson-t-00-31-28" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -258,6 +268,16 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tucker-carlson-t-00-37-04) | 2 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-tucker-carlson-t-00-24-56) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-tucker-carlson-t-00-23-31) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-tucker-carlson-t-01-02-18) | 4 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-00-41) | 9 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-00-44) | 10 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-tucker-carlson-t-00-21-25) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-tucker-carlson-t-00-47-01) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-55-12) | 8 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-25-09) | 7 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-00-27-52) | 4 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-tucker-carlson-t-00-31-28) | 1 |
 
 </details>
 </section>
@@ -269,7 +289,207 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (648)</strong></summary>
+<summary><strong class="section-title">Raw mentions (698)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:31:28](/episodes/ep-0pSAhaAZz1w.md#ent-person-tucker-carlson-t-00-31-28)**
+> "...commentators Nick Fuentes and Tucker Carlson, Health and Human Services Secretary Robert F. Ke..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (4 mentions)</summary>
+
+**[00:27:52](/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-00-27-52)**
+> "...ay, but it's on the 11th that Tucker Carlson speaks. Charlie (Charlie Kirk) tells him to go ma..."
+
+**[00:28:03](/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-00-27-52)**
+> "...ns. Others pull out millions. Tucker Carlson calls out Jeffrey Epstein. He says that people wh..."
+
+**[00:49:48](/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-00-49-48)**
+> "... in case you didn't watch the Tucker Carlson episode, he invited the parents on to discuss how..."
+
+**[01:05:28](/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-01-05-28)**
+> "...? Why wouldn't you send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (7 mentions)</summary>
+
+**[00:25:39](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-25-09)**
+> "...y apparently also interviewed Tucker Carlson for this piece."
+
+**[00:25:48](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-25-48)**
+> "And Tucker (Tucker Carlson) added this, quote, my sense is that the leadersh..."
+
+**[00:26:02](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-25-48)**
+> "Carlson (Tucker Carlson) says he loves Candace and calls her a very human..."
+
+**[00:28:54](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-28-36)**
+> "...tually also came from Tucker (Tucker Carlson) in that interview."
+
+**[00:29:44](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-29-14)**
+> "...re we have freedom of speech. Tucker Carlson told me that based on his personal conversations ..."
+
+**[00:50:30](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-50-01)**
+> "...your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is v..."
+
+**[00:55:55](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-55-55)**
+> "...use. Reflect. I mean, Tucker (Tucker Carlson) gave him good advice. Why is Candace your centra..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:47:01](/episodes/ep-_Sq5RqP27NY.md#ent-person-tucker-carlson-t-00-47-01)**
+> "...ike I said, with Megyn Kelly, Tucker Carlson, and say, “I wanted to show this to just demonstr..."
+
+**[00:51:58](/episodes/ep-_Sq5RqP27NY.md#ent-person-tucker-carlson-t-00-51-42)**
+> "...And this user writes, Tucker (Tucker Carlson) went max on NPR sharing that POTUS (Donald Trump..."
+
+**[00:52:08](/episodes/ep-_Sq5RqP27NY.md#ent-person-tucker-carlson-t-00-51-42)**
+> "... has a note via NPR. Carlson (Tucker Carlson) recounts the meeting with Trump (Donald Trump) i..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (8 mentions)</summary>
+
+**[00:55:12](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-55-12)**
+> "...es are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to disc..."
+
+**[00:55:34](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-55-12)**
+> "So Tucker (Tucker Carlson) founded Battalion Metals instead, and I'm glad t..."
+
+**[00:58:25](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-58-03)**
+> "Tucker Carlson on the 11th speaks and donors freak out."
+
+**[00:58:37](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-58-03)**
+> "...y) to speak about it. He asks Tucker Carlson to speak about it."
+
+**[00:58:44](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-58-44)**
+> "He says that Tucker Carlson says that people who serve in foreign armies shou..."
+
+**[00:58:55](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-00-58-44)**
+> "...is money coming from? Tucker (Tucker Carlson) will later say he doesn't know what came over hi..."
+
+**[01:00:59](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-01-00-59)**
+> "...rned later, thanks to Tucker (Tucker Carlson) and Megyn Kelly, that that was his intention."
+
+**[01:04:41](/episodes/ep-bIuvTKlFeGo.md#ent-person-tucker-carlson-t-01-04-22)**
+> "... Ackman, the very person that Tucker Carlson called out on stage during that time, Bibi Netany..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3 mentions)</summary>
+
+**[00:21:25](/episodes/ep-_2DiIbfy4mU.md#ent-person-tucker-carlson-t-00-21-25)**
+> "My friend Tucker Carlson investigated the industry and was shocked to disc..."
+
+**[00:21:35](/episodes/ep-_2DiIbfy4mU.md#ent-person-tucker-carlson-t-00-21-25)**
+> "...I'm trying to say. So Tucker (Tucker Carlson) founded Battalion Metals, and I am so glad."
+
+**[00:35:48](/episodes/ep-_2DiIbfy4mU.md#ent-person-tucker-carlson-t-00-35-34)**
+> "You can go to Tucker Carlson. He's your friend. You could go to Megyn Kelly. S..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (10 mentions)</summary>
+
+**[00:00:44](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-00-44)**
+> "Tucker Carlson said, just look at the photo. Why would any perso..."
+
+**[00:30:12](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-30-05)**
+> "... just thumbnails about me and Tucker Carlson. It's just like he doesn't care about Erika (Erik..."
+
+**[00:34:59](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-34-59)**
+> "... session on Candace Owens and Tucker Carlson."
+
+**[00:36:40](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-36-40)**
+> "...ito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gon..."
+
+**[00:37:29](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-37-29)**
+> "...y with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tuc..."
+
+**[00:37:41](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-37-29)**
+> "Tucker (Tucker Carlson) has done things that are indefensible."
+
+**[00:37:47](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-37-47)**
+> "...munication I had with Tucker (Tucker Carlson) was, Tucker (Tucker Carlson), just privately, ca..."
+
+**[00:38:10](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-38-00)**
+> "...odcast. It's just the Tucker (Tucker Carlson) and Candace show and the continued obsession tha..."
+
+**[00:42:59](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-42-59)**
+> "...it, Pakistani bots that watch Tucker Carlson. Candace (Candace Owens)'s vile person, the most ..."
+
+**[00:49:13](/episodes/ep-6XfDqKTdFKg.md#ent-person-tucker-carlson-t-00-49-13)**
+> "...rson of the year. Did Tucker (Tucker Carlson)—what'd you call him?"
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (9 mentions)</summary>
+
+**[00:01:01](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-00-41)**
+> "... you think. And at long last, Tucker Carlson calls out his perfidious former employee, Blake N..."
+
+**[00:45:04](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-45-04)**
+> "... that, pretty excited to hear Tucker Carlson finally call out his former employee, Blake Neff,..."
+
+**[00:45:24](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-45-04)**
+> "Tucker Carlson had a heart and makes a phone call to help Blake ..."
+
+**[00:45:44](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-45-44)**
+> "... Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former em..."
+
+**[00:46:30](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-46-30)**
+> "Of Charlie Kirk and Tucker Carlson. We are really doing the absolute most with that ..."
+
+**[00:46:56](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-46-30)**
+> "...'s it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swi..."
+
+**[00:47:14](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-47-14)**
+> "Take a listen to what Tucker (Tucker Carlson) had to say regarding this political interview."
+
+**[00:53:03](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-53-03)**
+> "...e Neff) is exactly as Tucker (Tucker Carlson) describes him. This is rot at Turning Point USA,..."
+
+**[00:57:26](/episodes/ep-NNiCZk1cuzs.md#ent-person-tucker-carlson-t-00-57-26)**
+> "...ut. They're actually going on Tucker Carlson to say that it was a federal operation, and they—..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (4 mentions)</summary>
+
+**[01:02:38](/episodes/ep-aLJhpxrakCU.md#ent-person-tucker-carlson-t-01-02-18)**
+> "Lastly. Ali writes, love Tucker Carlson, you're referring to. I disagree with him regardi..."
+
+**[01:03:00](/episodes/ep-aLJhpxrakCU.md#ent-person-tucker-carlson-t-01-03-00)**
+> "...rlie Kirk), I mean of Tucker (Tucker Carlson), but what you cite here is that he says when he ..."
+
+**[01:03:07](/episodes/ep-aLJhpxrakCU.md#ent-person-tucker-carlson-t-01-03-00)**
+> "...ou that when I was at Tucker (Tucker Carlson)'s in June of 2000 or May of 2025, Erika (Erika K..."
+
+**[01:03:22](/episodes/ep-aLJhpxrakCU.md#ent-person-tucker-carlson-t-01-03-00)**
+> "...in, I don't know what Tucker (Tucker Carlson) said in his full comments, but it's totally plau..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:24:09](/episodes/ep-kn1E0scy9Wc.md#ent-person-tucker-carlson-t-00-23-31)**
+> "...at that is in particular what Tucker Carlson was speaking about on stage. He was speaking abou..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -2848,7 +3068,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Criticized (5)</summary>
+<summary>Criticized (8)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2858,10 +3078,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40): “Tucker specifically asked the question, where does Bill Ackman's money come from? You know, who is this guy?”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#t-00-16-29): “That's the infamous speech that Tucker Carlson gave where he calls out Bill Ackman.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:58:44](/episodes/ep-bIuvTKlFeGo.md#t-00-58-44): “He says that Tucker Carlson says that people who serve in foreign armies should be stripped of their citizenship. And he muses about where Bill Ackman's wealth comes from. ... Who is this guy? Where is his money coming from? Tucker (Tucker Carlson) will later say he doesn't know what came over him. He just—just this is just how he felt, and Charlie (Charlie Kirk) said go after the Epstein (Jeffrey Epstein) stuff. On July 11th, Frank Turek deletes his website, frankturek.com. The website has remnants of an expedition he took. I went on Wayback Machine. He was looking for remnants of Noah's Ark. I don't know what that means, but just found that to be interesting that he deletes his website. On July 12th”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
@@ -2880,9 +3102,31 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:03](/episodes/ep-q4m-kGzvwjw.md#t-00-27-52): “And the Zionist donors freak out. Bob Shillman pulls out millions. Others pull out millions. Tucker Carlson calls out Jeffrey Epstein. He says that people who serve in foreign armies should be stripped of their citizenship.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:49:35](/episodes/ep-NNiCZk1cuzs.md#t-00-49-15): “And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before. ... Neff sees only two potential paths forward. This is a verbatim quote: either we have to make our peace with censorship and explain how we're going to do that, or we have to explain how we're going to combat this without censorship, period. ... And that's the point at which you just feel like, well, we're done. ... We may have to make our peace with censorship. How do we do that? It's like saying, well, you know, I'm really mad. ... No, you can never make your peace with turning other people into slaves. You can never be the slave master. ... Because slavery is bad for them, but it's even worse for you. It is totally dehumanizing to everyone involved to turn other human beings into something that is less than a human being. And that is exactly what censorship does each and every time.”
+
+</details>
+
+- **[Ian Ward](/entities/person-ian-ward.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:47:46](/episodes/ep-NNiCZk1cuzs.md#t-00-47-42): “It's just to be completely fair, and we want to be fair. That's the anti-free speech politico author. ... Ian Ward's kind of clever framing here, but it's very common maximalist position. Well, there's no maximalist position on free speech any more than there is on pregnancy, right? You either are for it or you are pregnant or you're not.”
+
+</details>
+
+- **[POLITICO](/entities/org-politico.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:47:42](/episodes/ep-NNiCZk1cuzs.md#t-00-47-42): “A maximalist position on free speech, and this is not, that, by the way, that's not a Blake Neff quote. ... It's just to be completely fair, and we want to be fair. That's the anti-free speech politico author. ... Ian Ward's kind of clever framing here, but it's very common maximalist position. Well, there's no maximalist position on free speech any more than there is on pregnancy, right? You either are for it or you are pregnant or you're not.”
 
 </details>
 
@@ -2975,9 +3219,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:46:56](/episodes/ep-NNiCZk1cuzs.md#t-00-46-30): “like, you know, Stephen King's it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that Tucker Carlson and Charlie (Charlie Kirk) were not friends when he would not have had his job were Tucker Carlson and Charlie Kirk not friends.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29): “She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible.”
 
 </details>
 
@@ -2985,6 +3231,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:04:50](/episodes/ep-K1tFD7FfoCU.md#t-00-04-45): “Randy Fine (clip): Tucker Carlson is the most dangerous anti-Semite in America.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her. ... Carlson (Tucker Carlson) says he loves Candace and calls her a very humane and decent person in a position that he says has upset some people at Turning Point.”
 
 </details>
 
@@ -3019,10 +3277,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Formerly Employed (1)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:01:01](/episodes/ep-NNiCZk1cuzs.md#t-00-00-41): “I'm going to let you guys be the judge, tell me what you think. And at long last, Tucker Carlson calls out his perfidious former employee, Blake Neff, and his beyond slimy attempt to hijack Charlie (Charlie Kirk)'s true voice. ... Anyway, moving on from that, pretty excited to hear Tucker Carlson finally call out his former employee, Blake Neff, because it was so disgusting, so disgusting that Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk.”
 
 </details>
 
@@ -3052,12 +3311,14 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Founded (1)</summary>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:17](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Tucker Carlson founded Battalion because he couldn't find one that he actually trusted.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:30](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “Tucker (Tucker Carlson) founded Battalion because he couldn't find one that he trusted.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:35](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “Then they charged far more than the gold is actually worth. They were scamming the best people in the country is what I'm trying to say. So Tucker (Tucker Carlson) founded Battalion Metals, and I am so glad.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:34](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “So Tucker (Tucker Carlson) founded Battalion Metals instead, and I'm glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing.”
 
 </details>
 
@@ -3067,19 +3328,22 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Friend Of (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36): “He is friends with Erika”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:09](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “Tucker Carlson has said he is a friend of Erika Kirk”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Tucker (Tucker Carlson) ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:35:16](/episodes/ep-_2DiIbfy4mU.md#t-00-34-49): “You have zero respect for Charlie (Charlie Kirk) or your children, by the way, or his legacy to give that footage that what should be precious footage, OK, precious footage to an Internet troll. A chain-smoking internet troll and his trash wife for the purposes of trolling the internet only to confuse matters. This is not a debunk of anything, nothing at all. And you don't need to, if you want to debunk things, go to this man. You can go to Tucker Carlson. He's your friend. You could go to Megyn Kelly. She's your friend.”
 
 </details>
 
@@ -3091,13 +3355,14 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Because in the manner in which Tucker (Tucker Carlson) expressed it, okay? ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:18:53](/episodes/ep-K1tFD7FfoCU.md#t-00-18-23): “The point of me sharing this though is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:26:01](/episodes/ep-w1oqQbR_bYs.md#t-00-26-01): “That is Charlie Kirk's true legacy and that is Charlie Kirk's true friend, just as I was and am and will continue to fight and ask questions about who killed Charlie Kirk.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:46:56](/episodes/ep-NNiCZk1cuzs.md#t-00-46-30): “like, you know, Stephen King's it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that Tucker Carlson and Charlie (Charlie Kirk) were not friends when he would not have had his job were Tucker Carlson and Charlie Kirk not friends.”
 
 </details>
 
@@ -3211,7 +3476,19 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Met With (2)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Clara Molot](/entities/person-clara-molot.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:39](/episodes/ep-5TTkMa49qj8.md#t-00-25-09): “And I'm just trying to figure out who killed Charlie Kirk. The writer's observations were then reinforced because they apparently also interviewed Tucker Carlson for this piece. ... And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -3223,10 +3500,25 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:42:52](/episodes/ep-5NQyGuRYbU8.md#t-00-42-21): “Tucker (Tucker Carlson) said to us ... He had dinner with Charlie (Charlie Kirk) and Erika (Erika Kirk)”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 01:02:38](/episodes/ep-aLJhpxrakCU.md#t-01-02-18): “Lastly. Ali writes, love Tucker Carlson, you're referring to. I disagree with him regarding Erika (Erika Kirk). He said when he first met Erika (Erika Kirk), he was impressed by her fearlessness and her intensity and how Charlie (Charlie Kirk) valued her. Well, what about loyalty? She lied about his Iran war views, covered up his Israel views and handed Turning Point USA to the Daily Wire. I did not see this clip of Charlie (Charlie Kirk), I mean of Tucker (Tucker Carlson), but what you cite here is that he says when he first met her.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:52:08](/episodes/ep-_Sq5RqP27NY.md#t-00-51-42): “What? Okay, producer has a note via NPR. Carlson (Tucker Carlson) recounts the meeting with Trump (Donald Trump) in which he says Trump (Donald Trump) dismissed his concerns about the Iran war by saying we're all going to die anyway.”
+
+</details>
+
+- **[Bill Ackman](/entities/person-bill-ackman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
@@ -3265,13 +3557,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[2025 Student Action Summit](/entities/event-2025-student-action-summit.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:45:45](/episodes/ep-581dILVcEE4.md#t-00-45-30): “So we all know, of course, that Charlie (Charlie Kirk)'s dear friends—the Zionists and the donors who love Charlie (Charlie Kirk)—lost their ish at the Turning Point USA SAAS event last July when Tucker (Tucker Carlson) hit the stage and Charlie (Charlie Kirk) told Tucker (Tucker Carlson) to go max.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:26](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “This actually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when he jumped on stage and basically asked that question.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:58:03](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03): “She's being vague. I don't know what's really going on. Okay. July 11th to the 13th is the Student Action Summit in Tampa, Florida. ... Tucker Carlson on the 11th speaks and donors freak out.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:27:41](/episodes/ep-q4m-kGzvwjw.md#t-00-27-13): “Okay, cool. On July 11th and 13th, Charlie (Charlie Kirk) speaks at the TPUSA Student Action Summit, and it is a disaster only for his donors. ... Charlie (Charlie Kirk)'s first speech is at 4 p.m. His last speech he concludes at 1.10 p.m. local on Sunday, but it's on the 11th that Tucker Carlson speaks. Charlie (Charlie Kirk) tells him to go max on the Epstein (Jeffrey Epstein) stuff.”
 
 </details>
 
@@ -3292,12 +3586,26 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:16:52](/episodes/ep-a-e7HC6SeK8.md#t-00-16-11): “I asked Tucker (Tucker Carlson), "What made you say that?"”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:29:44](/episodes/ep-5TTkMa49qj8.md#t-00-29-14): “That's the blessing of living in a country where we have freedom of speech. Tucker Carlson told me that based on his personal conversations with Erica (Erika Kirk), he knew her to be much more critical of Israel and the interventionist approach to U.S. foreign policy in general, more than her husband ever was.”
 
 </details>
 
@@ -3342,7 +3650,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Referenced By (62)</summary>
+<summary>Referenced By (71)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -3495,9 +3803,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:46:56](/episodes/ep-NNiCZk1cuzs.md#t-00-46-30): “like, you know, Stephen King's it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that Tucker Carlson and Charlie (Charlie Kirk) were not friends when he would not have had his job were Tucker Carlson and Charlie Kirk not friends.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29): “She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible.”
 
 </details>
 
@@ -3516,10 +3826,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40): “Tucker specifically asked the question, where does Bill Ackman's money come from? You know, who is this guy?”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#t-00-16-29): “That's the infamous speech that Tucker Carlson gave where he calls out Bill Ackman.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:58:44](/episodes/ep-bIuvTKlFeGo.md#t-00-58-44): “He says that Tucker Carlson says that people who serve in foreign armies should be stripped of their citizenship. And he muses about where Bill Ackman's wealth comes from. ... Who is this guy? Where is his money coming from? Tucker (Tucker Carlson) will later say he doesn't know what came over him. He just—just this is just how he felt, and Charlie (Charlie Kirk) said go after the Epstein (Jeffrey Epstein) stuff. On July 11th, Frank Turek deletes his website, frankturek.com. The website has remnants of an expedition he took. I went on Wayback Machine. He was looking for remnants of Noah's Ark. I don't know what that means, but just found that to be interesting that he deletes his website. On July 12th”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
@@ -3538,9 +3850,38 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:03](/episodes/ep-q4m-kGzvwjw.md#t-00-27-52): “And the Zionist donors freak out. Bob Shillman pulls out millions. Others pull out millions. Tucker Carlson calls out Jeffrey Epstein. He says that people who serve in foreign armies should be stripped of their citizenship.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:49:35](/episodes/ep-NNiCZk1cuzs.md#t-00-49-15): “And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before. ... Neff sees only two potential paths forward. This is a verbatim quote: either we have to make our peace with censorship and explain how we're going to do that, or we have to explain how we're going to combat this without censorship, period. ... And that's the point at which you just feel like, well, we're done. ... We may have to make our peace with censorship. How do we do that? It's like saying, well, you know, I'm really mad. ... No, you can never make your peace with turning other people into slaves. You can never be the slave master. ... Because slavery is bad for them, but it's even worse for you. It is totally dehumanizing to everyone involved to turn other human beings into something that is less than a human being. And that is exactly what censorship does each and every time.”
+
+</details>
+
+- **[Ian Ward](/entities/person-ian-ward.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:47:46](/episodes/ep-NNiCZk1cuzs.md#t-00-47-42): “It's just to be completely fair, and we want to be fair. That's the anti-free speech politico author. ... Ian Ward's kind of clever framing here, but it's very common maximalist position. Well, there's no maximalist position on free speech any more than there is on pregnancy, right? You either are for it or you are pregnant or you're not.”
+
+</details>
+
+- **[POLITICO](/entities/org-politico.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:47:42](/episodes/ep-NNiCZk1cuzs.md#t-00-47-42): “A maximalist position on free speech, and this is not, that, by the way, that's not a Blake Neff quote. ... It's just to be completely fair, and we want to be fair. That's the anti-free speech politico author. ... Ian Ward's kind of clever framing here, but it's very common maximalist position. Well, there's no maximalist position on free speech any more than there is on pregnancy, right? You either are for it or you are pregnant or you're not.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her. ... Carlson (Tucker Carlson) says he loves Candace and calls her a very humane and decent person in a position that he says has upset some people at Turning Point.”
 
 </details>
 
@@ -3575,37 +3916,43 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:01:01](/episodes/ep-NNiCZk1cuzs.md#t-00-00-41): “I'm going to let you guys be the judge, tell me what you think. And at long last, Tucker Carlson calls out his perfidious former employee, Blake Neff, and his beyond slimy attempt to hijack Charlie (Charlie Kirk)'s true voice. ... Anyway, moving on from that, pretty excited to hear Tucker Carlson finally call out his former employee, Blake Neff, because it was so disgusting, so disgusting that Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk.”
 
 </details>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:17](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Tucker Carlson founded Battalion because he couldn't find one that he actually trusted.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:30](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “Tucker (Tucker Carlson) founded Battalion because he couldn't find one that he trusted.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:35](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “Then they charged far more than the gold is actually worth. They were scamming the best people in the country is what I'm trying to say. So Tucker (Tucker Carlson) founded Battalion Metals, and I am so glad.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:34](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “So Tucker (Tucker Carlson) founded Battalion Metals instead, and I'm glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36): “He is friends with Erika”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:09](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “Tucker Carlson has said he is a friend of Erika Kirk”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Tucker (Tucker Carlson) ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:35:16](/episodes/ep-_2DiIbfy4mU.md#t-00-34-49): “You have zero respect for Charlie (Charlie Kirk) or your children, by the way, or his legacy to give that footage that what should be precious footage, OK, precious footage to an Internet troll. A chain-smoking internet troll and his trash wife for the purposes of trolling the internet only to confuse matters. This is not a debunk of anything, nothing at all. And you don't need to, if you want to debunk things, go to this man. You can go to Tucker Carlson. He's your friend. You could go to Megyn Kelly. She's your friend.”
 
 </details>
 
@@ -3617,13 +3964,14 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Because in the manner in which Tucker (Tucker Carlson) expressed it, okay? ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:18:53](/episodes/ep-K1tFD7FfoCU.md#t-00-18-23): “The point of me sharing this though is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:26:01](/episodes/ep-w1oqQbR_bYs.md#t-00-26-01): “That is Charlie Kirk's true legacy and that is Charlie Kirk's true friend, just as I was and am and will continue to fight and ask questions about who killed Charlie Kirk.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:46:56](/episodes/ep-NNiCZk1cuzs.md#t-00-46-30): “like, you know, Stephen King's it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that Tucker Carlson and Charlie (Charlie Kirk) were not friends when he would not have had his job were Tucker Carlson and Charlie Kirk not friends.”
 
 </details>
 
@@ -3645,13 +3993,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[2025 Student Action Summit](/entities/event-2025-student-action-summit.md)** hosted speaker this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:45:45](/episodes/ep-581dILVcEE4.md#t-00-45-30): “So we all know, of course, that Charlie (Charlie Kirk)'s dear friends—the Zionists and the donors who love Charlie (Charlie Kirk)—lost their ish at the Turning Point USA SAAS event last July when Tucker (Tucker Carlson) hit the stage and Charlie (Charlie Kirk) told Tucker (Tucker Carlson) to go max.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:26](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “This actually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when he jumped on stage and basically asked that question.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:58:03](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03): “She's being vague. I don't know what's really going on. Okay. July 11th to the 13th is the Student Action Summit in Tampa, Florida. ... Tucker Carlson on the 11th speaks and donors freak out.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:27:41](/episodes/ep-q4m-kGzvwjw.md#t-00-27-13): “Okay, cool. On July 11th and 13th, Charlie (Charlie Kirk) speaks at the TPUSA Student Action Summit, and it is a disaster only for his donors. ... Charlie (Charlie Kirk)'s first speech is at 4 p.m. His last speech he concludes at 1.10 p.m. local on Sunday, but it's on the 11th that Tucker Carlson speaks. Charlie (Charlie Kirk) tells him to go max on the Epstein (Jeffrey Epstein) stuff.”
 
 </details>
 
@@ -3666,6 +4016,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:59](/episodes/ep-w1oqQbR_bYs.md#t-00-23-59): “what followed Ben Shapiro on stage is somebody who Charlie Kirk loved very much and who he fought for to the very end against the Jewish donors who were pressuring him, some of them because Ben Shapiro insisted that they do. ... Take a listen to what Tucker Carlson had to say when he hit the stage.”
+
+</details>
+
+- **[Clara Molot](/entities/person-clara-molot.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:39](/episodes/ep-5TTkMa49qj8.md#t-00-25-09): “And I'm just trying to figure out who killed Charlie Kirk. The writer's observations were then reinforced because they apparently also interviewed Tucker Carlson for this piece. ... And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
 
 </details>
 
@@ -3781,10 +4138,25 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:42:52](/episodes/ep-5NQyGuRYbU8.md#t-00-42-21): “Tucker (Tucker Carlson) said to us ... He had dinner with Charlie (Charlie Kirk) and Erika (Erika Kirk)”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 01:02:38](/episodes/ep-aLJhpxrakCU.md#t-01-02-18): “Lastly. Ali writes, love Tucker Carlson, you're referring to. I disagree with him regarding Erika (Erika Kirk). He said when he first met Erika (Erika Kirk), he was impressed by her fearlessness and her intensity and how Charlie (Charlie Kirk) valued her. Well, what about loyalty? She lied about his Iran war views, covered up his Israel views and handed Turning Point USA to the Daily Wire. I did not see this clip of Charlie (Charlie Kirk), I mean of Tucker (Tucker Carlson), but what you cite here is that he says when he first met her.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:52:08](/episodes/ep-_Sq5RqP27NY.md#t-00-51-42): “What? Okay, producer has a note via NPR. Carlson (Tucker Carlson) recounts the meeting with Trump (Donald Trump) in which he says Trump (Donald Trump) dismissed his concerns about the Iran war by saying we're all going to die anyway.”
+
+</details>
+
+- **[Bill Ackman](/entities/person-bill-ackman.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:50:28](/episodes/ep-5TTkMa49qj8.md#t-00-50-01): “Bill Ackman, you're a billionaire. ... We're supposed to believe that your money is not mysterious. Tucker Carlson thinks it's mysterious. He thinks your money is very mysterious. ... Because what do you do? He says you're not that intelligent. You're not that impressive. He's met you.”
 
 </details>
 
@@ -3799,6 +4171,20 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:16:52](/episodes/ep-a-e7HC6SeK8.md#t-00-16-11): “I asked Tucker (Tucker Carlson), "What made you say that?"”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:29:44](/episodes/ep-5TTkMa49qj8.md#t-00-29-14): “That's the blessing of living in a country where we have freedom of speech. Tucker Carlson told me that based on his personal conversations with Erica (Erika Kirk), he knew her to be much more critical of Israel and the interventionist approach to U.S. foreign policy in general, more than her husband ever was.”
 
 </details>
 
@@ -3830,7 +4216,35 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (62)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (69)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3)</summary>
+
+- [00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48) [○] (Opinion) ["Tucker Carlson said, “My sense is” Turning Point’s leadership is wholly focused ..."](/statements/statement-2eb6ea8a7ecb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:26:02](/episodes/ep-5TTkMa49qj8.md#t-00-25-48) [○] (Opinion) ["Tucker Carlson said he loves Candace Owens and called her “a very humane and dec..."](/statements/statement-d140f2d10d36.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:29:44](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) [○] (Claim) ["Tucker Carlson told Molot that, based on personal conversations, he knew Erika K..."](/statements/statement-53c8669d05f9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (4)</summary>
+
+- [00:47:42](/episodes/ep-NNiCZk1cuzs.md#t-00-47-42) [○] (Opinion) ["Carlson said “maximalist position on free speech” was the anti-free-speech Polit..."](/statements/statement-dd45d2f8d618.md)
+  - About: [Ian Ward](/entities/person-ian-ward.md), [POLITICO](/entities/org-politico.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:48:10](/episodes/ep-NNiCZk1cuzs.md#t-00-47-42) [○] (Opinion) ["Carlson argued free speech meant citizens could say what they thought, including..."](/statements/statement-5b2c7deaea10.md)
+
+- [00:48:41](/episodes/ep-NNiCZk1cuzs.md#t-00-48-41) [○] (Opinion) ["Carlson argued some on the right were abandoning their principles after becoming..."](/statements/statement-40b8e4f96bbd.md)
+
+- [00:50:38](/episodes/ep-NNiCZk1cuzs.md#t-00-50-38) [○] (Opinion) ["Carlson argued censorship dehumanized everyone involved by treating other people..."](/statements/statement-b6563c1fa531.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3)</summary>
@@ -4102,7 +4516,107 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (95)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (112)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:31:28](/episodes/ep-0pSAhaAZz1w.md#t-00-31-28) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Elephant Clipping prohibited clips of Megyn Kell..."](/statements/statement-4217e08a6468.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:27:41](/episodes/ep-q4m-kGzvwjw.md#t-00-27-13) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk told Tucker Carlson to “go max” on Epstein at ..."](/statements/statement-59c6a9b7231c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [2025 Student Action Summit](/entities/event-2025-student-action-summit.md)
+
+- [00:28:03](/episodes/ep-q4m-kGzvwjw.md#t-00-27-52) (Opinion) **Candace Owens** (via paraphrase): ["Owens said Tucker Carlson argued that people who serve in foreign armi..."](/statements/statement-dc37180ee8ea.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:50:30](/episodes/ep-5TTkMa49qj8.md#t-00-50-01) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterized Tucker Carlson as finding Bill Ackman’s money myst..."](/statements/statement-aad4af48dc75.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:52:08](/episodes/ep-_Sq5RqP27NY.md#t-00-51-42) (Opinion) **Donald J. Trump** (via quoted article): ["According to Tucker Carlson’s recollection reported via NPR and read b..."](/statements/statement-e20b1d9756ad.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:58:25](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03) (Claim) **Candace Owens** (via paraphrase): ["Owens said donors reacted negatively to Tucker Carlson’s July 11th spe..."](/statements/statement-90e9d9a3dae0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25) (Claim) **Candace Owens** (via paraphrase): ["Owens says Tucker Carlson investigated gold sellers’ misleading sales ..."](/statements/statement-bdf8b6f4cebc.md)
+  - Also about: [Battalion Metals](/entities/org-battalion-metals.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4)</summary>
+
+- [00:30:12](/episodes/ep-6XfDqKTdFKg.md#t-00-30-05) (Accusation) **Candace Owens**: ["Owens says Jeremy Boreing’s podcast has pages of thumbnails about her ..."](/statements/statement-c4ca89174fd9.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:34:59](/episodes/ep-6XfDqKTdFKg.md#t-00-34-59) (Prediction) **Bobby Sausalito** (via quoted speech): ["Sausalito predicts most of the Boreing–Neff interview will be a hate s..."](/statements/statement-de180c549ecb.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29) (Opinion) **Blake Neff** (via quoted speech): ["In the interview trailer, Neff says Carlson has extended maximum grace..."](/statements/statement-fe6eaa8cba5f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:37:47](/episodes/ep-6XfDqKTdFKg.md#t-00-37-47) (Claim) **Blake Neff** (via quoted speech): ["In the interview trailer, Neff says his last communication with Carlso..."](/statements/statement-40e292dda286.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3)</summary>
+
+- [00:45:04](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04) (Claim) **Candace Owens**: ["Owens said Carlson helped Neff get his job with Kirk by making a call ..."](/statements/statement-d45f2add0e62.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Stew Peters](/entities/person-stew-peters.md)
+
+- [00:45:19](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04) (Accusation) **Candace Owens** (via paraphrase): ["Owens disputed Neff’s account of Kirk’s friendship with Carlson, claim..."](/statements/statement-4aec1737959c.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:57:26](/episodes/ep-NNiCZk1cuzs.md#t-00-57-26) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Brian Cole Jr.’s parents were going on Carlson to allege a ..."](/statements/statement-846a7a88cc13.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2)</summary>
+
+- [01:02:38](/episodes/ep-aLJhpxrakCU.md#t-01-02-18) (Citation) **Ali (viewer commenter; identity unverified)** (via quoted post): ["Viewer handle Ali reported that Tucker Carlson said he was impressed b..."](/statements/statement-7a5a2e8ba00e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:03:07](/episodes/ep-aLJhpxrakCU.md#t-01-03-00) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk was at Tucker Carlson’s the night before Owens’s..."](/statements/statement-a53d5c4638ee.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:24:09](/episodes/ep-kn1E0scy9Wc.md#t-00-23-31) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tucker Carlson spoke on stage about Jeffrey Epstein and ask..."](/statements/statement-b25d2f858124.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Bill Ackman](/entities/person-bill-ackman.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

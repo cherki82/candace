@@ -20,7 +20,7 @@ date: "2025-12-10"
 
 > Erika Kirk interview with Harris Faulkner on Fox News Outnumbered addressing conspiracy theories
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Cand...
 
@@ -37,3 +37,11 @@ date: "2025-12-10"
 <a href="https://www.youtube.com/watch?v=KpxIBWkNsSs&t=2881s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > she went on that show and then she was all fired up for the first time
+
+### 3. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:23:31](/episodes/ep-5TTkMa49qj8.md#event-event-2025-12-10-erika-kirk-interview-with-harris-faulkne-t-00-23-17) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=1411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> outnumbered December 10th, Red Jackets, the town hall with Bari Weiss, the black suit,

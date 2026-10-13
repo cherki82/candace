@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Andrew Wilson](/entities/person-andrew-wilson) debated [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (5 mentions)
+### Evidence (7 mentions)
+
+**[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
+
+- [00:11:58](/episodes/ep-0pSAhaAZz1w#t-00-11-58): _I debated Andrew Wilson on August 14th, to be specific. So this campaign had its instructions changed. They wanted people to stop clipping generic Charlie Kirk and to instead focus on clipping Andrew Wilson to make him look good._
 
 **[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
 
@@ -24,6 +28,10 @@ object: "person-candace-owens"
 **[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
 
 - [00:00:06](/episodes/ep-E7P2ShoYDUA#t-00-00-06): _My, oh, my. Honestly, you guys, if we're being honest, it was over the minute that Andrew Wilson began reading his quote unquote opening statement from his phone._
+
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:52:03](/episodes/ep-NNiCZk1cuzs#t-00-52-03): _They want death, trying to walk people into defamation claims, as you guys saw. I saw when I did my debate with Andrew Wilson, and they're trying to keep their hands clean, but they're obviously platforming these individuals on Charlie Kirk's show, who Charlie Kirk would have never hosted on his show._
 
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 

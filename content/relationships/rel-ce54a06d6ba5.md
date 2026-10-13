@@ -11,11 +11,19 @@ object: "person-baron-coleman"
 
 ## [Candace Owens](/entities/person-candace-owens) spoke with [Baron Coleman](/entities/person-baron-coleman)
 
-### Evidence (1 mentions)
+### Evidence (3 mentions)
 
 **[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
 
 - [00:17:31](/episodes/ep-HIlPQ-_dcxM#t-00-17-31): _I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?_
+
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:44:34](/episodes/ep-NNiCZk1cuzs#t-00-44-34): _Picture of Empress Films at this time. That's what I'd like to know. Just seems weird to me, and I find that a little bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is weird, very weird, and I don't know why it's weird, but it just feels weird for some reason. When you are just running a clothing company, like, were they going to do a documentary on Erika (Erika Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I don't know. Doesn't register to me as correct._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:00:34](/episodes/ep-_Sq5RqP27NY#t-00-00-34): _I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot because I think it really does help._
 
 ### Related
 

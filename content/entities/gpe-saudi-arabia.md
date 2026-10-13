@@ -1,6 +1,6 @@
 ---
 title: "Saudi Arabia"
-description: "Saudi Arabia (Places) - 12 mentions"
+description: "Saudi Arabia (Places) - 13 mentions"
 id: "gpe-saudi-arabia"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-saudi-arabia-t-01-15-59">2025-09-16 · 01:16:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-saudi-arabia-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-saudi-arabia-t-00-06-39">2026-10-05 · 00:06:39</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-saudi-arabia-t-01-11-13" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-saudi-arabia-t-00-22-31" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-saudi-arabia-t-00-39-19" style="--pulse-height:50%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-saudi-arabia-t-00-06-39" style="--pulse-height:50%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-saudi-arabia-t-01-11-13) | 1 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-saudi-arabia-t-00-22-31) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-saudi-arabia-t-00-39-19) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-saudi-arabia-t-00-06-39) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:06:39](/episodes/ep-ms5ChhZegRg.md#ent-gpe-saudi-arabia-t-00-06-39)**
+> "...ion which involved Israel and Saudi Arabia. You can go down that rabbit hole in your own tim..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -180,7 +190,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Saudi Arabia (1)</strong></summary>
+<summary><strong class="section-title">Statements about Saudi Arabia (2)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:06:39](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens** (via paraphrase): ["Owens said conspiracy theorists surmised the Las Vegas shooting was a ..."](/statements/statement-baae6c00ea67.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Israel](/entities/gpe-israel.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Max Blumenthal"
-description: "Max Blumenthal (People) - 15 mentions"
+description: "Max Blumenthal (People) - 16 mentions"
 id: "person-max-blumenthal"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-max-blumenthal-t-00-15-45">2025-09-15 · 00:16:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-max-blumenthal-t-00-19-58">2026-05-28 · 00:20:04</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-max-blumenthal-t-01-03-32">2026-09-16 · 01:03:32</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-max-blumenthal-t-00-19-58" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-max-blumenthal-t-01-03-32" style="--pulse-height:33%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-max-blumenthal-t-00-19-58) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-max-blumenthal-t-01-03-32) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[01:03:32](/episodes/ep-aLJhpxrakCU.md#ent-person-max-blumenthal-t-01-03-32)**
+> "...That contract got revealed by Max Blumenthal. Is anybody surprised?"
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -208,7 +218,15 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Max Blumenthal (3)</strong></summary>
+<summary><strong class="section-title">Statements about Max Blumenthal (4)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [01:03:32](/episodes/ep-aLJhpxrakCU.md#t-01-03-32) (Claim) **Candace Owens**: ["Owens said Erika Kirk was now very pro-Israel and partnered with the I..."](/statements/statement-6b311f783134.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [International Fellowship of Christians and Jews](/entities/org-international-fellowship-christians-jews.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>

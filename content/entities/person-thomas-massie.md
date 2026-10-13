@@ -1,6 +1,6 @@
 ---
 title: "Thomas Massie"
-description: "Thomas Massie (People) - 48 mentions"
+description: "Thomas Massie (People) - 50 mentions"
 id: "person-thomas-massie"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10">2025-11-13 · 00:57:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22">2026-07-29 · 00:32:28</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-thomas-massie-t-00-46-42">2026-09-22 · 00:47:00</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -50,6 +50,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-thomas-massie-t-00-49-39" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-thomas-massie-t-00-43-28" style="--pulse-height:15%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-thomas-massie-t-00-49-39) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-thomas-massie-t-00-43-28) | 2 |
 
 </details>
 </section>
@@ -81,7 +83,18 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:43:28](/episodes/ep-6XfDqKTdFKg.md#ent-person-thomas-massie-t-00-43-28)**
+> "... most vile person, you attack Thomas Massie, got him out of there. Every single person that w..."
+
+**[00:47:00](/episodes/ep-6XfDqKTdFKg.md#ent-person-thomas-massie-t-00-46-42)**
+> "...bout, yeah, said you punished Thomas Massie for wanting to get that done, which was your prom..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -463,7 +476,15 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Thomas Massie (12)</strong></summary>
+<summary><strong class="section-title">Statements about Thomas Massie (13)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:46:45](/episodes/ep-6XfDqKTdFKg.md#t-00-46-42) (Opinion) **Candace Owens**: ["Owens rejects Vance’s request for another chance, demands answers abou..."](/statements/statement-4740735ad935.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (5)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Ana Kasparian"
-description: "Ana Kasparian (People) - 13 mentions"
+description: "Ana Kasparian (People) - 16 mentions"
 id: "person-ana-kasparian"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-33-38">2025-10-30 · 00:33:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-07-26">2026-08-21 · 00:07:49</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-ana-kasparian-t-01-00-51">2026-09-16 · 01:01:02</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>46</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -37,6 +37,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 <a href="/episodes/ep-YeEtS7nix3o.md#t-01-12-43" style="--pulse-height:40%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-59-43" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-04-14" style="--pulse-height:40%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-ana-kasparian-t-01-00-51" style="--pulse-height:60%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 3 mentions" title="2026-09-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-01-12-43) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-59-43) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-04-14) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-ana-kasparian-t-01-00-51) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (3 mentions)</summary>
+
+**[01:00:51](/episodes/ep-aLJhpxrakCU.md#ent-person-ana-kasparian-t-01-00-51)**
+> "...in]. P.S. We know now Ana K. (Ana Kasparian)"
+
+**[01:00:58](/episodes/ep-aLJhpxrakCU.md#ent-person-ana-kasparian-t-01-00-51)**
+> "...ere wrong. You thought it was Ana Kasparian. That would have been a great one, though."
+
+**[01:01:02](/episodes/ep-aLJhpxrakCU.md#ent-person-ana-kasparian-t-01-00-51)**
+> "...d have been a fun one to have Ana Kasparian. But I want to keep going on with the Charlie Kir..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Nicki Minaj"
-description: "Nicki Minaj (People) - 9 mentions"
+description: "Nicki Minaj (People) - 10 mentions"
 id: "person-nicki-minaj"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-00-15-01">2026-01-05 · 00:15:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nicki-minaj-t-00-32-16">2026-07-16 · 00:32:36</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-nicki-minaj-t-00-23-52">2026-09-30 · 00:23:52</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-nicki-minaj-t-00-34-46" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nicki-minaj-t-00-32-16" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-nicki-minaj-t-00-23-52" style="--pulse-height:50%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-nicki-minaj-t-00-34-46) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-nicki-minaj-t-00-32-16) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-nicki-minaj-t-00-23-52) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:23:52](/episodes/ep-5TTkMa49qj8.md#ent-person-nicki-minaj-t-00-23-52)**
+> "... with Erica (Erika Kirk)—with Nicki Minaj."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -126,6 +136,28 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:23:52](/episodes/ep-5TTkMa49qj8.md#t-00-23-52): “Erica (Erika Kirk), when she gave an award to Caleb Chilcutt, the... on December 20th, that's the day after. So she had clothes by the next day. She had clothes the day after that when she sat down with Erica (Erika Kirk)—with Nicki Minaj.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:23:52](/episodes/ep-5TTkMa49qj8.md#t-00-23-52): “Erica (Erika Kirk), when she gave an award to Caleb Chilcutt, the... on December 20th, that's the day after. So she had clothes by the next day. She had clothes the day after that when she sat down with Erica (Erika Kirk)—with Nicki Minaj.”
+
+</details>
+
+</details>
 
 </details>

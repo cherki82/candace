@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 238 mentions"
+description: "PreBorn! (Organizations) - 261 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11">2026-09-09 · 00:27:28</a></strong></div>
-<div><span>Episodes</span><strong>77</strong></div>
-<div><span>Mentions</span><strong>238</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-59">2026-10-06 · 00:36:18</a></strong></div>
+<div><span>Episodes</span><strong>83</strong></div>
+<div><span>Mentions</span><strong>261</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -114,6 +114,12 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34" style="--pulse-height:71%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-preborn-t-00-29-33" style="--pulse-height:43%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-preborn-t-00-25-46" style="--pulse-height:57%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-preborn-t-00-26-09" style="--pulse-height:71%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 5 mentions" title="2026-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-preborn-t-00-35-12" style="--pulse-height:29%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-preborn-t-01-01-40" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-13" style="--pulse-height:71%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 5 mentions" title="2026-10-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-29" style="--pulse-height:57%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -196,6 +202,12 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34) | 5 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-preborn-t-00-29-33) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-preborn-t-00-25-46) | 4 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-preborn-t-00-26-09) | 5 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-preborn-t-00-35-12) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-preborn-t-01-01-40) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-13) | 5 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-29) | 4 |
 
 </details>
 </section>
@@ -203,7 +215,100 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (238)</strong></summary>
+<summary><strong class="section-title">Raw mentions (261)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[00:35:29](/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-29)**
+> "...ight, you guys, for 20 years, preborn has stood in the gap between fear and hope. And t..."
+
+**[00:35:42](/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-29)**
+> "...efore. But every day inside a preborn network clinic, a woman sees her baby on an ultra..."
+
+**[00:35:59](/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-59)**
+> "Proof that preborn is not just saving babies, it's saving souls. Rig..."
+
+**[00:36:18](/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-59)**
+> "...t's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (5 mentions)</summary>
+
+**[00:31:34](/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-13)**
+> "...ight, you guys, for 20 years, preborn has stood in the gap between fear and hope."
+
+**[00:31:40](/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-13)**
+> "...this year alone, God has used preborn to save nearly 60,000 babies from abortion. Since..."
+
+**[00:31:53](/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-53)**
+> "But every day inside a preborn network clinic, a woman sees her baby on an ultra..."
+
+**[00:32:01](/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-53)**
+> "... Christ), which is proof that preborn is not just saving babies, it's saving souls."
+
+**[00:32:24](/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-53)**
+> "...hat's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.co..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[01:01:54](/episodes/ep-q4m-kGzvwjw.md#ent-org-preborn-t-01-01-40)**
+> "She just doesn't. And she, this is the nasty operator behind the scenes. And I'm, like I said, so happy that Vanity Fair just saw right through the entire fake Christian grift, which is like, "I don't want to answer your questions, and I'm going to be performative." I also want... Oh, next comment comes from Alina (viewer handle; identity unverified). She writes, "I went from child-free to my husband, and now we are planning our first child because of you. We are donating to PreBorn! to save as many babies as possible."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:35:12](/episodes/ep-5TTkMa49qj8.md#ent-org-preborn-t-00-35-12)**
+> "...itments to Christ, proof that preborn isn't just saving babies, it's saving souls."
+
+**[00:35:32](/episodes/ep-5TTkMa49qj8.md#ent-org-preborn-t-00-35-12)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. preborn.com slash Candace."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (5 mentions)</summary>
+
+**[00:26:16](/episodes/ep-6XfDqKTdFKg.md#ent-org-preborn-t-00-26-09)**
+> "...ight, you guys, for 20 years, preborn has stood in the gap between fear and hope. And t..."
+
+**[00:26:37](/episodes/ep-6XfDqKTdFKg.md#ent-org-preborn-t-00-26-09)**
+> "But every day inside a preborn network clinic, a woman sees her baby on an ultra..."
+
+**[00:26:50](/episodes/ep-6XfDqKTdFKg.md#ent-org-preborn-t-00-26-50)**
+> "Proof that preborn is not just saving babies, it's saving souls. Rig..."
+
+**[00:27:04](/episodes/ep-6XfDqKTdFKg.md#ent-org-preborn-t-00-26-50)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace."
+
+**[00:27:13](/episodes/ep-6XfDqKTdFKg.md#ent-org-preborn-t-00-26-50)**
+> "Again, that's preborn.com slash Candace. I also want to tell you guys a..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4 mentions)</summary>
+
+**[00:26:10](/episodes/ep-O4Zw3bCALjU.md#ent-org-preborn-t-00-25-46)**
+> "...ight, you guys, for 20 years, Preborn has stood in the gap between fear and hope. And t..."
+
+**[00:26:23](/episodes/ep-O4Zw3bCALjU.md#ent-org-preborn-t-00-26-23)**
+> "... ever. But every day inside a Preborn network clinic, a woman sees her baby on an ultra..."
+
+**[00:26:34](/episodes/ep-O4Zw3bCALjU.md#ent-org-preborn-t-00-26-23)**
+> "...st (Jesus Christ), proof that preborn isn't just saving babies, it's saving souls."
+
+**[00:26:59](/episodes/ep-O4Zw3bCALjU.md#ent-org-preborn-t-00-26-59)**
+> "...at's pound 250 baby. Or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -1283,7 +1388,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1307,6 +1412,11 @@ Source: [PreBorn!](https://preborn.com/)
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:45](/episodes/ep-pc3pxRyNFZk.md#t-00-33-34): “Preborn! You guys know I love them”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:37:11](/episodes/ep-q7f8r-THr84.md#t-00-36-55): “And that's exactly why I partnered with PreBorn, because PreBorn is not out to judge women. They're making motherhood possible for them.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:33:57](/episodes/ep-t4U7NjnUEgc.md#t-00-33-47): “Through our partnership with pre-born, we can help save babies and support mothers that are in need because every day, pre-born's clinics rescue hundreds of babies”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:26:10](/episodes/ep-O4Zw3bCALjU.md#t-00-25-46): “All right, you guys, for 20 years, Preborn has stood in the gap between fear and hope. And this year alone, God has used Preborn to save nearly 60,000 babies from abortion. Since Roe v. Wade was overturned, the abortion industry has not slowed down. It actually has just adapted. Women now face this decision faster, more privately and more alone than ever. But every day inside a Preborn network clinic, a woman sees her baby on an ultrasound and hears her baby's heartbeat for the first time and everything changes. The chance for new life skyrockets and this year. That moment has led to thousands of commitments to Christ (Jesus Christ), proof that preborn isn't just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her. For just $28, you can help provide one life-saving ultrasound. $140 helps to rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby. Or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also remind you guys about ethos because life has a way of changing our priorities.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:26:50](/episodes/ep-6XfDqKTdFKg.md#t-00-26-50): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her. For just $28, you can help to provide one life-saving ultrasound. $140 helps rescue five babies and all gifts are tax deductible. If you'd like to give, dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:35:20](/episodes/ep-5TTkMa49qj8.md#t-00-35-12): “Right now, another mother needs that moment and you can give it to her. Just $28 helps provide one life-saving ultrasound, $140 helps rescue five babies and all gifts are tax deductible. ... If you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace. preborn.com slash Candace.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 
 </details>
 
@@ -1333,7 +1443,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1357,6 +1467,11 @@ Source: [PreBorn!](https://preborn.com/)
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:45](/episodes/ep-pc3pxRyNFZk.md#t-00-33-34): “Preborn! You guys know I love them”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:37:11](/episodes/ep-q7f8r-THr84.md#t-00-36-55): “And that's exactly why I partnered with PreBorn, because PreBorn is not out to judge women. They're making motherhood possible for them.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:33:57](/episodes/ep-t4U7NjnUEgc.md#t-00-33-47): “Through our partnership with pre-born, we can help save babies and support mothers that are in need because every day, pre-born's clinics rescue hundreds of babies”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:26:10](/episodes/ep-O4Zw3bCALjU.md#t-00-25-46): “All right, you guys, for 20 years, Preborn has stood in the gap between fear and hope. And this year alone, God has used Preborn to save nearly 60,000 babies from abortion. Since Roe v. Wade was overturned, the abortion industry has not slowed down. It actually has just adapted. Women now face this decision faster, more privately and more alone than ever. But every day inside a Preborn network clinic, a woman sees her baby on an ultrasound and hears her baby's heartbeat for the first time and everything changes. The chance for new life skyrockets and this year. That moment has led to thousands of commitments to Christ (Jesus Christ), proof that preborn isn't just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her. For just $28, you can help provide one life-saving ultrasound. $140 helps to rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby. Or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also remind you guys about ethos because life has a way of changing our priorities.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:26:50](/episodes/ep-6XfDqKTdFKg.md#t-00-26-50): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her. For just $28, you can help to provide one life-saving ultrasound. $140 helps rescue five babies and all gifts are tax deductible. If you'd like to give, dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:35:20](/episodes/ep-5TTkMa49qj8.md#t-00-35-12): “Right now, another mother needs that moment and you can give it to her. Just $28 helps provide one life-saving ultrasound, $140 helps rescue five babies and all gifts are tax deductible. ... If you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace. preborn.com slash Candace.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 
 </details>
 
@@ -1384,7 +1499,16 @@ Source: [PreBorn!](https://preborn.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about PreBorn! (3)</strong></summary>
+<summary><strong class="section-title">Statements about PreBorn! (5)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:34:43](/episodes/ep-5TTkMa49qj8.md#t-00-34-33) (Claim) **Candace Owens**: ["In a sponsor read, Owens said PreBorn had saved nearly 60,000 babies f..."](/statements/statement-87e86a2ea87d.md)
+
+- [00:35:20](/episodes/ep-5TTkMa49qj8.md#t-00-35-12) (Claim) **Candace Owens**: ["In a sponsor read, Owens said $28 helps provide one life-saving ultras..."](/statements/statement-8de49faa9284.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>

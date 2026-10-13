@@ -1,6 +1,6 @@
 ---
 title: "Air Force Two"
-description: "Air Force Two (Organizations) - 9 mentions"
+description: "Air Force Two (Organizations) - 12 mentions"
 id: "org-air-force-two"
 type: "ORG"
 aliases:
@@ -21,28 +21,30 @@ Source: [Air Force One — The White House](https://www.whitehouse.gov/about-the
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-org-air-force-two-t-00-04-27">2025-10-27 · 00:04:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-air-force-two-t-00-45-51">2026-09-08 · 00:45:51</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-org-air-force-two-t-00-19-08">2026-09-30 · 00:19:34</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-c5BcKF91iec.md#ent-org-air-force-two-t-00-04-27">Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5TTkMa49qj8.md#ent-org-air-force-two-t-00-18-01">VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-air-force-two-t-00-04-27" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-air-force-two-t-00-14-05" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-air-force-two-t-00-36-41" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-air-force-two-t-00-14-02" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-air-force-two-t-00-45-19" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-air-force-two-t-00-37-42" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-air-force-two-t-00-01-50" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-air-force-two-t-00-15-39" style="--pulse-height:100%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-air-force-two-t-00-45-51" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-air-force-two-t-00-04-27" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-air-force-two-t-00-14-05" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-air-force-two-t-00-36-41" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-air-force-two-t-00-14-02" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-air-force-two-t-00-45-19" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-air-force-two-t-00-37-42" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-air-force-two-t-00-01-50" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-air-force-two-t-00-15-39" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-air-force-two-t-00-45-51" style="--pulse-height:50%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-air-force-two-t-00-29-51" style="--pulse-height:50%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-air-force-two-t-00-18-01" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +59,8 @@ Source: [Air Force One — The White House](https://www.whitehouse.gov/about-the
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-air-force-two-t-00-01-50) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-air-force-two-t-00-15-39) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-air-force-two-t-00-45-51) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-air-force-two-t-00-29-51) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-air-force-two-t-00-18-01) | 2 |
 
 </details>
 </section>
@@ -68,7 +72,26 @@ Source: [Air Force One — The White House](https://www.whitehouse.gov/about-the
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:18:01](/episodes/ep-5TTkMa49qj8.md#ent-org-air-force-two-t-00-18-01)**
+> "...thing that she had to wear on Air Force Two the next day, a Proclaim T-shirt with the phrase ..."
+
+**[00:19:34](/episodes/ep-5TTkMa49qj8.md#ent-org-air-force-two-t-00-19-08)**
+> "...inking ahead about outfits in Air Force Two is it's crazy."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:29:51](/episodes/ep-NNiCZk1cuzs.md#ent-org-air-force-two-t-00-29-51)**
+> "... office on speed dial. We got Air Force Two and Air Force One."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -152,7 +175,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Air Force Two (1)</strong></summary>
+<summary><strong class="section-title">Statements about Air Force Two (2)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:17:47](/episodes/ep-5TTkMa49qj8.md#t-00-17-23) (Claim) **Clara Molot** (via quoted article): ["Molot reported that on the night Charlie Kirk died, Erika Kirk conside..."](/statements/statement-51bc1d932d3a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [PROCLAIM STREETWEAR](/entities/org-proclaim-streetwear.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

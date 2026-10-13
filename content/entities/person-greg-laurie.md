@@ -1,6 +1,6 @@
 ---
 title: "Greg Laurie"
-description: "Greg Laurie (People) - 19 mentions"
+description: "Greg Laurie (People) - 21 mentions"
 id: "person-greg-laurie"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-25-14">2026-06-17 · 00:25:29</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BvthGQw3_s0.md#ent-person-greg-laurie-t-00-51-12">2026-09-21 · 00:51:20</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,8 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-39-58" style="--pulse-height:67%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-greg-laurie-t-00-08-47" style="--pulse-height:17%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-24-35" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-greg-laurie-t-00-04-34" style="--pulse-height:17%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-greg-laurie-t-00-51-12" style="--pulse-height:17%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +58,8 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-39-58) | 4 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-greg-laurie-t-00-08-47) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-24-35) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-greg-laurie-t-00-04-34) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-greg-laurie-t-00-51-12) | 1 |
 
 </details>
 </section>
@@ -63,7 +67,23 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:51:20](/episodes/ep-BvthGQw3_s0.md#ent-person-greg-laurie-t-00-51-12)**
+> "... you're going to partner with Greg Laurie and they're going through these lawsuits about tr..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:04:55](/episodes/ep-kn1E0scy9Wc.md#ent-person-greg-laurie-t-00-04-34)**
+> "...er. But in particular, Pastor Greg Laurie, immediately after Charlie (Charlie Kirk) passed,..."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3 mentions)</summary>
@@ -292,7 +312,26 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Greg Laurie (9)</strong></summary>
+<summary><strong class="section-title">Statements about Greg Laurie (12)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:51:07](/episodes/ep-BvthGQw3_s0.md#t-00-50-30) (Opinion) **Candace Owens**: ["Owens characterized TPUSA Faith as a veneer and said its partnership w..."](/statements/statement-9bd4346faf0f.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:04:55](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34) (Claim) **Candace Owens**: ["Owens said Erika Kirk put Greg Laurie on headlining paperwork for the ..."](/statements/statement-abedd71b4557.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
+
+- [00:05:06](/episodes/ep-kn1E0scy9Wc.md#t-00-05-06) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Harvest Church was going through the court system accused i..."](/statements/statement-f186b6adf281.md)
+  - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>

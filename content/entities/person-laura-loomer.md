@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 141 mentions"
+description: "Laura Loomer (People) - 148 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-04-24">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-laura-loomer-t-00-24-20">2026-09-10 · 00:24:48</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>141</strong></div>
-<div><span>Statements by</span><strong>22</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
-<div><span>Relationships</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-laura-loomer-t-00-37-24">2026-10-07 · 00:37:32</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>148</strong></div>
+<div><span>Statements by</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>38</strong></div>
+<div><span>Relationships</span><strong>48</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -68,6 +68,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-person-laura-loomer-t-00-43-51" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-laura-loomer-t-00-29-17" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-laura-loomer-t-00-24-20" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-laura-loomer-t-00-06-48" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-laura-loomer-t-00-44-28" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-laura-loomer-t-00-40-51" style="--pulse-height:14%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-laura-loomer-t-00-01-24" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-laura-loomer-t-00-37-24" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -111,6 +116,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-laura-loomer-t-00-43-51) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-laura-loomer-t-00-29-17) | 3 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-laura-loomer-t-00-24-20) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-laura-loomer-t-00-06-48) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-laura-loomer-t-00-44-28) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-laura-loomer-t-00-40-51) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-laura-loomer-t-00-01-24) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-laura-loomer-t-00-37-24) | 1 |
 
 </details>
 </section>
@@ -122,7 +132,53 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+<summary><strong class="section-title">Raw mentions (148)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:37:32](/episodes/ep-yrg_-D6oNHE.md#ent-person-laura-loomer-t-00-37-24)**
+> "...n people trying to mainstream Laura Loomer, who's clinically insane. But this tweet really h..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:01:56](/episodes/ep-ms5ChhZegRg.md#ent-person-laura-loomer-t-00-01-24)**
+> "...ember the second mansion that Laura Loomer reported on?"
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3 mentions)</summary>
+
+**[00:41:14](/episodes/ep-6XfDqKTdFKg.md#ent-person-laura-loomer-t-00-40-51)**
+> "...ing with people like this and Laura Loomer is not going to bring you votes."
+
+**[00:41:40](/episodes/ep-6XfDqKTdFKg.md#ent-person-laura-loomer-t-00-41-22)**
+> "... that traded Charlie Kirk for Laura Loomer? Like, who's doing that? Who's like, yeah, no, th..."
+
+**[00:44:10](/episodes/ep-6XfDqKTdFKg.md#ent-person-laura-loomer-t-00-44-10)**
+> "...he supposed to be moving like Laura Loomer referring to me as a ghetto black B.I.T.C.H. And ..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:44:28](/episodes/ep-aLJhpxrakCU.md#ent-person-laura-loomer-t-00-44-28)**
+> "...So are fender benders. Sorry, Laura Loomer."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:06:48](/episodes/ep-O4Zw3bCALjU.md#ent-person-laura-loomer-t-00-06-48)**
+> "...are. I mean, he's referred to Laura Loomer as a national treasure in this pursuit."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -872,10 +928,10 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Criticized (4)</summary>
+<summary>Criticized (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:27](/episodes/ep-kaWtDuoY_ns.md#t-00-48-06): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates.”
@@ -885,6 +941,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27): “it is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:44:10](/episodes/ep-6XfDqKTdFKg.md#t-00-44-10): “I don't tell you gather up your Bolshevik homies. What vote was he supposed to be moving like Laura Loomer referring to me as a ghetto black B.I.T.C.H. And what was that going to get black people out there and move the black needle like this is these are your advisors now from Charlie Kirk to this.”
 
 </details>
 
@@ -909,13 +966,20 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Zohran Mamdani](/entities/person-zohran-mamdani.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:37:58](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24): “This is so funny. She wrote, this was just sent to me. The photo was taken at a DMV today in New York City. ... Why does the credit card machine at the DMV in Mamdani (Zohran Mamdani)'s New York City have the Palestinian flag as the screensaver on October 7th? ... Mamdani (Zohran Mamdani), disgraceful. It is deliberate and intentional.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
@@ -927,6 +991,20 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:05:53](/episodes/ep-YeEtS7nix3o.md#t-00-05-25): “This is genuinely mental unwellness. ... On top of that, you had Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting, which was news to us”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:59:50](/episodes/ep-OgRyiOAVtWU.md#t-00-59-50): “The expression, "crying out while they strike you." Literally, are we kidding? Do we have that Laura Loomer? Somebody just tweeted this, just to show the psychosis of Laura Loomer. Here's 591 Laura Loomer posts talking about @RealCandaceO. And he followed this up by saying that's just what was digitally possible to fit onto a screen. Like, this is real. He just posted this, and then he showed how like 45 of them were happening in just one evening.”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:47:48](/episodes/ep-LATnak75Si0.md#t-00-47-36): “But you don't have to be a Laura Loomer hater or a Laura Loomer lover to know that Laura Loomer quite literally has psychiatric issues.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:41:40](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22): “who basically are the reason people are not getting out of bed to vote. Because why are we voting for a party that traded Charlie Kirk for Laura Loomer? Like, who's doing that? Who's like, yeah, no, this is totally the same party? And Laura Loomer tweeted this: We won't be getting the SAVE America Act before midterms. Today was the last day in DC, members of Congress until the end of midterms. No more bills, no more votes, no more anything. The president's agenda was not codified before the midterms. Good luck getting voters out. It will be a miracle, Miracle if the Democrats don't take the House and the Senate this November. What is it they say? Good job, team. Like, it is not about that, Laura. Like, everyone is just off of the wagon with it. We want nothing to do with it. Like, I'm sorry. I'm not telling anybody that they should go vote for more of this. Vote for what? Speech censorship that's being platformed, demanded by people like Mark Levin and your type, people that are asking for the state to get involved.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:37:32](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24): “Go to break, I do want to show you this because I keep telling you that, like, Turning Point is just not sending their best anymore. They're just collaborating with people who are, they're, they're really just dumb. There's no other way to say it. They're just not smart, and they're trying to make these people look like they're bright and they're hard workers. And nothing is funnier to me than people trying to mainstream Laura Loomer, who's clinically insane. But this tweet really happened today. Laura Loomer wrote this.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:48](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48): “That he's now partnering with anyone who will say anything negative about me. He doesn't even care. I mean, he's referred to Laura Loomer as a national treasure in this pursuit.”
 
 </details>
 
@@ -969,7 +1047,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Referenced By (22)</summary>
+<summary>Referenced By (24)</summary>
 
 - **[Alan Jacoby](/entities/person-alan-jacoby.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1072,7 +1150,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
@@ -1084,11 +1162,13 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:05:53](/episodes/ep-YeEtS7nix3o.md#t-00-05-25): “This is genuinely mental unwellness. ... On top of that, you had Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting, which was news to us”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:59:50](/episodes/ep-OgRyiOAVtWU.md#t-00-59-50): “The expression, "crying out while they strike you." Literally, are we kidding? Do we have that Laura Loomer? Somebody just tweeted this, just to show the psychosis of Laura Loomer. Here's 591 Laura Loomer posts talking about @RealCandaceO. And he followed this up by saying that's just what was digitally possible to fit onto a screen. Like, this is real. He just posted this, and then he showed how like 45 of them were happening in just one evening.”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:47:48](/episodes/ep-LATnak75Si0.md#t-00-47-36): “But you don't have to be a Laura Loomer hater or a Laura Loomer lover to know that Laura Loomer quite literally has psychiatric issues.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:41:40](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22): “who basically are the reason people are not getting out of bed to vote. Because why are we voting for a party that traded Charlie Kirk for Laura Loomer? Like, who's doing that? Who's like, yeah, no, this is totally the same party? And Laura Loomer tweeted this: We won't be getting the SAVE America Act before midterms. Today was the last day in DC, members of Congress until the end of midterms. No more bills, no more votes, no more anything. The president's agenda was not codified before the midterms. Good luck getting voters out. It will be a miracle, Miracle if the Democrats don't take the House and the Senate this November. What is it they say? Good job, team. Like, it is not about that, Laura. Like, everyone is just off of the wagon with it. We want nothing to do with it. Like, I'm sorry. I'm not telling anybody that they should go vote for more of this. Vote for what? Speech censorship that's being platformed, demanded by people like Mark Levin and your type, people that are asking for the state to get involved.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:37:32](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24): “Go to break, I do want to show you this because I keep telling you that, like, Turning Point is just not sending their best anymore. They're just collaborating with people who are, they're, they're really just dumb. There's no other way to say it. They're just not smart, and they're trying to make these people look like they're bright and they're hard workers. And nothing is funnier to me than people trying to mainstream Laura Loomer, who's clinically insane. But this tweet really happened today. Laura Loomer wrote this.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:27](/episodes/ep-kaWtDuoY_ns.md#t-00-48-06): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates.”
@@ -1098,6 +1178,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27): “it is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:44:10](/episodes/ep-6XfDqKTdFKg.md#t-00-44-10): “I don't tell you gather up your Bolshevik homies. What vote was he supposed to be moving like Laura Loomer referring to me as a ghetto black B.I.T.C.H. And what was that going to get black people out there and move the black needle like this is these are your advisors now from Charlie Kirk to this.”
 
 </details>
 
@@ -1119,6 +1200,20 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:35:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48): “I don't know who Tucker Carlson thinks he is. He thinks he's so popular. Even President Trump today called him out and said he's like a third rate podcaster.”
+
+</details>
+
+- **[Zohran Mamdani](/entities/person-zohran-mamdani.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:37:58](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24): “This is so funny. She wrote, this was just sent to me. The photo was taken at a DMV today in New York City. ... Why does the credit card machine at the DMV in Mamdani (Zohran Mamdani)'s New York City have the Palestinian flag as the screensaver on October 7th? ... Mamdani (Zohran Mamdani), disgraceful. It is deliberate and intentional.”
+
+</details>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:48](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48): “That he's now partnering with anyone who will say anything negative about me. He doesn't even care. I mean, he's referred to Laura Loomer as a national treasure in this pursuit.”
 
 </details>
 
@@ -1155,7 +1250,23 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Laura Loomer (22)</strong></summary>
+<summary><strong class="section-title">Statements by Laura Loomer (24)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:37:58](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24) [○] (Accusation) ["In a post read by Owens, Laura Loomer said a photo taken at a New York City DMV ..."](/statements/statement-47395602bb2b.md)
+  - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md), [New York State Department of Motor Vehicles](/entities/org-new-york-state-department-of-motor-vehicles.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:41:40](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22) [○] (Prediction) ["Loomer tweeted that the SAVE America Act would not pass before the midterms, tha..."](/statements/statement-739f97777f74.md)
+  - About: [SAVE America Act](/entities/law-save-america-act.md), [United States Congress](/entities/org-united-states-congress.md), [Democratic Party](/entities/org-democratic-party.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>
@@ -1281,7 +1392,31 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Laura Loomer (35)</strong></summary>
+<summary><strong class="section-title">Statements about Laura Loomer (38)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:38:27](/episodes/ep-yrg_-D6oNHE.md#t-00-38-06) (Opinion) **Candace Owens**: ["Owens said she thought the credit-card-machine screen showed red and g..."](/statements/statement-7827d4e2372f.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:44:10](/episodes/ep-6XfDqKTdFKg.md#t-00-44-10) (Claim) **Candace Owens** (via paraphrase): ["Owens says Laura Loomer referred to her as a “ghetto black B.I.T.C.H.”..."](/statements/statement-ef772f753d2a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:06:48](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48) (Claim) **Candace Owens** (via paraphrase): ["Owens said Jeremy Boreing referred to Laura Loomer as a national treas..."](/statements/statement-ad6089ec187a.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>

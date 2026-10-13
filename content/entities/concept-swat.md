@@ -1,6 +1,6 @@
 ---
 title: "SWAT"
-description: "SWAT (Concepts) - 9 mentions"
+description: "SWAT (Concepts) - 16 mentions"
 id: "concept-swat"
 type: "CONCEPT"
 aliases:
@@ -21,25 +21,28 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-concept-swat-t-00-06-10">2025-09-29 · 00:06:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-swat-t-00-09-23">2026-09-02 · 00:09:33</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BvthGQw3_s0.md#ent-concept-swat-t-00-08-34">2026-09-21 · 00:08:43</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-concept-swat-t-00-06-10">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-swat-t-00-07-34">BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-concept-swat-t-00-06-10" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-swat-t-00-49-53" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-concept-swat-t-00-16-34" style="--pulse-height:50%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-swat-t-00-47-38" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-concept-swat-t-00-09-30" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-swat-t-00-09-23" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-concept-swat-t-00-06-10" style="--pulse-height:50%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-swat-t-00-49-53" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-concept-swat-t-00-16-34" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-swat-t-00-47-38" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-concept-swat-t-00-09-30" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-swat-t-00-09-23" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-concept-swat-t-00-20-57" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-swat-t-00-07-34" style="--pulse-height:100%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 4 mentions" title="2026-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-concept-swat-t-00-07-15" style="--pulse-height:50%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 2 mentions" title="2026-09-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +54,9 @@ _Type: Concepts_
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-swat-t-00-47-38) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-concept-swat-t-00-09-30) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-swat-t-00-09-23) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-concept-swat-t-00-20-57) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-swat-t-00-07-34) | 4 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-concept-swat-t-00-07-15) | 2 |
 
 </details>
 </section>
@@ -62,7 +68,43 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2 mentions)</summary>
+
+**[00:07:42](/episodes/ep-BvthGQw3_s0.md#ent-concept-swat-t-00-07-15)**
+> "...says police cars, fire crews, SWAT units, ambulances and a life flight helicopter fl..."
+
+**[00:08:43](/episodes/ep-BvthGQw3_s0.md#ent-concept-swat-t-00-08-34)**
+> "... explosive ordnance disposal, special weapons and tactics."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (4 mentions)</summary>
+
+**[00:07:34](/episodes/ep-aLJhpxrakCU.md#ent-concept-swat-t-00-07-34)**
+> "...former Marines, Army snipers, SWAT."
+
+**[00:07:44](/episodes/ep-aLJhpxrakCU.md#ent-concept-swat-t-00-07-34)**
+> "SWAT commanders who worked for the highest levels of g..."
+
+**[00:08:19](/episodes/ep-aLJhpxrakCU.md#ent-concept-swat-t-00-08-09)**
+> "...jiu-jitsu people, 22 years on SWAT, professional athletes with tactical careers."
+
+**[00:08:36](/episodes/ep-aLJhpxrakCU.md#ent-concept-swat-t-00-08-09)**
+> "Marine and 30-year cop and SWAT commander, I mean, these guys know what the f*** ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:20:57](/episodes/ep-kn1E0scy9Wc.md#ent-concept-swat-t-00-20-57)**
+> "...UVU police are already there, SWAT is already there, U.S. Marshals, even the Utah St..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -131,7 +173,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about SWAT (2)</strong></summary>
+<summary><strong class="section-title">Statements about SWAT (3)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:08:19](/episodes/ep-aLJhpxrakCU.md#t-00-08-09) (Claim) **Shawn Ryan** (via quoted speech): ["In the Shawn Ryan interview clip, Ryan described Harpole’s team as inc..."](/statements/statement-0c85c8676103.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [United States Navy](/entities/org-united-states-navy.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 500 mentions"
+description: "Ben Shapiro (People) - 511 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-ben-shapiro-t-00-04-39">2026-09-10 · 00:04:53</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>500</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-49-39">2026-10-07 · 00:49:39</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>511</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>114</strong></div>
-<div><span>Relationships</span><strong>99</strong></div>
+<div><span>Statements about</span><strong>118</strong></div>
+<div><span>Relationships</span><strong>101</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -109,6 +109,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-21-14" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-ben-shapiro-t-00-20-10" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-ben-shapiro-t-00-04-39" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-ben-shapiro-t-00-52-41" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-ben-shapiro-t-00-49-51" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-ben-shapiro-t-00-52-51" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-32-10" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-22-21" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -187,6 +192,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-21-14) | 4 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-ben-shapiro-t-00-20-10) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-ben-shapiro-t-00-04-39) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-ben-shapiro-t-00-52-41) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-ben-shapiro-t-00-49-51) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-ben-shapiro-t-00-52-51) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-32-10) | 4 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-22-21) | 2 |
 
 </details>
 </section>
@@ -198,7 +208,65 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (500)</strong></summary>
+<summary><strong class="section-title">Raw mentions (511)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:22:32](/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-22-21)**
+> "...ome the go-to for people like Ben Shapiro, Steven Crowder and many others who just know tha..."
+
+**[00:49:39](/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-49-39)**
+> "...or his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was p..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
+
+**[00:32:21](/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-32-10)**
+> "... the conservative influencers Ben Shapiro and Steven Crowder. Both campaigns are listed on ..."
+
+**[00:32:34](/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-32-10)**
+> "...oogle Drive. Neither Shapiro (Ben Shapiro) nor Crowder (Steven Crowder) responded to reques..."
+
+**[00:39:14](/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-39-14)**
+> "...ople who accuse us of it like Ben Shapiro, we now know."
+
+**[00:45:16](/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-45-08)**
+> "...n the article, Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vivek Ramaswamy, President Trump..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:53:08](/episodes/ep-6XfDqKTdFKg.md#ent-person-ben-shapiro-t-00-52-51)**
+> "...; surname unverified) writes: Ben Shapiro, I compel you to apologize to Candace Owens."
+
+**[00:53:19](/episodes/ep-6XfDqKTdFKg.md#ent-person-ben-shapiro-t-00-52-51)**
+> "...ren't even talking about Ben (Ben Shapiro) today, but I agree. I compel you. I compel you t..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:49:51](/episodes/ep-BvthGQw3_s0.md#ent-person-ben-shapiro-t-00-49-51)**
+> "...a great again. And thank you, Ben Shapiro. I did not know Candace Owens before 2024."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:53:01](/episodes/ep-kn1E0scy9Wc.md#ent-person-ben-shapiro-t-00-52-41)**
+> "...is always wrong is hurtful to Ben Shapiro, Candace?"
+
+**[00:58:51](/episodes/ep-kn1E0scy9Wc.md#ent-person-ben-shapiro-t-00-58-51)**
+> "...mitic and how it impacts Ben (Ben Shapiro)'s life?"
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -2234,7 +2302,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2256,6 +2324,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:17:42](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08): “You are an imposter, Ben. You're an imposter.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:53:08](/episodes/ep-6XfDqKTdFKg.md#t-00-52-51): “They just are so disrespectful to my pregnancy right now. The weatherman is just disrespecting my pregnancy. Janet (online commenter; surname unverified) writes: Ben Shapiro, I compel you to apologize to Candace Owens. That was so random. We weren't even talking about Ben (Ben Shapiro) today, but I agree. I compel you. I compel you to apologize just because you should.”
 
 </details>
 
@@ -2389,6 +2458,18 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:25:54](/episodes/ep-amqTMimDr0A.md#t-00-25-38): “Now, we were able to discover that Ben Shapiro and his wife have been donating a life and legacy amount to the Jewish Federation of Omaha, Nebraska.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Clipping Campaign Managed By (1)</summary>
+
+- **[Matt Serviuos](/entities/person-matt-serviuos.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:32:21](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10): “Serviuos (Matt Serviuos) also manages clipping campaigns for the conservative influencers Ben Shapiro and Steven Crowder. Both campaigns are listed on Monster Lab with $30,000 budgets for last month.”
 
 </details>
 
@@ -2603,7 +2684,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (49)</summary>
+<summary>Referenced By (50)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -2647,7 +2728,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2669,6 +2750,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:17:42](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08): “You are an imposter, Ben. You're an imposter.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:53:08](/episodes/ep-6XfDqKTdFKg.md#t-00-52-51): “They just are so disrespectful to my pregnancy right now. The weatherman is just disrespecting my pregnancy. Janet (online commenter; surname unverified) writes: Ben Shapiro, I compel you to apologize to Candace Owens. That was so random. We weren't even talking about Ben (Ben Shapiro) today, but I agree. I compel you. I compel you to apologize just because you should.”
 
 </details>
 
@@ -2929,6 +3011,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Matt Serviuos](/entities/person-matt-serviuos.md)** manages clipping campaign for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:32:21](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10): “Serviuos (Matt Serviuos) also manages clipping campaigns for the conservative influencers Ben Shapiro and Steven Crowder. Both campaigns are listed on Monster Lab with $30,000 budgets for last month.”
+
+</details>
+
 - **[David Horowitz](/entities/person-david-horowitz.md)** mentored this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -3153,7 +3242,34 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (114)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (118)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
+
+- [00:22:32](/episodes/ep-yrg_-D6oNHE.md#t-00-22-21) (Claim) **Candace Owens** (via paraphrase): ["Owens sarcastically described elephant clipping as a go-to for Ben Sha..."](/statements/statement-7125fa2da22e.md)
+  - Also about: [Steven Crowder](/entities/person-steven-crowder.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:49:39](/episodes/ep-yrg_-D6oNHE.md#t-00-49-39) (Opinion) **Ali (Ep 399 commenter; identity unverified)** (via read message): ["A commenter identified only as Ali wrote that Erika Kirk put on a sad ..."](/statements/statement-2d7142eaaf1f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:32:21](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Matt Serviuos managed Ben Shapiro and Steven Cro..."](/statements/statement-56fc16baff5b.md)
+  - Also about: [Matt Serviuos](/entities/person-matt-serviuos.md), [Steven Crowder](/entities/person-steven-crowder.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:53:01](/episodes/ep-kn1E0scy9Wc.md#t-00-52-41) (Claim) **Candace Owens** (via paraphrase): ["Owens said she had been questioned in an office about tweeting 'genoci..."](/statements/statement-4200b2075dca.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1)</summary>

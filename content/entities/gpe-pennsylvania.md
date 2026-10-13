@@ -1,6 +1,6 @@
 ---
 title: "Pennsylvania"
-description: "Pennsylvania (Places) - 15 mentions"
+description: "Pennsylvania (Places) - 16 mentions"
 id: "gpe-pennsylvania"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-gpe-pennsylvania-t-00-30-43">2025-11-18 · 00:31:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-36-35">2026-09-01 · 00:36:48</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#t-00-36-17">2026-10-08 · 00:36:53</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +43,7 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-pennsylvania-t-00-10-16" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 5 mentions" title="2026-06-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#t-00-00-43" style="--pulse-height:20%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-35-56" style="--pulse-height:60%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#t-00-36-17" style="--pulse-height:20%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-pennsylvania-t-00-10-16) | 5 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#t-00-00-43) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-35-56) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:36:53](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17)**
+> "Dan (Dan Flood) later showed me a text confirming exactly that. Similar breaches of security that we saw in Butler, Pennsylvania tragically came to Utah that day."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>

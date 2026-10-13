@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 274 mentions"
+description: "The Daily Wire (Organizations) - 285 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-22-59">2026-09-08 · 00:22:59</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>274</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-the-daily-wire-t-00-36-17">2026-10-01 · 00:36:50</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>285</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>105</strong></div>
-<div><span>Relationships</span><strong>62</strong></div>
+<div><span>Statements about</span><strong>109</strong></div>
+<div><span>Relationships</span><strong>64</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -106,6 +106,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-20-10" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-the-daily-wire-t-00-06-03" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-the-daily-wire-t-01-02-18" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-the-daily-wire-t-00-29-21" style="--pulse-height:13%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 5 mentions" title="2026-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-the-daily-wire-t-00-39-15" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-the-daily-wire-t-00-36-17" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -179,6 +184,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-20-10) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-the-daily-wire-t-00-06-03) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-the-daily-wire-t-01-02-18) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-the-daily-wire-t-00-29-21) | 5 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-the-daily-wire-t-00-39-15) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-daily-wire-t-00-36-17) | 1 |
 
 </details>
 </section>
@@ -190,7 +200,65 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (274)</strong></summary>
+<summary><strong class="section-title">Raw mentions (285)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:36:50](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-daily-wire-t-00-36-17)**
+> "...nd asks to speak on behalf of the Daily Wire for the fall campus tour."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:39:30](/episodes/ep-5TTkMa49qj8.md#ent-org-the-daily-wire-t-00-39-15)**
+> "...o years. I mean, since I left Daily Wire, that I'm akin to Adolf Hitler."
+
+**[00:51:30](/episodes/ep-5TTkMa49qj8.md#ent-org-the-daily-wire-t-00-51-22)**
+> "Of course, Daily Wire, to be expected, they're never going to stop. But..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (5 mentions)</summary>
+
+**[00:29:21](/episodes/ep-6XfDqKTdFKg.md#ent-org-the-daily-wire-t-00-29-21)**
+> "...Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is..."
+
+**[00:30:50](/episodes/ep-6XfDqKTdFKg.md#ent-org-the-daily-wire-t-00-30-45)**
+> "...'s literally what happened to the Daily Wire."
+
+**[00:32:21](/episodes/ep-6XfDqKTdFKg.md#ent-org-the-daily-wire-t-00-32-00)**
+> "...ou have no idea the amount of daily wire employees that message me stuff and they're just ..."
+
+**[00:36:40](/episodes/ep-6XfDqKTdFKg.md#ent-org-the-daily-wire-t-00-36-40)**
+> "...ich has happened since I left Daily Wire. I am the employee that he fired, but he cannot l..."
+
+**[00:38:28](/episodes/ep-6XfDqKTdFKg.md#ent-org-the-daily-wire-t-00-38-00)**
+> "...re since he was forced out of the Daily Wire."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[01:02:52](/episodes/ep-aLJhpxrakCU.md#ent-org-the-daily-wire-t-01-02-18)**
+> "...d handed Turning Point USA to the Daily Wire."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:06:33](/episodes/ep-O4Zw3bCALjU.md#ent-org-the-daily-wire-t-00-06-03)**
+> "So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums..."
+
+**[00:07:13](/episodes/ep-O4Zw3bCALjU.md#ent-org-the-daily-wire-t-00-07-13)**
+> "...y attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Cand..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
@@ -1388,6 +1456,18 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22): “Go try to fact check this yourself. You will see the entire narrative is fake. It is being pushed by Bill Ackman, among other people. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (6)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
@@ -1398,10 +1478,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Cabot Phillips](/entities/person-cabot-phillips.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:51](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27): “And I know that he does the morning wire up a daily wire.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17): “On August 14th, just an interesting fact, could be nothing, Cabot Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour. ... He requests a date for late September specifically because he plans to be in the area. On that same day, Erika (Erika Kirk) has a photo shoot with the children and Charlie (Charlie Kirk) at the Biltmore Hotel.”
 
 </details>
 
@@ -1469,7 +1550,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Formerly Employed (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
@@ -1496,6 +1577,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-24): “following her 2024 departure from the Daily Wire.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:39:30](/episodes/ep-5TTkMa49qj8.md#t-00-39-15): “You've been bombarded with news over the last two years. I mean, since I left Daily Wire, that I'm akin to Adolf Hitler.”
 
 </details>
 
@@ -1623,13 +1706,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Has Former Ceo (1)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 
 </details>
 
@@ -1704,7 +1789,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (31)</summary>
+<summary>Referenced By (32)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1747,6 +1832,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22): “Go try to fact check this yourself. You will see the entire narrative is fake. It is being pushed by Bill Ackman, among other people. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
 <details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
@@ -1772,18 +1864,20 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** former CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-23): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -1816,6 +1910,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-24): “following her 2024 departure from the Daily Wire.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:39:30](/episodes/ep-5TTkMa49qj8.md#t-00-39-15): “You've been bombarded with news over the last two years. I mean, since I left Daily Wire, that I'm akin to Adolf Hitler.”
 
 </details>
 
@@ -1956,10 +2052,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Cabot Phillips](/entities/person-cabot-phillips.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:51](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27): “And I know that he does the morning wire up a daily wire.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17): “On August 14th, just an interesting fact, could be nothing, Cabot Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour. ... He requests a date for late September specifically because he plans to be in the area. On that same day, Erika (Erika Kirk) has a photo shoot with the children and Charlie (Charlie Kirk) at the Biltmore Hotel.”
 
 </details>
 
@@ -2018,7 +2115,39 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (105)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (109)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17) (Claim) **Candace Owens**: ["Owens said Cabot Phillips contacted TPUSA at UVU August 14 to request ..."](/statements/statement-f6be1f278d64.md)
+  - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22) (Accusation) **Candace Owens**: ["Owens alleged Bill Ackman and the Daily Wire are pushing a fake narrat..."](/statements/statement-ea1a3bb78b9d.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:38:10](/episodes/ep-6XfDqKTdFKg.md#t-00-38-00) (Accusation) **Candace Owens**: ["Owens says Boreing privately sued her for years and now brings guests ..."](/statements/statement-75166e0e1986.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [01:02:38](/episodes/ep-aLJhpxrakCU.md#t-01-02-18) (Accusation) **Ali (viewer commenter; identity unverified)** (via quoted post): ["Viewer handle Ali accused Erika Kirk of lying about Charlie’s Iran-war..."](/statements/statement-918391549de9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>

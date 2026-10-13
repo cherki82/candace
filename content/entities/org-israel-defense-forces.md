@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 68 mentions"
+description: "Israel Defense Forces (Organizations) - 70 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48">2025-09-15 · 01:03:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-israel-defense-forces-t-01-01-38">2026-07-23 · 01:01:45</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>68</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-israel-defense-forces-t-01-05-01">2026-09-25 · 01:05:01</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -67,6 +67,8 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07" style="--pulse-height:17%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-israel-defense-forces-t-00-48-58" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-israel-defense-forces-t-00-17-31" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-israel-defense-forces-t-00-47-02" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-israel-defense-forces-t-01-05-01" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +102,8 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07) | 2 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-israel-defense-forces-t-00-48-58) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-israel-defense-forces-t-00-17-31) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-israel-defense-forces-t-00-47-02) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-israel-defense-forces-t-01-05-01) | 1 |
 
 </details>
 </section>
@@ -111,7 +115,23 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:05:01](/episodes/ep-bIuvTKlFeGo.md#ent-org-israel-defense-forces-t-01-05-01)**
+> "The IDF has killed a ton of kids, but this, he wouldn't d..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:47:02](/episodes/ep-kn1E0scy9Wc.md#ent-org-israel-defense-forces-t-00-47-02)**
+> "...'re starving them and we have IDF soldiers that are just plucking them off and shoo..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -629,7 +649,14 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (26)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (27)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:47:02](/episodes/ep-kn1E0scy9Wc.md#t-00-47-02) (Accusation) **Candace Owens**: ["Owens accused IDF soldiers of shooting children as they ran for food a..."](/statements/statement-9a2d4ca5c71a.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Pete Hegseth"
-description: "Pete Hegseth (People) - 40 mentions"
+description: "Pete Hegseth (People) - 42 mentions"
 id: "person-pete-hegseth"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17">2026-03-10 · 00:02:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-pete-hegseth-t-00-52-57">2026-09-01 · 00:52:57</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07">2026-10-06 · 00:04:41</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -49,6 +49,8 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-36-17" style="--pulse-height:30%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-pete-hegseth-t-00-51-03" style="--pulse-height:10%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-pete-hegseth-t-00-52-57" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-pete-hegseth-t-00-29-09" style="--pulse-height:10%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07" style="--pulse-height:10%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +70,8 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-36-17) | 3 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-pete-hegseth-t-00-51-03) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-pete-hegseth-t-00-52-57) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-pete-hegseth-t-00-29-09) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07) | 1 |
 
 </details>
 </section>
@@ -79,7 +83,23 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:04:41](/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07)**
+> "...litary and Secretary Hegseth (Pete Hegseth)'s leadership."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:29:42](/episodes/ep-NNiCZk1cuzs.md#ent-person-pete-hegseth-t-00-29-09)**
+> ".... We know Kash Patel. We know Pete Hegseth."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -322,6 +342,18 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details>
+<summary>Supported By (1)</summary>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
@@ -336,7 +368,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -374,6 +406,13 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:07:26](/episodes/ep-BxN2-aeMYIs.md#t-00-07-10): “Pete Hegseth has certainly been one of the more deranged pro-Israel voices of this administration. Bomb Iran, go to war, war, war, war. A very far departure from the Fox News personality that viewers had grown accustomed to.”
+
+</details>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07): “Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War. It has been an honor to serve the mission of the department. I remain a strong supporter of our nation's military and Secretary Hegseth (Pete Hegseth)'s leadership.”
 
 </details>
 
@@ -415,7 +454,15 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pete Hegseth (13)</strong></summary>
+<summary><strong class="section-title">Statements about Pete Hegseth (14)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07) (Claim) **Jennica Pounds** (via quoted tweet): ["Jennica Pounds announced that she had submitted her resignation from t..."](/statements/statement-c83635b9da24.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

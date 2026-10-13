@@ -24,13 +24,23 @@ veracity: "true"
 - [David Frodsham](/entities/person-david-frodsham.md) (person)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:15:20](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) 
 <a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=920s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > stationed at Fort Huachuca, a civilian commander that was stationed at Fort Huachuca, David Frodsham, was charged with running a child sex abuse ring.
+
+### 2. A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemor...
+
+**Episode:** [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md)
+**Timestamp:** [00:04:44](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34) 
+<a href="https://www.youtube.com/watch?v=kn1E0scy9Wc&t=284s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He worked with Erika (Erika Kirk)'s Romanian Angels during this time. David Frodsham, he was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1938 mentions"
+description: "United States (Places) - 2001 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,11 +28,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-united-states-t-00-09-34">2026-09-10 · 00:09:34</a></strong></div>
-<div><span>Episodes</span><strong>162</strong></div>
-<div><span>Mentions</span><strong>1,938</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-42-32">2026-10-08 · 00:42:46</a></strong></div>
+<div><span>Episodes</span><strong>176</strong></div>
+<div><span>Mentions</span><strong>2,001</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>170</strong></div>
+<div><span>Statements about</span><strong>179</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -203,6 +203,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-united-states-t-00-09-20" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-united-states-t-00-08-10" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-united-states-t-00-05-59" style="--pulse-height:9%" aria-label="One Year On… To My Friend Charlie Kirk.: 4 mentions" title="2026-09-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-05-43" style="--pulse-height:15%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 7 mentions" title="2026-09-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-united-states-t-00-39-17" style="--pulse-height:9%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 4 mentions" title="2026-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-united-states-t-00-00-01" style="--pulse-height:9%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 4 mentions" title="2026-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-united-states-t-00-41-08" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 3 mentions" title="2026-09-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-united-states-t-00-00-01" style="--pulse-height:9%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 4 mentions" title="2026-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-united-states-t-00-35-34" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 2 mentions" title="2026-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-united-states-t-00-04-57" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-united-states-t-00-56-43" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-11-19" style="--pulse-height:13%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 6 mentions" title="2026-09-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-26-33" style="--pulse-height:13%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-united-states-t-00-10-23" style="--pulse-height:9%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 4 mentions" title="2026-10-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-15-32" style="--pulse-height:13%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 6 mentions" title="2026-10-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51" style="--pulse-height:24%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 11 mentions" title="2026-10-07 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-37-41" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -370,6 +384,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-united-states-t-00-09-20) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-united-states-t-00-08-10) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-united-states-t-00-05-59) | 4 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-05-43) | 7 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-united-states-t-00-39-17) | 4 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-united-states-t-00-00-01) | 4 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-gpe-united-states-t-00-41-08) | 3 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-united-states-t-00-00-01) | 4 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-united-states-t-00-35-34) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-united-states-t-00-04-57) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-united-states-t-00-56-43) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-11-19) | 6 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-26-33) | 6 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-united-states-t-00-10-23) | 4 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-15-32) | 6 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51) | 11 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-37-41) | 2 |
 
 </details>
 </section>
@@ -381,7 +409,266 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1938)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2001)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:38:00](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-37-41)**
+> "... and is on the phone with the United States Vice President J.D. Vance."
+
+**[00:42:46](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-42-32)**
+> "...d it's made right here in the USA."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (11 mentions)</summary>
+
+**[00:12:51](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51)**
+> "...rm you that if you are in the United States, that website is now blocked. You can't see it wi..."
+
+**[00:13:26](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51)**
+> "...articularly taken down in the United States. Why? After our episode yesterday, would they do ..."
+
+**[00:13:35](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-13-35)**
+> "... website is geared toward the United States, you could argue. You're asking us to clip videos..."
+
+**[00:19:27](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-19-14)**
+> "...The gatekeepers who help open America to oligarchs and scammers."
+
+**[00:19:48](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-19-48)**
+> "...companies that operate in the United States and around the world."
+
+**[00:20:01](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-19-48)**
+> "...Few other facilitators in the U.S. financial system operate with as little oversight..."
+
+**[00:20:53](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-20-23)**
+> "...is under investigation in the United States and Ukraine for allegedly laundering bank proceed..."
+
+**[00:22:09](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-21-43)**
+> "... going to be a dear friend of America's favorite widow."
+
+**[00:26:19](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-26-02)**
+> "... and filled right here in the USA."
+
+**[00:44:39](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-44-13)**
+> "...ken down or rather blocked in America, even though they are America focused, we are on ..."
+
+**[00:51:16](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-51-06)**
+> "... people go there. That is why America built a base there, actually."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (6 mentions)</summary>
+
+**[00:15:32](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-15-32)**
+> "Unfamiliar with U.S. politics? No problem. If you're not from the USA,..."
+
+**[00:17:06](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-16-49)**
+> "...forum that I was based in the U.S., and answering some questions about my availabili..."
+
+**[00:17:23](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-16-49)**
+> "...appeared to be outside of the U.S."
+
+**[00:19:26](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-19-26)**
+> "...lved making clips of a famous U.S. political commentator, also each listed $900,000 ..."
+
+**[00:19:45](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-19-26)**
+> "...featured the president of the United States calling me the most vile person of the year."
+
+**[01:03:02](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-01-02-46)**
+> "...to the commies that came into America after trying to overthrow."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4 mentions)</summary>
+
+**[00:10:23](/episodes/ep-ms5ChhZegRg.md#ent-gpe-united-states-t-00-10-23)**
+> "...e depiction of all mothers in America right now."
+
+**[00:16:30](/episodes/ep-ms5ChhZegRg.md#ent-gpe-united-states-t-00-16-22)**
+> "How rare? Okay, in the United States, which is a nation of 350 million people, there a..."
+
+**[00:40:56](/episodes/ep-ms5ChhZegRg.md#ent-gpe-united-states-t-00-40-31)**
+> "...ward Lutnick), who is now the U.S. Commerce Secretary, was the CEO."
+
+**[00:49:29](/episodes/ep-ms5ChhZegRg.md#ent-gpe-united-states-t-00-49-29)**
+> "... and filled right here in the USA."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (6 mentions)</summary>
+
+**[00:26:41](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-26-33)**
+> "America bombs Iran, the nuclear sites. On June 22nd, Brad..."
+
+**[00:32:04](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-31-51)**
+> "...t Maxwell got into schools in America printing textbooks, their obsession with printing..."
+
+**[00:35:14](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-35-03)**
+> "...ut a group of billionaires in America who were effectively controlling everything for I..."
+
+**[00:40:20](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-40-06)**
+> "...verified) disappearing in the United States, never to be seen again."
+
+**[00:42:39](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-42-02)**
+> "... are you the president of the United States?"
+
+**[00:44:03](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-united-states-t-00-43-32)**
+> "... and filled right here in the USA."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (6 mentions)</summary>
+
+**[00:11:37](/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-11-19)**
+> "...e and foreign policies of the United States, you're just not qualified to be running the poli..."
+
+**[00:29:44](/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-29-14)**
+> "...e interventionist approach to U.S. foreign policy in general, more than her husband ..."
+
+**[00:36:17](/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-35-56)**
+> "...s, and made right here in the USA."
+
+**[00:41:56](/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-41-39)**
+> "...ng until I'm president of the United States to tell you guys."
+
+**[00:52:59](/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-52-38)**
+> "...d and it's happening all over America. That's why I'm so grateful for Home Title Lock a..."
+
+**[01:03:12](/episodes/ep-5TTkMa49qj8.md#ent-gpe-united-states-t-00-52-38)**
+> "...servative organization in the US, but she has no interest in politics."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:05:29](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-united-states-t-00-04-57)**
+> "...ple that stood up and chanted USA, USA."
+
+**[00:50:40](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-united-states-t-00-50-21)**
+> "...sus the dishonest detractors, America's fault line in the new millennium. We ponder an ex..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[00:57:10](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-united-states-t-00-56-43)**
+> "...u (Benjamin Netanyahu) visits America, records podcasts with the Nelk Boys while he's i..."
+
+**[01:02:01](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-united-states-t-01-01-35)**
+> "...ing him. The president of the United States has called him and he's going max against the Eps..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2 mentions)</summary>
+
+**[00:35:55](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-united-states-t-00-35-34)**
+> "...uld have the president of the United States who's your friend."
+
+**[00:41:54](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-united-states-t-00-41-38)**
+> "... and filled right here in the USA."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4 mentions)</summary>
+
+**[00:00:15](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-united-states-t-00-00-01)**
+> "...rry, guys. Welcome to Trump's America. Unfortunately, it'd just be like that, yo."
+
+**[00:39:07](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-united-states-t-00-39-07)**
+> "...or defamation is very high in America, especially with public figures, freedom of speec..."
+
+**[00:42:32](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-united-states-t-00-42-32)**
+> "...ildren and completely replace America's demographics,"
+
+**[00:48:37](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-united-states-t-00-48-05)**
+> "... and filled right here in the USA."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (3 mentions)</summary>
+
+**[00:41:32](/episodes/ep-BvthGQw3_s0.md#ent-gpe-united-states-t-00-41-08)**
+> "...ust you guys who are not from America understand that because there's like different, y..."
+
+**[00:41:46](/episodes/ep-BvthGQw3_s0.md#ent-gpe-united-states-t-00-41-46)**
+> "...dle school in America, in the United States, we're talking about the ages of 11 to 13. Okay. ..."
+
+**[00:49:51](/episodes/ep-BvthGQw3_s0.md#ent-gpe-united-states-t-00-49-51)**
+> "...pitiful. Certainly not making America great again. And thank you, Ben Shapiro. I did no..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (4 mentions)</summary>
+
+**[00:00:26](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-united-states-t-00-00-01)**
+> "...events across high schools in America and why I believe it is clearly not what Charlie ..."
+
+**[00:21:42](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-united-states-t-00-21-21)**
+> "... message to the generation of America. America first leaders, the future is bright."
+
+**[00:39:59](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-united-states-t-00-39-36)**
+> "...rsial, controversial death in America."
+
+**[00:41:39](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-united-states-t-00-41-00)**
+> "... is not familiar to people in America, very much is familiar to people in the UK."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (4 mentions)</summary>
+
+**[00:34:19](/episodes/ep-aLJhpxrakCU.md#ent-gpe-united-states-t-00-39-17)**
+> "Under the United States Constitution's due process clause and a tradition..."
+
+**[00:39:17](/episodes/ep-aLJhpxrakCU.md#ent-gpe-united-states-t-00-39-17)**
+> "...Rx parasite cleanse, which is USA compounded ivermectin and mebendazole. Each capsu..."
+
+**[00:39:50](/episodes/ep-aLJhpxrakCU.md#ent-gpe-united-states-t-00-39-50)**
+> "...CE. Cleanses are available to USA residents only. And I have to tell you guys about..."
+
+**[00:53:08](/episodes/ep-aLJhpxrakCU.md#ent-gpe-united-states-t-00-52-50)**
+> "...cause simple, cheap things in America like fast food stops with the family have become ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (7 mentions)</summary>
+
+**[00:05:43](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-05-43)**
+> "...nian sex trafficking into the United States."
+
+**[00:31:57](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-31-50)**
+> "... and filled right here in the USA."
+
+**[00:43:40](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-43-31)**
+> "On stages and stadiums across America and say two words that are very near and dear to ..."
+
+**[00:45:12](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-45-12)**
+> "...ree Sudan, free all people in America living in fear over this terrorist organization I..."
+
+**[00:45:39](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-45-39)**
+> "...u are the pro-Israel lobby in America and around the world."
+
+**[00:46:02](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-45-39)**
+> "...aken place throughout time in America, they these really mongrels created Hollywood."
+
+**[00:54:58](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-united-states-t-00-54-49)**
+> "...cause simple, cheap things in America like fast food stops with the family have become ..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (4 mentions)</summary>
@@ -7066,7 +7353,52 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (170)</strong></summary>
+<summary><strong class="section-title">Statements about United States (179)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>
+
+- [00:16:30](/episodes/ep-ms5ChhZegRg.md#t-00-16-22) (Claim) **Candace Owens**: ["Owens said the United States has approximately 500 filicide cases per ..."](/statements/statement-fb0671dd446d.md)
+  - Also about: [Filicide](/entities/concept-filicide.md)
+
+- [00:16:44](/episodes/ep-ms5ChhZegRg.md#t-00-16-22) (Claim) **Candace Owens**: ["Owens said excluding non-biological parents leaves about 450 filicide ..."](/statements/statement-39d7fa2ab34d.md)
+  - Also about: [Filicide](/entities/concept-filicide.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (4)</summary>
+
+- [00:32:19](/episodes/ep-_Sq5RqP27NY.md#t-00-32-14) (Accusation) **Candace Owens**: ["Owens alleged that the US government was enslaved by a foreign nation ..."](/statements/statement-be584e328f0a.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:35:38](/episodes/ep-_Sq5RqP27NY.md#t-00-35-38) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said the attack on a country of 1..."](/statements/statement-de9c61735023.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+
+- [00:37:29](/episodes/ep-_Sq5RqP27NY.md#t-00-37-23) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel and its American frie..."](/statements/statement-98126b2c8862.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
+
+- [00:38:10](/episodes/ep-_Sq5RqP27NY.md#t-00-38-10) (Accusation) **Candace Owens**: ["Owens said Donald Trump had given the United States to Benjamin Netany..."](/statements/statement-94473fab0550.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2)</summary>
+
+- [00:20:56](/episodes/ep-_2DiIbfy4mU.md#t-00-20-47) (Claim) **Candace Owens**: ["Owens claims in a sponsorship segment that the dollar has lost about o..."](/statements/statement-e21c92f569e7.md)
+
+- [00:41:38](/episodes/ep-_2DiIbfy4mU.md#t-00-41-38) (Claim) **Candace Owens**: ["Owens says Nimi recently launched a tallow body line, sources grass-fe..."](/statements/statement-cc28779c0b84.md)
+  - Also about: [Nimi Skincare](/entities/org-nimi-skincare.md), [Montana](/entities/gpe-montana.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:46:17](/episodes/ep-6XfDqKTdFKg.md#t-00-46-02) (Claim) **JD Vance** (via quoted speech): ["In a clip, JD Vance says the administration has had amazing success on..."](/statements/statement-344d80864144.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

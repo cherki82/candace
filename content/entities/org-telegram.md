@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-description: "Telegram (Organizations) - 23 mentions"
+description: "Telegram (Organizations) - 30 mentions"
 id: "org-telegram"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35">2025-10-07 · 00:07:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-41-15">2026-09-03 · 00:41:45</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-01-04-45">2026-10-01 · 01:04:45</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,8 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36" style="--pulse-height:20%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23" style="--pulse-height:10%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 10 mentions" title="2026-09-03 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-telegram-t-00-12-19" style="--pulse-height:20%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-00-04-48" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +55,8 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37) | 10 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-telegram-t-00-12-19) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-00-04-48) | 5 |
 
 </details>
 </section>
@@ -64,7 +68,38 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5 mentions)</summary>
+
+**[00:04:48](/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-00-04-48)**
+> "... communicating with teams via Telegram. And what she was interested in was knowing the n..."
+
+**[00:06:05](/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-00-06-05)**
+> "...? And then Taylor Scornibaco (Telegram respondent; surname spelling unverified) responds..."
+
+**[00:06:11](/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-00-06-05)**
+> "... back up and actually Taylor (Telegram respondent; surname spelling unverified) is not c..."
+
+**[01:04:30](/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-01-04-08)**
+> "...me Erika (Erika Kirk) used on Telegram, just the American flag, is the same as the conta..."
+
+**[01:04:45](/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-01-04-45)**
+> "...harlie (Charlie Kirk) had two Telegram accounts, one which was accessible by people arou..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[00:12:29](/episodes/ep-NNiCZk1cuzs.md#ent-org-telegram-t-00-12-19)**
+> "... this means he copied it from Telegram."
+
+**[00:12:45](/episodes/ep-NNiCZk1cuzs.md#ent-org-telegram-t-00-12-45)**
+> "... because I didn't have her on Telegram, and I didn't know who E (Erika Kirk) was, and he..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (10 mentions)</summary>

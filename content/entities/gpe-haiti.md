@@ -1,6 +1,6 @@
 ---
 title: "Haiti"
-description: "Haiti (Places) - 41 mentions"
+description: "Haiti (Places) - 42 mentions"
 id: "gpe-haiti"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-haiti-t-00-17-23">2025-11-10 · 00:17:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-haiti-t-00-19-10">2026-06-18 · 00:19:37</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-haiti-t-00-06-21">2026-09-15 · 00:06:21</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-haiti-t-01-01-10" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-haiti-t-00-51-25" style="--pulse-height:14%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-haiti-t-00-19-10" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-haiti-t-00-06-21" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-haiti-t-01-01-10) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-haiti-t-00-51-25) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-haiti-t-00-19-10) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-haiti-t-00-06-21) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:06:21](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-haiti-t-00-06-21)**
+> "... believe their story began in Haiti."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Chicago Bears"
-description: "Chicago Bears (Organizations) - 7 mentions"
+description: "Chicago Bears (Organizations) - 11 mentions"
 id: "org-chicago-bears"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Team Roster | Chicago Bears Official Website](https://www.chicagobears.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-chicago-bears-t-00-36-30">2026-03-10 · 00:36:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-chicago-bears-t-00-37-15">2026-03-10 · 00:37:32</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-chicago-bears-t-00-34-22">2026-09-23 · 00:34:22</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -36,12 +36,14 @@ Source: [Team Roster | Chicago Bears Official Website](https://www.chicagobears.
 <p>Highest activity: <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-chicago-bears-t-00-36-30">Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-chicago-bears-t-00-36-30" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 7 mentions" title="2026-03-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-chicago-bears-t-00-32-15" style="--pulse-height:57%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 4 mentions" title="2026-09-23 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-chicago-bears-t-00-36-30) | 7 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-chicago-bears-t-00-32-15) | 4 |
 
 </details>
 </section>
@@ -53,7 +55,24 @@ Source: [Team Roster | Chicago Bears Official Website](https://www.chicagobears.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (4 mentions)</summary>
+
+**[00:32:15](/episodes/ep-_2DiIbfy4mU.md#ent-org-chicago-bears-t-00-32-15)**
+> "...said cubs, I should have said bears. And to be clear, this is nothing shocking about ..."
+
+**[00:32:26](/episodes/ep-_2DiIbfy4mU.md#ent-org-chicago-bears-t-00-32-15)**
+> "... home on the 8th watching the bears game."
+
+**[00:32:30](/episodes/ep-_2DiIbfy4mU.md#ent-org-chicago-bears-t-00-32-15)**
+> "...recounted every minute of the bears game. So if this is footage from that particular ..."
+
+**[00:34:22](/episodes/ep-_2DiIbfy4mU.md#ent-org-chicago-bears-t-00-34-22)**
+> "...I was—she never mentioned the Bears game. She never said that she recorded Charlie (C..."
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (7 mentions)</summary>
@@ -91,7 +110,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chicago Bears (2)</strong></summary>
+<summary><strong class="section-title">Statements about Chicago Bears (4)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2)</summary>
+
+- [00:30:15](/episodes/ep-_2DiIbfy4mU.md#t-00-30-04) (Claim) **Candace Owens** (via paraphrase): ["Owens says Andrew Wilson claimed a private video of Charlie Kirk with ..."](/statements/statement-754d8b1883ce.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:32:26](/episodes/ep-_2DiIbfy4mU.md#t-00-32-15) (Claim) **Candace Owens** (via paraphrase): ["Owens says Frank Turek first told the public Charlie Kirk was home wat..."](/statements/statement-645772ef4b10.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2)</summary>

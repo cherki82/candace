@@ -1,6 +1,6 @@
 ---
 title: "Crony capitalism"
-description: "Crony capitalism (Concepts) - 7 mentions"
+description: "Crony capitalism (Concepts) - 8 mentions"
 id: "concept-crony-capitalism"
 type: "CONCEPT"
 categories:
@@ -18,11 +18,11 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-concept-crony-capitalism-t-00-17-21">2026-02-09 · 00:17:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-crony-capitalism-t-01-00-42">2026-03-06 · 01:01:08</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-crony-capitalism-t-01-09-46">2026-10-06 · 01:10:10</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,6 +34,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <a href="/episodes/ep-4YgrOhhy708.md#ent-concept-crony-capitalism-t-00-17-21" style="--pulse-height:25%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-crony-capitalism-t-00-05-38" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-crony-capitalism-t-00-59-01" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-crony-capitalism-t-01-09-46" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-crony-capitalism-t-00-17-21) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-crony-capitalism-t-00-05-38) | 4 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-crony-capitalism-t-00-59-01) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-crony-capitalism-t-01-09-46) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:10:10](/episodes/ep-0pSAhaAZz1w.md#ent-concept-crony-capitalism-t-01-09-46)**
+> "...arkets. This is an example of crony capitalism plus an emotional asset that we are supposed to f..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
@@ -97,7 +107,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Crony capitalism (1)</strong></summary>
+<summary><strong class="section-title">Statements about Crony capitalism (2)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [01:09:56](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46) (Opinion) **Candace Owens**: ["Owens characterized the paid clipping operation as crony capitalism an..."](/statements/statement-f0e5ea79ea49.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

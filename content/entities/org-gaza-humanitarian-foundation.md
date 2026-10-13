@@ -1,6 +1,6 @@
 ---
 title: "Gaza Humanitarian Foundation"
-description: "Gaza Humanitarian Foundation (Organizations) - 7 mentions"
+description: "Gaza Humanitarian Foundation (Organizations) - 9 mentions"
 id: "org-gaza-humanitarian-foundation"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-gaza-humanitarian-foundation-t-00-16-00">2026-05-27 · 00:16:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#t-00-18-23">2026-08-06 · 00:18:30</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-gaza-humanitarian-foundation-t-00-24-34">2026-10-01 · 00:25:20</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-gaza-humanitarian-foundation-t-00-16-00" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#t-00-18-23" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-gaza-humanitarian-foundation-t-00-24-34" style="--pulse-height:33%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 |---|---|---:|
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-gaza-humanitarian-foundation-t-00-16-00) | 6 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-18-23) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-gaza-humanitarian-foundation-t-00-24-34) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:24:47](/episodes/ep-q4m-kGzvwjw.md#ent-org-gaza-humanitarian-foundation-t-00-24-34)**
+> "...nd they decide to abandon the Gaza Humanitarian Foundation, which ends up being remarkably corrupt and turns..."
+
+**[00:25:20](/episodes/ep-q4m-kGzvwjw.md#ent-org-gaza-humanitarian-foundation-t-00-24-34)**
+> "On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working"
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -133,9 +146,10 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 <summary>Has Chairman (1)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working”
 
 </details>
 
@@ -157,9 +171,10 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 <summary>Referenced By (6)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** chairman of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working”
 
 </details>
 
@@ -203,7 +218,18 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gaza Humanitarian Foundation (6)</strong></summary>
+<summary><strong class="section-title">Statements about Gaza Humanitarian Foundation (8)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:24:47](/episodes/ep-q4m-kGzvwjw.md#t-00-24-34) (Accusation) **Candace Owens**: ["Owens alleged that Boston Consulting Group abandoned the Gaza Humanita..."](/statements/statement-0e8e00560c7c.md)
+  - Also about: [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+- [00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09) (Claim) **Candace Owens**: ["Owens said Johnnie Moore became Gaza aid-project chairman June 3 and w..."](/statements/statement-b64c8946157a.md)
+  - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [KAIROS Company](/entities/org-kairos-company.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

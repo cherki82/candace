@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 89 mentions"
+description: "Make Him a Sandwich (Works & Media) - 91 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -25,9 +25,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-work-make-him-a-sandwich-t-00-57-00">2026-09-03 · 00:57:26</a></strong></div>
-<div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>89</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-work-make-him-a-sandwich-t-00-49-16">2026-09-15 · 00:49:39</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>91</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -96,6 +96,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02" style="--pulse-height:67%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-work-make-him-a-sandwich-t-00-57-00" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-work-make-him-a-sandwich-t-00-57-44" style="--pulse-height:33%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-work-make-him-a-sandwich-t-00-49-16" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -159,6 +161,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-work-make-him-a-sandwich-t-00-57-00) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-work-make-him-a-sandwich-t-00-57-44) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-work-make-him-a-sandwich-t-00-49-16) | 1 |
 
 </details>
 </section>
@@ -166,7 +170,23 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+<summary><strong class="section-title">Raw mentions (91)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:49:39](/episodes/ep-kn1E0scy9Wc.md#ent-work-make-him-a-sandwich-t-00-49-16)**
+> "I was going to do a tour. I'm going to make him a sandwich book and talk about motherhood. But I said genocide is always wrong."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:58:00](/episodes/ep-O4Zw3bCALjU.md#ent-work-make-him-a-sandwich-t-00-57-44)**
+> "...p cup. You can buy a book and make him a sandwich, which we just finished. You can join the book cl..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

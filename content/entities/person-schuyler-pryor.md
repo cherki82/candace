@@ -1,6 +1,6 @@
 ---
 title: "Schuyler Pryor"
-description: "Schuyler Pryor (People) - 87 mentions"
+description: "Schuyler Pryor (People) - 91 mentions"
 id: "person-schuyler-pryor"
 type: "PERSON"
 aliases:
@@ -30,9 +30,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-schuyler-pryor-t-00-11-08">2025-09-15 · 00:11:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-schuyler-pryor-t-00-57-31">2026-09-03 · 00:57:59</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-schuyler-pryor-t-00-11-41">2026-10-08 · 00:11:47</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>91</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -90,6 +90,10 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-schuyler-pryor-t-00-00-25" style="--pulse-height:40%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-schuyler-pryor-t-00-57-31" style="--pulse-height:20%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-schuyler-pryor-t-00-59-23" style="--pulse-height:20%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-schuyler-pryor-t-01-03-25" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-schuyler-pryor-t-00-54-00" style="--pulse-height:20%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-schuyler-pryor-t-00-11-41" style="--pulse-height:20%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,6 +146,10 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-schuyler-pryor-t-00-00-25) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-schuyler-pryor-t-00-57-31) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-schuyler-pryor-t-00-59-23) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-schuyler-pryor-t-01-03-25) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-schuyler-pryor-t-00-54-00) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-schuyler-pryor-t-00-11-41) | 1 |
 
 </details>
 </section>
@@ -149,7 +157,39 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (91)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:11:47](/episodes/ep-UAdBEXs7nNc.md#ent-person-schuyler-pryor-t-00-11-41)**
+> "...icles. You know what, Skylar (Schuyler Pryor), let's actually first take them through the map ..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:54:09](/episodes/ep-ms5ChhZegRg.md#ent-person-schuyler-pryor-t-00-54-00)**
+> "...ot to remind me also, Skylar (Schuyler Pryor), we got to talk about the resignation of Data Re..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[01:03:52](/episodes/ep-q4m-kGzvwjw.md#ent-person-schuyler-pryor-t-01-03-25)**
+> "... actually, remind me, Skylar (Schuyler Pryor), that I want to look up an experiment about that..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:59:44](/episodes/ep-bIuvTKlFeGo.md#ent-person-schuyler-pryor-t-00-59-23)**
+> "...n. Do we have that clip, Sky (Schuyler Pryor)?"
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

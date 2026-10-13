@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 117 mentions"
+description: "Hollywood (Places) - 128 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-hollywood-t-00-19-11">2026-09-08 · 00:19:11</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>117</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-hollywood-t-00-07-17">2026-10-05 · 00:07:40</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>128</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -78,6 +78,10 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 15 mentions" title="2026-08-06 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-hollywood-t-00-19-11" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-41-55" style="--pulse-height:40%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 6 mentions" title="2026-09-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-hollywood-t-00-40-17" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-hollywood-t-00-32-00" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-hollywood-t-00-06-39" style="--pulse-height:20%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -125,6 +129,10 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41) | 15 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-hollywood-t-00-19-11) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-41-55) | 6 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-hollywood-t-00-40-17) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-hollywood-t-00-32-00) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-hollywood-t-00-06-39) | 3 |
 
 </details>
 </section>
@@ -136,7 +144,60 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+<summary><strong class="section-title">Raw mentions (128)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:07:09](/episodes/ep-ms5ChhZegRg.md#ent-gpe-hollywood-t-00-06-39)**
+> ".... They took him out. It was a Hollywood story for the ages."
+
+**[00:07:17](/episodes/ep-ms5ChhZegRg.md#ent-gpe-hollywood-t-00-07-17)**
+> "...e everywhere. Every day a new Hollywood name got dropped. Names got bigger and bigger."
+
+**[00:07:40](/episodes/ep-ms5ChhZegRg.md#ent-gpe-hollywood-t-00-07-17)**
+> "... was literally all it took, a Hollywood production."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:32:00](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-hollywood-t-00-32-00)**
+> "...ever heard of people going to Hollywood and going, hey, how are you going to make it? Wel..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:40:17](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-hollywood-t-00-40-17)**
+> "...the Kennedy brothers. This is Hollywood."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (6 mentions)</summary>
+
+**[00:41:55](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-41-55)**
+> "...rms of the power that sits in Hollywood, which begins to act like a mafia if you have wro..."
+
+**[00:43:14](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-43-14)**
+> "But of course, he's in Hollywood. So him making that statement caused a huge probl..."
+
+**[00:46:02](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-45-39)**
+> "...these really mongrels created Hollywood."
+
+**[00:47:19](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-47-02)**
+> "...aling. But they have power in Hollywood, so this is what he does: he pretends that there'..."
+
+**[00:48:37](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-48-37)**
+> "...ing about them we established hollywood we've got all the money we got all the stadiums t..."
+
+**[00:52:27](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-hollywood-t-00-52-00)**
+> "...n the stage right now. And in Hollywood, there's been way too much silence on this issue."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

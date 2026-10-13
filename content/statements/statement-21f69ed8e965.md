@@ -28,7 +28,7 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md) (concept)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witne...
 
@@ -45,6 +45,14 @@ veracity: "true"
 <a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=701s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian (Brian Harpole) is correct that most of the ride we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding. ... So no CPR was done. It wasn't until the last, say, 30 seconds of the ride that I thought to myself. ... We got to be near in like eight or nine minutes and he's not breathing and there's no heartbeat. ... I've got to at least try. It's probably going to be futile, but I got to at least try to start his heart and get some air in him. ... So I tried that for like 20 or 30 seconds at the very end of the ride when we're pulling into the hospital parking lot and we're yanking and banking our way there.
+
+### 3. More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 3...
+
+**Episode:** [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md)
+**Timestamp:** [00:11:10](/episodes/ep-O4Zw3bCALjU.md#t-00-11-10) 
+<a href="https://www.youtube.com/watch?v=O4Zw3bCALjU&t=670s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> No, the truth of the matter is that going from that site to the hospital, we weren't doing CPR. ... We were trying to stop the bleeding. It was only in the last 20 or 30 seconds of the ride. ... So for the last 20 or 30 seconds, I tried to give him CPR. ... Is, I mean, Brian (Brian Harpole)'s generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds.
 
 ## Verification
 

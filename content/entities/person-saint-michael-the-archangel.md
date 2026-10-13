@@ -1,6 +1,6 @@
 ---
 title: "Saint Michael the Archangel"
-description: "Saint Michael the Archangel (People) - 23 mentions"
+description: "Saint Michael the Archangel (People) - 25 mentions"
 id: "person-saint-michael-the-archangel"
 type: "PERSON"
 aliases:
@@ -28,9 +28,9 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-saint-michael-the-archangel-t-00-08-17">2025-10-06 · 00:08:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-saint-michael-the-archangel-t-00-52-09">2026-07-14 · 00:52:09</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-saint-michael-the-archangel-t-01-04-03">2026-09-30 · 01:04:03</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -53,6 +53,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-saint-michael-the-archangel-t-01-30-18" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-saint-michael-the-archangel-t-00-56-08" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-saint-michael-the-archangel-t-00-52-09" style="--pulse-height:25%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-saint-michael-the-archangel-t-01-03-19" style="--pulse-height:50%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-saint-michael-the-archangel-t-01-30-18) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-saint-michael-the-archangel-t-00-56-08) | 4 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-saint-michael-the-archangel-t-00-52-09) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-saint-michael-the-archangel-t-01-03-19) | 2 |
 
 </details>
 </section>
@@ -77,7 +79,18 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[01:03:56](/episodes/ep-5TTkMa49qj8.md#ent-person-saint-michael-the-archangel-t-01-03-19)**
+> "...a of this fake and gay world. St. Michael defend us in battle."
+
+**[01:04:03](/episodes/ep-5TTkMa49qj8.md#ent-person-saint-michael-the-archangel-t-01-04-03)**
+> "Truly, St. Michael defend us in battle. I absolutely love that praye..."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>

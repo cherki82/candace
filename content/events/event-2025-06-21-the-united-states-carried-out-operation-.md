@@ -20,7 +20,7 @@ date: "2025-06-21"
 
 > The United States carried out Operation Midnight Hammer strikes on Iranian nuclear facilities.
 
-## Mentioned In (2 times)
+## Mentioned In (4 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -37,3 +37,22 @@ date: "2025-06-21"
 <a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=726s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Operation Midnight Hammer, which is when we send out the planes to bomb Fordow.
+
+### 3. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [01:27:56](/episodes/ep-bIuvTKlFeGo.md#t-01-27-56) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=5276s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And then we had Operation Midnight Hammer, which was Trump agreed to do to bomb
+
+### 4. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:26:33](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-06-21-the-united-states-carried-out-operation--t-00-26-33) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1593s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On June 22nd, we have Operation Midnight Hammer. America bombs Iran, the nuclear sites. On June
+
+> **Date stated in this source:** “June 22nd (2025)”
+> **Date review note:** Same Operation Midnight Hammer, not a second strike. Defense Department reporting specifies June 21 at 6:45 p.m. U.S. Eastern, June 22 at 2:15 a.m. in Iran. Preserve the canonical U.S. June 21 date and transcript June 22 local-date wording. Basis: https://www.defense.gov/News/News-Stories/Article/Article/4227082/historically-successful-strike-on-iranian-nuclear-site-was-15-years-in-the-maki/

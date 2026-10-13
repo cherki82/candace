@@ -1,6 +1,6 @@
 ---
 title: "Jean-Luc Brunel"
-description: "Jean-Luc Brunel (People) - 23 mentions"
+description: "Jean-Luc Brunel (People) - 26 mentions"
 id: "person-jean-luc-brunel"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16">2026-01-16 · 00:36:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-jean-luc-brunel-t-00-31-42">2026-07-29 · 00:31:56</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-luc-brunel-t-00-41-30">2026-10-01 · 00:41:30</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jean-luc-brunel-t-00-17-36" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 10 mentions" title="2026-06-26 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-jean-luc-brunel-t-00-50-23" style="--pulse-height:10%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-jean-luc-brunel-t-00-30-19" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 5 mentions" title="2026-07-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-jean-luc-brunel-t-00-30-28" style="--pulse-height:10%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-luc-brunel-t-00-40-44" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-jean-luc-brunel-t-00-17-36) | 10 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jean-luc-brunel-t-00-50-23) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-jean-luc-brunel-t-00-30-19) | 5 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-jean-luc-brunel-t-00-30-28) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-luc-brunel-t-00-40-44) | 2 |
 
 </details>
 </section>
@@ -63,7 +67,26 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:41:07](/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-luc-brunel-t-00-40-44)**
+> "Jean-Luc Brunel, of course. potentially suicided partner of Jeffr..."
+
+**[00:41:30](/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-luc-brunel-t-00-41-30)**
+> "The company that Jean-Luc Brunel started, this feels like it could be very importa..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:30:28](/episodes/ep-kn1E0scy9Wc.md#ent-person-jean-luc-brunel-t-00-30-28)**
+> "...gency that started started by Jean-Luc Brunel of France."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (5 mentions)</summary>
@@ -316,10 +339,11 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 </details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): “what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel”
 - [Candace Owens x Ana Kasparian @ 00:43:11](/episodes/ep-SKNJPul29zU.md#t-00-43-11): “the guy Jean-Luc Brunel was his partner in Paris for like the modeling firm who ended up killing himself in prison.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:41:07](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44): “Jean-Luc Brunel, of course. potentially suicided partner of Jeffrey Epstein through the modeling group, the modeling group founded by him, Faith Kate (modeling-company figure; name spelling unverified)'s modeling group, a question that we could not get an answer on when we asked Turning Point USA explicitly why we had people that worked there saying that Erika (Erika Kirk) was in control of the modeling apartments. ... The company that Jean-Luc Brunel started, this feels like it could be very important for us to go back to the Epstein (Jeffrey Epstein) story.”
 
 </details>
 
@@ -328,7 +352,23 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jean-Luc Brunel (10)</strong></summary>
+<summary><strong class="section-title">Statements about Jean-Luc Brunel (12)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:41:07](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44) (Accusation) **Candace Owens** (via paraphrase): ["Owens said TPUSA employees alleged Erika Kirk controlled modeling apar..."](/statements/statement-a0dc07eca807.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [TPUSA modeling-apartment account source(s) (identities unverified)](/entities/anon-src-q4m-kGzvwjw-019.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:30:03](/episodes/ep-kn1E0scy9Wc.md#t-00-29-53) (Accusation) **Candace Owens**: ["Owens said she emailed for a statement about reports that Erika Kirk m..."](/statements/statement-16b37bf70a07.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Faith Kates](/entities/person-faith-kates.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>

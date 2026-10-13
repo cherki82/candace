@@ -1,6 +1,6 @@
 ---
 title: "Sheldon Adelson"
-description: "Sheldon Adelson (People) - 4 mentions"
+description: "Sheldon Adelson (People) - 5 mentions"
 id: "person-sheldon-adelson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-person-sheldon-adelson-t-00-53-53">2026-03-04 · 00:54:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-sheldon-adelson-t-00-21-07">2026-07-22 · 00:21:20</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-sheldon-adelson-t-00-08-40">2026-10-07 · 00:08:48</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,6 +35,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-sheldon-adelson-t-00-32-10" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-sheldon-adelson-t-00-26-49" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-sheldon-adelson-t-00-21-07" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-sheldon-adelson-t-00-08-40" style="--pulse-height:100%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-sheldon-adelson-t-00-32-10) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-sheldon-adelson-t-00-26-49) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-sheldon-adelson-t-00-21-07) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-sheldon-adelson-t-00-08-40) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:08:48](/episodes/ep-yrg_-D6oNHE.md#ent-person-sheldon-adelson-t-00-08-40)**
+> "It's giving the Sheldon Adelson Sands Casino money outright purchasing the presid..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

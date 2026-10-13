@@ -1,6 +1,6 @@
 ---
 title: "Freedom of Information Act"
-description: "Freedom of Information Act (Laws & Legislation) - 65 mentions"
+description: "Freedom of Information Act (Laws & Legislation) - 70 mentions"
 id: "law-freedom-of-information-act"
 type: "LAW"
 aliases:
@@ -22,11 +22,11 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27">2025-10-06 · 00:26:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-law-freedom-of-information-act-t-00-43-01">2026-08-31 · 00:43:15</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>65</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-law-freedom-of-information-act-t-00-37-39">2026-10-01 · 00:38:08</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -55,6 +55,8 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-law-freedom-of-information-act-t-00-01-18" style="--pulse-height:75%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-35-29" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-law-freedom-of-information-act-t-00-43-01" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-law-freedom-of-information-act-t-01-05-42" style="--pulse-height:38%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-law-freedom-of-information-act-t-00-37-39" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +82,8 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-law-freedom-of-information-act-t-00-01-18) | 6 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-35-29) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-law-freedom-of-information-act-t-00-43-01) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-law-freedom-of-information-act-t-01-05-42) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-law-freedom-of-information-act-t-00-37-39) | 2 |
 
 </details>
 </section>
@@ -91,7 +95,32 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:37:51](/episodes/ep-q4m-kGzvwjw.md#ent-law-freedom-of-information-act-t-00-37-39)**
+> "filed an FOIA request wanting to know why he was in Omaha. We w..."
+
+**[00:38:08](/episodes/ep-q4m-kGzvwjw.md#ent-law-freedom-of-information-act-t-00-37-39)**
+> "...else is more astute at filing FOIA requests."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[01:06:07](/episodes/ep-bIuvTKlFeGo.md#ent-law-freedom-of-information-act-t-01-05-42)**
+> "...nder so much that we filed an FOIA to see who was on the plane and it came back and ..."
+
+**[01:06:22](/episodes/ep-bIuvTKlFeGo.md#ent-law-freedom-of-information-act-t-01-06-22)**
+> "...ull it up. But we did file an FOIA request because I thought, oh, that's interesting..."
+
+**[01:06:34](/episodes/ep-bIuvTKlFeGo.md#ent-law-freedom-of-information-act-t-01-06-22)**
+> "...lined that information via an FOIA request."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -395,7 +424,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freedom of Information Act (22)</strong></summary>
+<summary><strong class="section-title">Statements about Freedom of Information Act (24)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:37:32](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01) (Claim) **Candace Owens**: ["Owens said Egyptian planes were in Lincoln and Omaha August 17 and Kas..."](/statements/statement-c3e34ed8e140.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Lincoln](/entities/gpe-lincoln.md), [Omaha](/entities/gpe-omaha.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:06:07](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42) (Citation) **Candace Owens**: ["Owens said Kash Patel visited the Omaha field office August 19th and h..."](/statements/statement-2953f1d069c4.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Omaha](/entities/gpe-omaha.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

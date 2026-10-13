@@ -18,7 +18,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (157 times)
+## Mentioned In (166 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -396,15 +396,7 @@ date: "2025-09-10"
 
 > we know that Charlie gets shot at 12:23 p.m., so they're now telling us that he was
 
-### 48. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
-
-**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [01:08:00](/episodes/ep-9k2xrAC0H88.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-54-08) 
-<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=4080s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
-
-> Charlie just got assassinated in broad daylight and I feel like everyone is sort of singling that.
-
-### 49. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
+### 48. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
 
 **Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-11-49) 
@@ -412,7 +404,7 @@ date: "2025-09-10"
 
 > It was 12:23 p.m. Mountain Standard Time when the shot rang out.
 
-### 50. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+### 49. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:02:18](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-02-02) 
@@ -420,7 +412,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was shot on September 10th, 12.23 p.m. in the afternoon mountain time.
 
-### 51. Trump Attacks The Pope. The Tyler Robinson Narrative Collaps...
+### 50. Trump Attacks The Pope. The Tyler Robinson Narrative Collaps...
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [01:06:25](/episodes/ep-eLgD5yUVbko.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-01-06-15) 
@@ -428,7 +420,7 @@ date: "2025-09-10"
 
 > getting to the truth of what happened on September 10th because we know we're not getting it
 
-### 52. Secret Service Admits "There Was No Threat". ATF Releases Re...
+### 51. Secret Service Admits "There Was No Threat". ATF Releases Re...
 
 **Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
 **Timestamp:** [00:25:09](/episodes/ep-1mYNOqzAdXs.md#t-00-25-09) 
@@ -436,7 +428,7 @@ date: "2025-09-10"
 
 > That's just 50 minutes after Charlie was shot.
 
-### 53. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+### 52. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
 
 **Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
 **Timestamp:** [01:56:27](/episodes/ep--9MOUvgGyi4.md#t-01-56-27) 
@@ -444,7 +436,7 @@ date: "2025-09-10"
 
 > what next happens is on the day that Charlie was killed
 
-### 54. September 10th: The OTHER Shooting That The Media Forgot. | ...
+### 53. September 10th: The OTHER Shooting That The Media Forgot. | ...
 
 **Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
 **Timestamp:** [00:12:45](/episodes/ep-4DvYXBn_5JI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-12-45) 
@@ -452,7 +444,7 @@ date: "2025-09-10"
 
 > on September 10th at almost the exact same time down to the minute that Charlie was shot
 
-### 55. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
+### 54. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:09:53](/episodes/ep-cPidFQDJLbo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-09-53) 
@@ -460,7 +452,7 @@ date: "2025-09-10"
 
 > somebody who had no idea that their friend was going to be shot on September 10th
 
-### 56. The World Is A Stage: Trump Survives...Again? | Ep 343
+### 55. The World Is A Stage: Trump Survives...Again? | Ep 343
 
 **Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
 **Timestamp:** [00:18:08](/episodes/ep-BxN2-aeMYIs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-17-35) 
@@ -468,7 +460,7 @@ date: "2025-09-10"
 
 > In another report, they argue that distrust surrounding Charlie Kirk's assassination
 
-### 57. I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 3...
+### 56. I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 3...
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:27:32](/episodes/ep-EtLHqDbxqks.md#t-00-27-19) 
@@ -476,7 +468,7 @@ date: "2025-09-10"
 
 > that day when Charlie was shot or had an exploding mic
 
-### 58. EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Sp...
+### 57. EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Sp...
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:15:47](/episodes/ep-puuMVxEu5NU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-15-31) 
@@ -484,7 +476,7 @@ date: "2025-09-10"
 
 > September 25th. So this was just 15 days following Charles's assassination.
 
-### 59. COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Ch...
+### 58. COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Ch...
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:12:14](/episodes/ep-mLvJqdxS-FY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-12-09) 
@@ -492,7 +484,7 @@ date: "2025-09-10"
 
 > at no point in the 10 months following the Charlie Kirk assassination
 
-### 60. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+### 59. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:58:36](/episodes/ep-OgRyiOAVtWU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-58-10) 
@@ -500,7 +492,7 @@ date: "2025-09-10"
 
 > America's beating heart to have ceased on 9, 10, 2025 at 12, 23 p.m.
 
-### 61. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
+### 60. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
 **Timestamp:** [00:18:41](/episodes/ep-amqTMimDr0A.md#t-00-18-33) 
@@ -508,7 +500,7 @@ date: "2025-09-10"
 
 > I got the news that Charlie had been shot
 
-### 62. A Strange Thing Happened At Charlie’s Funeral... Plus, A Sho...
+### 61. A Strange Thing Happened At Charlie’s Funeral... Plus, A Sho...
 
 **Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
 **Timestamp:** [00:05:10](/episodes/ep-AoYZel7_cGQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-10) 
@@ -516,7 +508,7 @@ date: "2025-09-10"
 
 > what happened on September 10th, how Charlie Kirk died.
 
-### 63. An Eyewitness At Timpanogos. A Shocking Discovery About The ...
+### 62. An Eyewitness At Timpanogos. A Shocking Discovery About The ...
 
 **Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
 **Timestamp:** [00:23:02](/episodes/ep-iB-YtO3UZOg.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-22-35) 
@@ -524,7 +516,7 @@ date: "2025-09-10"
 
 > On September 10th, so to be clear, and this is crucial, over two hours before Charlie was shot
 
-### 64. Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On Th...
+### 63. Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On Th...
 
 **Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
 **Timestamp:** [00:13:11](/episodes/ep-AH1KVKkweUE.md#t-00-13-11) 
@@ -532,7 +524,7 @@ date: "2025-09-10"
 
 > Charlie was shot at 1223 p.m. on Wednesday.
 
-### 65. VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In Th...
+### 64. VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In Th...
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
 **Timestamp:** [00:16:40](/episodes/ep-1CFDtD0IgEg.md#t-00-16-18) 
@@ -540,7 +532,7 @@ date: "2025-09-10"
 
 > less than 24 hours after Charlie was assassinated.
 
-### 66. LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s P...
+### 65. LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s P...
 
 **Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
 **Timestamp:** [00:53:08](/episodes/ep-ChuWo-n49B8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-53-08) 
@@ -548,7 +540,7 @@ date: "2025-09-10"
 
 > after Charlie Kirk's murder, I watched a video of him saying that he wants to be remembered
 
-### 67. A Shocking Truth Revealed In The “4K” Footage. Beavis and Bu...
+### 66. A Shocking Truth Revealed In The “4K” Footage. Beavis and Bu...
 
 **Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
 **Timestamp:** [00:25:59](/episodes/ep-d7VsbEIWkP8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-25-59) 
@@ -556,7 +548,7 @@ date: "2025-09-10"
 
 > Lance Twiggs' alibi, just to remind you for September 10th, is, I was sleeping.
 
-### 68. EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critica...
+### 67. EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critica...
 
 **Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
 **Timestamp:** [00:39:45](/episodes/ep-9hRcfSrri70.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-39-45) 
@@ -564,7 +556,7 @@ date: "2025-09-10"
 
 > I am somebody who cares deeply about what happened on September 10th because my friend was killed
 
-### 69. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
+### 68. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:37:19](/episodes/ep-581dILVcEE4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-32-34) 
@@ -572,7 +564,7 @@ date: "2025-09-10"
 
 > Charlie was shot at 12:23, right? So these are back-to-back phone calls.
 
-### 70. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
+### 69. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:32:34](/episodes/ep-581dILVcEE4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-32-34) 
@@ -580,7 +572,7 @@ date: "2025-09-10"
 
 > The shooting occurs. I am next to Mikey. Both of us hear a loud crack.
 
-### 71. Charlie Ripped A Hole In Reality | Candace Ep 253
+### 70. Charlie Ripped A Hole In Reality | Candace Ep 253
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 **Timestamp:** [00:32:48](/episodes/ep-Cq7nj9rxPdo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-32-11) 
@@ -591,7 +583,7 @@ date: "2025-09-10"
 > **Date stated in this source:** “September 10th”
 > **Date review note:** The transcript states September 10th in context; the canonical event supplies the 2025 year.
 
-### 72. From Britney To Charlie. With Pastors Like These, Who Needs ...
+### 71. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:47:38](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26) 
@@ -599,7 +591,7 @@ date: "2025-09-10"
 
 > what happened on 9/10 and beyond that...the linchpin of this is a Charlie Kirk assassination.
 
-### 73. UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Cand...
+### 72. UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Cand...
 
 **Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
 **Timestamp:** [00:04:49](/episodes/ep-6DhWawD4ZiM.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-04-36) 
@@ -607,7 +599,7 @@ date: "2025-09-10"
 
 > what transpired immediately following Charlie's assassination, this is going to be read
 
-### 74. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
+### 73. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:00:29](/episodes/ep-Kmt6HgRjckU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
@@ -615,7 +607,7 @@ date: "2025-09-10"
 
 > their potential involvement in Charlie Kirk's assassination.
 
-### 75. Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His Firs...
+### 74. Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His Firs...
 
 **Episode:** [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md)
 **Timestamp:** [00:00:28](/episodes/ep-6J6lRZPQ4jk.md#t-00-00-00) 
@@ -623,7 +615,7 @@ date: "2025-09-10"
 
 > regarding who killed Charlie and what happened on September 10th
 
-### 76. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 75. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:12:45](/episodes/ep-K5GjF53bfN4.md#t-00-12-31) 
@@ -631,7 +623,7 @@ date: "2025-09-10"
 
 > on X on the day that Charlie was assassinated.
 
-### 77. You Won't Believe What Happened While We Were Off Air... | C...
+### 76. You Won't Believe What Happened While We Were Off Air... | C...
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
 **Timestamp:** [00:10:01](/episodes/ep-OEAHy3SsIiI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-10-01) 
@@ -639,7 +631,7 @@ date: "2025-09-10"
 
 > this is a recreation of the tent where Charlie Kirk lost his life at Utah Valley University in September
 
-### 78. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+### 77. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:47:11](/episodes/ep-zSKrxIUMNqw.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-16-11) 
@@ -647,7 +639,7 @@ date: "2025-09-10"
 
 > The whole world knows that we're being lied to about what happened on September 10th
 
-### 79. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+### 78. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:58:59](/episodes/ep-zSKrxIUMNqw.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-16-11) 
@@ -655,7 +647,7 @@ date: "2025-09-10"
 
 > what is solving the mystery of what happened to Charlie Kirk on September 10th.
 
-### 80. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
+### 79. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:17:51](/episodes/ep-wcD2khO3rOA.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-17-24) 
@@ -663,7 +655,7 @@ date: "2025-09-10"
 
 > Glenn Beck also his children were there at UVU when Charlie Kirk was assassinated.
 
-### 81. American Horror Story: Charlie Kirk’s “Shining” Disciples. |...
+### 80. American Horror Story: Charlie Kirk’s “Shining” Disciples. |...
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
 **Timestamp:** [00:11:31](/episodes/ep-CMcktj3Egfo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-11-30) 
@@ -671,7 +663,7 @@ date: "2025-09-10"
 
 > we all watched him be assassinated in fact that might be the answer to the question why did they want us to watch it
 
-### 82. Myron Gaines x Candace Owens
+### 81. Myron Gaines x Candace Owens
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [00:52:43](/episodes/ep-2T39-oADLj0.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-52-43) 
@@ -679,7 +671,7 @@ date: "2025-09-10"
 
 > Yeah, so I can tell you that I view the Charlie Kirk assassination as a military hit.
 
-### 83. A Legal Turning Point? | Candace Ep 292
+### 82. A Legal Turning Point? | Candace Ep 292
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
 **Timestamp:** [00:06:17](/episodes/ep-NIEbqsLAK8g.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-06-03) 
@@ -687,7 +679,7 @@ date: "2025-09-10"
 
 > the feds are going to do anything to look into what happened on September 10th.
 
-### 84. Candace x Baron Coleman LIVE!! | Candace Ep 293
+### 83. Candace x Baron Coleman LIVE!! | Candace Ep 293
 
 **Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
 **Timestamp:** [00:07:26](/episodes/ep-9naMwS0kMBE.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-07-14) 
@@ -695,7 +687,7 @@ date: "2025-09-10"
 
 > to what happened in Orem, Utah on September 10th.
 
-### 85. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
+### 84. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:07:08](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-20-31) 
@@ -703,7 +695,7 @@ date: "2025-09-10"
 
 > So obviously given Charlie's assassination and the direction that my investigation took into what happened on that day,
 
-### 86. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
+### 85. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:21:04](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-20-31) 
@@ -711,7 +703,7 @@ date: "2025-09-10"
 
 > how much people actually care about learning what happened on September 10th.
 
-### 87. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
+### 86. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
 **Timestamp:** [00:21:19](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-20-31) 
@@ -719,7 +711,7 @@ date: "2025-09-10"
 
 > And I would like to know truthfully what took place on September 10th. And if I have a platform,
 
-### 88. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
+### 87. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
 **Timestamp:** [00:35:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-34-39) 
@@ -727,7 +719,7 @@ date: "2025-09-10"
 
 > held as the new CEO just five days after Charlie was publicly assassinated.
 
-### 89. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
+### 88. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:06:03](/episodes/ep-A39g5oqB_eM.md#t-00-05-46) 
@@ -735,7 +727,7 @@ date: "2025-09-10"
 
 > So we know on September 10th, Charlie is assassinated.
 
-### 90. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
+### 89. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
 **Timestamp:** [00:00:34](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00) 
@@ -743,7 +735,7 @@ date: "2025-09-10"
 
 > just five and a half days after Charlie's assassination.
 
-### 91. AND ANOTHER ONE: Charlie's Text On September 9th. | Candace ...
+### 90. AND ANOTHER ONE: Charlie's Text On September 9th. | Candace ...
 
 **Episode:** [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md)
 **Timestamp:** [00:10:13](/episodes/ep-Wjul6YV6izo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-10-13) 
@@ -751,7 +743,7 @@ date: "2025-09-10"
 
 > 36 hours after Charlie was assassinated? Maybe it was 48 hours after he was assassinated.
 
-### 92. REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Canda...
+### 91. REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Canda...
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
 **Timestamp:** [00:22:07](/episodes/ep-DYD_QHMPwqM.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-21-46) 
@@ -759,7 +751,7 @@ date: "2025-09-10"
 
 > The sympathy was rightfully garnered after the horrific assassination of Charlie Kirk.
 
-### 93. An Open Letter To Erika Kirk | Candace Ep 303
+### 92. An Open Letter To Erika Kirk | Candace Ep 303
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:27:14](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14) 
@@ -767,7 +759,7 @@ date: "2025-09-10"
 
 > They had spoken about Turning Point since Charlie's assassination
 
-### 94. Halftime Wars: TPUSA vs The NFL | Candace Ep 304
+### 93. Halftime Wars: TPUSA vs The NFL | Candace Ep 304
 
 **Episode:** [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md)
 **Timestamp:** [00:14:46](/episodes/ep-4YgrOhhy708.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-14-46) 
@@ -775,7 +767,7 @@ date: "2025-09-10"
 
 > YouTube page happened right after Charlie Kirk got assassinated
 
-### 95. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
+### 94. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:11:01](/episodes/ep-ti5Fxrvegno.md#t-00-10-49) 
@@ -783,7 +775,7 @@ date: "2025-09-10"
 
 > Charlie was assassinated on a Wednesday.
 
-### 96. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
+### 95. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:03:46](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-03-34) 
@@ -791,7 +783,7 @@ date: "2025-09-10"
 
 > and by September 10th, the day that he was assassinated.
 
-### 97. Okay…These Text Messages Are Crazy! | Candace Ep 307
+### 96. Okay…These Text Messages Are Crazy! | Candace Ep 307
 
 **Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
 **Timestamp:** [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) 
@@ -799,7 +791,7 @@ date: "2025-09-10"
 
 > on the day that Charlie is assassinated at 9.45 a.m. Arizona time
 
-### 98. Bride Of Charlie: A Wrinkle In Time | Episode 1
+### 97. Bride Of Charlie: A Wrinkle In Time | Episode 1
 
 **Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
 **Timestamp:** [00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24) 
@@ -807,7 +799,7 @@ date: "2025-09-10"
 
 > days after Charlie was publicly assassinated and she confirmed to them
 
-### 99. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+### 98. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:27:36](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-27-27) 
@@ -815,7 +807,7 @@ date: "2025-09-10"
 
 > On September 10th, 2025, Charlie Kirk was murdered. Many of you already know
 
-### 100. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+### 99. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:34:18](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-27-27) 
@@ -823,7 +815,7 @@ date: "2025-09-10"
 
 > diminishing the pursuit of something that makes sense regarding what happened on September 10th
 
-### 101. Bride Of Charlie: The Ties That Bind | Episode 4
+### 100. Bride Of Charlie: The Ties That Bind | Episode 4
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:22:51](/episodes/ep-jTj9Ip46r4w.md#t-00-22-18) 
@@ -831,7 +823,7 @@ date: "2025-09-10"
 
 > a mere days before Charlie's assassinated.
 
-### 102. Bride Of Charlie: What Happened In Romania? | Episode 6
+### 101. Bride Of Charlie: What Happened In Romania? | Episode 6
 
 **Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
 **Timestamp:** [00:45:33](/episodes/ep-y8lak3CRwDw.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-45-25) 
@@ -839,7 +831,7 @@ date: "2025-09-10"
 
 > tragedies, including the one that happened on September 10th, in which all of them.
 
-### 103. Donald Trump Has Betrayed America. | Candace Ep 308
+### 102. Donald Trump Has Betrayed America. | Candace Ep 308
 
 **Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
 **Timestamp:** [00:33:54](/episodes/ep-i8m_6D4QGmk.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-33-30) 
@@ -847,7 +839,7 @@ date: "2025-09-10"
 
 > when Charlie Kirk is assassinated in front of the world, Trump dedicates a total of
 
-### 104. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
+### 103. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:26:27](/episodes/ep-5-HUyv9LyMg.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-26-11) 
@@ -855,7 +847,7 @@ date: "2025-09-10"
 
 > the remaining photos and the video evidence that we have from September 10th
 
-### 105. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
+### 104. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
 
 **Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
 **Timestamp:** [00:19:50](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-19-35) 
@@ -863,7 +855,7 @@ date: "2025-09-10"
 
 > How are you going to explain to them that Charlie Kirk has passed away?
 
-### 106. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
+### 105. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:59:38](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-22) 
@@ -871,7 +863,7 @@ date: "2025-09-10"
 
 > I remember days after Charlie was killed, one of the TPUSA guys
 
-### 107. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
+### 106. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:01:41](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-22) 
@@ -879,7 +871,7 @@ date: "2025-09-10"
 
 > group project to figure out what actually happened on September 10th.
 
-### 108. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
+### 107. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
 
 **Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
 **Timestamp:** [00:02:41](/episodes/ep-7ERqbYElOfs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-02-41) 
@@ -887,7 +879,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at UVU in the afternoon. About a 33-hour manhunt ensued.
 
-### 109. An Open Letter To President Donald Trump (My Response) | Can...
+### 108. An Open Letter To President Donald Trump (My Response) | Can...
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
 **Timestamp:** [00:03:01](/episodes/ep-ZIH5-V6UPkg.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-02-27) 
@@ -895,7 +887,7 @@ date: "2025-09-10"
 
 > he's been dead for seven months and the crowd still moves on his behalf.
 
-### 110. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
+### 109. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:37:48](/episodes/ep-jsqUIkszZd0.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-37-34) 
@@ -903,7 +895,7 @@ date: "2025-09-10"
 
 > September 10th, 2025, the morning of Charlie Kirk's assassination at 9.33 a.m. Central.
 
-### 111. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+### 110. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:04:49](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-28-21) 
@@ -911,7 +903,7 @@ date: "2025-09-10"
 
 > Remember right after Charlie was assassinated, a lot of people were like, look.
 
-### 112. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+### 111. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:28:36](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-28-21) 
@@ -919,7 +911,7 @@ date: "2025-09-10"
 
 > start with a story that makes sense about September 10th, what happened?
 
-### 113. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+### 112. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:58:09](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-28-21) 
@@ -927,7 +919,7 @@ date: "2025-09-10"
 
 > took place on September 10th. They're relying on us to accept make belief.
 
-### 114. EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His ...
+### 113. EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His ...
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:00:31](/episodes/ep-kaWtDuoY_ns.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-31) 
@@ -935,7 +927,7 @@ date: "2025-09-10"
 
 > the original owner of the rifle that was found after Charlie Kirk was killed
 
-### 115. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+### 114. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:38:14](/episodes/ep-69A8TzAGHlU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-37-50) 
@@ -943,7 +935,7 @@ date: "2025-09-10"
 
 > interested in getting to the truth. of what happened to Charlie Kirk on September 10th.
 
-### 116. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
+### 115. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:12:44](/episodes/ep-eMtjzXkQrsU.md#t-00-11-59) 
@@ -951,7 +943,7 @@ date: "2025-09-10"
 
 > obviously, Charlie was murdered on September 10th.
 
-### 117. STAGED? Erika’s VIRAL White House Correspondents Moment Come...
+### 116. STAGED? Erika’s VIRAL White House Correspondents Moment Come...
 
 **Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
 **Timestamp:** [00:17:58](/episodes/ep-FFQ9675oqRI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-17-58) 
@@ -959,7 +951,7 @@ date: "2025-09-10"
 
 > which we seem to have stepped fully into since the Charlie Kirk assassination
 
-### 118. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+### 117. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:25:30](/episodes/ep-KpxIBWkNsSs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-25-00) 
@@ -967,7 +959,7 @@ date: "2025-09-10"
 
 > had a conversation with him right after the Charlie Kirk assassination.
 
-### 119. BREAKING! The White House Attempted To Rescind This E-mail. ...
+### 118. BREAKING! The White House Attempted To Rescind This E-mail. ...
 
 **Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
 **Timestamp:** [00:13:55](/episodes/ep-7FS1tUeSfdE.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-13-31) 
@@ -975,7 +967,7 @@ date: "2025-09-10"
 
 > Your company founder and your boss is tragically assassinated in front of the entire world.
 
-### 120. Hunter Biden Returns. The White House Ghosts Me Regarding Er...
+### 119. Hunter Biden Returns. The White House Ghosts Me Regarding Er...
 
 **Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
 **Timestamp:** [00:00:39](/episodes/ep-1QZ4X6q1DPg.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-39) 
@@ -983,7 +975,7 @@ date: "2025-09-10"
 
 > in September, the same month that Charlie Kirk died. That's interesting, right?
 
-### 121. Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quit...
+### 120. Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quit...
 
 **Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
 **Timestamp:** [00:07:26](/episodes/ep-tXoI0TTKVrs.md#t-00-07-26) 
@@ -991,7 +983,7 @@ date: "2025-09-10"
 
 > Today marks nine months without Charlie in the universe, that happy warrior.
 
-### 122. The FBI Crashes Out. We Examine The Exploding Microphone The...
+### 121. The FBI Crashes Out. We Examine The Exploding Microphone The...
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:04:55](/episodes/ep-h76ZN-xXC6c.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-04-55) 
@@ -999,7 +991,7 @@ date: "2025-09-10"
 
 > Now, at this particular event on September 10th, and we did go backward
 
-### 123. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
+### 122. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:00:01](/episodes/ep-G3zdOeHpvS0.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
@@ -1007,7 +999,7 @@ date: "2025-09-10"
 
 > appears to me to be the most viable theory pertaining to Charlie Kirk's assassination
 
-### 124. I Survive My First Death Hoax, Erika Kirk Makes Human Histor...
+### 123. I Survive My First Death Hoax, Erika Kirk Makes Human Histor...
 
 **Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
 **Timestamp:** [00:41:45](/episodes/ep-VMNWMXX1vO8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-41-45) 
@@ -1015,7 +1007,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was murdered, and he was not murdered for his opinions on transgenderism.
 
-### 125. TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Eli...
+### 124. TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Eli...
 
 **Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
 **Timestamp:** [00:01:19](/episodes/ep-IqHsl7d2dos.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-45) 
@@ -1023,7 +1015,7 @@ date: "2025-09-10"
 
 > the deep state did not organize Charlie Kirk's assassination after this.
 
-### 126. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
+### 125. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:01:37](/episodes/ep-a2bZf4fic10.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-20) 
@@ -1031,7 +1023,7 @@ date: "2025-09-10"
 
 > There are a lot of heavy players that are involved in Charlie Kirk's assassination
 
-### 127. Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafi...
+### 126. Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafi...
 
 **Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
 **Timestamp:** [00:28:01](/episodes/ep-ds6umq1rHAw.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-28-01) 
@@ -1039,7 +1031,7 @@ date: "2025-09-10"
 
 > He never made it to that Monday. He never made it to that appointment. He's then murdered in Utah.
 
-### 128. BREAKING: Charlie’s Team DID Call 911 En Route To The Hospit...
+### 127. BREAKING: Charlie’s Team DID Call 911 En Route To The Hospit...
 
 **Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
 **Timestamp:** [00:08:05](/episodes/ep-HZvwbfePe7o.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-07-41) 
@@ -1047,7 +1039,7 @@ date: "2025-09-10"
 
 > The text released from November 2023 was within 22 months of Kirk’s death on September 10.
 
-### 129. EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rook...
+### 128. EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rook...
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
 **Timestamp:** [00:44:35](/episodes/ep-Vu6Y24pqhZs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-44-22) 
@@ -1055,7 +1047,7 @@ date: "2025-09-10"
 
 > the public assassination of Charlie Kirk moved them into the right direction
 
-### 130. EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On C...
+### 129. EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On C...
 
 **Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
 **Timestamp:** [00:16:40](/episodes/ep-5zgkrOaCCj4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-16-27) 
@@ -1063,7 +1055,7 @@ date: "2025-09-10"
 
 > He then jumps off of the building after killing Charlie Kirk, lands onto solid ground
 
-### 131. Candace Owens vs Andrew Wilson: The Great Debate.
+### 130. Candace Owens vs Andrew Wilson: The Great Debate.
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
 **Timestamp:** [00:02:59](/episodes/ep-aPOyk1i2LOc.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-02-49) 
@@ -1071,7 +1063,7 @@ date: "2025-09-10"
 
 > On September 10th, 2025, Charlie Kirk was murdered. Many of you already know
 
-### 132. Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10....
+### 131. Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10....
 
 **Episode:** [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md)
 **Timestamp:** [00:05:12](/episodes/ep-4JxgOclKzqg.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-04-58) 
@@ -1079,7 +1071,7 @@ date: "2025-09-10"
 
 > Actually, on the very day of the assassination, Terrell
 
-### 133. Friends In High Temples: Charlie's Final Call With Bibi... |...
+### 132. Friends In High Temples: Charlie's Final Call With Bibi... |...
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:44:50](/episodes/ep-rupRLXmSndU.md#t-00-44-50) 
@@ -1087,7 +1079,7 @@ date: "2025-09-10"
 
 > in the day after Charlie was assassinated but I did not realize how quickly
 
-### 134. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
+### 133. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:00:53](/episodes/ep-HYn0P-P1wUw.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-45) 
@@ -1095,7 +1087,7 @@ date: "2025-09-10"
 
 > he accomplishes what he set out to do. He murders Charlie Kirk.
 
-### 135. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+### 134. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:47:30](/episodes/ep-zSKrxIUMNqw.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-16-11) 
@@ -1103,7 +1095,7 @@ date: "2025-09-10"
 
 > if we don't get to the bottom of what exactly took place on September 10th.
 
-### 136. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+### 135. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:16:42](/episodes/ep-zSKrxIUMNqw.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-16-11) 
@@ -1111,7 +1103,7 @@ date: "2025-09-10"
 
 > He's dead now. He's dead now. When he wanted out, he was killed.
 
-### 137. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 136. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:00:02](/episodes/ep-Qt0VHV-POCg.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
@@ -1119,7 +1111,7 @@ date: "2025-09-10"
 
 > the night after Charlie Kirk was murdered. A certain someone was mysteriously added to the entry
 
-### 138. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 137. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) 
@@ -1127,7 +1119,7 @@ date: "2025-09-10"
 
 > Charlie was assassinated in broad daylight, and they immediately deployed
 
-### 139. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 138. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:10:37](/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26) 
@@ -1135,7 +1127,7 @@ date: "2025-09-10"
 
 > September 9th, the day before Charlie's assassination.
 
-### 140. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 139. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:04:55](/episodes/ep-2WEHTk0Xewg.md#t-00-04-55) 
@@ -1143,7 +1135,7 @@ date: "2025-09-10"
 
 > on September 10th, after Charlie was shot, the roommate—that's Lance—received
 
-### 141. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 140. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:07:26](/episodes/ep-2WEHTk0Xewg.md#t-00-07-26) 
@@ -1151,7 +1143,7 @@ date: "2025-09-10"
 
 > what time Charlie gets shot? At 12:23 p.m.?
 
-### 142. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+### 141. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:22:17](/episodes/ep-Qfwr08Ebczo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-22-17) 
@@ -1159,7 +1151,7 @@ date: "2025-09-10"
 
 > they were on the ground on September 10th at Utah Valley University when Charlie Kirk was shot.
 
-### 143. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 142. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:03:34](/episodes/ep-UBkFkg4UNY8.md#t-00-03-27) 
@@ -1167,7 +1159,7 @@ date: "2025-09-10"
 
 > People saw Charlie instantly get shot in the neck, and everybody fell to the ground.
 
-### 144. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 143. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:02:57](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
@@ -1175,7 +1167,7 @@ date: "2025-09-10"
 
 > Yeah, I watched my friend get shot in the neck. That's what happened.
 
-### 145. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 144. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:00:18](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
@@ -1183,7 +1175,7 @@ date: "2025-09-10"
 
 > First and foremost, to let you know, last week was not a dream. Charlie, my friend, is dead.
 
-### 146. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+### 145. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
 **Timestamp:** [01:06:47](/episodes/ep-es7PWdFGoFI.md#t-01-06-23) 
@@ -1191,7 +1183,7 @@ date: "2025-09-10"
 
 > very relevant to Charlie's research and what happened on 910
 
-### 147. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
+### 146. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 **Timestamp:** [00:00:24](/episodes/ep-pc3pxRyNFZk.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
@@ -1202,7 +1194,7 @@ date: "2025-09-10"
 > **Date stated in this source:** “9/10”
 > **Date review note:** Year anchored to the source publication date and 2025 episode context.
 
-### 148. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 147. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:01:14](/episodes/ep-ja26iltROkM.md#t-00-00-44) 
@@ -1210,7 +1202,7 @@ date: "2025-09-10"
 
 > They are so clearly lying to us about what happened on the day that Charlie lost his
 
-### 149. To My Friend, Charlie Kirk.
+### 148. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:00:28](/episodes/ep-_dRaEO47-co.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
@@ -1218,7 +1210,7 @@ date: "2025-09-10"
 
 > the moment he lost his life. That was what was especially hard, because he's just had
 
-### 150. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 149. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:25:26](/episodes/ep-a-e7HC6SeK8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-24-50) 
@@ -1229,7 +1221,7 @@ date: "2025-09-10"
 > **Date stated in this source:** “September 10th”
 > **Date review note:** The surrounding 2025 timeline and publication metadata supply the year.
 
-### 151. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 150. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:07:46](/episodes/ep-aDlhjfW6hz8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-07-46) 
@@ -1237,7 +1229,7 @@ date: "2025-09-10"
 
 > I instantly knew that he was dead. And I then, like, as you can see
 
-### 152. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 151. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29) 
@@ -1245,7 +1237,7 @@ date: "2025-09-10"
 
 > the actual day on September 10th while Charlie was in the hospital
 
-### 153. Charlie Kirk’s Last Trip To Asia… | Candace Ep 277
+### 152. Charlie Kirk’s Last Trip To Asia… | Candace Ep 277
 
 **Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
 **Timestamp:** [00:47:11](/episodes/ep-t4U7NjnUEgc.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-46-48) 
@@ -1253,7 +1245,7 @@ date: "2025-09-10"
 
 > standing up and saying that something corrupt happened and Charlie Kirk was assassinated.
 
-### 154. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+### 153. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:19:27](/episodes/ep-vwG1juDCQZQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-19-04) 
@@ -1261,7 +1253,7 @@ date: "2025-09-10"
 
 > He was assassinated. And the difference between this and previous assassinations in this country
 
-### 155. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+### 154. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
 
 **Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
 **Timestamp:** [00:04:40](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-04-27) 
@@ -1269,7 +1261,7 @@ date: "2025-09-10"
 
 > another character who was present on September 10th at UVU.
 
-### 156. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+### 155. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
 
 **Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
 **Timestamp:** [00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38) 
@@ -1277,10 +1269,96 @@ date: "2025-09-10"
 
 > The shooting occurs. I am next to Mikey. Both of us hear a loud crack. We both turn. We both see Charlie who has been shot. ... Both of us, I think at about the same time, realized that that means there is a shooter who is on the scene.
 
-### 157. One Year On… To My Friend Charlie Kirk.
+### 156. One Year On… To My Friend Charlie Kirk.
 
 **Episode:** [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md)
 **Timestamp:** [00:00:02](/episodes/ep-S07n8TnRT0Q.md#t-00-00-02) 
 <a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=2s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All right, you guys, today marks the one-year anniversary of Charlie's death. Obviously, a lot has changed since September 10th.
+
+### 157. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
+
+**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
+**Timestamp:** [00:54:17](/episodes/ep-9k2xrAC0H88.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-54-08) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=3257s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie just got assassinated in broad daylight and I feel like everyone is sort of singling that.
+
+### 158. A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemor...
+
+**Episode:** [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md)
+**Timestamp:** [00:00:01](/episodes/ep-kn1E0scy9Wc.md#t-00-00-01) 
+<a href="https://www.youtube.com/watch?v=kn1E0scy9Wc&t=1s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> an officer shortly following Charlie's assassination.
+
+### 159. BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charli...
+
+**Episode:** [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md)
+**Timestamp:** [00:34:04](/episodes/ep-aLJhpxrakCU.md#t-00-33-44) 
+<a href="https://www.youtube.com/watch?v=aLJhpxrakCU&t=2044s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Kirk was exposed to the danger of a rooftop shooter that took his life.
+
+### 160. Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces ...
+
+**Episode:** [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md)
+**Timestamp:** [00:02:41](/episodes/ep-NNiCZk1cuzs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-02-13) 
+<a href="https://www.youtube.com/watch?v=NNiCZk1cuzs&t=161s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> The headline is planned estimated 600 people would come to the event where Charlie Kirk was shot.
+
+### 161. SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final M...
+
+**Episode:** [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md)
+**Timestamp:** [00:16:31](/episodes/ep-_2DiIbfy4mU.md#t-00-16-31) 
+<a href="https://www.youtube.com/watch?v=_2DiIbfy4mU&t=991s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> until actually T minus two minutes until Charlie is going to get hit.
+
+### 162. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [00:09:43](/episodes/ep-bIuvTKlFeGo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-09-43) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=583s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> during the events leading up to the assassination of Charlie Kirk or in its aftermath did any
+
+### 163. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:00:44](/episodes/ep-5TTkMa49qj8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-44) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=44s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> following Charlie Kirk's assassination to conduct an independent review of what went wrong on that
+
+### 164. COVER UP! The Mysterious Death Of A Whistleblower. The UVU R...
+
+**Episode:** [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md)
+**Timestamp:** [00:07:54](/episodes/ep-ms5ChhZegRg.md#t-00-07-54) 
+<a href="https://www.youtube.com/watch?v=ms5ChhZegRg&t=474s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> fast forward to Charlie's assassination, when that took place, they attempted to
+
+> **Date stated in this source:** “September 10th (segment 55); over a year before this October 5, 2026 episode”
+> **Date review note:** Opening/context and September 10 reference identify the existing September 10, 2025 UVU shooting, also confirmed by UVU externalreview page. No new shooting event created.
+
+### 165. CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth B...
+
+**Episode:** [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md)
+**Timestamp:** [00:18:32](/episodes/ep-0pSAhaAZz1w.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-18-12) 
+<a href="https://www.youtube.com/watch?v=0pSAhaAZz1w&t=1112s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> it also happens to be the very month that Charlie Kirk was assassinated. What a coincidence.
+
+### 166. BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudi...
+
+**Episode:** [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md)
+**Timestamp:** [00:27:24](/episodes/ep-yrg_-D6oNHE.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-27-24) 
+<a href="https://www.youtube.com/watch?v=yrg_-D6oNHE&t=1644s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> September 10th, as it pertains to the Charlie Kirk assassination
+
+> **Date stated in this source:** “September 10th; a year of his life”
+> **Date review note:** The source discusses the anniversary of the September 10, 2025 assassination; retain the existing canonical date.

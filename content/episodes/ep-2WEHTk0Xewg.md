@@ -292,7 +292,7 @@ youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 - **2025-09-08**: [Charlie Kirk loses $2 million donor pledge over Tucker Carlson invite](/events/event-2025-09-08-charlie-kirk-loses-2-million-donor-pledge-over-tuc.md)
 - **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
 - **2025-09-10**: [George Zinn announced as suspect in Charlie Kirk shooting custody](/events/event-2025-09-10-george-zinn-announced-as-suspect-in-charlie-kirk-s.md)
-- **2025-09-10 08:29**: [Tyler Robinson arrives at UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.](/events/event-2025-09-10-tyler-robinson-arrives-at-uvu-campus-in-.md)
+- **2025-09-10 08:29**: [A gray Dodge Challenger reported as Tyler Robinson's arrives at UVU campus at approximately 8:29 a.m.; Owens disputes that vehicle identification in Ep393 based on the visible exhaust.](/events/event-2025-09-10-tyler-robinson-arrives-at-uvu-campus-in-.md)
 - **2025-09-10 17:30**: [Governor Cox press conference mentions second suspect in dark clothing](/events/event-2025-09-10-governor-cox-press-conference-mentions-second-susp.md)
 - **2025-09-11**: [FBI press conference at 7am announcing weapon recovered from wooded area near UVU](/events/event-2025-09-11-fbi-press-conference-at-7am-announcing-w.md)
 - **2025-09-11**: [New York Post publishes exclusive photo of rifle used in Charlie Kirk shooting at 9:21am MT](/events/event-2025-09-11-new-york-post-publishes-exclusive-photo-.md)

@@ -22,8 +22,8 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-15-55">2026-09-09 · 00:15:55</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jack-hibbs-t-00-22-52">2026-10-05 · 00:23:06</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
 <div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
@@ -49,7 +49,8 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 24 mentions" title="2026-09-01 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13" style="--pulse-height:12%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20" style="--pulse-height:17%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 4 mentions" title="2026-09-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jack-hibbs-t-00-22-52" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,7 +70,8 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52) | 24 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13) | 3 |
-| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20) | 4 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jack-hibbs-t-00-22-52) | 1 |
 
 </details>
 </section>
@@ -84,19 +86,24 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <summary><strong class="section-title">Raw mentions (56)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (4 mentions)</summary>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:23:06](/episodes/ep-ms5ChhZegRg.md#ent-person-jack-hibbs-t-00-22-52)**
+> "... (Frank Turek) was facetiming Jack Hibbs on the basis of a story that they both told how q..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
 
 **[00:14:20](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20)**
-> "... immediately FaceTimed Pastor Jack Hibbs, that terrible interview where Frank (Frank Turek..."
+> "Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs, that terrible interview where Frank (Frank Turek) goes through great lengths to remind Pastor Hibbs."
 
 **[00:15:29](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-15-19)**
 > "Said, Jack (Jack Hibbs), get everyone in the world praying."
 
 **[00:15:55](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-15-55)**
 > "...nk Turek)'s memory, not Jack (Jack Hibbs)'s. You saw that I had blood on me."
-
-**[00:14:20](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20)**
-> "Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs, that terrible interview where Frank (Frank Turek) goes through great lengths to remind Pastor Hibbs."
 
 </details>
 

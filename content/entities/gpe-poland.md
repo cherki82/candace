@@ -1,6 +1,6 @@
 ---
 title: "Poland"
-description: "Poland (Places) - 9 mentions"
+description: "Poland (Places) - 10 mentions"
 id: "gpe-poland"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Basic Information About Poland | Gov.pl](https://www.gov.pl/web/civilse
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-poland-t-00-53-08">2025-12-09 · 00:53:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-poland-t-00-22-01">2026-06-11 · 00:22:34</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-poland-t-00-07-00">2026-09-15 · 00:07:29</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,7 @@ Source: [Basic Information About Poland | Gov.pl](https://www.gov.pl/web/civilse
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-poland-t-00-30-39" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-poland-t-00-43-51" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-poland-t-00-22-01" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-poland-t-00-07-00" style="--pulse-height:20%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Basic Information About Poland | Gov.pl](https://www.gov.pl/web/civilse
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-poland-t-00-30-39) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-poland-t-00-43-51) | 5 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-poland-t-00-22-01) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-poland-t-00-07-00) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Basic Information About Poland | Gov.pl](https://www.gov.pl/web/civilse
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:07:29](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-poland-t-00-07-00)**
+> "...at's more trafficking arms in Poland."
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>

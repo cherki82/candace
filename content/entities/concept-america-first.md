@@ -1,6 +1,6 @@
 ---
 title: "America First"
-description: "America First (Concepts) - 17 mentions"
+description: "America First (Concepts) - 18 mentions"
 id: "concept-america-first"
 type: "CONCEPT"
 aliases:
@@ -20,9 +20,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-america-first-t-00-48-12">2025-09-17 · 00:48:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-america-first-t-00-25-40">2026-05-26 · 00:25:40</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-america-first-t-00-10-01">2026-09-30 · 00:10:22</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ _Type: Concepts_
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-america-first-t-00-17-26" style="--pulse-height:67%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-america-first-t-00-22-01" style="--pulse-height:33%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-america-first-t-00-15-41" style="--pulse-height:67%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-america-first-t-00-10-01" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ _Type: Concepts_
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-america-first-t-00-17-26) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-america-first-t-00-22-01) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-america-first-t-00-15-41) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-america-first-t-00-10-01) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:10:22](/episodes/ep-5TTkMa49qj8.md#ent-concept-america-first-t-00-10-01)**
+> "...ver been conservative and the America First Party, America First group who doesn't care about..."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>

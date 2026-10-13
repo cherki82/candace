@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Boreing"
-description: "Jeremy Boreing (People) - 82 mentions"
+description: "Jeremy Boreing (People) - 96 mentions"
 id: "person-jeremy-boreing"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-03-13">2025-11-06 · 00:03:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-31-32">2026-08-10 · 00:31:32</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>82</strong></div>
-<div><span>Statements by</span><strong>16</strong></div>
-<div><span>Statements about</span><strong>32</strong></div>
-<div><span>Relationships</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeremy-boreing-t-00-55-26">2026-10-05 · 00:55:46</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>96</strong></div>
+<div><span>Statements by</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>45</strong></div>
+<div><span>Relationships</span><strong>55</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -52,6 +52,10 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-jeremy-boreing-t-00-10-32" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-31-32" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-jeremy-boreing-t-00-06-03" style="--pulse-height:13%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-00-01" style="--pulse-height:26%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 8 mentions" title="2026-09-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#t-00-43-02" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeremy-boreing-t-00-55-26" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +78,10 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-jeremy-boreing-t-00-10-32) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-31-32) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-jeremy-boreing-t-00-06-03) | 4 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-00-01) | 8 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jeremy-boreing-t-00-55-26) | 1 |
 
 </details>
 </section>
@@ -85,7 +93,69 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:55:46](/episodes/ep-ms5ChhZegRg.md#ent-person-jeremy-boreing-t-00-55-26)**
+> "...d) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) ..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02)**
+> "Okay, top comments from yesterday's episode regarding that bizarrely gay photo of Blake Neff with Jeremy (person pictured with Blake Neff; surname unverified). Pamela (commenter; surname unverified) wrote, looks like Blake (Blake Neff) and Jeremy (person pictured with Blake Neff; surname unverified) are sending out Christmas cards this year."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (8 mentions)</summary>
+
+**[00:00:26](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-00-01)**
+> "...y gay photo of Blake Neff and Jeremy Boreing, which they consciously selected."
+
+**[00:29:21](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-29-21)**
+> "...ade it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this..."
+
+**[00:29:51](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-29-21)**
+> "...that's in my life, is Jeremy (Jeremy Boreing)'s fixation on me, and whatever isn't talking abo..."
+
+**[00:33:12](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-33-12)**
+> "... the Blake Neff germs boring (Jeremy Boreing; satirical nickname) collab is about to drop."
+
+**[00:34:42](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-34-42)**
+> "...omments on that germs boring (Jeremy Boreing; satirical nickname) post is that this is an old ..."
+
+**[00:35:44](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-35-09)**
+> "...ultimately what Germs Boring (Jeremy Boreing; satirical nickname) is doing is he's securing th..."
+
+**[00:35:50](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-35-50)**
+> "Germs (Jeremy Boreing; satirical nickname) wants to get paid by Turning..."
+
+**[00:55:20](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-54-47)**
+> "...d lawsuits pending if Jeremy (Jeremy Boreing) gets his way."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4 mentions)</summary>
+
+**[00:06:17](/episodes/ep-O4Zw3bCALjU.md#ent-person-jeremy-boreing-t-00-06-03)**
+> "...ntally deranged little dwarf, Jeremy Boreing."
+
+**[00:06:33](/episodes/ep-O4Zw3bCALjU.md#ent-person-jeremy-boreing-t-00-06-03)**
+> "...the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far i..."
+
+**[00:07:13](/episodes/ep-O4Zw3bCALjU.md#ent-person-jeremy-boreing-t-00-07-13)**
+> "...onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the ..."
+
+**[00:08:12](/episodes/ep-O4Zw3bCALjU.md#ent-person-jeremy-boreing-t-00-07-37)**
+> "...y Shane Cashman where he said Jeremy Boreing is Ted Bundy doing a Mr."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -436,12 +506,19 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Accused (1)</summary>
+<summary>Accused (2)</summary>
 
 - **[George Farmer](/entities/person-george-farmer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:31:48](/episodes/ep-k1b1NDCrNFs.md#t-00-31-28): “But the lie persists. In recent weeks, public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:38:49](/episodes/ep-6XfDqKTdFKg.md#t-00-38-49): “Candace Owens has engaged in the worst act of public defamation probably in American history. She has slandered Erika (Erika Kirk), TPUSA, Mikey McCoy (Michael McCoy), ... Not dramatic at ... you. ... all. ... Andrew Kolvet, the state of Israel, the state of France, ... The ... Egyptian airlines. ... macrons, everybody. ... If Candace (Candace Owens) is not guilty of defamation, and the bar for defamation is very high in America, especially with public figures, freedom of speech allows us to challenge our government, allows us to express our beliefs. ... This is so ... It ... deranged. ... makes it easy to slander people and get away with it compared to other countries, and particularly famous people or government officials, because the logic is, well, you need maximal free speech. Toward people who would have the resources or the power to be able to prevent you from having that free speech. And so in the case of defamation of a public figure, you have to show malice ... Hmm. ... and reckless disregard for truth and or I'm not sure which. But certainly Candace (Candace Owens) has crossed all those lines. There's no such thing as defamation and we should get rid of all defamation law if Candace (Candace Owens) isn't guilty of defamation for her treatment of. Particularly Erika (Erika Kirk) and TPUSA and Mikey (Michael McCoy) and you and et cetera, et cetera, et cetera.”
 
 </details>
 
@@ -460,12 +537,31 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared On (1)</summary>
+
+- **[Heretics (Andrew Gold podcast)](/entities/work-heretics-andrew-gold.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (2)</summary>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02): “Okay, top comments from yesterday's episode regarding that bizarrely gay photo of Blake Neff with Jeremy (person pictured with Blake Neff; surname unverified). Pamela (commenter; surname unverified) wrote, looks like Blake (Blake Neff) and Jeremy (person pictured with Blake Neff; surname unverified) are sending out Christmas cards this year.”
 
 </details>
 
@@ -487,10 +583,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:07:13](/episodes/ep-O4Zw3bCALjU.md#t-00-07-13): “There's—this is just what we could fit, could fit onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Candace (Candace Owens)'s Receipts,' 'Why Women Believe Candace (Candace Owens),' 'One of the Darkest Things I've Ever Seen,' 'Candace (Candace Owens) Has Nothing but False Accusations,' 'Candace (Candace Owens) Gave Off Massive Red Flags.' He's kind of—his new imagination...”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:31:41](/episodes/ep-6XfDqKTdFKg.md#t-00-31-28): “This is a real tweet. It's an aspirational level of derangement. He wrote this. She does this largely on purpose. All Candace (Candace Owens) cares about is fame and money. Nothing is beneath her. And everything that causes people to talk more about her is a tool in her arsenal. So I...”
 
 </details>
 
@@ -504,28 +602,52 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:28:09](/episodes/ep-k1b1NDCrNFs.md#t-00-27-59): “The former CEO of Daily Wire, you will recall he got forced out of the company, generally speaking, because he's a deranged psycho.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:43:47](/episodes/ep-sKuYLNx3iRo.md#t-00-43-14): “Jeremy Boreing constantly needing to fulfill his childhood fantasies. Now, he tried to scrape back some of that price tag by getting rid of me.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:07:07](/episodes/ep-EtLHqDbxqks.md#t-01-07-07): “OK, Jeremy Boring lied through his teeth. So who on Ben (Ben Shapiro)'s IDF Israeli Mossad security apparatus team?”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute. ... We don't, I genuinely can't even engage. I just find him to be just spastic, honestly. Jason Bourne's wife (commenter handle; identity unverified).”
+
+</details>
+
+- **[Shane Cashman](/entities/person-shane-cashman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:08:12](/episodes/ep-O4Zw3bCALjU.md#t-00-07-37): “Anyway, there will never be a better description provided of him other than the one offered by Shane Cashman where he said Jeremy Boreing is Ted Bundy doing a Mr. Rogers (Fred Rogers) impression. And he's now just sort of pretending like he has a podcast when in reality he's just hosting any person or topic that runs counter to what I say.”
+
+</details>
+
+- **[Bobby Sausalito](/entities/person-bobby-sausalito.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:33:12](/episodes/ep-6XfDqKTdFKg.md#t-00-33-12): “I hope you don't have a lot of plans tomorrow because the Blake Neff germs boring (Jeremy Boreing; satirical nickname) collab is about to drop. I don't think I've ever been as excited for a boring, predictable podcast to drop in my life. And since it's not out yet and you know I'm about to cover that, I'm going to make some prediction. Before we do that, so there's a reason Charlie (Charlie Kirk) called him his secret weapon. Secret weapon. Brother, a weapon is supposed to do damage to the other person. not yourself. He's a weapon for destroying Turning Point USA. But before the—yo, before the predictions, I just, when I saw this photo, I could—I was like, I can't. There's too many jokes all over the fences. But how did—I can't even understand how this is real. This is like totally giving the energy of, like, when a dude walks into the room, and these—this is, I guess, their two angry dads: what are your intentions with my son, sir?”
 
 </details>
 
 </details>
 
 <details>
-<summary>Endorsed (1)</summary>
+<summary>Endorsed (2)</summary>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:13:00](/episodes/ep-r1PS67aRmcA.md#t-00-13-00): “Here's a headline because the Huffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny."”
+
+</details>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:48](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48): “That he's now partnering with anyone who will say anything negative about me. He doesn't even care. I mean, he's referred to Laura Loomer as a national treasure in this pursuit.”
 
 </details>
 
@@ -535,9 +657,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
 
 </details>
 
@@ -547,13 +671,15 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Former Ceo Of (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 
 </details>
 
@@ -570,10 +696,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:32:22](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11): “I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 
 </details>
 
@@ -631,6 +759,25 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Interviewed (2)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:08:12](/episodes/ep-O4Zw3bCALjU.md#t-00-07-37): “Anyway, there will never be a better description provided of him other than the one offered by Shane Cashman where he said Jeremy Boreing is Ted Bundy doing a Mr. Rogers (Fred Rogers) impression. And he's now just sort of pretending like he has a podcast when in reality he's just hosting any person or topic that runs counter to what I say. I could say anything. I could say like, hey kids, don't drink bleach. And he would be like, Clorox, you know, he's out there. So naturally, he hosted Frank Turek on his show and he keeps trying to like insert himself in the Charlie Kirk narrative. He was never friends with Charlie Kirk. He didn't know Charlie Kirk. And he's now talking about how he's going to be touring with Turning Point USA Faith and Frank Turek was on the show and addresses this rather major discrepancy between him and Brian Harpole on the rather significant matter of whether or not CPR was given to Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:07](/episodes/ep-6XfDqKTdFKg.md#t-00-37-07): “You were sort of instrumental in pushing the envelope of what was acceptable to say on the right. ... I support maximal free speech. I have never once said YouTube should ban Candace (Candace Owens). ... Aren't we dealing with actual defamation? ... She is a malicious, hateful, dishonest, destructive actor in American life. ... Does it just fame clicks, likes, ... Bobby (Bobby Sausalito)! ... money? ... She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible. ... He is siding with some of the worst voices in the country right now. ... The last communication I had with Tucker (Tucker Carlson) was, Tucker (Tucker Carlson), just privately, can you ask your brother to just stop pushing this Candace (Candace Owens) stuff? ... Is all of this the result of the effort to bring more speech to the table? to the public square.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Married To (1)</summary>
 
 - **[Ann Hummel Boreing](/entities/person-ann-hummel-boreing.md)**
@@ -646,9 +793,10 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Sued (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... And when you sued me for that, for standing up for Brett Cooper,”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:40:01](/episodes/ep-6XfDqKTdFKg.md#t-00-40-01): “He's just, he's—he's copping on. He looks ill, like he's ill with this fixation. Bro literally took a break to get a—he sued me across years when Charlie (Charlie Kirk) was alive, fired me, sued me, took a break to get a facelift, botched his ear, botched his right ear, which I can't stand to look at, came back”
 
 </details>
 
@@ -674,7 +822,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
+<summary>Referenced By (26)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -690,10 +838,24 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:38:49](/episodes/ep-6XfDqKTdFKg.md#t-00-38-49): “Candace Owens has engaged in the worst act of public defamation probably in American history. She has slandered Erika (Erika Kirk), TPUSA, Mikey McCoy (Michael McCoy), ... Not dramatic at ... you. ... all. ... Andrew Kolvet, the state of Israel, the state of France, ... The ... Egyptian airlines. ... macrons, everybody. ... If Candace (Candace Owens) is not guilty of defamation, and the bar for defamation is very high in America, especially with public figures, freedom of speech allows us to challenge our government, allows us to express our beliefs. ... This is so ... It ... deranged. ... makes it easy to slander people and get away with it compared to other countries, and particularly famous people or government officials, because the logic is, well, you need maximal free speech. Toward people who would have the resources or the power to be able to prevent you from having that free speech. And so in the case of defamation of a public figure, you have to show malice ... Hmm. ... and reckless disregard for truth and or I'm not sure which. But certainly Candace (Candace Owens) has crossed all those lines. There's no such thing as defamation and we should get rid of all defamation law if Candace (Candace Owens) isn't guilty of defamation for her treatment of. Particularly Erika (Erika Kirk) and TPUSA and Mikey (Michael McCoy) and you and et cetera, et cetera, et cetera.”
+
+</details>
+
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02): “Okay, top comments from yesterday's episode regarding that bizarrely gay photo of Blake Neff with Jeremy (person pictured with Blake Neff; surname unverified). Pamela (commenter; surname unverified) wrote, looks like Blake (Blake Neff) and Jeremy (person pictured with Blake Neff; surname unverified) are sending out Christmas cards this year.”
 
 </details>
 
@@ -705,21 +867,40 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:28:09](/episodes/ep-k1b1NDCrNFs.md#t-00-27-59): “The former CEO of Daily Wire, you will recall he got forced out of the company, generally speaking, because he's a deranged psycho.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:43:47](/episodes/ep-sKuYLNx3iRo.md#t-00-43-14): “Jeremy Boreing constantly needing to fulfill his childhood fantasies. Now, he tried to scrape back some of that price tag by getting rid of me.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:07:07](/episodes/ep-EtLHqDbxqks.md#t-01-07-07): “OK, Jeremy Boring lied through his teeth. So who on Ben (Ben Shapiro)'s IDF Israeli Mossad security apparatus team?”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute. ... We don't, I genuinely can't even engage. I just find him to be just spastic, honestly. Jason Bourne's wife (commenter handle; identity unverified).”
+
+</details>
+
+- **[Shane Cashman](/entities/person-shane-cashman.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:08:12](/episodes/ep-O4Zw3bCALjU.md#t-00-07-37): “Anyway, there will never be a better description provided of him other than the one offered by Shane Cashman where he said Jeremy Boreing is Ted Bundy doing a Mr. Rogers (Fred Rogers) impression. And he's now just sort of pretending like he has a podcast when in reality he's just hosting any person or topic that runs counter to what I say.”
+
+</details>
+
+- **[Bobby Sausalito](/entities/person-bobby-sausalito.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:33:12](/episodes/ep-6XfDqKTdFKg.md#t-00-33-12): “I hope you don't have a lot of plans tomorrow because the Blake Neff germs boring (Jeremy Boreing; satirical nickname) collab is about to drop. I don't think I've ever been as excited for a boring, predictable podcast to drop in my life. And since it's not out yet and you know I'm about to cover that, I'm going to make some prediction. Before we do that, so there's a reason Charlie (Charlie Kirk) called him his secret weapon. Secret weapon. Brother, a weapon is supposed to do damage to the other person. not yourself. He's a weapon for destroying Turning Point USA. But before the—yo, before the predictions, I just, when I saw this photo, I could—I was like, I can't. There's too many jokes all over the fences. But how did—I can't even understand how this is real. This is like totally giving the energy of, like, when a dude walks into the room, and these—this is, I guess, their two angry dads: what are your intentions with my son, sir?”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:07:13](/episodes/ep-O4Zw3bCALjU.md#t-00-07-13): “There's—this is just what we could fit, could fit onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Candace (Candace Owens)'s Receipts,' 'Why Women Believe Candace (Candace Owens),' 'One of the Darkest Things I've Ever Seen,' 'Candace (Candace Owens) Has Nothing but False Accusations,' 'Candace (Candace Owens) Gave Off Massive Red Flags.' He's kind of—his new imagination...”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:31:41](/episodes/ep-6XfDqKTdFKg.md#t-00-31-28): “This is a real tweet. It's an aspirational level of derangement. He wrote this. She does this largely on purpose. All Candace (Candace Owens) cares about is fame and money. Nothing is beneath her. And everything that causes people to talk more about her is a tool in her arsenal. So I...”
 
 </details>
 
@@ -737,10 +918,26 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** fired by this
+- **[Laura Loomer](/entities/person-laura-loomer.md)** endorsed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:48](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48): “That he's now partnering with anyone who will say anything negative about me. He doesn't even care. I mean, he's referred to Laura Loomer as a national treasure in this pursuit.”
+
+</details>
+
+- **[Heretics (Andrew Gold podcast)](/entities/work-heretics-andrew-gold.md)** featured this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** fired by this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
 
 </details>
 
@@ -762,10 +959,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:32:22](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11): “I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 
 </details>
 
@@ -791,13 +990,15 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** has former CEO this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 
 </details>
 
@@ -808,10 +1009,25 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** sued by this
+- **[Frank Turek](/entities/person-frank-turek.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:08:12](/episodes/ep-O4Zw3bCALjU.md#t-00-07-37): “Anyway, there will never be a better description provided of him other than the one offered by Shane Cashman where he said Jeremy Boreing is Ted Bundy doing a Mr. Rogers (Fred Rogers) impression. And he's now just sort of pretending like he has a podcast when in reality he's just hosting any person or topic that runs counter to what I say. I could say anything. I could say like, hey kids, don't drink bleach. And he would be like, Clorox, you know, he's out there. So naturally, he hosted Frank Turek on his show and he keeps trying to like insert himself in the Charlie Kirk narrative. He was never friends with Charlie Kirk. He didn't know Charlie Kirk. And he's now talking about how he's going to be touring with Turning Point USA Faith and Frank Turek was on the show and addresses this rather major discrepancy between him and Brian Harpole on the rather significant matter of whether or not CPR was given to Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:07](/episodes/ep-6XfDqKTdFKg.md#t-00-37-07): “You were sort of instrumental in pushing the envelope of what was acceptable to say on the right. ... I support maximal free speech. I have never once said YouTube should ban Candace (Candace Owens). ... Aren't we dealing with actual defamation? ... She is a malicious, hateful, dishonest, destructive actor in American life. ... Does it just fame clicks, likes, ... Bobby (Bobby Sausalito)! ... money? ... She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible. ... He is siding with some of the worst voices in the country right now. ... The last communication I had with Tucker (Tucker Carlson) was, Tucker (Tucker Carlson), just privately, can you ask your brother to just stop pushing this Candace (Candace Owens) stuff? ... Is all of this the result of the effort to bring more speech to the table? to the public square.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** sued by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... And when you sued me for that, for standing up for Brett Cooper,”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:40:01](/episodes/ep-6XfDqKTdFKg.md#t-00-40-01): “He's just, he's—he's copping on. He looks ill, like he's ill with this fixation. Bro literally took a break to get a—he sued me across years when Charlie (Charlie Kirk) was alive, fired me, sued me, took a break to get a facelift, botched his ear, botched his right ear, which I can't stand to look at, came back”
 
 </details>
 
@@ -820,7 +1036,24 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jeremy Boreing (16)</strong></summary>
+<summary><strong class="section-title">Statements by Jeremy Boreing (20)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4)</summary>
+
+- [00:31:41](/episodes/ep-6XfDqKTdFKg.md#t-00-31-28) [○] (Opinion) ["Boreing wrote that Owens largely mispronounces things on purpose, that all she c..."](/statements/statement-71af515f4d6a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:38:49](/episodes/ep-6XfDqKTdFKg.md#t-00-38-49) [○] (Accusation) ["In a separate podcast clip, Boreing says Owens probably committed the worst act ..."](/statements/statement-37e04823cd93.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:39:07](/episodes/ep-6XfDqKTdFKg.md#t-00-39-07) [○] (Accusation) ["In a separate podcast clip, Boreing describes America’s high bar for public-figu..."](/statements/statement-8ad4bed59473.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:39:48](/episodes/ep-6XfDqKTdFKg.md#t-00-39-41) [○] (Opinion) ["In a separate podcast clip, Boreing says defamation law should be abolished if O..."](/statements/statement-de8119e0ce24.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (7)</summary>
@@ -893,7 +1126,61 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeremy Boreing (32)</strong></summary>
+<summary><strong class="section-title">Statements about Jeremy Boreing (45)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02) (Claim) **Candace Owens**: ["Owens says the photograph of Blake Neff with Jeremy Boreing shown in h..."](/statements/statement-fbc4c9f41b40.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (8)</summary>
+
+- [00:30:12](/episodes/ep-6XfDqKTdFKg.md#t-00-30-05) (Accusation) **Candace Owens**: ["Owens says Jeremy Boreing’s podcast has pages of thumbnails about her ..."](/statements/statement-c4ca89174fd9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:32:34](/episodes/ep-6XfDqKTdFKg.md#t-00-32-34) (Claim) **Candace Owens**: ["Owens says Boreing announced an hours-long podcast with Blake Neff."](/statements/statement-876c10f1ea9f.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:34:59](/episodes/ep-6XfDqKTdFKg.md#t-00-34-59) (Prediction) **Bobby Sausalito** (via quoted speech): ["Sausalito predicts most of the Boreing–Neff interview will be a hate s..."](/statements/statement-de180c549ecb.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:35:28](/episodes/ep-6XfDqKTdFKg.md#t-00-35-09) (Prediction) **Bobby Sausalito** (via quoted speech): ["Sausalito predicts with absolute certainty that the Boreing–Neff inter..."](/statements/statement-a45c8dc84ab7.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:35:50](/episodes/ep-6XfDqKTdFKg.md#t-00-35-50) (Opinion) **Bobby Sausalito** (via quoted speech): ["Sausalito says Boreing wants to keep being paid by Turning Point, need..."](/statements/statement-a3036962343c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:13](/episodes/ep-6XfDqKTdFKg.md#t-00-36-13) (Opinion) **Candace Owens**: ["Owens disagrees with Sausalito’s money explanation, saying Boreing doe..."](/statements/statement-eabdf225ae31.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:38:10](/episodes/ep-6XfDqKTdFKg.md#t-00-38-00) (Accusation) **Candace Owens**: ["Owens says Boreing privately sued her for years and now brings guests ..."](/statements/statement-75166e0e1986.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:55:20](/episodes/ep-6XfDqKTdFKg.md#t-00-54-47) (Claim) **Candace Owens**: ["Owens says she has ongoing lawsuits and could face more if Jeremy Bore..."](/statements/statement-e487acf7aae8.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4)</summary>
+
+- [00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03) (Accusation) **Candace Owens**: ["Owens alleged that her former employer Jeremy Boreing had stalked her ..."](/statements/statement-49c53d0381c8.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:06:26](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03) (Claim) **Candace Owens** (via paraphrase): ["Owens said Jeremy Boreing publicly declared that he would be content i..."](/statements/statement-a11ad1ee2489.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:06:48](/episodes/ep-O4Zw3bCALjU.md#t-00-06-48) (Claim) **Candace Owens** (via paraphrase): ["Owens said Jeremy Boreing referred to Laura Loomer as a national treas..."](/statements/statement-ad6089ec187a.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:08:37](/episodes/ep-O4Zw3bCALjU.md#t-00-08-21) (Claim) **Candace Owens**: ["Owens said Jeremy Boreing was never friends with Charlie Kirk, did not..."](/statements/statement-46d23f7171ec.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

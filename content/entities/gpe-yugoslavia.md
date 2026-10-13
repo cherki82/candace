@@ -1,6 +1,6 @@
 ---
 title: "Yugoslavia"
-description: "Yugoslavia (Places) - 1 mention"
+description: "Yugoslavia (Places) - 2 mentions"
 id: "gpe-yugoslavia"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Kingdom of Serbia/Yugoslavia - Countries - Office of the Historian](htt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-yugoslavia-t-00-47-50">2026-06-26 · 00:47:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-yugoslavia-t-00-47-50">2026-06-26 · 00:47:58</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-yugoslavia-t-00-41-45">2026-09-18 · 00:42:02</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Kingdom of Serbia/Yugoslavia - Countries - Office of the Historian](htt
 <p>Highest activity: <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-yugoslavia-t-00-47-50">EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-yugoslavia-t-00-47-50" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-yugoslavia-t-00-41-45" style="--pulse-height:100%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-yugoslavia-t-00-47-50) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-yugoslavia-t-00-41-45) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Kingdom of Serbia/Yugoslavia - Countries - Office of the Historian](htt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:42:02](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-yugoslavia-t-00-41-45)**
+> "more Yugoslavia, what was going on with that war, as well as many..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>

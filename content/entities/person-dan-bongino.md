@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 45 mentions"
+description: "Dan Bongino (People) - 48 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10">2025-10-06 · 00:38:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32">2026-08-14 · 02:36:32</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-dan-bongino-t-00-53-24">2026-10-05 · 00:53:24</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -49,6 +49,9 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-dan-bongino-t-00-15-33" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-dan-bongino-t-01-55-22" style="--pulse-height:11%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-bongino-t-01-00-03" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-bongino-t-00-46-15" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-dan-bongino-t-00-53-24" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +71,9 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-dan-bongino-t-00-15-33) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-dan-bongino-t-01-55-22) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-bongino-t-01-00-03) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-bongino-t-00-46-15) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-dan-bongino-t-00-53-24) | 1 |
 
 </details>
 </section>
@@ -79,7 +85,31 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:53:24](/episodes/ep-ms5ChhZegRg.md#ent-person-dan-bongino-t-00-53-24)**
+> "...nt like how could Kash Patel, Dan Bongino, people talking about how they believed in Dan Bo..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:46:37](/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-bongino-t-00-46-15)**
+> "And suddenly, Kash Patel and Dan Bongino, they found the guy and it's an autistic black ma..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:00:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-bongino-t-01-00-03)**
+> "...trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -329,9 +359,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <summary>Friend Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-03): “Charlie Kirk was a friend of Dan Bongino's.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:00:33](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03): “I would love to see that. And I'm going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys.”
 
 </details>
 
@@ -382,9 +413,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-03): “Charlie Kirk was a friend of Dan Bongino's.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:00:33](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03): “I would love to see that. And I'm going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys.”
 
 </details>
 
@@ -443,7 +475,23 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Bongino (13)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Bongino (15)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:46:37](/episodes/ep-q4m-kGzvwjw.md#t-00-46-15) (Claim) **Candace Owens**: ["Owens said Brian J. Cole Jr. was arrested five years after January 6, ..."](/statements/statement-76eb643e021e.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:00:27](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03) (Opinion) **Charlie Kirk** (via quoted speech): ["Kirk said he would love the DOJ to move to unseal grand jury testimony..."](/statements/statement-3999622dbf71.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>

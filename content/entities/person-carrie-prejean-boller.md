@@ -1,6 +1,6 @@
 ---
 title: "Carrie Prejean Boller"
-description: "Carrie Prejean Boller (People) - 20 mentions"
+description: "Carrie Prejean Boller (People) - 21 mentions"
 id: "person-carrie-prejean-boller"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24">2026-02-09 · 00:31:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-carrie-prejean-boller-t-00-08-25">2026-07-23 · 00:08:25</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-carrie-prejean-boller-t-00-05-34">2026-10-06 · 00:05:51</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -45,6 +45,7 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-carrie-prejean-boller-t-00-06-13" style="--pulse-height:29%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-carrie-prejean-boller-t-00-08-46" style="--pulse-height:14%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-carrie-prejean-boller-t-00-08-25" style="--pulse-height:14%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-carrie-prejean-boller-t-00-05-34" style="--pulse-height:14%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-carrie-prejean-boller-t-00-06-13) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-carrie-prejean-boller-t-00-08-46) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-carrie-prejean-boller-t-00-08-25) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-carrie-prejean-boller-t-00-05-34) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:05:51](/episodes/ep-0pSAhaAZz1w.md#ent-person-carrie-prejean-boller-t-00-05-34)**
+> "I remember turning to Carrie Prejean Boller, who was traveling with me and my family at the t..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>

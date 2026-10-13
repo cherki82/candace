@@ -1,6 +1,6 @@
 ---
 title: "William P. Barr"
-description: "William P. Barr (People) - 1 mention"
+description: "William P. Barr (People) - 2 mentions"
 id: "person-william-barr"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Attorney General: William P. Barr | U.S. Department of Justice](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-william-barr-t-00-32-38">2026-03-10 · 00:32:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-william-barr-t-00-32-38">2026-03-10 · 00:32:38</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-william-barr-t-00-30-33">2026-10-01 · 00:30:54</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,12 +37,14 @@ Source: [Attorney General: William P. Barr | U.S. Department of Justice](https:/
 <p>Highest activity: <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-william-barr-t-00-32-38">Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-william-barr-t-00-32-38" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-william-barr-t-00-30-33" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-william-barr-t-00-32-38) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-william-barr-t-00-30-33) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Attorney General: William P. Barr | U.S. Department of Justice](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:30:54](/episodes/ep-q4m-kGzvwjw.md#ent-person-william-barr-t-00-30-33)**
+> "We discussed Bill Barr's contributions and the Dalton School in New York t..."
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 270 mentions"
+description: "Utah Valley University (Organizations) - 435 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,100 +27,113 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-35-24">2026-09-09 · 00:35:50</a></strong></div>
-<div><span>Episodes</span><strong>81</strong></div>
-<div><span>Mentions</span><strong>270</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-46-41">2026-10-08 · 00:46:50</a></strong></div>
+<div><span>Episodes</span><strong>94</strong></div>
+<div><span>Mentions</span><strong>435</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>90</strong></div>
-<div><span>Relationships</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>201</strong></div>
+<div><span>Relationships</span><strong>49</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-university-t-00-17-12">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-01-22">WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394</a> (47 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50" style="--pulse-height:44%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-org-utah-valley-university-t-00-08-44" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-valley-university-t-00-06-08" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-utah-valley-university-t-00-01-20" style="--pulse-height:22%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-utah-valley-university-t-00-51-26" style="--pulse-height:11%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-utah-valley-university-t-00-18-36" style="--pulse-height:33%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 3 mentions" title="2025-09-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-utah-valley-university-t-00-00-32" style="--pulse-height:44%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 4 mentions" title="2025-09-23 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-utah-valley-university-t-00-33-34" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-utah-valley-university-t-00-06-10" style="--pulse-height:78%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 7 mentions" title="2025-09-29 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-utah-valley-university-t-00-29-25" style="--pulse-height:11%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-utah-valley-university-t-00-09-06" style="--pulse-height:44%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 4 mentions" title="2025-10-01 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-utah-valley-university-t-00-13-04" style="--pulse-height:78%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 7 mentions" title="2025-10-02 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-utah-valley-university-t-00-42-07" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-utah-valley-university-t-00-11-18" style="--pulse-height:56%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-utah-valley-university-t-00-15-22" style="--pulse-height:22%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-utah-valley-university-t-00-32-11" style="--pulse-height:89%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 8 mentions" title="2025-10-28 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-utah-valley-university-t-00-05-03" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-utah-valley-university-t-00-48-18" style="--pulse-height:22%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-university-t-00-17-12" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 9 mentions" title="2025-11-04 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-utah-valley-university-t-00-00-36" style="--pulse-height:44%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-utah-valley-university-t-00-24-22" style="--pulse-height:67%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-utah-valley-university-t-00-02-01" style="--pulse-height:33%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-university-t-00-19-36" style="--pulse-height:56%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-utah-valley-university-t-00-43-44" style="--pulse-height:11%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-utah-valley-university-t-00-13-59" style="--pulse-height:44%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-utah-valley-university-t-00-10-35" style="--pulse-height:67%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-utah-valley-university-t-00-16-06" style="--pulse-height:78%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-17-38" style="--pulse-height:22%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-utah-valley-university-t-00-00-57" style="--pulse-height:78%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 7 mentions" title="2025-12-01 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-utah-valley-university-t-00-17-39" style="--pulse-height:22%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-utah-valley-university-t-00-06-37" style="--pulse-height:44%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 4 mentions" title="2025-12-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-utah-valley-university-t-00-19-27" style="--pulse-height:78%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 7 mentions" title="2025-12-05 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-utah-valley-university-t-00-11-55" style="--pulse-height:11%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-utah-valley-university-t-00-16-51" style="--pulse-height:67%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-11-07" style="--pulse-height:56%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-utah-valley-university-t-00-10-01" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-utah-valley-university-t-00-13-35" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-org-utah-valley-university-t-00-31-37" style="--pulse-height:22%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-utah-valley-university-t-00-25-07" style="--pulse-height:22%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-utah-valley-university-t-00-16-07" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-org-utah-valley-university-t-00-25-22" style="--pulse-height:22%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-utah-valley-university-t-00-04-15" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-utah-valley-university-t-00-11-50" style="--pulse-height:56%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39" style="--pulse-height:44%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-02-41" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-utah-valley-university-t-00-03-37" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-07" style="--pulse-height:56%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43" style="--pulse-height:22%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-03" style="--pulse-height:44%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-utah-valley-university-t-00-31-11" style="--pulse-height:22%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-utah-valley-university-t-00-22-58" style="--pulse-height:22%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-utah-valley-university-t-00-03-39" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-utah-valley-university-t-00-15-50" style="--pulse-height:22%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-utah-valley-university-t-00-10-28" style="--pulse-height:67%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-utah-valley-university-t-00-14-51" style="--pulse-height:22%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-utah-valley-university-t-00-12-09" style="--pulse-height:22%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-utah-valley-university-t-00-08-45" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-utah-valley-university-t-00-28-30" style="--pulse-height:11%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-utah-valley-university-t-00-23-47" style="--pulse-height:11%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-utah-valley-university-t-00-01-43" style="--pulse-height:11%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-utah-valley-university-t-00-21-06" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22" style="--pulse-height:67%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 6 mentions" title="2026-07-31 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-utah-valley-university-t-00-10-13" style="--pulse-height:44%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 4 mentions" title="2026-08-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-utah-valley-university-t-00-09-26" style="--pulse-height:78%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 7 mentions" title="2026-08-04 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-utah-valley-university-t-00-18-53" style="--pulse-height:22%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-utah-valley-university-t-00-02-44" style="--pulse-height:11%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-utah-valley-university-t-00-44-13" style="--pulse-height:22%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-utah-valley-university-t-00-05-31" style="--pulse-height:44%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 4 mentions" title="2026-08-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-org-utah-valley-university-t-00-11-57" style="--pulse-height:11%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08" style="--pulse-height:22%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37" style="--pulse-height:22%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-48-55" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-20-54" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50" style="--pulse-height:9%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-utah-valley-university-t-00-08-44" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-valley-university-t-00-06-08" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-utah-valley-university-t-00-01-20" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-utah-valley-university-t-00-51-26" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-utah-valley-university-t-00-18-36" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 3 mentions" title="2025-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-utah-valley-university-t-00-00-32" style="--pulse-height:9%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 4 mentions" title="2025-09-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-utah-valley-university-t-00-33-34" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-utah-valley-university-t-00-06-10" style="--pulse-height:15%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 7 mentions" title="2025-09-29 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-utah-valley-university-t-00-29-25" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-utah-valley-university-t-00-09-06" style="--pulse-height:9%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 4 mentions" title="2025-10-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-utah-valley-university-t-00-13-04" style="--pulse-height:15%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 7 mentions" title="2025-10-02 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-utah-valley-university-t-00-42-07" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-utah-valley-university-t-00-11-18" style="--pulse-height:11%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-utah-valley-university-t-00-15-22" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-utah-valley-university-t-00-32-11" style="--pulse-height:17%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 8 mentions" title="2025-10-28 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-utah-valley-university-t-00-05-03" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-utah-valley-university-t-00-48-18" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-university-t-00-17-12" style="--pulse-height:19%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 9 mentions" title="2025-11-04 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-utah-valley-university-t-00-00-36" style="--pulse-height:9%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-utah-valley-university-t-00-24-22" style="--pulse-height:13%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-utah-valley-university-t-00-02-01" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-university-t-00-19-36" style="--pulse-height:11%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-utah-valley-university-t-00-43-44" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-utah-valley-university-t-00-13-59" style="--pulse-height:9%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-utah-valley-university-t-00-10-35" style="--pulse-height:13%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-utah-valley-university-t-00-16-06" style="--pulse-height:15%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-17-38" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-utah-valley-university-t-00-00-57" style="--pulse-height:15%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 7 mentions" title="2025-12-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-utah-valley-university-t-00-17-39" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-utah-valley-university-t-00-06-37" style="--pulse-height:9%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 4 mentions" title="2025-12-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-utah-valley-university-t-00-19-27" style="--pulse-height:15%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 7 mentions" title="2025-12-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-utah-valley-university-t-00-11-55" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-utah-valley-university-t-00-16-51" style="--pulse-height:13%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-11-07" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-utah-valley-university-t-00-10-01" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-utah-valley-university-t-00-13-35" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-utah-valley-university-t-00-31-37" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-utah-valley-university-t-00-25-07" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-utah-valley-university-t-00-16-07" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-utah-valley-university-t-00-25-22" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-utah-valley-university-t-00-04-15" style="--pulse-height:13%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-utah-valley-university-t-00-11-50" style="--pulse-height:11%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39" style="--pulse-height:9%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-02-41" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-utah-valley-university-t-00-03-37" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-07" style="--pulse-height:11%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-03" style="--pulse-height:9%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-utah-valley-university-t-00-31-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-utah-valley-university-t-00-22-58" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-utah-valley-university-t-00-03-39" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-utah-valley-university-t-00-15-50" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-utah-valley-university-t-00-10-28" style="--pulse-height:13%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-utah-valley-university-t-00-14-51" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-utah-valley-university-t-00-12-09" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-utah-valley-university-t-00-08-45" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-utah-valley-university-t-00-28-30" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-utah-valley-university-t-00-23-47" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-utah-valley-university-t-00-01-43" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-utah-valley-university-t-00-21-06" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22" style="--pulse-height:13%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 6 mentions" title="2026-07-31 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-utah-valley-university-t-00-10-13" style="--pulse-height:9%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 4 mentions" title="2026-08-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-utah-valley-university-t-00-09-26" style="--pulse-height:15%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 7 mentions" title="2026-08-04 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-utah-valley-university-t-00-18-53" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-utah-valley-university-t-00-02-44" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-utah-valley-university-t-00-44-13" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-utah-valley-university-t-00-05-31" style="--pulse-height:9%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 4 mentions" title="2026-08-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-utah-valley-university-t-00-11-57" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03" style="--pulse-height:19%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-48-55" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-20-54" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-utah-valley-university-t-00-16-06" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-01-51" style="--pulse-height:62%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 29 mentions" title="2026-09-16 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-01-29" style="--pulse-height:30%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 14 mentions" title="2026-09-18 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-06-04" style="--pulse-height:28%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 13 mentions" title="2026-09-21 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-valley-university-t-00-17-38" style="--pulse-height:11%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 5 mentions" title="2026-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-utah-valley-university-t-00-01-15" style="--pulse-height:9%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 4 mentions" title="2026-09-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-utah-valley-university-t-00-01-40" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-01-22" style="--pulse-height:100%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 47 mentions" title="2026-09-25 · 47 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-00-44" style="--pulse-height:13%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 6 mentions" title="2026-09-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-04-23" style="--pulse-height:32%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 15 mentions" title="2026-10-01 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-00-01" style="--pulse-height:26%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 12 mentions" title="2026-10-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-00-01" style="--pulse-height:23%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 11 mentions" title="2026-10-07 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -207,6 +220,19 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44) | 3 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-48-55) | 3 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-20-54) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-utah-valley-university-t-00-16-06) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-01-51) | 29 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-01-29) | 14 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-06-04) | 13 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-valley-university-t-00-17-38) | 5 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-utah-valley-university-t-00-01-15) | 4 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-utah-valley-university-t-00-01-40) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-01-22) | 47 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-00-44) | 6 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-04-23) | 15 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-00-01) | 12 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-00-01) | 11 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13) | 4 |
 
 </details>
 </section>
@@ -218,7 +244,567 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (270)</strong></summary>
+<summary><strong class="section-title">Raw mentions (435)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (4 mentions)</summary>
+
+**[00:19:46](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13)**
+> "...l cars are left behind at the UVU scene."
+
+**[00:46:26](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-45-55)**
+> "... introducing the president of UVU, Caleb Chilcutt, at AMFEST 2025."
+
+**[00:46:41](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-46-41)**
+> "...nior and chapter president at Utah Valley University, has been involved with Turning Point USA since 2..."
+
+**[00:46:50](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-46-41)**
+> "...irk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (11 mentions)</summary>
+
+**[00:00:01](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-00-01)**
+> "...there's some movement over at UVU."
+
+**[00:23:58](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-23-48)**
+> "...ments, read resignations from UVU, and what they could mean."
+
+**[00:27:02](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-26-45)**
+> "...night from people who work at UVU informing me that the rumor was, which I was able..."
+
+**[00:29:02](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-28-30)**
+> "...e Kirk) will be set up at the Utah Valley."
+
+**[00:30:21](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-30-09)**
+> "Now that we have the UVU independent review and it confirmed what I told y..."
+
+**[00:32:09](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-31-59)**
+> "...arlie Kirk) will be set up at Utah Valley and said it would be nice to either have it contr..."
+
+**[00:33:35](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-33-29)**
+> "... correct the record since the UVU independent review has dropped. Nope. They just t..."
+
+**[00:34:30](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-33-59)**
+> "... from the report, that is the UVU Emergency Management Director or was the UVU Emer..."
+
+**[00:35:22](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-35-22)**
+> "...ons, including Robin Ebmeyer, UVU's director of emergency management safety. So thi..."
+
+**[00:36:57](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-36-42)**
+> "...general mood, according to my UVU sources, is that both of these individuals have b..."
+
+**[00:37:11](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-36-42)**
+> "... walking on eggshells over at UVU, but they do not like the general direction that ..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (12 mentions)</summary>
+
+**[00:00:38](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-00-01)**
+> "...eant to distract you from the UVU independent review."
+
+**[00:18:58](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-18-40)**
+> "...o will not touch or cover the UVU independent review, the same people who are not a..."
+
+**[00:21:58](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-21-29)**
+> "... is because of the release of UVU's independent review."
+
+**[00:24:23](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-24-05)**
+> "I found it curious that the UVU Independent Review declined to name him. It was a..."
+
+**[00:24:39](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-24-39)**
+> "...all. They named Caleb Jilkut (UVU Turning Point USA chapter president; transcript n..."
+
+**[00:25:35](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-25-23)**
+> "...st, to jog memory of what the UVU review told us about this individual, it reads, q..."
+
+**[00:27:53](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-27-53)**
+> "..., just as is described in the UVU report."
+
+**[00:29:31](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-29-19)**
+> "...e. And of course, we have the UVU report who was informing us that it was a captain..."
+
+**[00:34:28](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-33-55)**
+> "...we can all obviously read the UVU independent review with our eyes. We can comprehe..."
+
+**[00:35:22](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-35-22)**
+> "...Jeff Long when he returned to UVU. And apparently Chief Long (Jeff Long) was very u..."
+
+**[00:35:55](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-35-55)**
+> "So I went back to UVU in March of 2026. So this is what, six, seven mon..."
+
+**[00:36:11](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-35-55)**
+> "...e head of the police there at UVU, the chief of police, he comes up to me, comes up..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (15 mentions)</summary>
+
+**[00:04:23](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-04-23)**
+> "...ings, especially now with the UVU independent review, they're realizing that they j..."
+
+**[00:09:13](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-09-13)**
+> "...ely, though, like I said, the UVU independent review has further disgusted many emp..."
+
+**[00:09:21](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-09-13)**
+> "...ate that Y-Refi hand-selected Utah Valley University,"
+
+**[00:11:37](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-11-13)**
+> "...nd Dylan Erickson were all at UVU on the day of Charlie (Charlie Kirk)'s assassinat..."
+
+**[00:21:24](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-21-01)**
+> "...efore the event kicked off at UVU."
+
+**[00:21:33](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-21-01)**
+> "...eo opportunity, of course, at UVU. And email to all attendees."
+
+**[00:26:03](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-25-50)**
+> "...rican involvement. June 17th, UVU hosts a fake drill simulation with crisis actors ..."
+
+**[00:27:13](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-27-13)**
+> "...10th, TPUSA headquarters asks UVU Club President Caleb Chilcutt to book Charlie (Ch..."
+
+**[00:31:09](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-31-09)**
+> "...y decide to hold the event at Utah Valley University."
+
+**[00:36:50](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-36-17)**
+> "...s out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for..."
+
+**[00:38:22](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-38-22)**
+> "... Security planning began, but UVU, we've now learned, says that they were not infor..."
+
+**[00:38:45](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-38-45)**
+> "...25th, that is going to be the UVU major events meeting on Microsoft Teams. The scho..."
+
+**[00:39:09](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-38-45)**
+> "And yet UVU police chief Jeff Long is asking for a contact wh..."
+
+**[00:39:41](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-00-39-21)**
+> "... he's going to be speaking at UVU in the courtyard."
+
+**[01:06:25](/episodes/ep-q4m-kGzvwjw.md#ent-org-utah-valley-university-t-01-06-11)**
+> "And thank you to that UVU independent review, Lake Forest Group, And also t..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (6 mentions)</summary>
+
+**[00:00:44](/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-00-44)**
+> "...s have been out saying it was UVU's fault."
+
+**[00:34:19](/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-33-49)**
+> "...of attacks dropping since the UVU independent review."
+
+**[00:36:47](/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-36-41)**
+> "...so it was in the air when the UVU independent review was coming out that turning po..."
+
+**[00:37:01](/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-36-41)**
+> "... so we had told you that this UVU independent review was coming."
+
+**[00:37:13](/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-36-41)**
+> "...ppily filed. We intend to sue UVU and then we learned they didn't even participate ..."
+
+**[00:55:01](/episodes/ep-5TTkMa49qj8.md#ent-org-utah-valley-university-t-00-54-33)**
+> "...did searching for keys writes UVU did more to prevent this tragedy than Charlie (Ch..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:01:54](/episodes/ep-_Sq5RqP27NY.md#ent-org-utah-valley-university-t-00-01-40)**
+> "...o was huddled by the car near UVU club president Caleb Chillicutt (UVU club preside..."
+
+**[00:02:07](/episodes/ep-_Sq5RqP27NY.md#ent-org-utah-valley-university-t-00-01-40)**
+> "... said that’s actually not the UVU club president. He was wearing red that day. Obvi..."
+
+**[00:18:46](/episodes/ep-_Sq5RqP27NY.md#ent-org-utah-valley-university-t-00-18-20)**
+> "...mately seven minutes from the Utah Valley University."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (47 mentions)</summary>
+
+**[00:01:52](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-01-22)**
+> "...here they say the security at UVU is to blame."
+
+**[00:03:21](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-03-21)**
+> "...ssentially almost immediately UVU reached out to a third party, the Lake Forest Gro..."
+
+**[00:05:12](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-04-44)**
+> "And we are told that UVU fully cooperated with the review, but guess who d..."
+
+**[00:06:26](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-06-05)**
+> "...od (Dan Flood) was present at UVU on September 10th and had a phone and text commun..."
+
+**[00:07:17](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-06-45)**
+> "...d out to the then head of the UVU TPUSA club who had invited Charlie Kirk to speak ..."
+
+**[00:09:43](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-09-43)**
+> "... did any employee or agent of UVU act in bad faith or in willful and wanton disrega..."
+
+**[00:10:02](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-09-43)**
+> "...ces that warrant attention as UVU considers how to..."
+
+**[00:10:17](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-10-17)**
+> ".... Our assessment is nobody at UVU acted in bad faith or in disregard for the safety..."
+
+**[00:11:32](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-11-32)**
+> "Even though UVU staff members raised concerns, including concerns..."
+
+**[00:11:52](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-11-32)**
+> "...ficult to control and limited UVU's ability to obtain reliable real-time informatio..."
+
+**[00:12:04](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-12-04)**
+> "Because the event was held on UVU's campus, UVU should have retained decision-makin..."
+
+**[00:15:37](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-15-28)**
+> "...email from Turning Point USA, UVU's club president to UVU Club Services."
+
+**[00:15:46](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-15-28)**
+> "... has asked me to reach out to UVU Club departments to ask about availability on hos..."
+
+**[00:17:54](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-17-54)**
+> "... at that time, in response to UVU's questionnaire, TPUSA told them it was going to ..."
+
+**[00:18:43](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-18-35)**
+> "...nd then they offer to connect UVU PD with Turning Point USA security, said that the..."
+
+**[00:19:09](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-18-35)**
+> "... Long, the chief of police at UVU, became aware of the event."
+
+**[00:21:02](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-21-02)**
+> "...instantly this was flagged by UVU. They have a free speech committee and they flag ..."
+
+**[00:21:26](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-21-02)**
+> "...pect some action here. That's UVU that's saying that, not turning point security."
+
+**[00:22:11](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-21-44)**
+> "UVU participants raised concerns about the outdoor co..."
+
+**[00:22:42](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-22-22)**
+> "TPUSA advised UVU that it would have approximately eight security p..."
+
+**[00:23:59](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-23-47)**
+> "... event be canceled. Canceled. UVU President Tuminez (Astrid Tuminez) requested upda..."
+
+**[00:31:58](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-31-35)**
+> "...at 11 a.m. So it was actually UVU that requested more people after observing the cr..."
+
+**[00:32:44](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-32-17)**
+> "...the meeting did not occur. So UVU requested that they have a little powwow before."
+
+**[00:32:51](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-32-17)**
+> "It doesn't happen. And UVU is the one that suggests after observing the crow..."
+
+**[00:33:03](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-33-03)**
+> "UVU is the one that decides, hey, we should we should..."
+
+**[00:33:09](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-33-03)**
+> "...e tried to paint it as though UVU PD is who failed on that day, failed Charlie Kirk..."
+
+**[00:35:50](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-35-50)**
+> "...again, that's national. Okay. UVU participants raised concerns regarding Turning Po..."
+
+**[00:36:02](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-35-50)**
+> "...he ability to control access. UVU officials suggested alternative locations such as..."
+
+**[00:36:16](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-36-16)**
+> "UVU also suggested using the university's ticketing s..."
+
+**[00:36:53](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-36-53)**
+> "...ons, including Robin Ebmeyer, UVU's director of emergency management and safety."
+
+**[00:38:26](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-36-53)**
+> "...re we go. On August 21st, the UVU Turning Point USA club president emailed the club..."
+
+**[00:40:05](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-40-05)**
+> "... to share an anonymous tip to UVU."
+
+**[00:42:04](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-42-04)**
+> "...harlie Kirk will be set up at Utah Valley."
+
+**[00:44:13](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-44-04)**
+> ".... That was one day before the UVU MEAC meeting during which TPUSA representative Ma..."
+
+**[00:45:07](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-44-48)**
+> "...en he and his team arrived at UVU a few hours before the event, they surveyed the a..."
+
+**[00:45:34](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-45-34)**
+> "...enue location was selected by UVU and that UVU told TPUSA, quote, nope, this is whe..."
+
+**[00:46:23](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-45-58)**
+> "that UVU had expressed concerns about the outdoor location..."
+
+**[00:47:48](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-47-24)**
+> "...ole (Brian Harpole)'s team in UVU did not discuss efforts to secure a drone."
+
+**[00:51:30](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-51-22)**
+> "...ening or additional staffing. UVU did not have reliable access to ticketing or regi..."
+
+**[00:51:40](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-51-22)**
+> "...n Harpole, Dan Flood, and the UVU PD."
+
+**[00:52:08](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-51-22)**
+> "... security video monitoring by UVU PD dispatch personnel or others from another oper..."
+
+**[00:53:54](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-53-54)**
+> "...nds, who those people are, if UVU is saying that they didn't have a VIP system, the..."
+
+**[00:57:41](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-00-57-25)**
+> "...uarters, Macy Crofts asks the UVU club president to pull together an event."
+
+**[01:07:02](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-01-07-02)**
+> "...began planning for the event. UV was not informed or included in that said plannin..."
+
+**[01:07:29](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-01-07-02)**
+> "...went over on August 25th, the UVU major events meeting took place."
+
+**[01:09:06](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-01-09-06)**
+> "...nicated this to the police at UVU."
+
+**[01:27:17](/episodes/ep-bIuvTKlFeGo.md#ent-org-utah-valley-university-t-01-27-17)**
+> "...July 10th was the request for UVU. How close to the UVU terrorist drill was this?"
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (4 mentions)</summary>
+
+**[00:01:36](/episodes/ep-_2DiIbfy4mU.md#ent-org-utah-valley-university-t-00-01-15)**
+> "...f distraction. And so back to UVU on September 10th, we go."
+
+**[00:02:01](/episodes/ep-_2DiIbfy4mU.md#ent-org-utah-valley-university-t-00-02-01)**
+> "...s in the Woodbury Building at UVU."
+
+**[00:02:19](/episodes/ep-_2DiIbfy4mU.md#ent-org-utah-valley-university-t-00-02-01)**
+> "...ted in the Keller Building at UVU, which is the building that is directly next."
+
+**[00:06:57](/episodes/ep-_2DiIbfy4mU.md#ent-org-utah-valley-university-t-00-06-35)**
+> "...rn to the scene of the crime, UVU campus, September 10th. I want you guys to know t..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (5 mentions)</summary>
+
+**[00:17:50](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-valley-university-t-00-17-38)**
+> "...ning meeting that happened at UVU. Can I say that and put that out there? I think t..."
+
+**[00:19:11](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-valley-university-t-00-18-57)**
+> "...ect all the footage, reviewed Utah Valley University security video and discovered Robinson's Challeng..."
+
+**[00:24:19](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-valley-university-t-00-24-19)**
+> "..., who had given $5 million to UVU and who operated their business center."
+
+**[00:24:43](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-valley-university-t-00-24-43)**
+> "...find this. Woodbury building, UVU, they gave a five-million-dollar"
+
+**[00:25:33](/episodes/ep-6XfDqKTdFKg.md#ent-org-utah-valley-university-t-00-25-28)**
+> "donated $5 million to UVU. And that donation was at the end of the year goi..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (13 mentions)</summary>
+
+**[00:06:11](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-06-04)**
+> "...y, I received a tip from some UVU students. They told me that the admin lot, they a..."
+
+**[00:06:17](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-06-04)**
+> "..., I want you to remember that UVU campus has a high federal presence because it is ..."
+
+**[00:07:00](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-06-44)**
+> "...hey conducted a simulation at UVU for a mass casualty event. This would have been d..."
+
+**[00:07:15](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-07-15)**
+> "UVU hosts a realistic bomb simulation with first resp..."
+
+**[00:07:42](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-07-15)**
+> "... flight helicopter flocked to Utah Valley University on Tuesday, but it was just a drill."
+
+**[00:09:02](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-07-15)**
+> "...ment of Emergency Management, UVU police office. Police off police departments, you..."
+
+**[00:10:33](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-10-03)**
+> "...I digress. I digress. Back to UVU."
+
+**[00:19:00](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-18-48)**
+> "...bout eight o'clock pulls into UVU admissions lot. It's followed by a black SUV. At ..."
+
+**[00:20:08](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-20-08)**
+> "...ters the parking structure at UVU at 8:43,"
+
+**[00:20:45](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-20-45)**
+> "...er Robinson is walking around UVU campus in his maroon shirt outfit."
+
+**[00:21:07](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-20-45)**
+> "...nverified) arrives on site at UVU."
+
+**[00:21:15](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-20-45)**
+> "...s Dodge Challenger leaves the UVU parking structure."
+
+**[00:25:08](/episodes/ep-BvthGQw3_s0.md#ent-org-utah-valley-university-t-00-25-08)**
+> "...out this lot from students at UVU who do believe that something very suspicious too..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (14 mentions)</summary>
+
+**[00:01:52](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-01-29)**
+> "...o ambulance on standby at the UVU event, something that I was completely miffed by ..."
+
+**[00:02:06](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-01-29)**
+> "...s because Turning Point USA's UVU chapter declined it."
+
+**[00:03:02](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-02-48)**
+> "...he TPUSA like club chapter at UVU. And they had first selected that there would be ..."
+
+**[00:04:10](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-03-52)**
+> "...ke this. I have actually done Utah Valley University with Charlie (Charlie Kirk)."
+
+**[00:04:38](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-04-32)**
+> "...is article, when officials at Utah Valley University approved the plans for Charlie Kirk's appearance ..."
+
+**[00:05:18](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-05-18)**
+> "...mitted in early July, a TPUSA UVU chapter member selected 200 plus as the max atten..."
+
+**[00:06:10](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-05-54)**
+> "...curring there, someone with a UVU email address whose name was redacted by the scho..."
+
+**[00:06:43](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-06-32)**
+> "...e's name was also redacted by UVU."
+
+**[00:07:10](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-07-10)**
+> "...with and communicated with to UVU, how can they suddenly pretend like they were woe..."
+
+**[00:07:29](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-07-10)**
+> "... that the records released by UVU to ABC News indicate that when the event was bein..."
+
+**[00:07:51](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-07-51)**
+> "... ABC News that there were two UVU emergency medical personnel on site, but not an a..."
+
+**[00:08:28](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-08-28)**
+> "...ecognize that it's that local UVU club chapter that did this via a form and their e..."
+
+**[00:25:56](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-25-52)**
+> "...s in security. Like, was I at UVU that day? Was I supposed to be providing protecti..."
+
+**[00:55:56](/episodes/ep-NNiCZk1cuzs.md#ent-org-utah-valley-university-t-00-55-45)**
+> "...ghts, Turning Point USA suing UVU for failing Charlie (Charlie Kirk) and then they ..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (29 mentions)</summary>
+
+**[00:01:58](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-01-51)**
+> "... Long and former president of UVU Astrid Tuminez, and others that are presently, qu..."
+
+**[00:04:15](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-03-53)**
+> "...ding the security failures at UVU, which may have contributed to Charlie (Charlie K..."
+
+**[00:04:34](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-04-34)**
+> "Now, it was UVU themselves who commissioned this independent revi..."
+
+**[00:04:54](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-04-34)**
+> "... it tells us in this article, Utah Valley University is launching an independent external review of th..."
+
+**[00:05:35](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-05-06)**
+> "... improve safety practices for UVU and all of Utah higher education, end quote."
+
+**[00:11:24](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-11-24)**
+> "...des that he wants to speak at UVU."
+
+**[00:11:33](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-11-24)**
+> "...at doesn't suddenly mean that UVU has the means to provide everything that someone ..."
+
+**[00:12:09](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-12-09)**
+> "...page three, which is entitled UVU Charlie Kirk event. Okay."
+
+**[00:14:15](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-14-15)**
+> "...ng Point USA on UVU's campus, Utah Valley University had the distinct honor of being the first stop on..."
+
+**[00:15:35](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-15-35)**
+> "...eaningful risk assessment and UVU parties did not have a security briefing where th..."
+
+**[00:16:00](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-15-35)**
+> "... security brief? Are they, is UVU required by law to have a written security plan s..."
+
+**[00:16:28](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-16-11)**
+> "They then moved to blame UVU for granting their request. And to be clear, it w..."
+
+**[00:17:06](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-16-48)**
+> "So you have UVU on the call and they say, no, you shouldn't do it..."
+
+**[00:19:44](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-19-35)**
+> "...ere only provided with 25% of UVU's police force, okay?"
+
+**[00:19:53](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-19-35)**
+> "...ficers. And they say that the UVU parties assigned only six police officers to the ..."
+
+**[00:20:10](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-20-10)**
+> "... requested approval from then UVU President Astrid Tuminez to allocate more than si..."
+
+**[00:20:54](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-20-54)**
+> "...his event. The campus itself, UVU, has a total of 50,000 students, okay, and a gran..."
+
+**[00:23:18](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-22-55)**
+> "And who were they? They were UVU's state certified emergency medical services. The..."
+
+**[00:24:37](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-24-05)**
+> "...nly now they're saying, well, UVU didn't do it. Like they're just totally rinsing t..."
+
+**[00:25:02](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-24-51)**
+> "...iting, for instance, that the UVU parties could have created and maintained a secur..."
+
+**[00:25:59](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-25-28)**
+> "...ast sentence is so great. The UVU party's not Turning Point USA had the power and a..."
+
+**[00:27:33](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-27-33)**
+> "...to where CK will be set up at Utah Valley. The Sorensen Student Center has a couple of stai..."
+
+**[00:31:44](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-31-44)**
+> "...A to reasonably conclude that UVU had a plan to address the identified risk and oth..."
+
+**[00:33:35](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-33-04)**
+> "It says, the UVU party's omissions, actions, and misconduct led to..."
+
+**[00:33:44](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-33-44)**
+> "...tled to believe that when the UVU parties approved the tour event to be held on cam..."
+
+**[00:34:04](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-33-44)**
+> "...ght of the risks known to the UVU parties, the UVU parties' failures shock the cons..."
+
+**[00:41:29](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-41-17)**
+> "...t they were only the fault of UVU. I don't I don't know that I buy that, actually."
+
+**[00:41:57](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-41-57)**
+> "... American shirt, walking onto UVU campus, and he was addressing how he had his fing..."
+
+**[00:55:23](/episodes/ep-aLJhpxrakCU.md#ent-org-utah-valley-university-t-00-55-23)**
+> "...er Erika Kirk, could go after UVU for security failures. God forbid Candace (Candac..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:16:06](/episodes/ep-kn1E0scy9Wc.md#ent-org-utah-valley-university-t-00-16-06)**
+> "...l towers that are surrounding UVU, he signs off on that. He files for that. George ..."
+
+**[00:17:46](/episodes/ep-kn1E0scy9Wc.md#ent-org-utah-valley-university-t-00-17-32)**
+> "was immediately sent down to UVU to get involved in the case on the ground that da..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
@@ -1429,7 +2015,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Attended By (2)</summary>
+<summary>Attended By (3)</summary>
 
 - **[Mitchell Curtiss](/entities/person-mitchell-curtiss.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1442,6 +2028,26 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39): “He graduated from what is today known as Utah Valley University.”
+
+</details>
+
+- **[Caleb Chilcutt](/entities/person-caleb-chilcutt.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:07:40](/episodes/ep-bIuvTKlFeGo.md#t-00-07-27): “That really is something Caleb Chilcutt, who Erika (Erika Kirk) spotlighted at AmFest, seemingly did not want to help the university that he went to figure out what happened, what went wrong.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:41](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Caleb Chilcutt, a rising senior and chapter president at Utah Valley University, has been involved with Turning Point USA since 2023.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Audited By (1)</summary>
+
+- **[The Lake Forest Group](/entities/org-lake-forest-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:03:21](/episodes/ep-bIuvTKlFeGo.md#t-00-03-21): “Come on, everybody. Everybody get together. Where's Frank Turek? Where's Frank and Bank Turek? We're going to yank and bank and Frank our way through this independent review, which they knew was coming, clearly knew was coming and tried to get ahead of. Now, we told you this already in the background of what was happening that essentially almost immediately UVU reached out to a third party, the Lake Forest Group, to conduct it. ... a review, a broad review of the security protocols to see what went wrong that day, to open up the campus, open up their police officers, open up everyone sitting down with interviews and producing evidence as to what went wrong on September 10th.”
 
 </details>
 
@@ -1460,12 +2066,25 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Employs (2)</summary>
+<summary>Criticized By (1)</summary>
 
-- **[Jeff Long](/entities/person-jeff-long.md)**
+- **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:07:15](/episodes/ep-BvthGQw3_s0.md#t-00-07-15): “UVU hosts a realistic bomb simulation with first responders, helicopters that were going to hospitals, people in theater makeup acting and pretending to be bleeding and dying, being transported to a hospital. I mean, totally nutty. I want to be clear and not common.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Employs (3)</summary>
+
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:59](/episodes/ep-581dILVcEE4.md#t-00-24-27): “the UVU police chief, Jeff Long.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:39:09](/episodes/ep-q4m-kGzvwjw.md#t-00-38-45): “And yet UVU police chief Jeff Long is asking for a contact which he doesn't actually get. So on September 2nd, he follows up with them. He says, hey, still don't have a contact for the security. ... And so he reaches out to the club president. Again, this is per the independent review. And then he is supplied one. And on September 3rd, he is able to establish connection with Dan Flood. And I want to be clear, by the way, September 2nd is the first time that this upcoming event that we could find is mentioned.”
 
 </details>
 
@@ -1476,6 +2095,56 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:10:13](/episodes/ep-AH1KVKkweUE.md#t-00-10-13): “I guess being an officer at UVU, you couldn't just be like, hey, can we get that footage so I can see who I was in the rooftop with for this really important moment where we find Tyler Robinson's DNA?”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:21:06](/episodes/ep-1CFDtD0IgEg.md#t-00-21-02): “you work at the police department you work at uv you you have access to the videos right”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:01:50](/episodes/ep-ChuWo-n49B8.md#t-00-01-37): “We learned that Officer Bagley, while he was employed by the Utah County Sheriff's Office, so that was actually his last place of employment before he began working for UBU. He worked for Utah.”
+
+</details>
+
+- **[Robin Ebmeyer](/entities/person-robin-ebmeyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:36:53](/episodes/ep-bIuvTKlFeGo.md#t-00-36-53): “She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix. And when certain major events members expressed reservations, including Robin Ebmeyer, UVU's director of emergency management and safety.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:27:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-45): “So I received a flurry of emails last night from people who work at UVU informing me that the rumor was, which I was able to confirm by getting in touch with these individuals, that Chief Jeff Long has resigned. I'm still looking for information as to whether he resigned willingly, whether he was forced out. I'm not sure. What I can tell you is that he has resigned and this is a... A big resignation. This is a big resignation as it pertains to September 10th, as it pertains to the Charlie Kirk assassination, as it pertains to the after action report, which we have now all read and adjusted and learned about. How effectively Turning Point USA and their affiliates were blaming wrongfully Jeff Long for a year of his life, a year of his life. They wanted the public to believe that the mistakes that were made were made because Police Chief Jeff Long did not do his job and they went so far as to and I would say this was it was cruel.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Funded By (2)</summary>
+
+- **[Chelsea Baugh](/entities/person-chelsea-baugh.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:25:22](/episodes/ep-6XfDqKTdFKg.md#t-00-24-43): “I will get that for you when we are on break actually. We can, it's actually Baugh. Let me correct that. Chelsea (Chelsea Baugh) and Casey Baugh, B-A-U-G-H. donated $5 million to UVU. And that donation was at the end of the year going into 2025.”
+
+</details>
+
+- **[Casey Baugh](/entities/person-casey-baugh.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:25:22](/episodes/ep-6XfDqKTdFKg.md#t-00-24-43): “I will get that for you when we are on break actually. We can, it's actually Baugh. Let me correct that. Chelsea (Chelsea Baugh) and Casey Baugh, B-A-U-G-H. donated $5 million to UVU. And that donation was at the end of the year going into 2025.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Former President (1)</summary>
+
+- **[Astrid Tuminez](/entities/person-astrid-tuminez.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:01:58](/episodes/ep-aLJhpxrakCU.md#t-00-01-51): “So this morning I wake up and I see a trend on X that Charlie Kirk's family has filed a notice of claim against the state of Utah, also Utah Valley University Police Department, and more specifically UVU Police Chief Jeffrey Long and former president of UVU Astrid Tuminez, and others that are presently, quote unquote, presently under...”
 
 </details>
 
@@ -1494,22 +2163,52 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Hosted Speaker (1)</summary>
+<summary>Has President (1)</summary>
 
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+- **[Astrid Tuminez](/entities/person-astrid-tuminez.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:13](/episodes/ep-4DvYXBn_5JI.md#t-00-09-02): “The college had planned to host Kirk after Wednesday's first stop of his American comeback tour at the Utah Valley University, where he was shot and killed while answering a question from an audience member.”
-- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:28:40](/episodes/ep-OgRyiOAVtWU.md#t-00-28-30): “For Tyler Robinson and his family, I kid you not, it says, quote, when Erika (Erika Kirk) arrived in a tiny Utah courtroom earlier this month to face her husband's alleged killer, she expected to be overcome with rage. It was the first time she had come face to face with Tyler Robinson, the man accused of assassinating Charlie Kirk at the speaking event at Utah Valley University 10 months ago. And yet, in place of anger, Erika (Erika Kirk) instead felt an overwhelming sense of sadness.”
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:51:25](/episodes/ep-es7PWdFGoFI.md#t-00-51-08): “to the courtyard unless you know Charlie (Charlie Kirk) speaking in the courtyard. The earliest that we found that was on September 2nd, the local media mentioned on KMYU that Charlie (Charlie Kirk) was speaking at UVU in the courtyard, okay?”
-- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:14:54](/episodes/ep-q7f8r-THr84.md#t-00-14-30): “In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:23:59](/episodes/ep-bIuvTKlFeGo.md#t-00-23-47): “And they had an anonymous caller that demanded that the event be canceled. Canceled. UVU President Tuminez (Astrid Tuminez) requested updates regarding event planning on the 31st.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Includes (4)</summary>
+<summary>Hosted Speaker (3)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:13](/episodes/ep-4DvYXBn_5JI.md#t-00-09-02): “The college had planned to host Kirk after Wednesday's first stop of his American comeback tour at the Utah Valley University, where he was shot and killed while answering a question from an audience member.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:28:40](/episodes/ep-OgRyiOAVtWU.md#t-00-28-30): “For Tyler Robinson and his family, I kid you not, it says, quote, when Erika (Erika Kirk) arrived in a tiny Utah courtroom earlier this month to face her husband's alleged killer, she expected to be overcome with rage. It was the first time she had come face to face with Tyler Robinson, the man accused of assassinating Charlie Kirk at the speaking event at Utah Valley University 10 months ago. And yet, in place of anger, Erika (Erika Kirk) instead felt an overwhelming sense of sadness.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:51:25](/episodes/ep-es7PWdFGoFI.md#t-00-51-08): “to the courtyard unless you know Charlie (Charlie Kirk) speaking in the courtyard. The earliest that we found that was on September 2nd, the local media mentioned on KMYU that Charlie (Charlie Kirk) was speaking at UVU in the courtyard, okay?”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:14:54](/episodes/ep-q7f8r-THr84.md#t-00-14-30): “In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:04:38](/episodes/ep-NNiCZk1cuzs.md#t-00-04-32): “In fact, it'd be interesting to see whether or not he has a lawsuit on his hands. But anyway, it reads in this article, when officials at Utah Valley University approved the plans for Charlie Kirk's appearance at the school on September 10th as part of his American comeback tour, they expected roughly 600 people would be there, according to newly released plans.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:21:02](/episodes/ep-bIuvTKlFeGo.md#t-00-21-02): “which is that instantly this was flagged by UVU. They have a free speech committee and they flag it because they say we're going to anticipate protests and they have reviewed insights from prior turning point appearances, including an appearance of Charlie Kirk at UVU in 2019 with me, by the way, that was with me. ... And we did have protesters and me and Charlie (Charlie Kirk) sat on the floor and went through the protesters.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:35:02](/episodes/ep-yrg_-D6oNHE.md#t-00-34-40): “According to meeting participants, Crofts (Macy Crofts) insisted on the use of the fountain courtyard location because Charlie Kirk had previously spoken on campus and TPUSA was familiar with the location.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:04:10](/episodes/ep-NNiCZk1cuzs.md#t-00-03-52): “And I said I had never seen a crowd look like this. I have actually done Utah Valley University with Charlie (Charlie Kirk). ... So I'm speaking on my own experience. We had a majority student crowd. Everything just was completely different. ... I have done these events with Charlie (Charlie Kirk). You can find these Candace and Charlie (Charlie Kirk) sitting down and there's no crowd control, there's no ticketing.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:21:02](/episodes/ep-bIuvTKlFeGo.md#t-00-21-02): “which is that instantly this was flagged by UVU. They have a free speech committee and they flag it because they say we're going to anticipate protests and they have reviewed insights from prior turning point appearances, including an appearance of Charlie Kirk at UVU in 2019 with me, by the way, that was with me. ... And we did have protesters and me and Charlie (Charlie Kirk) sat on the floor and went through the protesters.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “So I went back to UVU in March of 2026. So this is what, six, seven months after the murder and to give a presentation and students showed up and after the presentation was over, they all left the room and it was just me.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Includes (6)</summary>
 
 - **[Losee Center](/entities/org-losee-center.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1539,10 +2238,25 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 </details>
 
+- **[Woodbury Building (Utah Valley University)](/entities/org-woodbury-building-uvu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:11:33](/episodes/ep-BvthGQw3_s0.md#t-00-11-25): “I'm going to show you this on a map which exact lot we're talking about. Again, it seems like all the students refer to this as the admin lot, but it's technically considered the admissions lot. And that's because that lot right there, and then you can see obviously highlighted in red where the event was held, it's considered the admissions lot because it's right next to the Woodbury building, which is where the admissions office is located for clarity.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:02:01](/episodes/ep-_2DiIbfy4mU.md#t-00-02-01): “Foremost, I have to issue a quick correction. You know, we strive to be correct. I was live searching yesterday and I misspoke and I wrongly asserted when we were talking about Chelsea (Chelsea Baugh) and Casey Baugh, the Entrepreneurship Institute that I said was in the Woodbury Building at UVU.”
+
+</details>
+
+- **[Scott C. & Karen Keller Building (Utah Valley University)](/entities/org-scott-c-karen-keller-building-uvu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:02:19](/episodes/ep-_2DiIbfy4mU.md#t-00-02-01): “We were wrong. I meant to say that it's located in the Keller Building at UVU, which is the building that is directly next.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (25)</summary>
 
 - **[Orem Police Department](/entities/org-orem-police-department.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1562,6 +2276,56 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39): “He graduated from what is today known as Utah Valley University.”
+
+</details>
+
+- **[Caleb Chilcutt](/entities/person-caleb-chilcutt.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:07:40](/episodes/ep-bIuvTKlFeGo.md#t-00-07-27): “That really is something Caleb Chilcutt, who Erika (Erika Kirk) spotlighted at AmFest, seemingly did not want to help the university that he went to figure out what happened, what went wrong.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:41](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Caleb Chilcutt, a rising senior and chapter president at Utah Valley University, has been involved with Turning Point USA since 2023.”
+
+</details>
+
+- **[The Lake Forest Group](/entities/org-lake-forest-group.md)** audited this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:03:21](/episodes/ep-bIuvTKlFeGo.md#t-00-03-21): “Come on, everybody. Everybody get together. Where's Frank Turek? Where's Frank and Bank Turek? We're going to yank and bank and Frank our way through this independent review, which they knew was coming, clearly knew was coming and tried to get ahead of. Now, we told you this already in the background of what was happening that essentially almost immediately UVU reached out to a third party, the Lake Forest Group, to conduct it. ... a review, a broad review of the security protocols to see what went wrong that day, to open up the campus, open up their police officers, open up everyone sitting down with interviews and producing evidence as to what went wrong on September 10th.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:07:15](/episodes/ep-BvthGQw3_s0.md#t-00-07-15): “UVU hosts a realistic bomb simulation with first responders, helicopters that were going to hospitals, people in theater makeup acting and pretending to be bleeding and dying, being transported to a hospital. I mean, totally nutty. I want to be clear and not common.”
+
+</details>
+
+- **[Astrid Tuminez](/entities/person-astrid-tuminez.md)** former president of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:01:58](/episodes/ep-aLJhpxrakCU.md#t-00-01-51): “So this morning I wake up and I see a trend on X that Charlie Kirk's family has filed a notice of claim against the state of Utah, also Utah Valley University Police Department, and more specifically UVU Police Chief Jeffrey Long and former president of UVU Astrid Tuminez, and others that are presently, quote unquote, presently under...”
+
+</details>
+
+- **[Jeff Long](/entities/person-jeff-long.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:27:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-45): “So I received a flurry of emails last night from people who work at UVU informing me that the rumor was, which I was able to confirm by getting in touch with these individuals, that Chief Jeff Long has resigned. I'm still looking for information as to whether he resigned willingly, whether he was forced out. I'm not sure. What I can tell you is that he has resigned and this is a... A big resignation. This is a big resignation as it pertains to September 10th, as it pertains to the Charlie Kirk assassination, as it pertains to the after action report, which we have now all read and adjusted and learned about. How effectively Turning Point USA and their affiliates were blaming wrongfully Jeff Long for a year of his life, a year of his life. They wanted the public to believe that the mistakes that were made were made because Police Chief Jeff Long did not do his job and they went so far as to and I would say this was it was cruel.”
+
+</details>
+
+- **[Chelsea Baugh](/entities/person-chelsea-baugh.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:25:22](/episodes/ep-6XfDqKTdFKg.md#t-00-24-43): “I will get that for you when we are on break actually. We can, it's actually Baugh. Let me correct that. Chelsea (Chelsea Baugh) and Casey Baugh, B-A-U-G-H. donated $5 million to UVU. And that donation was at the end of the year going into 2025.”
+
+</details>
+
+- **[Casey Baugh](/entities/person-casey-baugh.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:25:22](/episodes/ep-6XfDqKTdFKg.md#t-00-24-43): “I will get that for you when we are on break actually. We can, it's actually Baugh. Let me correct that. Chelsea (Chelsea Baugh) and Casey Baugh, B-A-U-G-H. donated $5 million to UVU. And that donation was at the end of the year going into 2025.”
 
 </details>
 
@@ -1607,21 +2371,62 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 </details>
 
+- **[Woodbury Building (Utah Valley University)](/entities/org-woodbury-building-uvu.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:11:33](/episodes/ep-BvthGQw3_s0.md#t-00-11-25): “I'm going to show you this on a map which exact lot we're talking about. Again, it seems like all the students refer to this as the admin lot, but it's technically considered the admissions lot. And that's because that lot right there, and then you can see obviously highlighted in red where the event was held, it's considered the admissions lot because it's right next to the Woodbury building, which is where the admissions office is located for clarity.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:02:01](/episodes/ep-_2DiIbfy4mU.md#t-00-02-01): “Foremost, I have to issue a quick correction. You know, we strive to be correct. I was live searching yesterday and I misspoke and I wrongly asserted when we were talking about Chelsea (Chelsea Baugh) and Casey Baugh, the Entrepreneurship Institute that I said was in the Woodbury Building at UVU.”
+
+</details>
+
+- **[Scott C. & Karen Keller Building (Utah Valley University)](/entities/org-scott-c-karen-keller-building-uvu.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:02:19](/episodes/ep-_2DiIbfy4mU.md#t-00-02-01): “We were wrong. I meant to say that it's located in the Keller Building at UVU, which is the building that is directly next.”
+
+</details>
+
+- **[Astrid Tuminez](/entities/person-astrid-tuminez.md)** president of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:23:59](/episodes/ep-bIuvTKlFeGo.md#t-00-23-47): “And they had an anonymous caller that demanded that the event be canceled. Canceled. UVU President Tuminez (Astrid Tuminez) requested updates regarding event planning on the 31st.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke at this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:13](/episodes/ep-4DvYXBn_5JI.md#t-00-09-02): “The college had planned to host Kirk after Wednesday's first stop of his American comeback tour at the Utah Valley University, where he was shot and killed while answering a question from an audience member.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:28:40](/episodes/ep-OgRyiOAVtWU.md#t-00-28-30): “For Tyler Robinson and his family, I kid you not, it says, quote, when Erika (Erika Kirk) arrived in a tiny Utah courtroom earlier this month to face her husband's alleged killer, she expected to be overcome with rage. It was the first time she had come face to face with Tyler Robinson, the man accused of assassinating Charlie Kirk at the speaking event at Utah Valley University 10 months ago. And yet, in place of anger, Erika (Erika Kirk) instead felt an overwhelming sense of sadness.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:51:25](/episodes/ep-es7PWdFGoFI.md#t-00-51-08): “to the courtyard unless you know Charlie (Charlie Kirk) speaking in the courtyard. The earliest that we found that was on September 2nd, the local media mentioned on KMYU that Charlie (Charlie Kirk) was speaking at UVU in the courtyard, okay?”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:14:54](/episodes/ep-q7f8r-THr84.md#t-00-14-30): “In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:04:38](/episodes/ep-NNiCZk1cuzs.md#t-00-04-32): “In fact, it'd be interesting to see whether or not he has a lawsuit on his hands. But anyway, it reads in this article, when officials at Utah Valley University approved the plans for Charlie Kirk's appearance at the school on September 10th as part of his American comeback tour, they expected roughly 600 people would be there, according to newly released plans.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:21:02](/episodes/ep-bIuvTKlFeGo.md#t-00-21-02): “which is that instantly this was flagged by UVU. They have a free speech committee and they flag it because they say we're going to anticipate protests and they have reviewed insights from prior turning point appearances, including an appearance of Charlie Kirk at UVU in 2019 with me, by the way, that was with me. ... And we did have protesters and me and Charlie (Charlie Kirk) sat on the floor and went through the protesters.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:35:02](/episodes/ep-yrg_-D6oNHE.md#t-00-34-40): “According to meeting participants, Crofts (Macy Crofts) insisted on the use of the fountain courtyard location because Charlie Kirk had previously spoken on campus and TPUSA was familiar with the location.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:04:10](/episodes/ep-NNiCZk1cuzs.md#t-00-03-52): “And I said I had never seen a crowd look like this. I have actually done Utah Valley University with Charlie (Charlie Kirk). ... So I'm speaking on my own experience. We had a majority student crowd. Everything just was completely different. ... I have done these events with Charlie (Charlie Kirk). You can find these Candace and Charlie (Charlie Kirk) sitting down and there's no crowd control, there's no ticketing.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:21:02](/episodes/ep-bIuvTKlFeGo.md#t-00-21-02): “which is that instantly this was flagged by UVU. They have a free speech committee and they flag it because they say we're going to anticipate protests and they have reviewed insights from prior turning point appearances, including an appearance of Charlie Kirk at UVU in 2019 with me, by the way, that was with me. ... And we did have protesters and me and Charlie (Charlie Kirk) sat on the floor and went through the protesters.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55): “So I went back to UVU in March of 2026. So this is what, six, seven months after the murder and to give a presentation and students showed up and after the presentation was over, they all left the room and it was just me.”
 
 </details>
 
 - **[Jeff Long](/entities/person-jeff-long.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:59](/episodes/ep-581dILVcEE4.md#t-00-24-27): “the UVU police chief, Jeff Long.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:53](/episodes/ep-581dILVcEE4.md#t-00-24-27): “For one, Brian offers up that the lack of security on the rooftop can actually be attributed to the UVU police chief, Jeff Long.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:39:09](/episodes/ep-q4m-kGzvwjw.md#t-00-38-45): “And yet UVU police chief Jeff Long is asking for a contact which he doesn't actually get. So on September 2nd, he follows up with them. He says, hey, still don't have a contact for the security. ... And so he reaches out to the club president. Again, this is per the independent review. And then he is supplied one. And on September 3rd, he is able to establish connection with Dan Flood. And I want to be clear, by the way, September 2nd is the first time that this upcoming event that we could find is mentioned.”
 
 </details>
 
@@ -1635,12 +2440,397 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 </details>
 
+- **[Robin Ebmeyer](/entities/person-robin-ebmeyer.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:36:53](/episodes/ep-bIuvTKlFeGo.md#t-00-36-53): “She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix. And when certain major events members expressed reservations, including Robin Ebmeyer, UVU's director of emergency management and safety.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (90)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (201)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (4)</summary>
+
+- [00:19:46](/episodes/ep-UAdBEXs7nNc.md#t-00-19-13) (Claim) **Candace Owens**: ["Owens said the remaining rental cars were left behind at the Utah Vall..."](/statements/statement-1fd0a301c252.md)
+
+- [00:36:31](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Dan Flood's team had jurisdiction only..."](/statements/statement-06b65d019091.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:31](/episodes/ep-UAdBEXs7nNc.md#t-00-36-17) (Accusation) **Candace Owens**: ["Owens called the book's assertions that Flood's team had jurisdiction ..."](/statements/statement-cde768864611.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:46:41](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41) (Claim) **Erika Kirk** (via quoted speech): ["In the AMFEST 2025 clip, Erika Kirk said Caleb Chilcutt was a rising s..."](/statements/statement-d0e5563a1748.md)
+  - Also about: [Caleb Chilcutt](/entities/person-caleb-chilcutt.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (6)</summary>
+
+- [00:27:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-45) (Claim) **Candace Owens**: ["Owens said she confirmed with UVU employee sources that Chief Jeff Lon..."](/statements/statement-b3a33cdbd948.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09) (Accusation) **Candace Owens**: ["Owens said the UVU independent review confirmed her account that Brian..."](/statements/statement-103244a45eb1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:34:20](/episodes/ep-yrg_-D6oNHE.md#t-00-33-59) (Claim) **Candace Owens**: ["Owens said UVU emergency management director Robin Ebmeyer was resigni..."](/statements/statement-b2badaa017a2.md)
+  - Also about: [Robin Ebmeyer](/entities/person-robin-ebmeyer.md)
+
+- [00:35:35](/episodes/ep-yrg_-D6oNHE.md#t-00-35-22) (Citation) **Candace Owens**: ["Owens cited page 73 of the UVU review as saying Robin Ebmeyer was abse..."](/statements/statement-57944ccc2fcb.md)
+  - Also about: [Robin Ebmeyer](/entities/person-robin-ebmeyer.md)
+
+- [00:36:57](/episodes/ep-yrg_-D6oNHE.md#t-00-36-42) (Opinion) **Candace Owens** (via paraphrase): ["Owens said her UVU sources described a general mood that Long and Ebme..."](/statements/statement-5361e019929f.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Robin Ebmeyer](/entities/person-robin-ebmeyer.md)
+
+- [00:37:24](/episodes/ep-yrg_-D6oNHE.md#t-00-37-24) (Promise) **Candace Owens**: ["Owens committed to keeping viewers posted and trying to obtain more in..."](/statements/statement-d820a72e3760.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (6)</summary>
+
+- [00:35:55](/episodes/ep-ms5ChhZegRg.md#t-00-35-55) (Claim) **Frank Turek** (via quoted speech): ["In the interview clip, Frank Turek said he returned to UVU in March 20..."](/statements/statement-ffd550f1ea18.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Jeff Long](/entities/person-jeff-long.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:06](/episodes/ep-ms5ChhZegRg.md#t-00-36-38) (Claim) **Jeff Long** (via quoted speech): ["As reenacted by Frank Turek, Jeff Long said Kirk’s team should have ar..."](/statements/statement-265adc4258db.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:37:33](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) (Accusation) **Frank Turek** (via quoted speech): ["In the clip, Frank Turek said Jeff Long was trying to backpedal about ..."](/statements/statement-7032754994d7.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) (Claim) **Frank Turek** (via quoted speech): ["In the clip, Frank Turek said he had served in the Navy but was no sec..."](/statements/statement-70210b6bbf55.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [United States Navy](/entities/org-united-states-navy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02) (Accusation) **Candace Owens**: ["Owens accused Frank Turek of dishonesty and defaming UVU police by con..."](/statements/statement-abd7630d80df.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Dan Flood](/entities/person-dan-flood.md), [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md)
+
+- [00:39:13](/episodes/ep-ms5ChhZegRg.md#t-00-38-45) (Accusation) **Candace Owens**: ["Owens alleged Turning Point USA communicated the wrong expected attend..."](/statements/statement-9735e913ebfa.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (12)</summary>
+
+- [00:08:34](/episodes/ep-q4m-kGzvwjw.md#t-00-08-34) (Accusation) **Candace Owens** (via paraphrase): ["Owens said her unnamed tour-finance source told her Yrefy offered extr..."](/statements/statement-fd4ecbdfdb28.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [TPUSA tour-finance tip source (identity unverified)](/entities/anon-src-q4m-kGzvwjw-013.md)
+
+- [00:11:37](/episodes/ep-q4m-kGzvwjw.md#t-00-11-13) (Claim) **Candace Owens**: ["Owens said Laine Schoneberger (whom she described as Yrefy’s CEO), his..."](/statements/statement-ce6a8ce3b4e1.md)
+  - Also about: [Laine Schoneberger](/entities/person-laine-schoneberger.md), [Dylan Erickson](/entities/person-dylan-erickson.md)
+
+- [00:21:24](/episodes/ep-q4m-kGzvwjw.md#t-00-21-01) (Claim) **Candace Owens**: ["Owens said Laine Schoneberger spoke for five minutes before the UVU ev..."](/statements/statement-44168683d471.md)
+  - Also about: [Laine Schoneberger](/entities/person-laine-schoneberger.md)
+
+- [00:26:03](/episodes/ep-q4m-kGzvwjw.md#t-00-25-50) (Claim) **Candace Owens**: ["Owens said UVU held a mass-casualty drill simulation with crisis actor..."](/statements/statement-6e9a2eff883f.md)
+
+- [00:27:13](/episodes/ep-q4m-kGzvwjw.md#t-00-27-13) (Claim) **Candace Owens**: ["Owens said TPUSA headquarters asked Caleb Chilcutt July 10 to book Cha..."](/statements/statement-072126b929f1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Caleb Chilcutt](/entities/person-caleb-chilcutt.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:09](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09) (Claim) **Candace Owens**: ["Owens said a formal request for TPUSA’s UVU chapter was submitted July..."](/statements/statement-69821213f9a7.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17) (Claim) **Candace Owens**: ["Owens said Cabot Phillips contacted TPUSA at UVU August 14 to request ..."](/statements/statement-f6be1f278d64.md)
+  - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:38:15](/episodes/ep-q4m-kGzvwjw.md#t-00-37-39) (Claim) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole claimed UVU event security planning began Aug..."](/statements/statement-f368d0befdd2.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:38:45](/episodes/ep-q4m-kGzvwjw.md#t-00-38-45) (Citation) **Candace Owens**: ["Owens said that at the August 25 Microsoft Teams major-events meeting,..."](/statements/statement-20a8abf6e8ff.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Microsoft Teams](/entities/work-microsoft-teams.md)
+
+- [00:39:09](/episodes/ep-q4m-kGzvwjw.md#t-00-38-45) (Citation) **Candace Owens**: ["Citing the independent review, Owens said UVU police chief Jeff Long f..."](/statements/statement-415ebdf9a6b4.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:39:21](/episodes/ep-q4m-kGzvwjw.md#t-00-39-21) (Claim) **Candace Owens**: ["Owens said September 2 was the first mention they could find of Charli..."](/statements/statement-c1c2a91b0d96.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:53](/episodes/ep-q4m-kGzvwjw.md#t-00-39-21) (Opinion) **Candace Owens**: ["Owens speculated that because the September 10 UVU event coincided wit..."](/statements/statement-e35acf1cf097.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3)</summary>
+
+- [00:00:44](/episodes/ep-5TTkMa49qj8.md#t-00-00-44) (Accusation) **Candace Owens**: ["Owens alleged Turning Point USA declined to give Lake Forest Group acc..."](/statements/statement-929fb62cdfa7.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [The Lake Forest Group](/entities/org-lake-forest-group.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:13](/episodes/ep-5TTkMa49qj8.md#t-00-36-41) (Accusation) **Candace Owens**: ["Owens alleged Turning Point did not participate in the UVU independent..."](/statements/statement-cdf1173e0ba6.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+- [00:55:01](/episodes/ep-5TTkMa49qj8.md#t-00-54-33) (Opinion) **Searching for keys (commenter; identity unverified)** (via quoted post): ["The commenter “Searching for keys” wrote that UVU did more to prevent ..."](/statements/statement-d403cedd8f63.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:02:38](/episodes/ep-_Sq5RqP27NY.md#t-00-02-23) (Promise) **Candace Owens**: ["Owens said she would take time over the weekend to put names on people..."](/statements/statement-797c43db7cd4.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (15)</summary>
+
+- [00:01:52](/episodes/ep-bIuvTKlFeGo.md#t-00-01-22) (Claim) **Candace Owens** (via paraphrase): ["Owens said the Kirk family filed a preemptive statement blaming securi..."](/statements/statement-44a4673f433a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:03:21](/episodes/ep-bIuvTKlFeGo.md#t-00-03-21) (Citation) **Candace Owens**: ["Owens said UVU reached out almost immediately to The Lake Forest Group..."](/statements/statement-d43f2e269131.md)
+  - Also about: [The Lake Forest Group](/entities/org-lake-forest-group.md)
+
+- [00:05:01](/episodes/ep-bIuvTKlFeGo.md#t-00-04-44) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review reported interviewing federal, local, county and state offi..."](/statements/statement-bae5f462b49d.md)
+
+- [00:09:43](/episodes/ep-bIuvTKlFeGo.md#t-00-09-43) (Opinion) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team’s opinion, based on all available information, was th..."](/statements/statement-7501e9863b63.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:02](/episodes/ep-bIuvTKlFeGo.md#t-00-09-43) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["With hindsight, the project team identified actions, omissions, circum..."](/statements/statement-1f29829eed35.md)
+
+- [00:11:11](/episodes/ep-bIuvTKlFeGo.md#t-00-10-49) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review said the MEAC process began August 21st, but key security d..."](/statements/statement-036a826ee596.md)
+  - Also about: [UVU Major Events Assessment Committee](/entities/org-uvu-major-events-assessment-committee.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:37](/episodes/ep-bIuvTKlFeGo.md#t-00-15-28) (Claim) **Caleb Chilcutt** (via quoted document): ["Caleb Chilcutt wrote that his TPUSA field representative asked him to ..."](/statements/statement-d57e97d06f14.md)
+  - Also about: [Caleb Chilcutt](/entities/person-caleb-chilcutt.md), [Maycee Crofts](/entities/person-maycee-crofts.md)
+
+- [00:23:35](/episodes/ep-bIuvTKlFeGo.md#t-00-23-03) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The timeline said formal approval occurred August 27th, complaints wer..."](/statements/statement-99747e31e3c3.md)
+  - Also about: [Astrid Tuminez](/entities/person-astrid-tuminez.md)
+
+- [00:35:34](/episodes/ep-bIuvTKlFeGo.md#t-00-35-09) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The report said Maycee Crofts attended the August 25th meeting at TPUS..."](/statements/statement-bbf35cd70441.md)
+  - Also about: [Maycee Crofts](/entities/person-maycee-crofts.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library.md)
+
+- [00:45:34](/episodes/ep-bIuvTKlFeGo.md#t-00-45-34) (Claim) **Brian Harpole** (via quoted document): ["Harpole said UVU selected the venue and told TPUSA, “nope, this is whe..."](/statements/statement-ba09cb8adc4f.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:45:58](/episodes/ep-bIuvTKlFeGo.md#t-00-45-58) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team said Harpole’s venue account and other statements con..."](/statements/statement-206d85b2aadb.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:47:48](/episodes/ep-bIuvTKlFeGo.md#t-00-47-24) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["Without speaking to Harpole, the project team could not determine why ..."](/statements/statement-6011e65054a7.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Orem Police Department](/entities/org-orem-police-department.md)
+
+- [00:51:16](/episodes/ep-bIuvTKlFeGo.md#t-00-50-40) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team identified gaps including limited planning time, no d..."](/statements/statement-0b52cdc0a049.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md), [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)
+
+- [00:52:27](/episodes/ep-bIuvTKlFeGo.md#t-00-51-54) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The review said TPUSA did not issue or require event tickets and there..."](/statements/statement-c15b8dae0717.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:27:24](/episodes/ep-bIuvTKlFeGo.md#t-01-27-17) (Claim) **Candace Owens**: ["Owens said the UVU drill was on June 17th."](/statements/statement-3a226cd8b0dd.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2)</summary>
+
+- [00:03:09](/episodes/ep-_2DiIbfy4mU.md#t-00-03-09) (Claim) **Candace Owens**: ["Owens claims federal authorities supplied grainy campus parking footag..."](/statements/statement-92aea6c06a52.md)
+
+- [00:14:31](/episodes/ep-_2DiIbfy4mU.md#t-00-14-31) (Claim) **Candace Owens**: ["Owens says there was allegedly a two-minute surveillance blackout in t..."](/statements/statement-6d083265ca76.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Nate Walker](/entities/person-nate-walker.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (10)</summary>
+
+- [00:04:01](/episodes/ep-6XfDqKTdFKg.md#t-00-04-01) (Claim) **Candace Owens**: ["Owens says two different gray Dodge Challengers arrived at UVU within ..."](/statements/statement-e29b73fb5936.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [Waluigi (UVU admissions-lot driver; identity unverified)](/entities/anon-src-6XfDqKTdFKg-002.md)
+
+- [00:05:05](/episodes/ep-6XfDqKTdFKg.md#t-00-04-40) (Claim) **Candace Owens**: ["Owens says they have no idea what Maroon Boy and Waluigi did for appro..."](/statements/statement-41a9131e5497.md)
+  - Also about: [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [Waluigi (UVU admissions-lot driver; identity unverified)](/entities/anon-src-6XfDqKTdFKg-002.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:06:25](/episodes/ep-6XfDqKTdFKg.md#t-00-06-09) (Claim) **Candace Owens**: ["Owens says Maroon Boy left campus in a Dodge Challenger at 9:33 a.m. a..."](/statements/statement-6a89d818d2ed.md)
+  - Also about: [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [Waluigi (UVU admissions-lot driver; identity unverified)](/entities/anon-src-6XfDqKTdFKg-002.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:11:04](/episodes/ep-6XfDqKTdFKg.md#t-00-10-57) (Claim) **Candace Owens**: ["Owens says Maroon Boy first drove to the top of the parking garage, wa..."](/statements/statement-0f8b613abe4f.md)
+  - Also about: [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:14:19](/episodes/ep-6XfDqKTdFKg.md#t-00-14-19) (Claim) **Candace Owens**: ["Owens says TMZ footage shows the person she identifies as Tyler Robins..."](/statements/statement-bd0f2e1b397e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [TMZ](/entities/org-tmz.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+- [00:17:50](/episodes/ep-6XfDqKTdFKg.md#t-00-17-38) (Accusation) **Candace Owens**: ["Owens thinks a morning meeting could have occurred at UVU ahead of wha..."](/statements/statement-01888bef947c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:45](/episodes/ep-6XfDqKTdFKg.md#t-00-18-17) (Citation) **Candace Owens**: ["Owens cites a September 15 warrant saying Maroon Boy visited the woode..."](/statements/statement-7d0e5814ec7e.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Maroon Boy (UVU garage subject; identity unverified)](/entities/anon-src-6XfDqKTdFKg-001.md)
+
+- [00:19:11](/episodes/ep-6XfDqKTdFKg.md#t-00-18-57) (Claim) **Utah State Bureau of Investigation** (via quoted document): ["The SBI warrant read by Owens reports that Agent Mortensen, whose full..."](/statements/statement-72de9f2c7aa0.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Agent Mortensen (campus-footage reviewer; identity unverified)](/entities/anon-src-6XfDqKTdFKg-003.md)
+
+- [00:19:51](/episodes/ep-6XfDqKTdFKg.md#t-00-19-41) (Claim) **Utah State Bureau of Investigation** (via quoted document): ["The SBI warrant read by Owens describes Robinson in a ball cap, red sh..."](/statements/statement-05f92880a825.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:24:19](/episodes/ep-6XfDqKTdFKg.md#t-00-24-19) (Claim) **Candace Owens**: ["Owens says Chelsea and Casey Baugh donated $5 million to UVU at the en..."](/statements/statement-31c126d187ce.md)
+  - Also about: [Chelsea Baugh](/entities/person-chelsea-baugh.md), [Casey Baugh](/entities/person-casey-baugh.md), [Chelsea & Casey Baugh Entrepreneurship Institute](/entities/org-chelsea-casey-baugh-entrepreneurship-institute.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (21)</summary>
+
+- [00:04:23](/episodes/ep-BvthGQw3_s0.md#t-00-04-07) (Opinion) **Candace Owens**: ["Owens said she had a feeling there might have been multiple decoys: sh..."](/statements/statement-f22336026958.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:06:11](/episodes/ep-BvthGQw3_s0.md#t-00-06-04) (Claim) **UVU student tip sources (identity unverified)** (via quoted speech): ["UVU student tip sources told Owens that the parking lot they call the ..."](/statements/statement-8a510804f402.md)
+
+- [00:06:17](/episodes/ep-BvthGQw3_s0.md#t-00-06-04) (Claim) **Candace Owens**: ["Owens said UVU has a high federal presence because it is a pipeline sc..."](/statements/statement-a0a43b989478.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [National Security Agency](/entities/org-national-security-agency.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:06:44](/episodes/ep-BvthGQw3_s0.md#t-00-06-44) (Claim) **Candace Owens**: ["Owens said the June 17, 2025 UVU simulation occurred during the same w..."](/statements/statement-8a4baca22bbc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:07:42](/episodes/ep-BvthGQw3_s0.md#t-00-07-15) (Citation) **Candace Owens**: ["Citing an article, Owens said UVU announced a bomb simulation at the U..."](/statements/statement-f625a84f10b0.md)
+  - Also about: [UCCU Center](/entities/org-uccu-center.md)
+
+- [00:08:13](/episodes/ep-BvthGQw3_s0.md#t-00-07-53) (Citation) **Candace Owens**: ["Citing the simulation article, Owens said nearly 20 agencies, units an..."](/statements/statement-6db1ddb92d9e.md)
+
+- [00:08:52](/episodes/ep-BvthGQw3_s0.md#t-00-08-34) (Citation) **Candace Owens**: ["Owens cited a simulation participant list that included the cybersecur..."](/statements/statement-6b38a164d7ff.md)
+  - Also about: [Cybersecurity and Infrastructure Security Agency](/entities/org-cisa.md), [Utah Division of Emergency Management](/entities/org-utah-division-of-emergency-management.md), [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)
+
+- [00:09:19](/episodes/ep-BvthGQw3_s0.md#t-00-09-19) (Claim) **Candace Owens**: ["Owens said doctors, surgeons and emergency personnel are not trained w..."](/statements/statement-634ec3ff14ef.md)
+
+- [00:10:03](/episodes/ep-BvthGQw3_s0.md#t-00-10-03) (Claim) **Candace Owens**: ["Owens said the show researched drills with theater elements involving ..."](/statements/statement-04fafbf50fe1.md)
+
+- [00:11:43](/episodes/ep-BvthGQw3_s0.md#t-00-11-25) (Claim) **Candace Owens**: ["Owens identified the UVU admissions parking lot as the lot next to the..."](/statements/statement-5dacdc4f712e.md)
+  - Also about: [Woodbury Building (Utah Valley University)](/entities/org-woodbury-building-uvu.md)
+
+- [00:12:03](/episodes/ep-BvthGQw3_s0.md#t-00-12-03) (Claim) **Candace Owens**: ["Owens said footage from the morning of September 10 showed a gray Dodg..."](/statements/statement-6738c77980fb.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:15:14](/episodes/ep-BvthGQw3_s0.md#t-00-14-49) (Claim) **Candace Owens**: ["Owens said the full footage showed the Challenger and SUV occupants ge..."](/statements/statement-6c704cec13d4.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:16:57](/episodes/ep-BvthGQw3_s0.md#t-00-16-41) (Claim) **Candace Owens**: ["Owens said the Challenger and black SUV left within a minute of one an..."](/statements/statement-fdc9d5e27733.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:20:08](/episodes/ep-BvthGQw3_s0.md#t-00-20-08) (Citation) **Candace Owens**: ["Owens recapped a timeline in which neighborhood footage catches Tyler ..."](/statements/statement-aff22fa84713.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:20:45](/episodes/ep-BvthGQw3_s0.md#t-00-20-45) (Citation) **Candace Owens**: ["Owens said the reported timeline places Tyler Robinson on UVU campus i..."](/statements/statement-c5f2faa306f9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:21:07](/episodes/ep-BvthGQw3_s0.md#t-00-20-45) (Claim) **Candace Owens**: ["Owens said Dan Flood, Brian Harpole and the security team, minus Chris..."](/statements/statement-f41aea04534e.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Brian Harpole](/entities/person-brian-harpole.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+- [00:21:15](/episodes/ep-BvthGQw3_s0.md#t-00-20-45) (Citation) **Candace Owens**: ["Owens said the reported timeline shows Tyler Robinson descending the p..."](/statements/statement-169db3f44c4f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:21:30](/episodes/ep-BvthGQw3_s0.md#t-00-21-30) (Claim) **Candace Owens**: ["In her later timeline recap, Owens said the newly shown gray Challenge..."](/statements/statement-90b62d132d83.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:23:04](/episodes/ep-BvthGQw3_s0.md#t-00-23-00) (Opinion) **Candace Owens**: ["Owens said the new footage could mean nothing and might show people at..."](/statements/statement-9f8453ef1a4a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:24:08](/episodes/ep-BvthGQw3_s0.md#t-00-23-43) (Opinion) **Candace Owens**: ["Owens said that if she were Tyler Robinson's defense lawyer she would ..."](/statements/statement-58af22133c6f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
+
+- [00:24:26](/episodes/ep-BvthGQw3_s0.md#t-00-24-26) (Opinion) **Candace Owens** (via paraphrase): ["Owens said Baron Coleman believes an early-morning meeting involving m..."](/statements/statement-14d49d153741.md)
+  - Also about: [Baron Coleman](/entities/person-baron-coleman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (15)</summary>
+
+- [00:02:06](/episodes/ep-NNiCZk1cuzs.md#t-00-01-29) (Citation) **Candace Owens**: ["Owens said TPUSA's UVU chapter declined an ambulance on standby by ans..."](/statements/statement-6a02047695e0.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [ABC News](/entities/org-abc-news.md)
+
+- [00:02:29](/episodes/ep-NNiCZk1cuzs.md#t-00-02-13) (Citation) **Candace Owens**: ["Owens cited a November 18 ABC News report saying planners expected 600..."](/statements/statement-65db9071a9a0.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [ABC News](/entities/org-abc-news.md)
+
+- [00:02:48](/episodes/ep-NNiCZk1cuzs.md#t-00-02-48) (Claim) **Candace Owens**: ["Owens said the TPUSA UVU chapter filled out an event form on July 18 a..."](/statements/statement-f23440e8e718.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:14](/episodes/ep-NNiCZk1cuzs.md#t-00-03-14) (Citation) **Candace Owens**: ["According to the ABC News report cited by Owens, 200 people attended K..."](/statements/statement-90ea5a8a8f5c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [University of Utah](/entities/org-university-of-utah.md), [ABC News](/entities/org-abc-news.md)
+
+- [00:04:04](/episodes/ep-NNiCZk1cuzs.md#t-00-03-52) (Opinion) **Candace Owens**: ["Owens said the UVU crowd looked to her like a crowd of adults unlike t..."](/statements/statement-298a8d02bdbe.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:58](/episodes/ep-NNiCZk1cuzs.md#t-00-04-32) (Claim) **Jeff Long** (via quoted article): ["Jeff Long was quoted saying there were probably over 3,000 attendees, ..."](/statements/statement-de977fe8fa2a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:18](/episodes/ep-NNiCZk1cuzs.md#t-00-05-18) (Claim) **Anonymous TPUSA official quoted by ABC News (Ep 389; identity unverified)** (via quoted article): ["An unnamed TPUSA official said the UVU chapter member selected 200-plu..."](/statements/statement-825c90e0a2a1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [University of Utah](/entities/org-university-of-utah.md)
+
+- [00:05:18](/episodes/ep-NNiCZk1cuzs.md#t-00-05-18) (Claim) **Anonymous TPUSA official quoted by ABC News (Ep 389; identity unverified)** (via quoted article): ["An unnamed TPUSA official said later conversations between the school ..."](/statements/statement-844c611d30fc.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:06:04](/episodes/ep-NNiCZk1cuzs.md#t-00-05-54) (Claim) **Anonymous TPUSA official quoted by ABC News (Ep 389; identity unverified)** (via quoted article): ["An unnamed TPUSA official described the events as unticketed and open ..."](/statements/statement-79f1c4dd1ab4.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:06:32](/episodes/ep-NNiCZk1cuzs.md#t-00-06-32) (Opinion) **Anonymous UVU email sender (Ep 389; identity unverified)** (via quoted article): ["A redacted UVU email sender wrote that they thought the Fulton Library..."](/statements/statement-d02cb87f577c.md)
+  - Also about: [Fulton Library Quad (Utah Valley University)](/entities/gpe-fulton-library-quad-uvu.md)
+
+- [00:07:29](/episodes/ep-NNiCZk1cuzs.md#t-00-07-10) (Claim) **Anonymous TPUSA event-form submitter (Ep 389; identity unverified)** (via quoted document): ["An unidentified event-form submitter answered no to whether EMS needed..."](/statements/statement-ab6d7121e727.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:07:49](/episodes/ep-NNiCZk1cuzs.md#t-00-07-10) (Claim) **Anonymous TPUSA official quoted by ABC News (Ep 389; identity unverified)** (via quoted article): ["An unnamed TPUSA official said two UVU emergency medical personnel, bu..."](/statements/statement-15710da30ef2.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:08:52](/episodes/ep-NNiCZk1cuzs.md#t-00-08-28) (Accusation) **Candace Owens**: ["Owens said TPUSA defended the local chapter’s ambulance decision, whic..."](/statements/statement-1ac3dd8531b4.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:09:02](/episodes/ep-NNiCZk1cuzs.md#t-00-08-28) (Citation) **Candace Owens**: ["Owens said the Kirk family lawyer was now filing a document alleging t..."](/statements/statement-c5d5a91002c7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:55:56](/episodes/ep-NNiCZk1cuzs.md#t-00-55-45) (Claim) **Handle Spilling the Tea (identity unverified)** (via quoted post): ["The viewer handle Spilling the Tea said TPUSA was suing UVU for failin..."](/statements/statement-87b5e46767b8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (16)</summary>
+
+- [00:04:15](/episodes/ep-aLJhpxrakCU.md#t-00-03-53) (Prediction) **Candace Owens** (via paraphrase): ["Owens said she was informed this week that the independent review of U..."](/statements/statement-df27fcab3d73.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:44](/episodes/ep-aLJhpxrakCU.md#t-00-04-34) (Claim) **The Associated Press** (via quoted article): ["The Associated Press article dated September 22, 2025 reported that Ut..."](/statements/statement-5f90f583d93d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:06](/episodes/ep-aLJhpxrakCU.md#t-00-05-06) (Opinion) **Astrid Tuminez** (via quoted article): ["Astrid Tuminez said, “we believe” the third-party independent review o..."](/statements/statement-3656a74e8309.md)
+
+- [00:05:35](/episodes/ep-aLJhpxrakCU.md#t-00-05-06) (Promise) **Astrid Tuminez** (via quoted article): ["Astrid Tuminez said UVU would integrate the review findings into effor..."](/statements/statement-0204080b1af9.md)
+  - Also about: [Utah](/entities/gpe-utah.md)
+
+- [00:06:27](/episodes/ep-aLJhpxrakCU.md#t-00-06-27) (Opinion) **Candace Owens**: ["Owens thought the notice filed Wednesday, two days before the expected..."](/statements/statement-ae3c7dc29614.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:12:48](/episodes/ep-aLJhpxrakCU.md#t-00-12-48) (Claim) **Candace Owens**: ["Owens said the UVU event came together in a couple of weeks, whereas c..."](/statements/statement-9757d4a6c21e.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:15](/episodes/ep-aLJhpxrakCU.md#t-00-14-15) (Claim) **Anonymous Source #15 (Ep aLJhpxrakCU)** (via quoted document): ["The notice says advocacy by the local Turning Point USA chapter led UV..."](/statements/statement-0ff7642dcf0f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:17:28](/episodes/ep-aLJhpxrakCU.md#t-00-17-28) (Claim) **Candace Owens** (via paraphrase): ["Owens said Turning Point USA insisted on the amphitheater and the univ..."](/statements/statement-48e9bdca8200.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:20:36](/episodes/ep-aLJhpxrakCU.md#t-00-20-10) (Opinion) **Candace Owens**: ["Owens thought Astrid Tuminez was right to deny more officers because t..."](/statements/statement-5cd32411685f.md)
+  - Also about: [Astrid Tuminez](/entities/person-astrid-tuminez.md)
+
+- [00:20:54](/episodes/ep-aLJhpxrakCU.md#t-00-20-54) (Claim) **Candace Owens**: ["Owens said UVU had 50,000 students and only 24 campus police officers ..."](/statements/statement-5d84deb86d7b.md)
+  - Also about: [Utah Valley University Police Department](/entities/org-utah-valley-university-police-department.md)
+
+- [00:23:04](/episodes/ep-aLJhpxrakCU.md#t-00-22-55) (Accusation) **Candace Owens**: ["Owens said UVU state-certified emergency medical responders stood besi..."](/statements/statement-a18a9525cca8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:25:02](/episodes/ep-aLJhpxrakCU.md#t-00-24-51) (Accusation) **Anonymous Source #15 (Ep aLJhpxrakCU)** (via quoted document): ["The notice alleges UVU could have maintained a secure perimeter with p..."](/statements/statement-4b7d164629b7.md)
+
+- [00:25:21](/episodes/ep-aLJhpxrakCU.md#t-00-24-51) (Claim) **Candace Owens** (via paraphrase): ["Owens said UVU allegedly told Macy Crofts on the Microsoft Teams call ..."](/statements/statement-e3b63c4588e0.md)
+  - Also about: [Maycee Crofts](/entities/person-maycee-crofts.md)
+
+- [00:31:44](/episodes/ep-aLJhpxrakCU.md#t-00-31-44) (Accusation) **Anonymous Source #15 (Ep aLJhpxrakCU)** (via quoted document): ["The notice says Chief Long’s text led TPUSA to reasonably conclude UVU..."](/statements/statement-f5292d74d613.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:33:35](/episodes/ep-aLJhpxrakCU.md#t-00-33-04) (Accusation) **Anonymous Source #15 (Ep aLJhpxrakCU)** (via quoted document): ["The notice alleges UVU parties’ omissions, actions and misconduct led ..."](/statements/statement-4b1f51675ba8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Constitution](/entities/law-united-states-constitution.md)
+
+- [00:36:44](/episodes/ep-aLJhpxrakCU.md#t-00-36-14) (Prediction) **Candace Owens**: ["Owens thought it possible that the claimants would score a big payday ..."](/statements/statement-30c18e468dc2.md)
+  - Also about: [Utah](/entities/gpe-utah.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

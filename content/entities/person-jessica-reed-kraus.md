@@ -1,6 +1,6 @@
 ---
 title: "Jessica Reed Kraus"
-description: "Jessica Reed Kraus (People) - 7 mentions"
+description: "Jessica Reed Kraus (People) - 9 mentions"
 id: "person-jessica-reed-kraus"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-jessica-reed-kraus-t-00-26-57">2026-05-07 · 00:27:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-jessica-reed-kraus-t-00-31-26">2026-05-13 · 00:31:26</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#t-00-02-06">2026-10-05 · 00:02:34</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,8 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-jessica-reed-kraus-t-00-26-57" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-jessica-reed-kraus-t-00-31-26" style="--pulse-height:40%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-jessica-reed-kraus-t-00-06-48" style="--pulse-height:20%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-02-06" style="--pulse-height:20%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +42,8 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 |---|---|---:|
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-jessica-reed-kraus-t-00-26-57) | 5 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-jessica-reed-kraus-t-00-31-26) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-jessica-reed-kraus-t-00-06-48) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-02-06) | 1 |
 
 </details>
 </section>
@@ -47,7 +51,23 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06)**
+> "This was originally reported on by Jessica Reed Krause (House and Habit author; transcript surname spelling unverified), House and Habit. I independently confirmed this information via three individuals who separately know Candace (Candace Owens). Oh, it's, I'm just getting worse every week, you guys."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:06:55](/episodes/ep-O4Zw3bCALjU.md#ent-person-jessica-reed-kraus-t-00-06-48)**
+> "He told House and Habit like Jessica Reed Kraus that she has all the same natural talents as Cand..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2 mentions)</summary>
@@ -105,6 +125,18 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 </details>
 
 <details>
+<summary>Authored (1)</summary>
+
+- **[House Inhabit](/entities/work-house-inhabit.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06): “This was originally reported on by Jessica Reed Krause (House and Habit author; transcript surname spelling unverified), House and Habit. I independently confirmed this information via three individuals who separately know Candace (Candace Owens). Oh, it's, I'm just getting worse every week, you guys.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -141,7 +173,7 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[George Farmer](/entities/person-george-farmer.md)** attacked by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -154,6 +186,13 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:29:46](/episodes/ep-FFQ9675oqRI.md#t-00-29-46): “The person she attacked was Ashley St. Clair. Jessica Reed Kraus is House Inhabit's real name, by the way. She randomly attacked Ashley St. Clair.”
+
+</details>
+
+- **[House Inhabit](/entities/work-house-inhabit.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06): “This was originally reported on by Jessica Reed Krause (House and Habit author; transcript surname spelling unverified), House and Habit. I independently confirmed this information via three individuals who separately know Candace (Candace Owens). Oh, it's, I'm just getting worse every week, you guys.”
 
 </details>
 
@@ -204,7 +243,15 @@ Source: [Jessica Reed Kraus, RFK Jr. Fanblogger, Claims to Be Official Press](ht
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jessica Reed Kraus (3)</strong></summary>
+<summary><strong class="section-title">Statements about Jessica Reed Kraus (4)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:02:34](/episodes/ep-ms5ChhZegRg.md#t-00-02-06) (Citation) **Lisa Knows (social-media account; identity unverified)** (via quoted tweet): ["The account introduced as Lisa Knows claimed the nanny allegations wer..."](/statements/statement-fc461bf14d6f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [House Inhabit](/entities/work-house-inhabit.md), [Three unnamed individuals cited in Lisa Knows tweet (identities unverified)](/entities/anon-src-ms5ChhZegRg-020.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>

@@ -27,13 +27,23 @@ veracity: "mixed"
 - [Michael Aquino](/entities/person-michael-aquino.md) (person)
 - [Temple of Set](/entities/org-temple-of-set.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35) 
 <a href="https://www.youtube.com/watch?v=SubDoZWHARo&t=2915s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > That's interesting. The TPUSA advisor, Paul E. Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aquino, a Satanist and founder of the Temple of Set.
+
+### 2. A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemor...
+
+**Episode:** [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md)
+**Timestamp:** [00:06:45](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21) 
+<a href="https://www.youtube.com/watch?v=kn1E0scy9Wc&t=405s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> TPUSA advisor Paul Vallely is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino, who was a Satanist and a founder of the Temple of Set, former Satanist who then became the founder of the Temple of Set.
 
 ## Verification
 

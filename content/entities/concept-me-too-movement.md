@@ -1,6 +1,6 @@
 ---
 title: "Me Too movement"
-description: "Me Too movement (Concepts) - 15 mentions"
+description: "Me Too movement (Concepts) - 16 mentions"
 id: "concept-me-too-movement"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Me Too movement | Britannica](https://www.britannica.com/topic/Me-Too-m
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-concept-me-too-movement-t-00-13-27">2025-09-11 · 00:13:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-me-too-movement-t-00-37-01">2026-08-10 · 00:37:01</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-me-too-movement-t-00-06-39">2026-10-05 · 00:07:00</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [Me Too movement | Britannica](https://www.britannica.com/topic/Me-Too-m
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-me-too-movement-t-00-49-59" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-me-too-movement-t-00-44-12" style="--pulse-height:14%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-me-too-movement-t-00-37-01" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-me-too-movement-t-00-06-39" style="--pulse-height:14%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Me Too movement | Britannica](https://www.britannica.com/topic/Me-Too-m
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-me-too-movement-t-00-49-59) | 7 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-me-too-movement-t-00-44-12) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-me-too-movement-t-00-37-01) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-me-too-movement-t-00-06-39) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [Me Too movement | Britannica](https://www.britannica.com/topic/Me-Too-m
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:07:00](/episodes/ep-ms5ChhZegRg.md#ent-concept-me-too-movement-t-00-06-39)**
+> "...t least, and that was hashtag me too."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -192,7 +202,15 @@ Source: [Me Too movement | Britannica](https://www.britannica.com/topic/Me-Too-m
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Me Too movement (3)</strong></summary>
+<summary><strong class="section-title">Statements about Me Too movement (4)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:06:49](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens**: ["Owens alleged the Las Vegas shooting disappeared from the media cycle ..."](/statements/statement-f63096f6ee9c.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [The New York Times](/entities/org-the-new-york-times.md), [Harvey Weinstein](/entities/person-harvey-weinstein.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>

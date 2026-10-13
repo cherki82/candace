@@ -1,6 +1,6 @@
 ---
 title: "Fox & Friends"
-description: "Fox & Friends (Works & Media) - 3 mentions"
+description: "Fox & Friends (Works & Media) - 4 mentions"
 id: "work-fox-and-friends"
 type: "WORK"
 categories:
@@ -18,11 +18,11 @@ Source: [Fox & Friends | Fox News](https://www.foxnews.com/shows/fox-and-friends
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-work-fox-and-friends-t-00-26-19">2025-09-17 · 00:26:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#t-00-31-36">2026-08-19 · 00:31:36</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#t-00-23-17">2026-09-30 · 00:23:31</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [Fox & Friends | Fox News](https://www.foxnews.com/shows/fox-and-friends
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-work-fox-and-friends-t-00-26-19" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#t-00-31-36" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#t-00-23-17" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Fox & Friends | Fox News](https://www.foxnews.com/shows/fox-and-friends
 |---|---|---:|
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-work-fox-and-friends-t-00-26-19) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#t-00-31-36) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#t-00-23-17) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Fox & Friends | Fox News](https://www.foxnews.com/shows/fox-and-friends
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:23:31](/episodes/ep-5TTkMa49qj8.md#t-00-23-17)**
+> "The Sean Hannity interview on December 8th, the Fox and Friends on December 9th, co-hosting Fox's The Five, that's on December 9th as well, outnumbered December 10th, Red Jackets, the town hall with Bari Weiss, the black suit, that would have been very appropriate."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -91,6 +101,19 @@ Source: [Fox & Friends | Fox News](https://www.foxnews.com/shows/fox-and-friends
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:36](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “Well, yeah, this person pointed to me on X that actually Trump (Donald J. Trump) told the truth. Trump (Donald J. Trump) went on Fox and Friends in the immediate aftermath of Tyler Robinson being arrested and explained to the public exactly what we have been saying that Mike Mitchell.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Fox & Friends (1)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:23:17](/episodes/ep-5TTkMa49qj8.md#t-00-23-17) (Claim) **Candace Owens**: ["Owens cited additional Erika Kirk outfits at the December 3 New York T..."](/statements/statement-0d1b5ee73fb6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md), [Sean Hannity](/entities/person-sean-hannity.md)
 
 </details>
 

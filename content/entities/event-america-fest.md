@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 35 mentions"
+description: "America Fest (Events) - 40 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -26,42 +26,44 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55">2026-09-02 · 00:18:55</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-event-america-fest-t-00-45-55">2026-10-08 · 00:46:26</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-03-54">LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 3 mentions" title="2025-09-15 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-event-america-fest-t-00-40-15" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-event-america-fest-t-00-41-28" style="--pulse-height:67%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-event-america-fest-t-00-29-16" style="--pulse-height:33%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-event-america-fest-t-00-33-19" style="--pulse-height:67%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33" style="--pulse-height:33%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-event-america-fest-t-01-09-48" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-event-america-fest-t-00-41-45" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-event-america-fest-t-00-39-16" style="--pulse-height:33%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-event-america-fest-t-00-11-52" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-event-america-fest-t-00-52-13" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-event-america-fest-t-00-42-45" style="--pulse-height:67%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-event-america-fest-t-00-06-47" style="--pulse-height:33%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36" style="--pulse-height:33%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-event-america-fest-t-00-13-15" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-america-fest-t-00-40-07" style="--pulse-height:67%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-event-america-fest-t-00-36-57" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-event-america-fest-t-01-00-36" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41" style="--pulse-height:67%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-event-america-fest-t-00-25-58" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57" style="--pulse-height:75%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 3 mentions" title="2025-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-event-america-fest-t-00-40-15" style="--pulse-height:25%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-event-america-fest-t-00-41-28" style="--pulse-height:50%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-event-america-fest-t-00-29-16" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-event-america-fest-t-00-33-19" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33" style="--pulse-height:25%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-event-america-fest-t-01-09-48" style="--pulse-height:25%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-event-america-fest-t-00-41-45" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-event-america-fest-t-00-39-16" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-event-america-fest-t-00-11-52" style="--pulse-height:25%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-event-america-fest-t-00-52-13" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-event-america-fest-t-00-42-45" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-event-america-fest-t-00-06-47" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-event-america-fest-t-00-13-15" style="--pulse-height:25%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-america-fest-t-00-40-07" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-event-america-fest-t-00-36-57" style="--pulse-height:25%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-event-america-fest-t-01-00-36" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41" style="--pulse-height:50%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-event-america-fest-t-00-25-58" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-03-54" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-event-america-fest-t-00-45-55" style="--pulse-height:25%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -90,6 +92,8 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-event-america-fest-t-00-25-58) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-03-54) | 4 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-event-america-fest-t-00-45-55) | 1 |
 
 </details>
 </section>
@@ -101,7 +105,32 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:46:26](/episodes/ep-UAdBEXs7nNc.md#ent-event-america-fest-t-00-45-55)**
+> "...nt of UVU, Caleb Chilcutt, at AMFEST 2025."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (4 mentions)</summary>
+
+**[00:03:54](/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-03-54)**
+> "...ual Mar-a-Lago event, also at AMFest. And by the way, regarding the Mar-a-Lago event, ..."
+
+**[00:16:21](/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-16-21)**
+> "...oing to be a part of America, America Fest's 2024 donor dinner. I think they meant to say 2025..."
+
+**[00:17:45](/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-17-28)**
+> "America Fest, same thing. Just kind of repeated there of what ..."
+
+**[00:18:08](/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-18-08)**
+> "...want her for the Winter Gala, America Fest, the Spring Investor Retreat, the social media po..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -363,7 +392,15 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about America Fest (7)</strong></summary>
+<summary><strong class="section-title">Statements about America Fest (8)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:03:54](/episodes/ep-q4m-kGzvwjw.md#t-00-03-54) (Claim) **Candace Owens**: ["Owens said TPUSA displayed Charlie Kirk’s bloodied microphone as an ap..."](/statements/statement-79d88633f50c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Mar-a-Lago](/entities/gpe-mar-a-lago.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

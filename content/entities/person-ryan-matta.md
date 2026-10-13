@@ -1,6 +1,6 @@
 ---
 title: "Ryan Matta"
-description: "Ryan Matta (People) - 5 mentions"
+description: "Ryan Matta (People) - 7 mentions"
 id: "person-ryan-matta"
 type: "PERSON"
 aliases:
@@ -22,23 +22,24 @@ Source: [Ryan Matta — Linktree](https://linktr.ee/ryanmatta)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-ryan-matta-t-00-48-45">2025-10-27 · 00:48:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ryan-matta-t-00-51-47">2025-12-09 · 00:52:25</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-ryan-matta-t-00-25-12">2026-09-25 · 00:25:40</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-c5BcKF91iec.md#ent-person-ryan-matta-t-00-48-45">Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-ryan-matta-t-00-15-54">CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-c5BcKF91iec.md#ent-person-ryan-matta-t-00-48-45" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-ryan-matta-t-00-18-58" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-ryan-matta-t-00-30-35" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ryan-matta-t-00-51-47" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-ryan-matta-t-00-48-45" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-ryan-matta-t-00-18-58" style="--pulse-height:50%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-ryan-matta-t-00-30-35" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ryan-matta-t-00-51-47" style="--pulse-height:50%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-ryan-matta-t-00-15-54" style="--pulse-height:100%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Ryan Matta — Linktree](https://linktr.ee/ryanmatta)
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-ryan-matta-t-00-18-58) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-ryan-matta-t-00-30-35) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ryan-matta-t-00-51-47) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-ryan-matta-t-00-15-54) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Ryan Matta — Linktree](https://linktr.ee/ryanmatta)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:16:09](/episodes/ep-_Sq5RqP27NY.md#ent-person-ryan-matta-t-00-15-54)**
+> "...to revisit. I actually called Ryan Matta today. That’s another reason why I was late, beca..."
+
+**[00:25:40](/episodes/ep-_Sq5RqP27NY.md#ent-person-ryan-matta-t-00-25-12)**
+> "...n. And I was talking to Ryan (Ryan Matta), you know, he got reached out to somebody who go..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
@@ -107,12 +120,31 @@ Source: [Ryan Matta — Linktree](https://linktr.ee/ryanmatta)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Spoke With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:16:09](/episodes/ep-_Sq5RqP27NY.md#t-00-15-54): “At the Mountain Shadows Shopping Center. This is another area that we need to revisit. I actually called Ryan Matta today. That’s another reason why I was late, because I suddenly realized this isn’t, this is an interesting entry, and I said, “How did you come about this information?” Because I was wondering if this information was intentionally fed to the public about somebody saw a Dodge Challenger in a parking lot and just called and reported it. It’s a Dodge Challenger. It’s not like that’s not news.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:52:25](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47): “Ryan Matta has been amazing on X. Melissa (Village Crazy Lady; identity unverified), I always tell you about Melissa (Village Crazy Lady; identity unverified).”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:16:09](/episodes/ep-_Sq5RqP27NY.md#t-00-15-54): “At the Mountain Shadows Shopping Center. This is another area that we need to revisit. I actually called Ryan Matta today. That’s another reason why I was late, because I suddenly realized this isn’t, this is an interesting entry, and I said, “How did you come about this information?” Because I was wondering if this information was intentionally fed to the public about somebody saw a Dodge Challenger in a parking lot and just called and reported it. It’s a Dodge Challenger. It’s not like that’s not news.”
 
 </details>
 

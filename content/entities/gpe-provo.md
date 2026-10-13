@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 134 mentions"
+description: "Provo (Places) - 137 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24">2026-08-03 · 00:13:40</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>134</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53">2026-10-05 · 00:27:53</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>137</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -69,6 +69,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-provo-t-00-12-03" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-provo-t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-46-40" style="--pulse-height:11%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,6 +108,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-provo-t-00-12-03) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-provo-t-00-03-59) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-46-40) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53) | 1 |
 
 </details>
 </section>
@@ -117,7 +121,26 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+<summary><strong class="section-title">Raw mentions (137)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:27:53](/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53)**
+> "...thing seems to be coming from Provo, but I wanted you to hear it. And we were also ab..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[00:47:12](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-46-40)**
+> "...A restrictions related to the Provo airspace. But just like we told you guys, that wa..."
+
+**[00:48:00](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-48-00)**
+> "...I can't use it because of the Provo airspace, which is completely irrelevant to where..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -746,7 +769,15 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo (31)</strong></summary>
+<summary><strong class="section-title">Statements about Provo (32)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:26:29](/episodes/ep-ms5ChhZegRg.md#t-00-26-29) (Citation) **Candace Owens**: ["Owens said the dispatch sequence seemed to corroborate the UVU review,..."](/statements/statement-3a14ea94458a.md)
+  - Also about: [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>

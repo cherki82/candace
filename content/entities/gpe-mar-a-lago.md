@@ -1,6 +1,6 @@
 ---
 title: "Mar-a-Lago"
-description: "Mar-a-Lago (Places) - 32 mentions"
+description: "Mar-a-Lago (Places) - 37 mentions"
 id: "gpe-mar-a-lago"
 type: "GPE"
 categories:
@@ -19,11 +19,11 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-mar-a-lago-t-00-50-40">2025-10-02 · 00:50:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-mar-a-lago-t-00-11-02">2026-07-27 · 00:11:19</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-mar-a-lago-t-00-30-44">2026-10-06 · 00:31:14</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -51,6 +51,8 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-mar-a-lago-t-00-55-47" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-mar-a-lago-t-00-04-17" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-mar-a-lago-t-00-11-02" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-mar-a-lago-t-00-03-54" style="--pulse-height:75%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-mar-a-lago-t-00-30-44" style="--pulse-height:50%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +77,8 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-mar-a-lago-t-00-55-47) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-mar-a-lago-t-00-04-17) | 2 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-mar-a-lago-t-00-11-02) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-mar-a-lago-t-00-03-54) | 3 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-mar-a-lago-t-00-30-44) | 2 |
 
 </details>
 </section>
@@ -86,7 +90,32 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:30:55](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-mar-a-lago-t-00-30-44)**
+> "...to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UF..."
+
+**[00:31:14](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-mar-a-lago-t-00-30-44)**
+> "...ings, the White House, and at Mar-a-Lago alongside the Kirks and Tulsi Gabbard, the former..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:03:54](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-mar-a-lago-t-00-03-54)**
+> "You will also recall they eventually made the terribly crass decision to encase Charlie (Charlie Kirk)'s bloodied microphone as an emotional appeal to donors at their annual Mar-a-Lago event, also at AMFest. And by the way, regarding the Mar-a-Lago event, it worked. They allegedly raised $40 million at that event, in part due to things that were meant to pull at your heartstrings. You know, Erika (Erika Kirk) photographed"
+
+**[00:04:42](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-mar-a-lago-t-00-04-23)**
+> "But I want you guys to know that in the lead up to that Mar-a-Lago event, obviously Erika (Erika Kirk) was the CEO."
+
+**[00:04:48](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-mar-a-lago-t-00-04-48)**
+> "And she was communicating with teams via Telegram. And what she was interested in was knowing the names of a very specific kind of attendee to that Mar-a-Lago event: the extremely wealthy, rich kind, offensively rich kind of attendees. She put together a Telegram group that was entitled Dominate"
+
+</details>
 
 <details>
 <summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
@@ -308,7 +337,15 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mar-a-Lago (4)</strong></summary>
+<summary><strong class="section-title">Statements about Mar-a-Lago (5)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:03:54](/episodes/ep-q4m-kGzvwjw.md#t-00-03-54) (Claim) **Candace Owens**: ["Owens said TPUSA displayed Charlie Kirk’s bloodied microphone as an ap..."](/statements/statement-79d88633f50c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [America Fest](/entities/event-america-fest.md)
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>

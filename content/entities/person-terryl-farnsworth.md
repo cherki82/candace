@@ -1,10 +1,11 @@
 ---
 title: "Terryl Farnsworth"
-description: "Terryl Farnsworth (People) - 167 mentions"
+description: "Terryl Farnsworth (People) - 183 mentions"
 id: "person-terryl-farnsworth"
 type: "PERSON"
 aliases:
   - "Terryl"
+  - "Tricky Terryl"
 categories:
   - "video production"
   - "Turning Point USA"
@@ -14,7 +15,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Terryl
+**Also known as:** Terryl, Tricky Terryl
 
 **Categories:** video production, Turning Point USA, audiovisual production, Charlie Kirk assassination case
 
@@ -24,12 +25,12 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#t-00-11-52">2025-11-17 · 00:12:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-terryl-farnsworth-t-00-08-04">2026-09-03 · 00:08:04</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>167</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BvthGQw3_s0.md#ent-person-terryl-farnsworth-t-00-10-03">2026-09-21 · 00:10:18</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>183</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>81</strong></div>
-<div><span>Relationships</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>89</strong></div>
+<div><span>Relationships</span><strong>27</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -69,6 +70,10 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-02-00" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-terryl-farnsworth-t-00-20-31" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-terryl-farnsworth-t-00-08-04" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-19-16" style="--pulse-height:23%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 10 mentions" title="2026-09-14 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-terryl-farnsworth-t-00-01-13" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-terryl-farnsworth-t-01-00-51" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 2 mentions" title="2026-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-terryl-farnsworth-t-00-10-03" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,6 +111,10 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-02-00) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-terryl-farnsworth-t-00-20-31) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-terryl-farnsworth-t-00-08-04) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-19-16) | 10 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-terryl-farnsworth-t-00-01-13) | 3 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-terryl-farnsworth-t-01-00-51) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-terryl-farnsworth-t-00-10-03) | 1 |
 
 </details>
 </section>
@@ -117,7 +126,75 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (167)</strong></summary>
+<summary><strong class="section-title">Raw mentions (183)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:10:18](/episodes/ep-BvthGQw3_s0.md#ent-person-terryl-farnsworth-t-00-10-03)**
+> "...e wonder what Tricky Terrell (Terryl Farnsworth) was doing on June 17th. Ah, Tricky Terrell (Terr..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2 mentions)</summary>
+
+**[01:01:24](/episodes/ep-aLJhpxrakCU.md#ent-person-terryl-farnsworth-t-01-00-51)**
+> "... keep track of Tricky Terryl (Terryl Farnsworth) because Tricky Terryl (Terryl Farnsworth) bother..."
+
+**[01:01:36](/episodes/ep-aLJhpxrakCU.md#ent-person-terryl-farnsworth-t-01-01-36)**
+> "...ortant info regarding Terryl (Terryl Farnsworth). So I will check that out."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:01:40](/episodes/ep-kn1E0scy9Wc.md#ent-person-terryl-farnsworth-t-00-01-13)**
+> "...e continue to be gaslit about Terryl Farnsworth. I'm really angry about this Terryl Farnsworth bi..."
+
+**[00:01:58](/episodes/ep-kn1E0scy9Wc.md#ent-person-terryl-farnsworth-t-00-01-58)**
+> "Terryl Farnsworth might just be my hill to die on. It is just reach..."
+
+**[00:03:17](/episodes/ep-kn1E0scy9Wc.md#ent-person-terryl-farnsworth-t-00-03-17)**
+> "...onducting a citizen's arrest. Terryl Farnsworth, you are not safe here in the state of Tennessee,..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (10 mentions)</summary>
+
+**[00:19:16](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-19-16)**
+> "...1 o'clock p.m. Okay. And it's Terryl Farnsworth just doing Terryl Farnsworth type things. I think..."
+
+**[00:19:26](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-19-16)**
+> "...'m going to show you, Terryl (Terryl Farnsworth) is again on his laptop and he's looking around, ..."
+
+**[00:19:53](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-19-16)**
+> "Back of this van, Terryl Farnsworth, yeah."
+
+**[00:20:38](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-20-38)**
+> "... Kirk) has gone down, Terryl (Terryl Farnsworth) is very focused on this footage."
+
+**[00:20:49](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-20-38)**
+> "... I feel like when it comes to Terryl Farnsworth, especially we're kind of at a place where We sho..."
+
+**[00:21:30](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-21-19)**
+> "... open about my feelings about Terryl Farnsworth because he lied to me. I can't get over this fact..."
+
+**[00:21:45](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-21-19)**
+> ".... And what did we learn about Terryl Farnsworth? Actually, he immediately sent over files to the ..."
+
+**[00:22:22](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-22-22)**
+> "If I see Terryl Farnsworth, I'm going to conduct a citizen's arrest. Nobody ..."
+
+**[00:22:43](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-22-22)**
+> "Regarding Terryl Farnsworth, and I was actually just trying to clear what I t..."
+
+**[00:41:22](/episodes/ep-O4Zw3bCALjU.md#ent-person-terryl-farnsworth-t-00-41-22)**
+> "...evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basicall..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -827,11 +904,14 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:30:55](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Why hasn't she fired anybody? Why haven't you fired Terryl (Terryl Farnsworth) just for recording himself? How about that? That's a good reason to be like, I'm just like, you know, you're fired for being a scumbag.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:23](/episodes/ep-G3zdOeHpvS0.md#t-00-27-14): “Taryl (Taryl Farnsworth) single-handedly who was the person who made me realize that something was very wrong ... His absurd claim, patently absurd claim that he did not know how to send a video file”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:20:31](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “Terryl (Terryl Farnsworth) prematurely announcing Charlie (Charlie Kirk)'s death to himself. He chose to record himself rather than to call 911. Selfie vid. ... And even after he was finished with that bizarre selfie vid, he then jumps down from the grassy knoll, not crying, he's chill, starts removing SD cards. ... Seemingly plausibly toying around with the footage sticking the sd card into his computer looking around looking shady and getting to work”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:21:30](/episodes/ep-O4Zw3bCALjU.md#t-00-21-19): “Going to be open about my feelings about Terryl Farnsworth because he lied to me. I can't get over this fact that they're trying to, again, they love gaslighting us and they're pretending that it doesn't matter that he lied to me and say he didn't know how to send a file, that he was worried that Google was going to hack him. And then the preliminary hearing takes place. And what did we learn about Terryl Farnsworth? Actually, he immediately sent over files to the FBI and he chose to do that. That via Google. Okay, so why is he lying days later about that? Why is he pretending that he doesn't know how to send a file? It'd be fine if he said, 'Oh, I don't want to, you know, don't want to show anybody what's happened behind Charlie (Charlie Kirk)'s head.' But like I said, we can infer, certainly given everything that we have seen, that he zoomed—he may have zoomed in on this footage. I'm at the point where I was like, 'What are the qualifications to conduct a citizen's arrest?'”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:01:40](/episodes/ep-kn1E0scy9Wc.md#t-00-01-13): “You know what, guys? I just want to say right at the top here, the more I think about it, like just in the privacy of my own thoughts, the more outrageous it becomes that we continue to be gaslit about Terryl Farnsworth. I'm really angry about this Terryl Farnsworth bit, just the amount of evidence that we have produced that he is shady. Terryl Farnsworth might just be my hill to die on. It is just reaching a level of absurdity. He's actually cartoonishly sneaky.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 01:01:24](/episodes/ep-aLJhpxrakCU.md#t-01-00-51): “Yeah, he will keep track of Tricky Terryl (Terryl Farnsworth) because Tricky Terryl (Terryl Farnsworth) bothers us all. We don't know how he's allowed to just be this tricky and just get away with it. It just feels wrong.”
 
 </details>
 
@@ -864,6 +944,18 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:59](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “just be a coincidence but it's interesting it would give them an excuse to be in that region and so i'd like to know more because the farnsworth family is coming up too much tarot farnsworth's wife by the way people on the internet discovered this um and i'm gonna get the name i don't want to get this name right i'm gonna get this name right i mean i don't want to get it wrong his father-in-law It's Tom Burt, who ran Duncan Aviation.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Threatened By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:22:22](/episodes/ep-O4Zw3bCALjU.md#t-00-22-22): “If I see Terryl Farnsworth, I'm going to conduct a citizen's arrest. Nobody else do it. I'm going to do it because I find him to be the most remarkably suspicious character on September 10th in terms of the immediate actions that he took, the immediate actions that he didn't take, and then the lies that he told days later to me for absolutely no reason when I was not suspicious of anything.”
 
 </details>
 
@@ -906,7 +998,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Nisscee](/entities/person-nisscee.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -944,11 +1036,14 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:30:55](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Why hasn't she fired anybody? Why haven't you fired Terryl (Terryl Farnsworth) just for recording himself? How about that? That's a good reason to be like, I'm just like, you know, you're fired for being a scumbag.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:23](/episodes/ep-G3zdOeHpvS0.md#t-00-27-14): “Taryl (Taryl Farnsworth) single-handedly who was the person who made me realize that something was very wrong ... His absurd claim, patently absurd claim that he did not know how to send a video file”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:20:31](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “Terryl (Terryl Farnsworth) prematurely announcing Charlie (Charlie Kirk)'s death to himself. He chose to record himself rather than to call 911. Selfie vid. ... And even after he was finished with that bizarre selfie vid, he then jumps down from the grassy knoll, not crying, he's chill, starts removing SD cards. ... Seemingly plausibly toying around with the footage sticking the sd card into his computer looking around looking shady and getting to work”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:21:30](/episodes/ep-O4Zw3bCALjU.md#t-00-21-19): “Going to be open about my feelings about Terryl Farnsworth because he lied to me. I can't get over this fact that they're trying to, again, they love gaslighting us and they're pretending that it doesn't matter that he lied to me and say he didn't know how to send a file, that he was worried that Google was going to hack him. And then the preliminary hearing takes place. And what did we learn about Terryl Farnsworth? Actually, he immediately sent over files to the FBI and he chose to do that. That via Google. Okay, so why is he lying days later about that? Why is he pretending that he doesn't know how to send a file? It'd be fine if he said, 'Oh, I don't want to, you know, don't want to show anybody what's happened behind Charlie (Charlie Kirk)'s head.' But like I said, we can infer, certainly given everything that we have seen, that he zoomed—he may have zoomed in on this footage. I'm at the point where I was like, 'What are the qualifications to conduct a citizen's arrest?'”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:01:40](/episodes/ep-kn1E0scy9Wc.md#t-00-01-13): “You know what, guys? I just want to say right at the top here, the more I think about it, like just in the privacy of my own thoughts, the more outrageous it becomes that we continue to be gaslit about Terryl Farnsworth. I'm really angry about this Terryl Farnsworth bit, just the amount of evidence that we have produced that he is shady. Terryl Farnsworth might just be my hill to die on. It is just reaching a level of absurdity. He's actually cartoonishly sneaky.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 01:01:24](/episodes/ep-aLJhpxrakCU.md#t-01-00-51): “Yeah, he will keep track of Tricky Terryl (Terryl Farnsworth) because Tricky Terryl (Terryl Farnsworth) bothers us all. We don't know how he's allowed to just be this tricky and just get away with it. It just feels wrong.”
 
 </details>
 
@@ -994,6 +1089,13 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:59](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “just be a coincidence but it's interesting it would give them an excuse to be in that region and so i'd like to know more because the farnsworth family is coming up too much tarot farnsworth's wife by the way people on the internet discovered this um and i'm gonna get the name i don't want to get this name right i'm gonna get this name right i mean i don't want to get it wrong his father-in-law It's Tom Burt, who ran Duncan Aviation.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** threatened this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:22:22](/episodes/ep-O4Zw3bCALjU.md#t-00-22-22): “If I see Terryl Farnsworth, I'm going to conduct a citizen's arrest. Nobody else do it. I'm going to do it because I find him to be the most remarkably suspicious character on September 10th in terms of the immediate actions that he took, the immediate actions that he didn't take, and then the lies that he told days later to me for absolutely no reason when I was not suspicious of anything.”
 
 </details>
 
@@ -1060,7 +1162,38 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terryl Farnsworth (81)</strong></summary>
+<summary><strong class="section-title">Statements about Terryl Farnsworth (89)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:10:33](/episodes/ep-BvthGQw3_s0.md#t-00-10-03) (Accusation) **Candace Owens**: ["Owens alleged that Terryl Farnsworth hopped down and grabbed SD cards ..."](/statements/statement-62d0e4aa750c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (7)</summary>
+
+- [00:19:26](/episodes/ep-O4Zw3bCALjU.md#t-00-19-16) (Opinion) **Candace Owens**: ["Owens said she was making an inference that Terryl Farnsworth was agai..."](/statements/statement-dadc24b44f03.md)
+
+- [00:20:27](/episodes/ep-O4Zw3bCALjU.md#t-00-19-58) (Claim) **Candace Owens**: ["Owens said footage around 1 p.m., a little over 30 minutes after Charl..."](/statements/statement-38fca6a93720.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Mercedes-Benz Sprinter](/entities/work-mercedes-benz-sprinter.md)
+
+- [00:20:49](/episodes/ep-O4Zw3bCALjU.md#t-00-20-38) (Citation) **Candace Owens** (via paraphrase): ["Owens said that, if the SBI testimony was to be believed, investigator..."](/statements/statement-9dc052db4995.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+- [00:21:19](/episodes/ep-O4Zw3bCALjU.md#t-00-21-19) (Accusation) **Candace Owens**: ["Owens said the footage was enough to infer that some evidence may have..."](/statements/statement-98ab26738e37.md)
+
+- [00:21:30](/episodes/ep-O4Zw3bCALjU.md#t-00-21-19) (Accusation) **Candace Owens**: ["Owens alleged Terryl Farnsworth lied to her by saying he did not know ..."](/statements/statement-eba38a82d214.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [FBI](/entities/org-fbi.md), [Google](/entities/org-google.md)
+
+- [00:21:55](/episodes/ep-O4Zw3bCALjU.md#t-00-21-55) (Opinion) **Candace Owens**: ["Owens said that, given what they had seen, they could infer Terryl Far..."](/statements/statement-49bb3408b4e2.md)
+
+- [00:22:22](/episodes/ep-O4Zw3bCALjU.md#t-00-22-22) (Promise) **Candace Owens**: ["Owens said that if she saw Terryl Farnsworth she would conduct a citiz..."](/statements/statement-ea4dcf96619e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Home Title Lock"
-description: "Home Title Lock (Organizations) - 30 mentions"
+description: "Home Title Lock (Organizations) - 35 mentions"
 id: "org-home-title-lock"
 type: "ORG"
 aliases:
@@ -22,31 +22,32 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-home-title-lock-t-00-49-21">2025-09-18 · 00:49:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-home-title-lock-t-00-43-39">2026-08-19 · 00:43:47</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-53-18">2026-09-30 · 00:53:35</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-org-home-title-lock-t-00-49-21">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-52-38">VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-home-title-lock-t-00-49-21" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-home-title-lock-t-00-38-17" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 4 mentions" title="2025-09-24 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-home-title-lock-t-01-01-42" style="--pulse-height:75%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-home-title-lock-t-00-49-20" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 4 mentions" title="2025-12-02 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-home-title-lock-t-00-48-36" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-35-59" style="--pulse-height:25%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-home-title-lock-t-00-48-57" style="--pulse-height:25%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-home-title-lock-t-00-49-34" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-home-title-lock-t-00-57-00" style="--pulse-height:25%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-18" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-home-title-lock-t-00-50-04" style="--pulse-height:75%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-org-home-title-lock-t-00-43-39" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-home-title-lock-t-00-49-21" style="--pulse-height:80%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-home-title-lock-t-00-38-17" style="--pulse-height:80%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 4 mentions" title="2025-09-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-home-title-lock-t-01-01-42" style="--pulse-height:60%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-home-title-lock-t-00-49-20" style="--pulse-height:80%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 4 mentions" title="2025-12-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-home-title-lock-t-00-48-36" style="--pulse-height:80%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-35-59" style="--pulse-height:20%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-home-title-lock-t-00-48-57" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-home-title-lock-t-00-49-34" style="--pulse-height:40%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-home-title-lock-t-00-57-00" style="--pulse-height:20%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-18" style="--pulse-height:40%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-home-title-lock-t-00-50-04" style="--pulse-height:60%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-home-title-lock-t-00-43-39" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-52-38" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 5 mentions" title="2026-09-30 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-18) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-home-title-lock-t-00-50-04) | 3 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-home-title-lock-t-00-43-39) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-52-38) | 5 |
 
 </details>
 </section>
@@ -71,7 +73,27 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (5 mentions)</summary>
+
+**[00:52:59](/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-52-38)**
+> "...hat's why I'm so grateful for Home Title Lock and their million dollar."
+
+**[00:53:11](/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-52-38)**
+> "...ence. If you become a victim, Home Title Lock's expert restoration is backed by up to $1 million."
+
+**[00:53:18](/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-53-18)**
+> "...ybersecurity Awareness Month, Home Title Lock is offering a free title history report plus an e..."
+
+**[00:53:27](/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-53-18)**
+> "...t use promo code CANDACE30 at HomeTitleLock.com to find out today. Now today, if you're alrea..."
+
+**[00:53:35](/episodes/ep-5TTkMa49qj8.md#ent-org-home-title-lock-t-00-53-18)**
+> "... have the upper hand. Head to hometitlelock.com and use promo code Candace30 at checkout. I a..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -229,7 +251,26 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:52:59](/episodes/ep-5TTkMa49qj8.md#t-00-52-38): “It's called title fraud and it's happening all over America. That's why I'm so grateful for Home Title Lock and their million dollar. ... dollar triple lock protection. They monitor your property records 24-7 and they alert you of any changes to your title. ... For Cybersecurity Awareness Month, Home Title Lock is offering a free title history report plus an extended 30-day trial so you can see what it's all about risk-free. ... Just use promo code CANDACE30 at HomeTitleLock.com to find out today. Now today, if you're already a victim, the AI threat is real.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:52:59](/episodes/ep-5TTkMa49qj8.md#t-00-52-38): “It's called title fraud and it's happening all over America. That's why I'm so grateful for Home Title Lock and their million dollar. ... dollar triple lock protection. They monitor your property records 24-7 and they alert you of any changes to your title. ... For Cybersecurity Awareness Month, Home Title Lock is offering a free title history report plus an extended 30-day trial so you can see what it's all about risk-free. ... Just use promo code CANDACE30 at HomeTitleLock.com to find out today. Now today, if you're already a victim, the AI threat is real.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (6)</summary>
@@ -242,6 +283,19 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:50:29](/episodes/ep-sreYYcID-QY.md#t-00-50-01): “That's why I've partnered with Home Title Lock so that you can protect your equity and find out today if you're already a victim.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Home Title Lock (1)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:53:05](/episodes/ep-5TTkMa49qj8.md#t-00-52-38) (Claim) **Candace Owens**: ["In a sponsor read, Owens said Home Title Lock monitors property record..."](/statements/statement-facd74d60546.md)
+  - Also about: [Million Dollar TripleLock Protection](/entities/work-home-title-lock-triplelock-protection.md)
 
 </details>
 

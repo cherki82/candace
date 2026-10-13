@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 359 mentions"
+description: "Nimi Skincare (Organizations) - 376 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -46,11 +46,11 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-nimi-skincare-t-00-57-16">2025-09-15 · 00:57:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-20-46">2026-09-03 · 00:20:46</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>359</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-45">2026-10-07 · 00:26:50</a></strong></div>
+<div><span>Episodes</span><strong>84</strong></div>
+<div><span>Mentions</span><strong>376</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -137,6 +137,12 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-nimi-skincare-t-03-01-04" style="--pulse-height:56%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-27-24" style="--pulse-height:44%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 4 mentions" title="2026-08-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-19-28" style="--pulse-height:56%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 5 mentions" title="2026-09-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-nimi-skincare-t-00-31-50" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-nimi-skincare-t-00-48-46" style="--pulse-height:33%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-nimi-skincare-t-00-42-19" style="--pulse-height:33%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 3 mentions" title="2026-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-nimi-skincare-t-00-44-15" style="--pulse-height:22%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-nimi-skincare-t-00-49-29" style="--pulse-height:33%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-02" style="--pulse-height:33%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -220,6 +226,12 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-nimi-skincare-t-03-01-04) | 5 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-27-24) | 4 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-19-28) | 5 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-nimi-skincare-t-00-31-50) | 3 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-nimi-skincare-t-00-48-46) | 3 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-nimi-skincare-t-00-42-19) | 3 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-nimi-skincare-t-00-44-15) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-nimi-skincare-t-00-49-29) | 3 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-02) | 3 |
 
 </details>
 </section>
@@ -227,7 +239,88 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (359)</strong></summary>
+<summary><strong class="section-title">Raw mentions (376)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
+
+**[00:26:02](/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-02)**
+> "...out. And you guys know I love Nimi skincare. I have talked about their tallow skincare before..."
+
+**[00:26:45](/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-45)**
+> "...anent spot in my routine, and Nimi has definitely done that for me."
+
+**[00:26:50](/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-45)**
+> "So head to NIMIskincare.com and use code Candace10 at checkout for a discount..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:49:10](/episodes/ep-ms5ChhZegRg.md#ent-org-nimi-skincare-t-00-49-29)**
+> "...s, I have talked to you about Nimi's tallow skincare before, but I am excited to sha..."
+
+**[00:49:54](/episodes/ep-ms5ChhZegRg.md#ent-org-nimi-skincare-t-00-49-29)**
+> "...manent spot in my routine and Nimi has definitely done that for me."
+
+**[00:49:59](/episodes/ep-ms5ChhZegRg.md#ent-org-nimi-skincare-t-00-49-29)**
+> "So head to nimiskincare.com and use my code Candace10 at checkout for a disco..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:43:48](/episodes/ep-q4m-kGzvwjw.md#ent-org-nimi-skincare-t-00-44-15)**
+> "...you guys, I have talked about Nimi's tallow skincare before, so I'm excited to share..."
+
+**[00:44:15](/episodes/ep-q4m-kGzvwjw.md#ent-org-nimi-skincare-t-00-44-15)**
+> "... done that for me. So head to nimiskincare.com and use my code CANDACE10 at checkout for a disco..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3 mentions)</summary>
+
+**[00:41:38](/episodes/ep-_2DiIbfy4mU.md#ent-org-nimi-skincare-t-00-42-19)**
+> "...you guys, I have talked about Nimi's Tallow skincare before, but I am excited to sha..."
+
+**[00:42:19](/episodes/ep-_2DiIbfy4mU.md#ent-org-nimi-skincare-t-00-42-19)**
+> "...manent spot in my routine and Nimi has definitely done that for me."
+
+**[00:42:23](/episodes/ep-_2DiIbfy4mU.md#ent-org-nimi-skincare-t-00-42-19)**
+> "So head to nimiskincare.com and use my code Candace10 at checkout for a disco..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3 mentions)</summary>
+
+**[00:48:22](/episodes/ep-6XfDqKTdFKg.md#ent-org-nimi-skincare-t-00-48-46)**
+> "...ow I have to remind you about Nimi. I have talked about Nimi's tallow skincare befor..."
+
+**[00:48:46](/episodes/ep-6XfDqKTdFKg.md#ent-org-nimi-skincare-t-00-48-46)**
+> "...d I'm so grateful. So head to nimiskincare.com and use my code"
+
+**[00:49:13](/episodes/ep-6XfDqKTdFKg.md#ent-org-nimi-skincare-t-00-49-13)**
+> "...get a discount. Again, that's nimiskincare.com with code Candace10 at checkout. I feel like, um,..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:31:41](/episodes/ep-kn1E0scy9Wc.md#ent-org-nimi-skincare-t-00-31-50)**
+> "..., you guys, I've talked about Nimi's Tallow skincare before, but I'm excited to shar..."
+
+**[00:32:22](/episodes/ep-kn1E0scy9Wc.md#ent-org-nimi-skincare-t-00-31-50)**
+> "...y done that for me so head to NimiSkincare.com and use my code CANDACE10 at checkout."
+
+**[00:32:33](/episodes/ep-kn1E0scy9Wc.md#ent-org-nimi-skincare-t-00-32-33)**
+> "For a discount. Again, that's NimiSkincare.com with code CANDACE10 at checkout. I also want to r..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (5 mentions)</summary>
@@ -1690,7 +1783,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1714,6 +1807,12 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:01:23](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19): “It's refreshing to work with a brand that has not changed with every single cultural trend. They have clean ingredients, simple routines, and products made in America, so that's why I love Nimi Skin Care.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:09:12](/episodes/ep-ewBzjVe3LNQ.md#t-01-08-39): “And let me just say this, I love what Neme Skincare is doing this Christmas season, because while other brands are tiptoeing around eggshells, trying to be inclusive with their happy holidays messaging, Neme is not doing that at all.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:56:40](/episodes/ep-pc3pxRyNFZk.md#t-00-56-40): “my go-to, which is Nimi Skincare.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:31:41](/episodes/ep-kn1E0scy9Wc.md#t-00-31-06): “We'll be right back after a break. All right, you guys, I've talked about Nimi's Tallow skincare before, but I'm excited to share with you guys that they recently launched a full Tallow body line as well. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with clean ingredients and Tallow as the star. Their grass-fed Tallow is sourced from ranchers in Montana, and every product is batched and filled right here in the USA. There's now something for every part of your routine. There's the Tallow sugar scrub, which gently buffs away dry, rough skin. a tallow body butter which gives you rich hydration without that heavy greasy feeling and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine and Nimi has definitely done that for me so head to NimiSkincare.com and use my code CANDACE10 at checkout.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:48:22](/episodes/ep-6XfDqKTdFKg.md#t-00-48-05): “And of course, you guys know I have to remind you about Nimi. I have talked about Nimi's tallow skincare before, so I'm excited to share that they recently launched a full tallow body line as well. It has quickly become a staple in my house. What I love is how simple and thoughtful everything is with clean ingredients and tallow as the star. Their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. There's now something for every part of your routine. They have the... of the tallow sugar scrub gently buffs away the dry, rough skin. The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. And I love finding products that actually earn a permanent spot in my routine, which is why Nimi has done that for me, and I'm so grateful. So head to nimiskincare.com and use my code Candace10 at checkout and you'll get a discount. Again, that's nimiskincare.com with code Candace10 at checkout. I feel like, um, is it Randy Jackson from American Idol? He's like, it's a no for me, dog. Like, hearing all that, it's just a no. It's no for me, dog. I am noping the vote. I cannot be helpful. I cannot be useful. I got to be the most person of the year. Did Tucker (Tucker Carlson)—what'd you call him?”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:41:38](/episodes/ep-_2DiIbfy4mU.md#t-00-41-38): “Anyway, we'll be right back after a brief break. All right, you guys, I have talked about Nimi's Tallow skincare before, but I am excited to share that they recently launched a full tallow body line as well. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with clean ingredients and tallow as the star. The grass-fed tallow is sourced from ranchers in Montana, and every product is batched and filled right here in the USA. There's now something for every part of your routine. The tallow sugar scrub gently buffs away dry rough skin. The Tallow Body Butter gives you rich hydration without that heavy greasy feeling and the Tallow Heritage Balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. I love finding products that actually aren't a permanent spot in my routine and Nimi has definitely done that for me. So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code Candace10 at checkout.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:44:15](/episodes/ep-q4m-kGzvwjw.md#t-00-44-15): “The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to nimiskincare.com and use my code CANDACE10 at checkout for a discount. Again, that's nimiskincare.com with code CANDACE10 at checkout.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:49:54](/episodes/ep-ms5ChhZegRg.md#t-00-49-29): “I love finding products that actually are in a permanent spot in my routine and Nimi has definitely done that for me. ... So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code candace10 at checkout.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:26:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-02): “That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with. With clean ingredients and tallow as the star, their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. So there's now something for every part of your routine. The tallow sugar scrub gently buffs away dry, rough skin. The tallow body butter gives you rich hydration without that heavy greasy feeling. And the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. Stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use code Candace10 at checkout for a discount. That's NIMIskincare.com with code Candace10 at checkout.”
 
 </details>
 
@@ -1757,7 +1856,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1781,6 +1880,12 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:01:23](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19): “It's refreshing to work with a brand that has not changed with every single cultural trend. They have clean ingredients, simple routines, and products made in America, so that's why I love Nimi Skin Care.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:09:12](/episodes/ep-ewBzjVe3LNQ.md#t-01-08-39): “And let me just say this, I love what Neme Skincare is doing this Christmas season, because while other brands are tiptoeing around eggshells, trying to be inclusive with their happy holidays messaging, Neme is not doing that at all.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:56:40](/episodes/ep-pc3pxRyNFZk.md#t-00-56-40): “my go-to, which is Nimi Skincare.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:31:41](/episodes/ep-kn1E0scy9Wc.md#t-00-31-06): “We'll be right back after a break. All right, you guys, I've talked about Nimi's Tallow skincare before, but I'm excited to share with you guys that they recently launched a full Tallow body line as well. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with clean ingredients and Tallow as the star. Their grass-fed Tallow is sourced from ranchers in Montana, and every product is batched and filled right here in the USA. There's now something for every part of your routine. There's the Tallow sugar scrub, which gently buffs away dry, rough skin. a tallow body butter which gives you rich hydration without that heavy greasy feeling and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine and Nimi has definitely done that for me so head to NimiSkincare.com and use my code CANDACE10 at checkout.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:48:22](/episodes/ep-6XfDqKTdFKg.md#t-00-48-05): “And of course, you guys know I have to remind you about Nimi. I have talked about Nimi's tallow skincare before, so I'm excited to share that they recently launched a full tallow body line as well. It has quickly become a staple in my house. What I love is how simple and thoughtful everything is with clean ingredients and tallow as the star. Their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. There's now something for every part of your routine. They have the... of the tallow sugar scrub gently buffs away the dry, rough skin. The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. And I love finding products that actually earn a permanent spot in my routine, which is why Nimi has done that for me, and I'm so grateful. So head to nimiskincare.com and use my code Candace10 at checkout and you'll get a discount. Again, that's nimiskincare.com with code Candace10 at checkout. I feel like, um, is it Randy Jackson from American Idol? He's like, it's a no for me, dog. Like, hearing all that, it's just a no. It's no for me, dog. I am noping the vote. I cannot be helpful. I cannot be useful. I got to be the most person of the year. Did Tucker (Tucker Carlson)—what'd you call him?”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:41:38](/episodes/ep-_2DiIbfy4mU.md#t-00-41-38): “Anyway, we'll be right back after a brief break. All right, you guys, I have talked about Nimi's Tallow skincare before, but I am excited to share that they recently launched a full tallow body line as well. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with clean ingredients and tallow as the star. The grass-fed tallow is sourced from ranchers in Montana, and every product is batched and filled right here in the USA. There's now something for every part of your routine. The tallow sugar scrub gently buffs away dry rough skin. The Tallow Body Butter gives you rich hydration without that heavy greasy feeling and the Tallow Heritage Balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. I love finding products that actually aren't a permanent spot in my routine and Nimi has definitely done that for me. So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code Candace10 at checkout.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:44:15](/episodes/ep-q4m-kGzvwjw.md#t-00-44-15): “The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to nimiskincare.com and use my code CANDACE10 at checkout for a discount. Again, that's nimiskincare.com with code CANDACE10 at checkout.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:49:54](/episodes/ep-ms5ChhZegRg.md#t-00-49-29): “I love finding products that actually are in a permanent spot in my routine and Nimi has definitely done that for me. ... So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code candace10 at checkout.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:26:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-02): “That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with. With clean ingredients and tallow as the star, their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. So there's now something for every part of your routine. The tallow sugar scrub gently buffs away dry, rough skin. The tallow body butter gives you rich hydration without that heavy greasy feeling. And the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. Stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use code Candace10 at checkout for a discount. That's NIMIskincare.com with code Candace10 at checkout.”
 
 </details>
 
@@ -1813,7 +1918,15 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nimi Skincare (1)</strong></summary>
+<summary><strong class="section-title">Statements about Nimi Skincare (2)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:41:38](/episodes/ep-_2DiIbfy4mU.md#t-00-41-38) (Claim) **Candace Owens**: ["Owens says Nimi recently launched a tallow body line, sources grass-fe..."](/statements/statement-cc28779c0b84.md)
+  - Also about: [Montana](/entities/gpe-montana.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>

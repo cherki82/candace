@@ -1,6 +1,6 @@
 ---
 title: "Portland, Oregon"
-description: "Portland, Oregon (Places) - 3 mentions"
+description: "Portland, Oregon (Places) - 5 mentions"
 id: "gpe-portland-oregon"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [City of Portland, Oregon](https://www.portland.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-portland-oregon-t-01-46-57">2026-01-29 · 01:46:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-portland-oregon-t-01-47-13">2026-01-29 · 01:47:13</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-portland-oregon-t-00-40-20">2026-09-15 · 00:40:38</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [City of Portland, Oregon](https://www.portland.gov/)
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-portland-oregon-t-01-46-57">Candace x Bassem Youssef | Candace Ep 298</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-portland-oregon-t-01-46-57" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-portland-oregon-t-00-39-40" style="--pulse-height:67%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-portland-oregon-t-01-46-57) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-portland-oregon-t-00-39-40) | 2 |
 
 </details>
 </section>
@@ -48,7 +50,18 @@ Source: [City of Portland, Oregon](https://www.portland.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:39:57](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-portland-oregon-t-00-39-40)**
+> "... TARDIO pleaded no contest in Portland to, and this is last October, October 2025, to fe..."
+
+**[00:40:38](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-portland-oregon-t-00-40-20)**
+> "...ra. And when interviewed by a Portland detective, Tardio's explanation was that the left..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>

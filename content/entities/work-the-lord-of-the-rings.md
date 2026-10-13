@@ -1,6 +1,6 @@
 ---
 title: "The Lord of the Rings"
-description: "The Lord of the Rings (Works & Media) - 3 mentions"
+description: "The Lord of the Rings (Works & Media) - 6 mentions"
 id: "work-the-lord-of-the-rings"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Biography | The Tolkien Estate](https://www.tolkienestate.com/life/biog
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-work-the-lord-of-the-rings-t-00-17-26">2026-04-10 · 00:17:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-work-the-lord-of-the-rings-t-00-44-55">2026-06-09 · 00:45:10</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BvthGQw3_s0.md#ent-work-the-lord-of-the-rings-t-00-46-54">2026-09-21 · 00:47:05</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,8 @@ Source: [Biography | The Tolkien Estate](https://www.tolkienestate.com/life/biog
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-work-the-lord-of-the-rings-t-00-17-26" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-work-the-lord-of-the-rings-t-00-43-50" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-work-the-lord-of-the-rings-t-00-59-17" style="--pulse-height:50%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-work-the-lord-of-the-rings-t-00-45-10" style="--pulse-height:100%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 2 mentions" title="2026-09-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [Biography | The Tolkien Estate](https://www.tolkienestate.com/life/biog
 |---|---|---:|
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-work-the-lord-of-the-rings-t-00-17-26) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-work-the-lord-of-the-rings-t-00-43-50) | 2 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-work-the-lord-of-the-rings-t-00-59-17) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-work-the-lord-of-the-rings-t-00-45-10) | 2 |
 
 </details>
 </section>
@@ -51,7 +55,26 @@ Source: [Biography | The Tolkien Estate](https://www.tolkienestate.com/life/biog
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2 mentions)</summary>
+
+**[00:45:27](/episodes/ep-BvthGQw3_s0.md#ent-work-the-lord-of-the-rings-t-00-45-10)**
+> "The Lord of the Rings themed video that we requested, where Forbidden a..."
+
+**[00:47:05](/episodes/ep-BvthGQw3_s0.md#ent-work-the-lord-of-the-rings-t-00-46-54)**
+> "You shall not pass, for my Lord of the Rings fans. Now, another comment that, or top comment, ..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:59:48](/episodes/ep-NNiCZk1cuzs.md#ent-work-the-lord-of-the-rings-t-00-59-17)**
+> "... Neff reminds me of Gollum in Lord of the Rings where Charlie (Charlie Kirk)'s microphone is the ..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>

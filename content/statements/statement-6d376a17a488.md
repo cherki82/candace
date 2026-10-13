@@ -24,13 +24,23 @@ veracity: "true"
 - [Otto A. Busher III](/entities/person-otto-a-busher-iii.md) (person)
 - [Romania](/entities/gpe-romania.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. Bride Of Charlie: Crazy In Love | Episode 7
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:38:49](/episodes/ep-DdPjoy5W-wY.md#t-00-38-36) 
 <a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=2329s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Again, he is going to be accused of running a brothel, a Romanian brothel with children on the base. And so, again, it's everyone around her, I guess, and she has all of these connections, I guess.
+
+### 2. A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemor...
+
+**Episode:** [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md)
+**Timestamp:** [00:04:34](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34) 
+<a href="https://www.youtube.com/watch?v=kn1E0scy9Wc&t=274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Colonel Otto Busher (Otto A. Busher III), of course, was accused of running a brothel with Romanian children from 2011-2015 at the Romanian military base.
 
 ## Verification
 

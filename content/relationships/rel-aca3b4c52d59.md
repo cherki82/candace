@@ -11,7 +11,11 @@ object: "person-andrew-kolvet"
 
 ## [Candace Owens](/entities/person-candace-owens) spoke with [Andrew Kolvet](/entities/person-andrew-kolvet)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:30:48](/episodes/ep-5TTkMa49qj8#t-00-30-48): _And of course, a final vindication came for me because I told you that the decision to make Erica (Erika Kirk) the CEO happened faster than the public was even made aware of within the first 48 hours. ... And I knew because Andrew Kolvet told me, even though he denies some of this stuff. And at the time, I was like, great, I'm so happy to hear that it's Erica (Erika Kirk)._
 
 **[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
 

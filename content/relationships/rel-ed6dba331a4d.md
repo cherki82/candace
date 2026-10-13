@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PDS Debt](/entities/org-pds-debt) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (6 mentions)
+### Evidence (9 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -29,9 +29,21 @@ object: "person-candace-owens"
 
 - [00:29:56](/episodes/ep-IqHsl7d2dos#t-00-29-56): _And it starts with a free 30 second assessment at PDS debt dot com. slash Candace to stop juggling multiple payments and get one lower monthly payment._
 
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:32:11](/episodes/ep-NNiCZk1cuzs#t-00-32-11): _They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans, and medical bills. ... So get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace._
+
+**[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
+
+- [00:25:23](/episodes/ep-UAdBEXs7nNc#t-00-25-23): _Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment._
+
 **[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
 
 - [00:25:11](/episodes/ep-Vu6Y24pqhZs#t-00-25-11): _Minimum payments aren't designed to get you out of debt. They're designed to keep you stuck. PDS Debt, however, can help._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:26:52](/episodes/ep-_Sq5RqP27NY#t-00-26-52): _But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace._
 
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 

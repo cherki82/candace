@@ -11,7 +11,11 @@ object: "person-producer-ashley-unverified"
 
 ## [Candace Owens](/entities/person-candace-owens) employs [Ashley (Candace Owens producer; surname unverified)](/entities/person-producer-ashley-unverified)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:05:48](/episodes/ep-6XfDqKTdFKg#t-00-05-48): _That's actually incorrect. And the mistake is not technically our fault. Ashley (Candace show producer; surname unverified), my producer, who has been assisting me on our official timeline, was inputting data which was provided by the police in their search warrants, which were filed on._
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 

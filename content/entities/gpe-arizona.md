@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 256 mentions"
+description: "Arizona (Places) - 261 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-arizona-t-00-05-21">2026-09-10 · 00:05:45</a></strong></div>
-<div><span>Episodes</span><strong>75</strong></div>
-<div><span>Mentions</span><strong>256</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-arizona-t-00-27-10">2026-09-30 · 00:27:10</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>261</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -109,6 +109,9 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-arizona-t-00-37-40" style="--pulse-height:11%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-arizona-t-00-06-53" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-arizona-t-00-05-21" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-gpe-arizona-t-00-00-46" style="--pulse-height:16%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 3 mentions" title="2026-09-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-arizona-t-00-36-37" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-arizona-t-00-27-10" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -189,6 +192,9 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-arizona-t-00-37-40) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-arizona-t-00-06-53) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-arizona-t-00-05-21) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-gpe-arizona-t-00-00-46) | 3 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-arizona-t-00-36-37) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-arizona-t-00-27-10) | 1 |
 
 </details>
 </section>
@@ -200,7 +206,37 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (256)</strong></summary>
+<summary><strong class="section-title">Raw mentions (261)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:27:10](/episodes/ep-5TTkMa49qj8.md#ent-gpe-arizona-t-00-27-10)**
+> "...inally scheduled to happen in Arizona on that Monday."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:37:07](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-arizona-t-00-36-37)**
+> "...achuca base, whether she's in Arizona."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3 mentions)</summary>
+
+**[00:00:46](/episodes/ep-O4Zw3bCALjU.md#ent-gpe-arizona-t-00-00-46)**
+> "...hich, over at headquarters in Arizona."
+
+**[00:04:19](/episodes/ep-O4Zw3bCALjU.md#ent-gpe-arizona-t-00-03-57)**
+> "...ed that. It went back home to Arizona."
+
+**[00:41:22](/episodes/ep-O4Zw3bCALjU.md#ent-gpe-arizona-t-00-41-22)**
+> "...unteers signing up to come to Arizona..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -1387,9 +1423,10 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>Headquarters Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:55](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:00:46](/episodes/ep-O4Zw3bCALjU.md#t-00-00-46): “Not what I was expecting. I have to be honest, Alex (Alex Clark), I thought that you might have been headed somewhere else with that. But of course, they focused on me on September 10th. A little bit weird, weird thing to post on September 10th. Speaking of which, over at headquarters in Arizona. They did erect a statue of Charlie (Charlie Kirk) in front of their campus. Two days later, they now claim without any positive evidence, by the way, that the left, the left in particular, has vandalized that statue with red paint. And true to what Turning Point USA has become, they are already trying to fundraise off of the act of leftist vandalism. We're going to discuss all of that. But first, of course.”
 
 </details>
 
@@ -1467,9 +1504,10 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** headquartered in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:55](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:00:46](/episodes/ep-O4Zw3bCALjU.md#t-00-00-46): “Not what I was expecting. I have to be honest, Alex (Alex Clark), I thought that you might have been headed somewhere else with that. But of course, they focused on me on September 10th. A little bit weird, weird thing to post on September 10th. Speaking of which, over at headquarters in Arizona. They did erect a statue of Charlie (Charlie Kirk) in front of their campus. Two days later, they now claim without any positive evidence, by the way, that the left, the left in particular, has vandalized that statue with red paint. And true to what Turning Point USA has become, they are already trying to fundraise off of the act of leftist vandalism. We're going to discuss all of that. But first, of course.”
 
 </details>
 

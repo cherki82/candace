@@ -1,6 +1,6 @@
 ---
 title: "Boston Consulting Group"
-description: "Boston Consulting Group (Organizations) - 20 mentions"
+description: "Boston Consulting Group (Organizations) - 23 mentions"
 id: "org-boston-consulting-group"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-boston-consulting-group-t-00-03-24">2026-04-01 · 00:03:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-boston-consulting-group-t-00-08-50">2026-06-18 · 00:09:09</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-boston-consulting-group-t-00-25-09">2026-10-01 · 00:25:09</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-boston-consulting-group-t-00-03-24" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-boston-consulting-group-t-00-09-54" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 18 mentions" title="2026-05-27 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-boston-consulting-group-t-00-08-50" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-boston-consulting-group-t-00-24-34" style="--pulse-height:17%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-boston-consulting-group-t-00-03-24) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-boston-consulting-group-t-00-09-54) | 18 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-boston-consulting-group-t-00-08-50) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-boston-consulting-group-t-00-24-34) | 3 |
 
 </details>
 </section>
@@ -56,7 +58,21 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:24:47](/episodes/ep-q4m-kGzvwjw.md#ent-org-boston-consulting-group-t-00-24-34)**
+> "In June, we had the Boston Consulting Group. That's where Mitt Romney and Bibi (Benjamin Neta..."
+
+**[00:25:03](/episodes/ep-q4m-kGzvwjw.md#ent-org-boston-consulting-group-t-00-24-34)**
+> "So Boston Consulting Group has got to get out of that in early June of 2025 ..."
+
+**[00:25:09](/episodes/ep-q4m-kGzvwjw.md#ent-org-boston-consulting-group-t-00-25-09)**
+> "... met as corporate advisors at BCG, and they have maintained a very close friendship..."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
@@ -142,18 +158,20 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 <summary>Formerly Employed (3)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
@@ -214,18 +232,20 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship.”
 
 </details>
 
@@ -249,7 +269,18 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Boston Consulting Group (7)</strong></summary>
+<summary><strong class="section-title">Statements about Boston Consulting Group (9)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:24:47](/episodes/ep-q4m-kGzvwjw.md#t-00-24-34) (Accusation) **Candace Owens**: ["Owens alleged that Boston Consulting Group abandoned the Gaza Humanita..."](/statements/statement-0e8e00560c7c.md)
+  - Also about: [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
+
+- [00:25:09](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09) (Claim) **Candace Owens**: ["Owens said Netanyahu and Mitt Romney met as corporate advisors at BCG ..."](/statements/statement-40012f592141.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Mitt Romney](/entities/person-mitt-romney.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (6)</summary>

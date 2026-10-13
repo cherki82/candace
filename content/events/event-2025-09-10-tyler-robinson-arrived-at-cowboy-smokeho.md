@@ -1,6 +1,6 @@
 ---
-title: "2025-09-10: Tyler Robinson arrived at Cowboy Smokehouse in Pan..."
-description: "2025-09-10 20:45 - Tyler Robinson arrived at Cowboy Smokehouse in Panguitch, Utah, ate at the bar, and left at approximately 9:30 p.m."
+title: "2025-09-10: Owens reported an alleged Cowboy Smokehouse visit ..."
+description: "2025-09-10 20:45 - Owens reported an alleged Cowboy Smokehouse visit in Panguitch, Utah, which she attributed to Tyler Robinson. Card ownership and diner identity remain unresolved in the supplied source accounts; reported departure times differ."
 event_id: "event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho"
 date: "2025-09-10"
 time: "20:45"
@@ -15,7 +15,7 @@ time: "20:45"
 
 ## Event
 
-> Tyler Robinson arrived at Cowboy Smokehouse in Panguitch, Utah, ate at the bar, and left at approximately 9:30 p.m.
+> Owens reported an alleged Cowboy Smokehouse visit in Panguitch, Utah, which she attributed to Tyler Robinson. Card ownership and diner identity remain unresolved in the supplied source accounts; reported departure times differ.
 
 ## Mentioned In (4 times)
 

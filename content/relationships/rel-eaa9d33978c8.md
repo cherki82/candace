@@ -11,11 +11,15 @@ object: "org-utah-state-bureau-of-investigation"
 
 ## [David Hull](/entities/person-david-hull) works for [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
 - [00:04:58](/episodes/ep-4JxgOclKzqg#t-00-04-58): _The lead investigator on the case, SBI Agent David Hull, explained on the stand actually on September 10th._
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:06:02](/episodes/ep-6XfDqKTdFKg#t-00-06-02): _filed on September 15th, whereas I was using the testimony from lead SBI agent David Hull from the preliminary hearing._
 
 ### Related
 

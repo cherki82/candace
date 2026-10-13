@@ -25,13 +25,23 @@ type: "factual_claim"
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
 
 **Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
 **Timestamp:** [00:31:18](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-18) 
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1878s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > and that's what he told him and i guess it just it's very disgusting for me as someone who witnessed this who saw mikey hugely distressed and then step up in the moment because after that was called that call was over i saw mikey like get total mastery of himself that he realized he had to step up in this situation and he from that point he was like he was like a general directing a battle where he was you know grabbing people and saying okay ... We need to get to the hospital and we need to do these things and you guys need to wait here. ... I need to get in here to get information so that I can get it to get it to Erika.
+
+### 2. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:04:53](/episodes/ep-UAdBEXs7nNc.md#t-00-04-53) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=293s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay," ... We need to get to the hospital and we need to do these things and you guys need to wait here. ... I need to get in here to get information so that I can get it to get it to Erika (Erika Kirk).
 
 ## Verification
 

@@ -28,7 +28,7 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
@@ -45,6 +45,14 @@ veracity: "true"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1916s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > we when we learned he was dead, it was he came out and he told us and then he says and he says, now none of you can say anything that you've heard because it is Erika is not going to hear about this from anyone except me.
+
+### 3. More EXCLUSIVE Footage! Another Funny Thing Happened On The ...
+
+**Episode:** [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md)
+**Timestamp:** [00:05:31](/episodes/ep-UAdBEXs7nNc.md#t-00-05-31) 
+<a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=331s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> We, when we learned he was dead, it was, he came out and he told us. And then he says, and he says, "Now none of you can say anything that you've heard because it is, Erika (Erika Kirk) is not going to hear about this from anyone except me."
 
 ## Verification
 

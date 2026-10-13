@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 184 mentions"
+description: "Rob McCoy (People) - 186 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-03">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-rob-mccoy-t-00-30-42">2026-09-02 · 00:31:08</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>184</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-rob-mccoy-t-00-04-17">2026-10-08 · 00:04:37</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
 <div><span>Statements about</span><strong>43</strong></div>
-<div><span>Relationships</span><strong>62</strong></div>
+<div><span>Relationships</span><strong>64</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -86,6 +86,8 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01" style="--pulse-height:18%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-04-27" style="--pulse-height:36%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-rob-mccoy-t-00-30-42" style="--pulse-height:9%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-rob-mccoy-t-00-45-36" style="--pulse-height:9%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-rob-mccoy-t-00-04-17" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -139,6 +141,8 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-04-27) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-rob-mccoy-t-00-30-42) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-rob-mccoy-t-00-45-36) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-rob-mccoy-t-00-04-17) | 1 |
 
 </details>
 </section>
@@ -150,7 +154,23 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (184)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:04:37](/episodes/ep-UAdBEXs7nNc.md#ent-person-rob-mccoy-t-00-04-17)**
+> "...ately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie K..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:46:01](/episodes/ep-yrg_-D6oNHE.md#ent-person-rob-mccoy-t-00-45-36)**
+> "...his job, giving their kids to Rob McCoy's wife as they make calls to donors and have clips ..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -1127,7 +1147,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>Parent Of (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-25): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -1141,6 +1161,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
 
 </details>
 
@@ -1196,6 +1217,18 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
+<summary>Spoke With (1)</summary>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (4)</summary>
 
 - **[Potter's Field Ministries](/entities/org-potters-field-ministries.md)**
@@ -1231,7 +1264,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Referenced By (31)</summary>
+<summary>Referenced By (32)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1255,7 +1288,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1271,6 +1304,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
 
 </details>
 
@@ -1471,6 +1505,13 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:30](/episodes/ep-Qfwr08Ebczo.md#t-00-15-06): “He'll step down as the senior pastor of Godspeak and hand the reins to his son-in-law, Micah Stevens”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
 
 </details>
 

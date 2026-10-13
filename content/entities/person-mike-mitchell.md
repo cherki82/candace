@@ -1,6 +1,6 @@
 ---
 title: "Mike Mitchell"
-description: "Mike Mitchell (People) - 58 mentions"
+description: "Mike Mitchell (People) - 61 mentions"
 id: "person-mike-mitchell"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41">2025-09-29 · 00:18:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40">2026-09-02 · 00:09:11</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-person-mike-mitchell-t-00-52-10">2026-09-16 · 00:52:10</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -50,6 +50,8 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29" style="--pulse-height:70%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19" style="--pulse-height:10%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-mike-mitchell-t-00-10-08" style="--pulse-height:20%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-mike-mitchell-t-00-52-10" style="--pulse-height:10%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +71,8 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29) | 7 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-mike-mitchell-t-00-10-08) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-mike-mitchell-t-00-52-10) | 1 |
 
 </details>
 </section>
@@ -80,7 +84,26 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:52:10](/episodes/ep-aLJhpxrakCU.md#ent-person-mike-mitchell-t-00-52-10)**
+> "...e find about this. But didn't Mike Mitchell, wasn't he his mentor?"
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:10:13](/episodes/ep-kn1E0scy9Wc.md#ent-person-mike-mitchell-t-00-10-08)**
+> "...e former undercover detective Mike Mitchell, right?"
+
+**[00:10:59](/episodes/ep-kn1E0scy9Wc.md#ent-person-mike-mitchell-t-00-10-49)**
+> "It's worth noting that Mike Mitchell was an undercover detective in Internet sex crime..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -387,6 +410,30 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
+<summary>Mentored (1)</summary>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:10:13](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08): “This is what they do. This is the space they work in. Then, of course, there is the curious case of the former undercover detective Mike Mitchell, right? The linchpin to this entire case against Tyler Robinson, in my opinion, if you ask me, because he's the one who claimed that he recognized Tyler Robinson in the news because, you know, he used to mentor him in Boy Scouts.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Matt Robinson](/entities/person-matt-robinson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:10:22](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08): “The linchpin to this entire case against Tyler Robinson, in my opinion, if you ask me, because he's the one who claimed that he recognized Tyler Robinson in the news because, you know, he used to mentor him in Boy Scouts. Boy Scouts, and then he's the one that then goes over to Matt Robinson's house and gets them to call over Tyler, convinces them all that they should peaceably surrender, despite Tyler Robinson's objections and saying that he did not murder Charlie Kirk. He says, look, they have your information. You can do this the peaceable way or you can be subjected to police banging down your doors.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Pastor Of (1)</summary>
 
 - **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)**
@@ -426,7 +473,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -492,12 +539,36 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 </details>
 
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)** mentored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:10:13](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08): “This is what they do. This is the space they work in. Then, of course, there is the curious case of the former undercover detective Mike Mitchell, right? The linchpin to this entire case against Tyler Robinson, in my opinion, if you ask me, because he's the one who claimed that he recognized Tyler Robinson in the news because, you know, he used to mentor him in Boy Scouts.”
+
+</details>
+
+- **[Matt Robinson](/entities/person-matt-robinson.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:10:22](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08): “The linchpin to this entire case against Tyler Robinson, in my opinion, if you ask me, because he's the one who claimed that he recognized Tyler Robinson in the news because, you know, he used to mentor him in Boy Scouts. Boy Scouts, and then he's the one that then goes over to Matt Robinson's house and gets them to call over Tyler, convinces them all that they should peaceably surrender, despite Tyler Robinson's objections and saying that he did not murder Charlie Kirk. He says, look, they have your information. You can do this the peaceable way or you can be subjected to police banging down your doors.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mike Mitchell (14)</strong></summary>
+<summary><strong class="section-title">Statements about Mike Mitchell (16)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:10:13](/episodes/ep-kn1E0scy9Wc.md#t-00-10-08) (Claim) **Candace Owens** (via paraphrase): ["Owens said Mike Mitchell claimed to recognize Tyler Robinson from ment..."](/statements/statement-ade7ee9dda9d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md)
+
+- [00:10:59](/episodes/ep-kn1E0scy9Wc.md#t-00-10-49) (Claim) **Candace Owens**: ["Owens said Mike Mitchell was an undercover detective in Internet sex c..."](/statements/statement-791bab22e391.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4)</summary>

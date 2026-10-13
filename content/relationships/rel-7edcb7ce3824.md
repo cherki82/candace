@@ -11,7 +11,7 @@ object: "person-mitt-romney"
 
 ## [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) friend of [Mitt Romney](/entities/person-mitt-romney)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI)**
 
@@ -20,6 +20,10 @@ object: "person-mitt-romney"
 **[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
 
 - [00:10:06](/episodes/ep-MhakwJxK-Zk#t-00-10-06): _And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu)._
+
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:25:09](/episodes/ep-q4m-kGzvwjw#t-00-25-09): _Like I said, it's important to note that Netanyahu (Benjamin Netanyahu) and Mitt Romney met as corporate advisors at BCG, and they have maintained a very close friendship since, over 50 years of friendship._
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 

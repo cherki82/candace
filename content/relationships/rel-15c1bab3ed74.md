@@ -1,0 +1,23 @@
+---
+title: "Blake Wynn friend of Jeff Fargo"
+description: "Evidence for the relationship: Blake Wynn friend of Jeff Fargo"
+relationship_id: "rel-15c1bab3ed74"
+subject: "person-blake-wynn"
+predicate: "friend of"
+object: "person-jeff-fargo"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Blake Wynn](/entities/person-blake-wynn) friend of [Jeff Fargo](/entities/person-jeff-fargo)
+
+### Evidence (1 mentions)
+
+**[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
+
+- [00:27:47](/episodes/ep-0pSAhaAZz1w#t-00-27-47): _He did a podcast and he was speaking with this guy, Jeff Fargo. The podcast is called Fargo Talks, and here is what he had to say. ... I was with you at breakfast when I found out about Charlie Kirk being shot. And it's one of those things that separate from that situation, it's I've sort of asked myself, why was I with you? And you fit into a very small bucket of people that I have in my life where, you know, it's so easy to look up to people. And I've been very fortunate in my life to get to know. A lot of my business heroes very well personally, people like my uncle Steve (Steve Wynn), people like my grandfather, and then also people who have just become major successes or a lot of our clients and things like that. But then there's this much more rare bucket. Erika Kirk fits into it, you fit into it, and a couple other people fit into it, which is that I look up to you guys as human beings. You guys are wonderful people, and it's really fun, the friendship we've developed in the last couple of months._
+
+### Related
+
+- [Blake Wynn](/entities/person-blake-wynn)
+- [Jeff Fargo](/entities/person-jeff-fargo)

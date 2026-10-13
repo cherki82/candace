@@ -1,6 +1,6 @@
 ---
 title: "Panguitch, Utah"
-description: "Panguitch, Utah (Places) - 18 mentions"
+description: "Panguitch, Utah (Places) - 20 mentions"
 id: "gpe-panguitch-utah"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [Panguitch City official website](https://panguitchutah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-panguitch-utah-t-00-02-25">2026-01-06 · 00:02:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-panguitch-utah-t-00-35-24">2026-09-09 · 00:35:32</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-panguitch-utah-t-00-23-59">2026-09-25 · 00:24:25</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Panguitch City official website](https://panguitchutah.gov/)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-panguitch-utah-t-00-49-07" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-panguitch-utah-t-00-29-58" style="--pulse-height:40%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-panguitch-utah-t-00-30-12" style="--pulse-height:60%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-panguitch-utah-t-00-08-29" style="--pulse-height:40%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Panguitch City official website](https://panguitchutah.gov/)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-panguitch-utah-t-00-49-07) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-panguitch-utah-t-00-29-58) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-panguitch-utah-t-00-30-12) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-panguitch-utah-t-00-08-29) | 2 |
 
 </details>
 </section>
@@ -64,7 +66,18 @@ Source: [Panguitch City official website](https://panguitchutah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:08:29](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-panguitch-utah-t-00-08-29)**
+> "It wasn't until after the Panguitch receipt that we went back and we realized at some..."
+
+**[00:24:25](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-panguitch-utah-t-00-23-59)**
+> "...like, you would want to go to Panguitch. You just want to get completely out of there."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
@@ -187,7 +200,15 @@ Source: [Panguitch City official website](https://panguitchutah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Panguitch, Utah (3)</strong></summary>
+<summary><strong class="section-title">Statements about Panguitch, Utah (4)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:08:29](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29) (Claim) **Candace Owens**: ["Owens said the Panguitch receipt led her team to conclude that somethi..."](/statements/statement-939971f692b7.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dairy Queen](/entities/org-dairy-queen.md), [Orem, Utah](/entities/gpe-orem-utah.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

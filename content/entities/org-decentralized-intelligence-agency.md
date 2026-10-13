@@ -1,6 +1,6 @@
 ---
 title: "The Decentralized Intelligence Agency"
-description: "The Decentralized Intelligence Agency (Organizations) - 12 mentions"
+description: "The Decentralized Intelligence Agency (Organizations) - 14 mentions"
 id: "org-decentralized-intelligence-agency"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-decentralized-intelligence-agency-t-01-08-31">2025-09-15 · 01:08:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-decentralized-intelligence-agency-t-01-04-15">2026-09-02 · 01:04:15</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-decentralized-intelligence-agency-t-00-53-39">2026-09-25 · 00:54:16</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,8 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-decentralized-intelligence-agency-t-01-04-15" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-decentralized-intelligence-agency-t-01-03-41" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-decentralized-intelligence-agency-t-00-53-39" style="--pulse-height:33%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +62,8 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-decentralized-intelligence-agency-t-01-04-15) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-decentralized-intelligence-agency-t-01-03-41) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-decentralized-intelligence-agency-t-00-53-39) | 1 |
 
 </details>
 </section>
@@ -67,7 +71,23 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:54:16](/episodes/ep-_Sq5RqP27NY.md#ent-org-decentralized-intelligence-agency-t-00-53-39)**
+> "...irt, buy a sweatshirt to join the decentralized intelligence agency."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[01:03:41](/episodes/ep-kn1E0scy9Wc.md#ent-org-decentralized-intelligence-agency-t-01-03-41)**
+> "...ven though we are technically the Decentralized Intelligence Agency, and we are very proud of that. There is no nucle..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>

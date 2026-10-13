@@ -1,6 +1,6 @@
 ---
 title: "Operation Underground Railroad"
-description: "Operation Underground Railroad (Organizations) - 14 mentions"
+description: "Operation Underground Railroad (Organizations) - 17 mentions"
 id: "org-operation-underground-railroad"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-operation-underground-railroad-t-00-05-38">2025-09-30 · 00:06:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-org-operation-underground-railroad-t-02-05-53">2026-04-22 · 02:06:24</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-operation-underground-railroad-t-00-07-43">2026-09-15 · 00:07:43</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-operation-underground-railroad-t-00-14-50" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-operation-underground-railroad-t-00-47-55" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-operation-underground-railroad-t-02-05-53" style="--pulse-height:33%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-operation-underground-railroad-t-00-05-43" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-operation-underground-railroad-t-00-14-50) | 3 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-operation-underground-railroad-t-00-47-55) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-operation-underground-railroad-t-02-05-53) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-operation-underground-railroad-t-00-05-43) | 3 |
 
 </details>
 </section>
@@ -62,7 +64,21 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:06:16](/episodes/ep-kn1E0scy9Wc.md#ent-org-operation-underground-railroad-t-00-05-43)**
+> ".... Him and Tim Ballard started Operation Underground."
+
+**[00:06:21](/episodes/ep-kn1E0scy9Wc.md#ent-org-operation-underground-railroad-t-00-06-21)**
+> "... the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. ..."
+
+**[00:07:43](/episodes/ep-kn1E0scy9Wc.md#ent-org-operation-underground-railroad-t-00-07-43)**
+> "...outh America. He did that via Operation Underground, which I said mentioned was funded by Glenn Beck."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
@@ -161,6 +177,25 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 </details>
 
 <details>
+<summary>Founded By (2)</summary>
+
+- **[Glenn Beck](/entities/person-glenn-beck.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43): “He was very much involved in the media on September 10th. Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
+
+</details>
+
+- **[Tim Ballard](/entities/person-tim-ballard.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43): “He was very much involved in the media on September 10th. Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Funded By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -171,17 +206,25 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 </details>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:21](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Rick Cutler](/entities/person-rick-cutler.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:07:43](/episodes/ep-kn1E0scy9Wc.md#t-00-07-43): “Rick Cutler rescued kids from sex trafficking in South America. He did that via Operation Underground, which I said mentioned was funded by Glenn Beck.”
+
+</details>
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -189,6 +232,20 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:27](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “sex trafficking charity. Also in their profile pictures, they're wearing a t-shirt from another child sex trafficking charity, Operation Underground Railroad, and you will recall that following the assassination, Phil Lyman was speaking to the guy that used to run, I'm blanking on his name, Tim Ballard, that's his name, Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:34:55](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-44): “Tim Ballard is the one that used to run Operation Underground, which is a charity for sex trafficking.”
+
+</details>
+
+- **[Glenn Beck](/entities/person-glenn-beck.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43): “He was very much involved in the media on September 10th. Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
+
+</details>
+
+- **[Tim Ballard](/entities/person-tim-ballard.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43): “He was very much involved in the media on September 10th. Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
 
 </details>
 
@@ -200,12 +257,29 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 </details>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)** funded this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:21](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Operation Underground Railroad (2)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43) (Claim) **Candace Owens**: ["Owens said Glenn Beck funded Operation Underground Railroad and Tim Ba..."](/statements/statement-5de49a1deadc.md)
+  - Also about: [Glenn Beck](/entities/person-glenn-beck.md), [Tim Ballard](/entities/person-tim-ballard.md)
+
+- [00:07:43](/episodes/ep-kn1E0scy9Wc.md#t-00-07-43) (Claim) **Candace Owens**: ["Owens said Rick Cutler rescued children from sex trafficking in South ..."](/statements/statement-5c0d29cccc42.md)
+  - Also about: [Rick Cutler](/entities/person-rick-cutler.md)
 
 </details>
 

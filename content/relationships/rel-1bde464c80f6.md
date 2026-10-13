@@ -11,7 +11,7 @@ object: "person-shawn-ryan"
 
 ## [Brian Harpole](/entities/person-brian-harpole) interviewed by [Shawn Ryan](/entities/person-shawn-ryan)
 
-### Evidence (14 mentions)
+### Evidence (17 mentions)
 
 **[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
 
@@ -49,6 +49,14 @@ object: "person-shawn-ryan"
 
 - [00:03:34](/episodes/ep-VMNWMXX1vO8#t-00-03-34): _his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show_
 
+**[BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU)**
+
+- [00:07:44](/episodes/ep-aLJhpxrakCU#t-00-07-44): _SWAT commanders who worked for the highest levels of government. Actually, I'm going to show you this clip because when Brian Harpole sat down with Shawn Ryan, Shawn Ryan went over the remarkable expertise of this security team._
+
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [00:08:26](/episodes/ep-bIuvTKlFeGo#t-00-08-26): _But it's also interesting because Brian Harpole was willing to speak to Sean Ryan on a podcast. He opened up. He talked about why wouldn't you speak to the independent review if everything you say to Sean Ryan is true and above board and we are going to learn that it was not, as I said, but if everything you're saying is true and you have nothing to hide, Erika (Erika Kirk), don't come for my employees. ... That's when they started getting things together. Remember the Sean Ryan interview? But guess what? You guys know what he was talking about._
+
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
 - [00:15:13](/episodes/ep-es7PWdFGoFI#t-00-15-13): _Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan)._
@@ -68,6 +76,10 @@ object: "person-shawn-ryan"
 **[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
 
 - [00:57:13](/episodes/ep-sKuYLNx3iRo#t-00-57-13): _Yes, Brian (Brian Harpole) briefly discussed in that Sean Ryan interview how they caught a police tail_
+
+**[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
+
+- [00:28:07](/episodes/ep-yrg_-D6oNHE#t-00-28-07): _to misrepresent the text message to the public and making the public believe that the message was sent to Brian Harpole, that's A, and making the world believe that the text message was regarding the Losee Center rooftop. That was very early on, Brian Harpole on Shawn Ryan in November of last year, and I'm going to let you listen to that. ... We have some correspondence with the chief of the school on that day, on Monday before Charlie (Charlie Kirk) was killed and why this hadn't come out and why he won't stand up like a man and admit this, I don't know, but he's watching a bunch of men lose their careers and he's okay with it._
 
 ### Related
 

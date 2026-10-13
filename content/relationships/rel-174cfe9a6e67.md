@@ -11,7 +11,7 @@ object: "person-rob-mccoy"
 
 ## [Michael McCoy](/entities/person-michael-mccoy) child of [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (14 mentions)
+### Evidence (15 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -40,6 +40,10 @@ object: "person-rob-mccoy"
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
 - [00:15:52](/episodes/ep-OgRyiOAVtWU#t-00-15-52): _He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."_
+
+**[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
+
+- [00:04:37](/episodes/ep-UAdBEXs7nNc#t-00-04-37): _And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"_
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 

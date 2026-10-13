@@ -1,21 +1,26 @@
 ---
 title: "Jenna (commenter; identity unverified)"
-description: "Jenna (commenter; identity unverified) (Anonymous Sources) - 1 mention"
+description: "Jenna (commenter; identity unverified) (Anonymous Sources) - 2 mentions"
 id: "anon-src-E7P2ShoYDUA-007"
 type: "ANONYMOUS_SOURCE"
 aliases:
   - "Jenna"
+categories:
+  - "viewer commenter"
+  - "identity unverified"
 ---
 
 _Type: Anonymous Sources_
 
 **Also known as:** Jenna
 
+**Categories:** viewer commenter, identity unverified
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-E7P2ShoYDUA-007-t-01-21-21">2026-08-17 · 01:21:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-E7P2ShoYDUA-007-t-01-21-21">2026-08-17 · 01:21:21</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-anon-src-E7P2ShoYDUA-007-t-00-56-08">2026-09-15 · 00:56:42</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,12 +32,14 @@ _Type: Anonymous Sources_
 <p>Highest activity: <a href="/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-E7P2ShoYDUA-007-t-01-21-21">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-E7P2ShoYDUA-007-t-01-21-21" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-anon-src-E7P2ShoYDUA-007-t-00-56-08" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-E7P2ShoYDUA-007-t-01-21-21) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-anon-src-E7P2ShoYDUA-007-t-00-56-08) | 1 |
 
 </details>
 </section>
@@ -40,7 +47,15 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:56:42](/episodes/ep-kn1E0scy9Wc.md#ent-anon-src-E7P2ShoYDUA-007-t-00-56-08)**
+> "A comment in today's episode actually this one was from yesterday, but I forgot to read it. This is from Jenna (viewer commenter; surname unverified)."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>

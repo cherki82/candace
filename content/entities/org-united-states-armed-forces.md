@@ -1,6 +1,6 @@
 ---
 title: "United States Armed Forces"
-description: "United States Armed Forces (Organizations) - 23 mentions"
+description: "United States Armed Forces (Organizations) - 24 mentions"
 id: "org-united-states-armed-forces"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59">2025-11-05 · 00:51:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-54-41">2026-06-26 · 00:55:06</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-united-states-armed-forces-t-00-39-17">2026-09-25 · 00:39:23</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -54,6 +54,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24" style="--pulse-height:67%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-armed-forces-t-00-00-39" style="--pulse-height:67%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-47-31" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-united-states-armed-forces-t-00-39-17" style="--pulse-height:33%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +76,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-armed-forces-t-00-00-39) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-47-31) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-united-states-armed-forces-t-00-39-17) | 1 |
 
 </details>
 </section>
@@ -86,7 +88,15 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:39:23](/episodes/ep-_Sq5RqP27NY.md#ent-org-united-states-armed-forces-t-00-39-17)**
+> "...Benjamin Netanyahu) knows the American military is his military because he's blackmailing all of ..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -346,7 +356,15 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Armed Forces (33)</strong></summary>
+<summary><strong class="section-title">Statements about United States Armed Forces (34)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:39:17](/episodes/ep-_Sq5RqP27NY.md#t-00-39-17) (Opinion) **Candace Owens**: ["Owens urged viewers not to have their children sign up for the militar..."](/statements/statement-aa1996d882c8.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4)</summary>

@@ -20,7 +20,7 @@ date: "2025-08-15"
 
 > A Turning Point USA donor retreat began in Aspen.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Candace x Baron Coleman LIVE!! | Candace Ep 293
 
@@ -61,3 +61,14 @@ date: "2025-08-15"
 <a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=2055s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then August 15th, Erika goes to the Aspen Investor Retreat
+
+### 6. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:37:11](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-08-15-a-turning-point-usa-donor-retreat-began--t-00-37-01) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=2231s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On August 15th through to August 17th, we know that that was a Turning Point USA Aspen Investor
+
+> **Date stated in this source:** “August 15th through to August 17th”
+> **Date review note:** Source supplies the August 15-17, 2025 range; existing canonical August 15 is retained as retreat start, not an exact day for every activity.

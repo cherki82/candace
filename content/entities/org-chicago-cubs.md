@@ -1,6 +1,6 @@
 ---
 title: "Chicago Cubs"
-description: "Chicago Cubs (Organizations) - 1 mention"
+description: "Chicago Cubs (Organizations) - 2 mentions"
 id: "org-chicago-cubs"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Chicago Cubs — MLB](https://www.mlb.com/cubs)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#t-00-44-02">2026-09-08 · 00:44:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#t-00-44-02">2026-09-08 · 00:44:06</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_2DiIbfy4mU.md#t-00-32-15">2026-09-23 · 00:32:15</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [Chicago Cubs — MLB](https://www.mlb.com/cubs)
 <p>Highest activity: <a href="/episodes/ep-FGoeoZxDN1c.md#t-00-44-02">Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-FGoeoZxDN1c.md#t-00-44-02" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#t-00-32-15" style="--pulse-height:100%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#t-00-44-02) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#t-00-32-15) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [Chicago Cubs — MLB](https://www.mlb.com/cubs)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:32:15](/episodes/ep-_2DiIbfy4mU.md#t-00-32-15)**
+> "And sorry, I said cubs, I should have said bears. And to be clear, this ..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

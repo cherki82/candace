@@ -1,6 +1,6 @@
 ---
 title: "Joan of Arc"
-description: "Joan of Arc (People) - 7 mentions"
+description: "Joan of Arc (People) - 10 mentions"
 id: "person-joan-of-arc"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24">2026-04-29 · 01:13:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-joan-of-arc-t-01-22-04">2026-08-17 · 01:22:37</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-joan-of-arc-t-00-47-12">2026-10-08 · 00:47:30</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,9 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-joan-of-arc-t-01-22-04" style="--pulse-height:33%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#t-00-57-20" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-joan-of-arc-t-00-53-24" style="--pulse-height:33%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-joan-of-arc-t-00-47-12" style="--pulse-height:33%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +52,9 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15) | 3 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-joan-of-arc-t-01-22-04) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#t-00-57-20) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-joan-of-arc-t-00-53-24) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-joan-of-arc-t-00-47-12) | 1 |
 
 </details>
 </section>
@@ -56,7 +62,31 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:47:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-joan-of-arc-t-00-47-12)**
+> "...ganically. God bless. And St. Joan of Arc, pray for us. Christ is King."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:53:50](/episodes/ep-ms5ChhZegRg.md#ent-person-joan-of-arc-t-00-53-24)**
+> "...spelling unverified) writes, 'Joan of Arc, Candace (Candace Owens).' Thank you. That is my ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:57:44](/episodes/ep-5TTkMa49qj8.md#t-00-57-20)**
+> "It was for this that I was born. Joan d'Arc, my patron saint. Jean d'Arc, hope my French is still terrible, 1429 is when"
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>

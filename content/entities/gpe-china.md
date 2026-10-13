@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 58 mentions"
+description: "China (Places) - 61 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-38">2025-10-01 · 00:30:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30">2026-09-03 · 00:49:57</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-china-t-00-14-58">2026-10-05 · 00:15:11</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -49,6 +49,9 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45" style="--pulse-height:9%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-china-t-00-44-43" style="--pulse-height:9%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30" style="--pulse-height:18%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-china-t-00-06-21" style="--pulse-height:9%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-china-t-00-37-33" style="--pulse-height:9%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-china-t-00-14-58" style="--pulse-height:9%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +75,9 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-china-t-00-44-43) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-china-t-00-06-21) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-china-t-00-37-33) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-china-t-00-14-58) | 1 |
 
 </details>
 </section>
@@ -83,7 +89,31 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:15:11](/episodes/ep-ms5ChhZegRg.md#ent-gpe-china-t-00-14-58)**
+> "...oing to get rid of it because China controls it. And then they said, nevermind, we've..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:37:53](/episodes/ep-aLJhpxrakCU.md#ent-gpe-china-t-00-37-33)**
+> "... just compromise Catholics in China, it binds and silences the whole church. Even Pop..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:06:33](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-china-t-00-06-21)**
+> ".... Erika (Erika Kirk) lived in China and worked with child sex trafficking victims. Ac..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
@@ -352,12 +382,13 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Former Residence Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:31:23](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:33](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “I did interview Tim Ballard. Erika (Erika Kirk) lived in China and worked with child sex trafficking victims. According to her, we have not been able to locate who she was working with at that time.”
 
 </details>
 
@@ -367,12 +398,13 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:31:23](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:33](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “I did interview Tim Ballard. Erika (Erika Kirk) lived in China and worked with child sex trafficking victims. According to her, we have not been able to locate who she was working with at that time.”
 
 </details>
 
@@ -381,7 +413,15 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about China (14)</strong></summary>
+<summary><strong class="section-title">Statements about China (15)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:15:04](/episodes/ep-ms5ChhZegRg.md#t-00-14-58) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Israel took over TikTok after it became too pro-Palestin..."](/statements/statement-211ec427e5fe.md)
+  - Also about: [TikTok](/entities/org-tiktok.md), [Israel](/entities/gpe-israel.md), [Pro-Palestinian advocacy](/entities/concept-pro-palestinian-advocacy.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>

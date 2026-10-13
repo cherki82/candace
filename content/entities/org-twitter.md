@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 108 mentions"
+description: "Twitter (Organizations) - 126 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#t-00-03-17">2026-09-10 · 00:03:17</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#t-00-01-55">2026-10-08 · 00:01:55</a></strong></div>
+<div><span>Episodes</span><strong>80</strong></div>
+<div><span>Mentions</span><strong>126</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -106,6 +106,16 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40" style="--pulse-height:20%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#t-00-02-10" style="--pulse-height:20%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#t-00-03-17" style="--pulse-height:20%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-twitter-t-00-00-01" style="--pulse-height:20%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-twitter-t-00-00-40" style="--pulse-height:20%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#t-00-00-44" style="--pulse-height:100%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 5 mentions" title="2026-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-twitter-t-00-10-32" style="--pulse-height:20%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-twitter-t-00-44-21" style="--pulse-height:20%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-twitter-t-00-46-57" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-twitter-t-00-08-32" style="--pulse-height:20%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#t-00-02-19" style="--pulse-height:60%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#t-00-02-09" style="--pulse-height:40%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#t-00-01-13" style="--pulse-height:40%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -181,6 +191,16 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-02-10) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#t-00-03-17) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-twitter-t-00-00-01) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-twitter-t-00-00-40) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#t-00-00-44) | 5 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-twitter-t-00-10-32) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-twitter-t-00-44-21) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-twitter-t-00-46-57) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-twitter-t-00-08-32) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-00-02-19) | 3 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09) | 2 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#t-00-01-13) | 2 |
 
 </details>
 </section>
@@ -192,7 +212,111 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (126)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:01:45](/episodes/ep-UAdBEXs7nNc.md#t-00-01-13)**
+> "I mean, he called me all sorts of things in that X Space. He said I was wretched, nasty, absolutely awful, claimed that I dislike other pretty women."
+
+**[00:01:55](/episodes/ep-UAdBEXs7nNc.md#t-00-01-55)**
+> "He also called me illiterate thereafter on X. I just feel sad on the inside. I sad, Blake (Blake Neff)."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
+
+**[00:02:35](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09)**
+> "And you know what? Ha ha, because God really does have the best sense of humor. Yesterday evening, Blake Neff joined an X live Space."
+
+**[00:02:53](/episodes/ep-yrg_-D6oNHE.md#t-00-02-53)**
+> "It's never gone well for him, is what I would say, these X Spaces, and yet he persists. Anyway, here is what he had to say."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
+
+**[00:02:19](/episodes/ep-0pSAhaAZz1w.md#t-00-02-19)**
+> "Of course, of course, it was a very long thread on X attacking me. It was also attacking you guys back at home, my audience and our treatment of the widow. That was the theme that week. It was also a staunch defense, of course, of the narrative."
+
+**[00:04:34](/episodes/ep-0pSAhaAZz1w.md#t-00-04-07)**
+> "Jennica Pounds has announced her resignation from the DOD. She wrote this on X. I have submitted my resignation from the Department of War."
+
+**[01:04:23](/episodes/ep-0pSAhaAZz1w.md#t-01-04-23)**
+> "Exactly what you get on his show. His brain is just taking different routes than the rest of ours. Uh, The One You Feed writes, moral of the story, do not engage on X or elsewhere with any of these sellouts that are taking money. Starve them. That is true. I thought about that. I am going to stop engaging, because now you realize why they get so crazy, because they, they actually need"
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:08:32](/episodes/ep-ms5ChhZegRg.md#ent-org-twitter-t-00-08-32)**
+> "...runs Charlie (Charlie Kirk)'s Twitter account, and Nick (Nick Shirley) probably doesn't..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:47:22](/episodes/ep-q4m-kGzvwjw.md#ent-org-twitter-t-00-46-57)**
+> "...as what was trending all over Twitter yesterday because it's so despicable and disgusti..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:44:21](/episodes/ep-5TTkMa49qj8.md#ent-org-twitter-t-00-44-21)**
+> "... They also found that I had a Twitter account in college that I've regularly said I wis..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:11:04](/episodes/ep-_Sq5RqP27NY.md#ent-org-twitter-t-00-10-32)**
+> "...t, it's currently trending on Twitter."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (5 mentions)</summary>
+
+**[00:00:44](/episodes/ep-6XfDqKTdFKg.md#t-00-00-44)**
+> "Tucker Carlson said, just look at the photo. Why would any person willingly post this and expect it not to trend on X for being gay?"
+
+**[00:00:52](/episodes/ep-6XfDqKTdFKg.md#t-00-00-44)**
+> "Which it is at this moment is trending on X just for being gay. The memes are exceptional."
+
+**[00:30:38](/episodes/ep-6XfDqKTdFKg.md#t-00-30-05)**
+> "Okay, but I do have to say, I have to show you this. I should have pulled this a while ago because we were we were laughing so hard when we saw this on X."
+
+**[00:50:42](/episodes/ep-6XfDqKTdFKg.md#t-00-50-18)**
+> "an X old genocidal granny. You gotta find one. There's always one lingering around X, and she's like, just blow up Palestinian children. You gotta do what you want to do. I love Erika (Erika Kirk), and that's that. All right, we get it. You know, Israelis, by the way, if you are listening, midterms are on the corner."
+
+**[00:54:08](/episodes/ep-6XfDqKTdFKg.md#t-00-54-08)**
+> "Like I had this for years. It's it's definitely not a very expensive shirt. I feel maybe I feel like it's not, I was so upset when they were like, I had no idea there, that there's a whole group on X that's dedicated to trying to find out they'll let you know where it's from."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:01:06](/episodes/ep-BvthGQw3_s0.md#ent-org-twitter-t-00-00-40)**
+> "...ncluded an angry grandma from Twitter."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:00:08](/episodes/ep-NNiCZk1cuzs.md#ent-org-twitter-t-00-00-01)**
+> "...s well. And I also got into a Twitter spat with Andrew Kolvet back and forth, finally g..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -872,7 +996,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Twitter (15)</strong></summary>
+<summary><strong class="section-title">Statements about Twitter (17)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:44:21](/episodes/ep-5TTkMa49qj8.md#t-00-44-21) (Claim) **Candace Owens**: ["Owens denied ever having a MySpace account and said she had a college ..."](/statements/statement-5ddf23abc8fd.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Myspace](/entities/org-myspace.md)
+
+- [00:49:28](/episodes/ep-5TTkMa49qj8.md#t-00-49-19) (Opinion) **Bill Ackman** (via quoted tweet): ["Bill Ackman wrote “X is incredible,” describing experts sharing knowle..."](/statements/statement-a4c1bc4b1183.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1)</summary>

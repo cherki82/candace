@@ -1,6 +1,6 @@
 ---
 title: "Minnesota"
-description: "Minnesota (Places) - 20 mentions"
+description: "Minnesota (Places) - 22 mentions"
 id: "gpe-minnesota"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [State of Minnesota](https://mn.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-minnesota-t-00-19-42">2025-11-13 · 00:19:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-minnesota-t-00-08-51">2026-05-28 · 00:09:17</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-minnesota-t-00-38-22">2026-10-01 · 00:38:31</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,8 @@ Source: [State of Minnesota](https://mn.gov/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-minnesota-t-00-42-13" style="--pulse-height:40%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-minnesota-t-00-25-42" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-minnesota-t-00-08-51" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-minnesota-t-01-07-02" style="--pulse-height:20%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-minnesota-t-00-38-22" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +57,8 @@ Source: [State of Minnesota](https://mn.gov/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-minnesota-t-00-42-13) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-minnesota-t-00-25-42) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-minnesota-t-00-08-51) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-minnesota-t-01-07-02) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-minnesota-t-00-38-22) | 1 |
 
 </details>
 </section>
@@ -62,7 +66,23 @@ Source: [State of Minnesota](https://mn.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:38:31](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-minnesota-t-00-38-22)**
+> "... and the military training in Minnesota."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:07:10](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-minnesota-t-01-07-02)**
+> "...civilians and the military in Minnesota. It's an interesting name, Valhalla strike."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -205,7 +225,15 @@ Source: [State of Minnesota](https://mn.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Minnesota (2)</strong></summary>
+<summary><strong class="section-title">Statements about Minnesota (3)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:07:10](/episodes/ep-bIuvTKlFeGo.md#t-01-07-02) (Claim) **Candace Owens**: ["Owens said Operation Valhalla Strike began in Minnesota with coordinat..."](/statements/statement-80d41b7499eb.md)
+  - Also about: [Operation Valhalla](/entities/event-operation-valhalla.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>

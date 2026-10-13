@@ -1,6 +1,6 @@
 ---
 title: "Butler, Pennsylvania"
-description: "Butler, Pennsylvania (Places) - 45 mentions"
+description: "Butler, Pennsylvania (Places) - 48 mentions"
 id: "gpe-butler-pennsylvania"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Butler](https://cityofbutler.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31">2026-01-20 · 00:42:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-54">2026-07-16 · 00:29:19</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-butler-pennsylvania-t-00-36-17">2026-10-08 · 00:36:53</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,6 +48,9 @@ Source: [City of Butler](https://cityofbutler.org/)
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-butler-pennsylvania-t-00-49-07" style="--pulse-height:9%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-butler-pennsylvania-t-00-40-48" style="--pulse-height:9%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-00-43" style="--pulse-height:45%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-butler-pennsylvania-t-00-09-11" style="--pulse-height:9%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-37-19" style="--pulse-height:9%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-butler-pennsylvania-t-00-36-17" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +69,9 @@ Source: [City of Butler](https://cityofbutler.org/)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-butler-pennsylvania-t-00-49-07) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-butler-pennsylvania-t-00-40-48) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-00-43) | 5 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-butler-pennsylvania-t-00-09-11) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-butler-pennsylvania-t-00-36-17) | 1 |
 
 </details>
 </section>
@@ -77,7 +83,31 @@ Source: [City of Butler](https://cityofbutler.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:36:53](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-butler-pennsylvania-t-00-36-17)**
+> "...es of security that we saw in Butler, Pennsylvania tragically came to Utah that day."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:37:38](/episodes/ep-ms5ChhZegRg.md#t-00-37-19)**
+> "Where a sniper could be? And he was just trying to backpedal away from that. And I said, 'Look, man, I'm just a guy here. I was in the Navy, but I'm no security expert.' And coming into this place, I said, 'Charlie (Charlie Kirk), I don't like this place. There's too many buildings.' Are you telling me, in a post-Butler, PA, environment, that you didn't think you had to have somebody on the roofs?"
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:09:11](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-butler-pennsylvania-t-00-09-11)**
+> "...mp (Donald J. Trump) survived Butler."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (5 mentions)</summary>

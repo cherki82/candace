@@ -16,7 +16,7 @@ date: "2001-09-11"
 
 > September 11 attacks
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
@@ -57,3 +57,11 @@ date: "2001-09-11"
 <a href="https://www.youtube.com/watch?v=LATnak75Si0&t=3002s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > were tragically killed on September 11, 2001—a day that, as a native suburban New Yorker myself
+
+### 6. CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That B...
+
+**Episode:** [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md)
+**Timestamp:** [00:34:51](/episodes/ep-_Sq5RqP27NY.md#event-event-2001-09-11-september-11-attacks-t-00-34-39) 
+<a href="https://www.youtube.com/watch?v=_Sq5RqP27NY&t=2091s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> It doesn't work on us trying to, oh, it's like 9-11. 9-11, it's just like the Holocaust,

@@ -1,6 +1,6 @@
 ---
 title: "Paramount Tactical Solutions"
-description: "Paramount Tactical Solutions (Organizations) - 38 mentions"
+description: "Paramount Tactical Solutions (Organizations) - 46 mentions"
 id: "org-paramount-tactical-solutions"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37">2026-01-05 · 00:42:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-10-05">2026-09-09 · 00:10:17</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-42-51">2026-10-07 · 00:43:26</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -55,6 +55,9 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53" style="--pulse-height:29%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#t-00-10-05" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-paramount-tactical-solutions-t-00-35-18" style="--pulse-height:14%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-paramount-tactical-solutions-t-00-44-24" style="--pulse-height:14%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-39-19" style="--pulse-height:86%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 6 mentions" title="2026-10-07 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +82,9 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-10-05) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-paramount-tactical-solutions-t-00-35-18) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-paramount-tactical-solutions-t-00-44-24) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-39-19) | 6 |
 
 </details>
 </section>
@@ -90,7 +96,46 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (6 mentions)</summary>
+
+**[00:39:34](/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-39-19)**
+> "... this, I was almost in tears. Paramount Tactical, Paramount not so tactical, just, he's just, I ca..."
+
+**[00:40:04](/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-40-04)**
+> "...how dumb Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) is, onl..."
+
+**[00:40:18](/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-40-04)**
+> "...t so tactical. Gary Mountain (Paramount Tactical commentator; surname spelling unverified) replies..."
+
+**[00:40:26](/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-40-04)**
+> "...ck with, Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified), you fo..."
+
+**[00:40:34](/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-40-04)**
+> "...e's just Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified). No, no..."
+
+**[00:43:26](/episodes/ep-yrg_-D6oNHE.md#ent-org-paramount-tactical-solutions-t-00-42-51)**
+> "...hat says Gary (Gary Mountain; Paramount Tactical commentator; surname spelling unverified) over at..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:44:50](/episodes/ep-_2DiIbfy4mU.md#ent-org-paramount-tactical-solutions-t-00-44-24)**
+> "...ction, them sending out every Paramount Tactical suddenly talking to his son. It was crazy. It was..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:35:26](/episodes/ep-kn1E0scy9Wc.md#ent-org-paramount-tactical-solutions-t-00-35-18)**
+> "... that i see these people like paramount tactical he makes a skin crawl i just can't explain it but..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -310,12 +355,13 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:37:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-36-51): “Paramount Not So Tactical doesn't understand what an alibi is.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:49:45](/episodes/ep-sKuYLNx3iRo.md#t-00-49-35): “They rave about how easy it is to use. In fact, it's so simple, even Paramount not so tactical could probably figure it out.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:39:34](/episodes/ep-yrg_-D6oNHE.md#t-00-39-19): “It's just, it's a lot going on. And then I saw this, I was almost in tears. Paramount Tactical, Paramount not so tactical, just, he's just, I can't believe it. Just makes us look so bad that this person was in the military. Like, it makes people think that they can just take over our country. That's honestly the, if Paramount not so tactical continues to have a platform, we are just going to routinely demonstrate to, to people around the world that we are weak.”
 
 </details>
 
@@ -366,15 +412,16 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:37:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-36-51): “Paramount Not So Tactical doesn't understand what an alibi is.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:49:45](/episodes/ep-sKuYLNx3iRo.md#t-00-49-35): “They rave about how easy it is to use. In fact, it's so simple, even Paramount not so tactical could probably figure it out.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:39:34](/episodes/ep-yrg_-D6oNHE.md#t-00-39-19): “It's just, it's a lot going on. And then I saw this, I was almost in tears. Paramount Tactical, Paramount not so tactical, just, he's just, I can't believe it. Just makes us look so bad that this person was in the military. Like, it makes people think that they can just take over our country. That's honestly the, if Paramount not so tactical continues to have a platform, we are just going to routinely demonstrate to, to people around the world that we are weak.”
 
 </details>
 
@@ -423,12 +470,27 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 
 </details>
 
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:35:18](/episodes/ep-kn1E0scy9Wc.md#t-00-35-18): “And there has been something that just sort of makes my skin crawl about a lot of these influencers who are clearly working 24 hours a day. okay uh to delude the public into not believing their own eyes right i don't find that i see these people like paramount tactical he makes a skin crawl i just can't explain it but there's something not right with him um and then they try to bring in these people as if they're experts right so instantly we saw turning point usa uh using uh paramount tactical and he's like oh he's a former green beret so he's he can explain to you why magic bullets might”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paramount Tactical Solutions (12)</strong></summary>
+<summary><strong class="section-title">Statements about Paramount Tactical Solutions (13)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:35:26](/episodes/ep-kn1E0scy9Wc.md#t-00-35-18) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Turning Point USA used Paramount Tactical and introduced Ma..."](/statements/statement-e10f12f8a7dc.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Matt Tardio](/entities/person-matt-tardio.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>

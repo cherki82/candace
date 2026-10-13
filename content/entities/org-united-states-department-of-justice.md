@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 60 mentions"
+description: "United States Department of Justice (Organizations) - 64 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-united-states-department-of-justice-t-00-33-51">2025-10-06 · 00:33:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38">2026-07-29 · 00:48:02</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-united-states-department-of-justice-t-00-30-33">2026-10-01 · 00:30:48</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -63,6 +63,9 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-united-states-department-of-justice-t-01-04-38" style="--pulse-height:11%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-united-states-department-of-justice-t-00-31-45" style="--pulse-height:11%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-department-of-justice-t-00-22-23" style="--pulse-height:22%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-united-states-department-of-justice-t-01-00-03" style="--pulse-height:11%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-united-states-department-of-justice-t-00-30-33" style="--pulse-height:11%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +96,9 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-united-states-department-of-justice-t-01-04-38) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-united-states-department-of-justice-t-00-31-45) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-department-of-justice-t-00-22-23) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-united-states-department-of-justice-t-01-00-03) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-united-states-department-of-justice-t-00-30-33) | 1 |
 
 </details>
 </section>
@@ -104,7 +110,34 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:30:48](/episodes/ep-q4m-kGzvwjw.md#ent-org-united-states-department-of-justice-t-00-30-33)**
+> "...ling people. We discussed the Department of Justice."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:00:27](/episodes/ep-bIuvTKlFeGo.md#ent-org-united-states-department-of-justice-t-01-00-03)**
+> "I would love to see the DOJ move to unseal the grand jury testimony. I think ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:22:46](/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-department-of-justice-t-00-22-23)**
+> "...ished that? The answer is the Department of Justice."
+
+**[00:22:52](/episodes/ep-kn1E0scy9Wc.md#ent-org-united-states-department-of-justice-t-00-22-52)**
+> "The United States Department of Justice established the Internet Crimes Against Children ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -470,7 +503,19 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Founded (1)</summary>
+
+- **[Internet Crimes Against Children Task Force Program](/entities/org-internet-crimes-against-children-task-force-program.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:22:46](/episodes/ep-kn1E0scy9Wc.md#t-00-22-23): “Wondering about who established that? The answer is the Department of Justice. The United States Department of Justice established the Internet Crimes Against Children Task Force Program back in 1998 to help states and local law enforcement fight technology-facilitated child sexual exploitation. Again, that's not what occurred on September 10th.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -490,6 +535,13 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-40): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
+
+</details>
+
+- **[Internet Crimes Against Children Task Force Program](/entities/org-internet-crimes-against-children-task-force-program.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:22:46](/episodes/ep-kn1E0scy9Wc.md#t-00-22-23): “Wondering about who established that? The answer is the Department of Justice. The United States Department of Justice established the Internet Crimes Against Children Task Force Program back in 1998 to help states and local law enforcement fight technology-facilitated child sexual exploitation. Again, that's not what occurred on September 10th.”
 
 </details>
 
@@ -513,7 +565,23 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Justice (18)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Justice (20)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:00:27](/episodes/ep-bIuvTKlFeGo.md#t-01-00-03) (Opinion) **Charlie Kirk** (via quoted speech): ["Kirk said he would love the DOJ to move to unseal grand jury testimony..."](/statements/statement-3999622dbf71.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:22:52](/episodes/ep-kn1E0scy9Wc.md#t-00-22-52) (Claim) **Candace Owens**: ["Owens said the United States Department of Justice established the Int..."](/statements/statement-3d80df7751bd.md)
+  - Also about: [Internet Crimes Against Children Task Force Program](/entities/org-internet-crimes-against-children-task-force-program.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Israel](/entities/gpe-israel) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -28,6 +28,10 @@ object: "person-candace-owens"
 **[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
 
 - [00:33:31](/episodes/ep-Vu6Y24pqhZs#t-00-33-31): _so that Trump can protect the elites. Particularly Israel, particularly Jeffrey Epstein and his entire network, it seems Trump has completely abandoned and forgotten the American people so long as he can protect the Epstein network._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:38:35](/episodes/ep-_Sq5RqP27NY#t-00-38-35): _Like, it was just a few of us, and we’ve starved as many people, we’ve murdered this many people, we killed this many people. We’re never satisfied. And look at this headline in Reuters from yesterday: “Israeli bulldozers smash Palestinian olive trees ahead of annual harvest.” They note the villagers rely upon this. The villagers were wailing over the mangled remains of their olive trees on Wednesday after Israel’s military just uprooted them with bulldozers. So what they do, ... This is what they do. They are naturally destructive and satanic. They are cockroaches. They are parasites. They are being treated like a pariah state because they should be. And they are the very reason that nobody cares about midterms._
 
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 

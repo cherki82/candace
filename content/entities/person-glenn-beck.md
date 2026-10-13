@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 44 mentions"
+description: "Glenn Beck (People) - 49 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38">2025-09-23 · 00:07:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-glenn-beck-t-00-48-55">2026-09-08 · 00:49:22</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-glenn-beck-t-00-27-55">2026-09-30 · 00:28:10</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -54,6 +54,8 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-27-41" style="--pulse-height:25%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-glenn-beck-t-00-48-55" style="--pulse-height:12%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-glenn-beck-t-00-05-43" style="--pulse-height:50%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 4 mentions" title="2026-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-glenn-beck-t-00-27-55" style="--pulse-height:12%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,6 +85,8 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-27-41) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-glenn-beck-t-00-48-55) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-glenn-beck-t-00-05-43) | 4 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-glenn-beck-t-00-27-55) | 1 |
 
 </details>
 </section>
@@ -94,7 +98,32 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:28:10](/episodes/ep-5TTkMa49qj8.md#ent-person-glenn-beck-t-00-27-55)**
+> "...(Erika Kirk) is going to tell Glenn Beck in December that, you know, she has his phone and..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (4 mentions)</summary>
+
+**[00:06:10](/episodes/ep-kn1E0scy9Wc.md#ent-person-glenn-beck-t-00-05-43)**
+> "... We'll discuss that in a bit. Glenn Beck, his daughters were there."
+
+**[00:06:21](/episodes/ep-kn1E0scy9Wc.md#ent-person-glenn-beck-t-00-06-21)**
+> "It was Glenn Beck that funded it. Tim Ballard had the idea. And yea..."
+
+**[00:07:43](/episodes/ep-kn1E0scy9Wc.md#ent-person-glenn-beck-t-00-07-43)**
+> "... said mentioned was funded by Glenn Beck."
+
+**[00:57:26](/episodes/ep-kn1E0scy9Wc.md#ent-person-glenn-beck-t-00-57-26)**
+> "...tour with Fox, Bari Weiss and Glenn Beck to paint you as a liar and a crazy person before ..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -360,13 +389,26 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 <details>
+<summary>Founded (1)</summary>
+
+- **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43): “He was very much involved in the media on September 10th. Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Funded (1)</summary>
 
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:21](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
 
 </details>
 
@@ -383,19 +425,20 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:16:30](/episodes/ep-6J6lRZPQ4jk.md#t-00-16-17): “We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:28:18](/episodes/ep-1FhY-koMuWM.md#t-00-27-41): “She went to Glenn Beck. And here’s what she said. Take a listen. ... I know the tour. That was the first stop of the tour. And I know you two had met ... Mm-hmm. ... Do you think Charlie (Charlie Kirk) knew to some degree and had made the conscience, the conscious choice that I may be taken out early? Not saying he knew that that day, but that he had any inkling that this might come his way, and that ... It's interesting because we always, we have, I mean, I still, I have unbelievable amounts of death threats.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:28:10](/episodes/ep-5TTkMa49qj8.md#t-00-27-55): “So we're supposed to imagine this will update has something to do with the fact that Charlie (Charlie Kirk) thought he was going to die, and he throws it to things that they were discussing the night before. But also don't forget that Erica (Erika Kirk) is going to tell Glenn Beck in December that, you know, she has his phone and he wasn't concerned about the death threats and he was awake because he was—”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -404,11 +447,19 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 </details>
 
+- **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43): “He was very much involved in the media on September 10th. Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
+
+</details>
+
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)** funded by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:06:21](/episodes/ep-kn1E0scy9Wc.md#t-00-06-21): “It was Glenn Beck that funded it. Tim Ballard had the idea. And yeah, that's a Operation Underground is rescuing children from human sex trafficking. I believe their story began in Haiti.”
 
 </details>
 
@@ -420,13 +471,14 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:16:30](/episodes/ep-6J6lRZPQ4jk.md#t-00-16-17): “We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:40](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “But they owned right away, which felt great, that if you guys recall, We, Erika (Erika Kirk) sat down with Glenn (Glenn Beck).”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:28:18](/episodes/ep-1FhY-koMuWM.md#t-00-27-41): “She went to Glenn Beck. And here’s what she said. Take a listen. ... I know the tour. That was the first stop of the tour. And I know you two had met ... Mm-hmm. ... Do you think Charlie (Charlie Kirk) knew to some degree and had made the conscience, the conscious choice that I may be taken out early? Not saying he knew that that day, but that he had any inkling that this might come his way, and that ... It's interesting because we always, we have, I mean, I still, I have unbelievable amounts of death threats.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:28:10](/episodes/ep-5TTkMa49qj8.md#t-00-27-55): “So we're supposed to imagine this will update has something to do with the fact that Charlie (Charlie Kirk) thought he was going to die, and he throws it to things that they were discussing the night before. But also don't forget that Erica (Erika Kirk) is going to tell Glenn Beck in December that, you know, she has his phone and he wasn't concerned about the death threats and he was awake because he was—”
 
 </details>
 
@@ -435,7 +487,26 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Glenn Beck (5)</strong></summary>
+<summary><strong class="section-title">Statements about Glenn Beck (8)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:28:10](/episodes/ep-5TTkMa49qj8.md#t-00-27-55) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled Erika Kirk telling Glenn Beck in December that Charlie ..."](/statements/statement-a5fe3e04a8cc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:06:16](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43) (Claim) **Candace Owens**: ["Owens said Glenn Beck funded Operation Underground Railroad and Tim Ba..."](/statements/statement-5de49a1deadc.md)
+  - Also about: [Tim Ballard](/entities/person-tim-ballard.md), [Operation Underground Railroad](/entities/org-operation-underground-railroad.md)
+
+- [00:57:26](/episodes/ep-kn1E0scy9Wc.md#t-00-57-26) (Accusation) **Ali (episode 387 viewer commenter; identity unverified)** (via read message): ["Ali, a viewer commenter whose legal identity is unverified, wrote that..."](/statements/statement-0bdf8dbe9c2a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Fox News](/entities/org-fox-news.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>

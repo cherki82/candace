@@ -11,7 +11,7 @@ object: "person-baron-coleman"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Baron Coleman](/entities/person-baron-coleman)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
@@ -20,6 +20,10 @@ object: "person-baron-coleman"
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
 - [00:01:48](/episodes/ep-SgVcnx4Oh30#t-00-01-48): _We kind of build off of each other and the work and the investigation that we're doing._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:26:32](/episodes/ep-_Sq5RqP27NY#t-00-26-32): _And yes, we will get together, me and Baron (Baron Coleman) will get together that sizzle reel for you guys before we pass off the show._
 
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 

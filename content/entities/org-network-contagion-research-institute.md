@@ -1,6 +1,6 @@
 ---
 title: "Network Contagion Research Institute"
-description: "Network Contagion Research Institute (Organizations) - 6 mentions"
+description: "Network Contagion Research Institute (Organizations) - 7 mentions"
 id: "org-network-contagion-research-institute"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-network-contagion-research-institute-t-00-21-55">2026-05-26 · 00:21:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-network-contagion-research-institute-t-00-28-28">2026-08-31 · 00:28:28</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-network-contagion-research-institute-t-00-03-00">2026-10-06 · 00:03:20</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-network-contagion-research-institute-t-00-39-03" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-network-contagion-research-institute-t-00-28-28" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-network-contagion-research-institute-t-00-03-00" style="--pulse-height:50%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-network-contagion-research-institute-t-00-39-03) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-network-contagion-research-institute-t-00-28-28) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-network-contagion-research-institute-t-00-03-00) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:03:20](/episodes/ep-0pSAhaAZz1w.md#ent-org-network-contagion-research-institute-t-00-03-00)**
+> "...a Pounds) was reinforcing the NCRI report, which was dropped the day before, a step-..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -199,7 +209,15 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Network Contagion Research Institute (6)</strong></summary>
+<summary><strong class="section-title">Statements about Network Contagion Research Institute (7)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:03:20](/episodes/ep-0pSAhaAZz1w.md#t-00-03-00) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Jennica Pounds’s thread as reinforcing the NCRI re..."](/statements/statement-7327461fee43.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

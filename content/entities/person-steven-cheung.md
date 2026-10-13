@@ -1,6 +1,6 @@
 ---
 title: "Steven Cheung"
-description: "Steven Cheung (People) - 5 mentions"
+description: "Steven Cheung (People) - 8 mentions"
 id: "person-steven-cheung"
 type: "PERSON"
 categories:
@@ -20,10 +20,10 @@ Source: [President Trump Announces Appointments to the White House Offices of Co
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-steven-cheung-t-00-05-44">2026-05-13 · 00:05:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-steven-cheung-t-00-05-47">2026-05-26 · 00:05:59</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -55,7 +55,7 @@ Source: [President Trump Announces Appointments to the White House Offices of Co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
@@ -107,12 +107,31 @@ Source: [President Trump Announces Appointments to the White House Offices of Co
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Met With (1)</summary>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[White House](/entities/org-white-house.md)** has director this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:10:40](/episodes/ep-Pb7UlpRdW6U.md#t-00-10-08): “We covered some of this yesterday with Steven Cheung, who is the White House communications director.”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
 
 </details>
 

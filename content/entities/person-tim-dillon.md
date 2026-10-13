@@ -1,6 +1,6 @@
 ---
 title: "Tim Dillon"
-description: "Tim Dillon (People) - 54 mentions"
+description: "Tim Dillon (People) - 59 mentions"
 id: "person-tim-dillon"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">2025-11-13 · 00:46:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-dillon-t-00-01-40">2026-07-16 · 00:01:48</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56">2026-10-08 · 00:48:18</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -51,6 +51,9 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40" style="--pulse-height:22%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-dillon-t-00-01-40" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-tim-dillon-t-00-58-22" style="--pulse-height:22%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tim-dillon-t-01-03-13" style="--pulse-height:22%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56" style="--pulse-height:11%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +79,9 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32) | 3 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-dillon-t-00-01-40) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-tim-dillon-t-00-58-22) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-tim-dillon-t-01-03-13) | 2 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56) | 1 |
 
 </details>
 </section>
@@ -87,7 +93,37 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:48:18](/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56)**
+> "...person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[01:03:39](/episodes/ep-0pSAhaAZz1w.md#ent-person-tim-dillon-t-01-03-13)**
+> "...book Theo Von and then I book Tim Dillon when I'm super pregnant and then the baby comes."
+
+**[01:03:53](/episodes/ep-0pSAhaAZz1w.md#ent-person-tim-dillon-t-01-03-53)**
+> "... podcasting with Theo Von and Tim Dillon? It's great. Anyway, that was released yesterday ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:58:48](/episodes/ep-5TTkMa49qj8.md#ent-person-tim-dillon-t-00-58-22)**
+> "...ry much. Natty Nicole writes, Tim Dillon is going to have a field day with that article."
+
+**[00:59:05](/episodes/ep-5TTkMa49qj8.md#ent-person-tim-dillon-t-00-59-05)**
+> ".... You are completely correct, Tim Dillon. You hear that we are electing you to go through ..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -380,7 +416,19 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -401,6 +449,13 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:01](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “It's absolutely hell. And Erika Kirk, God bless, tragic, and I'm sorry for what happened, but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
 
 </details>
 

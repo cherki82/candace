@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 112 mentions"
+description: "George Farmer (People) - 125 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 categories:
@@ -18,13 +18,13 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-13-14">2026-09-10 · 00:13:20</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-george-farmer-t-00-52-35">2026-10-07 · 00:52:35</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>125</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>22</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -64,6 +64,11 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-00-01" style="--pulse-height:32%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 7 mentions" title="2026-08-31 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-george-farmer-t-00-52-54" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-02-42" style="--pulse-height:18%" aria-label="One Year On… To My Friend Charlie Kirk.: 4 mentions" title="2026-09-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-george-farmer-t-01-01-28" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-george-farmer-t-00-23-21" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-41-39" style="--pulse-height:36%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 8 mentions" title="2026-09-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-george-farmer-t-01-02-04" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-george-farmer-t-00-52-35" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,14 +107,84 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-00-01) | 7 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-george-farmer-t-00-52-54) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-02-42) | 4 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-george-farmer-t-01-01-28) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-george-farmer-t-00-23-21) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-41-39) | 8 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-george-farmer-t-01-02-04) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-george-farmer-t-00-52-35) | 1 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+<summary><strong class="section-title">Raw mentions (125)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:52:35](/episodes/ep-yrg_-D6oNHE.md#ent-person-george-farmer-t-00-52-35)**
+> "...ly I'm wearing all of George (George Farmer)'s clothes right now. It's the only thing that fi..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:02:28](/episodes/ep-0pSAhaAZz1w.md#ent-person-george-farmer-t-01-02-04)**
+> "...ory about that. Maybe George (George Farmer), that feels like a George (George Farmer) story ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (8 mentions)</summary>
+
+**[00:41:39](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-41-39)**
+> "...is they also led with George (George Farmer) speaks Hebrew."
+
+**[00:41:50](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-41-39)**
+> "...ng. I'm a lesbian and George (George Farmer) speaks Hebrew and George (George Farmer) is runn..."
+
+**[00:42:05](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-41-39)**
+> "...y, of course, is that George (George Farmer) majored in theology, as you guys know, at Oxford..."
+
+**[00:42:11](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-42-11)**
+> "...you have to do it. So George (George Farmer) chose ancient Hebrew and he did well."
+
+**[00:43:08](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-42-54)**
+> "...'s a final similar to George (George Farmer). It's a final."
+
+**[00:50:01](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-50-01)**
+> "...it. He confirmed that George (George Farmer) studied Hebrew."
+
+**[00:50:48](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-00-50-41)**
+> "...ts and whether or not George (George Farmer) studied Hebrew."
+
+**[01:04:44](/episodes/ep-5TTkMa49qj8.md#ent-person-george-farmer-t-01-04-44)**
+> "...I do like the idea of George (George Farmer), shabbat shalom, shabbat shalom, Hebrew-speaking..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:23:21](/episodes/ep-_Sq5RqP27NY.md#ent-person-george-farmer-t-00-23-21)**
+> "If George (George Farmer) told me to meet up with him or to pick something..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[01:01:28](/episodes/ep-NNiCZk1cuzs.md#ent-person-george-farmer-t-01-01-28)**
+> "...ht, writes, and this, George (George Farmer), this is why we don't delete text messages. Yes,..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (4 mentions)</summary>
@@ -643,6 +718,19 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details>
+<summary>Attended (1)</summary>
+
+- **[University of Oxford](/entities/org-university-of-oxford.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:42:05](/episodes/ep-5TTkMa49qj8.md#t-00-41-39): “that I'm secretly working with Israel. Reality, of course, is that George (George Farmer) majored in theology, as you guys know, at Oxford. ... I've told you this ad nauseum. And as a part of that program, you're given two options. You either have to take ancient Hebrew or you have to take ancient Greek, but you have to do it. So George (George Farmer) chose ancient Hebrew and he did well.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:02:28](/episodes/ep-0pSAhaAZz1w.md#t-01-02-04): “I'm sure they'll spin up a story about that. Maybe George (George Farmer), that feels like a George (George Farmer) story they'd spin up. Husband, her husband speaks Hebrew. He took a class that he had to take at Oxford. We were the first couple that was shamed for doing our homework at university. It makes me sick.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Close Associate Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -729,7 +817,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -752,6 +840,14 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:28:30](/episodes/ep-FFQ9675oqRI.md#t-00-28-22): “over the last few weeks she is the one that posted that totally freakish obviously fake ai photo of George (George Farmer)”
+
+</details>
+
+- **[University of Oxford](/entities/org-university-of-oxford.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:42:05](/episodes/ep-5TTkMa49qj8.md#t-00-41-39): “that I'm secretly working with Israel. Reality, of course, is that George (George Farmer) majored in theology, as you guys know, at Oxford. ... I've told you this ad nauseum. And as a part of that program, you're given two options. You either have to take ancient Hebrew or you have to take ancient Greek, but you have to do it. So George (George Farmer) chose ancient Hebrew and he did well.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:02:28](/episodes/ep-0pSAhaAZz1w.md#t-01-02-04): “I'm sure they'll spin up a story about that. Maybe George (George Farmer), that feels like a George (George Farmer) story they'd spin up. Husband, her husband speaks Hebrew. He took a class that he had to take at Oxford. We were the first couple that was shamed for doing our homework at university. It makes me sick.”
 
 </details>
 
@@ -791,7 +887,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
@@ -811,6 +907,10 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:04:47](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15): “I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion.”
 - [To My Friend, Charlie Kirk. @ 00:18:02](/episodes/ep-_dRaEO47-co.md#t-00-18-02): “He was by my side, you know, when I got married to George.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:13](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Now, those names may be familiar to you. Now, I've told you guys the story a few times, but I met my husband rather serendipitously at an event hosted in London.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 01:01:28](/episodes/ep-NNiCZk1cuzs.md#t-01-01-28): “Tivoli Wiley [viewer handle as transcribed; spelling unverified], I hope I'm saying that right, writes, and this, George (George Farmer), this is why we don't delete text messages. Yes, to my husband.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:23:21](/episodes/ep-_Sq5RqP27NY.md#t-00-23-21): “If George (George Farmer) told me to meet up with him or to pick something up or to do this, I just, I wouldn't ask questions. I would just do it again. ... I'm obviously I'm his wife. So it's different, but people in relationships are like that.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:41:39](/episodes/ep-5TTkMa49qj8.md#t-00-41-39): “A secret Zionist. The Zionist behind me they're referring to is my husband. The proof that they have that he's a secret Zionist is they also led with George (George Farmer) speaks Hebrew.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:02:28](/episodes/ep-0pSAhaAZz1w.md#t-01-02-04): “I'm sure they'll spin up a story about that. Maybe George (George Farmer), that feels like a George (George Farmer) story they'd spin up. Husband, her husband speaks Hebrew. He took a class that he had to take at Oxford. We were the first couple that was shamed for doing our homework at university. It makes me sick.”
 
 </details>
 
@@ -833,7 +933,29 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (22)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (26)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:19:45](/episodes/ep-0pSAhaAZz1w.md#t-00-19-26) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she endured what looked like a targeted harassment campaign..."](/statements/statement-427e4d34bc4b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3)</summary>
+
+- [00:40:24](/episodes/ep-5TTkMa49qj8.md#t-00-40-24) (Citation) **Candace Owens** (via paraphrase): ["Owens read an unidentified writer’s headline alleging she was a cheati..."](/statements/statement-a213ef897d48.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:42:05](/episodes/ep-5TTkMa49qj8.md#t-00-41-39) (Claim) **Candace Owens**: ["Owens said George Farmer majored in theology at Oxford, chose required..."](/statements/statement-ad2ae5ba7cf3.md)
+  - Also about: [University of Oxford](/entities/org-university-of-oxford.md)
+
+- [00:50:01](/episodes/ep-5TTkMa49qj8.md#t-00-50-01) (Claim) **Candace Owens** (via paraphrase): ["Owens said Bill Ackman deleted the tweet after her team captured it, a..."](/statements/statement-c7e16142332b.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Flickr](/entities/org-flickr.md)
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1)</summary>

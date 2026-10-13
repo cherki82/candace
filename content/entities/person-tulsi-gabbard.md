@@ -1,6 +1,6 @@
 ---
 title: "Tulsi Gabbard"
-description: "Tulsi Gabbard (People) - 29 mentions"
+description: "Tulsi Gabbard (People) - 32 mentions"
 id: "person-tulsi-gabbard"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tulsi-gabbard-t-00-08-49">2026-09-09 · 00:08:49</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tulsi-gabbard-t-00-45-08">2026-10-06 · 00:45:16</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -49,6 +49,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tulsi-gabbard-t-00-35-59" style="--pulse-height:14%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-tulsi-gabbard-t-00-53-31" style="--pulse-height:29%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tulsi-gabbard-t-00-08-49" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tulsi-gabbard-t-00-30-44" style="--pulse-height:43%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-tulsi-gabbard-t-00-35-59) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-tulsi-gabbard-t-00-53-31) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-tulsi-gabbard-t-00-08-49) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-tulsi-gabbard-t-00-30-44) | 3 |
 
 </details>
 </section>
@@ -79,7 +81,21 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
+
+**[00:31:14](/episodes/ep-0pSAhaAZz1w.md#ent-person-tulsi-gabbard-t-00-30-44)**
+> "...-Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence."
+
+**[00:32:10](/episodes/ep-0pSAhaAZz1w.md#ent-person-tulsi-gabbard-t-00-32-10)**
+> "...r Ohio governor, and Gabbard (Tulsi Gabbard)."
+
+**[00:45:16](/episodes/ep-0pSAhaAZz1w.md#ent-person-tulsi-gabbard-t-00-45-08)**
+> "...n, we learned in the article, Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vivek Ramaswamy, Pr..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -243,12 +259,45 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:32](/episodes/ep-0pSAhaAZz1w.md#t-00-30-06): “On Friday morning, Enclave and Key's Google Drives for the campaigns were taken down as well. Blake Wynn has connections beyond his uncle in the conservative media sphere. During a November 2025 interview on the Sports Focused podcast Bring the Juice, he said that he and Enclave and Key do a lot of work in politics. Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy. In the past several years, he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mar-a-Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:32](/episodes/ep-0pSAhaAZz1w.md#t-00-30-06): “On Friday morning, Enclave and Key's Google Drives for the campaigns were taken down as well. Blake Wynn has connections beyond his uncle in the conservative media sphere. During a November 2025 interview on the Sports Focused podcast Bring the Juice, he said that he and Enclave and Key do a lot of work in politics. Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy. In the past several years, he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mar-a-Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tulsi Gabbard (7)</strong></summary>
+<summary><strong class="section-title">Statements about Tulsi Gabbard (9)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:31:14](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Blake Wynn had posted Instagram photos at the Wh..."](/statements/statement-db825e778d18.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:32:10](/episodes/ep-0pSAhaAZz1w.md#t-00-32-10) (Claim) **Ali Breland** (via quoted article): ["Breland reported two Discord sub-campaigns offering extra money for fa..."](/statements/statement-e8909a0b27b1.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Discord](/entities/org-discord.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

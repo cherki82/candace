@@ -18,7 +18,7 @@ date: "2025-09-02"
 
 > KMYU local media reveals courtyard location for Charlie Kirk event at Utah Valley University
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -38,3 +38,11 @@ date: "2025-09-02"
 
 > **Date stated in this source:** “September 2nd”
 > **Date review note:** The canonical year was corrected to match the surrounding 2025 timeline.
+
+### 3. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:39:21](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-09-02-kmyu-local-media-reveals-courtyard-locat-t-00-39-21) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=2361s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> September 2nd is the first time that this upcoming event that we could find is mentioned. that

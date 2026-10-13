@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA Faith](/entities/org-turning-point-usa-faith) employs [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0)**
+
+- [00:31:55](/episodes/ep-BvthGQw3_s0#t-00-31-55): _Thursday assembly. Thursday morning, it reads our high school and middle school students at the Flamingo campus will have a special assembly featuring guest speaker Erika Kirk who leads Turning Point Faith._
 
 **[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
 

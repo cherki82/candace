@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 407 mentions"
+description: "Michael McCoy (People) - 463 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-25-42">2026-09-09 · 00:25:42</a></strong></div>
-<div><span>Episodes</span><strong>79</strong></div>
-<div><span>Mentions</span><strong>407</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-44-30">2026-10-08 · 00:44:52</a></strong></div>
+<div><span>Episodes</span><strong>87</strong></div>
+<div><span>Mentions</span><strong>463</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>110</strong></div>
-<div><span>Relationships</span><strong>53</strong></div>
+<div><span>Statements about</span><strong>131</strong></div>
+<div><span>Relationships</span><strong>71</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -116,6 +116,14 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39" style="--pulse-height:73%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 24 mentions" title="2026-09-02 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-03-44" style="--pulse-height:27%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 9 mentions" title="2026-09-03 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-14-54" style="--pulse-height:15%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-00-01" style="--pulse-height:30%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 10 mentions" title="2026-09-15 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-michael-mccoy-t-00-35-09" style="--pulse-height:9%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-michael-mccoy-t-01-02-14" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-michael-mccoy-t-00-15-21" style="--pulse-height:12%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 4 mentions" title="2026-09-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-michael-mccoy-t-00-31-09" style="--pulse-height:9%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-michael-mccoy-t-00-22-52" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-michael-mccoy-t-00-23-33" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27" style="--pulse-height:97%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 32 mentions" title="2026-10-08 · 32 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -200,6 +208,14 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39) | 24 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-03-44) | 9 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-14-54) | 5 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-00-01) | 10 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-michael-mccoy-t-00-35-09) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-michael-mccoy-t-01-02-14) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-michael-mccoy-t-00-15-21) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-michael-mccoy-t-00-31-09) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-michael-mccoy-t-00-22-52) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-michael-mccoy-t-00-23-33) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27) | 32 |
 
 </details>
 </section>
@@ -211,7 +227,215 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (407)</strong></summary>
+<summary><strong class="section-title">Raw mentions (463)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (32 mentions)</summary>
+
+**[00:03:27](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27)**
+> "... (Blake Neff) the story about Mikey McCoy's quivering lip, a lip that quivered in a way."
+
+**[00:03:37](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27)**
+> "...ika Kirk), followed by Mikey (Mikey McCoy) transforming into a battle-hardened general."
+
+**[00:04:53](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-04-53)**
+> "...itnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment..."
+
+**[00:05:46](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-05-43)**
+> "How old? Mikey (Mikey McCoy), early 20s, right? I think he did like was going..."
+
+**[00:05:53](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-05-43)**
+> "...king really early 20s. Mikey (Mikey McCoy) is started working for Charlie (Charlie Kirk) as..."
+
+**[00:06:02](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-05-43)**
+> "...version of events that Mikey (Mikey McCoy) somehow was the nucleus, right? This kid is I go..."
+
+**[00:07:29](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-07-29)**
+> "...to the public that no, Mikey (Mikey McCoy) did not immediately go to the hospital. He actua..."
+
+**[00:07:40](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-07-29)**
+> "...to be taking a statement from Mikey McCoy."
+
+**[00:08:05](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-07-29)**
+> "...terview with her, what Mikey (Mikey McCoy) does is he dips into an SUV. presumably to make ..."
+
+**[00:09:22](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-08-56)**
+> "...ke (Blake Neff), after Mikey (Mikey McCoy)'s quivering lip?"
+
+**[00:09:26](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-08-56)**
+> "Because Mikey (Mikey McCoy) came back. Mikey (Mikey McCoy)'s giving a statem..."
+
+**[00:12:58](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-12-26)**
+> "...what you have here is there's Mikey McCoy, you have Nate (Nate Walker) walking toward him, ..."
+
+**[00:13:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-13-10)**
+> "... Danny Philip, Blake Neff and Mikey McCoy in this shot and then making up the tail end you ..."
+
+**[00:13:48](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-13-48)**
+> "...ehicle one. You've got Mikey (Mikey McCoy), an officer,"
+
+**[00:15:02](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-15-02)**
+> "...Nate Walker) run up to Mikey (Mikey McCoy). Mikey (Mikey McCoy) puts his arm around him. Th..."
+
+**[00:16:15](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-15-55)**
+> "Mikey (Mikey McCoy) and Blake Neff and Danny Philip with the federal..."
+
+**[00:16:43](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-16-30)**
+> "... still see that that's Mikey (Mikey McCoy) and I'm getting into that white vehicle right th..."
+
+**[00:17:23](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-17-09)**
+> "...the end, as I stated, we have Mikey McCoy, we have Nate Walker, we have Danny Philip, and w..."
+
+**[00:21:40](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-21-25)**
+> "Mikey McCoy, he's been there longer. He's super young. Danny ..."
+
+**[00:22:55](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-22-42)**
+> "... they all listening to Mikey (Mikey McCoy)?"
+
+**[00:22:57](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-22-42)**
+> "...fficer is listening to Mikey (Mikey McCoy) dictate. Okay, who?"
+
+**[00:24:52](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-24-40)**
+> "...a circumstance. So was Mikey (Mikey McCoy) coordinating the Fed stuff? Was it Danny (Danny ..."
+
+**[00:37:53](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-37-41)**
+> "...s chief of staff, 23-year-old Mikey McCoy, arrives at the hospital. Like Charlie (Charlie K..."
+
+**[00:38:00](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-37-41)**
+> "... far beyond his years. Mikey (Mikey McCoy) has already sent a plane to get Erika (Erika Kir..."
+
+**[00:38:38](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-38-22)**
+> "... it makes it seem like Mikey (Mikey McCoy) is the one that delivered the news to Erika (Eri..."
+
+**[00:38:47](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-38-22)**
+> "...to whether or not, uh, Mikey (Mikey McCoy) is there when they find out the news from this s..."
+
+**[00:39:05](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-39-05)**
+> "...ording to my timeline, Mikey (Mikey McCoy) should not have been there for that announcement..."
+
+**[00:39:28](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-39-05)**
+> "...earlier assertion that Mikey (Mikey McCoy) was the general Mikey (Mikey McCoy) was the cond..."
+
+**[00:39:36](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-39-05)**
+> "...ng had to come through Mikey (Mikey McCoy) and he was the one that was providing the update..."
+
+**[00:40:22](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-40-22)**
+> "...Blake (Blake Neff) and Mikey (Mikey McCoy). If you're going to be his assistants, why are t..."
+
+**[00:44:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-44-30)**
+> "... hand side is going to be the Mikey McCoy car, Blake Neff and Danny Philip to the hospital ..."
+
+**[00:44:52](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-44-30)**
+> "So Mikey (Mikey McCoy)'s vehicle goes straight and we were able to trac..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:23:38](/episodes/ep-0pSAhaAZz1w.md#ent-person-michael-mccoy-t-00-23-33)**
+> "... month before by Mikey McCoy (Michael McCoy) and his wife on vacation."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:23:06](/episodes/ep-ms5ChhZegRg.md#ent-person-michael-mccoy-t-00-22-52)**
+> "...ickly that took place. Mikey (Michael McCoy) called."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:31:40](/episodes/ep-q4m-kGzvwjw.md#ent-person-michael-mccoy-t-00-31-09)**
+> "Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname ..."
+
+**[00:59:55](/episodes/ep-q4m-kGzvwjw.md#ent-person-michael-mccoy-t-00-59-55)**
+> "...did that." Well, Mikey McCoy (Michael McCoy) did that. His home office, that's a little weird..."
+
+**[01:00:19](/episodes/ep-q4m-kGzvwjw.md#ent-person-michael-mccoy-t-00-59-55)**
+> "...ed and astonished when Mikey (Michael McCoy) just immediately started taking hits from your h..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (4 mentions)</summary>
+
+**[00:15:37](/episodes/ep-5TTkMa49qj8.md#ent-person-michael-mccoy-t-00-15-21)**
+> "...(Erika Kirk) let Mikey McCoy (Michael McCoy) slide into Charlie (Charlie Kirk)'s home office,..."
+
+**[00:15:49](/episodes/ep-5TTkMa49qj8.md#ent-person-michael-mccoy-t-00-15-21)**
+> "Mikey McCoy (Michael McCoy) was taking interviews, taking Fox News hits. Rem..."
+
+**[00:16:04](/episodes/ep-5TTkMa49qj8.md#ent-person-michael-mccoy-t-00-16-04)**
+> "...ified) did that. Mikey McCoy (Michael McCoy), because you can just jump into that chair right..."
+
+**[00:27:10](/episodes/ep-5TTkMa49qj8.md#ent-person-michael-mccoy-t-00-27-10)**
+> "... I was told that Mikey McCoy (Michael McCoy) Gate kept that appointment and they had canceled..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:02:42](/episodes/ep-bIuvTKlFeGo.md#ent-person-michael-mccoy-t-01-02-14)**
+> "...s the first time Mikey McCoy (Michael McCoy) and Elizabeth (Elizabeth McCoy) join him and the..."
+
+**[01:21:24](/episodes/ep-bIuvTKlFeGo.md#ent-person-michael-mccoy-t-01-21-11)**
+> "Allegedly, Mikey McCoy (Michael McCoy) expressed to people that Charlie (Charlie Kirk) ..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3 mentions)</summary>
+
+**[00:35:09](/episodes/ep-6XfDqKTdFKg.md#ent-person-michael-mccoy-t-00-35-09)**
+> "...reat of a person Mikey McCoy (Michael McCoy) is, Frank Turek is, and how the official story i..."
+
+**[00:38:49](/episodes/ep-6XfDqKTdFKg.md#ent-person-michael-mccoy-t-00-38-49)**
+> "...ka Kirk), TPUSA, Mikey McCoy (Michael McCoy),"
+
+**[00:39:56](/episodes/ep-6XfDqKTdFKg.md#ent-person-michael-mccoy-t-00-39-41)**
+> "...ka Kirk) and TPUSA and Mikey (Michael McCoy) and you and et cetera, et cetera, et cetera."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (10 mentions)</summary>
+
+**[00:00:01](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-00-01)**
+> "...sting footage of Mikey McCoy (Michael McCoy) giving what appears to be his witness statement ..."
+
+**[00:00:19](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-00-01)**
+> "...was sent to take Mikey McCoy (Michael McCoy)'s statement, and I think it's rather controversi..."
+
+**[00:04:18](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-03-53)**
+> "... going to get to Mikey McCoy (Michael McCoy). Okay, so I'm going to look at this trafficking ..."
+
+**[00:18:08](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-17-32)**
+> "...uadrant, you're seeing Mikey (Michael McCoy). He is on the phone."
+
+**[00:18:13](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-18-13)**
+> "Mikey (Michael McCoy) is he's got to be on the phone there. And behind..."
+
+**[00:18:24](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-18-13)**
+> "... to begin taking Mikey McCoy (Michael McCoy)'s assistant."
+
+**[00:18:33](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-18-13)**
+> "OK. Take Mikey McCoy (Michael McCoy)'s statement, pardon me. What happens here is ess..."
+
+**[00:20:02](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-20-02)**
+> "...ne o'clock p.m., Mikey McCoy (Michael McCoy) still hanging around. So there was definitively ..."
+
+**[00:20:24](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-20-24)**
+> "...that was there instead Mikey (Michael McCoy) staying around and this person is coming to take..."
+
+**[00:21:22](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-mccoy-t-00-20-57)**
+> "To take Mikey McCoy (Michael McCoy)'s statement about 25 minutes after Charlie (Char..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
@@ -1826,19 +2050,21 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (7)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:10:00](/episodes/ep-A39g5oqB_eM.md#t-00-09-18): “We're not going to mention what restaurant it's at, but the McCoys are there, Elizabeth (one of the McCoys; full identity unverified), Mikey (Michael McCoy), Erika (Erika Kirk), and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:31:40](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09): “Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname unverified) join Erika (Erika Kirk) and Charlie (Charlie Kirk) for the first time, according to them, capturing what's going to be the final footage that is immediately distributed following Charlie (Charlie Kirk)'s assassination.”
 
 </details>
 
 - **[Danny Philip](/entities/person-danny-philip.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -1846,6 +2072,34 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:31:40](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09): “Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname unverified) join Erika (Erika Kirk) and Charlie (Charlie Kirk) for the first time, according to them, capturing what's going to be the final footage that is immediately distributed following Charlie (Charlie Kirk)'s assassination.”
+
+</details>
+
+- **[Elizabeth (Michael McCoy companion; identity unverified)](/entities/anon-src-q4m-kGzvwjw-003.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:31:40](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09): “Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname unverified) join Erika (Erika Kirk) and Charlie (Charlie Kirk) for the first time, according to them, capturing what's going to be the final footage that is immediately distributed following Charlie (Charlie Kirk)'s assassination.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -1867,12 +2121,13 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Chief Of Staff To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-03-01): “And my husband's chief of staff, the amazing Mikey McCoy”
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09): “after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-25): “There's a suggestion online that Mikey (Michael McCoy)—Charlie (Charlie Kirk)'s chief of staff—one of the most sincere people you'd ever meet, brilliant, Christian, kind to everyone who he ever met in his entire life, couldn't hurt a fly—was part of a conspiracy to murder Charlie (Charlie Kirk).”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:05:46](/episodes/ep-UAdBEXs7nNc.md#t-00-05-43): “How old? Mikey (Mikey McCoy), early 20s, right? I think he did like was going to go to Liberty University and then decided to be Charlie (Charlie Kirk)'s chief of staff.”
 
 </details>
 
@@ -1882,7 +2137,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Child Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1898,6 +2153,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
 
 </details>
 
@@ -2023,12 +2279,19 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Interviewed By (2)</summary>
 
 - **[Real America's Voice](/entities/org-real-americas-voice.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice.”
+
+</details>
+
+- **[Lafieta Asisi](/entities/person-lafieta-asisi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:07:29](/episodes/ep-UAdBEXs7nNc.md#t-00-07-29): “Then we discovered and revealed to the public that no, Mikey (Mikey McCoy) did not immediately go to the hospital. He actually gave an interview, a statement of sorts to a woman from ICAC. ICAC stands for Internet Crimes Against Children. We had wondered out loud why that would be the correct person to be taking a statement from Mikey McCoy. Is he a child? Is he on the Internet? By the way, I can tell you this, that woman, that officer has since left her position, by the way. Her name is Fia Asisi (Lafieta Asisi), Fia spelled F-I-A, fuller name is Lafieta Asisi, and she is no longer doing that.”
 
 </details>
 
@@ -2067,12 +2330,40 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (5)</summary>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38): “Were saying. Okay, so Mikey (Michael McCoy) called and he said, Jack (Jack Hibbs), ... Get everyone in the world praying. There's so much blood. There's so much. And he was beside himself, as you can imagine.”
+
+</details>
+
+- **[Danny Philip](/entities/person-danny-philip.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:18:33](/episodes/ep-kn1E0scy9Wc.md#t-00-18-13): “OK. Take Mikey McCoy (Michael McCoy)'s statement, pardon me. What happens here is essentially Mikey (Michael McCoy) is going to end his phone call with Danny Philip. We know that that is Danny Philip he's on the phone with because we have, we were given by Erika (Erika Kirk), his call logs, right? And so he is on the phone with Danny Philip. He concludes that phone call and then his statement is going to be taken by that female and she's wearing a vest, make no mistake, that says ICAC.”
+
+</details>
+
+- **[Rob McCoy](/entities/person-rob-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:17](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “call unfolded, but he did that. This, you know, your mind extends all of this, but that is happening within a minute of all of this occurring. I remember he calls Erika (Erika Kirk). I, around the same time, I pull out my phone and I call my mom just to say, "Mom, there's been a shooting." You're going to see it on the news. I'm okay. You know, pray for me. I've got to go. And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:38:00](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41): “carries a maturity far beyond his years. Mikey (Mikey McCoy) has already sent a plane to get Erika (Erika Kirk) and is on the phone with the United States Vice President J.D. Vance.”
 
 </details>
 
@@ -2094,16 +2385,18 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Worked With (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:53:16](/episodes/ep-VMNWMXX1vO8.md#t-00-53-00): “Mikey McCoy, Stacey Sheridan, they have been the directors helping Erika (Erika Kirk) memorize her lines.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:02:42](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14): “And I'll tell you why this is interesting, because it's the first time Mikey McCoy (Michael McCoy) and Elizabeth (Elizabeth McCoy) join him and they capture what's going to be Elizabeth (Elizabeth McCoy) and Mikey (Michael McCoy) capture all this final footage of Charlie (Charlie Kirk) and Erika (Erika Kirk) that we're then going to be shown immediately after. It's not old footage. ... It's final footage from this trip.”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:02:42](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14): “And I'll tell you why this is interesting, because it's the first time Mikey McCoy (Michael McCoy) and Elizabeth (Elizabeth McCoy) join him and they capture what's going to be Elizabeth (Elizabeth McCoy) and Mikey (Michael McCoy) capture all this final footage of Charlie (Charlie Kirk) and Erika (Erika Kirk) that we're then going to be shown immediately after. It's not old footage. ... It's final footage from this trip.”
 
 </details>
 
@@ -2137,19 +2430,21 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Referenced By (26)</summary>
+<summary>Referenced By (35)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:10:00](/episodes/ep-A39g5oqB_eM.md#t-00-09-18): “We're not going to mention what restaurant it's at, but the McCoys are there, Elizabeth (one of the McCoys; full identity unverified), Mikey (Michael McCoy), Erika (Erika Kirk), and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:31:40](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09): “Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname unverified) join Erika (Erika Kirk) and Charlie (Charlie Kirk) for the first time, according to them, capturing what's going to be the final footage that is immediately distributed following Charlie (Charlie Kirk)'s assassination.”
 
 </details>
 
 - **[Danny Philip](/entities/person-danny-philip.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -2157,6 +2452,34 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:31:40](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09): “Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname unverified) join Erika (Erika Kirk) and Charlie (Charlie Kirk) for the first time, according to them, capturing what's going to be the final footage that is immediately distributed following Charlie (Charlie Kirk)'s assassination.”
+
+</details>
+
+- **[Elizabeth (Michael McCoy companion; identity unverified)](/entities/anon-src-q4m-kGzvwjw-003.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:31:40](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09): “Mikey McCoy (Michael McCoy) and Elizabeth (Mikey McCoy's companion; surname unverified) join Erika (Erika Kirk) and Charlie (Charlie Kirk) for the first time, according to them, capturing what's going to be the final footage that is immediately distributed following Charlie (Charlie Kirk)'s assassination.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -2264,12 +2587,13 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has chief of staff this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-03-01): “And my husband's chief of staff, the amazing Mikey McCoy”
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09): “after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-25): “There's a suggestion online that Mikey (Michael McCoy)—Charlie (Charlie Kirk)'s chief of staff—one of the most sincere people you'd ever meet, brilliant, Christian, kind to everyone who he ever met in his entire life, couldn't hurt a fly—was part of a conspiracy to murder Charlie (Charlie Kirk).”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:05:46](/episodes/ep-UAdBEXs7nNc.md#t-00-05-43): “How old? Mikey (Mikey McCoy), early 20s, right? I think he did like was going to go to Liberty University and then decided to be Charlie (Charlie Kirk)'s chief of staff.”
 
 </details>
 
@@ -2285,6 +2609,13 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice.”
+
+</details>
+
+- **[Lafieta Asisi](/entities/person-lafieta-asisi.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:07:29](/episodes/ep-UAdBEXs7nNc.md#t-00-07-29): “Then we discovered and revealed to the public that no, Mikey (Mikey McCoy) did not immediately go to the hospital. He actually gave an interview, a statement of sorts to a woman from ICAC. ICAC stands for Internet Crimes Against Children. We had wondered out loud why that would be the correct person to be taking a statement from Mikey McCoy. Is he a child? Is he on the Internet? By the way, I can tell you this, that woman, that officer has since left her position, by the way. Her name is Fia Asisi (Lafieta Asisi), Fia spelled F-I-A, fuller name is Lafieta Asisi, and she is no longer doing that.”
 
 </details>
 
@@ -2320,7 +2651,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-25): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -2334,6 +2665,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
 
 </details>
 
@@ -2341,6 +2673,34 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38): “Were saying. Okay, so Mikey (Michael McCoy) called and he said, Jack (Jack Hibbs), ... Get everyone in the world praying. There's so much blood. There's so much. And he was beside himself, as you can imagine.”
+
+</details>
+
+- **[Danny Philip](/entities/person-danny-philip.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:18:33](/episodes/ep-kn1E0scy9Wc.md#t-00-18-13): “OK. Take Mikey McCoy (Michael McCoy)'s statement, pardon me. What happens here is essentially Mikey (Michael McCoy) is going to end his phone call with Danny Philip. We know that that is Danny Philip he's on the phone with because we have, we were given by Erika (Erika Kirk), his call logs, right? And so he is on the phone with Danny Philip. He concludes that phone call and then his statement is going to be taken by that female and she's wearing a vest, make no mistake, that says ICAC.”
+
+</details>
+
+- **[Rob McCoy](/entities/person-rob-mccoy.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:37](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:04:17](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17): “call unfolded, but he did that. This, you know, your mind extends all of this, but that is happening within a minute of all of this occurring. I remember he calls Erika (Erika Kirk). I, around the same time, I pull out my phone and I call my mom just to say, "Mom, there's been a shooting." You're going to see it on the news. I'm okay. You know, pray for me. I've got to go. And I remember that call. And around the time I put that phone away and then he immediately calls his dad. He calls Rob McCoy and he says, dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. Charlie (Charlie Kirk) was hit. We need everyone to pray right now. And that's what he told him. And I guess it's just, it's very disgusting for me as someone who witnessed this, who saw Mikey (Mikey McCoy) hugely distressed and then step up in the moment, because after that was called, that call was over, I saw Mikey (Mikey McCoy) like get total mastery of himself, that he realized he had to step up in this situation. And he, from that point, he was like, he was like a general directing a battle where he was, you know, grabbing people and saying, "Okay,"”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:38:00](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41): “carries a maturity far beyond his years. Mikey (Mikey McCoy) has already sent a plane to get Erika (Erika Kirk) and is on the phone with the United States Vice President J.D. Vance.”
 
 </details>
 
@@ -2409,7 +2769,103 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (110)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (131)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (10)</summary>
+
+- [00:03:48](/episodes/ep-UAdBEXs7nNc.md#t-00-03-48) (Claim) **Blake Neff** (via quoted speech): ["Neff recalled that Michael McCoy was profoundly freaked out after the ..."](/statements/statement-511db2234309.md)
+
+- [00:04:17](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17) (Claim) **Blake Neff** (via quoted speech): ["Neff recalled calling his mother around the same time McCoy called Eri..."](/statements/statement-e74f45ea90f6.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:05:53](/episodes/ep-UAdBEXs7nNc.md#t-00-05-43) (Claim) **Candace Owens**: ["Owens said Michael McCoy was promoted to Charlie Kirk's chief of staff..."](/statements/statement-1e1491602ed6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:29](/episodes/ep-UAdBEXs7nNc.md#t-00-07-29) (Claim) **Candace Owens**: ["Owens said Michael McCoy did not immediately go to the hospital but in..."](/statements/statement-ca351794d6fb.md)
+  - Also about: [Internet Crimes Against Children Task Force Program](/entities/org-internet-crimes-against-children-task-force-program.md)
+
+- [00:08:05](/episodes/ep-UAdBEXs7nNc.md#t-00-07-29) (Claim) **Candace Owens**: ["Owens said Michael McCoy entered an SUV after the interview, presumabl..."](/statements/statement-bd3edb5e3d3a.md)
+
+- [00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48) (Claim) **Candace Owens**: ["Owens said the group split into two white vehicles: Michael McCoy, Bla..."](/statements/statement-6db3c5a6a104.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Nate Walker](/entities/person-nate-walker.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:17:23](/episodes/ep-UAdBEXs7nNc.md#t-00-17-09) (Claim) **Candace Owens**: ["Owens said local news footage confirmed Michael McCoy, Nate Walker and..."](/statements/statement-6955d5fa6adc.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Danny Philip](/entities/person-danny-philip.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:37:53](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41) (Claim) **Frank Turek** (via quoted document): ["In the book excerpt, Turek said Charlie Kirk's 23-year-old chief of st..."](/statements/statement-a63a6f398193.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:05](/episodes/ep-UAdBEXs7nNc.md#t-00-39-05) (Claim) **Candace Owens**: ["Owens said that according to her timeline McCoy should have arrived ju..."](/statements/statement-ca4a730f8b79.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:44:52](/episodes/ep-UAdBEXs7nNc.md#t-00-44-30) (Claim) **Candace Owens**: ["Owens said the McCoy vehicle went straight while the security vehicle ..."](/statements/statement-42eabc374b8e.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Blake Gibson (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-001.md), [Blake Harruff (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-002.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:23:38](/episodes/ep-0pSAhaAZz1w.md#t-00-23-33) (Opinion) **Candace Owens**: ["Owens guessed that the September 15 Erika Kirk folder probably contain..."](/statements/statement-1dc2120fa297.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy's wife (first name unverified)](/entities/person-michael-mccoy-wife.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:31:34](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09) (Claim) **Candace Owens**: ["Owens said Charlie Kirk vacationed in Maine from July 20 and Michael M..."](/statements/statement-fecebf105d95.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Elizabeth (Michael McCoy companion; identity unverified)](/entities/anon-src-q4m-kGzvwjw-003.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:15:37](/episodes/ep-5TTkMa49qj8.md#t-00-15-21) (Claim) **Candace Owens**: ["Owens said Erika Kirk allowed Michael McCoy into Charlie Kirk’s home o..."](/statements/statement-99432392d356.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fox News](/entities/org-fox-news.md)
+
+- [00:27:10](/episodes/ep-5TTkMa49qj8.md#t-00-27-10) (Accusation) **Candace Owens** (via paraphrase): ["Owens said “allegedly” that she was told Michael McCoy gatekept the wi..."](/statements/statement-49c17d96d10f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Ep 395 will-appointment source (identity unverified)](/entities/anon-src-5TTkMa49qj8-010.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>
+
+- [01:02:28](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14) (Claim) **Candace Owens**: ["Owens said Egyptian planes arrived in Omaha and then Lincoln, and that..."](/statements/statement-21110b5888cf.md)
+  - Also about: [Omaha](/entities/gpe-omaha.md), [Lincoln](/entities/gpe-lincoln.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [01:21:24](/episodes/ep-bIuvTKlFeGo.md#t-01-21-11) (Claim) **Candace Owens** (via paraphrase): ["Owens said Michael McCoy allegedly told people that Charlie Kirk wante..."](/statements/statement-9214e1a77a7c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3)</summary>
+
+- [00:34:59](/episodes/ep-6XfDqKTdFKg.md#t-00-34-59) (Prediction) **Bobby Sausalito** (via quoted speech): ["Sausalito predicts most of the Boreing–Neff interview will be a hate s..."](/statements/statement-de180c549ecb.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:38:49](/episodes/ep-6XfDqKTdFKg.md#t-00-38-49) (Accusation) **Jeremy Boreing** (via quoted speech): ["In a separate podcast clip, Boreing says Owens probably committed the ..."](/statements/statement-37e04823cd93.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:39:48](/episodes/ep-6XfDqKTdFKg.md#t-00-39-41) (Opinion) **Jeremy Boreing** (via quoted speech): ["In a separate podcast clip, Boreing says defamation law should be abol..."](/statements/statement-de8119e0ce24.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:18:08](/episodes/ep-kn1E0scy9Wc.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said footage shows Michael McCoy ending a call with Danny Philip..."](/statements/statement-1defecef6ca1.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Erika Kirk](/entities/person-erika-kirk.md), [Utah Internet Crimes Against Children Task Force](/entities/org-utah-icac-task-force.md)
+
+- [00:19:51](/episodes/ep-kn1E0scy9Wc.md#t-00-19-28) (Claim) **Candace Owens**: ["Owens said Michael McCoy was still at the scene about 25 minutes after..."](/statements/statement-5c423e4bdf28.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>

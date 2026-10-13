@@ -20,7 +20,7 @@ date: "2025-07-11"
 
 > Tucker Carlson spoke at Turning Point USA's Student Action Summit.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -67,3 +67,11 @@ date: "2025-07-11"
 
 > **Date stated in this source:** “July 11”
 > **Date review note:** The surrounding 2025 timeline and publication metadata supply the year.
+
+### 6. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [00:58:25](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=3505s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Tucker Carlson on the 11th speaks and donors freak out. Charlie tells him to go max.

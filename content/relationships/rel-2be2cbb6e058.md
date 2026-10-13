@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (25 mentions)
+### Evidence (27 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -21,9 +21,17 @@ object: "person-candace-owens"
 
 - [00:32:41](/episodes/ep-4YgrOhhy708#t-00-32-41): _going back to Candace Owens ... she worked for Daily Wire, your friend Ben (Ben Shapiro) fired her because she said Christ is king._
 
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:39:30](/episodes/ep-5TTkMa49qj8#t-00-39-30): _You've been bombarded with news over the last two years. I mean, since I left Daily Wire, that I'm akin to Adolf Hitler._
+
 **[EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4)**
 
 - [00:30:50](/episodes/ep-5zgkrOaCCj4#t-00-30-50): _So I used to work at the Daily Wire, obviously didn't end well, and they had a very bizarre superfan community, meaning like it was just kind of weird that anybody would dedicate this much time to podcasters, and it turned out that the then CEO flew._
+
+**[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
+
+- [00:36:40](/episodes/ep-6XfDqKTdFKg#t-00-36-40): _stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen._
 
 **[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
 

@@ -22,4 +22,4 @@ date: "2025-08-25"
 **Timestamp:** [00:37:47](/episodes/ep-9k2xrAC0H88.md#event-event-2025-08-25-sam-000-vip-government-plane-tail-99-040-t-00-37-19) 
 <a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=2267s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> On August 25th, 2025, this is 15, 16 days before Charlie Kirk was killed.
+> from D.C. to Colorado Springs with that important and rarely used call sign, SAM-000.

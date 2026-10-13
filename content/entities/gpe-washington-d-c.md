@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 108 mentions"
+description: "Washington, D.C. (Places) - 129 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -29,11 +29,11 @@ Source: [Washington, DC](https://dc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-washington-d-c-t-00-53-02">2026-08-04 · 00:53:02</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-washington-d-c-t-00-46-58">2026-10-06 · 00:47:24</a></strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>129</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -88,6 +88,14 @@ Source: [Washington, DC](https://dc.gov/)
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-washington-d-c-t-00-32-20" style="--pulse-height:100%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 8 mentions" title="2026-07-27 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-29-13" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-washington-d-c-t-00-09-55" style="--pulse-height:38%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-washington-d-c-t-00-45-39" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-washington-d-c-t-00-46-05" style="--pulse-height:38%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#t-00-41-22" style="--pulse-height:12%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#t-00-46-53" style="--pulse-height:12%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-washington-d-c-t-00-56-43" style="--pulse-height:25%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-washington-d-c-t-00-26-29" style="--pulse-height:62%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 5 mentions" title="2026-09-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-25-50" style="--pulse-height:75%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-washington-d-c-t-00-46-58" style="--pulse-height:12%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -139,6 +147,14 @@ Source: [Washington, DC](https://dc.gov/)
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-washington-d-c-t-00-32-20) | 8 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-29-13) | 2 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-washington-d-c-t-00-09-55) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-washington-d-c-t-00-45-39) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-washington-d-c-t-00-46-05) | 3 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#t-00-46-53) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-washington-d-c-t-00-56-43) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-washington-d-c-t-00-26-29) | 5 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-25-50) | 6 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-washington-d-c-t-00-46-58) | 1 |
 
 </details>
 </section>
@@ -150,7 +166,107 @@ Source: [Washington, DC](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (129)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:47:24](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-washington-d-c-t-00-46-58)**
+> "I mean, I'd purchase all of D.C. If I could, why not? Like, these are the new rule..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (6 mentions)</summary>
+
+**[00:25:50](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-25-50)**
+> "...partners are lobbying hard in D.C. for Trump (Donald J. Trump) to get American troop..."
+
+**[00:26:52](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-26-33)**
+> "...u (Benjamin Netanyahu) visits Washington, D.C."
+
+**[00:50:21](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-49-48)**
+> "... miles or 20 miles outside of Washington, D.C. He works for a bail bond company with his family."
+
+**[00:51:51](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-51-51)**
+> "...ews obtained new video of the Washington, D.C. pipe bomb suspect who was arrested earlier this m..."
+
+**[00:52:28](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-52-28)**
+> "...nd Republican headquarters in Washington, D.C."
+
+**[00:58:30](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-58-19)**
+> "...nyahu (Benjamin Netanyahu) in Washington, D.C."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (5 mentions)</summary>
+
+**[00:19:52](/episodes/ep-5TTkMa49qj8.md#ent-gpe-washington-d-c-t-00-26-29)**
+> "...first plane, which was get to DC to get an emergency visa, jumped onto the second ..."
+
+**[00:26:29](/episodes/ep-5TTkMa49qj8.md#ent-gpe-washington-d-c-t-00-26-29)**
+> ".... She meets up with people in D.C. She knows these attacks are coming against me."
+
+**[00:48:26](/episodes/ep-5TTkMa49qj8.md#ent-gpe-washington-d-c-t-00-47-50)**
+> "...u (Benjamin Netanyahu) was in Washington, D.C., okay?"
+
+**[00:59:33](/episodes/ep-5TTkMa49qj8.md#ent-gpe-washington-d-c-t-00-59-33)**
+> "I mean, she's in D.C. right now, by the way. Source, um, on that, which..."
+
+**[00:12:18](/episodes/ep-5TTkMa49qj8.md#ent-gpe-washington-d-c-t-00-26-29)**
+> "The writer jumps in, it's true, she's enigma right down to her clothes. The first time we met in the lobby of the Waldorf Astoria Hotel in Washington, the morning of the White House correspondence dinner, I came dressed in my best Jackie O (Jacqueline Kennedy Onassis) impression, conservative shift dress, ballet flats, and an overcoat."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[00:57:10](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-washington-d-c-t-00-56-43)**
+> "...h the Nelk Boys while he's in Washington, D.C. From July 7th to July 9th, Bibi Netanyahu (Benjam..."
+
+**[00:57:41](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-washington-d-c-t-00-57-25)**
+> "But after he leaves D.C. on July 10th, Turning Point USA headquarters, Mac..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:47:11](/episodes/ep-_2DiIbfy4mU.md#t-00-46-53)**
+> "And it's not in DC. Those people absolutely sicken me. We have the E..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:41:40](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22)**
+> "...ms. Today was the last day in DC, members of Congress until the end of midterms. N..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3 mentions)</summary>
+
+**[00:46:05](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-washington-d-c-t-00-46-05)**
+> "... Politico obviously is like a D.C. insider-type publication, and we know that Blake ..."
+
+**[00:57:26](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-washington-d-c-t-00-57-26)**
+> "...ropping off the pipe bombs in D.C. for January 6th. Another total fed operation. It ..."
+
+**[00:58:15](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-washington-d-c-t-00-57-53)**
+> "...at should not exist either in Washington, D.C. or Virginia or wherever Brian Cole is from or in ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:46:02](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-washington-d-c-t-00-45-39)**
+> "...happen. The halls of power in D.C. are allowing it to happen. to happen because what..."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
@@ -723,7 +839,26 @@ Source: [Washington, DC](https://dc.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Washington, D.C. (14)</strong></summary>
+<summary><strong class="section-title">Statements about Washington, D.C. (17)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>
+
+- [00:48:26](/episodes/ep-5TTkMa49qj8.md#t-00-47-50) (Claim) **Candace Owens**: ["Owens said Benjamin Netanyahu was in Washington, DC on July 9, in the ..."](/statements/statement-2d60e50d7987.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:59:33](/episodes/ep-5TTkMa49qj8.md#t-00-59-33) (Claim) **Candace Owens** (via paraphrase): ["Citing an unnamed source, Owens said Erika Kirk was in DC “right now,”..."](/statements/statement-43e71608cfd2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Ep 395 Erika DC-location source (identity unverified)](/entities/anon-src-5TTkMa49qj8-012.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:57:10](/episodes/ep-bIuvTKlFeGo.md#t-00-56-43) (Claim) **Candace Owens**: ["Owens said Benjamin Netanyahu visited Washington, D.C. from July 7th t..."](/statements/statement-776551f7a21f.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Nelk](/entities/org-nelk-boys.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

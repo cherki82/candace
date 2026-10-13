@@ -1,6 +1,6 @@
 ---
 title: "Blake Lively"
-description: "Blake Lively (People) - 51 mentions"
+description: "Blake Lively (People) - 57 mentions"
 id: "person-blake-lively"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32">2025-10-28 · 00:45:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-lively-t-01-01-49">2026-09-02 · 01:01:49</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-lively-t-01-07-37">2026-10-01 · 01:08:11</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,9 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-lively-t-00-14-29" style="--pulse-height:80%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 8 mentions" title="2026-08-31 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-lively-t-00-44-36" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-lively-t-01-01-49" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-blake-lively-t-00-35-47" style="--pulse-height:10%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-lively-t-01-01-28" style="--pulse-height:10%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-lively-t-01-06-52" style="--pulse-height:40%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +75,9 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-lively-t-00-14-29) | 8 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-lively-t-00-44-36) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-lively-t-01-01-49) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-blake-lively-t-00-35-47) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-lively-t-01-01-28) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-lively-t-01-06-52) | 4 |
 
 </details>
 </section>
@@ -79,7 +85,40 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (4 mentions)</summary>
+
+**[01:07:19](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-lively-t-01-06-52)**
+> "...vorite Blake [question offers Blake Lively and Blake Neff]? Blake Lively or Blake Neff?""
+
+**[01:07:37](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-lively-t-01-07-37)**
+> "I feel like Blake Lively is like..."
+
+**[01:07:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-lively-t-01-07-37)**
+> "...s would win. And I think that Blake Lively is not really in control of her life. I'm going w..."
+
+**[01:08:11](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-lively-t-01-07-37)**
+> "And Blake Lively tries not to get, she has her dragons do her dirt..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[01:01:47](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-lively-t-01-01-28)**
+> "...like, it's for lawsuits. When Blake Lively—it's been a bad year for Blakes, bad two years fo..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:35:55](/episodes/ep-aLJhpxrakCU.md#ent-person-blake-lively-t-00-35-47)**
+> "... an ode to when you first see Blake Lively's filing and it sounds shocking, right? Because she..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -492,7 +531,15 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Lively (12)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Lively (13)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1)</summary>
+
+- [01:01:41](/episodes/ep-NNiCZk1cuzs.md#t-01-01-28) (Claim) **Candace Owens**: ["Owens said she kept everyone’s messages forever and denied a plot conc..."](/statements/statement-83fe7cf4e335.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (5)</summary>

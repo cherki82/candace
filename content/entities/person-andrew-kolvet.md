@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 837 mentions"
+description: "Andrew Kolvet (People) - 916 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -22,13 +22,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-49">2026-09-09 · 00:08:49</a></strong></div>
-<div><span>Episodes</span><strong>125</strong></div>
-<div><span>Mentions</span><strong>837</strong></div>
-<div><span>Statements by</span><strong>102</strong></div>
-<div><span>Statements about</span><strong>235</strong></div>
-<div><span>Relationships</span><strong>104</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-50-13">2026-10-08 · 00:50:13</a></strong></div>
+<div><span>Episodes</span><strong>137</strong></div>
+<div><span>Mentions</span><strong>916</strong></div>
+<div><span>Statements by</span><strong>113</strong></div>
+<div><span>Statements about</span><strong>268</strong></div>
+<div><span>Relationships</span><strong>129</strong></div>
+<div><span>Threads</span><strong>3</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -160,6 +160,18 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-21-55" style="--pulse-height:49%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 21 mentions" title="2026-09-03 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-21-36" style="--pulse-height:9%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-10" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-andrew-kolvet-t-00-35-43" style="--pulse-height:9%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-00-01" style="--pulse-height:86%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 37 mentions" title="2026-09-18 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-00-40" style="--pulse-height:21%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 9 mentions" title="2026-09-21 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-andrew-kolvet-t-00-39-02" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-kolvet-t-00-33-16" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-00-02-37" style="--pulse-height:14%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 6 mentions" title="2026-09-25 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-kolvet-t-00-25-48" style="--pulse-height:9%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 4 mentions" title="2026-09-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-kolvet-t-00-25-09" style="--pulse-height:9%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-andrew-kolvet-t-00-08-32" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-03-41" style="--pulse-height:12%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-02-09" style="--pulse-height:9%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-45-55" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -290,6 +302,18 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-21-55) | 21 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-21-36) | 4 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-10) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-andrew-kolvet-t-00-35-43) | 4 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-00-01) | 37 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-00-40) | 9 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-andrew-kolvet-t-00-39-02) | 2 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-kolvet-t-00-33-16) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-00-02-37) | 6 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-kolvet-t-00-25-48) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-kolvet-t-00-25-09) | 4 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-andrew-kolvet-t-00-08-32) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-03-41) | 5 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-02-09) | 4 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-45-55) | 2 |
 
 </details>
 </section>
@@ -297,11 +321,310 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the account of a manufactured Owens–Kirk feud changed](/threads/thread-owens-kirk-2019-feud-provenance) — Tracks the displayed 2019 messages and Owens’s later challenge to their claimed Groyper provenance. Authorship, authenticity and alleged coordination remain unverified; this thread does not identify assassination participants.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (837)</strong></summary>
+<summary><strong class="section-title">Raw mentions (916)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:45:55](/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-45-55)**
+> "...le dudette writes, so Andrew (Andrew Kolvet) said guilt instead of grief. We're processing ou..."
+
+**[00:50:13](/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-50-13)**
+> "...h the behavior of Blake Neff, Andrew Kolvet and Erika Kirk. It's almost like they don't want ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (4 mentions)</summary>
+
+**[00:02:17](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-02-09)**
+> "...d let's shouldn't forget that Andrew Kolvet and Blake Neff over at Turning Point USA have exp..."
+
+**[00:05:28](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-05-10)**
+> "...ways. I think actually it was Andrew Kolvet who said very early on that they were processing."
+
+**[00:31:40](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-31-32)**
+> "Andrew Kolvet still on his platform threw dirt on Jeff Long's n..."
+
+**[00:47:33](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-47-33)**
+> "...of September 18th, 2025, when Andrew Kolvet said they are all processing their guilt in diffe..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (5 mentions)</summary>
+
+**[00:03:41](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-03-41)**
+> "...antly boosted by the likes of Andrew Kolvet and Bill Ackman pretending to have casually stumb..."
+
+**[00:21:39](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-21-21)**
+> "It tells us Andrew Kolvet, a turning point spokesperson, told me that, quot..."
+
+**[00:32:48](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-32-10)**
+> "...s? I know I'll direct this to Andrew Kolvet."
+
+**[00:32:54](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-32-54)**
+> "Andrew (Andrew Kolvet), if you don't know who is behind these campaigns..."
+
+**[00:48:10](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-48-10)**
+> "Andrew Kolvet could play stupid. I don't know, this must be a n..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:08:32](/episodes/ep-ms5ChhZegRg.md#ent-person-andrew-kolvet-t-00-08-32)**
+> "... Charlie Kirk show, picked by Andrew Kolvet, who runs Charlie (Charlie Kirk)'s Twitter accoun..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (4 mentions)</summary>
+
+**[00:25:20](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-kolvet-t-00-25-09)**
+> "...g unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew..."
+
+**[00:25:35](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-kolvet-t-00-25-09)**
+> "...him and TPUSA took on Andrew (Andrew Kolvet) took on TPUSA through Kairos. If I remember corr..."
+
+**[00:34:09](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-kolvet-t-00-33-54)**
+> "... go to Israel. I believe that Andrew Kolvet has since admitted to that."
+
+**[01:05:00](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-kolvet-t-01-04-45)**
+> "...son when you could send it to Andrew Kolvet?"
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (4 mentions)</summary>
+
+**[00:25:48](/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-kolvet-t-00-25-48)**
+> "...hat he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on ..."
+
+**[00:30:59](/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-kolvet-t-00-30-27)**
+> "And I knew because Andrew Kolvet told me, even though he denies some of this stuff..."
+
+**[00:39:15](/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-kolvet-t-00-39-15)**
+> "...ulling back from me, this was Andrew Kolvet, was because I just was getting too crazy on the ..."
+
+**[00:48:20](/episodes/ep-5TTkMa49qj8.md#ent-person-andrew-kolvet-t-00-47-50)**
+> "It's just giving like the Andrew Kolvet, it was supposed to be you thing."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (6 mentions)</summary>
+
+**[00:03:14](/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-00-02-37)**
+> "Somebody get Andrew Kolvet, Blake Neff. Somebody wake up the widow. Get the ..."
+
+**[00:08:56](/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-00-08-26)**
+> "..., they all declined. And yet, Andrew Kolvet, Blake Neff, every single day they're beating the..."
+
+**[00:12:48](/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-00-12-48)**
+> "...dence between her and Andrew (Andrew Kolvet), putting together an event last second for this ..."
+
+**[01:05:15](/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-01-05-01)**
+> "I was told directly by Andrew Kolvet to take Turning Point USA to the next level. In e..."
+
+**[01:05:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-01-05-01)**
+> "...re was no offer. She says no, Andrew Kolvet said that."
+
+**[01:17:50](/episodes/ep-bIuvTKlFeGo.md#ent-person-andrew-kolvet-t-01-17-50)**
+> "...f Blake Neff, the audacity of Andrew Kolvet, but most of all, the audacity of Erika (Erika Ki..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:33:16](/episodes/ep-_2DiIbfy4mU.md#ent-person-andrew-kolvet-t-00-33-16)**
+> "...hese official statements from Andrew Kolvet, who is the official spokesperson for Turning Poi..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:39:02](/episodes/ep-6XfDqKTdFKg.md#ent-person-andrew-kolvet-t-00-39-02)**
+> "Andrew Kolvet, the state of Israel, the state of France,"
+
+**[00:50:32](/episodes/ep-6XfDqKTdFKg.md#ent-person-andrew-kolvet-t-00-50-18)**
+> "...sten to you and then send out Andrew Kolvet and Blake Neff to gaslight the kids with a genoci..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (9 mentions)</summary>
+
+**[00:01:06](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-00-40)**
+> "... came from Turning Point USA, Andrew Kolvet in particular, Blake Neff in particular, and they..."
+
+**[00:29:57](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-29-33)**
+> "... And here come Blake Neff and Andrew Kolvet doing the absolute most on X, presenting to the p..."
+
+**[00:31:18](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-31-18)**
+> "...lake (Blake Neff) and Andrew (Andrew Kolvet) are going to gaslight what they actually lived t..."
+
+**[00:35:11](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-34-36)**
+> "...ut. Do you hear that, Andrew (Andrew Kolvet)? You said I was lying about that."
+
+**[00:37:26](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-37-12)**
+> "...regular school hours. Andrew (Andrew Kolvet), she's referring to Andrew Kolvet stated that on..."
+
+**[00:41:59](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-41-46)**
+> "...d now you have Blake Neff and Andrew Kolvet being like they loved it."
+
+**[00:43:04](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-43-04)**
+> "Andrew Kolvet, you're the official spokesperson. You could get ..."
+
+**[00:56:20](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-56-06)**
+> "... did not suspect um I thought Andrew Kolvet was a good character a good person and I have bee..."
+
+**[00:57:00](/episodes/ep-BvthGQw3_s0.md#ent-person-andrew-kolvet-t-00-56-42)**
+> "...son that I could make out was Andrew Kolvet. Yeah, and to this day the press hits on that dre..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (37 mentions)</summary>
+
+**[00:00:08](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-00-01)**
+> "... got into a Twitter spat with Andrew Kolvet back and forth, finally got him to concede my poi..."
+
+**[00:00:47](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-00-41)**
+> "...zy text thread between me and Andrew Kolvet. From 2019, and it genuinely feels like another p..."
+
+**[00:09:35](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-09-11)**
+> "... uncovered between myself and Andrew Kolvet dating back to 2019."
+
+**[00:09:56](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-09-47)**
+> "...ause it really shows you that Andrew Kolvet is a shameless liar."
+
+**[00:10:14](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-09-47)**
+> "...cation between me and Andrew (Andrew Kolvet) from November of 2019."
+
+**[00:10:25](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-09-47)**
+> "...recall that recently, Andrew (Andrew Kolvet) has been trying to spin to the public that Charl..."
+
+**[00:11:41](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-11-41)**
+> "...I receive a text message from Andrew Kolvet, who's relatively new to Turning Point USA as a P..."
+
+**[00:12:19](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-12-19)**
+> "...ember 12th, 2019. And Andrew (Andrew Kolvet) says, just making sure you see this. And he forw..."
+
+**[00:13:14](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-12-45)**
+> "... then I wrote back to Andrew (Andrew Kolvet), who wrote that?"
+
+**[00:15:02](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-14-44)**
+> "That Andrew Kolvet is trying to seed now. What did Andrew (Andrew Ko..."
+
+**[00:16:11](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-16-11)**
+> "...an, one? Who are you, Andrew (Andrew Kolvet)? Like, so I remain suspicious, and then he sends..."
+
+**[00:17:26](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-17-26)**
+> "...at years later, while Andrew (Andrew Kolvet) is trying to basically be like, we don't know wh..."
+
+**[00:18:00](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-18-00)**
+> "...'s exactly the narrative that Andrew Kolvet is now going to say was real and I guess he maybe..."
+
+**[00:18:41](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-18-41)**
+> "...else, this thread proves that Andrew Kolvet is a routine liar. There was absolutely no fallin..."
+
+**[00:19:04](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-18-41)**
+> "...I had another back forth with Andrew Kolvet today. Well, I got to unlock my computer because ..."
+
+**[00:22:52](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-22-29)**
+> "So, of course, Andrew Kolvet got in the comments. And he said, I'm missing one..."
+
+**[00:23:11](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-23-11)**
+> "I wrote back, hey, Andrew (Andrew Kolvet), Charlie (Charlie Kirk)'s vision never included ..."
+
+**[00:24:26](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-24-26)**
+> "Anyway, Andrew (Andrew Kolvet) replies and he says, wrong again. Students were ..."
+
+**[00:25:30](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-25-09)**
+> "...cific is a cornering. Andrew (Andrew Kolvet) writes back essentially now going to be like, yo..."
+
+**[00:26:50](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-26-36)**
+> "...hese students opt in, Andrew (Andrew Kolvet)? Or did the administration organize this as a pa..."
+
+**[00:26:59](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-26-36)**
+> "...tion. Do they opt in, Andrew (Andrew Kolvet)? And what does he come back with?"
+
+**[00:27:17](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-27-17)**
+> "...d they didn't opt in, Andrew (Andrew Kolvet). Thank you. I'm glad we got there, Andrew (Andre..."
+
+**[00:31:23](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-31-23)**
+> "That was his vision, Andrew (Andrew Kolvet)."
+
+**[00:35:34](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-35-23)**
+> "...ing from the parents, not me, Andrew Kolvet."
+
+**[00:36:07](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-36-07)**
+> "Andrew Kolvet should not have been doing public relations for E..."
+
+**[00:36:22](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-36-07)**
+> "...eople who worked with Andrew (Andrew Kolvet)."
+
+**[00:37:19](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-36-50)**
+> "... (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films,..."
+
+**[00:38:55](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-38-26)**
+> "...rika (Erika Kirk) and Andrew (Andrew Kolvet)."
+
+**[00:43:24](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-43-04)**
+> "...rika (Erika Kirk) and Andrew (Andrew Kolvet) had, what would they have been working on in Aug..."
+
+**[00:44:21](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-43-47)**
+> "... odd match for Erika Kirk and Andrew Kolvet. Like, in my opinion, it's a very odd match."
+
+**[00:51:12](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-51-12)**
+> "...ing on Charlie Kirk's legacy, Andrew Kolvet as well. We see how they this is their either or ..."
+
+**[00:59:38](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-00-59-17)**
+> "...eople did opt out per Andrew (Andrew Kolvet). Three people opted out."
+
+**[01:00:08](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-01-00-02)**
+> "... of them: Erika (Erika Kirk), Andrew Kolvet, Blake Neff. It'll all be mine. And that's why th..."
+
+**[01:02:43](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-01-02-43)**
+> "...t's the Groypers. And Andrew (Andrew Kolvet)'s like, it's the Groypers, making up the Groyper..."
+
+**[01:03:38](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-01-03-19)**
+> "...t and she sends it to Andrew (Andrew Kolvet). Why? I didn't know him like that in 2019."
+
+**[01:04:02](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-01-04-02)**
+> "...re going to know now, Andrew (Andrew Kolvet)."
+
+**[01:04:15](/episodes/ep-NNiCZk1cuzs.md#ent-person-andrew-kolvet-t-01-04-02)**
+> "I don't accept that, Andrew (Andrew Kolvet)."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4 mentions)</summary>
+
+**[00:35:49](/episodes/ep-O4Zw3bCALjU.md#ent-person-andrew-kolvet-t-00-35-43)**
+> "... lying, without naming me, to Andrew Kolvet. Like, that you guys all attacked me for telling ..."
+
+**[00:39:37](/episodes/ep-O4Zw3bCALjU.md#ent-person-andrew-kolvet-t-00-39-08)**
+> "...first bring in this clip from Andrew Kolvet. Let's show the clip from Andrew Kolvet discussin..."
+
+**[00:43:44](/episodes/ep-O4Zw3bCALjU.md#ent-person-andrew-kolvet-t-00-43-44)**
+> "...t of makes me sick. Like even Andrew Kolvet's tweet coming after a Democrat like they had anyth..."
+
+**[00:52:41](/episodes/ep-O4Zw3bCALjU.md#ent-person-andrew-kolvet-t-00-52-06)**
+> "...lake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that no one's watching."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -3439,10 +3762,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Accused (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “Well, Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me for the article.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01): “Of course he does. Wow, he writes. Thank you, data Republican, for doing this. This threat exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika (Erika Kirk).”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:35:11](/episodes/ep-BvthGQw3_s0.md#t-00-34-36): “She continues, students were not formally offered an option to opt out. Do you hear that, Andrew (Andrew Kolvet)? You said I was lying about that.”
 
 </details>
 
@@ -3490,9 +3814,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Affiliated With (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-11): “Andrew Kolvet and other Turning Point USA affiliates”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:11:41](/episodes/ep-NNiCZk1cuzs.md#t-00-11-41): “Day in and day out, and we're texting about it, and he's like, this is coordinated. This feels like it's coming down. I don't know who's behind this. All of a sudden, in the midst of this, I receive a text message from Andrew Kolvet, who's relatively new to Turning Point USA as a PR person, and I want you to see this because you can immediately”
 
 </details>
 
@@ -3587,7 +3912,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Criticized (2)</summary>
+<summary>Criticized (4)</summary>
 
 - **[Druski](/entities/person-druski.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3597,19 +3922,35 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:38:13](/episodes/ep-_cNtgris8Ik.md#t-00-38-05): “Yeah, if you go back far enough, I mean, that's why I mean, I put out that tweet basically saying, you know, Candace, your central foundational lie is that you and Charlie were friends. You were not friends.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:22:52](/episodes/ep-NNiCZk1cuzs.md#t-00-22-29): “So, of course, Andrew Kolvet got in the comments. And he said, I'm missing one thing that he said there, but he basically called me a liar and I said, and that said that it was Charlie (Charlie Kirk)'s vision for club to have Club America chapters.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:39:15](/episodes/ep-5TTkMa49qj8.md#t-00-39-15): “She wanted to marry Charlie (Charlie Kirk). Look at this clip of Charlie (Charlie Kirk) chose Erica (Erika Kirk). Then they said also that the reason Charlie (Charlie Kirk) started pulling back from me, this was Andrew Kolvet, was because I just was getting too crazy on the Jewish stuff, right, Israel stuff.”
+
+</details>
+
+- **[Katie Hobbs](/entities/person-katie-hobbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:43:44](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44): “It just sort of makes me sick. Like even Andrew Kolvet's tweet coming after a Democrat like they had anything to do with anything, a Democrat in office. She writes, why haven't we he writes, why haven't we heard from Katie Hobbs or anyone with a D next to their name after Charlie (Charlie Kirk)'s statue was vandalized? Is it because they're terrified? It was one of their own activists behind it. We are working with law enforcement and pulling video from neighboring buildings.”
+
+</details>
+
+- **[Jeff Long](/entities/person-jeff-long.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:31:59](/episodes/ep-yrg_-D6oNHE.md#t-00-31-59): “I think this is what a lot of people are keying in on the most. So TPUSA official, the security, texted, 'Hello, Chief Long (Jeff Long), we received this message today from the student group.' ... He said, quote, there is student roof access pretty close to where Charlie (Charlie Kirk) will be set up at Utah Valley and said it would be nice to either have it controlled access or allow one of my guys to be up there as well, if possible, Chief Long (Jeff Long). ... Texted, I got you covered, which obviously we know was not the case. They knew that that was a point of vulnerability. So if you know that that's a point of vulnerability that people can access that rooftop so easily, why was it left unguarded when you said you had the rooftops handled?”
 
 </details>
 
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (38)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -3645,6 +3986,17 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:43:44](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44): “It just sort of makes me sick. Like even Andrew Kolvet's tweet coming after a Democrat like they had anything to do with anything, a Democrat in office. She writes, why haven't we he writes, why haven't we heard from Katie Hobbs or anyone with a D next to their name after Charlie (Charlie Kirk)'s statue was vandalized?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:09:56](/episodes/ep-NNiCZk1cuzs.md#t-00-09-47): “And my jaw just sort of hit the floor. It's crazy, especially in retrospect, because it really shows you that Andrew Kolvet is a shameless liar.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:01:06](/episodes/ep-BvthGQw3_s0.md#t-00-00-40): “Plus, we have an update from the parents of Nampa Christian School regarding Erika (Erika Kirk)'s visit, the bizarre gaslighting campaign which came from Turning Point USA, Andrew Kolvet in particular, Blake Neff in particular, and they have now included an angry grandma from Twitter.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:17:50](/episodes/ep-bIuvTKlFeGo.md#t-01-17-50): “But your main takeaway from today's episode should be the audacity of turning point USA over this last year, the audacity of Blake Neff, the audacity of Andrew Kolvet, but most of all, the audacity of Erika (Erika Kirk), the audacity of Erika (Erika Kirk) to.”
+
+</details>
+
+- **[Commenter Lindsay in episode 386 (identity unverified)](/entities/anon-src-O4Zw3bCALjU-006.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:52:41](/episodes/ep-O4Zw3bCALjU.md#t-00-52-06): “Lindsay (commenter; full identity unverified) writes, I get worried you are going to run out of never before seen clips, but then it occurred to me you can just pull clips of Blake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that no one's watching.”
 
 </details>
 
@@ -3682,6 +4034,44 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
+<summary>Endorsed (2)</summary>
+
+- **[Commit 100](/entities/concept-commit-100.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:45](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “I will tell you what the enemy intended for evil, God is using for good. I want to praise so many of you out there after this news broke, the Commit 100 program that we've been pushing on this program is surging. So do not let evil win. Use this as motivation to get involved, to be a part of the solution. We cannot let evil ghouls win the day. We cannot be intimidated. We cannot be cowed. Never surrender. So go do your part. Be a part of the solution. Be a part of something bigger than yourself, as Charlie (Charlie Kirk) would always say. Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up.”
+
+</details>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:40:19](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Exchanged Messages With (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:09:35](/episodes/ep-NNiCZk1cuzs.md#t-00-09-11): “There's something about it that just feels like textbook narcissistic abuse, which brings me to this crazy text thread that I uncovered between myself and Andrew Kolvet dating back to 2019. ... So again, just to kind of give you some presets here, this is going to be a communication between me and Andrew (Andrew Kolvet) from November of 2019.”
+
+</details>
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:12:39](/episodes/ep-bIuvTKlFeGo.md#t-00-12-04): “Something is not right. And we were having a very hard time determining who requested this event. Do you remember they sent out Allie Stuckey, who has never headlined a tour with Charlie Kirk? ... She shares an X correspondence between her and Andrew (Andrew Kolvet), putting together an event last second for this exact tour as evidence that I'm somehow lying.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Aubrey Laitsch](/entities/person-aubrey-laitsch.md)**
@@ -3697,11 +4087,12 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Formerly Worked For (2)</summary>
 
 - **[KAIROS Company](/entities/org-kairos-company.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working ... With Kairos when I met him and TPUSA took on Andrew (Andrew Kolvet) took on TPUSA through Kairos. If I remember correctly, his email address at the time it no longer is was at the Kairos company.”
 
 </details>
 
@@ -3915,12 +4306,48 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:06](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “I spoke to Andrew on this actual day.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:30:48](/episodes/ep-5TTkMa49qj8.md#t-00-30-27): “And of course, a final vindication came for me because I told you that the decision to make Erica (Erika Kirk) the CEO happened faster than the public was even made aware of within the first 48 hours. ... And I knew because Andrew Kolvet told me, even though he denies some of this stuff. And at the time, I was like, great, I'm so happy to hear that it's Erica (Erika Kirk).”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:37:19](/episodes/ep-NNiCZk1cuzs.md#t-00-36-50): “Yet curiously, on August 20th, 2025, I learned that Erika (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films, right?”
+
+</details>
+
+- **[Eben Davidson](/entities/person-eben-davidson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:37:19](/episodes/ep-NNiCZk1cuzs.md#t-00-36-50): “Yet curiously, on August 20th, 2025, I learned that Erika (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films, right? ... Namely, this conference call. was with Eben Davidson, who is the company's executive producer. He came out of a long tenure with Paramount Pictures, and he was running the LA office for Empress Films.”
+
+</details>
+
+- **[Emma Cooper](/entities/person-emma-cooper.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:37:19](/episodes/ep-NNiCZk1cuzs.md#t-00-36-50): “Yet curiously, on August 20th, 2025, I learned that Erika (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films, right? ... plus the founder of Empress Films, which is a woman named Emma Cooper. The company's relatively new, established in 2020.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
+
+</details>
+
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:05:28](/episodes/ep-yrg_-D6oNHE.md#t-00-05-10): “Now, I will say that their affiliates in general are hilarious and they keep getting caught up in these ways. I think actually it was Andrew Kolvet who said very early on that they were processing. ... Their guilt. And then Megyn Kelly had to say to him, no, you're processing your grief. You mean? He's like, oh, yeah, we're processing our grief.”
 
 </details>
 
@@ -3964,10 +4391,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Worked With (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39): “yeah i just want to be very clear that i don't see myself as that i've uh you know i worked with charlie just about every day for eight years and i feel like i have a charlie gpt or something in the back of my head i mean for truly i i hear”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:08:32](/episodes/ep-ms5ChhZegRg.md#t-00-08-32): “I'm not going to get into it, but. He was kind of relatively unknown to the public. He was doing some other work, but he also happened to be the very last guest on the Charlie Kirk show, picked by Andrew Kolvet, who runs Charlie (Charlie Kirk)'s Twitter account, and Nick (Nick Shirley) probably doesn't know that, for some work that he had done on the border.”
 
 </details>
 
@@ -3988,9 +4416,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47): “Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, Johnnie Moore on the board of NCRI when the Christ is King report was published.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working ... With Kairos when I met him and TPUSA took on Andrew (Andrew Kolvet) took on TPUSA through Kairos. If I remember correctly, his email address at the time it no longer is was at the Kairos company.”
 
 </details>
 
@@ -4000,7 +4429,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#t-00-12-28): “Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “Is this Andrew Kolvet from Turning Point USA hiding under a hat?”
@@ -4032,6 +4461,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:04:35](/episodes/ep-AoYZel7_cGQ.md#t-00-04-28): “What about the ever wise and strategic spokesperson of Turning Point USA? Andrew Kolvet”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:00:43](/episodes/ep-aPOyk1i2LOc.md#t-02-00-43): “Yeah, well, I feel like I'm answering your questions and his questions about. I mean, I'm talking about Andrew Kolb at his position as he's a spokesperson for Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:34:06](/episodes/ep-a-e7HC6SeK8.md#t-00-34-06): “How could the spokesperson at Turning Point USA be on the—how could they be gaining millions from that?”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:42:44](/episodes/ep-BvthGQw3_s0.md#t-00-42-25): “You know, but granny's gonna have to do it. Granny's gonna have to step up to the plate. A little genocidal granny a little bit little bit language a little genocidal there an ex when dealing with the response for the Palestinians, but to be expected when we're dealing with the new TPUSA 2.0. They will partner with anyone absent any facts. Andrew Kolvet, you're the official spokesperson. You could get to the bottom of whether or not I'm telling the truth about when that newsletter went out.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:33:16](/episodes/ep-_2DiIbfy4mU.md#t-00-33-16): “or maybe just presenting the footage in general to the public because it's the last captured footage of your husband at home as Andrew Wilson is claiming not her, by the way. We never get these official statements from Andrew Kolvet, who is the official spokesperson for Turning Point USA.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:21:39](/episodes/ep-0pSAhaAZz1w.md#t-00-21-21): “It tells us Andrew Kolvet, a turning point spokesperson, told me that, quote, I can pretty much guarantee we aren't working with a lot being company, end quote.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:02:17](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09): “We should take everything that any person says at face value. And let's shouldn't forget that Andrew Kolvet and Blake Neff over at Turning Point USA have expressed these very sentiments. They keep a list. They check it twice.”
 
 </details>
 
@@ -4045,7 +4479,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Referenced By (50)</summary>
+<summary>Referenced By (63)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (13)</summary>
@@ -4081,10 +4515,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “Well, Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me for the article.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01): “Of course he does. Wow, he writes. Thank you, data Republican, for doing this. This threat exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika (Erika Kirk).”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:35:11](/episodes/ep-BvthGQw3_s0.md#t-00-34-36): “She continues, students were not formally offered an option to opt out. Do you hear that, Andrew (Andrew Kolvet)? You said I was lying about that.”
 
 </details>
 
@@ -4149,7 +4584,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (38)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -4185,6 +4620,17 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:43:44](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44): “It just sort of makes me sick. Like even Andrew Kolvet's tweet coming after a Democrat like they had anything to do with anything, a Democrat in office. She writes, why haven't we he writes, why haven't we heard from Katie Hobbs or anyone with a D next to their name after Charlie (Charlie Kirk)'s statue was vandalized?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:09:56](/episodes/ep-NNiCZk1cuzs.md#t-00-09-47): “And my jaw just sort of hit the floor. It's crazy, especially in retrospect, because it really shows you that Andrew Kolvet is a shameless liar.”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:01:06](/episodes/ep-BvthGQw3_s0.md#t-00-00-40): “Plus, we have an update from the parents of Nampa Christian School regarding Erika (Erika Kirk)'s visit, the bizarre gaslighting campaign which came from Turning Point USA, Andrew Kolvet in particular, Blake Neff in particular, and they have now included an angry grandma from Twitter.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:17:50](/episodes/ep-bIuvTKlFeGo.md#t-01-17-50): “But your main takeaway from today's episode should be the audacity of turning point USA over this last year, the audacity of Blake Neff, the audacity of Andrew Kolvet, but most of all, the audacity of Erika (Erika Kirk), the audacity of Erika (Erika Kirk) to.”
+
+</details>
+
+- **[Commenter Lindsay in episode 386 (identity unverified)](/entities/anon-src-O4Zw3bCALjU-006.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:52:41](/episodes/ep-O4Zw3bCALjU.md#t-00-52-06): “Lindsay (commenter; full identity unverified) writes, I get worried you are going to run out of never before seen clips, but then it occurred to me you can just pull clips of Blake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that no one's watching.”
 
 </details>
 
@@ -4196,9 +4642,25 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:38:13](/episodes/ep-_cNtgris8Ik.md#t-00-38-05): “Yeah, if you go back far enough, I mean, that's why I mean, I put out that tweet basically saying, you know, Candace, your central foundational lie is that you and Charlie were friends. You were not friends.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:22:52](/episodes/ep-NNiCZk1cuzs.md#t-00-22-29): “So, of course, Andrew Kolvet got in the comments. And he said, I'm missing one thing that he said there, but he basically called me a liar and I said, and that said that it was Charlie (Charlie Kirk)'s vision for club to have Club America chapters.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:39:15](/episodes/ep-5TTkMa49qj8.md#t-00-39-15): “She wanted to marry Charlie (Charlie Kirk). Look at this clip of Charlie (Charlie Kirk) chose Erica (Erika Kirk). Then they said also that the reason Charlie (Charlie Kirk) started pulling back from me, this was Andrew Kolvet, was because I just was getting too crazy on the Jewish stuff, right, Israel stuff.”
+
+</details>
+
+- **[Katie Hobbs](/entities/person-katie-hobbs.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:43:44](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44): “It just sort of makes me sick. Like even Andrew Kolvet's tweet coming after a Democrat like they had anything to do with anything, a Democrat in office. She writes, why haven't we he writes, why haven't we heard from Katie Hobbs or anyone with a D next to their name after Charlie (Charlie Kirk)'s statue was vandalized? Is it because they're terrified? It was one of their own activists behind it. We are working with law enforcement and pulling video from neighboring buildings.”
+
+</details>
+
+- **[Jeff Long](/entities/person-jeff-long.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:31:59](/episodes/ep-yrg_-D6oNHE.md#t-00-31-59): “I think this is what a lot of people are keying in on the most. So TPUSA official, the security, texted, 'Hello, Chief Long (Jeff Long), we received this message today from the student group.' ... He said, quote, there is student roof access pretty close to where Charlie (Charlie Kirk) will be set up at Utah Valley and said it would be nice to either have it controlled access or allow one of my guys to be up there as well, if possible, Chief Long (Jeff Long). ... Texted, I got you covered, which obviously we know was not the case. They knew that that was a point of vulnerability. So if you know that that's a point of vulnerability that people can access that rooftop so easily, why was it left unguarded when you said you had the rooftops handled?”
 
 </details>
 
@@ -4224,7 +4686,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#t-00-12-28): “Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “Is this Andrew Kolvet from Turning Point USA hiding under a hat?”
@@ -4247,6 +4709,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:04:35](/episodes/ep-AoYZel7_cGQ.md#t-00-04-28): “What about the ever wise and strategic spokesperson of Turning Point USA? Andrew Kolvet”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:00:43](/episodes/ep-aPOyk1i2LOc.md#t-02-00-43): “Yeah, well, I feel like I'm answering your questions and his questions about. I mean, I'm talking about Andrew Kolb at his position as he's a spokesperson for Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:34:06](/episodes/ep-a-e7HC6SeK8.md#t-00-34-06): “How could the spokesperson at Turning Point USA be on the—how could they be gaining millions from that?”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:42:44](/episodes/ep-BvthGQw3_s0.md#t-00-42-25): “You know, but granny's gonna have to do it. Granny's gonna have to step up to the plate. A little genocidal granny a little bit little bit language a little genocidal there an ex when dealing with the response for the Palestinians, but to be expected when we're dealing with the new TPUSA 2.0. They will partner with anyone absent any facts. Andrew Kolvet, you're the official spokesperson. You could get to the bottom of whether or not I'm telling the truth about when that newsletter went out.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:33:16](/episodes/ep-_2DiIbfy4mU.md#t-00-33-16): “or maybe just presenting the footage in general to the public because it's the last captured footage of your husband at home as Andrew Wilson is claiming not her, by the way. We never get these official statements from Andrew Kolvet, who is the official spokesperson for Turning Point USA.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:21:39](/episodes/ep-0pSAhaAZz1w.md#t-00-21-21): “It tells us Andrew Kolvet, a turning point spokesperson, told me that, quote, I can pretty much guarantee we aren't working with a lot being company, end quote.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:02:17](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09): “We should take everything that any person says at face value. And let's shouldn't forget that Andrew Kolvet and Blake Neff over at Turning Point USA have expressed these very sentiments. They keep a list. They check it twice.”
 
 </details>
 
@@ -4257,12 +4724,41 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Commit 100](/entities/concept-commit-100.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:45](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “I will tell you what the enemy intended for evil, God is using for good. I want to praise so many of you out there after this news broke, the Commit 100 program that we've been pushing on this program is surging. So do not let evil win. Use this as motivation to get involved, to be a part of the solution. We cannot let evil ghouls win the day. We cannot be intimidated. We cannot be cowed. Never surrender. So go do your part. Be a part of the solution. Be a part of something bigger than yourself, as Charlie (Charlie Kirk) would always say. Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up.”
+
+</details>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:40:19](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45): “Go to tpaction.com slash 100, tpaction.com slash 100 if we have the graphic. I know we had that QR code from last week. Please throw it up.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:09:35](/episodes/ep-NNiCZk1cuzs.md#t-00-09-11): “There's something about it that just feels like textbook narcissistic abuse, which brings me to this crazy text thread that I uncovered between myself and Andrew Kolvet dating back to 2019. ... So again, just to kind of give you some presets here, this is going to be a communication between me and Andrew (Andrew Kolvet) from November of 2019.”
+
+</details>
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)** exchanged messages with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:12:39](/episodes/ep-bIuvTKlFeGo.md#t-00-12-04): “Something is not right. And we were having a very hard time determining who requested this event. Do you remember they sent out Allie Stuckey, who has never headlined a tour with Charlie Kirk? ... She shares an X correspondence between her and Andrew (Andrew Kolvet), putting together an event last second for this exact tour as evidence that I'm somehow lying.”
+
+</details>
+
 - **[KAIROS Company](/entities/org-kairos-company.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09): “On June 3rd, Johnny Moore (Gaza aid-project chairman; name spelling unverified) actually takes over as chairman of the Gaza Humanitarian Aid Project. Now, Johnny Moore (Gaza aid-project chairman; name spelling unverified), as we know, is Andrew Kolvet's partner over at the Kairos Company. Before Andrew (Andrew Kolvet) started his own PR firm, he was working ... With Kairos when I met him and TPUSA took on Andrew (Andrew Kolvet) took on TPUSA through Kairos. If I remember correctly, his email address at the time it no longer is was at the Kairos company.”
 
 </details>
 
@@ -4446,9 +4942,45 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:06](/episodes/ep-pc3pxRyNFZk.md#t-00-09-53): “I spoke to Andrew on this actual day.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:30:48](/episodes/ep-5TTkMa49qj8.md#t-00-30-27): “And of course, a final vindication came for me because I told you that the decision to make Erica (Erika Kirk) the CEO happened faster than the public was even made aware of within the first 48 hours. ... And I knew because Andrew Kolvet told me, even though he denies some of this stuff. And at the time, I was like, great, I'm so happy to hear that it's Erica (Erika Kirk).”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:37:19](/episodes/ep-NNiCZk1cuzs.md#t-00-36-50): “Yet curiously, on August 20th, 2025, I learned that Erika (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films, right?”
+
+</details>
+
+- **[Eben Davidson](/entities/person-eben-davidson.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:37:19](/episodes/ep-NNiCZk1cuzs.md#t-00-36-50): “Yet curiously, on August 20th, 2025, I learned that Erika (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films, right? ... Namely, this conference call. was with Eben Davidson, who is the company's executive producer. He came out of a long tenure with Paramount Pictures, and he was running the LA office for Empress Films.”
+
+</details>
+
+- **[Emma Cooper](/entities/person-emma-cooper.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:37:19](/episodes/ep-NNiCZk1cuzs.md#t-00-36-50): “Yet curiously, on August 20th, 2025, I learned that Erika (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films, right? ... plus the founder of Empress Films, which is a woman named Emma Cooper. The company's relatively new, established in 2020.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48): “And Tucker (Tucker Carlson) added this, quote, my sense is that the leadership of the organization is wholly focused on Candace Owens, says Carlson (Tucker Carlson), who says that he advised Turning Points Andrew Kolvet, if you don't like Candace Owens, don't focus on her.”
+
+</details>
+
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:05:28](/episodes/ep-yrg_-D6oNHE.md#t-00-05-10): “Now, I will say that their affiliates in general are hilarious and they keep getting caught up in these ways. I think actually it was Andrew Kolvet who said very early on that they were processing. ... Their guilt. And then Megyn Kelly had to say to him, no, you're processing your grief. You mean? He's like, oh, yeah, we're processing our grief.”
 
 </details>
 
@@ -4490,12 +5022,77 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Blake Neff](/entities/person-blake-neff.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:52:41](/episodes/ep-O4Zw3bCALjU.md#t-00-52-06): “Lindsay (commenter; full identity unverified) writes, I get worried you are going to run out of never before seen clips, but then it occurred to me you can just pull clips of Blake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that no one's watching.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (102)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (113)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:31:59](/episodes/ep-yrg_-D6oNHE.md#t-00-31-59) [○] (Accusation) ["In the clip, Kolvet described TPUSA security warning Chief Long about student ro..."](/statements/statement-7bf040b650d3.md)
+  - About: [Jeff Long](/entities/person-jeff-long.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>
+
+- [00:21:39](/episodes/ep-0pSAhaAZz1w.md#t-00-21-21) [○] (Claim) ["Andrew Kolvet, quoted by Breland in the article Owens read, said he could pretty..."](/statements/statement-1ee7b730b017.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:37:26](/episodes/ep-BvthGQw3_s0.md#t-00-37-12) [○] (Claim) ["According to the parent email read by Owens, Andrew Kolvet stated that only thre..."](/statements/statement-00fd2fbd3389.md)
+  - About: [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (5)</summary>
+
+- [00:13:22](/episodes/ep-NNiCZk1cuzs.md#t-00-13-22) [○] (Claim) ["Kolvet’s messages attributed the material to Groypers’ blogs and said Kirk’s gir..."](/statements/statement-d8309156c32a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Groyper movement](/entities/concept-groyper-movement.md)
+
+- [00:16:37](/episodes/ep-NNiCZk1cuzs.md#t-00-16-11) [○] (Claim) ["Kolvet’s message said the blog was linked in the Vox article."](/statements/statement-8d400b6ca6e8.md)
+  - About: [Vox](/entities/org-vox.md), [4plebs](/entities/org-4plebs.md)
+
+- [00:24:26](/episodes/ep-NNiCZk1cuzs.md#t-00-24-26) [○] (Claim) ["Kolvet wrote that students were free to opt out, three did so, more than 500 cho..."](/statements/statement-5d3468d1b6f9.md)
+  - About: [Nampa Christian Schools](/entities/org-nampa-christian-schools.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:25:43](/episodes/ep-NNiCZk1cuzs.md#t-00-25-09) [○] (Claim) ["Kolvet said TPUSA did not market the event publicly for security reasons, to kee..."](/statements/statement-9a35f00f675f.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+- [00:27:06](/episodes/ep-NNiCZk1cuzs.md#t-00-26-36) [○] (Claim) ["Kolvet described high-school assemblies as distinct from TPUSA’s regular chapter..."](/statements/statement-b641ddfd971e.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (3)</summary>
+
+- [00:39:45](/episodes/ep-O4Zw3bCALjU.md#t-00-39-45) [○] (Claim) ["Andrew Kolvet said participation in the Commit 100 program was surging after new..."](/statements/statement-cbfd67aaa34b.md)
+  - About: [Commit 100](/entities/concept-commit-100.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:40:28](/episodes/ep-O4Zw3bCALjU.md#t-00-40-28) [○] (Claim) ["Andrew Kolvet said friends of Charlie and Erika Kirk had offered a $10,000 rewar..."](/statements/statement-d73c0c42a3aa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:43:53](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44) [○] (Accusation) ["Andrew Kolvet's tweet asked why Katie Hobbs or other Democrats had not spoken ab..."](/statements/statement-302b7439c6c9.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Katie Hobbs](/entities/person-katie-hobbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
@@ -5018,7 +5615,166 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (235)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (268)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3)</summary>
+
+- [00:45:55](/episodes/ep-UAdBEXs7nNc.md#t-00-45-55) (Claim) **Little dudette (commenter; identity unverified)** (via quoted post): ["The commenter displayed as Little dudette, whose identity is unverifie..."](/statements/statement-9bb3c583340d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:50:13](/episodes/ep-UAdBEXs7nNc.md#t-00-50-13) (Opinion) **Not Nona / Nona’s fave five (commenter; identity unverified)** (via quoted post): ["The commenter displayed as Not Nona / Nona's fave five, identity unver..."](/statements/statement-fc8cf55bfe4a.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:13](/episodes/ep-UAdBEXs7nNc.md#t-00-50-13) (Opinion) **Candace Owens**: ["Owens said that from the beginning it had felt as though Blake Neff, A..."](/statements/statement-4760630f6101.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
+
+- [00:31:40](/episodes/ep-yrg_-D6oNHE.md#t-00-31-32) (Accusation) **Candace Owens**: ["Owens said Andrew Kolvet continued blaming Jeff Long on his platform a..."](/statements/statement-ab1db83780af.md)
+  - Also about: [Jeff Long](/entities/person-jeff-long.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:47:33](/episodes/ep-yrg_-D6oNHE.md#t-00-47-33) (Claim) **Septimus Theopolis (viewer handle; identity unverified)** (via read message): ["A viewer using the handle Septimus Theopolis wrote that on September 1..."](/statements/statement-b9c9586966b6.md)
+  - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3)</summary>
+
+- [00:03:41](/episodes/ep-0pSAhaAZz1w.md#t-00-03-41) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet and Bill Ackman instantly boosted Jennica Pou..."](/statements/statement-e2a2ca65c8d5.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md), [Jennica Pounds](/entities/person-jennica-pounds.md)
+
+- [00:21:39](/episodes/ep-0pSAhaAZz1w.md#t-00-21-21) (Claim) **Andrew Kolvet** (via quoted article): ["Andrew Kolvet, quoted by Breland in the article Owens read, said he co..."](/statements/statement-1ee7b730b017.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:32:54](/episodes/ep-0pSAhaAZz1w.md#t-00-32-54) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet and Blake Wynn had been on a private plane to..."](/statements/statement-221f5c21a4cd.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:08:23](/episodes/ep-ms5ChhZegRg.md#t-00-07-54) (Claim) **Candace Owens**: ["Owens said Nick Shirley uncovered the Minneapolis welfare scandal and ..."](/statements/statement-274366068d44.md)
+  - Also about: [Nick Shirley](/entities/person-nick-shirley.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:25:20](/episodes/ep-q4m-kGzvwjw.md#t-00-25-09) (Claim) **Candace Owens**: ["Owens said Johnnie Moore became Gaza aid-project chairman June 3 and w..."](/statements/statement-b64c8946157a.md)
+  - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [KAIROS Company](/entities/org-kairos-company.md), [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
+
+- [00:33:36](/episodes/ep-q4m-kGzvwjw.md#t-00-33-17) (Claim) **Candace Owens** (via paraphrase): ["Owens said Netanyahu called Charlie Kirk during the August 4–6 Hampton..."](/statements/statement-4ef70732871b.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3)</summary>
+
+- [00:25:48](/episodes/ep-5TTkMa49qj8.md#t-00-25-48) (Opinion) **Tucker Carlson** (via quoted article): ["Tucker Carlson said, “My sense is” Turning Point’s leadership is wholl..."](/statements/statement-2eb6ea8a7ecb.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:30:48](/episodes/ep-5TTkMa49qj8.md#t-00-30-27) (Claim) **Candace Owens** (via paraphrase): ["Owens said she knew Erika Kirk was selected as Turning Point CEO withi..."](/statements/statement-5b7ae5cd8521.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:39:15](/episodes/ep-5TTkMa49qj8.md#t-00-39-15) (Claim) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet claimed Charlie Kirk pulled back from her bec..."](/statements/statement-994a5bdc992e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:05:11](/episodes/ep-bIuvTKlFeGo.md#t-01-05-01) (Claim) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet directly told her that Netanyahu called Kirk ..."](/statements/statement-c38a2598e314.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:33:16](/episodes/ep-_2DiIbfy4mU.md#t-00-33-16) (Claim) **Candace Owens**: ["Owens identifies Andrew Kolvet as TPUSA’s official spokesperson and sa..."](/statements/statement-e30daaedca0b.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2)</summary>
+
+- [00:38:49](/episodes/ep-6XfDqKTdFKg.md#t-00-38-49) (Accusation) **Jeremy Boreing** (via quoted speech): ["In a separate podcast clip, Boreing says Owens probably committed the ..."](/statements/statement-37e04823cd93.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:50:18](/episodes/ep-6XfDqKTdFKg.md#t-00-50-18) (Accusation) **Candace Owens**: ["Responding to a commenter’s sarcastic questions about locking students..."](/statements/statement-721f4ba6803b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2)</summary>
+
+- [00:28:52](/episodes/ep-BvthGQw3_s0.md#t-00-28-52) (Accusation) **Candace Owens**: ["Owens accused TPUSA, Blake Neff and Andrew Kolvet of misrepresenting a..."](/statements/statement-e7bf80186153.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Blake Neff](/entities/person-blake-neff.md), [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+- [00:37:35](/episodes/ep-BvthGQw3_s0.md#t-00-37-12) (Claim) **Nampa Christian parent email author quoted in full (identity unverified)** (via read message): ["The parent email author personally knew of more than three students wh..."](/statements/statement-90266c56c795.md)
+  - Also about: [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (11)</summary>
+
+- [00:10:25](/episodes/ep-NNiCZk1cuzs.md#t-00-09-47) (Accusation) **Candace Owens** (via paraphrase): ["Owens disputed Kolvet's characterization that she and Kirk were no lon..."](/statements/statement-e138ebd0acea.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:18:00](/episodes/ep-NNiCZk1cuzs.md#t-00-18-00) (Opinion) **Candace Owens**: ["Owens speculated, “maybe he was the Groyper. Maybe Erika was the Groyp..."](/statements/statement-0aaa57178261.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Groyper movement](/entities/concept-groyper-movement.md)
+
+- [00:18:41](/episodes/ep-NNiCZk1cuzs.md#t-00-18-41) (Accusation) **Candace Owens**: ["Owens said the text thread proved Kolvet was a routine liar and mainta..."](/statements/statement-5f1c6e582018.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:21:10](/episodes/ep-NNiCZk1cuzs.md#t-00-20-42) (Accusation) **Candace Owens**: ["Owens accused the event’s promoters of dishonestly presenting a school..."](/statements/statement-3bed82785301.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+- [00:35:48](/episodes/ep-NNiCZk1cuzs.md#t-00-35-23) (Claim) **Candace Owens**: ["Owens said she learned Erika and Kolvet had a call with Empress Films ..."](/statements/statement-5fcb17f6e951.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Empress Films](/entities/org-empress-films.md), [Eben Davidson](/entities/person-eben-davidson.md)
+
+- [00:35:57](/episodes/ep-NNiCZk1cuzs.md#t-00-35-23) (Accusation) **Candace Owens** (via paraphrase): ["Owens said, allegedly, former Kolvet coworkers told her he normally ha..."](/statements/statement-8dc0a7665fe4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:43:37](/episodes/ep-NNiCZk1cuzs.md#t-00-43-04) (Opinion) **Candace Owens**: ["Owens characterized Empress Films as liberal, feminist and pro-LGBTQ a..."](/statements/statement-9023ca237599.md)
+  - Also about: [Empress Films](/entities/org-empress-films.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:00:08](/episodes/ep-NNiCZk1cuzs.md#t-01-00-02) (Accusation) **Candace Owens**: ["Owens accused Erika, Kolvet and Neff of sending people to attack those..."](/statements/statement-ef09b5579817.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:00:08](/episodes/ep-NNiCZk1cuzs.md#t-01-00-02) (Citation) **Mandy (Ep 389 viewer/commenter; identity unverified)** (via quoted post): ["The viewer Mandy cited Matthew 10:14, Mark 6:11 and Luke 9:5 as teachi..."](/statements/statement-d01637cfd814.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Bible](/entities/work-bible.md)
+
+- [01:00:45](/episodes/ep-NNiCZk1cuzs.md#t-01-00-45) (Opinion) **Candace Owens**: ["Owens accused Kolvet and Erika of selectively reading the Bible to emp..."](/statements/statement-f1b31e91b081.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Bible](/entities/work-bible.md)
+
+- [01:02:30](/episodes/ep-NNiCZk1cuzs.md#t-01-02-13) (Accusation) **Candace Owens**: ["Owens said she was revisiting her life and believed the attempts to tu..."](/statements/statement-398ee3c1566c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2)</summary>
+
+- [00:35:49](/episodes/ep-O4Zw3bCALjU.md#t-00-35-43) (Accusation) **Candace Owens**: ["Owens said her tribute mentioned that Charlie Kirk was attending Mass ..."](/statements/statement-17518504d213.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:53](/episodes/ep-O4Zw3bCALjU.md#t-00-43-44) (Accusation) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet's tweet asked why Katie Hobbs or other Democrats had not..."](/statements/statement-302b7439c6c9.md)
+  - Also about: [Katie Hobbs](/entities/person-katie-hobbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>

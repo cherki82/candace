@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 72 mentions"
+description: "Shawn Ryan (People) - 87 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41">2025-11-05 · 00:23:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-shawn-ryan-t-00-11-18">2026-09-09 · 00:11:18</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>72</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-shawn-ryan-t-00-31-58">2026-10-08 · 00:32:26</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -68,6 +68,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47" style="--pulse-height:30%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-shawn-ryan-t-00-47-31" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-shawn-ryan-t-00-11-18" style="--pulse-height:10%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-shawn-ryan-t-00-07-34" style="--pulse-height:40%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 4 mentions" title="2026-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-08-26" style="--pulse-height:80%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 8 mentions" title="2026-09-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-shawn-ryan-t-00-37-24" style="--pulse-height:10%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-shawn-ryan-t-00-28-07" style="--pulse-height:10%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-shawn-ryan-t-00-31-58" style="--pulse-height:10%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,6 +111,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47) | 3 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-shawn-ryan-t-00-47-31) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-shawn-ryan-t-00-11-18) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-shawn-ryan-t-00-07-34) | 4 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-08-26) | 8 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-shawn-ryan-t-00-37-24) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-shawn-ryan-t-00-28-07) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-shawn-ryan-t-00-31-58) | 1 |
 
 </details>
 </section>
@@ -117,7 +127,77 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:32:26](/episodes/ep-UAdBEXs7nNc.md#ent-person-shawn-ryan-t-00-31-58)**
+> "...to what Brian Harpole said on Shawn Ryan."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:28:07](/episodes/ep-yrg_-D6oNHE.md#ent-person-shawn-ryan-t-00-28-07)**
+> "...ry early on, Brian Harpole on Shawn Ryan in November of last year, and I'm going to let yo..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:37:24](/episodes/ep-5TTkMa49qj8.md#ent-person-shawn-ryan-t-00-37-24)**
+> "... Brian Harpole's narrative on Shawn Ryan's podcast where he pretends that he the fake messag..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (8 mentions)</summary>
+
+**[00:08:26](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-08-26)**
+> "...rpole was willing to speak to Sean Ryan on a podcast. He opened up. He talked about why w..."
+
+**[00:21:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-21-02)**
+> "...stated in a public podcast on Sean Ryan that he first had a meeting on September 10th."
+
+**[00:21:44](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-21-44)**
+> "...things together. Remember the Sean Ryan interview? But guess what? You guys know what he ..."
+
+**[00:27:02](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-26-55)**
+> "...d to do with that? He says to Sean Ryan, nothing, because it's not your text message."
+
+**[00:42:50](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-42-43)**
+> "... the text message to go on to Sean Ryan."
+
+**[00:42:56](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-42-43)**
+> "... Harpole before he goes on to Sean Ryan that he presents a message that is not his and mi..."
+
+**[00:43:33](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-43-21)**
+> "..., virtually everything I told Sean Ryan isn't accurate."
+
+**[00:45:47](/episodes/ep-bIuvTKlFeGo.md#ent-person-shawn-ryan-t-00-45-34)**
+> "... Or is Brian Harpole lying to Sean Ryan about that? Because now we know that that's just ..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (4 mentions)</summary>
+
+**[00:07:44](/episodes/ep-aLJhpxrakCU.md#ent-person-shawn-ryan-t-00-07-34)**
+> "...n Brian Harpole sat down with Shawn Ryan, Shawn Ryan went over the remarkable expertise of..."
+
+**[00:08:51](/episodes/ep-aLJhpxrakCU.md#ent-person-shawn-ryan-t-00-08-51)**
+> "...arpole) is submitting that to Shawn Ryan to tell the world just how overqualified his team..."
+
+**[00:26:20](/episodes/ep-aLJhpxrakCU.md#ent-person-shawn-ryan-t-00-26-12)**
+> "... misrepresented as his own on Shawn Ryan when he's like, what am I supposed to do with tha..."
+
+**[00:28:22](/episodes/ep-aLJhpxrakCU.md#ent-person-shawn-ryan-t-00-28-12)**
+> "...rian Harpole's appearance and Shawn Ryan that this message thread is specifically."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -518,7 +598,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <summary>Interviewed (3)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -535,6 +615,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:47:55](/episodes/ep-1FhY-koMuWM.md#t-00-47-31): “Also, it's interesting that Brian Harpole's claim, as he told Shawn Ryan, [unclear aside about pulling it from the episode], was that Charlie (Charlie Kirk) had no fears night before. But now Turning Point USA is disputing that.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:07:44](/episodes/ep-aLJhpxrakCU.md#t-00-07-34): “SWAT commanders who worked for the highest levels of government. Actually, I'm going to show you this clip because when Brian Harpole sat down with Shawn Ryan, Shawn Ryan went over the remarkable expertise of this security team.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:08:26](/episodes/ep-bIuvTKlFeGo.md#t-00-08-26): “But it's also interesting because Brian Harpole was willing to speak to Sean Ryan on a podcast. He opened up. He talked about why wouldn't you speak to the independent review if everything you say to Sean Ryan is true and above board and we are going to learn that it was not, as I said, but if everything you're saying is true and you have nothing to hide, Erika (Erika Kirk), don't come for my employees. ... That's when they started getting things together. Remember the Sean Ryan interview? But guess what? You guys know what he was talking about.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:28:07](/episodes/ep-yrg_-D6oNHE.md#t-00-28-07): “to misrepresent the text message to the public and making the public believe that the message was sent to Brian Harpole, that's A, and making the world believe that the text message was regarding the Losee Center rooftop. That was very early on, Brian Harpole on Shawn Ryan in November of last year, and I'm going to let you listen to that. ... We have some correspondence with the chief of the school on that day, on Monday before Charlie (Charlie Kirk) was killed and why this hadn't come out and why he won't stand up like a man and admit this, I don't know, but he's watching a bunch of men lose their careers and he's okay with it.”
 
 </details>
 
@@ -579,7 +662,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -595,6 +678,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:47:55](/episodes/ep-1FhY-koMuWM.md#t-00-47-31): “Also, it's interesting that Brian Harpole's claim, as he told Shawn Ryan, [unclear aside about pulling it from the episode], was that Charlie (Charlie Kirk) had no fears night before. But now Turning Point USA is disputing that.”
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:07:44](/episodes/ep-aLJhpxrakCU.md#t-00-07-34): “SWAT commanders who worked for the highest levels of government. Actually, I'm going to show you this clip because when Brian Harpole sat down with Shawn Ryan, Shawn Ryan went over the remarkable expertise of this security team.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:08:26](/episodes/ep-bIuvTKlFeGo.md#t-00-08-26): “But it's also interesting because Brian Harpole was willing to speak to Sean Ryan on a podcast. He opened up. He talked about why wouldn't you speak to the independent review if everything you say to Sean Ryan is true and above board and we are going to learn that it was not, as I said, but if everything you're saying is true and you have nothing to hide, Erika (Erika Kirk), don't come for my employees. ... That's when they started getting things together. Remember the Sean Ryan interview? But guess what? You guys know what he was talking about.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:28:07](/episodes/ep-yrg_-D6oNHE.md#t-00-28-07): “to misrepresent the text message to the public and making the public believe that the message was sent to Brian Harpole, that's A, and making the world believe that the text message was regarding the Losee Center rooftop. That was very early on, Brian Harpole on Shawn Ryan in November of last year, and I'm going to let you listen to that. ... We have some correspondence with the chief of the school on that day, on Monday before Charlie (Charlie Kirk) was killed and why this hadn't come out and why he won't stand up like a man and admit this, I don't know, but he's watching a bunch of men lose their careers and he's okay with it.”
 
 </details>
 
@@ -626,7 +712,42 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Shawn Ryan (5)</strong></summary>
+<summary><strong class="section-title">Statements by Shawn Ryan (2)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2)</summary>
+
+- [00:08:13](/episodes/ep-aLJhpxrakCU.md#t-00-08-09) [○] (Claim) ["In the interview clip, Shawn Ryan described a security-team member identified on..."](/statements/statement-3d1c25274e33.md)
+  - About: [Blake (Shawn Ryan interview security team member; identity unverified)](/entities/anon-src-aLJhpxrakCU-001.md)
+
+- [00:08:19](/episodes/ep-aLJhpxrakCU.md#t-00-08-09) [○] (Claim) ["In the Shawn Ryan interview clip, Ryan described Harpole’s team as including SEA..."](/statements/statement-0c85c8676103.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [United States Navy](/entities/org-united-states-navy.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Shawn Ryan (8)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:37:13](/episodes/ep-5TTkMa49qj8.md#t-00-36-41) (Accusation) **Candace Owens**: ["Owens alleged Turning Point did not participate in the UVU independent..."](/statements/statement-cdf1173e0ba6.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>
+
+- [00:08:26](/episodes/ep-bIuvTKlFeGo.md#t-00-08-26) (Opinion) **Candace Owens**: ["Owens contrasted Brian Harpole speaking on Shawn Ryan’s podcast with h..."](/statements/statement-12b0a2b37c09.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:42:36](/episodes/ep-bIuvTKlFeGo.md#t-00-42-04) (Accusation) **Candace Owens**: ["Owens accused TPUSA of coordinating with Brian Harpole before the Shaw..."](/statements/statement-d6fc0ba2f45b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

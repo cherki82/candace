@@ -1,6 +1,6 @@
 ---
 title: "TMZ"
-description: "TMZ (Organizations) - 45 mentions"
+description: "TMZ (Organizations) - 49 mentions"
 id: "org-tmz"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-tmz-t-00-39-23">2025-09-15 · 00:39:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-tmz-t-00-27-37">2026-09-08 · 00:27:37</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-tmz-t-00-14-19">2026-09-22 · 00:14:31</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -54,6 +54,8 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-tmz-t-00-18-53" style="--pulse-height:9%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-tmz-t-00-14-25" style="--pulse-height:9%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-tmz-t-00-27-37" style="--pulse-height:9%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-org-tmz-t-00-10-42" style="--pulse-height:18%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 2 mentions" title="2026-09-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-tmz-t-00-14-19" style="--pulse-height:18%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +80,8 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-tmz-t-00-18-53) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-tmz-t-00-14-25) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-tmz-t-00-27-37) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-tmz-t-00-10-42) | 2 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-tmz-t-00-14-19) | 2 |
 
 </details>
 </section>
@@ -89,7 +93,29 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:14:19](/episodes/ep-6XfDqKTdFKg.md#ent-org-tmz-t-00-14-19)**
+> "...mentioned this yesterday: the TMZ footage, which they for some reason omitted, actu..."
+
+**[00:14:31](/episodes/ep-6XfDqKTdFKg.md#ent-org-tmz-t-00-14-19)**
+> "It's 8.07 a.m. The TMZ footage, let's watch this, is from 8.07 a.m. He i..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2 mentions)</summary>
+
+**[00:10:54](/episodes/ep-BvthGQw3_s0.md#ent-org-tmz-t-00-10-42)**
+> "...ghborhood. He was captured on TMZ's footage."
+
+**[00:19:53](/episodes/ep-BvthGQw3_s0.md#ent-org-tmz-t-00-19-26)**
+> "... was what we were informed by TMZ, that they had footage 807 that showed him Tyler ..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -331,7 +357,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TMZ (4)</strong></summary>
+<summary><strong class="section-title">Statements about TMZ (6)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:14:19](/episodes/ep-6XfDqKTdFKg.md#t-00-14-19) (Claim) **Candace Owens**: ["Owens says TMZ footage shows the person she identifies as Tyler Robins..."](/statements/statement-bd0f2e1b397e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:10:54](/episodes/ep-BvthGQw3_s0.md#t-00-10-42) (Citation) **Candace Owens**: ["Owens said TMZ footage first showed Tyler Robinson walking in the neig..."](/statements/statement-ed510109dba8.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 236 mentions"
+description: "Tyler Bowyer (People) - 243 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-11-42">2026-08-21 · 00:11:55</a></strong></div>
-<div><span>Episodes</span><strong>63</strong></div>
-<div><span>Mentions</span><strong>236</strong></div>
-<div><span>Statements by</span><strong>13</strong></div>
-<div><span>Statements about</span><strong>81</strong></div>
-<div><span>Relationships</span><strong>66</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16">2026-10-07 · 00:46:39</a></strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>243</strong></div>
+<div><span>Statements by</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>88</strong></div>
+<div><span>Relationships</span><strong>68</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -99,6 +99,9 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-tyler-bowyer-t-00-34-01" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-tyler-bowyer-t-00-16-53" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-08-51" style="--pulse-height:12%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-bowyer-t-00-40-46" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-08-26" style="--pulse-height:29%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 5 mentions" title="2026-09-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -167,6 +170,9 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-tyler-bowyer-t-00-34-01) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-tyler-bowyer-t-00-16-53) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-08-51) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-bowyer-t-00-40-46) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-08-26) | 5 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16) | 1 |
 
 </details>
 </section>
@@ -178,7 +184,43 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (236)</strong></summary>
+<summary><strong class="section-title">Raw mentions (243)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:46:39](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16)**
+> "...g angle, as we told you, that Tyler Bowyer was allegedly telling prepping people that turnin..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (5 mentions)</summary>
+
+**[01:08:38](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-08-26)**
+> "He is, I call him one of Tyler Bowyer's guys, who was also present on that day. But you j..."
+
+**[01:20:57](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-20-26)**
+> "...been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money..."
+
+**[01:21:11](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-21-11)**
+> "... Kirk) was gearing up to fire Tyler Bowyer, the person who introduced him and Erika (Erika K..."
+
+**[01:21:24](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-21-11)**
+> "...(Charlie Kirk) wanted to fire Tyler Bowyer. Well, good news."
+
+**[01:21:32](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-21-11)**
+> "Tyler Bowyer is not fired because Charlie (Charlie Kirk)'s no ..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:41:10](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-bowyer-t-00-40-46)**
+> "...eir machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in respo..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -1376,7 +1418,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -1386,6 +1428,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 
 </details>
 
@@ -1523,6 +1566,19 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
+<summary>Operates (1)</summary>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Pardoned By (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
@@ -1587,7 +1643,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Referenced By (32)</summary>
+<summary>Referenced By (33)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (6)</summary>
@@ -1660,7 +1716,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -1670,6 +1726,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 
 </details>
 
@@ -1818,6 +1875,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
+- **[Turning Point Action](/entities/org-turning-point-action.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
+
+</details>
+
 - **[Donald J. Trump](/entities/person-donald-trump.md)** pardoned this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -1856,7 +1921,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tyler Bowyer (13)</strong></summary>
+<summary><strong class="section-title">Statements by Tyler Bowyer (14)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:41:22](/episodes/ep-O4Zw3bCALjU.md#t-00-41-22) [○] (Claim) ["Tyler Bowyer's tweet, as read by Owens, blamed the left for what happened at hea..."](/statements/statement-53b085dd37f3.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md), [Commit 100](/entities/concept-commit-100.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1945,7 +2018,43 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (81)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (88)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:46:39](/episodes/ep-yrg_-D6oNHE.md#t-00-46-16) (Prediction) **Candace Owens**: ["Owens said, "I do believe there’s going to be a housing angle," adding..."](/statements/statement-ef66db4a8773.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (5)</summary>
+
+- [01:08:26](/episodes/ep-bIuvTKlFeGo.md#t-01-08-26) (Claim) **Candace Owens** (via paraphrase): ["Owens said Maycee Crofts would work with longtime field head Andrew Sy..."](/statements/statement-2bdb522699e5.md)
+  - Also about: [Maycee Crofts](/entities/person-maycee-crofts.md), [Andrew Sypher](/entities/person-andrew-sypher.md)
+
+- [01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she heard rumblings from people inside TPUSA about missing ..."](/statements/statement-5a97d2fa5d83.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:21:11](/episodes/ep-bIuvTKlFeGo.md#t-01-21-11) (Claim) **Candace Owens** (via paraphrase): ["Owens said an unnamed person outside TPUSA who knew Charlie Kirk told ..."](/statements/statement-1d3b6f064b05.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:21:24](/episodes/ep-bIuvTKlFeGo.md#t-01-21-11) (Claim) **Candace Owens** (via paraphrase): ["Owens said Michael McCoy allegedly told people that Charlie Kirk wante..."](/statements/statement-9214e1a77a7c.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:21:32](/episodes/ep-bIuvTKlFeGo.md#t-01-21-11) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer remained at TPUSA under Erika Kirk and that Bo..."](/statements/statement-dd1b9301a5d4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:41:22](/episodes/ep-O4Zw3bCALjU.md#t-00-41-22) (Claim) **Tyler Bowyer** (via quoted tweet): ["Tyler Bowyer's tweet, as read by Owens, blamed the left for what happe..."](/statements/statement-53b085dd37f3.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Commit 100](/entities/concept-commit-100.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

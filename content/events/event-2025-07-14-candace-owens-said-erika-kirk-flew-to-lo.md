@@ -16,7 +16,7 @@ date: "2025-07-14"
 
 > Candace Owens said Erika Kirk flew to Long Beach with Katherine Locastro, Derek Niekerk, and Jonathan Barcelo.
 
-## Mentioned In (4 times)
+## Mentioned In (6 times)
 
 ### 1. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
 
@@ -49,3 +49,22 @@ date: "2025-07-14"
 <a href="https://www.youtube.com/watch?v=WoXd4oLwd3w&t=1184s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika travels aboard a private flight to Long Beach, California.
+
+### 5. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [01:01:20](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=3680s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Erika travels aboard a private flight to Long Beach, California, and she speaks at
+
+### 6. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:28:27](/episodes/ep-q4m-kGzvwjw.md#event-event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo-t-00-28-27) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1707s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> On July 14th, for whatever it's worth, Erika Kirk travels aboard a private flight to Long Beach,
+
+> **Date stated in this source:** “On July 14th; 2025 timeline”
+> **Date review note:** The July 14 private flight is the same Long Beach trip in the canonical event; source does not identify a companion in this passage.

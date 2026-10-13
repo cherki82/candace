@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 119 mentions"
+description: "Pro-Israel advocacy (Concepts) - 134 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13">2025-09-16 · 00:51:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-pro-israel-advocacy-t-00-08-49">2026-09-09 · 00:08:49</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>119</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-pro-israel-advocacy-t-01-11-53">2026-10-06 · 01:11:53</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>37</strong></div>
+<div><span>Statements about</span><strong>47</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -86,6 +86,15 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-pro-israel-advocacy-t-00-22-59" style="--pulse-height:25%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-pro-israel-advocacy-t-00-08-49" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-concept-pro-israel-advocacy-t-00-45-39" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-pro-israel-advocacy-t-01-03-32" style="--pulse-height:12%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-concept-pro-israel-advocacy-t-00-32-38" style="--pulse-height:12%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-pro-israel-advocacy-t-00-29-24" style="--pulse-height:12%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-concept-pro-israel-advocacy-t-01-01-35" style="--pulse-height:38%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-pro-israel-advocacy-t-00-29-59" style="--pulse-height:12%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-pro-israel-advocacy-t-00-10-32" style="--pulse-height:38%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-pro-israel-advocacy-t-00-18-40" style="--pulse-height:25%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-pro-israel-advocacy-t-01-11-13" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,6 +151,15 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15) | 8 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-pro-israel-advocacy-t-00-22-59) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-concept-pro-israel-advocacy-t-00-08-49) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-concept-pro-israel-advocacy-t-00-45-39) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-pro-israel-advocacy-t-01-03-32) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-concept-pro-israel-advocacy-t-00-32-38) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-pro-israel-advocacy-t-00-29-24) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-concept-pro-israel-advocacy-t-01-01-35) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-pro-israel-advocacy-t-00-29-59) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-pro-israel-advocacy-t-00-10-32) | 3 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-pro-israel-advocacy-t-00-18-40) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-pro-israel-advocacy-t-01-11-13) | 2 |
 
 </details>
 </section>
@@ -153,7 +171,97 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (119)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[01:11:43](/episodes/ep-0pSAhaAZz1w.md#ent-concept-pro-israel-advocacy-t-01-11-13)**
+> "... again is amazing. All of the pro-Israel accounts doing that again is amazing. I gotta tel..."
+
+**[01:11:53](/episodes/ep-0pSAhaAZz1w.md#ent-concept-pro-israel-advocacy-t-01-11-53)**
+> "... no choice but to abandon the pro-Israel cause. We are not going to compromise truth telli..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:18:48](/episodes/ep-ms5ChhZegRg.md#ent-concept-pro-israel-advocacy-t-00-18-40)**
+> "...same people who are radically pro-Israel, who were overwhelmed by the virtually non-existe..."
+
+**[00:18:58](/episodes/ep-ms5ChhZegRg.md#ent-concept-pro-israel-advocacy-t-00-18-40)**
+> "...ie Kirk) having abandoned the pro-Israel cause shortly before his death, facing all these ..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:10:53](/episodes/ep-q4m-kGzvwjw.md#ent-concept-pro-israel-advocacy-t-00-10-32)**
+> "...the one that flew out all the pro-Israel influencers to the Hamptons for that one ill-fate..."
+
+**[00:29:11](/episodes/ep-q4m-kGzvwjw.md#ent-concept-pro-israel-advocacy-t-00-29-11)**
+> "The speech is pro-Israel, and it's about a call to arms, despite what Char..."
+
+**[01:05:00](/episodes/ep-q4m-kGzvwjw.md#ent-concept-pro-israel-advocacy-t-01-04-45)**
+> "...with no choice but to ban the pro-Israel cause." That, yeah, I've realized the American fl..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:29:59](/episodes/ep-5TTkMa49qj8.md#ent-concept-pro-israel-advocacy-t-00-29-59)**
+> "...rships, Turning Point USA and pro-Israel causes. That's not the direction that the organiz..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:29:31](/episodes/ep-_Sq5RqP27NY.md#ent-concept-pro-israel-advocacy-t-00-29-24)**
+> "...e cope, particularly from the pro-Israel crowd,"
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[01:01:35](/episodes/ep-bIuvTKlFeGo.md#ent-concept-pro-israel-advocacy-t-01-01-35)**
+> "...show with and he is radically pro-Israel, radically pro-Israel."
+
+**[01:01:47](/episodes/ep-bIuvTKlFeGo.md#ent-concept-pro-israel-advocacy-t-01-01-35)**
+> "... that she gives a speech such pro-Israel about a call to arms despite what Charlie (Charli..."
+
+**[01:02:12](/episodes/ep-bIuvTKlFeGo.md#ent-concept-pro-israel-advocacy-t-01-01-35)**
+> "I would say pro-Israel."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:32:38](/episodes/ep-BvthGQw3_s0.md#ent-concept-pro-israel-advocacy-t-00-32-38)**
+> "...got a little aggressive, very pro-Israel. I mean."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[01:03:32](/episodes/ep-aLJhpxrakCU.md#ent-concept-pro-israel-advocacy-t-01-03-32)**
+> "...ow all of a sudden she's very pro-Israel and partnered with, um, the, what is it called? I..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:45:39](/episodes/ep-kn1E0scy9Wc.md#ent-concept-pro-israel-advocacy-t-00-45-39)**
+> "...i-Semitism unless you are the pro-Israel lobby in America and around the world."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -837,7 +945,66 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (37)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (47)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4)</summary>
+
+- [01:05:56](/episodes/ep-0pSAhaAZz1w.md#t-01-05-50) (Accusation) **Candace Owens**: ["Owens asserted that the interests aligned with the clipping campaigns ..."](/statements/statement-21f3355afad2.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md)
+
+- [01:08:12](/episodes/ep-0pSAhaAZz1w.md#t-01-07-51) (Opinion) **Foreign-interest disclaimer commenter (identity unverified)** (via read message): ["An unnamed viewer argued that anyone working on behalf of Israeli inte..."](/statements/statement-77230ee44a1f.md)
+
+- [01:10:48](/episodes/ep-0pSAhaAZz1w.md#t-01-10-30) (Accusation) **Candace Owens**: ["Owens alleged that pro-Israel accounts were again listing her sponsors..."](/statements/statement-0cdfaf9d74b3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:11:53](/episodes/ep-0pSAhaAZz1w.md#t-01-11-53) (Promise) **Candace Owens**: ["Owens pledged never to compromise truth telling to bend the knee to th..."](/statements/statement-3d17735e9ef0.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:18:48](/episodes/ep-ms5ChhZegRg.md#t-00-18-40) (Accusation) **Candace Owens**: ["Owens asked why people she described as radically pro-Israel, convince..."](/statements/statement-3c145cddc51d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [After-Action Report for Utah Valley University](/entities/work-uvu-after-action-report-2026.md)
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [01:05:00](/episodes/ep-q4m-kGzvwjw.md#t-01-04-45) (Opinion) **Charlie Kirk** (via read message): ["Charlie Kirk wrote that he had been left with no choice but to ban the..."](/statements/statement-dd372508cb66.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:29:59](/episodes/ep-5TTkMa49qj8.md#t-00-29-59) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Erika Kirk’s current unwillingness to criticize Is..."](/statements/statement-57f604224033.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:30:01](/episodes/ep-_Sq5RqP27NY.md#t-00-29-24) (Opinion) **Candace Owens**: ["Owens said pro-Israel neoconservatives ruined the MAGA movement and th..."](/statements/statement-4e2cfc8e1e53.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md), [Neoconservatism](/entities/concept-neoconservatism.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:45:50](/episodes/ep-kn1E0scy9Wc.md#t-00-45-39) (Accusation) **Candace Owens**: ["Owens accused the pro-Israel lobby of enacting a Holocaust in Palestin..."](/statements/statement-c368f5c949d9.md)
+  - Also about: [Palestine](/entities/gpe-palestine.md)
+
+- [00:49:16](/episodes/ep-kn1E0scy9Wc.md#t-00-49-16) (Accusation) **Candace Owens**: ["Owens accused the Israel lobby of having the power to get people cance..."](/statements/statement-eab43dedab32.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>

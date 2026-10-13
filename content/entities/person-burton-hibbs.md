@@ -1,6 +1,6 @@
 ---
 title: "Burton Hibbs"
-description: "Burton Hibbs (People) - 41 mentions"
+description: "Burton Hibbs (People) - 42 mentions"
 id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-32-55">2025-11-12 · 00:32:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-52-56">2026-09-03 · 00:52:56</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-burton-hibbs-t-00-48-34">2026-09-14 · 00:48:50</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 21 mentions" title="2026-09-01 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-03-05" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-burton-hibbs-t-00-48-34" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10) | 21 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-03-05) | 2 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-burton-hibbs-t-00-48-34) | 1 |
 
 </details>
 </section>
@@ -72,7 +74,15 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1 mentions)</summary>
+
+**[00:48:50](/episodes/ep-O4Zw3bCALjU.md#ent-person-burton-hibbs-t-00-48-34)**
+> "It was that Butch Hibbs was wearing also an identical outfit with s..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
@@ -414,7 +424,17 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Burton Hibbs (11)</strong></summary>
+<summary><strong class="section-title">Statements about Burton Hibbs (13)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2)</summary>
+
+- [00:48:34](/episodes/ep-O4Zw3bCALjU.md#t-00-48-34) (Claim) **Candace Owens**: ["Owens said the security team wore matching outfits and similar shoes, ..."](/statements/statement-9eb9602e3dc7.md)
+
+- [00:48:50](/episodes/ep-O4Zw3bCALjU.md#t-00-48-34) (Claim) **Candace Owens** (via paraphrase): ["Owens said correspondents claiming to work as electricians identified ..."](/statements/statement-b5b7c33a3ccb.md)
+  - Also about: [Electrical-hazard footwear correspondents in episode 386 (identities unverified)](/entities/anon-src-O4Zw3bCALjU-012.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (11)</summary>

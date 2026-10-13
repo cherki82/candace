@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 186 mentions"
+description: "Artificial intelligence (Concepts) - 204 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-09-15">2025-09-15 · 00:09:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16">2026-09-02 · 00:34:53</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>186</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#t-00-50-48">2026-10-05 · 00:51:08</a></strong></div>
+<div><span>Episodes</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>204</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -95,6 +95,13 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-9hRcfSrri70.md#t-00-42-55" style="--pulse-height:21%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 3 mentions" title="2026-08-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-06" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 7 mentions" title="2026-09-02 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#t-00-56-04" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#t-00-59-17" style="--pulse-height:14%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#t-00-25-08" style="--pulse-height:14%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 2 mentions" title="2026-09-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#t-00-43-43" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-30-46" style="--pulse-height:21%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#t-00-50-01" style="--pulse-height:29%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 4 mentions" title="2026-09-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-25-23" style="--pulse-height:36%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 5 mentions" title="2026-10-05 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -160,6 +167,13 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#t-00-42-55) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-15-06) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16) | 7 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#t-00-56-04) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#t-00-59-17) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#t-00-25-08) | 2 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#t-00-43-43) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-30-46) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#t-00-50-01) | 4 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-25-23) | 5 |
 
 </details>
 </section>
@@ -171,7 +185,96 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+<summary><strong class="section-title">Raw mentions (204)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (5 mentions)</summary>
+
+**[00:25:23](/episodes/ep-ms5ChhZegRg.md#t-00-25-23)**
+> "...o many people are just asking AI questions."
+
+**[00:25:31](/episodes/ep-ms5ChhZegRg.md#t-00-25-23)**
+> "We don't want AI answers. We can AI ourselves."
+
+**[00:25:35](/episodes/ep-ms5ChhZegRg.md#t-00-25-23)**
+> "...give your thinking over to an AI program. AI is just scraping the internet with an..."
+
+**[00:29:46](/episodes/ep-ms5ChhZegRg.md#t-00-29-19)**
+> "...ople take the time to send us AI searches or to say, oh, it's probably this person..."
+
+**[00:51:08](/episodes/ep-ms5ChhZegRg.md#t-00-50-48)**
+> "... that photo is real. It's not AI. That's all I'm going to say about that."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (4 mentions)</summary>
+
+**[00:50:01](/episodes/ep-5TTkMa49qj8.md#t-00-50-01)**
+> "... that the video is me through AI voice analysis on the YouTube and that he did con..."
+
+**[00:52:38](/episodes/ep-5TTkMa49qj8.md#t-00-52-38)**
+> "All right, you guys, AI is changing the game in so many ways, including h..."
+
+**[00:52:49](/episodes/ep-5TTkMa49qj8.md#t-00-52-38)**
+> "Scammers can use AI to craft the perfect document that they file with..."
+
+**[00:53:27](/episodes/ep-5TTkMa49qj8.md#t-00-53-18)**
+> "... you're already a victim, the AI threat is real."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:31:26](/episodes/ep-_Sq5RqP27NY.md#t-00-30-46)**
+> "...Donald Trump) could do was an AI photo of him hugging"
+
+**[00:40:00](/episodes/ep-_Sq5RqP27NY.md#t-00-40-00)**
+> "... Wear Forbidden makes all the AI videos that make us smile mocking neocons. And, l..."
+
+**[00:40:27](/episodes/ep-_Sq5RqP27NY.md#t-00-40-00)**
+> "...k investigation, but he did a AI video which really covered the basis on what took..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:43:49](/episodes/ep-_2DiIbfy4mU.md#t-00-43-43)**
+> "It's just so strange. People thought it was AI that I was trolling in yesterday's thumbnail and they were so shocked and they realized that no, this is real."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2 mentions)</summary>
+
+**[00:25:44](/episodes/ep-BvthGQw3_s0.md#t-00-25-08)**
+> "...a break. All right, you guys, AI has gone from something that we prompt to somethi..."
+
+**[00:25:58](/episodes/ep-BvthGQw3_s0.md#t-00-25-52)**
+> "...how do you stay employable as AI reshapes the workplace?"
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[00:59:56](/episodes/ep-NNiCZk1cuzs.md#t-00-59-17)**
+> "...e created needs to mock up an AI short. Disgusting demons."
+
+**[01:00:08](/episodes/ep-NNiCZk1cuzs.md#t-01-00-02)**
+> "...idden on X. He makes the best AI videos, and yes, it's like they all just wanted t..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:56:04](/episodes/ep-aLJhpxrakCU.md#t-00-56-04)**
+> "...otta make something, a little AI thing: Everybody Sues Candace. Feeling so bad for..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (7 mentions)</summary>
@@ -1035,7 +1138,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (31)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (32)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02) (Claim) **Candace Owens**: ["Owens says the photograph of Blake Neff with Jeremy Boreing shown in h..."](/statements/statement-fbc4c9f41b40.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>

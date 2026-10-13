@@ -1,6 +1,6 @@
 ---
 title: "Josef Mengele"
-description: "Josef Mengele (People) - 2 mentions"
+description: "Josef Mengele (People) - 3 mentions"
 id: "person-josef-mengele"
 type: "PERSON"
 categories:
@@ -17,11 +17,11 @@ Source: [United States Holocaust Memorial Museum: Josef Mengele](https://encyclo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-josef-mengele-t-00-37-51">2026-01-29 · 00:38:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-josef-mengele-t-00-37-51">2026-01-29 · 00:38:00</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-josef-mengele-t-00-39-15">2026-09-30 · 00:39:36</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -31,12 +31,14 @@ Source: [United States Holocaust Memorial Museum: Josef Mengele](https://encyclo
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-josef-mengele-t-00-37-51">Candace x Bassem Youssef | Candace Ep 298</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-josef-mengele-t-00-37-51" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-josef-mengele-t-00-39-15" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-josef-mengele-t-00-37-51) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-josef-mengele-t-00-39-15) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [United States Holocaust Memorial Museum: Josef Mengele](https://encyclo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:39:36](/episodes/ep-5TTkMa49qj8.md#ent-person-josef-mengele-t-00-39-15)**
+> "..., but they said she supported Josef Mengele."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -64,7 +74,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josef Mengele (3)</strong></summary>
+<summary><strong class="section-title">Statements about Josef Mengele (4)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:39:36](/episodes/ep-5TTkMa49qj8.md#t-00-39-15) (Claim) **Candace Owens**: ["Owens denied supporting Josef Mengele and said she had been banned fro..."](/statements/statement-534fed82fce2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>

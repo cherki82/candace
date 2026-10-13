@@ -11,11 +11,19 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (18 mentions)
+### Evidence (22 mentions)
+
+**[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
+
+- [01:02:28](/episodes/ep-0pSAhaAZz1w#t-01-02-28): _I'm sure they'll spin up a story about that. Maybe George (George Farmer), that feels like a George (George Farmer) story they'd spin up. Husband, her husband speaks Hebrew. He took a class that he had to take at Oxford. We were the first couple that was shamed for doing our homework at university. It makes me sick._
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
 - [00:27:51](/episodes/ep-5-HUyv9LyMg#t-00-27-51): _my husband George Farmer_
+
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:41:39](/episodes/ep-5TTkMa49qj8#t-00-41-39): _A secret Zionist. The Zionist behind me they're referring to is my husband. The proof that they have that he's a secret Zionist is they also led with George (George Farmer) speaks Hebrew._
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
@@ -49,6 +57,10 @@ object: "person-george-farmer"
 
 - [00:04:13](/episodes/ep-JrhGEm8MGRY#t-00-04-13): _Now, those names may be familiar to you. Now, I've told you guys the story a few times, but I met my husband rather serendipitously at an event hosted in London._
 
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [01:01:28](/episodes/ep-NNiCZk1cuzs#t-01-01-28): _Tivoli Wiley [viewer handle as transcribed; spelling unverified], I hope I'm saying that right, writes, and this, George (George Farmer), this is why we don't delete text messages. Yes, to my husband._
+
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:07:25](/episodes/ep-UYkXV9mYbT4#t-00-07-25): _Do you want to know how I know that it caused panic? Because the very next day on September 20th, Justin Streiff was contacting my husband several times while asking him if I had recorded that FaceTime call with Terrell (Terrell Farnsworth). ... It came across like an urgent matter. I was sitting in my living room. George (George Farmer) came to me and said, hey, I don't know what's going on, but like Justin Streiff is hitting me up. He's asking me if he recorded, what was he talking about?_
@@ -56,6 +68,10 @@ object: "person-george-farmer"
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:06:53](/episodes/ep-YeEtS7nix3o#t-00-06-53): _Candace and her husband allegedly previously met with Dugin in Italy. ... her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:23:21](/episodes/ep-_Sq5RqP27NY#t-00-23-21): _If George (George Farmer) told me to meet up with him or to pick something up or to do this, I just, I wouldn't ask questions. I would just do it again. ... I'm obviously I'm his wife. So it's different, but people in relationships are like that._
 
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 

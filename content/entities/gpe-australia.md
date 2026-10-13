@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 55 mentions"
+description: "Australia (Places) - 59 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52">2026-09-09 · 00:49:28</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-australia-t-01-05-28">2026-09-30 · 01:05:37</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,6 +59,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-australia-t-00-22-59" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-australia-t-00-49-16" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-australia-t-00-39-15" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +94,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-australia-t-00-22-59) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-australia-t-00-49-16) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-australia-t-00-39-15) | 2 |
 
 </details>
 </section>
@@ -99,7 +103,29 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:39:47](/episodes/ep-5TTkMa49qj8.md#ent-gpe-australia-t-00-39-15)**
+> "I'm banned from Australia for hatred towards the Jews, making a mockery, th..."
+
+**[01:05:37](/episodes/ep-5TTkMa49qj8.md#ent-gpe-australia-t-01-05-28)**
+> "...credit? Like, I'm banned from Australia. We can't just, we can't make me a Zionist over t..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:49:32](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-australia-t-00-49-16)**
+> "...tted a crime. I'm banned from Australia. It's the wildest thing ever."
+
+**[00:49:45](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-australia-t-00-49-16)**
+> "...y lobbied and I can't go into Australia. Okay. So look."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -416,7 +442,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Australia (9)</strong></summary>
+<summary><strong class="section-title">Statements about Australia (11)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:39:36](/episodes/ep-5TTkMa49qj8.md#t-00-39-15) (Claim) **Candace Owens**: ["Owens denied supporting Josef Mengele and said she had been banned fro..."](/statements/statement-534fed82fce2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Josef Mengele](/entities/person-josef-mengele.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:49:32](/episodes/ep-kn1E0scy9Wc.md#t-00-49-16) (Accusation) **Candace Owens**: ["Owens said she was banned from Australia despite never committing a cr..."](/statements/statement-c3e3efaa235e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>

@@ -1,0 +1,23 @@
+---
+title: "Enclave & Key has vice president Benjamin Goodman"
+description: "Evidence for the relationship: Enclave & Key has vice president Benjamin Goodman"
+relationship_id: "rel-963ea528f7ff"
+subject: "org-enclave-and-key"
+predicate: "has vice president"
+object: "person-benjamin-goodman"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Enclave & Key](/entities/org-enclave-and-key) has vice president [Benjamin Goodman](/entities/person-benjamin-goodman)
+
+### Evidence (1 mentions)
+
+**[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
+
+- [00:24:27](/episodes/ep-0pSAhaAZz1w#t-00-24-27): _The article continues. The Discord server doesn't specify who is paying elephant clipping or the other right-leaning political clipping operations, but Google Drive folders in each of the campaigns are filled with files uploaded by what appears to be three employees of Enclave and Key, a Las Vegas-based marketing company. Jules Katz, the chief of staff, Benjamin Goodman, a vice president of operations, and Jack O'Hara, the head of media production at an Enclave and Key subsidiary._
+
+### Related
+
+- [Enclave & Key](/entities/org-enclave-and-key)
+- [Benjamin Goodman](/entities/person-benjamin-goodman)

@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 391 mentions"
+description: "Jesus Christ (People) - 418 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-jesus-christ-t-00-06-37">2026-09-10 · 00:06:49</a></strong></div>
-<div><span>Episodes</span><strong>130</strong></div>
-<div><span>Mentions</span><strong>391</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-49-44">2026-10-08 · 00:50:01</a></strong></div>
+<div><span>Episodes</span><strong>143</strong></div>
+<div><span>Mentions</span><strong>418</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -166,6 +166,19 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jesus-christ-t-00-30-12" style="--pulse-height:9%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-jesus-christ-t-00-26-27" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-jesus-christ-t-00-06-37" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-26-23" style="--pulse-height:32%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 7 mentions" title="2026-09-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-jesus-christ-t-00-38-09" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-jesus-christ-t-01-00-02" style="--pulse-height:9%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-jesus-christ-t-00-54-46" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-jesus-christ-t-00-26-09" style="--pulse-height:9%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-47-35" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-jesus-christ-t-01-22-39" style="--pulse-height:14%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-jesus-christ-t-00-35-12" style="--pulse-height:9%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jesus-christ-t-01-02-20" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jesus-christ-t-00-31-53" style="--pulse-height:14%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-jesus-christ-t-00-35-29" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-jesus-christ-t-00-46-53" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-47-12" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -301,6 +314,19 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesus-christ-t-00-30-12) | 2 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-jesus-christ-t-00-26-27) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-jesus-christ-t-00-06-37) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-26-23) | 7 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-jesus-christ-t-00-38-09) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-jesus-christ-t-01-00-02) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-jesus-christ-t-00-54-46) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-jesus-christ-t-00-26-09) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-47-35) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-jesus-christ-t-01-22-39) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-jesus-christ-t-00-35-12) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jesus-christ-t-01-02-20) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jesus-christ-t-00-31-53) | 3 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-jesus-christ-t-00-35-29) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-jesus-christ-t-00-46-53) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-47-12) | 2 |
 
 </details>
 </section>
@@ -308,7 +334,153 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (391)</strong></summary>
+<summary><strong class="section-title">Raw mentions (418)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:47:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-47-12)**
+> "...St. Joan of Arc, pray for us. Christ is King."
+
+**[00:50:01](/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-49-44)**
+> "... for truth, for truth lies in Jesus Christ."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:47:29](/episodes/ep-yrg_-D6oNHE.md#ent-person-jesus-christ-t-00-46-53)**
+> "...totally agree. Agree, Christ (Jesus Christ) is King."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:35:53](/episodes/ep-0pSAhaAZz1w.md#ent-person-jesus-christ-t-00-35-29)**
+> "...o thousands of commitments to Christ."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:32:01](/episodes/ep-ms5ChhZegRg.md#ent-person-jesus-christ-t-00-31-53)**
+> "...nds of commitments to Christ (Jesus Christ), which is proof that preborn is not just saving ..."
+
+**[00:55:46](/episodes/ep-ms5ChhZegRg.md#ent-person-jesus-christ-t-00-55-26)**
+> "...retics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only..."
+
+**[00:56:45](/episodes/ep-ms5ChhZegRg.md#ent-person-jesus-christ-t-00-56-45)**
+> "...e been doing nonstop. Christ (Jesus Christ) is King indeed. The truth is King. Christ (Jesus..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[01:02:48](/episodes/ep-q4m-kGzvwjw.md#ent-person-jesus-christ-t-01-02-20)**
+> "Christ (Jesus Christ) is King. Wow. Is that the shooting I'm assuming ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:35:12](/episodes/ep-5TTkMa49qj8.md#ent-person-jesus-christ-t-00-35-12)**
+> "...o thousands of commitments to Christ, proof that preborn isn't just saving babies, it'..."
+
+**[01:05:28](/episodes/ep-5TTkMa49qj8.md#ent-person-jesus-christ-t-01-05-28)**
+> "Christ is—sorry, Christ is King. 4 p.m. Eastern on Frida..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:47:46](/episodes/ep-_Sq5RqP27NY.md#t-00-47-35)**
+> "Thank you for everything. God bless. Christ is king. Go Max. Thank you so much. I wouldn't even, by the way."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[01:22:52](/episodes/ep-bIuvTKlFeGo.md#ent-person-jesus-christ-t-01-22-39)**
+> "...agpole guy writes, John 14:6. Jesus said to him, 'I am the way, the truth and the lif..."
+
+**[01:23:01](/episodes/ep-bIuvTKlFeGo.md#ent-person-jesus-christ-t-01-22-39)**
+> "...the demonic forces of evil in Jesus's name. Amen."
+
+**[01:27:10](/episodes/ep-bIuvTKlFeGo.md#ent-person-jesus-christ-t-01-26-32)**
+> "...Point USA. Follow every lead. Christ is king. Thank you for forever going, Max."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (2 mentions)</summary>
+
+**[00:26:44](/episodes/ep-6XfDqKTdFKg.md#ent-person-jesus-christ-t-00-26-09)**
+> "...o thousands of commitments to Christ."
+
+**[00:52:54](/episodes/ep-6XfDqKTdFKg.md#ent-person-jesus-christ-t-00-52-51)**
+> "...ur truth will always prevail. Christ is King. Love to you, the team, the family. Go, M..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1 mentions)</summary>
+
+**[00:54:46](/episodes/ep-BvthGQw3_s0.md#ent-person-jesus-christ-t-00-54-46)**
+> "...y would someone as devoted to christ as Charlie (Charlie Kirk) be in purgatory? If tru..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[01:00:33](/episodes/ep-NNiCZk1cuzs.md#ent-person-jesus-christ-t-01-00-02)**
+> "and Jesus (Jesus Christ) is teaching about not forcing people to accept h..."
+
+**[01:04:02](/episodes/ep-NNiCZk1cuzs.md#ent-person-jesus-christ-t-01-04-02)**
+> "Collect them all. Christ (Jesus Christ) is king. We don't know now, but we know. And soo..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:38:20](/episodes/ep-aLJhpxrakCU.md#ent-person-jesus-christ-t-00-38-09)**
+> "...al church, we are the body of Christ and we need to walk that walk."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (7 mentions)</summary>
+
+**[00:26:34](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-26-23)**
+> "...nds of commitments to Christ (Jesus Christ), proof that preborn isn't just saving babies, it..."
+
+**[00:30:30](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-30-30)**
+> "...le says to forgive as Christ (Jesus Christ) forgave, but Christ (Jesus Christ) doesn't forgi..."
+
+**[00:34:34](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-34-34)**
+> "...t, then you don't like Jesus (Jesus Christ), I guess.' It's so despicable what they are doin..."
+
+**[00:42:25](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-42-25)**
+> "...hink crossing out the name of Jesus Christ will silence Christians, history has already prov..."
+
+**[00:52:12](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-52-06)**
+> "...service, you know, to Christ (Jesus Christ) and ultimately to his family and to his friends."
+
+**[00:55:29](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-54-54)**
+> "...your team. Beautiful. Christ (Jesus Christ) is king."
+
+**[00:56:18](/episodes/ep-O4Zw3bCALjU.md#ent-person-jesus-christ-t-00-56-18)**
+> "...ower of trust in God. Christ (Jesus Christ) is King. Yeah, and it's sad to think about his l..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -2137,7 +2309,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jesus Christ (4)</strong></summary>
+<summary><strong class="section-title">Statements about Jesus Christ (5)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:41:58](/episodes/ep-O4Zw3bCALjU.md#t-00-41-58) (Promise) **Erika Kirk** (via quoted tweet): ["A tweet posted under Erika Kirk's name, which Owens suspected might be..."](/statements/statement-b149f7939d34.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

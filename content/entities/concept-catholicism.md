@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 248 mentions"
+description: "Catholicism (Concepts) - 259 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-28">2025-10-02 · 00:03:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#t-00-49-30">2026-09-03 · 00:49:57</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>248</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-catholicism-t-00-55-31">2026-10-01 · 00:56:02</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>259</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -102,6 +102,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-concept-catholicism-t-00-42-32" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-catholicism-t-01-03-35" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#t-00-49-30" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-catholicism-t-00-35-43" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-catholicism-t-00-36-56" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-concept-catholicism-t-00-54-46" style="--pulse-height:12%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 3 mentions" title="2026-09-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-catholicism-t-00-06-04" style="--pulse-height:16%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 4 mentions" title="2026-09-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-catholicism-t-00-55-31" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -175,6 +180,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-concept-catholicism-t-00-42-32) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-catholicism-t-01-03-35) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-concept-catholicism-t-00-35-43) | 2 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-catholicism-t-00-36-56) | 1 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-concept-catholicism-t-00-54-46) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-catholicism-t-00-06-04) | 4 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-catholicism-t-00-55-31) | 1 |
 
 </details>
 </section>
@@ -186,7 +196,65 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (248)</strong></summary>
+<summary><strong class="section-title">Raw mentions (259)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:56:02](/episodes/ep-q4m-kGzvwjw.md#ent-concept-catholicism-t-00-55-31)**
+> "I don't believe in a coincidence. I actually am not allowed to believe in coincidence. I'm Catholic. We believe in providence."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (4 mentions)</summary>
+
+**[00:06:04](/episodes/ep-5TTkMa49qj8.md#ent-concept-catholicism-t-00-06-04)**
+> "...w. That Erica (Erika Kirk) is Catholic. It's a personal gripe, I will admit it, the earl..."
+
+**[00:06:20](/episodes/ep-5TTkMa49qj8.md#ent-concept-catholicism-t-00-06-04)**
+> "...n the article, an evangelical Catholic hybrid. It reads, quote, across hours of intervie..."
+
+**[00:06:34](/episodes/ep-5TTkMa49qj8.md#ent-concept-catholicism-t-00-06-04)**
+> "... she describes as a hybrid of Catholicism that she was raised with and the evangelical Chri..."
+
+**[00:06:49](/episodes/ep-5TTkMa49qj8.md#ent-concept-catholicism-t-00-06-49)**
+> "...nse off the bat, you're not a Catholic evangelical hybrid, because you can't be, you eit..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (3 mentions)</summary>
+
+**[00:54:46](/episodes/ep-BvthGQw3_s0.md#ent-concept-catholicism-t-00-54-46)**
+> "...e for the rest of us. Uh, the catholic belief if Charlie (Charlie Kirk) died he was not ..."
+
+**[00:55:13](/episodes/ep-BvthGQw3_s0.md#ent-concept-catholicism-t-00-54-46)**
+> "Of Catholicism, I sensed, as I was telling you, the dreams that ..."
+
+**[00:55:22](/episodes/ep-BvthGQw3_s0.md#ent-concept-catholicism-t-00-55-22)**
+> "...ow I felt I am not giving you Catholic instruction and further questions that you have y..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:37:25](/episodes/ep-aLJhpxrakCU.md#ent-concept-catholicism-t-00-36-56)**
+> "... right, you guys, if you're a Catholic watching right now, you should know this. Our chu..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:35:49](/episodes/ep-O4Zw3bCALjU.md#ent-concept-catholicism-t-00-35-43)**
+> "...ke the next step and become a Catholic, that he was attending Mass. And then you all cal..."
+
+**[00:57:10](/episodes/ep-O4Zw3bCALjU.md#ent-concept-catholicism-t-00-57-00)**
+> "...isode is infuriating. My deep Catholic faith is fully intact, sweetheart."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -1279,7 +1347,29 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (21)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (25)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3)</summary>
+
+- [00:06:13](/episodes/ep-5TTkMa49qj8.md#t-00-06-04) (Claim) **Candace Owens**: ["Owens said Erika Kirk attends Mass every Sunday and travels with a pri..."](/statements/statement-b5ae64851a3b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:06:34](/episodes/ep-5TTkMa49qj8.md#t-00-06-04) (Claim) **Clara Molot** (via quoted article): ["Molot wrote that Erika Kirk described her faith as a hybrid of the Cat..."](/statements/statement-63a588c082e9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Evangelicalism](/entities/concept-evangelicalism.md)
+
+- [00:06:49](/episodes/ep-5TTkMa49qj8.md#t-00-06-49) (Opinion) **Candace Owens**: ["Owens argued that one cannot be a Catholic-evangelical hybrid because ..."](/statements/statement-4142925632f8.md)
+  - Also about: [Evangelicalism](/entities/concept-evangelicalism.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:35:49](/episodes/ep-O4Zw3bCALjU.md#t-00-35-43) (Accusation) **Candace Owens**: ["Owens said her tribute mentioned that Charlie Kirk was attending Mass ..."](/statements/statement-17518504d213.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

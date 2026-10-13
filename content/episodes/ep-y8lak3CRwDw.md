@@ -427,7 +427,7 @@ youtube_url: "https://www.youtube.com/watch?v=y8lak3CRwDw"
 - **2012-07**: [Erika Frantzve appeared in Emerson Drive's She's My Kind of Crazy music video.](/events/event-2012-07-erika-frantzve-appeared-in-emerson-drive.md)
 - **2012-11**: [Erika Kirk began the Romanian Angels Project in November 2012; an earlier source gave late 2012 or early 2013.](/events/event-2012-11-erika-kirk-began-the-romanian-angels-pro.md)
 - **2012**: [Everyday Heroes Like You visited the Black Sea Air Support Team in Constanta; the transcript gives conflicting recollections of 2012 and 2013.](/events/event-2012-everyday-heroes-like-you-visited-the-bla.md)
-- **2017-10-01**: [Las Vegas mass shooting by Stephen Paddock kills 58 people](/events/event-2017-10-01-las-vegas-mass-shooting-by-stephen-paddock-kills-5.md)
+- **2017-10-01**: [Las Vegas mass shooting at the Route 91 Harvest festival by Stephen Paddock. Earlier sources reported 58 deaths; Owens cites 60 in this episode.](/events/event-2017-10-01-las-vegas-mass-shooting-by-stephen-paddock-kills-5.md)
 - **2018-11-07**: [Thousand Oaks Borderline Bar shooting by Ian Long kills 12](/events/event-2018-11-07-thousand-oaks-borderline-bar-shooting-by-ian-long.md)
 - **2020**: [Erika Kirk gave a 2020 interview discussing her past, including her isolation and time in Romania.](/events/event-2020-erika-kirk-gave-an-interview-reflecting-.md)
 - **2023-03-27**: [Transgender shooter kills six at Covenant Christian elementary school in Nashville](/events/event-2023-03-27-transgender-shooter-kills-six-at-covenant-christia.md)

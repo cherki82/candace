@@ -1,6 +1,6 @@
 ---
 title: "Orem, Utah"
-description: "Orem, Utah (Places) - 39 mentions"
+description: "Orem, Utah (Places) - 43 mentions"
 id: "gpe-orem-utah"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [City of Orem official website](https://orem.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-20-31">2025-09-16 · 00:20:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-36-09">2026-09-09 · 00:36:09</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#t-00-47-24">2026-09-25 · 00:47:38</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -52,6 +52,9 @@ Source: [City of Orem official website](https://orem.gov/)
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-17-09" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-orem-utah-t-00-36-15" style="--pulse-height:17%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#t-00-35-24" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#t-00-22-23" style="--pulse-height:17%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-08-29" style="--pulse-height:33%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-00-47-24" style="--pulse-height:17%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +77,9 @@ Source: [City of Orem official website](https://orem.gov/)
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-17-09) | 4 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-orem-utah-t-00-36-15) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-35-24) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#t-00-22-23) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-00-47-24) | 1 |
 
 </details>
 </section>
@@ -85,7 +91,34 @@ Source: [City of Orem official website](https://orem.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:08:29](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29)**
+> "...ke that three-hour drive from Orem and be down in Panguitch, which that came with a ..."
+
+**[00:17:42](/episodes/ep-_Sq5RqP27NY.md#t-00-17-16)**
+> "...ck Car Wash that's located in Orem. The shopping center surveillance footage then ba..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:47:38](/episodes/ep-bIuvTKlFeGo.md#t-00-47-24)**
+> "Orem is not within five miles of the Provo Airport air..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:22:23](/episodes/ep-kn1E0scy9Wc.md#t-00-22-23)**
+> "...man worked locally out of the Orem police department. I don't know. I would like to ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
@@ -340,7 +373,23 @@ Source: [City of Orem official website](https://orem.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Orem, Utah (3)</strong></summary>
+<summary><strong class="section-title">Statements about Orem, Utah (5)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:08:29](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29) (Claim) **Candace Owens**: ["Owens said the Panguitch receipt led her team to conclude that somethi..."](/statements/statement-939971f692b7.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dairy Queen](/entities/org-dairy-queen.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [00:47:24](/episodes/ep-bIuvTKlFeGo.md#t-00-47-24) (Claim) **Anonymous Source #14 (Ep bIuvTKlFeGo)** (via quoted document): ["The project team’s basic research found drone restrictions within a fi..."](/statements/statement-ca458902926a.md)
+  - Also about: [Provo Airport](/entities/org-provo-airport.md), [Federal Aviation Administration](/entities/org-faa.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>

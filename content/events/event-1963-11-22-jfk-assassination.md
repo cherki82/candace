@@ -18,7 +18,7 @@ date: "1963-11-22"
 
 > President John F. Kennedy assassinated in Dallas, Texas
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. Charlie Ripped A Hole In Reality | Candace Ep 253
 
@@ -44,15 +44,7 @@ date: "1963-11-22"
 
 > s missed me because I definitely missed you more. And I feel so much better after getting out to the mountains. I've now, I think, officially accepted that Charlie is not coming back. A
 
-### 4. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
-
-**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [01:10:36](/episodes/ep-9k2xrAC0H88.md#event-event-1963-11-22-jfk-assassination-t-00-55-37) 
-<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=4236s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
-
-> maybe JFK really was just shot by Lee Harvey Oswald
-
-### 5. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 4. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:00:03](/episodes/ep-JQjCAsfoXEE.md#event-event-1963-11-22-jfk-assassination-t-00-00-00) 
@@ -63,7 +55,7 @@ date: "1963-11-22"
 > **Date stated in this source:** “1963”
 > **Date review note:** The transcript gives year precision only; the canonical exact date is retained from the JFK Library.
 
-### 6. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
+### 5. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:01:31](/episodes/ep-Kmt6HgRjckU.md#event-event-1963-11-22-jfk-assassination-t-00-01-20) 
@@ -71,7 +63,7 @@ date: "1963-11-22"
 
 > regarding John F. Kennedy's assassination down in Dallas.
 
-### 7. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
+### 6. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 **Timestamp:** [00:42:30](/episodes/ep-pc3pxRyNFZk.md#event-event-1963-11-22-jfk-assassination-t-00-42-18) 
@@ -81,3 +73,22 @@ date: "1963-11-22"
 
 > **Date stated in this source:** “1963”
 > **Date review note:** Transcript gives year precision; canonical exact date is retained from the established event.
+
+### 7. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
+
+**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
+**Timestamp:** [00:56:03](/episodes/ep-9k2xrAC0H88.md#event-event-1963-11-22-jfk-assassination-t-00-55-37) 
+<a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=3363s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> But he peeked when he said, maybe JFK really was just shot by Lee Harvey Oswald.
+
+### 8. COVER UP! The Mysterious Death Of A Whistleblower. The UVU R...
+
+**Episode:** [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md)
+**Timestamp:** [00:04:34](/episodes/ep-ms5ChhZegRg.md#t-00-04-34) 
+<a href="https://www.youtube.com/watch?v=ms5ChhZegRg&t=274s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> at least since the JFK assassination, right?
+
+> **Date stated in this source:** “since the JFK assassination (no date stated in this episode)”
+> **Date review note:** Canonical date retained from existing JFK Library enrichment; current source is an undated historical reference. A second existing JFK assassination record is a potential duplicate for later review; no duplicate created here.

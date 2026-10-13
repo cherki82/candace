@@ -1,6 +1,6 @@
 ---
 title: "James Kaddis"
-description: "James Kaddis (People) - 11 mentions"
+description: "James Kaddis (People) - 14 mentions"
 id: "person-james-kaddis"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-james-kaddis-t-00-30-35">2026-05-27 · 00:30:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-james-kaddis-t-00-03-42">2026-09-01 · 00:03:54</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-28-27">2026-10-01 · 00:28:58</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,8 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-james-kaddis-t-00-36-10" style="--pulse-height:20%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-james-kaddis-t-00-58-53" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-james-kaddis-t-00-03-42" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-01-00-59" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-28-27" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-james-kaddis-t-00-36-10) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-james-kaddis-t-00-58-53) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-james-kaddis-t-00-03-42) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27) | 1 |
 
 </details>
 </section>
@@ -63,7 +67,26 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:28:58](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27)**
+> "And she speaks at James Caddis' Calvary Chapel Church for the Women's Summer of Psalms retreat. She's not experiencing the same anti-Israel feeling as her husband, at least not in her speech."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[01:01:20](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59)**
+> "Like I said, President Trump (Donald J. Trump) is in the call. OK, he says on his show he's going to stop covering the Epstein (Jeffrey Epstein) story on the 14th. Erika (Erika Kirk) travels aboard a private flight to Long Beach, California, and she speaks at James Caddis's Calvary Chapel Church."
+
+**[01:01:33](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59)**
+> "That's the James Caddis."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -199,9 +222,10 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 </details>
 
 - **[Calvary Chapel Signal Hill](/entities/org-calvary-chapel-signal-hill.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:58](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27): “And she speaks at James Caddis' Calvary Chapel Church for the Women's Summer of Psalms retreat. She's not experiencing the same anti-Israel feeling as her husband, at least not in her speech.”
 
 </details>
 
@@ -211,9 +235,10 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 <summary>Worked With (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. ... He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling fashion brand that she has, Bible in 365.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:01:20](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59): “Like I said, President Trump (Donald J. Trump) is in the call. OK, he says on his show he's going to stop covering the Epstein (Jeffrey Epstein) story on the 14th. Erika (Erika Kirk) travels aboard a private flight to Long Beach, California, and she speaks at James Caddis's Calvary Chapel Church. ... That's the James Caddis. ... You see him rolling with her to the court hearing. He's the one that she does the show with and he is radically pro-Israel, radically pro-Israel.”
 
 </details>
 
@@ -270,9 +295,10 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 </details>
 
 - **[Calvary Chapel Signal Hill](/entities/org-calvary-chapel-signal-hill.md)** has pastor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:28:58](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27): “And she speaks at James Caddis' Calvary Chapel Church for the Women's Summer of Psalms retreat. She's not experiencing the same anti-Israel feeling as her husband, at least not in her speech.”
 
 </details>
 
@@ -281,7 +307,15 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about James Kaddis (2)</strong></summary>
+<summary><strong class="section-title">Statements about James Kaddis (3)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:01:20](/episodes/ep-bIuvTKlFeGo.md#t-01-00-59) (Claim) **Candace Owens**: ["Owens said Erika Kirk took a private flight to Long Beach and spoke at..."](/statements/statement-20fc8c87547c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Calvary Chapel Signal Hill](/entities/org-calvary-chapel-signal-hill.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

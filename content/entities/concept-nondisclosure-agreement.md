@@ -1,6 +1,6 @@
 ---
 title: "Non-disclosure agreement"
-description: "Non-disclosure agreement (Concepts) - 16 mentions"
+description: "Non-disclosure agreement (Concepts) - 19 mentions"
 id: "concept-nondisclosure-agreement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-nondisclosure-agreement-t-00-55-48">2025-11-06 · 00:56:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-23-09">2026-07-29 · 00:23:39</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-nondisclosure-agreement-t-00-01-24">2026-10-05 · 00:02:26</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-nondisclosure-agreement-t-00-39-28" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 4 mentions" title="2026-07-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-nondisclosure-agreement-t-00-41-10" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-23-09" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-nondisclosure-agreement-t-00-01-24" style="--pulse-height:75%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-nondisclosure-agreement-t-00-39-28) | 4 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-concept-nondisclosure-agreement-t-00-41-10) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-23-09) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-nondisclosure-agreement-t-00-01-24) | 3 |
 
 </details>
 </section>
@@ -72,7 +74,21 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:01:35](/episodes/ep-ms5ChhZegRg.md#ent-concept-nondisclosure-agreement-t-00-01-24)**
+> "...for me under duress and under NDA. Here are the themes from this week."
+
+**[00:01:48](/episodes/ep-ms5ChhZegRg.md#ent-concept-nondisclosure-agreement-t-00-01-24)**
+> "It's not just the NDAs that are a problem. It's so much darker. Candace ..."
+
+**[00:02:26](/episodes/ep-ms5ChhZegRg.md#ent-concept-nondisclosure-agreement-t-00-01-24)**
+> "...bly, and they have all signed NDAs, and they legally cannot speak out."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>

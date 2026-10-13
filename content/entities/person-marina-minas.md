@@ -1,6 +1,6 @@
 ---
 title: "Marina Minas"
-description: "Marina Minas (People) - 17 mentions"
+description: "Marina Minas (People) - 18 mentions"
 id: "person-marina-minas"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-32-34">2026-01-22 · 00:32:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01">2026-07-29 · 00:00:23</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-37-01">2026-10-01 · 00:37:11</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-marina-minas-t-00-25-07" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-marina-minas-t-00-32-20" style="--pulse-height:75%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-37-01" style="--pulse-height:25%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-marina-minas-t-00-25-07) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-marina-minas-t-00-32-20) | 3 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:37:11](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01)**
+> "Marina Mina (TPUSA CMO; name spelling unverified) is the CMO of Turning Point USA is involved with the organization of this shoot. On August 15th through to August 17th, we know that that was a Turning Point USA Aspen Investor meeting. We're told that that's when Charlie (Charlie Kirk) just appointed Erika (Erika Kirk) to take over if he dies unexpectedly."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -217,12 +227,13 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “Marina Minas, the CMO over at Turning Point USA”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:32:20](/episodes/ep-HZvwbfePe7o.md#t-00-32-20): “My source was pretty solid. I will say that I said received a tip from someone in Andrew (Andrew Kolvet)'s inner circle that he, along with Turning Point in-house lawyer, plus the CMO Marina Minas are headed to the White House today.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:37:11](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01): “Marina Mina (TPUSA CMO; name spelling unverified) is the CMO of Turning Point USA is involved with the organization of this shoot. On August 15th through to August 17th, we know that that was a Turning Point USA Aspen Investor meeting. We're told that that's when Charlie (Charlie Kirk) just appointed Erika (Erika Kirk) to take over if he dies unexpectedly.”
 
 </details>
 
@@ -241,12 +252,13 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “Marina Minas, the CMO over at Turning Point USA”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:32:20](/episodes/ep-HZvwbfePe7o.md#t-00-32-20): “My source was pretty solid. I will say that I said received a tip from someone in Andrew (Andrew Kolvet)'s inner circle that he, along with Turning Point in-house lawyer, plus the CMO Marina Minas are headed to the White House today.”
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:37:11](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01): “Marina Mina (TPUSA CMO; name spelling unverified) is the CMO of Turning Point USA is involved with the organization of this shoot. On August 15th through to August 17th, we know that that was a Turning Point USA Aspen Investor meeting. We're told that that's when Charlie (Charlie Kirk) just appointed Erika (Erika Kirk) to take over if he dies unexpectedly.”
 
 </details>
 
@@ -276,7 +288,15 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Marina Minas (5)</strong></summary>
+<summary><strong class="section-title">Statements about Marina Minas (6)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:36:50](/episodes/ep-q4m-kGzvwjw.md#t-00-36-17) (Claim) **Candace Owens**: ["Owens said Erika Kirk had a family photo shoot August 14, with TPUSA C..."](/statements/statement-005e858b79b9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 66 mentions"
+description: "Alex Clark (People) - 80 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12">2025-09-22 · 00:57:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-alex-clark-t-00-37-46">2026-08-31 · 00:37:57</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-alex-clark-t-00-18-41">2026-10-01 · 00:18:41</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>80</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -60,6 +60,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40" style="--pulse-height:10%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-alex-clark-t-00-37-46" style="--pulse-height:10%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-00-20" style="--pulse-height:80%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 8 mentions" title="2026-09-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-alex-clark-t-00-56-08" style="--pulse-height:30%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-alex-clark-t-01-00-45" style="--pulse-height:10%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-alex-clark-t-00-18-41" style="--pulse-height:10%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +98,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-alex-clark-t-00-37-46) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-00-20) | 8 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-alex-clark-t-00-56-08) | 3 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-alex-clark-t-01-00-45) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-alex-clark-t-00-18-41) | 1 |
 
 </details>
 </section>
@@ -105,7 +113,66 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:18:41](/episodes/ep-q4m-kGzvwjw.md#ent-person-alex-clark-t-00-18-41)**
+> "...rs. May vary on availability. Alex Clark, Riley (Riley Gaines), Morgan McMichael, Benny Jo..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[01:01:19](/episodes/ep-NNiCZk1cuzs.md#ent-person-alex-clark-t-01-00-45)**
+> "Trust Alex Clark."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3 mentions)</summary>
+
+**[00:56:08](/episodes/ep-kn1E0scy9Wc.md#ent-person-alex-clark-t-00-56-08)**
+> "Different message coming from Alex Clark now or guess whoever she's sitting down with who ..."
+
+**[00:57:26](/episodes/ep-kn1E0scy9Wc.md#ent-person-alex-clark-t-00-57-26)**
+> "...irst sent out the troops, the Alex Clark types, um, because she likes to keep her hands cl..."
+
+**[01:04:37](/episodes/ep-kn1E0scy9Wc.md#ent-person-alex-clark-t-01-04-15)**
+> "I don't think anybody watches Alex Clark and goes, hmm, that's a well-rounded Christian gi..."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (8 mentions)</summary>
+
+**[00:00:30](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-00-20)**
+> "...ther. But go on, go on, Alex (Alex Clark)."
+
+**[00:00:46](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-00-46)**
+> "...g. I have to be honest, Alex (Alex Clark), I thought that you might have been headed somew..."
+
+**[00:25:46](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-25-46)**
+> "Alex Clark decided to release a whole episode to try to use ..."
+
+**[00:29:44](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-29-17)**
+> "... greater example of this than Alex Clark clearly planning to drop this trailer for an epis..."
+
+**[00:35:43](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-35-43)**
+> "... I do want to say this, Alex (Alex Clark), I forgive you. How about that?"
+
+**[00:36:16](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-36-16)**
+> "... day. So I forgive you, Alex (Alex Clark), for being increasingly irrelevant. I'm sorry th..."
+
+**[00:37:51](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-37-22)**
+> "...Kirk). Okay. It's better than Alex Clark's episode. I don't particularly think it's a nice s..."
+
+**[00:57:10](/episodes/ep-O4Zw3bCALjU.md#ent-person-alex-clark-t-00-57-00)**
+> "...ska Dog Lady writes, oh, that Alex Clark episode is infuriating. My deep Catholic faith is..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -492,27 +559,56 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:30:51](/episodes/ep-KpxIBWkNsSs.md#t-00-30-33): “But she wrote this, Nick Shirley is a real journalist. Candace Owens is not. Oh, OK. So we're in a podcast.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:48:14](/episodes/ep-YeEtS7nix3o.md#t-00-47-49): “here's what she replied with ... I'd worry less about ours and more about the fact that yours seems to consist primarily of leftist hate watching and Russian bots.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:18:12](/episodes/ep-JQjCAsfoXEE.md#t-00-17-32): “Alex Clark lies; I get attacked. I'm telling the truth. Turning Point knows it, but they kind of allow this like Catholic thing—lie to flow. And the influencers are allowed to lie.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:00:39](/episodes/ep-O4Zw3bCALjU.md#t-00-00-39): “How can I ever forgive someone like Candace Owens?”
 
 </details>
 
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:47](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Alex Clark.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:36:16](/episodes/ep-O4Zw3bCALjU.md#t-00-36-16): “Evangelical and Judeo-hyphen-Christian. We remember. The internet remembers how this all started. You have never been on my radar. I don't find you to be interesting. It's very obvious to me you're a mean girl, and you have since dedicated your time to trying to host all of these experts to come speak about me on your show. We've largely ignored it because it's irrelevant to what we're trying to do, which is to figure out what happened to Charlie Kirk on that day. So I forgive you, Alex (Alex Clark), for being increasingly irrelevant. I'm sorry that...”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 01:04:37](/episodes/ep-kn1E0scy9Wc.md#t-01-04-15): “I don't think anybody watches Alex Clark and goes, hmm, that's a well-rounded Christian girl who's definitely telling. telling me that i um the truth about what i should be following what i should be pursuing how wild to say it's a form of gnosticism to not believe the cia like it's like the fbi no you shouldn't seek hidden knowledge you shouldn't seek the epstein files that's hidden knowledge that's the form of not it's gnosticism these people are crazy turning point is ghetto tpus is ghetto now i don't tell you guys it's just a fact”
+
+</details>
+
+- **[Alaska Dog Lady (commenter; identity unverified)](/entities/anon-src-HGtMfbePDKk-012.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:57:10](/episodes/ep-O4Zw3bCALjU.md#t-00-57-00): “Um, Alaska Dog Lady writes, oh, that Alex Clark episode is infuriating. My deep Catholic faith is fully intact, sweetheart. I just don't buy the fed slop regarding Charlie (Charlie Kirk)'s murder. I'm not seeking secret scriptures. I just know the government lies to us. They are so evil.”
+
+</details>
+
+- **[Commenter Colleen in episode 386 (identity unverified)](/entities/anon-src-O4Zw3bCALjU-002.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:35:25](/episodes/ep-O4Zw3bCALjU.md#t-00-35-00): “Hi, Colleen (commenter; full identity unverified) wrote, weird day to have shared this episode. This has nothing to do with Charlie (Charlie Kirk)'s memory. It would have been nice to have done a memorial episode of your boss, your so-called friend, but you chose to bring up Candace (Candace Owens) and miss the mark on this one.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Endorsed (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:36:16](/episodes/ep-O4Zw3bCALjU.md#t-00-36-16): “Evangelical and Judeo-hyphen-Christian. We remember. The internet remembers how this all started. You have never been on my radar. I don't find you to be interesting. It's very obvious to me you're a mean girl, and you have since dedicated your time to trying to host all of these experts to come speak about me on your show. We've largely ignored it because it's irrelevant to what we're trying to do, which is to figure out what happened to Charlie Kirk on that day. So I forgive you, Alex (Alex Clark), for being increasingly irrelevant. I'm sorry that... Sorry that the podcast didn't launch off of Charlie (Charlie Kirk)'s death. And we will continue to ignore you into the future because you have nothing to offer other than just like the rest of you hoping that you can somehow become famous off of Charlie (Charlie Kirk)'s death. You don't care about what happened to Charlie (Charlie Kirk). You don't even care to offer up a meaningful memorial one year after he passed. Because all you care about is like, you know, the boots and standing in front of his grave and talking about MAGA, MAGA, MAGA and how people all need to rally around and make sure that we vote for Trump (Donald Trump). Ridiculous. You don't have the courage to stand up to the deep state. You don't have the courage to stand up and depart from Trump (Donald Trump) when it feels like we are being lied to.”
 
 </details>
 
@@ -579,7 +675,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -603,22 +699,39 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:47](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Alex Clark.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:36:16](/episodes/ep-O4Zw3bCALjU.md#t-00-36-16): “Evangelical and Judeo-hyphen-Christian. We remember. The internet remembers how this all started. You have never been on my radar. I don't find you to be interesting. It's very obvious to me you're a mean girl, and you have since dedicated your time to trying to host all of these experts to come speak about me on your show. We've largely ignored it because it's irrelevant to what we're trying to do, which is to figure out what happened to Charlie Kirk on that day. So I forgive you, Alex (Alex Clark), for being increasingly irrelevant. I'm sorry that...”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 01:04:37](/episodes/ep-kn1E0scy9Wc.md#t-01-04-15): “I don't think anybody watches Alex Clark and goes, hmm, that's a well-rounded Christian girl who's definitely telling. telling me that i um the truth about what i should be following what i should be pursuing how wild to say it's a form of gnosticism to not believe the cia like it's like the fbi no you shouldn't seek hidden knowledge you shouldn't seek the epstein files that's hidden knowledge that's the form of not it's gnosticism these people are crazy turning point is ghetto tpus is ghetto now i don't tell you guys it's just a fact”
+
+</details>
+
+- **[Alaska Dog Lady (commenter; identity unverified)](/entities/anon-src-HGtMfbePDKk-012.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:57:10](/episodes/ep-O4Zw3bCALjU.md#t-00-57-00): “Um, Alaska Dog Lady writes, oh, that Alex Clark episode is infuriating. My deep Catholic faith is fully intact, sweetheart. I just don't buy the fed slop regarding Charlie (Charlie Kirk)'s murder. I'm not seeking secret scriptures. I just know the government lies to us. They are so evil.”
+
+</details>
+
+- **[Commenter Colleen in episode 386 (identity unverified)](/entities/anon-src-O4Zw3bCALjU-002.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:35:25](/episodes/ep-O4Zw3bCALjU.md#t-00-35-00): “Hi, Colleen (commenter; full identity unverified) wrote, weird day to have shared this episode. This has nothing to do with Charlie (Charlie Kirk)'s memory. It would have been nice to have done a memorial episode of your boss, your so-called friend, but you chose to bring up Candace (Candace Owens) and miss the mark on this one.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:30:51](/episodes/ep-KpxIBWkNsSs.md#t-00-30-33): “But she wrote this, Nick Shirley is a real journalist. Candace Owens is not. Oh, OK. So we're in a podcast.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:48:14](/episodes/ep-YeEtS7nix3o.md#t-00-47-49): “here's what she replied with ... I'd worry less about ours and more about the fact that yours seems to consist primarily of leftist hate watching and Russian bots.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:18:12](/episodes/ep-JQjCAsfoXEE.md#t-00-17-32): “Alex Clark lies; I get attacked. I'm telling the truth. Turning Point knows it, but they kind of allow this like Catholic thing—lie to flow. And the influencers are allowed to lie.”
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:00:39](/episodes/ep-O4Zw3bCALjU.md#t-00-00-39): “How can I ever forgive someone like Candace Owens?”
 
 </details>
 
@@ -635,6 +748,13 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “Her boss, Charlie Kirk, had been shot”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:36:16](/episodes/ep-O4Zw3bCALjU.md#t-00-36-16): “Evangelical and Judeo-hyphen-Christian. We remember. The internet remembers how this all started. You have never been on my radar. I don't find you to be interesting. It's very obvious to me you're a mean girl, and you have since dedicated your time to trying to host all of these experts to come speak about me on your show. We've largely ignored it because it's irrelevant to what we're trying to do, which is to figure out what happened to Charlie Kirk on that day. So I forgive you, Alex (Alex Clark), for being increasingly irrelevant. I'm sorry that... Sorry that the podcast didn't launch off of Charlie (Charlie Kirk)'s death. And we will continue to ignore you into the future because you have nothing to offer other than just like the rest of you hoping that you can somehow become famous off of Charlie (Charlie Kirk)'s death. You don't care about what happened to Charlie (Charlie Kirk). You don't even care to offer up a meaningful memorial one year after he passed. Because all you care about is like, you know, the boots and standing in front of his grave and talking about MAGA, MAGA, MAGA and how people all need to rally around and make sure that we vote for Trump (Donald Trump). Ridiculous. You don't have the courage to stand up to the deep state. You don't have the courage to stand up and depart from Trump (Donald Trump) when it feels like we are being lied to.”
 
 </details>
 
@@ -692,7 +812,35 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Clark (11)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Clark (17)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:57:26](/episodes/ep-kn1E0scy9Wc.md#t-00-57-26) (Accusation) **Candace Owens**: ["Owens said Erika Kirk's media tour responded directly to statements on..."](/statements/statement-42838a22d7cc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:04:37](/episodes/ep-kn1E0scy9Wc.md#t-01-04-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens characterized Alex Clark as saying that not believing the CIA or..."](/statements/statement-2d8f9bc1cf80.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Gnosticism](/entities/concept-gnosticism.md)
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (4)</summary>
+
+- [00:25:46](/episodes/ep-O4Zw3bCALjU.md#t-00-25-46) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Alex Clark used the Bible in an anniversary episode to s..."](/statements/statement-8ef71e9aa80f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Culture Apothecary](/entities/work-culture-apothecary.md), [Gnosticism](/entities/concept-gnosticism.md)
+
+- [00:34:34](/episodes/ep-O4Zw3bCALjU.md#t-00-34-34) (Claim) **Candace Owens**: ["Owens said Alex Clark blocked many people, including Owens, even thoug..."](/statements/statement-73604df0844d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:35:49](/episodes/ep-O4Zw3bCALjU.md#t-00-35-43) (Accusation) **Candace Owens**: ["Owens said her tribute mentioned that Charlie Kirk was attending Mass ..."](/statements/statement-17518504d213.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:42](/episodes/ep-O4Zw3bCALjU.md#t-00-36-16) (Opinion) **Candace Owens**: ["Owens accused Alex Clark of hoping to become famous from Charlie Kirk'..."](/statements/statement-ebbaae28bd36.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>

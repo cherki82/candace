@@ -1,6 +1,6 @@
 ---
 title: "Otto A. Busher III"
-description: "Otto A. Busher III (People) - 11 mentions"
+description: "Otto A. Busher III (People) - 12 mentions"
 id: "person-otto-a-busher-iii"
 type: "PERSON"
 aliases:
@@ -30,11 +30,11 @@ Source: [Congressional Record, November 17, 2010](https://www.govinfo.gov/conten
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-otto-a-busher-iii-t-00-11-27">2026-01-09 · 00:11:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-19-07">2026-06-17 · 00:19:41</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-otto-a-busher-iii-t-00-04-34">2026-09-15 · 00:04:34</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [Congressional Record, November 17, 2010](https://www.govinfo.gov/conten
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-otto-a-busher-iii-t-00-38-36" style="--pulse-height:25%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#t-00-46-39" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-19-07" style="--pulse-height:25%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-otto-a-busher-iii-t-00-04-34" style="--pulse-height:25%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Congressional Record, November 17, 2010](https://www.govinfo.gov/conten
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-otto-a-busher-iii-t-00-38-36) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-46-39) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-otto-a-busher-iii-t-00-04-34) | 1 |
 
 </details>
 </section>
@@ -71,7 +73,15 @@ Source: [Congressional Record, November 17, 2010](https://www.govinfo.gov/conten
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:04:34](/episodes/ep-kn1E0scy9Wc.md#ent-person-otto-a-busher-iii-t-00-04-34)**
+> "Colonel Otto Busher (Otto A. Busher III), of course, was accused of running a brothel wit..."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
@@ -145,10 +155,11 @@ Source: [Congressional Record, November 17, 2010](https://www.govinfo.gov/conten
 <summary>Referenced By (2)</summary>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47): “it is a fact that they worked with at that time Colonel Otto Busher III.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Colonel Otto Buescher, obviously the Romanian instance with Erika (Erika Kirk) all surrounding what happened at the military. military base and he worked with Romanian angels”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:04:34](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34): “Colonel Otto Busher (Otto A. Busher III), of course, was accused of running a brothel with Romanian children from 2011-2015 at the Romanian military base. He worked with Erika (Erika Kirk)'s Romanian Angels during this time. David Frodsham, he was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.”
 
 </details>
 
@@ -165,7 +176,15 @@ Source: [Congressional Record, November 17, 2010](https://www.govinfo.gov/conten
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Otto A. Busher III (6)</strong></summary>
+<summary><strong class="section-title">Statements about Otto A. Busher III (7)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:04:34](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34) (Claim) **Candace Owens**: ["Owens said Otto Busher worked with Erika Kirk's Romanian Angels during..."](/statements/statement-70c0ebe2f466.md)
+  - Also about: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>

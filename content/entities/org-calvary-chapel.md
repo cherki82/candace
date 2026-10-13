@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 88 mentions"
+description: "Calvary Chapel (Organizations) - 89 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-19-47">2026-09-01 · 00:20:05</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-calvary-chapel-t-00-05-43">2026-09-15 · 00:05:59</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -60,6 +60,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-03-42" style="--pulse-height:40%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-calvary-chapel-t-00-05-43" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +90,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44) | 2 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-03-42) | 8 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-calvary-chapel-t-00-05-43) | 1 |
 
 </details>
 </section>
@@ -100,7 +102,15 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:05:59](/episodes/ep-kn1E0scy9Wc.md#ent-org-calvary-chapel-t-00-05-43)**
+> "Okay, we have the Calvary Chapel Church. We've done episodes on this riddled with ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (8 mentions)</summary>
@@ -703,7 +713,14 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Calvary Chapel (8)</strong></summary>
+<summary><strong class="section-title">Statements about Calvary Chapel (9)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:05:59](/episodes/ep-kn1E0scy9Wc.md#t-00-05-43) (Accusation) **Candace Owens**: ["Owens said Calvary Chapel pastor abuse stories almost seem systemic, p..."](/statements/statement-10960c4a3142.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>

@@ -11,11 +11,15 @@ object: "person-dave-smith"
 
 ## [Josh Hammer](/entities/person-josh-hammer) debated [Dave Smith](/entities/person-dave-smith)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:22:24](/episodes/ep-7ERqbYElOfs#t-00-22-24): _Dave Smith had beat Josh Hammer in a debate._
+
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [01:05:49](/episodes/ep-bIuvTKlFeGo#t-01-05-49): _He also Charlie (Charlie Kirk) also declined to have Bibi Netanyahu (Benjamin Netanyahu) on his show. So it's very clear which way the wind was blowing if he's covering Epstein (Jeffrey Epstein) hosting people who like Dave Smith versus Josh Hammer allowing him to just absolutely destroy Josh Hammer in a debate._
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 

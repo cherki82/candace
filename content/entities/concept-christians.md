@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 117 mentions"
+description: "Christians (Concepts) - 118 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-christians-t-00-56-45">2026-09-08 · 00:57:16</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>117</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-christians-t-00-06-49">2026-09-30 · 00:07:16</a></strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>118</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -84,6 +84,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-31-01" style="--pulse-height:80%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34" style="--pulse-height:10%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-christians-t-00-56-45" style="--pulse-height:10%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-christians-t-00-06-49" style="--pulse-height:10%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,6 +143,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-31-01) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-christians-t-00-56-45) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-christians-t-00-06-49) | 1 |
 
 </details>
 </section>
@@ -153,7 +155,15 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+<summary><strong class="section-title">Raw mentions (118)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:07:16](/episodes/ep-5TTkMa49qj8.md#ent-concept-christians-t-00-06-49)**
+> "... she can rely on well-meaning Christians to view her as a widow, the Christians that are b..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

@@ -16,7 +16,7 @@ date: "2025-12-10"
 
 > Erika Kirk town hall with Bari Weiss filmed at CBS for later broadcast
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
 
@@ -41,3 +41,11 @@ date: "2025-12-10"
 <a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=495s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So this is just to me, I'm gonna also let you know, they prerecorded this.
+
+### 4. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:23:31](/episodes/ep-5TTkMa49qj8.md#event-event-2025-12-10-erika-kirk-town-hall-with-bari-weiss-fil-t-00-23-17) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=1411s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> the town hall with Bari Weiss, the black suit, that would have been very appropriate.

@@ -20,7 +20,7 @@ date: "2025-11-10"
 
 > Sergio Gor sworn in as US Ambassador to India, Erika Kirk attends Oval Office ceremony
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. BREAKING! The White House Attempted To Rescind This E-mail. ...
 
@@ -37,3 +37,11 @@ date: "2025-11-10"
 <a href="https://www.youtube.com/watch?v=6DhWawD4ZiM&t=604s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > to fly to DC for Sergio to be sworn into the ambassador to India
+
+### 3. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:23:17](/episodes/ep-5TTkMa49qj8.md#event-event-2025-11-10-sergio-gor-sworn-in-as-us-ambassador-to--t-00-23-17) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=1397s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Sergio Gor's appointment in the Oval Office, that's pretty random. She had clothes then that were

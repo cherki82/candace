@@ -1,6 +1,6 @@
 ---
 title: "Benny Johnson"
-description: "Benny Johnson (People) - 14 mentions"
+description: "Benny Johnson (People) - 15 mentions"
 id: "person-benny-johnson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-46">2025-09-19 · 00:42:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-benny-johnson-t-00-02-28">2026-09-01 · 00:02:47</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-benny-johnson-t-00-18-41">2026-10-01 · 00:18:41</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -40,6 +40,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-benny-johnson-t-00-34-01" style="--pulse-height:20%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-benny-johnson-t-00-17-21" style="--pulse-height:20%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-benny-johnson-t-00-02-28" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-benny-johnson-t-00-18-41" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-benny-johnson-t-00-34-01) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-benny-johnson-t-00-17-21) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-benny-johnson-t-00-02-28) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-benny-johnson-t-00-18-41) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:18:41](/episodes/ep-q4m-kGzvwjw.md#ent-person-benny-johnson-t-00-18-41)**
+> "...ey Gaines), Morgan McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lau..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>

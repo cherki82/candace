@@ -1,6 +1,6 @@
 ---
 title: "Better Business Bureau"
-description: "Better Business Bureau (Organizations) - 33 mentions"
+description: "Better Business Bureau (Organizations) - 36 mentions"
 id: "org-better-business-bureau"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-better-business-bureau-t-00-25-49">2025-09-25 · 00:25:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-better-business-bureau-t-00-19-28">2026-09-03 · 00:19:34</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-better-business-bureau-t-00-25-23">2026-10-08 · 00:25:49</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -66,6 +66,9 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-better-business-bureau-t-00-53-21" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-better-business-bureau-t-00-19-28" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-better-business-bureau-t-00-32-04" style="--pulse-height:100%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-better-business-bureau-t-00-26-37" style="--pulse-height:100%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-better-business-bureau-t-00-25-23" style="--pulse-height:100%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -103,6 +106,9 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-better-business-bureau-t-00-53-21) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-better-business-bureau-t-00-19-28) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-better-business-bureau-t-00-32-04) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-better-business-bureau-t-00-26-37) | 1 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-better-business-bureau-t-00-25-23) | 1 |
 
 </details>
 </section>
@@ -110,7 +116,31 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:25:49](/episodes/ep-UAdBEXs7nNc.md#ent-org-better-business-bureau-t-00-25-23)**
+> "...s and an A-plus rating on the BBB. So get your free 30-second personalized assessme..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:27:11](/episodes/ep-_Sq5RqP27NY.md#ent-org-better-business-bureau-t-00-26-37)**
+> "...s and an A plus rating on the BBB."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[00:32:37](/episodes/ep-NNiCZk1cuzs.md#ent-org-better-business-bureau-t-00-32-04)**
+> "...s and an A-plus rating on the BBB."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -374,5 +404,18 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Better Business Bureau (1)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:27:11](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37) (Claim) **Candace Owens**: ["In a sponsor read, Owens said PDS Debt required no minimum credit scor..."](/statements/statement-96ea1dbfee05.md)
+  - Also about: [PDS Debt](/entities/org-pds-debt.md)
+
+</details>
 
 </details>

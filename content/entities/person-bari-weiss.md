@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 101 mentions"
+description: "Bari Weiss (People) - 103 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09">2025-10-28 · 00:27:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18">2026-08-14 · 02:48:18</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>101</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-bari-weiss-t-00-23-17">2026-09-30 · 00:23:31</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>103</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -80,6 +80,8 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-bari-weiss-t-00-34-54" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-bari-weiss-t-02-04-12" style="--pulse-height:17%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-bari-weiss-t-00-57-26" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-bari-weiss-t-00-23-17" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -129,6 +131,8 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-bari-weiss-t-00-34-54) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-bari-weiss-t-02-04-12) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-bari-weiss-t-00-57-26) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-bari-weiss-t-00-23-17) | 1 |
 
 </details>
 </section>
@@ -140,7 +144,23 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:23:31](/episodes/ep-5TTkMa49qj8.md#ent-person-bari-weiss-t-00-23-17)**
+> "...d Jackets, the town hall with Bari Weiss, the black suit, that would have been very approp..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:57:26](/episodes/ep-kn1E0scy9Wc.md#ent-person-bari-weiss-t-00-57-26)**
+> "... go on a media tour with Fox, Bari Weiss and Glenn Beck to paint you as a liar and a crazy..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -731,7 +751,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:05:51](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27): “I'm frustrated, obviously, for a lot of reasons, but Erika's, that's now being teased, the interview with Bari Weiss, it's being termed a town hall.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “He's right. What is going on sums up how we all feel right now. And I also would like to mention here another confusing part that we kind of didn't discuss enough—another confusing part of that Bari Weiss interview.”
@@ -741,6 +761,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:04:12](/episodes/ep-aPOyk1i2LOc.md#t-02-04-12): “We are showing a clip of her on Barry Weiss, which I can't remember the date that she did that interview. And Erica, when she is asked, do you feel with 100% certainty that Tyler Robinson did this? And she says, I do.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:22:41](/episodes/ep-5TTkMa49qj8.md#t-00-22-41): “Erica (Erika Kirk) was completing the Everybody Grieves Differently World's Eras Tour. She had a lot of outfits that we saw. We saw immediately on September 12th when she addressed the nation. ... The Sean Hannity interview on December 8th, the Fox and Friends on December 9th, co-hosting Fox's The Five, that's on December 9th as well, outnumbered December 10th, Red Jackets, the town hall with Bari Weiss, the black suit, that would have been very appropriate.”
 
 </details>
 
@@ -846,7 +867,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:05:51](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27): “I'm frustrated, obviously, for a lot of reasons, but Erika's, that's now being teased, the interview with Bari Weiss, it's being termed a town hall.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:07:48](/episodes/ep-es7PWdFGoFI.md#t-00-07-21): “You guys are going to be the reason that Israel gets TikTok because you guys are acting a fool all the time and the videos were so hilarious of you guys mocking the Bari (Bari Weiss) interview. It's great. It's good to laugh at ourselves. and Bari (Bari Weiss) is always worth laughing at. But I was sort of like, hey, I felt name checked by the podcaster, Candace Owens, this obvious setup and then asking me to stop. And it's interesting to hear Erika (Erika Kirk) say that the reason she didn't ask me to stop in the beginning, because she was actually learning things from the show.”
@@ -857,6 +878,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:04:12](/episodes/ep-aPOyk1i2LOc.md#t-02-04-12): “We are showing a clip of her on Barry Weiss, which I can't remember the date that she did that interview. And Erica, when she is asked, do you feel with 100% certainty that Tyler Robinson did this? And she says, I do.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:22:41](/episodes/ep-5TTkMa49qj8.md#t-00-22-41): “Erica (Erika Kirk) was completing the Everybody Grieves Differently World's Eras Tour. She had a lot of outfits that we saw. We saw immediately on September 12th when she addressed the nation. ... The Sean Hannity interview on December 8th, the Fox and Friends on December 9th, co-hosting Fox's The Five, that's on December 9th as well, outnumbered December 10th, Red Jackets, the town hall with Bari Weiss, the black suit, that would have been very appropriate.”
 
 </details>
 
@@ -907,7 +929,23 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bari Weiss (15)</strong></summary>
+<summary><strong class="section-title">Statements about Bari Weiss (17)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:23:17](/episodes/ep-5TTkMa49qj8.md#t-00-23-17) (Claim) **Candace Owens**: ["Owens cited additional Erika Kirk outfits at the December 3 New York T..."](/statements/statement-0d1b5ee73fb6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md), [Sean Hannity](/entities/person-sean-hannity.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:57:26](/episodes/ep-kn1E0scy9Wc.md#t-00-57-26) (Accusation) **Ali (episode 387 viewer commenter; identity unverified)** (via read message): ["Ali, a viewer commenter whose legal identity is unverified, wrote that..."](/statements/statement-0bdf8dbe9c2a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Fox News](/entities/org-fox-news.md)
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>

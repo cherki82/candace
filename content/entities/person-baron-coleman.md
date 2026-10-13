@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 141 mentions"
+description: "Baron Coleman (People) - 178 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-baron-coleman-t-00-17-31">2026-09-02 · 00:17:31</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>141</strong></div>
-<div><span>Statements by</span><strong>31</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10">2026-10-06 · 01:07:27</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>178</strong></div>
+<div><span>Statements by</span><strong>32</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -81,6 +81,17 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-baron-coleman-t-00-40-45" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-baron-coleman-t-00-17-31" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-baron-coleman-t-00-08-50" style="--pulse-height:31%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 5 mentions" title="2026-09-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-person-baron-coleman-t-00-58-50" style="--pulse-height:31%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 5 mentions" title="2026-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-baron-coleman-t-00-44-28" style="--pulse-height:12%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:25%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 4 mentions" title="2026-09-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-baron-coleman-t-00-54-47" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-baron-coleman-t-00-39-29" style="--pulse-height:25%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 4 mentions" title="2026-09-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:19%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-baron-coleman-t-00-01-22" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-baron-coleman-t-00-36-41" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20" style="--pulse-height:62%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 10 mentions" title="2026-10-05 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -132,6 +143,17 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-baron-coleman-t-00-40-45) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-28-04) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-baron-coleman-t-00-17-31) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-baron-coleman-t-00-08-50) | 5 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-baron-coleman-t-00-58-50) | 5 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-baron-coleman-t-00-44-28) | 2 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-baron-coleman-t-00-00-01) | 4 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-baron-coleman-t-00-54-47) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-baron-coleman-t-00-39-29) | 4 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-baron-coleman-t-00-00-01) | 3 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-baron-coleman-t-00-01-22) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-baron-coleman-t-00-36-41) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20) | 10 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10) | 1 |
 
 </details>
 </section>
@@ -143,7 +165,173 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:07:27](/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10)**
+> "..., Ian Carroll and then Baron (Baron Coleman) are great choices for baby number six. I nominat..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (10 mentions)</summary>
+
+**[00:47:20](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20)**
+> "...onstantly being under attack, Baron Coleman, Welcome to my life, Baron Coleman. Welcome to my..."
+
+**[00:47:36](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20)**
+> "Baron (Baron Coleman), I'm sorry, I am laughing at it. I'm so sorry, b..."
+
+**[00:47:52](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20)**
+> "...c. Welcome to my life, Baron (Baron Coleman). I guess they're trying to get him dropped from ..."
+
+**[00:48:16](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-48-05)**
+> "... here in Nashville and Baron (Baron Coleman) is going to have access to all of that. What are..."
+
+**[00:48:32](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-48-05)**
+> "Somebody goes, Baron Coleman faces online criticism before guest spot on Canda..."
+
+**[00:48:49](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-48-49)**
+> "...ill be laughing at the Baron (Baron Coleman) trends."
+
+**[00:49:03](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-48-49)**
+> ".... I don't know. Sorry, Baron (Baron Coleman). Sorry. Don't care. It's funny to me."
+
+**[00:51:08](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-50-48)**
+> "Baron Coleman is a lesbian. I didn't want you to find out about..."
+
+**[00:57:20](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-57-20)**
+> "...e. I know I promised you some Baron Coleman. I'm just gonna troll him. I'm gonna, I'm, right,..."
+
+**[00:58:10](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-57-58)**
+> "...eminder before we go off air: Baron Coleman is lesbian. You heard it here first. We'll see yo..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:37:09](/episodes/ep-5TTkMa49qj8.md#ent-person-baron-coleman-t-00-36-41)**
+> "Baron (Baron Coleman) actually had the scoop on that and that it was g..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3 mentions)</summary>
+
+**[00:00:34](/episodes/ep-_Sq5RqP27NY.md#ent-person-baron-coleman-t-00-00-01)**
+> "I spoke with Baron Coleman today and we are going to get you guys over a siz..."
+
+**[00:06:08](/episodes/ep-_Sq5RqP27NY.md#ent-person-baron-coleman-t-00-05-46)**
+> "...ing over everything to Baron (Baron Coleman). But on top of that, I do want to give you guys ..."
+
+**[00:26:32](/episodes/ep-_Sq5RqP27NY.md#ent-person-baron-coleman-t-00-25-53)**
+> "...l get together, me and Baron (Baron Coleman) will get together that sizzle reel for you guys ..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:01:31](/episodes/ep-bIuvTKlFeGo.md#ent-person-baron-coleman-t-00-01-22)**
+> "...you it was damning. Actually, Baron Coleman reported it first, that report was incoming. And ..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (4 mentions)</summary>
+
+**[00:39:55](/episodes/ep-_2DiIbfy4mU.md#ent-person-baron-coleman-t-00-39-29)**
+> "...ink it is best illustrated by Baron Coleman's tweet. He wrote back this. He wrote, most people ..."
+
+**[00:43:57](/episodes/ep-_2DiIbfy4mU.md#ent-person-baron-coleman-t-00-43-43)**
+> "...y unverified) writes, 'Baron (Baron Coleman) merch idea: second favorite host.' You guys are ..."
+
+**[00:49:59](/episodes/ep-_2DiIbfy4mU.md#ent-person-baron-coleman-t-00-49-59)**
+> "...ng over to the after party at Baron Coleman's, but you're obviously not going to be up in the w..."
+
+**[00:50:25](/episodes/ep-_2DiIbfy4mU.md#ent-person-baron-coleman-t-00-49-59)**
+> "...ming because we have to troll Baron Coleman."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:54:47](/episodes/ep-6XfDqKTdFKg.md#ent-person-baron-coleman-t-00-54-47)**
+> "...e merch to make fun of Baron (Baron Coleman). I feel like we gotta get some Baron (Baron Cole..."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (4 mentions)</summary>
+
+**[00:00:01](/episodes/ep-BvthGQw3_s0.md#ent-person-baron-coleman-t-00-00-01)**
+> "...ve and my substitute teacher, Baron Coleman."
+
+**[00:00:30](/episodes/ep-BvthGQw3_s0.md#ent-person-baron-coleman-t-00-00-01)**
+> "Baron (Baron Coleman) has agreed to love Brigitte doll like his own. H..."
+
+**[00:00:40](/episodes/ep-BvthGQw3_s0.md#ent-person-baron-coleman-t-00-00-40)**
+> "Brigitte doll will be Baron (Baron Coleman)'s queen consort. And if Baron (Baron Coleman) pi..."
+
+**[00:24:26](/episodes/ep-BvthGQw3_s0.md#ent-person-baron-coleman-t-00-24-26)**
+> "...d it sure is interesting that Baron Coleman has been covering the fact that he believes that ..."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2 mentions)</summary>
+
+**[00:44:34](/episodes/ep-NNiCZk1cuzs.md#ent-person-baron-coleman-t-00-44-28)**
+> "...le bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is..."
+
+**[00:56:23](/episodes/ep-NNiCZk1cuzs.md#ent-person-baron-coleman-t-00-56-23)**
+> "...en they found out that Baron (Baron Coleman) would be taking over the show. Oh boy, yeah, it'..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (5 mentions)</summary>
+
+**[00:58:50](/episodes/ep-aLJhpxrakCU.md#ent-person-baron-coleman-t-00-58-50)**
+> "It's crazy, but Baron Coleman, yes, will be taking over the principles show whi..."
+
+**[00:59:30](/episodes/ep-aLJhpxrakCU.md#ent-person-baron-coleman-t-00-59-30)**
+> "...e a lawyer? I don't know. But Baron Coleman will do fantastic on the show."
+
+**[01:00:09](/episodes/ep-aLJhpxrakCU.md#ent-person-baron-coleman-t-01-00-09)**
+> "...a sort of longer episode with Baron Coleman will give me that opportunity."
+
+**[01:00:23](/episodes/ep-aLJhpxrakCU.md#ent-person-baron-coleman-t-01-00-09)**
+> "So it will be Baron Coleman and And obviously, we have now included a very, v..."
+
+**[01:01:19](/episodes/ep-aLJhpxrakCU.md#ent-person-baron-coleman-t-01-00-51)**
+> "But yes, it is in fact Baron Coleman."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (5 mentions)</summary>
+
+**[00:08:50](/episodes/ep-kn1E0scy9Wc.md#ent-person-baron-coleman-t-00-08-50)**
+> "...l abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from ar..."
+
+**[00:12:21](/episodes/ep-kn1E0scy9Wc.md#ent-person-baron-coleman-t-00-12-21)**
+> "...it was recently discovered by Baron Coleman..."
+
+**[00:13:11](/episodes/ep-kn1E0scy9Wc.md#ent-person-baron-coleman-t-00-13-04)**
+> "into Barron (Baron Coleman) describing his background, what Michael George K..."
+
+**[00:17:22](/episodes/ep-kn1E0scy9Wc.md#ent-person-baron-coleman-t-00-16-49)**
+> "Now, Barron (Baron Coleman) mentioned there at the end the ICAC. Again, that..."
+
+**[01:03:41](/episodes/ep-kn1E0scy9Wc.md#ent-person-baron-coleman-t-01-03-41)**
+> "...ell you guys tomorrow. Baron (Baron Coleman) reminded me, he's like, are you going to cover t..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -838,12 +1026,38 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Defended By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:47:36](/episodes/ep-ms5ChhZegRg.md#t-00-47-20): “Baron (Baron Coleman), I'm sorry, I am laughing at it. I'm so sorry, but since I've announced him to cover my show, they've now instantly put him into the every story, every day, digging up 20-year-old interviews of Baron (Baron Coleman), just trying to make him out to be an abusive guy. It's fantastic. ... It's fantastic. Welcome to my life, Baron (Baron Coleman). I guess they're trying to get him dropped from taking over my show. We don't care. ... You guys are all full of it. Okay. Not only is he still going to cover my show.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:58:50](/episodes/ep-aLJhpxrakCU.md#t-00-58-50): “It's crazy, but Baron Coleman, yes, will be taking over the principles show while I'm on maternity leave. We're very excited about this. Obviously, Baron (Baron Coleman) has just become such a great friend over this last year, just an unexpected friendship that emerged and like just to be able to have someone that I think thinks through these things like I do, it takes his time. I think he's just he has a method that very much matches my own and making sure that you want to triple confirm information.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:44:34](/episodes/ep-NNiCZk1cuzs.md#t-00-44-28): “Picture of Empress Films at this time. That's what I'd like to know. Just seems weird to me, and I find that a little bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is weird, very weird, and I don't know why it's weird, but it just feels weird for some reason. When you are just running a clothing company, like, were they going to do a documentary on Erika (Erika Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I don't know. Doesn't register to me as correct.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:00:34](/episodes/ep-_Sq5RqP27NY.md#t-00-00-01): “I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot because I think it really does help.”
 
 </details>
 
@@ -862,7 +1076,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -886,10 +1100,26 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+- **[Candace Owens](/entities/person-candace-owens.md)** defended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:47:36](/episodes/ep-ms5ChhZegRg.md#t-00-47-20): “Baron (Baron Coleman), I'm sorry, I am laughing at it. I'm so sorry, but since I've announced him to cover my show, they've now instantly put him into the every story, every day, digging up 20-year-old interviews of Baron (Baron Coleman), just trying to make him out to be an abusive guy. It's fantastic. ... It's fantastic. Welcome to my life, Baron (Baron Coleman). I guess they're trying to get him dropped from taking over my show. We don't care. ... You guys are all full of it. Okay. Not only is he still going to cover my show.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:58:50](/episodes/ep-aLJhpxrakCU.md#t-00-58-50): “It's crazy, but Baron Coleman, yes, will be taking over the principles show while I'm on maternity leave. We're very excited about this. Obviously, Baron (Baron Coleman) has just become such a great friend over this last year, just an unexpected friendship that emerged and like just to be able to have someone that I think thinks through these things like I do, it takes his time. I think he's just he has a method that very much matches my own and making sure that you want to triple confirm information.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:44:34](/episodes/ep-NNiCZk1cuzs.md#t-00-44-28): “Picture of Empress Films at this time. That's what I'd like to know. Just seems weird to me, and I find that a little bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is weird, very weird, and I don't know why it's weird, but it just feels weird for some reason. When you are just running a clothing company, like, were they going to do a documentary on Erika (Erika Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I don't know. Doesn't register to me as correct.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:00:34](/episodes/ep-_Sq5RqP27NY.md#t-00-00-01): “I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot because I think it really does help.”
 
 </details>
 
@@ -901,11 +1131,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:07:08](/episodes/ep-DdPjoy5W-wY.md#t-01-06-42): “i wrote him some interesting things about Lori Frantzve since he's been helping so much the investigation”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:01:48](/episodes/ep-SgVcnx4Oh30.md#t-00-01-22): “We kind of build off of each other and the work and the investigation that we're doing.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:00:33](/episodes/ep-a2bZf4fic10.md#t-00-00-01): “I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for two weeks.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:32](/episodes/ep-_Sq5RqP27NY.md#t-00-25-53): “And yes, we will get together, me and Baron (Baron Coleman) will get together that sizzle reel for you guys before we pass off the show.”
 
 </details>
 
@@ -914,7 +1145,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Baron Coleman (31)</strong></summary>
+<summary><strong class="section-title">Statements by Baron Coleman (32)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:13:20](/episodes/ep-kn1E0scy9Wc.md#t-00-13-20) [○] (Claim) ["Baron Coleman said Michael George Carl, the detective identified in the transcri..."](/statements/statement-2aaebe1e9498.md)
+  - About: [Michael George Carle](/entities/person-michael-george-carle.md), [George Zinn](/entities/person-george-zinn.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2)</summary>
@@ -1062,7 +1301,57 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baron Coleman (6)</strong></summary>
+<summary><strong class="section-title">Statements about Baron Coleman (15)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>
+
+- [00:47:36](/episodes/ep-ms5ChhZegRg.md#t-00-47-20) (Accusation) **Candace Owens**: ["Owens alleged people began digging up twenty-year-old Baron Coleman in..."](/statements/statement-91565fed82ca.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:48:00](/episodes/ep-ms5ChhZegRg.md#t-00-47-20) (Promise) **Candace Owens**: ["Owens committed that Baron Coleman would still cover her show despite ..."](/statements/statement-2708ea15765b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2)</summary>
+
+- [00:00:34](/episodes/ep-_Sq5RqP27NY.md#t-00-00-01) (Promise) **Candace Owens**: ["Owens promised that she and Baron Coleman would assemble a sizzle reel..."](/statements/statement-1a731e2eeef0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:00](/episodes/ep-_Sq5RqP27NY.md#t-00-05-46) (Promise) **Candace Owens**: ["Owens promised to hand everything over to Baron Coleman and give viewe..."](/statements/statement-495a84fac5f7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2)</summary>
+
+- [00:39:55](/episodes/ep-_2DiIbfy4mU.md#t-00-39-29) (Claim) **Candace Owens** (via paraphrase): ["Owens says Baron Coleman mocked reliance on photo dates by editing a b..."](/statements/statement-636ec0fa4b30.md)
+
+- [00:43:57](/episodes/ep-_2DiIbfy4mU.md#t-00-43-43) (Promise) **Candace Owens**: ["Owens promises Baron Coleman themed merchandise and says it may arrive..."](/statements/statement-fa48f06e8c4b.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:24:26](/episodes/ep-BvthGQw3_s0.md#t-00-24-26) (Opinion) **Candace Owens** (via paraphrase): ["Owens said Baron Coleman believes an early-morning meeting involving m..."](/statements/statement-14d49d153741.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (2)</summary>
+
+- [00:58:50](/episodes/ep-aLJhpxrakCU.md#t-00-58-50) (Promise) **Candace Owens**: ["Owens announced Baron Coleman would take over her show while she was o..."](/statements/statement-171bc874bbe2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:59:38](/episodes/ep-aLJhpxrakCU.md#t-00-59-30) (Promise) **Candace Owens**: ["Owens committed to a longer joint episode with Baron Coleman before he..."](/statements/statement-a61977d57daa.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

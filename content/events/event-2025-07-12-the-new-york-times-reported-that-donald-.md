@@ -16,7 +16,7 @@ date: "2025-07-12"
 
 > The New York Times reported that Donald Trump called and scolded Charlie Kirk over Epstein criticism at the Student Action Summit.
 
-## Mentioned In (2 times)
+## Mentioned In (4 times)
 
 ### 1. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
 
@@ -36,3 +36,19 @@ date: "2025-07-12"
 
 > **Date stated in this source:** “in July”
 > **Date review note:** This source gives month only; retain the previously sourced July 12 date for the same call without claiming this episode establishes the day.
+
+### 3. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
+
+**Episode:** [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md)
+**Timestamp:** [00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23) 
+<a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=3563s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> According to the New York Times, President Trump calls Charlie
+
+### 4. LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s C...
+
+**Episode:** [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md)
+**Timestamp:** [00:28:27](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27) 
+<a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1707s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> President Trump called Charlie Kirk angrily to scold him about his events, told

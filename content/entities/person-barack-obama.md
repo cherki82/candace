@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 23 mentions"
+description: "Barack Obama (People) - 24 mentions"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-barack-obama-t-00-10-58">2025-11-03 · 00:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-barack-obama-t-00-15-37">2026-09-10 · 00:16:04</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-barack-obama-t-00-48-10">2026-10-06 · 00:48:39</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-barack-obama-t-00-11-49" style="--pulse-height:75%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-barack-obama-t-00-06-56" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-barack-obama-t-00-15-37" style="--pulse-height:25%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-barack-obama-t-00-48-10" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-barack-obama-t-00-11-49) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-barack-obama-t-00-06-56) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-barack-obama-t-00-15-37) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-barack-obama-t-00-48-10) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[00:48:39](/episodes/ep-0pSAhaAZz1w.md#ent-person-barack-obama-t-00-48-10)**
+> "...slight. Maybe because you had Barack Obama's was the audacity of hope, right?"
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -229,6 +239,18 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 </details>
 
 <details>
+<summary>Authored (1)</summary>
+
+- **[The Audacity of Hope](/entities/work-the-audacity-of-hope.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:48:39](/episodes/ep-0pSAhaAZz1w.md#t-00-48-10): “It will be the audacity of Erika Kirk, the audacity of the gaslight. Maybe because you had Barack Obama's was the audacity of hope, right?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
@@ -253,12 +275,19 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[David Axelrod](/entities/person-david-axelrod.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:05:31](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-04): “For a secret anti-Trump summit just days after Barack Hussein Obama's top advisor, David Axelrod, met with the Pope, Candace Owens, Nick Fuentes, and the alleged fire Turning Point USA leaker, Aubrey Laitsch, all suddenly appeared in Rome.”
+
+</details>
+
+- **[The Audacity of Hope](/entities/work-the-audacity-of-hope.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:48:39](/episodes/ep-0pSAhaAZz1w.md#t-00-48-10): “It will be the audacity of Erika Kirk, the audacity of the gaslight. Maybe because you had Barack Obama's was the audacity of hope, right?”
 
 </details>
 

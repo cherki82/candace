@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 64 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 70 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -23,11 +23,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-work-the-charlie-kirk-show-t-00-56-30">2025-09-22 · 00:57:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39">2026-09-02 · 00:56:04</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-work-the-charlie-kirk-show-t-00-51-47">2026-10-08 · 00:51:54</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -70,6 +70,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-02-20" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-24-21" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-work-the-charlie-kirk-show-t-00-37-31" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-work-the-charlie-kirk-show-t-00-45-44" style="--pulse-height:25%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-work-the-charlie-kirk-show-t-00-51-47" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -109,6 +112,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-02-20) | 6 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-24-21) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-work-the-charlie-kirk-show-t-00-37-31) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-work-the-charlie-kirk-show-t-00-45-44) | 3 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-work-the-charlie-kirk-show-t-00-51-47) | 1 |
 
 </details>
 </section>
@@ -120,7 +126,37 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
+
+**[00:51:54](/episodes/ep-UAdBEXs7nNc.md#ent-work-the-charlie-kirk-show-t-00-51-47)**
+> "...body who could ever take over the Charlie Kirk Show."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (3 mentions)</summary>
+
+**[00:45:44](/episodes/ep-NNiCZk1cuzs.md#ent-work-the-charlie-kirk-show-t-00-45-44)**
+> "This is Charlie Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former employees and wanted to after he was Blake Neff was involved in this racism scandal for being a total creep online and now we see he's just a creep in general. He probably should have just stayed as an online troll wanting to help him take the next step in his life working on the Charlie Kirk show."
+
+**[00:49:35](/episodes/ep-NNiCZk1cuzs.md#ent-work-the-charlie-kirk-show-t-00-49-15)**
+> "And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before."
+
+**[00:52:03](/episodes/ep-NNiCZk1cuzs.md#ent-work-the-charlie-kirk-show-t-00-49-15)**
+> "They want death, trying to walk people into defamation claims, as you guys saw. I saw when I did my debate with Andrew Wilson, and they're trying to keep their hands clean, but they're obviously platforming these individuals on Charlie Kirk's show, who Charlie Kirk would have never hosted on his show."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:37:58](/episodes/ep-kn1E0scy9Wc.md#ent-work-the-charlie-kirk-show-t-00-37-31)**
+> "Do you have more footage? We want to know who killed Charlie (Charlie Kirk). Who killed Charlie (Charlie Kirk)? Instead, they brought on this Matt Tardio onto the Charlie Kirk show to debunk this."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -493,9 +529,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:53:54](/episodes/ep-OgRyiOAVtWU.md#t-00-53-26): “How dare they? How dare they do it with his name below in the banner? The Charlie Kirk show is now using the same logic that we believe that what happened in Sandy, this is like akin to Sandy Hook.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:52:03](/episodes/ep-NNiCZk1cuzs.md#t-00-51-52): “They want death, trying to walk people into defamation claims, as you guys saw. I saw when I did my debate with Andrew Wilson, and they're trying to keep their hands clean, but they're obviously platforming these individuals on Charlie Kirk's show, who Charlie Kirk would have never hosted on his show. ... He would have been disgusted with these people. They are so gutter and so trash, and that is what they are turning his namesake into. ... Just start your own show, Blake (Blake Neff), if you really truly believe that you've got the it factor. Sorry to laugh. I'm sure your parents told you you do. Then start your own show, Blake (Blake Neff), because I've never—you crashed Charlie (Charlie Kirk)'s. Actually, this might be your only talent,”
 
 </details>
 
@@ -505,12 +542,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Employs (2)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:44](/episodes/ep-NNiCZk1cuzs.md#t-00-45-44): “This is Charlie Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former employees and wanted to after he was Blake Neff was involved in this racism scandal for being a total creep online and now we see he's just a creep in general. He probably should have just stayed as an online troll wanting to help him take the next step in his life working on the Charlie Kirk show. ... And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before.”
 
 </details>
 
@@ -571,9 +609,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:53:54](/episodes/ep-OgRyiOAVtWU.md#t-00-53-26): “How dare they? How dare they do it with his name below in the banner? The Charlie Kirk show is now using the same logic that we believe that what happened in Sandy, this is like akin to Sandy Hook.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:52:03](/episodes/ep-NNiCZk1cuzs.md#t-00-51-52): “They want death, trying to walk people into defamation claims, as you guys saw. I saw when I did my debate with Andrew Wilson, and they're trying to keep their hands clean, but they're obviously platforming these individuals on Charlie Kirk's show, who Charlie Kirk would have never hosted on his show. ... He would have been disgusted with these people. They are so gutter and so trash, and that is what they are turning his namesake into. ... Just start your own show, Blake (Blake Neff), if you really truly believe that you've got the it factor. Sorry to laugh. I'm sure your parents told you you do. Then start your own show, Blake (Blake Neff), because I've never—you crashed Charlie (Charlie Kirk)'s. Actually, this might be your only talent,”
 
 </details>
 
@@ -607,12 +646,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:44](/episodes/ep-NNiCZk1cuzs.md#t-00-45-44): “This is Charlie Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former employees and wanted to after he was Blake Neff was involved in this racism scandal for being a total creep online and now we see he's just a creep in general. He probably should have just stayed as an online troll wanting to help him take the next step in his life working on the Charlie Kirk show. ... And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before.”
 
 </details>
 
@@ -628,7 +668,25 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Charlie Kirk Show (14)</strong></summary>
+<summary><strong class="section-title">Statements about The Charlie Kirk Show (17)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2)</summary>
+
+- [00:51:52](/episodes/ep-NNiCZk1cuzs.md#t-00-51-52) (Accusation) **Candace Owens**: ["Owens accused TPUSA of elevating influencers who called for lawsuits a..."](/statements/statement-7d73fdca6da0.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:52:26](/episodes/ep-NNiCZk1cuzs.md#t-00-52-26) (Accusation) **Candace Owens**: ["Owens accused Neff of crashing a once-successful organization, busines..."](/statements/statement-8a1d499a7c86.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:38:33](/episodes/ep-kn1E0scy9Wc.md#t-00-38-06) (Claim) **Charlie Kirk Show Host (episode 387 clip; identity unverified)** (via quoted speech): ["The unidentified Charlie Kirk Show host said the footage seemed connec..."](/statements/statement-861fed27b5be.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>

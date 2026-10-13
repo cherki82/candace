@@ -1,6 +1,6 @@
 ---
 title: "Ryan Reynolds"
-description: "Ryan Reynolds (People) - 9 mentions"
+description: "Ryan Reynolds (People) - 12 mentions"
 id: "person-ryan-reynolds"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-ryan-reynolds-t-00-26-34">2025-12-03 · 00:27:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-18-57">2026-08-31 · 00:18:57</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-ryan-reynolds-t-01-07-37">2026-10-01 · 01:08:06</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -37,6 +37,7 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ryan-reynolds-t-00-58-47" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-ryan-reynolds-t-00-38-44" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-15-40" style="--pulse-height:67%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-ryan-reynolds-t-01-07-37" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ryan-reynolds-t-00-58-47) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-ryan-reynolds-t-00-38-44) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-15-40) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-ryan-reynolds-t-01-07-37) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[01:07:43](/episodes/ep-q4m-kGzvwjw.md#ent-person-ryan-reynolds-t-01-07-37)**
+> "...got to put Blake Neff next to Ryan Reynolds because they're kind of more the same where I'm j..."
+
+**[01:07:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-ryan-reynolds-t-01-07-37)**
+> "...uld go with, in a slap fight, Ryan Reynolds would win. And I think that Blake Lively is not r..."
+
+**[01:08:06](/episodes/ep-q4m-kGzvwjw.md#ent-person-ryan-reynolds-t-01-07-37)**
+> "...I want. And so I'm going with Ryan Reynolds as the winner of a slap fight."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>

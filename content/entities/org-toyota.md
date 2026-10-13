@@ -1,6 +1,6 @@
 ---
 title: "Toyota Motor Corporation"
-description: "Toyota Motor Corporation (Organizations) - 16 mentions"
+description: "Toyota Motor Corporation (Organizations) - 17 mentions"
 id: "org-toyota"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Company | Toyota Motor Corporation Official Global Website](https://glo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-toyota-t-00-27-38">2025-11-17 · 00:28:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-toyota-t-00-20-50">2025-12-17 · 00:20:59</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-toyota-t-00-16-39">2026-09-25 · 00:16:39</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Company | Toyota Motor Corporation Official Global Website](https://glo
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-toyota-t-00-27-38" style="--pulse-height:67%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-toyota-t-00-06-55" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-toyota-t-00-18-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-toyota-t-00-16-39" style="--pulse-height:17%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Company | Toyota Motor Corporation Official Global Website](https://glo
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-toyota-t-00-27-38) | 4 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-toyota-t-00-06-55) | 6 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-toyota-t-00-18-46) | 6 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-toyota-t-00-16-39) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Company | Toyota Motor Corporation Official Global Website](https://glo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:16:39](/episodes/ep-_Sq5RqP27NY.md#ent-org-toyota-t-00-16-39)**
+> "It's like seeing a Toyota. That's something that you would see unless he go..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (6 mentions)</summary>

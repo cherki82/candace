@@ -1,6 +1,6 @@
 ---
 title: "Scouting America"
-description: "Scouting America (Organizations) - 3 mentions"
+description: "Scouting America (Organizations) - 5 mentions"
 id: "org-scouting-america"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41">2025-09-29 · 00:19:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40">2026-08-06 · 00:02:40</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-scouting-america-t-00-10-08">2026-09-15 · 00:10:34</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,11 +35,12 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-scouting-america-t-00-10-08">A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-scouting-america-t-00-28-22" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41" style="--pulse-height:50%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-scouting-america-t-00-28-22" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-scouting-america-t-00-10-08" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-scouting-america-t-00-18-41) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-scouting-america-t-00-28-22) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-scouting-america-t-00-02-40) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-scouting-america-t-00-10-08) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Boy Scouts of America to Become Scouting America](https://www.scoutingn
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:10:22](/episodes/ep-kn1E0scy9Wc.md#ent-org-scouting-america-t-00-10-08)**
+> "...now, he used to mentor him in Boy Scouts."
+
+**[00:10:34](/episodes/ep-kn1E0scy9Wc.md#ent-org-scouting-america-t-00-10-08)**
+> "Boy Scouts, and then he's the one that then goes over to Mat..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>

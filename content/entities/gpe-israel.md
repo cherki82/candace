@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1612 mentions"
+description: "Israel (Places) - 1686 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,12 +25,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-20-24">2026-09-10 · 00:20:24</a></strong></div>
-<div><span>Episodes</span><strong>149</strong></div>
-<div><span>Mentions</span><strong>1,612</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12">2026-10-08 · 00:53:42</a></strong></div>
+<div><span>Episodes</span><strong>161</strong></div>
+<div><span>Mentions</span><strong>1,686</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>347</strong></div>
-<div><span>Relationships</span><strong>74</strong></div>
+<div><span>Statements about</span><strong>379</strong></div>
+<div><span>Relationships</span><strong>86</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -187,6 +187,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-52-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 5 mentions" title="2026-09-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-israel-t-00-07-33" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-12-32" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 2 mentions" title="2026-09-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-24-43" style="--pulse-height:18%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 14 mentions" title="2026-09-15 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-israel-t-01-02-18" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 3 mentions" title="2026-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-32-38" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 6 mentions" title="2026-09-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-israel-t-00-39-02" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-31-31" style="--pulse-height:16%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 12 mentions" title="2026-09-25 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-israel-t-01-05-42" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-10-01" style="--pulse-height:18%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 14 mentions" title="2026-09-30 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-israel-t-00-07-51" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-israel-t-00-06-39" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 4 mentions" title="2026-10-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-00-04-07" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-18-09" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -341,6 +353,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-52-52) | 5 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-israel-t-00-07-33) | 3 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-12-32) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-24-43) | 14 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-israel-t-01-02-18) | 3 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-32-38) | 6 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-israel-t-00-39-02) | 3 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-31-31) | 12 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-israel-t-01-05-42) | 3 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-10-01) | 14 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-israel-t-00-07-51) | 4 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-israel-t-00-06-39) | 4 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-00-04-07) | 5 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-18-09) | 4 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12) | 2 |
 
 </details>
 </section>
@@ -352,7 +376,289 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1612)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1686)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
+
+**[00:53:32](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12)**
+> "...nd the world, probably not in Israel, if we're being honest."
+
+**[00:53:42](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12)**
+> "I don't think it operates in Israel. But everywhere else, it seems that we do operate..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (4 mentions)</summary>
+
+**[00:18:09](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-18-09)**
+> "...are known as laundromats, and Israel and other countries, the Pandora Papers might pro..."
+
+**[00:21:02](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-21-02)**
+> "He's also he's Israeli, by the way, Israeli Ukrainian billionaire. If yo..."
+
+**[00:48:01](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-47-33)**
+> "...d and I were both searched in Israel on February 19th. I wish you luck."
+
+**[00:48:15](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-48-15)**
+> "... don't want to be searched in Israel. You do not want to be searched in Israel."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (5 mentions)</summary>
+
+**[00:04:07](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-00-04-07)**
+> "By Israel, and Candace (Candace Owens) is a really bad pers..."
+
+**[00:38:31](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-00-38-31)**
+> "...e who have been a part of the Israel didn't do nothing, nothing to see here with the C..."
+
+**[00:39:32](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-00-39-14)**
+> "... looks like we've cracked the Israel did nothing involving Charlie Kirk's syndicate fu..."
+
+**[01:03:13](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-01-03-13)**
+> "...y very funny, the creation of Israel. Stacy Chapman writes, we don't know that Theo Vo..."
+
+**[01:08:12](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-01-07-51)**
+> "..., anyone working on behalf of Israeli interests should have a disclaimer that they are ..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (4 mentions)</summary>
+
+**[00:06:39](/episodes/ep-ms5ChhZegRg.md#ent-gpe-israel-t-00-06-39)**
+> "...tary operation which involved Israel and Saudi Arabia. You can go down that rabbit hol..."
+
+**[00:12:24](/episodes/ep-ms5ChhZegRg.md#ent-gpe-israel-t-00-12-24)**
+> "...utter a single bad word about Israel. She's been like chief among the people in politi..."
+
+**[00:14:17](/episodes/ep-ms5ChhZegRg.md#ent-gpe-israel-t-00-14-17)**
+> "...e's not Israeli, but she's an Israel operative, no question."
+
+**[00:15:04](/episodes/ep-ms5ChhZegRg.md#ent-gpe-israel-t-00-14-58)**
+> "We all know Israel took over TikTok. That was very, that was just do..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (4 mentions)</summary>
+
+**[00:08:12](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-israel-t-00-07-51)**
+> "...use of his shifting stance on Israel, a shifting stance that turning point USA still w..."
+
+**[00:25:50](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-israel-t-00-25-50)**
+> "June 13th, Iran and Israel 12 day war commences. Bibi Netanyahu (Benjamin Ne..."
+
+**[00:34:09](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-israel-t-00-33-54)**
+> "...ted Charlie (Charlie Kirk) to Israel, and Charlie (Charlie Kirk) declined to go to Isr..."
+
+**[00:35:14](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-israel-t-00-35-03)**
+> "...ly controlling everything for Israel. And particularly during Bill Clinton's term, meg..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (14 mentions)</summary>
+
+**[00:10:01](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-10-01)**
+> "...about her positions regarding Israel and Bibi Netanyahu (Benjamin Netanyahu)."
+
+**[00:10:22](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-10-01)**
+> "... group who doesn't care about Israel."
+
+**[00:10:49](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-10-43)**
+> "...rika Kirk) about her views on Israel, she says, to be quite honest with you, I don't s..."
+
+**[00:11:37](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-11-19)**
+> "...idth to fashion an opinion on Israel as a rabbit hole, as it relates to the at-home an..."
+
+**[00:29:03](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-28-36)**
+> "...him a lion-hearted friends of Israel, of Israel."
+
+**[00:29:14](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-29-14)**
+> "...easingly willing to criticize Israel's actions in Gaza, even as he received mounting pre..."
+
+**[00:29:36](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-29-14)**
+> "...rk) says when I ask her about Israel's actions in Gaza."
+
+**[00:29:44](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-29-14)**
+> "...r to be much more critical of Israel and the interventionist approach to U.S. foreign ..."
+
+**[00:29:59](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-29-59)**
+> "...se where she won't talk about Israel, she won't say anything other than glowing things..."
+
+**[00:30:27](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-30-27)**
+> "...ushing him to be more against Israel, it doesn't sit right. It does not make you think..."
+
+**[00:39:15](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-39-15)**
+> "...y on the Jewish stuff, right, Israel stuff."
+
+**[00:41:56](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-41-39)**
+> "...thing. Ta-da. I actually love Israel and I'm just waiting until I'm president of the U..."
+
+**[00:42:05](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-41-39)**
+> "...hat I'm secretly working with Israel. Reality, of course, is that George (George Farme..."
+
+**[00:51:47](/episodes/ep-5TTkMa49qj8.md#ent-gpe-israel-t-00-51-22)**
+> "... over what was happening with Israel."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (12 mentions)</summary>
+
+**[00:31:31](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-31-31)**
+> "an Israeli flag mixed with the American flag and a speech. T..."
+
+**[00:32:19](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-32-14)**
+> "...It's also very much about the Israel issue and realizing that our government is enslav..."
+
+**[00:32:57](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-32-57)**
+> "...rime Minister of the State of Israel."
+
+**[00:34:10](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-34-03)**
+> "...y sympathetic to the state of Israel via sort of Holocaust brainwashing that being the..."
+
+**[00:34:28](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-34-03)**
+> "...blishing this pariah state of Israel, which has nothing to do with Judaism because the..."
+
+**[00:36:00](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-36-00)**
+> "...ind, just throwing out there, Israel was behind 9-11, everybody knows it, it's so ridi..."
+
+**[00:37:49](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-37-49)**
+> "Israel hammered Hamas. We pummeled Hezbollah."
+
+**[00:38:35](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-38-35)**
+> "...live trees on Wednesday after Israel’s military just uprooted them with bulldozers. So w..."
+
+**[00:48:32](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-48-19)**
+> "...p) to go. He only cares about Israel now."
+
+**[00:48:40](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-48-19)**
+> "...know, being brainwashed about Israel than we have."
+
+**[00:52:20](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-52-20)**
+> "...ve been your perspective when Israel blackmailed you into doing everything you're doin..."
+
+**[00:54:30](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-israel-t-00-54-25)**
+> "Israel is our greatest ally. Did I say otherwise? Israel..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (3 mentions)</summary>
+
+**[01:05:42](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-israel-t-01-05-42)**
+> "...tes Charlie (Charlie Kirk) to Israel and Charlie (Charlie Kirk) declined to go to Isra..."
+
+**[01:19:09](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-israel-t-01-19-09)**
+> "...hy they are invested in this. Israel, Israel, Israel, Israel, Israel, Israel, Israel. ..."
+
+**[01:26:32](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-israel-t-01-26-32)**
+> "... the New York Post, you know, Israel's publication that I accepted $1.5 million from Har..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (3 mentions)</summary>
+
+**[00:39:02](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-israel-t-00-39-02)**
+> "Andrew Kolvet, the state of Israel, the state of France,"
+
+**[00:50:42](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-israel-t-00-50-18)**
+> "...l right, we get it. You know, Israelis, by the way, if you are listening, midterms are o..."
+
+**[00:51:52](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-israel-t-00-51-27)**
+> "... not have to bend the knee to Israel."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (6 mentions)</summary>
+
+**[00:32:45](/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-32-38)**
+> "...is once, they are gaslighting Israel. Bomb the crap out of Gaza while you wait for the..."
+
+**[00:32:57](/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-32-38)**
+> "But last time I checked, Israel was a sovereign nation. The sovereign borders wer..."
+
+**[00:33:17](/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-33-17)**
+> "... break the ceasefire and then Israel will have all just cause to blast them into etern..."
+
+**[00:50:30](/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-50-30)**
+> "... like a special carve out for Israel and I'm grateful I'm grateful for this journey bu..."
+
+**[00:56:54](/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-56-42)**
+> "...dn't, I wasn't on, I knew the Israel stuff was weird, but the location of that dream,"
+
+**[00:57:00](/episodes/ep-BvthGQw3_s0.md#ent-gpe-israel-t-00-56-42)**
+> "...Charlie Kirk) and me being in israel where we were sitting once before and him telling..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (3 mentions)</summary>
+
+**[01:02:52](/episodes/ep-aLJhpxrakCU.md#ent-gpe-israel-t-01-02-18)**
+> "...ran war views, covered up his Israel views and handed Turning Point USA to the Daily W..."
+
+**[01:03:07](/episodes/ep-aLJhpxrakCU.md#ent-gpe-israel-t-01-03-00)**
+> "...he night before ranting about Israel and like pushing Charlie (Charlie Kirk) in that a..."
+
+**[01:03:32](/episodes/ep-aLJhpxrakCU.md#ent-gpe-israel-t-01-03-32)**
+> "...ke, we were all talking about Israel, and now all of a sudden she's very pro-Israel an..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (14 mentions)</summary>
+
+**[00:24:43](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-24-43)**
+> "...he wasn't under pressure from Israel."
+
+**[00:25:03](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-24-43)**
+> "...Epstein (Jeffrey Epstein) was Israel's guy. Okay. That's. Too much coincidence for me."
+
+**[00:36:17](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-35-52)**
+> "...ckly he got on the it was not Israel who killed Charlie Kirk narrative."
+
+**[00:36:25](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-35-52)**
+> "...n actual clip of him visiting Israel shortly after Charlie Kirk passed away. Take a li..."
+
+**[00:36:42](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-36-31)**
+> "Israel thought it'd be a good idea to kill Charlie Kirk ..."
+
+**[00:37:01](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-36-59)**
+> "... Charlie (Charlie Kirk), then Israel didn't do it. That seems like pretty sound positi..."
+
+**[00:40:54](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-40-54)**
+> "...ver people are married to the Israel cause in a way that just unnerves me,"
+
+**[00:41:22](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-41-22)**
+> "... in their background. Because Israel is very good at blackmailing people, okay? And we..."
+
+**[00:44:40](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-44-40)**
+> "...ers and sisters, criticism of Israel, criticism of apartheid, being against genocide i..."
+
+**[00:47:02](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-47-02)**
+> "...nnot speak one bad word about Israel even as we mercilessly kill children, even if it'..."
+
+**[00:48:37](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-48-37)**
+> "...obbying for others because oh israel you can't do that this ball worshipping colony uh..."
+
+**[00:49:16](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-49-16)**
+> "...lionaires. The Goliath is the Israel lobby. It's not a lot of people, but they do have..."
+
+**[00:58:51](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-00-58-51)**
+> "...at I meant so I tweeted no to Israel, you can't, you're talking about Israel. How can ..."
+
+**[01:02:53](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-israel-t-01-02-39)**
+> "...nd and he was turning against israel it's just a fact just a fact they can't undo that..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (2 mentions)</summary>
@@ -5921,7 +6227,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:02:41](/episodes/ep-EtLHqDbxqks.md#t-00-02-41): “Over the phone, while Charlie (Charlie Kirk) was in the car. That's massive. I got to say, for those of us who believe that there is mounting evidence that Israel put a hit on Charlie Kirk, Ben Shapiro receiving updates while Charlie (Charlie Kirk) was dying is not going to go a long way in terms of clearing up any conspiracies. So welcome back to Candace.”
@@ -5929,6 +6235,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:14:50](/episodes/ep-ChuWo-n49B8.md#t-00-14-21): “Cellebrite, it's called an Israeli forensic tech firm to extract those messages. Now, I don't know if it matters to them, but we all kind of think Israel killed Charlie Kirk.”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:34:10](/episodes/ep-YA1FxrDWNIo.md#t-00-34-10): “So my question is, why isn't Turning Point USA making any statements and shutting down this repeat attempt by Israel to lie and to pretend that, towards the end, Charlie (Charlie Kirk) was just authoring love letters to Israel—giving them a perspective of, "Here's how we can win,”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:41:36](/episodes/ep-t4U7NjnUEgc.md#t-00-41-17): “I was always telling the truth about the coordination of an assassination attempt, which involved Israel and French intelligence agencies.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:36:00](/episodes/ep-_Sq5RqP27NY.md#t-00-36-00): “And you were behind, just throwing out there, Israel was behind 9-11, everybody knows it, it's so ridiculous that way, it's like the dumbest thing ever if you don't know that Israel was behind 9-11.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:15:04](/episodes/ep-ms5ChhZegRg.md#t-00-14-58): “We all know Israel took over TikTok. That was very, that was just done in our face. It became to pro-Palestine after October 7th. ... So they said, we're going to get rid of it because China controls it. And then they said, nevermind, we've got this group of Zionist investors and we're just going to buy it and get rid of pro-Palestine talk.”
 
 </details>
 
@@ -5949,7 +6257,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Attacked (4)</summary>
+<summary>Attacked (6)</summary>
 
 - **[United States](/entities/gpe-united-states.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5980,13 +6288,27 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Hamas](/entities/org-hamas.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
+
+</details>
+
+- **[Hezbollah](/entities/org-hezbollah.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:00:35](/episodes/ep-h76ZN-xXC6c.md#t-00-00-00): “Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:09](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Like don't arrive at a debate defending Israel's actions in Gaza.”
@@ -5996,6 +6318,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:41:31](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31): “I'm referring to Israel that worships Baal, worships murder. They are obsessed with death. It's constant destruction.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:15:26](/episodes/ep-ChuWo-n49B8.md#t-00-15-05): “So yeah, we'd rather not trust an Israeli tech firm to extract messages that do not sound at all as though they were written by a native English speaker.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:46:58](/episodes/ep-pc3pxRyNFZk.md#t-00-46-58): “Israel is going to partially withdraw its troops from Gaza ... And yeah, they have destroyed 85% of Gaza. And they're going to try to tell us that we've reached peace.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:38:35](/episodes/ep-_Sq5RqP27NY.md#t-00-38-35): “Like, it was just a few of us, and we’ve starved as many people, we’ve murdered this many people, we killed this many people. We’re never satisfied. And look at this headline in Reuters from yesterday: “Israeli bulldozers smash Palestinian olive trees ahead of annual harvest.” They note the villagers rely upon this. The villagers were wailing over the mangled remains of their olive trees on Wednesday after Israel’s military just uprooted them with bulldozers. So what they do, ... This is what they do. They are naturally destructive and satanic. They are cockroaches. They are parasites. They are being treated like a pariah state because they should be. And they are the very reason that nobody cares about midterms.”
+
+</details>
+
+- **[Macklemore](/entities/person-macklemore.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:44:05](/episodes/ep-kn1E0scy9Wc.md#t-00-44-05): “I want those words to be loud and clear so that people from Gaza all the way to the occupied West Bank know that we have not forgotten them. And this next song was inspired. By the bravery of Columbia University students who led an encampment movement that mobilized the entire world, open up hearts, myself included. So thank you to those students that risked their diplomas, that risked their tuition, that risked their scholarships, that stood up and said no. CUAD students, Students for Justice in Palestine and Jewish Voice for Peace. Thank you guys. To all of my Jewish brothers and sisters, criticism of Israel, criticism of apartheid, being against genocide in no way is a criticism of you. My message is for peace, love for all human beings to be treated with dignity, respect and equality. So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:29:14](/episodes/ep-5TTkMa49qj8.md#t-00-29-14): “But in his last year, Charlie (Charlie Kirk) had become increasingly willing to criticize Israel's actions in Gaza, even as he received mounting pressure from Zionist donors to support the Jewish state, towing the line between two increasingly opposing factions of the Republican Party while trying not to alienate either.”
 
 </details>
 
@@ -6126,11 +6463,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Has Prime Minister (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:41:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05): “That's the prime minister of Israel.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:32:51](/episodes/ep-_Sq5RqP27NY.md#t-00-32-51): “The Assembly will hear an address by His Excellency Benjamin Netanyahu, ... Prime Minister of the State of Israel.”
 
 </details>
 
@@ -6168,7 +6506,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Supported By (6)</summary>
+<summary>Supported By (8)</summary>
 
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -6215,6 +6553,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Handle Idaho Heartland (identity unverified)](/entities/anon-src-BvthGQw3_s0-002.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:32:38](/episodes/ep-BvthGQw3_s0.md#t-00-32-38): “People then started going through granny's tweets and it got a little aggressive, very pro-Israel. I mean. She wrote this once, they are gaslighting Israel. Bomb the crap out of Gaza while you wait for the release of the innocent. Do not pause for one second while they mess with your emotions. She also tweeted this one time. But last time I checked, Israel was a sovereign nation. The sovereign borders were invaded and Jewish blood was shed on Jewish soil. Israel alone knows when it has finished eradicating the invading swine. I mean, this is like Randy [nickname continues in next segment]. Andy, fine [nickname referent unverified]. OK, another one she wrote and she authored a response to someone talking about the ceasefire. Granny wrote, I don't think it's going to matter. They'll wait a few days, regroup and start firing missiles that will break the ceasefire and then Israel will have all just cause to blast them into eternity.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:01:47](/episodes/ep-bIuvTKlFeGo.md#t-01-01-35): “Like I said, President Trump (Donald J. Trump) is in the call. OK, he says on his show he's going to stop covering the Epstein (Jeffrey Epstein) story on the 14th. Erika (Erika Kirk) travels aboard a private flight to Long Beach, California, and she speaks at James Caddis's Calvary Chapel Church. ... She gives a speech at his women's summers of Psalm retreat and she says bizarrely and I'm writing bizarrely that she gives a speech such pro-Israel about a call to arms despite what Charlie (Charlie Kirk) is going through. That's why it's bizarre because you know the pressure that your husband is under. ... I would say pro-Israel.”
+
+</details>
+
 </details>
 
 <details>
@@ -6256,7 +6608,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (38)</summary>
+<summary>Referenced By (44)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -6266,7 +6618,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:02:41](/episodes/ep-EtLHqDbxqks.md#t-00-02-41): “Over the phone, while Charlie (Charlie Kirk) was in the car. That's massive. I got to say, for those of us who believe that there is mounting evidence that Israel put a hit on Charlie Kirk, Ben Shapiro receiving updates while Charlie (Charlie Kirk) was dying is not going to go a long way in terms of clearing up any conspiracies. So welcome back to Candace.”
@@ -6274,6 +6626,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:14:50](/episodes/ep-ChuWo-n49B8.md#t-00-14-21): “Cellebrite, it's called an Israeli forensic tech firm to extract those messages. Now, I don't know if it matters to them, but we all kind of think Israel killed Charlie Kirk.”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:34:10](/episodes/ep-YA1FxrDWNIo.md#t-00-34-10): “So my question is, why isn't Turning Point USA making any statements and shutting down this repeat attempt by Israel to lie and to pretend that, towards the end, Charlie (Charlie Kirk) was just authoring love letters to Israel—giving them a perspective of, "Here's how we can win,”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:41:36](/episodes/ep-t4U7NjnUEgc.md#t-00-41-17): “I was always telling the truth about the coordination of an assassination attempt, which involved Israel and French intelligence agencies.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:36:00](/episodes/ep-_Sq5RqP27NY.md#t-00-36-00): “And you were behind, just throwing out there, Israel was behind 9-11, everybody knows it, it's so ridiculous that way, it's like the dumbest thing ever if you don't know that Israel was behind 9-11.”
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:15:04](/episodes/ep-ms5ChhZegRg.md#t-00-14-58): “We all know Israel took over TikTok. That was very, that was just done in our face. It became to pro-Palestine after October 7th. ... So they said, we're going to get rid of it because China controls it. And then they said, nevermind, we've got this group of Zionist investors and we're just going to buy it and get rid of pro-Palestine talk.”
 
 </details>
 
@@ -6341,6 +6695,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Hamas](/entities/org-hamas.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
+
+</details>
+
+- **[Hezbollah](/entities/org-hezbollah.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49): “Israel hammered Hamas. We pummeled Hezbollah.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
@@ -6375,7 +6743,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:00:35](/episodes/ep-h76ZN-xXC6c.md#t-00-00-00): “Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:09](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Like don't arrive at a debate defending Israel's actions in Gaza.”
@@ -6385,6 +6753,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:41:31](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31): “I'm referring to Israel that worships Baal, worships murder. They are obsessed with death. It's constant destruction.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:15:26](/episodes/ep-ChuWo-n49B8.md#t-00-15-05): “So yeah, we'd rather not trust an Israeli tech firm to extract messages that do not sound at all as though they were written by a native English speaker.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:46:58](/episodes/ep-pc3pxRyNFZk.md#t-00-46-58): “Israel is going to partially withdraw its troops from Gaza ... And yeah, they have destroyed 85% of Gaza. And they're going to try to tell us that we've reached peace.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:38:35](/episodes/ep-_Sq5RqP27NY.md#t-00-38-35): “Like, it was just a few of us, and we’ve starved as many people, we’ve murdered this many people, we killed this many people. We’re never satisfied. And look at this headline in Reuters from yesterday: “Israeli bulldozers smash Palestinian olive trees ahead of annual harvest.” They note the villagers rely upon this. The villagers were wailing over the mangled remains of their olive trees on Wednesday after Israel’s military just uprooted them with bulldozers. So what they do, ... This is what they do. They are naturally destructive and satanic. They are cockroaches. They are parasites. They are being treated like a pariah state because they should be. And they are the very reason that nobody cares about midterms.”
+
+</details>
+
+- **[Macklemore](/entities/person-macklemore.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:44:05](/episodes/ep-kn1E0scy9Wc.md#t-00-44-05): “I want those words to be loud and clear so that people from Gaza all the way to the occupied West Bank know that we have not forgotten them. And this next song was inspired. By the bravery of Columbia University students who led an encampment movement that mobilized the entire world, open up hearts, myself included. So thank you to those students that risked their diplomas, that risked their tuition, that risked their scholarships, that stood up and said no. CUAD students, Students for Justice in Palestine and Jewish Voice for Peace. Thank you guys. To all of my Jewish brothers and sisters, criticism of Israel, criticism of apartheid, being against genocide in no way is a criticism of you. My message is for peace, love for all human beings to be treated with dignity, respect and equality. So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:29:14](/episodes/ep-5TTkMa49qj8.md#t-00-29-14): “But in his last year, Charlie (Charlie Kirk) had become increasingly willing to criticize Israel's actions in Gaza, even as he received mounting pressure from Zionist donors to support the Jewish state, towing the line between two increasingly opposing factions of the Republican Party while trying not to alienate either.”
 
 </details>
 
@@ -6466,11 +6849,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** prime minister of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:41:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05): “That's the prime minister of Israel.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:32:51](/episodes/ep-_Sq5RqP27NY.md#t-00-32-51): “The Assembly will hear an address by His Excellency Benjamin Netanyahu, ... Prime Minister of the State of Israel.”
 
 </details>
 
@@ -6519,6 +6903,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Handle Idaho Heartland (identity unverified)](/entities/anon-src-BvthGQw3_s0-002.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:32:38](/episodes/ep-BvthGQw3_s0.md#t-00-32-38): “People then started going through granny's tweets and it got a little aggressive, very pro-Israel. I mean. She wrote this once, they are gaslighting Israel. Bomb the crap out of Gaza while you wait for the release of the innocent. Do not pause for one second while they mess with your emotions. She also tweeted this one time. But last time I checked, Israel was a sovereign nation. The sovereign borders were invaded and Jewish blood was shed on Jewish soil. Israel alone knows when it has finished eradicating the invading swine. I mean, this is like Randy [nickname continues in next segment]. Andy, fine [nickname referent unverified]. OK, another one she wrote and she authored a response to someone talking about the ceasefire. Granny wrote, I don't think it's going to matter. They'll wait a few days, regroup and start firing missiles that will break the ceasefire and then Israel will have all just cause to blast them into eternity.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:01:47](/episodes/ep-bIuvTKlFeGo.md#t-01-01-35): “Like I said, President Trump (Donald J. Trump) is in the call. OK, he says on his show he's going to stop covering the Epstein (Jeffrey Epstein) story on the 14th. Erika (Erika Kirk) travels aboard a private flight to Long Beach, California, and she speaks at James Caddis's Calvary Chapel Church. ... She gives a speech at his women's summers of Psalm retreat and she says bizarrely and I'm writing bizarrely that she gives a speech such pro-Israel about a call to arms despite what Charlie (Charlie Kirk) is going through. That's why it's bizarre because you know the pressure that your husband is under. ... I would say pro-Israel.”
+
+</details>
+
 - **[Clock Tower X LLC](/entities/org-clock-tower-x-llc.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -6552,7 +6950,135 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (347)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (379)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:18:09](/episodes/ep-yrg_-D6oNHE.md#t-00-18-09) (Accusation) **Candace Owens**: ["Owens suggested that the Pandora Papers might show how tax money sent ..."](/statements/statement-c3350771c1b0.md)
+  - Also about: [Ukraine](/entities/gpe-ukraine.md), [Pandora Papers](/entities/work-pandora-papers.md)
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3)</summary>
+
+- [00:06:39](/episodes/ep-ms5ChhZegRg.md#t-00-06-39) (Accusation) **Candace Owens** (via paraphrase): ["Owens said conspiracy theorists surmised the Las Vegas shooting was a ..."](/statements/statement-baae6c00ea67.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:14:17](/episodes/ep-ms5ChhZegRg.md#t-00-14-17) (Opinion) **Candace Owens**: ["Owens called the Libs of TikTok operator an Israel operative, while sa..."](/statements/statement-c3b5f48998d3.md)
+  - Also about: [Chaya Raichik](/entities/person-chaya-raichik.md), [Libs of TikTok](/entities/org-libs-of-tiktok.md)
+
+- [00:15:04](/episodes/ep-ms5ChhZegRg.md#t-00-14-58) (Accusation) **Candace Owens** (via paraphrase): ["Owens alleged Israel took over TikTok after it became too pro-Palestin..."](/statements/statement-211ec427e5fe.md)
+  - Also about: [TikTok](/entities/org-tiktok.md), [China](/entities/gpe-china.md), [Pro-Palestinian advocacy](/entities/concept-pro-palestinian-advocacy.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (5)</summary>
+
+- [00:11:37](/episodes/ep-5TTkMa49qj8.md#t-00-11-19) (Opinion) **Candace Owens**: ["Owens argued that someone unable to form an opinion on Israel’s releva..."](/statements/statement-0d60e8d50476.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:29:03](/episodes/ep-5TTkMa49qj8.md#t-00-28-36) (Opinion) **Benjamin Netanyahu** (via quoted article): ["Benjamin Netanyahu called Charlie Kirk a “lion-hearted” friend of Isra..."](/statements/statement-0f721b0d64ce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:14](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) (Claim) **Clara Molot** (via quoted article): ["Molot wrote that in his last year Charlie Kirk became increasingly wil..."](/statements/statement-67575892227c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Gaza](/entities/gpe-gaza.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:29:36](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) (Opinion) **Erika Kirk** (via quoted article): ["Erika Kirk said people can question how other leaders run their countr..."](/statements/statement-be80bfa3b76f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Gaza](/entities/gpe-gaza.md), [Freedom of speech](/entities/concept-free-speech.md)
+
+- [00:29:44](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) (Claim) **Tucker Carlson** (via quoted article): ["Tucker Carlson told Molot that, based on personal conversations, he kn..."](/statements/statement-53c8669d05f9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (12)</summary>
+
+- [00:32:19](/episodes/ep-_Sq5RqP27NY.md#t-00-32-14) (Accusation) **Candace Owens**: ["Owens alleged that the US government was enslaved by a foreign nation ..."](/statements/statement-be584e328f0a.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:34:03](/episodes/ep-_Sq5RqP27NY.md#t-00-34-03) (Accusation) **Candace Owens**: ["Owens alleged a decades-long school-system project, dating back to Wor..."](/statements/statement-58ff6b17f8bb.md)
+  - Also about: [The Holocaust](/entities/event-the-holocaust.md), [World War II](/entities/event-world-war-ii.md)
+
+- [00:35:05](/episodes/ep-_Sq5RqP27NY.md#t-00-34-39) (Prediction) **Candace Owens**: ["Owens predicted that, if those responsible for what happened in Palest..."](/statements/statement-ef79313108f9.md)
+  - Also about: [Palestine](/entities/gpe-palestine.md)
+
+- [00:35:38](/episodes/ep-_Sq5RqP27NY.md#t-00-35-38) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said the attack on a country of 1..."](/statements/statement-de9c61735023.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [United States](/entities/gpe-united-states.md)
+
+- [00:36:00](/episodes/ep-_Sq5RqP27NY.md#t-00-36-00) (Accusation) **Candace Owens**: ["Owens asserted that Israel was behind 9-11 and said everybody knew it."](/statements/statement-4fea05c20573.md)
+
+- [00:36:18](/episodes/ep-_Sq5RqP27NY.md#t-00-36-00) (Opinion) **Candace Owens**: ["Owens asserted that Israel benefited from 9-11 and was happy about it."](/statements/statement-6e74d07a8613.md)
+
+- [00:36:49](/episodes/ep-_Sq5RqP27NY.md#t-00-36-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel had fought a seven-fr..."](/statements/statement-db410504f811.md)
+  - Also about: [Hamas](/entities/org-hamas.md), [Hezbollah](/entities/org-hezbollah.md), [Houthis](/entities/org-houthis.md)
+
+- [00:36:55](/episodes/ep-_Sq5RqP27NY.md#t-00-36-55) (Accusation) **Candace Owens**: ["While interrupting Netanyahu’s recorded speech, Owens accused Israeli ..."](/statements/statement-e1dba65b68f9.md)
+
+- [00:37:29](/episodes/ep-_Sq5RqP27NY.md#t-00-37-23) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel and its American frie..."](/statements/statement-98126b2c8862.md)
+  - Also about: [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:49](/episodes/ep-_Sq5RqP27NY.md#t-00-37-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel hammered Hamas and pu..."](/statements/statement-4bb25663f99f.md)
+  - Also about: [Hamas](/entities/org-hamas.md), [Hezbollah](/entities/org-hezbollah.md)
+
+- [00:38:35](/episodes/ep-_Sq5RqP27NY.md#t-00-38-35) (Citation) **Candace Owens**: ["Owens cited a Reuters headline, “Israeli bulldozers smash Palestinian ..."](/statements/statement-4a33504b4a0e.md)
+  - Also about: [Reuters](/entities/org-reuters.md), [Palestinians](/entities/concept-palestinians.md)
+
+- [00:52:20](/episodes/ep-_Sq5RqP27NY.md#t-00-52-20) (Accusation) **Candace Owens**: ["Owens alleged that Israel blackmailed Donald Trump into his actions."](/statements/statement-5876ad938226.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:05:42](/episodes/ep-bIuvTKlFeGo.md#t-01-05-42) (Claim) **Candace Owens**: ["Owens said Charlie Kirk declined an invitation to Israel and also decl..."](/statements/statement-f1ba709feee4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>
+
+- [00:38:49](/episodes/ep-6XfDqKTdFKg.md#t-00-38-49) (Accusation) **Jeremy Boreing** (via quoted speech): ["In a separate podcast clip, Boreing says Owens probably committed the ..."](/statements/statement-37e04823cd93.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (4)</summary>
+
+- [00:32:45](/episodes/ep-BvthGQw3_s0.md#t-00-32-38) (Opinion) **Handle Idaho Heartland (identity unverified)** (via quoted tweet): ["The Idaho Heartland account tweeted: 'Bomb the crap out of Gaza while ..."](/statements/statement-f88b5c048a6a.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md)
+
+- [00:32:57](/episodes/ep-BvthGQw3_s0.md#t-00-32-38) (Opinion) **Handle Idaho Heartland (identity unverified)** (via quoted tweet): ["The Idaho Heartland account tweeted that Israel's sovereign borders ha..."](/statements/statement-ad6832c5cc40.md)
+
+- [00:33:17](/episodes/ep-BvthGQw3_s0.md#t-00-33-17) (Prediction) **Handle Idaho Heartland (identity unverified)** (via quoted tweet): ["The Idaho Heartland account wrote that it did not think a ceasefire wo..."](/statements/statement-bbec5ea84363.md)
+
+- [00:50:30](/episodes/ep-BvthGQw3_s0.md#t-00-50-30) (Opinion) **Candace Owens**: ["Owens said genocide is always wrong and rejected making a special exce..."](/statements/statement-ebe228fd3c54.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (5)</summary>
+
+- [00:25:03](/episodes/ep-kn1E0scy9Wc.md#t-00-24-43) (Accusation) **Candace Owens**: ["Owens asserted that Epstein was 'Israel's guy.'"](/statements/statement-eef5d3d83f27.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:36:31](/episodes/ep-kn1E0scy9Wc.md#t-00-36-31) (Opinion) **Matt Tardio** (via quoted speech): ["Matt Tardio said he ran along the Tel Aviv beach, did not read Hebrew,..."](/statements/statement-8313ffaab9b6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:22](/episodes/ep-kn1E0scy9Wc.md#t-00-41-22) (Accusation) **Candace Owens**: ["Owens accused Israel of being very good at blackmailing people and off..."](/statements/statement-a5e9eb0881a3.md)
+
+- [00:44:40](/episodes/ep-kn1E0scy9Wc.md#t-00-44-40) (Opinion) **Macklemore** (via quoted speech): ["Macklemore told his Jewish brothers and sisters that criticism of Isra..."](/statements/statement-f529702057e1.md)
+
+- [01:02:53](/episodes/ep-kn1E0scy9Wc.md#t-01-02-39) (Claim) **Candace Owens**: ["Responding to a viewer comment, Owens said Charlie Kirk had made up hi..."](/statements/statement-a527d6c5434a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>

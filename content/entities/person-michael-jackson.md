@@ -1,6 +1,6 @@
 ---
 title: "Michael Jackson"
-description: "Michael Jackson (People) - 18 mentions"
+description: "Michael Jackson (People) - 21 mentions"
 id: "person-michael-jackson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-37">2025-11-15 · 00:23:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20">2026-08-06 · 00:39:43</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-person-michael-jackson-t-00-38-00">2026-09-30 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,8 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-michael-jackson-t-00-39-43" style="--pulse-height:33%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-jackson-t-00-41-55" style="--pulse-height:67%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-michael-jackson-t-00-38-00" style="--pulse-height:33%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +58,8 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-michael-jackson-t-00-39-43) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-jackson-t-00-41-55) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-michael-jackson-t-00-38-00) | 1 |
 
 </details>
 </section>
@@ -63,7 +67,26 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:38:00](/episodes/ep-5TTkMa49qj8.md#ent-person-michael-jackson-t-00-38-00)**
+> "... in crisis.' This is like the Michael Jackson thing where you pretend the person's just like ra..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:41:55](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-jackson-t-00-41-55)**
+> "... was a battle that began with Michael Jackson, with Princess Diana, with Kanye West, people who..."
+
+**[00:42:14](/episodes/ep-kn1E0scy9Wc.md#ent-person-michael-jackson-t-00-41-55)**
+> "... was a monster in the case of Michael Jackson, they could say he was a pedophile and we believe..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>

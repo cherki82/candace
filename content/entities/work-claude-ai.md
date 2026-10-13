@@ -1,6 +1,6 @@
 ---
 title: "Claude"
-description: "Claude (Works & Media) - 4 mentions"
+description: "Claude (Works & Media) - 6 mentions"
 id: "work-claude-ai"
 type: "WORK"
 categories:
@@ -17,9 +17,9 @@ Source: [Meet Claude | Anthropic](https://www.anthropic.com/claude)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-00-59-39">2026-08-17 · 00:59:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-claude-ai-t-00-44-41">2026-09-08 · 00:45:19</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-work-claude-ai-t-00-43-22">2026-09-30 · 00:43:22</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Meet Claude | Anthropic](https://www.anthropic.com/claude)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-00-59-39" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-work-claude-ai-t-00-38-25" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-claude-ai-t-00-44-41" style="--pulse-height:50%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-work-claude-ai-t-00-41-00" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [Meet Claude | Anthropic](https://www.anthropic.com/claude)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-00-59-39) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-work-claude-ai-t-00-38-25) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-work-claude-ai-t-00-44-41) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-work-claude-ai-t-00-41-00) | 2 |
 
 </details>
 </section>
@@ -48,7 +50,18 @@ Source: [Meet Claude | Anthropic](https://www.anthropic.com/claude)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:41:24](/episodes/ep-5TTkMa49qj8.md#ent-work-claude-ai-t-00-41-00)**
+> "...way, throw it into ChatGPT or Claude. It's so unhinged. It's unabashed schizophrenia."
+
+**[00:43:22](/episodes/ep-5TTkMa49qj8.md#ent-work-claude-ai-t-00-43-22)**
+> "...e the connection. You can ask Claude. There's nothing, there's nothing of substance he..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

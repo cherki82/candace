@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (65 mentions)
+### Evidence (78 mentions)
+
+**[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
+
+- [01:10:10](/episodes/ep-0pSAhaAZz1w#t-01-10-10): _They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real._
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -49,6 +53,10 @@ object: "person-candace-owens"
 
 - [00:35:54](/episodes/ep-5NQyGuRYbU8#t-00-35-54): _Erika (Erika Kirk) ... Her job is to cry._
 
+**[VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8)**
+
+- [00:24:14](/episodes/ep-5TTkMa49qj8#t-00-24-14): _So I just, I feel like Erica (Erika Kirk) is not telling the truth when she says that was the only thing that fit her. That, I, that, I don't believe that. I feel like that's dumb and she had some other options that were available, and it doesn't, it never feels like a necessary lie._
+
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:11:03](/episodes/ep-5m-Wn6Pr5rM#t-00-11-03): _She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying._
@@ -76,6 +84,10 @@ object: "person-candace-owens"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:48:34](/episodes/ep-B9TyCs-6o_0#t-00-48-34): _Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight._
+
+**[Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0)**
+
+- [00:54:13](/episodes/ep-BvthGQw3_s0#t-00-54-13): _Um the role that I think she has played in sort of destroying the uh what Charlie Kirk believed in as at the helm of his company just as an individual that read that tracks with me if you just kind of go back and look at the history of Erika kirk like that. I feel like is her style it's exceedingly tacky, and it is not something that I would ever do, and I do think it's disrespectful but I Would also say that I don't think that disrespect was even her intent._
 
 **[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
 
@@ -137,6 +149,14 @@ object: "person-candace-owens"
 
 - [00:51:49](/episodes/ep-N4uM8Jdr410#t-00-51-49): _Frank Turek—somebody was full of it. I'm sorry. Um, Ali (commenter; surname unverified) writes, 'Have you seen the clip where Erika says, We don't know how Charlie would feel about the Iran war?' Yeah, I saw that. That deserves way more outrage. Tucker (Tucker Carlson), Bret Weinstein, Joe (Joe Kent) have all confirmed that he was fighting hard behind the scenes to stop it. What a betrayal. It's just what Erika (Erika Kirk) is—what she is. She's reversed course on everything, everything that Charlie (Charlie Kirk) believed. I believe she had more loyalty to people that brought her in—_
 
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:23:11](/episodes/ep-NNiCZk1cuzs#t-00-23-11): _I wrote back, hey, Andrew (Andrew Kolvet), Charlie (Charlie Kirk)'s vision never included forcing his ideas on students ever. He wanted to expand TPUSA organically. He wanted people to sign up for his events and clubs willfully. ... Club America was envisioned by Charlie (Charlie Kirk) as a grassroots movement from willful students. Whatever the hell Erika (Erika Kirk) is doing is clearly. ... There was no forcing people to listen to my underqualified wife because of powerful connections that we have mentioned in this vision._
+
+**[More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU)**
+
+- [00:45:21](/episodes/ep-O4Zw3bCALjU#t-00-45-21): _So I think we should expect another digital assassin piece a la Vanity Fair this time as Erika (Erika Kirk) continues to work with people who her husband would have never worked with to, I don't know, aspire toward being Being seen in a positive light when I think both the left and the right firmly reject her and with good reason we firmly reject Erika (Erika Kirk) because everything she is doing is a 180 to what her husband stood for. He was not a person that would have run the company into the ground within one year. That's for certain. And, you know, I know they are upset about the rumors that she's stepping down, but I would say that's the first positive rumor that's come about Turning Point USA. I since Charlie (Charlie Kirk)'s passing, that would be a good thing if Erika (Erika Kirk) stepped down from the company because she's effectively ruined it and she did it in less than a year, which is kind of incredible._
+
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
 - [00:38:04](/episodes/ep-OgRyiOAVtWU#t-00-38-04): _You have been on a wild pursuit of fame and fortune your entire life. You started doing pageants. I think we showed when you were like 12, okay, sixth grade maybe, and you have not stopped wanting to be in the spotlight._
@@ -193,6 +213,14 @@ object: "person-candace-owens"
 
 - [00:00:33](/episodes/ep-ZzAT2xijKGQ#t-00-00-33): _Of course not. Not even a little bit. It doesn't even matter._
 
+**[SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU)**
+
+- [00:22:55](/episodes/ep-_2DiIbfy4mU#t-00-22-55): _Okay, so I'm done with the Widow Grift. It's expired. It's been a year now. It's over. I think Erika (Erika Kirk), in my opinion, is, I think she's insane. I think there's something very wrong with her. She kind of scares me. There's a real darkness there. And what I'm about to show you and demonstrate to you does not prove that to you, that there's just something socially and emotionally disturbed that I don't think anything will._
+
+**[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
+
+- [00:44:10](/episodes/ep-_Sq5RqP27NY#t-00-44-10): _Okay. Top comments from yesterday's episode. I obviously just unpacked my personal feelings on Erika (Erika Kirk)'s partnership with Andrew Wilson, what I think it signals about her, which is essentially that the public has been correct that she is emotionally disturbed, girl interrupted and sink deep, bro._
+
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 
 - [00:48:56](/episodes/ep-_vg7ucP1E0g#t-00-48-56): _And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company._
@@ -200,6 +228,14 @@ object: "person-candace-owens"
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 
 - [00:34:44](/episodes/ep-a2bZf4fic10#t-00-34-44): _What are you going to do, Erika Kirk? Stage another scene of you crying while you operate behind the scenes, try to take people down, sending out people like you're a queen for them to..._
+
+**[BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU)**
+
+- [00:01:29](/episodes/ep-aLJhpxrakCU#t-00-01-29): _Got to tell you right at the top here, I am amazed. I am always just amazed of the increasing shamelessness, the never ending grift, the desperation to try to sell to the public that Erika (Erika Kirk) really cares about justice when in reality thus far, what she has demonstrated is that she cares deeply about raising money and deeply about her PR, right?_
+
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [00:01:14](/episodes/ep-bIuvTKlFeGo#t-00-01-14): _This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times._
 
 **[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
 
@@ -249,9 +285,17 @@ object: "person-candace-owens"
 
 - [00:26:54](/episodes/ep-kaWtDuoY_ns#t-00-26-54): _She's not authentic. She's not like Charlie Kirk. She doesn't have the Charlie Kirk factor. She has approached everything like an elitist_
 
+**[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
+
+- [00:57:57](/episodes/ep-kn1E0scy9Wc#t-00-57-57): _But I said about her, I abstained entirely. You are correct. The Internet does not forget. And yeah, I don't trust Erika (Erika Kirk) and I don't like her as a human. I don't think that she loved Charlie (Charlie Kirk). I don't I refuse to believe that because no person who loved someone would allow everything that he was fighting in the end to then be protected._
+
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:07:48](/episodes/ep-mFuno0TuuQQ#t-00-07-48): _Erika (Erika Kirk), you lied to my face as we sat down in that hotel and we spoke for four hours._
+
+**[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
+
+- [00:11:52](/episodes/ep-ms5ChhZegRg#t-00-11-52): _They can't see how perfect and godly Erika (Erika Kirk) is because the internet has created the social contagion. The problem is not that Erika (Erika Kirk) keeps getting caught in lie after lie. ... The problem is not that she's unconvincing, that her grief is unconvincing. The problem is that women are internetting._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 
@@ -260,6 +304,10 @@ object: "person-candace-owens"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:31:46](/episodes/ep-q1NRQQAYS_Q#t-00-31-46): _All right, you guys, let's get into Erica (Erika Kirk)'s story regarding her whereabouts on September 10th. Now, we've already established Erica (Erika Kirk) lies and she pivots and she edits and then a bunch of people come out to protect her._
+
+**[LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw)**
+
+- [00:00:12](/episodes/ep-q4m-kGzvwjw#t-00-00-12): _That's the way forward. Anyway, the Vanity Fair writer certainly knew that Erika (Erika Kirk) was a fraud. Like, we know that she is a fraud, but in case you're still imagining that she is this hybrid, capoalico, evangelico. Princess, I'm going to set you guys straight by showing you some text messages that Erika (Erika Kirk) sent last year following her husband's death to the team._
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 
@@ -272,6 +320,10 @@ object: "person-candace-owens"
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 
 - [00:12:52](/episodes/ep-ti5Fxrvegno#t-00-12-52): _Erika (Erika Kirk) should be dragged into a police precinct._
+
+**[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
+
+- [00:10:26](/episodes/ep-yrg_-D6oNHE#t-00-10-26): _Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show._
 
 ### Related
 

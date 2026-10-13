@@ -1,6 +1,6 @@
 ---
 title: "Susie Wiles"
-description: "Susie Wiles (People) - 14 mentions"
+description: "Susie Wiles (People) - 17 mentions"
 id: "person-susie-wiles"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33">2025-10-28 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-susie-wiles-t-00-05-21">2026-09-10 · 00:05:30</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-susie-wiles-t-00-36-17">2026-10-01 · 00:36:23</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-susie-wiles-t-01-12-18" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-susie-wiles-t-00-46-05" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-susie-wiles-t-00-05-21" style="--pulse-height:33%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-susie-wiles-t-00-29-54" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-susie-wiles-t-01-12-18) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-susie-wiles-t-00-46-05) | 1 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-susie-wiles-t-00-05-21) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-susie-wiles-t-00-29-54) | 3 |
 
 </details>
 </section>
@@ -71,7 +73,21 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:30:12](/episodes/ep-q4m-kGzvwjw.md#ent-person-susie-wiles-t-00-29-54)**
+> "...he attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (m..."
+
+**[00:32:50](/episodes/ep-q4m-kGzvwjw.md#ent-person-susie-wiles-t-00-32-36)**
+> "...dees, sorry if you will, were Susie Wiles, J.D. Vance, Todd Blanche, David Warrington, Kash..."
+
+**[00:36:23](/episodes/ep-q4m-kGzvwjw.md#ent-person-susie-wiles-t-00-36-17)**
+> "...t were reported in person are Susie Wiles, Pam Bondi, Todd Blanche, Kash Patel, James Blair..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
@@ -187,7 +203,19 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Met With (1)</summary>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -200,6 +228,13 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign. She is the gatekeeper to the president of the United States.”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:29:59](/episodes/ep-q4m-kGzvwjw.md#t-00-29-54): “Actually, it's not Donald Trump (Donald J. Trump). I think we've corrected that since. J.D. Vance and top advisors meet in a situation room to discuss the Epstein (Jeffrey Epstein) files. ... Absent Donald Trump (Donald J. Trump). You guys ignore that. Donald Trump (Donald J. Trump) was not present. We actually tried to confirm that today and realized that Donald Trump (Donald J. Trump) was not. ... was not there. The attendees were J.D. Vance, Susie Wiles, David Warrington, Todd Blanche, Stephen Chung (meeting participant; name spelling unverified), Caroline Levitt (meeting participant; name spelling unverified), Taylor Budowick (meeting participant; name spelling unverified), James Blair, Stanley Woodward, and Kash Patel and Pam Bondi joined by phone. ... Apparently J.D. Vance was the only one in the room that was arguing for the full files to be released. Again, that's per the New York Times report.”
 
 </details>
 

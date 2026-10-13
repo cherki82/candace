@@ -1,6 +1,6 @@
 ---
 title: "Republican Party"
-description: "Republican Party (Organizations) - 39 mentions"
+description: "Republican Party (Organizations) - 47 mentions"
 id: "org-republican-party"
 type: "ORG"
 aliases:
@@ -23,43 +23,46 @@ Source: [Republican National Committee](https://gop.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-republican-party-t-00-27-09">2025-10-01 · 00:27:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-40-28">2026-08-19 · 00:40:56</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-39-56">2026-10-06 · 00:40:01</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-republican-party-t-00-25-04">Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-15-00">CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-republican-party-t-00-27-09" style="--pulse-height:25%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-republican-party-t-00-32-18" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-party-t-00-02-14" style="--pulse-height:25%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-republican-party-t-00-28-49" style="--pulse-height:75%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-republican-party-t-00-09-41" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-republican-party-t-00-05-08" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-republican-party-t-00-25-04" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-republican-party-t-00-44-49" style="--pulse-height:50%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-republican-party-t-00-24-15" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-30-15" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-republican-party-t-00-33-05" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-09" style="--pulse-height:75%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-republican-party-t-00-20-59" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-republican-party-t-00-32-13" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-republican-party-t-00-33-58" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-republican-party-t-00-40-33" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-republican-party-t-01-40-08" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-37-55" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-org-republican-party-t-00-03-42" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#t-00-32-49" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-republican-party-t-00-41-14" style="--pulse-height:25%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-37-05" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-republican-party-t-00-27-09" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-republican-party-t-00-32-18" style="--pulse-height:20%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-party-t-00-02-14" style="--pulse-height:20%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-republican-party-t-00-28-49" style="--pulse-height:60%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-republican-party-t-00-09-41" style="--pulse-height:40%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-republican-party-t-00-05-08" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-republican-party-t-00-25-04" style="--pulse-height:80%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-republican-party-t-00-44-49" style="--pulse-height:40%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-republican-party-t-00-24-15" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38" style="--pulse-height:40%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-30-15" style="--pulse-height:40%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-republican-party-t-00-33-05" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-09" style="--pulse-height:60%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-republican-party-t-00-20-59" style="--pulse-height:20%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-republican-party-t-00-32-13" style="--pulse-height:20%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-republican-party-t-00-33-58" style="--pulse-height:20%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-republican-party-t-00-40-33" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-republican-party-t-01-40-08" style="--pulse-height:20%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-37-55" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-republican-party-t-00-03-42" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#t-00-32-49" style="--pulse-height:20%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-republican-party-t-00-41-14" style="--pulse-height:20%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14" style="--pulse-height:20%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-37-05" style="--pulse-height:40%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-republican-party-t-00-42-32" style="--pulse-height:20%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-org-republican-party-t-00-10-01" style="--pulse-height:40%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-15-00" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,14 +92,60 @@ Source: [Republican National Committee](https://gop.com/)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-republican-party-t-00-41-14) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-37-05) | 2 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-republican-party-t-00-42-32) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-republican-party-t-00-10-01) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-15-00) | 5 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (5 mentions)</summary>
+
+**[00:15:00](/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-15-00)**
+> "... to look like it's grassroots GOP support."
+
+**[00:15:32](/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-15-32)**
+> "... USA, like what the F is even Republicans like me, then simply go to Gemini or ChatGPT. He ..."
+
+**[00:17:32](/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-17-32)**
+> "... touting reasons to favor the GOP."
+
+**[00:32:10](/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-32-10)**
+> "...deos about Vivek Ramaswamy, a GOP candidate for Ohio governor, and Gabbard (Tulsi G..."
+
+**[00:40:01](/episodes/ep-0pSAhaAZz1w.md#ent-org-republican-party-t-00-39-56)**
+> "I don't care about Republicans. What do you want me to say? Make her look good, ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:10:22](/episodes/ep-5TTkMa49qj8.md#ent-org-republican-party-t-00-10-01)**
+> "...s happening internally in the Republican Party, the war between the neocons who have never been ..."
+
+**[00:29:14](/episodes/ep-5TTkMa49qj8.md#ent-org-republican-party-t-00-29-14)**
+> "...ngly opposing factions of the Republican Party while trying not to alienate either."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:42:32](/episodes/ep-6XfDqKTdFKg.md#ent-org-republican-party-t-00-42-32)**
+> "...d). She wrote: Holy shit, the GOP is genuinely useless. The Democrats want to castr..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -337,12 +386,71 @@ Source: [Republican National Committee](https://gop.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Jamie Mitchell (online commenter; identity unverified)](/entities/anon-src-6XfDqKTdFKg-004.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:42:32](/episodes/ep-6XfDqKTdFKg.md#t-00-42-32): “in lawsuits. Well, what are we—what are we supposed to be crawling over broken glass to vote for? The gas prices, and then you going, LOL, we don't care? That's what you got. We're going to war. We don't want war. We don't care. Your sons are going to die anyways because we want war. This is another person, Jamie Mitchell (online commenter; identity/spelling unverified). She wrote: Holy shit, the GOP is genuinely useless. The Democrats want to castrate your children and completely replace America's demographics,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Jamie Mitchell (online commenter; identity unverified)](/entities/anon-src-6XfDqKTdFKg-004.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:42:32](/episodes/ep-6XfDqKTdFKg.md#t-00-42-32): “in lawsuits. Well, what are we—what are we supposed to be crawling over broken glass to vote for? The gas prices, and then you going, LOL, we don't care? That's what you got. We're going to war. We don't want war. We don't care. Your sons are going to die anyways because we want war. This is another person, Jamie Mitchell (online commenter; identity/spelling unverified). She wrote: Holy shit, the GOP is genuinely useless. The Democrats want to castrate your children and completely replace America's demographics,”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Republican Party (10)</strong></summary>
+<summary><strong class="section-title">Statements about Republican Party (18)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:15:11](/episodes/ep-0pSAhaAZz1w.md#t-00-15-00) (Claim) **Matt Serviuos** (via quoted article): ["Matt Serviuos, quoted in the article Owens read, promoted Elephant Cli..."](/statements/statement-871aea3aa3ed.md)
+  - Also about: [Matt Serviuos](/entities/person-matt-serviuos.md), [Elephant Clipping](/entities/org-elephant-clipping.md), [Google Gemini](/entities/work-google-gemini.md)
+
+- [00:17:06](/episodes/ep-0pSAhaAZz1w.md#t-00-16-49) (Accusation) **Ali Breland** (via quoted article): ["Breland reported joining Elephant Clipping’s Discord after an anonymou..."](/statements/statement-16a014e3d941.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Discord](/entities/org-discord.md), [Astroturfing](/entities/concept-astroturfing.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:29:14](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) (Claim) **Clara Molot** (via quoted article): ["Molot wrote that in his last year Charlie Kirk became increasingly wil..."](/statements/statement-67575892227c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (5)</summary>
+
+- [00:41:40](/episodes/ep-6XfDqKTdFKg.md#t-00-41-22) (Prediction) **Laura Loomer** (via quoted tweet): ["Loomer tweeted that the SAVE America Act would not pass before the mid..."](/statements/statement-739f97777f74.md)
+  - Also about: [SAVE America Act](/entities/law-save-america-act.md), [United States Congress](/entities/org-united-states-congress.md), [Democratic Party](/entities/org-democratic-party.md)
+
+- [00:42:19](/episodes/ep-6XfDqKTdFKg.md#t-00-42-06) (Opinion) **Candace Owens**: ["Owens says she will not tell people to vote for more of this, criticiz..."](/statements/statement-28c2f250414a.md)
+  - Also about: [Mark Levin](/entities/person-mark-levin.md)
+
+- [00:43:48](/episodes/ep-6XfDqKTdFKg.md#t-00-43-28) (Accusation) **Candace Owens**: ["Owens accuses the political figures demanding votes of murdering child..."](/statements/statement-ed986373396f.md)
+
+- [00:45:30](/episodes/ep-6XfDqKTdFKg.md#t-00-44-56) (Promise) **Candace Owens**: ["Owens rejects the midterm voting appeal and says she will homeschool h..."](/statements/statement-f3a0a8907af2.md)
+
+- [00:46:29](/episodes/ep-6XfDqKTdFKg.md#t-00-46-02) (Opinion) **JD Vance** (via quoted speech): ["In a clip, JD Vance asks voters not to give power to the people who ca..."](/statements/statement-1da86800ef57.md)
+  - Also about: [Democratic Party](/entities/org-democratic-party.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2)</summary>

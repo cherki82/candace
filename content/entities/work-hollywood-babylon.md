@@ -1,6 +1,6 @@
 ---
 title: "Hollywood Babylon"
-description: "Hollywood Babylon (Works & Media) - 7 mentions"
+description: "Hollywood Babylon (Works & Media) - 8 mentions"
 id: "work-hollywood-babylon"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-work-hollywood-babylon-t-00-19-29">2025-11-15 · 00:19:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-work-hollywood-babylon-t-00-03-28">2026-07-22 · 00:03:28</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-work-hollywood-babylon-t-00-45-39">2026-09-15 · 00:46:13</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-hollywood-babylon-t-00-23-51" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-work-hollywood-babylon-t-00-03-28" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-work-hollywood-babylon-t-00-45-39" style="--pulse-height:50%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-hollywood-babylon-t-00-23-51) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-work-hollywood-babylon-t-00-03-28) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-work-hollywood-babylon-t-00-45-39) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:46:13](/episodes/ep-kn1E0scy9Wc.md#ent-work-hollywood-babylon-t-00-45-39)**
+> "...as been going on. If you read Hollywood Babylon in my book club, you know exactly what I'm talkin..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

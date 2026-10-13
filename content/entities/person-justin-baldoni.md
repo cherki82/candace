@@ -1,6 +1,6 @@
 ---
 title: "Justin Baldoni"
-description: "Justin Baldoni (People) - 55 mentions"
+description: "Justin Baldoni (People) - 56 mentions"
 id: "person-justin-baldoni"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32">2025-10-28 · 00:45:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-baldoni-t-00-42-42">2026-09-03 · 00:43:14</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-justin-baldoni-t-01-01-28">2026-09-18 · 01:01:47</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01" style="--pulse-height:42%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-baldoni-t-00-42-42" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-justin-baldoni-t-01-01-28" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01) | 5 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-baldoni-t-00-42-42) | 1 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-justin-baldoni-t-01-01-28) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>
+
+**[01:01:47](/episodes/ep-NNiCZk1cuzs.md#ent-person-justin-baldoni-t-01-01-28)**
+> "...f I was that passionate about Justin Baldoni and Blake Lively, you can only imagine"
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -456,7 +466,15 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Baldoni (15)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Baldoni (16)</strong></summary>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1)</summary>
+
+- [01:01:41](/episodes/ep-NNiCZk1cuzs.md#t-01-01-28) (Claim) **Candace Owens**: ["Owens said she kept everyone’s messages forever and denied a plot conc..."](/statements/statement-83fe7cf4e335.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Blake Lively](/entities/person-blake-lively.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

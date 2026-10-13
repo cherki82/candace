@@ -1,0 +1,23 @@
+---
+title: "Erika Kirk spoke with Eben Davidson"
+description: "Evidence for the relationship: Erika Kirk spoke with Eben Davidson"
+relationship_id: "rel-6b0fec63eab4"
+subject: "person-erika-kirk"
+predicate: "spoke with"
+object: "person-eben-davidson"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Erika Kirk](/entities/person-erika-kirk) spoke with [Eben Davidson](/entities/person-eben-davidson)
+
+### Evidence (1 mentions)
+
+**[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
+
+- [00:37:19](/episodes/ep-NNiCZk1cuzs#t-00-37-19): _Yet curiously, on August 20th, 2025, I learned that Erika (Erika Kirk) had a call with Andrew Kolvet and executives at a company called Empress Films, right? ... Namely, this conference call. was with Eben Davidson, who is the company's executive producer. He came out of a long tenure with Paramount Pictures, and he was running the LA office for Empress Films._
+
+### Related
+
+- [Erika Kirk](/entities/person-erika-kirk)
+- [Eben Davidson](/entities/person-eben-davidson)

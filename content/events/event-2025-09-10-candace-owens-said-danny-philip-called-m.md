@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Candace Owens said Danny Philip called Michael McCoy for roughly ten minutes after Charlie Kirk was shot.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
@@ -33,3 +33,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > with his father, and then with Danny Philip for 10 minutes.
+
+### 3. A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemor...
+
+**Episode:** [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md)
+**Timestamp:** [00:18:49](/episodes/ep-kn1E0scy9Wc.md#event-event-2025-09-10-candace-owens-said-danny-philip-called-m-t-00-18-49) 
+<a href="https://www.youtube.com/watch?v=kn1E0scy9Wc&t=1129s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And so he is on the phone with Danny Philip. He concludes that phone call

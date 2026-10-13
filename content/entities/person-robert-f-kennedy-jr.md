@@ -1,6 +1,6 @@
 ---
 title: "Robert F. Kennedy Jr."
-description: "Robert F. Kennedy Jr. (People) - 2 mentions"
+description: "Robert F. Kennedy Jr. (People) - 4 mentions"
 id: "person-robert-f-kennedy-jr"
 type: "PERSON"
 aliases:
@@ -26,11 +26,11 @@ Source: [Robert F. Kennedy, Jr. - HHS](https://www.hhs.gov/about/leadership/robe
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34">2026-01-05 · 00:13:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-14-17">2026-01-05 · 00:14:19</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-robert-f-kennedy-jr-t-00-47-37">2026-10-06 · 00:47:37</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,12 +40,14 @@ Source: [Robert F. Kennedy, Jr. - HHS](https://www.hhs.gov/about/leadership/robe
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-robert-f-kennedy-jr-t-00-31-28" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-robert-f-kennedy-jr-t-00-31-28) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [Robert F. Kennedy, Jr. - HHS](https://www.hhs.gov/about/leadership/robe
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:31:28](/episodes/ep-0pSAhaAZz1w.md#ent-person-robert-f-kennedy-jr-t-00-31-28)**
+> "... and Human Services Secretary Robert F. Kennedy Jr., or the anti-trans activist Riley Gaines, among o..."
+
+**[00:47:37](/episodes/ep-0pSAhaAZz1w.md#ent-person-robert-f-kennedy-jr-t-00-47-37)**
+> "...at's why they can't clip RFK (Robert F. Kennedy Jr.) because, you know, big pharma, big piece of that..."
+
+</details>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
@@ -72,5 +85,21 @@ Source: [Robert F. Kennedy, Jr. - HHS](https://www.hhs.gov/about/leadership/robe
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Robert F. Kennedy Jr. (2)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>
+
+- [00:31:28](/episodes/ep-0pSAhaAZz1w.md#t-00-31-28) (Claim) **Ali Breland** (via quoted article): ["Breland reported that Elephant Clipping prohibited clips of Megyn Kell..."](/statements/statement-4217e08a6468.md)
+  - Also about: [Elephant Clipping](/entities/org-elephant-clipping.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+- [00:47:37](/episodes/ep-0pSAhaAZz1w.md#t-00-47-37) (Opinion) **Candace Owens**: ["Owens guessed that RFK Jr. could not be clipped because pharmaceutical..."](/statements/statement-091cfe9ed430.md)
+  - Also about: [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Brett Cooper"
-description: "Brett Cooper (People) - 38 mentions"
+description: "Brett Cooper (People) - 39 mentions"
 id: "person-brett-cooper"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31">2025-10-07 · 00:58:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-brett-cooper-t-00-43-58">2026-06-24 · 00:44:20</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-brett-cooper-t-00-38-00">2026-09-22 · 00:38:23</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>25</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -42,6 +42,7 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-brett-cooper-t-01-00-30" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-brett-cooper-t-00-29-15" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-brett-cooper-t-00-43-58" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-brett-cooper-t-00-38-00" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-brett-cooper-t-01-00-30) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-brett-cooper-t-00-29-15) | 4 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-brett-cooper-t-00-43-58) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-brett-cooper-t-00-38-00) | 1 |
 
 </details>
 </section>
@@ -66,7 +68,15 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:38:23](/episodes/ep-6XfDqKTdFKg.md#ent-person-brett-cooper-t-00-38-00)**
+> "Brett Cooper, it's his like favorite thing. And he just does t..."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>

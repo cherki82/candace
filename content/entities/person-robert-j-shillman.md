@@ -1,6 +1,6 @@
 ---
 title: "Robert J. Shillman"
-description: "Robert J. Shillman (People) - 9 mentions"
+description: "Robert J. Shillman (People) - 12 mentions"
 id: "person-robert-j-shillman"
 type: "PERSON"
 aliases:
@@ -26,25 +26,26 @@ Source: [Cognex: Robert J. Shillman](https://investor.cognex.com/news/news-detai
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-robert-j-shillman-t-00-59-15">2025-09-22 · 00:59:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-j-shillman-t-00-43-00">2026-02-02 · 00:43:00</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-j-shillman-t-00-27-52">2026-10-01 · 00:28:03</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-j-shillman-t-00-43-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-j-shillman-t-00-07-51">LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#ent-person-robert-j-shillman-t-00-59-15" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-robert-j-shillman-t-00-38-06" style="--pulse-height:50%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-j-shillman-t-00-42-16" style="--pulse-height:50%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-robert-j-shillman-t-00-34-46" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-robert-j-shillman-t-00-20-09" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-j-shillman-t-00-43-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-robert-j-shillman-t-00-59-15" style="--pulse-height:33%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-robert-j-shillman-t-00-38-06" style="--pulse-height:33%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-j-shillman-t-00-42-16" style="--pulse-height:33%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-robert-j-shillman-t-00-34-46" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-robert-j-shillman-t-00-20-09" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-j-shillman-t-00-43-00" style="--pulse-height:67%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-j-shillman-t-00-07-51" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Cognex: Robert J. Shillman](https://investor.cognex.com/news/news-detai
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-robert-j-shillman-t-00-34-46) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-robert-j-shillman-t-00-20-09) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-robert-j-shillman-t-00-43-00) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-j-shillman-t-00-07-51) | 3 |
 
 </details>
 </section>
@@ -67,7 +69,21 @@ Source: [Cognex: Robert J. Shillman](https://investor.cognex.com/news/news-detai
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:08:30](/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-j-shillman-t-00-07-51)**
+> "But when Bob Shillman pulled millions, and he wasn't the only, wasn't t..."
+
+**[00:22:04](/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-j-shillman-t-00-21-46)**
+> "Don't worry about Bob Shillman."
+
+**[00:28:03](/episodes/ep-q4m-kGzvwjw.md#ent-person-robert-j-shillman-t-00-27-52)**
+> "...the Zionist donors freak out. Bob Shillman pulls out millions. Others pull out millions. Tuc..."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>
@@ -180,7 +196,15 @@ Source: [Cognex: Robert J. Shillman](https://investor.cognex.com/news/news-detai
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert J. Shillman (4)</strong></summary>
+<summary><strong class="section-title">Statements about Robert J. Shillman (5)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:08:12](/episodes/ep-q4m-kGzvwjw.md#t-00-07-51) (Accusation) **Candace Owens**: ["Owens alleged that Robert Shillman and other Zionist donors withdrew m..."](/statements/statement-788802483899.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>

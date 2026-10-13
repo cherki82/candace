@@ -1,6 +1,6 @@
 ---
 title: "Freedom of speech"
-description: "Freedom of speech (Concepts) - 24 mentions"
+description: "Freedom of speech (Concepts) - 25 mentions"
 id: "concept-free-speech"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-free-speech-t-00-46-47">2025-09-17 · 00:47:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-free-speech-t-00-33-30">2026-08-31 · 00:33:30</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-free-speech-t-00-29-14">2026-09-30 · 00:29:44</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-free-speech-t-00-39-54" style="--pulse-height:12%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-free-speech-t-01-26-20" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-free-speech-t-00-33-30" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-free-speech-t-00-29-14" style="--pulse-height:12%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-free-speech-t-00-39-54) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-free-speech-t-01-26-20) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-free-speech-t-00-33-30) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-free-speech-t-00-29-14) | 1 |
 
 </details>
 </section>
@@ -73,7 +75,15 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:29:44](/episodes/ep-5TTkMa49qj8.md#ent-concept-free-speech-t-00-29-14)**
+> "...ng in a country where we have freedom of speech. Tucker Carlson told me that based on his persona..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -222,7 +232,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freedom of speech (3)</strong></summary>
+<summary><strong class="section-title">Statements about Freedom of speech (4)</strong></summary>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:29:36](/episodes/ep-5TTkMa49qj8.md#t-00-29-14) (Opinion) **Erika Kirk** (via quoted article): ["Erika Kirk said people can question how other leaders run their countr..."](/statements/statement-be80bfa3b76f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

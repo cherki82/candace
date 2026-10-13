@@ -1,6 +1,6 @@
 ---
 title: "Cairo"
-description: "Cairo (Places) - 38 mentions"
+description: "Cairo (Places) - 41 mentions"
 id: "gpe-cairo"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-16-02">2025-10-30 · 00:16:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-32-40">2026-05-27 · 00:32:56</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cairo-t-00-33-17">2026-10-01 · 00:33:24</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -45,6 +45,8 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-10" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-06-52" style="--pulse-height:64%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 7 mentions" title="2026-05-27 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-cairo-t-01-04-22" style="--pulse-height:9%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cairo-t-00-31-09" style="--pulse-height:18%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +62,8 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-10) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-06-52) | 7 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-cairo-t-01-04-22) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cairo-t-00-31-09) | 2 |
 
 </details>
 </section>
@@ -71,7 +75,26 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:31:21](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cairo-t-00-31-09)**
+> "... the Egyptian plane flew from Cairo through to Paris onto Omaha, Nebraska, and then o..."
+
+**[00:33:24](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-cairo-t-00-33-17)**
+> "...n, Delaware and heads back to Cairo on the 27th. I need to double check that and make..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:04:22](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-cairo-t-01-04-22)**
+> "...gton, Delaware, heads back to Cairo. On August 3rd, Charlie (Charlie Kirk) and Erika ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (7 mentions)</summary>
@@ -247,7 +270,26 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cairo (4)</strong></summary>
+<summary><strong class="section-title">Statements about Cairo (7)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2)</summary>
+
+- [00:31:21](/episodes/ep-q4m-kGzvwjw.md#t-00-31-09) (Claim) **Candace Owens**: ["Owens said an Egyptian plane flew July 20 from Cairo through Paris to ..."](/statements/statement-b0b4d3424269.md)
+  - Also about: [Paris](/entities/gpe-paris.md), [Omaha](/entities/gpe-omaha.md), [Lincoln](/entities/gpe-lincoln.md)
+
+- [00:33:24](/episodes/ep-q4m-kGzvwjw.md#t-00-33-17) (Claim) **Candace Owens**: ["Owens said an Egyptian plane departed Wilmington for Cairo July 27, bu..."](/statements/statement-ead1b8c21528.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:04:15](/episodes/ep-bIuvTKlFeGo.md#t-01-03-40) (Claim) **Candace Owens**: ["Owens said an Egyptian plane later present on the day of Kirk’s assass..."](/statements/statement-9ac448258f10.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Wilmington](/entities/gpe-wilmington.md), [Delaware](/entities/gpe-delaware.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Ivermectin + Mebendazole Parasite Cleanse"
-description: "Ivermectin + Mebendazole Parasite Cleanse (Works & Media) - 3 mentions"
+description: "Ivermectin + Mebendazole Parasite Cleanse (Works & Media) - 4 mentions"
 id: "work-ivermectin-mebendazole-parasite-cleanse"
 type: "WORK"
 aliases:
@@ -25,11 +25,11 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14">2026-05-05 · 00:42:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-30-16">2026-07-16 · 00:30:16</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-39-17">2026-09-16 · 00:39:17</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-27-28" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-30-16" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-39-17" style="--pulse-height:100%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-27-28) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-30-16) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-39-17) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[00:39:17](/episodes/ep-aLJhpxrakCU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-39-17)**
+> "...mpany offers a hard-to-access Rx parasite cleanse, which is USA compounded ivermectin and mebendazo..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -88,5 +98,18 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Ivermectin + Mebendazole Parasite Cleanse (1)</strong></summary>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1)</summary>
+
+- [00:39:17](/episodes/ep-aLJhpxrakCU.md#t-00-39-17) (Claim) **Candace Owens**: ["In the sponsor read, Owens said the Wellness Company’s USA-compounded ..."](/statements/statement-c0b5ac6a1d27.md)
+  - Also about: [The Wellness Company](/entities/org-the-wellness-company.md)
+
+</details>
 
 </details>

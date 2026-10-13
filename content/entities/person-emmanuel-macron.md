@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Macron"
-description: "Emmanuel Macron (People) - 112 mentions"
+description: "Emmanuel Macron (People) - 116 mentions"
 id: "person-emmanuel-macron"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-emmanuel-macron-t-00-57-58">2026-10-05 · 00:57:58</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>116</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -66,6 +66,8 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-emmanuel-macron-t-01-02-41" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-emmanuel-macron-t-01-41-07" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-emmanuel-macron-t-00-23-49" style="--pulse-height:9%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-emmanuel-macron-t-00-57-20" style="--pulse-height:9%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +104,8 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-emmanuel-macron-t-01-02-41) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-emmanuel-macron-t-01-41-07) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-emmanuel-macron-t-00-23-49) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-emmanuel-macron-t-00-57-20) | 2 |
 
 </details>
 </section>
@@ -113,7 +117,29 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+<summary><strong class="section-title">Raw mentions (116)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:57:46](/episodes/ep-ms5ChhZegRg.md#ent-person-emmanuel-macron-t-00-57-20)**
+> "... are just the best. Emmanuel (Emmanuel Macron), why are you gay? Nobody knows. It's a question ..."
+
+**[00:57:58](/episodes/ep-ms5ChhZegRg.md#ent-person-emmanuel-macron-t-00-57-58)**
+> "Why are you gay, Emmanuel Macron? It's just a question, just a question. We've got..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[00:24:07](/episodes/ep-q4m-kGzvwjw.md#ent-person-emmanuel-macron-t-00-23-49)**
+> "...dace (Candace Owens) and says Emmanuel Macron has asked the White House for her to stop discuss..."
+
+**[00:24:15](/episodes/ep-q4m-kGzvwjw.md#ent-person-emmanuel-macron-t-00-23-49)**
+> "Emmanuel Macron was at the White House on this day and put in a p..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -709,7 +735,15 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Emmanuel Macron (21)</strong></summary>
+<summary><strong class="section-title">Statements about Emmanuel Macron (22)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:24:07](/episodes/ep-q4m-kGzvwjw.md#t-00-23-49) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk contacted her February 24 to say Emmanuel Macr..."](/statements/statement-d8485c19e510.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>

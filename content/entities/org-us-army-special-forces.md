@@ -1,6 +1,6 @@
 ---
 title: "United States Army Special Forces"
-description: "United States Army Special Forces (Organizations) - 16 mentions"
+description: "United States Army Special Forces (Organizations) - 19 mentions"
 id: "org-us-army-special-forces"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-39-00">2025-12-18 · 00:39:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23">2026-08-06 · 00:18:30</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-us-army-special-forces-t-00-45-33">2026-09-23 · 00:45:33</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -46,6 +46,8 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-army-special-forces-t-00-13-58" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-army-special-forces-t-00-11-08" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-us-army-special-forces-t-00-35-18" style="--pulse-height:33%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-us-army-special-forces-t-00-45-33" style="--pulse-height:17%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +61,8 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-us-army-special-forces-t-00-13-58) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-us-army-special-forces-t-00-11-08) | 6 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-us-army-special-forces-t-00-35-18) | 2 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-us-army-special-forces-t-00-45-33) | 1 |
 
 </details>
 </section>
@@ -70,7 +74,26 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:45:33](/episodes/ep-_2DiIbfy4mU.md#ent-org-us-army-special-forces-t-00-45-33)**
+> "...ed to me the majority of them Green Berets didn't help like, OK, the military getting togeth..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:35:26](/episodes/ep-kn1E0scy9Wc.md#ent-org-us-army-special-forces-t-00-35-18)**
+> "...nd he's like oh he's a former green beret so he's he can explain to you why magic bullets m..."
+
+**[00:36:17](/episodes/ep-kn1E0scy9Wc.md#ent-org-us-army-special-forces-t-00-35-52)**
+> "former Green Beret, and I'm going to show you just how quickly he go..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -178,7 +201,7 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 </details>
 
 <details>
-<summary>Has Former Member (2)</summary>
+<summary>Has Former Member (3)</summary>
 
 - **[Gary Melton](/entities/person-gary-melton.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -194,10 +217,17 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 </details>
 
+- **[Matt Tardio](/entities/person-matt-tardio.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:35:52](/episodes/ep-kn1E0scy9Wc.md#t-00-35-52): “like split in the air and bounce off of charlie (Charlie Kirk)'s neck and it's a modern day miracle and similarly they introduced this character matt tardio because turning point never wants to explore the plausibility that it's not tyler robinson like i said it's like their lives and freedom depend upon it it depends upon it being tyler robinson and so they regularly bring in these people and matt tardio is one of these individuals popped up out of nowhere former Green Beret, and I'm going to show you just how quickly he got on the it was not Israel who killed Charlie Kirk narrative. This is an actual clip of him visiting Israel shortly after Charlie Kirk passed away. Take a listen.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Gary Melton](/entities/person-gary-melton.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -213,6 +243,13 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 </details>
 
+- **[Matt Tardio](/entities/person-matt-tardio.md)** formerly member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:35:52](/episodes/ep-kn1E0scy9Wc.md#t-00-35-52): “like split in the air and bounce off of charlie (Charlie Kirk)'s neck and it's a modern day miracle and similarly they introduced this character matt tardio because turning point never wants to explore the plausibility that it's not tyler robinson like i said it's like their lives and freedom depend upon it it depends upon it being tyler robinson and so they regularly bring in these people and matt tardio is one of these individuals popped up out of nowhere former Green Beret, and I'm going to show you just how quickly he got on the it was not Israel who killed Charlie Kirk narrative. This is an actual clip of him visiting Israel shortly after Charlie Kirk passed away. Take a listen.”
+
+</details>
+
 - **[Bradley D. Hansell](/entities/person-bradley-d-hansell.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -225,7 +262,15 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Army Special Forces (1)</strong></summary>
+<summary><strong class="section-title">Statements about United States Army Special Forces (2)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>
+
+- [00:45:33](/episodes/ep-_2DiIbfy4mU.md#t-00-45-33) (Opinion) **Candace Owens**: ["Owens says the forceful response from influencers, many seemingly Gree..."](/statements/statement-ff3ae5a2321b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

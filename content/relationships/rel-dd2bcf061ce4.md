@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -28,6 +28,10 @@ object: "person-candace-owens"
 **[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
 
 - [00:49:45](/episodes/ep-sKuYLNx3iRo#t-00-49-45): _They rave about how easy it is to use. In fact, it's so simple, even Paramount not so tactical could probably figure it out._
+
+**[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
+
+- [00:39:34](/episodes/ep-yrg_-D6oNHE#t-00-39-34): _It's just, it's a lot going on. And then I saw this, I was almost in tears. Paramount Tactical, Paramount not so tactical, just, he's just, I can't believe it. Just makes us look so bad that this person was in the military. Like, it makes people think that they can just take over our country. That's honestly the, if Paramount not so tactical continues to have a platform, we are just going to routinely demonstrate to, to people around the world that we are weak._
 
 ### Related
 

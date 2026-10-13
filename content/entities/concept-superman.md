@@ -1,6 +1,6 @@
 ---
 title: "Superman"
-description: "Superman (Concepts) - 26 mentions"
+description: "Superman (Concepts) - 29 mentions"
 id: "concept-superman"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-superman-t-00-47-02">2025-09-19 · 00:47:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01">2026-08-14 · 00:40:01</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-concept-superman-t-00-41-24">2026-09-25 · 00:41:31</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,6 +48,8 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-superman-t-00-41-01" style="--pulse-height:67%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-superman-t-00-15-23" style="--pulse-height:33%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-concept-superman-t-00-34-05" style="--pulse-height:67%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-concept-superman-t-00-41-24" style="--pulse-height:33%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +72,8 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-superman-t-00-41-01) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-superman-t-00-15-23) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-concept-superman-t-00-34-05) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-concept-superman-t-00-41-24) | 1 |
 
 </details>
 </section>
@@ -81,7 +85,26 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:41:31](/episodes/ep-bIuvTKlFeGo.md#ent-concept-superman-t-00-41-24)**
+> "...sey rooftop and had a miracle Superman neck, I think that that should be explored more."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:34:19](/episodes/ep-O4Zw3bCALjU.md#ent-concept-superman-t-00-34-05)**
+> "...g who you are in the story, a Superman neck."
+
+**[00:34:34](/episodes/ep-O4Zw3bCALjU.md#ent-concept-superman-t-00-34-34)**
+> "... Charlie (Charlie Kirk) had a Superman neck. He ate vegetables. Oh, it was just another ..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>

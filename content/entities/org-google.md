@@ -1,6 +1,6 @@
 ---
 title: "Google"
-description: "Google (Organizations) - 62 mentions"
+description: "Google (Organizations) - 68 mentions"
 id: "org-google"
 type: "ORG"
 categories:
@@ -17,11 +17,11 @@ Source: [Google — About](https://about.google/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41">2025-09-24 · 00:24:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-google-t-00-41-59">2026-09-03 · 00:42:26</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-46-12">2026-10-06 · 00:46:46</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>68</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -68,6 +68,10 @@ Source: [Google — About](https://about.google/)
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-04-25" style="--pulse-height:20%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-google-t-00-34-16" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-google-t-00-41-59" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-google-t-00-21-19" style="--pulse-height:20%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-google-t-00-15-32" style="--pulse-height:10%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-org-google-t-00-24-39" style="--pulse-height:10%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-24-08" style="--pulse-height:20%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -111,6 +115,10 @@ Source: [Google — About](https://about.google/)
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-04-25) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-google-t-00-34-16) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-google-t-00-41-59) | 1 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-google-t-00-21-19) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-google-t-00-15-32) | 1 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-google-t-00-24-39) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-24-08) | 2 |
 
 </details>
 </section>
@@ -122,7 +130,45 @@ Source: [Google — About](https://about.google/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>
+
+**[00:24:08](/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-24-08)**
+> "...at when they looked into this Google server, it, one of Erika (Erika Kirk)'s dear frie..."
+
+**[00:46:46](/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-46-12)**
+> "... he's connected. He's got the Google server, his employees have the Google server with..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
+
+**[00:25:15](/episodes/ep-ms5ChhZegRg.md#ent-org-google-t-00-24-39)**
+> "... now, do not inundate us with Google searches."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:15:58](/episodes/ep-kn1E0scy9Wc.md#ent-org-google-t-00-15-32)**
+> "George (George Zinn), Tyler Robinson's phone, the Google server that would have Tyler (Tyler Robinson)'s phone location data on September 10th. He signs off on that."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:21:30](/episodes/ep-O4Zw3bCALjU.md#ent-org-google-t-00-21-19)**
+> "...ile, that he was worried that Google was going to hack him."
+
+**[00:21:55](/episodes/ep-O4Zw3bCALjU.md#ent-org-google-t-00-21-55)**
+> "That via Google. Okay, so why is he lying days later about that? ..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -510,7 +556,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Google (2)</strong></summary>
+<summary><strong class="section-title">Statements about Google (3)</strong></summary>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (1)</summary>
+
+- [00:21:30](/episodes/ep-O4Zw3bCALjU.md#t-00-21-19) (Accusation) **Candace Owens**: ["Owens alleged Terryl Farnsworth lied to her by saying he did not know ..."](/statements/statement-eba38a82d214.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2)</summary>

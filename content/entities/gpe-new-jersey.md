@@ -1,6 +1,6 @@
 ---
 title: "New Jersey"
-description: "New Jersey (Places) - 9 mentions"
+description: "New Jersey (Places) - 11 mentions"
 id: "gpe-new-jersey"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of New Jersey](https://www.nj.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-jersey-t-00-00-01">2025-11-04 · 00:00:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-new-jersey-t-00-07-06">2026-07-16 · 00:07:12</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-new-jersey-t-00-38-10">2026-09-25 · 00:38:18</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [State of New Jersey](https://www.nj.gov/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-jersey-t-00-41-27" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-new-jersey-t-00-24-47" style="--pulse-height:50%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-new-jersey-t-00-06-22" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-new-jersey-t-00-37-00" style="--pulse-height:100%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [State of New Jersey](https://www.nj.gov/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-jersey-t-00-41-27) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-new-jersey-t-00-24-47) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-new-jersey-t-00-06-22) | 2 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-new-jersey-t-00-37-00) | 2 |
 
 </details>
 </section>
@@ -56,7 +58,18 @@ Source: [State of New Jersey](https://www.nj.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:37:00](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-new-jersey-t-00-37-00)**
+> "other country the size of New Jersey capable"
+
+**[00:38:18](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-new-jersey-t-00-38-10)**
+> "...tics through only the size of New Jersey."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>

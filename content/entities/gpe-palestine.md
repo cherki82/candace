@@ -1,6 +1,6 @@
 ---
 title: "Palestine"
-description: "Palestine (Places) - 75 mentions"
+description: "Palestine (Places) - 88 mentions"
 id: "gpe-palestine"
 type: "GPE"
 categories:
@@ -18,35 +18,39 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46">2025-09-18 · 00:55:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50">2026-08-07 · 01:01:05</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>75</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-palestine-t-00-38-37">2026-10-07 · 00:38:37</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-palestine-t-00-03-28">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-00-32">A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46" style="--pulse-height:25%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#t-00-43-29" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-palestine-t-00-53-40" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-palestine-t-00-44-39" style="--pulse-height:25%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-palestine-t-00-44-34" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-palestine-t-00-07-51" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-palestine-t-00-51-13" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-00-12-00" style="--pulse-height:75%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-palestine-t-00-36-57" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-palestine-t-01-10-45" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-palestine-t-00-20-32" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-palestine-t-00-39-00" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-30-11" style="--pulse-height:75%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-palestine-t-00-03-28" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50" style="--pulse-height:75%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46" style="--pulse-height:14%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#t-00-43-29" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-palestine-t-00-53-40" style="--pulse-height:29%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-palestine-t-00-44-39" style="--pulse-height:14%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-palestine-t-00-44-34" style="--pulse-height:29%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-palestine-t-00-07-51" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-palestine-t-00-51-13" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-00-12-00" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-palestine-t-00-36-57" style="--pulse-height:14%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-palestine-t-01-10-45" style="--pulse-height:14%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-palestine-t-00-20-32" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-palestine-t-00-39-00" style="--pulse-height:14%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-30-11" style="--pulse-height:43%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31" style="--pulse-height:14%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-palestine-t-00-03-28" style="--pulse-height:57%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50" style="--pulse-height:43%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-00-32" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 7 mentions" title="2026-09-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-palestine-t-00-34-39" style="--pulse-height:29%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#t-00-00-01" style="--pulse-height:43%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-palestine-t-00-38-37" style="--pulse-height:14%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +72,10 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-palestine-t-00-03-28) | 4 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50) | 3 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-00-32) | 7 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-palestine-t-00-34-39) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-00-01) | 3 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-palestine-t-00-38-37) | 1 |
 
 </details>
 </section>
@@ -79,7 +87,66 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:38:37](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-palestine-t-00-38-37)**
+> "... it's missing some colors for Palestine. I would say honestly, I'd go with Mexico at a fi..."
+
+</details>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
+
+**[00:00:16](/episodes/ep-ms5ChhZegRg.md#t-00-00-01)**
+> "I mean, another mysterious death that's connected to the Epstein (Jeffrey Epstein) files-ish. Also, you have country singer Zach Bryan shattering the attendance record at Gillette Stadium while wearing a free Palestine shirt."
+
+**[00:45:03](/episodes/ep-ms5ChhZegRg.md#t-00-44-43)**
+> "And Macklemore did what Macklemore always does. He got on stage. But this time he said free Palestine and an old perv."
+
+**[00:45:48](/episodes/ep-ms5ChhZegRg.md#t-00-45-21)**
+> "Zach Bryan hits the stage and he is wearing a Free Palestine shirt. I mean, just a perfect response."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
+
+**[00:34:51](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-palestine-t-00-34-39)**
+> "...en what you are capable of in Palestine."
+
+**[00:35:05](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-palestine-t-00-34-39)**
+> "...e done what they have done in Palestine to maintain their power, you better believe that ..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (7 mentions)</summary>
+
+**[00:01:04](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-00-32)**
+> "... gets on stage. He says, free Palestine. Suddenly powerful sexual deviant type billionair..."
+
+**[00:42:48](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-42-35)**
+> "...caust that is taking place in Palestine, which should sicken anybody who has a soul."
+
+**[00:43:40](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-43-31)**
+> "...ar and dear to my heart, free Palestine."
+
+**[00:43:57](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-43-31)**
+> "I said free Palestine."
+
+**[00:44:40](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-43-31)**
+> "...ents, Students for Justice in Palestine and Jewish Voice for Peace. Thank you guys. To al..."
+
+**[00:45:12](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-45-12)**
+> "So I say free Palestine. I say free Lebanon. I say free Cuba. I say free ..."
+
+**[00:45:50](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-palestine-t-00-45-39)**
+> "...y are enacting a Holocaust in Palestine. That's what's happening right now."
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
@@ -250,12 +317,56 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Supported By (1)</summary>
+
+- **[Macklemore](/entities/person-macklemore.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:43:31](/episodes/ep-kn1E0scy9Wc.md#t-00-43-31): “I've been trying to figure out a way to say this all day. One of the reasons why I wanted to come on this tour was because I wanted to stand up here. On stages and stadiums across America and say two words that are very near and dear to my heart, free Palestine. I said free Palestine. I want those words to be loud and clear so that people from Gaza all the way to the occupied West Bank know that we have not forgotten them. And this next song was inspired. By the bravery of Columbia University students who led an encampment movement that mobilized the entire world, open up hearts, myself included. So thank you to those students that risked their diplomas, that risked their tuition, that risked their scholarships, that stood up and said no. CUAD students, Students for Justice in Palestine and Jewish Voice for Peace. Thank you guys. To all of my Jewish brothers and sisters, criticism of Israel, criticism of apartheid, being against genocide in no way is a criticism of you. My message is for peace, love for all human beings to be treated with dignity, respect and equality. So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Macklemore](/entities/person-macklemore.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:43:31](/episodes/ep-kn1E0scy9Wc.md#t-00-43-31): “I've been trying to figure out a way to say this all day. One of the reasons why I wanted to come on this tour was because I wanted to stand up here. On stages and stadiums across America and say two words that are very near and dear to my heart, free Palestine. I said free Palestine. I want those words to be loud and clear so that people from Gaza all the way to the occupied West Bank know that we have not forgotten them. And this next song was inspired. By the bravery of Columbia University students who led an encampment movement that mobilized the entire world, open up hearts, myself included. So thank you to those students that risked their diplomas, that risked their tuition, that risked their scholarships, that stood up and said no. CUAD students, Students for Justice in Palestine and Jewish Voice for Peace. Thank you guys. To all of my Jewish brothers and sisters, criticism of Israel, criticism of apartheid, being against genocide in no way is a criticism of you. My message is for peace, love for all human beings to be treated with dignity, respect and equality. So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Palestine (16)</strong></summary>
+<summary><strong class="section-title">Statements about Palestine (20)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>
+
+- [00:35:05](/episodes/ep-_Sq5RqP27NY.md#t-00-34-39) (Prediction) **Candace Owens**: ["Owens predicted that, if those responsible for what happened in Palest..."](/statements/statement-ef79313108f9.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (3)</summary>
+
+- [00:43:31](/episodes/ep-kn1E0scy9Wc.md#t-00-43-31) (Opinion) **Macklemore** (via quoted speech): ["Macklemore said one reason he joined the tour was to say 'free Palesti..."](/statements/statement-212c179bcd7e.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md), [West Bank](/entities/gpe-west-bank.md)
+
+- [00:45:12](/episodes/ep-kn1E0scy9Wc.md#t-00-45-12) (Opinion) **Macklemore** (via quoted speech): ["Macklemore said 'free Palestine,' 'free Lebanon,' 'free Cuba,' 'free C..."](/statements/statement-753a3fee7216.md)
+  - Also about: [Lebanon](/entities/gpe-lebanon.md), [Cuba](/entities/gpe-cuba.md), [Congo](/entities/gpe-congo.md)
+
+- [00:45:50](/episodes/ep-kn1E0scy9Wc.md#t-00-45-39) (Accusation) **Candace Owens**: ["Owens accused the pro-Israel lobby of enacting a Holocaust in Palestin..."](/statements/statement-c368f5c949d9.md)
+  - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

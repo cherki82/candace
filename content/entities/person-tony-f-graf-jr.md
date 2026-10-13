@@ -1,6 +1,6 @@
 ---
 title: "Tony F. Graf Jr."
-description: "Tony F. Graf Jr. (People) - 7 mentions"
+description: "Tony F. Graf Jr. (People) - 11 mentions"
 id: "person-tony-f-graf-jr"
 type: "PERSON"
 aliases:
@@ -27,24 +27,25 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48">2025-10-01 · 00:06:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-02-24">2026-09-02 · 00:02:24</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-08-50">2026-09-15 · 00:09:22</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-07-43">A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#t-00-25-38" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#t-00-16-15" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tony-f-graf-jr-t-00-31-08" style="--pulse-height:50%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-02-24" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-05-48" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#t-00-25-38" style="--pulse-height:25%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#t-00-16-15" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tony-f-graf-jr-t-00-31-08" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-02-24" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-07-43" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 4 mentions" title="2026-09-15 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#t-00-16-15) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tony-f-graf-jr-t-00-31-08) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-02-24) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-07-43) | 4 |
 
 </details>
 </section>
@@ -66,7 +68,24 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (4 mentions)</summary>
+
+**[00:08:20](/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-07-43)**
+> "...skip that and now Judge Tony (Tony F. Graf Jr.) and we can come off of this. This is fine."
+
+**[00:08:34](/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-08-24)**
+> "So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer..."
+
+**[00:09:15](/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-08-50)**
+> "Do-ish of Judge Graff (Tony F. Graf Jr.) discussing what percentage of the work that he d..."
+
+**[00:09:22](/episodes/ep-kn1E0scy9Wc.md#ent-person-tony-f-graf-jr-t-00-08-50)**
+> "Take a listen to Judge Graff (Tony F. Graf Jr.) in his own words."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -120,9 +139,10 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 <summary>Appointed By (1)</summary>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-05-48): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them.”
 
 </details>
 
@@ -142,12 +162,46 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Formerly Worked For (4)</summary>
 
-- **[Spencer Cox](/entities/person-spencer-cox.md)** appointed this
+- **[Salt Lake County District Attorney’s Office](/entities/org-salt-lake-county-district-attorneys-office.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+- **[Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+- **[Davis County Attorney’s Office](/entities/org-davis-county-attorneys-office.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+- **[Utah County Attorney’s Office Special Victims Unit](/entities/org-utah-county-attorney-special-victims-unit.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
+
+- **[Spencer Cox](/entities/person-spencer-cox.md)** appointed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-05-48): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them.”
 
 </details>
 
@@ -159,12 +213,48 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 
 </details>
 
+- **[Salt Lake County District Attorney’s Office](/entities/org-salt-lake-county-district-attorneys-office.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+- **[Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+- **[Davis County Attorney’s Office](/entities/org-davis-county-attorneys-office.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
+- **[Utah County Attorney’s Office Special Victims Unit](/entities/org-utah-county-attorney-special-victims-unit.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24): “So Judge Graff (Tony F. Graf Jr.), right, newly appointed by Governor Cox (Spencer Cox) in August of 2025, just before Charlie (Charlie Kirk)'s assassination, spent seven years with Salt Lake City District Attorney's Office. I want you to remember that, the District Attorney's Office, because we're going to speak about them. them a few times. He was prosecuting child and adult sexual crimes. Before then, he was leading the special victims unit at the Utah County's attorney's office, who we're also going to discuss, before moving to Davis County attorney's office where he continued handling physical and sexual abuse cases. Now, credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tony F. Graf Jr. (2)</strong></summary>
+<summary><strong class="section-title">Statements by Tony F. Graf Jr. (3)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>
+
+- [00:09:30](/episodes/ep-kn1E0scy9Wc.md#t-00-09-25) [○] (Claim) ["Tony Graf said his specialty was special victims prosecution and 95% of his work..."](/statements/statement-7469515bfb1a.md)
+  - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2)</summary>
@@ -180,7 +270,17 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tony F. Graf Jr. (9)</strong></summary>
+<summary><strong class="section-title">Statements about Tony F. Graf Jr. (11)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>
+
+- [00:08:34](/episodes/ep-kn1E0scy9Wc.md#t-00-08-24) (Claim) **Candace Owens**: ["Owens said Judge Tony Graf was appointed by Governor Cox in August of ..."](/statements/statement-05fe3f79ebaa.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:09:30](/episodes/ep-kn1E0scy9Wc.md#t-00-09-25) (Claim) **Tony F. Graf Jr.** (via quoted speech): ["Tony Graf said his specialty was special victims prosecution and 95% o..."](/statements/statement-7469515bfb1a.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

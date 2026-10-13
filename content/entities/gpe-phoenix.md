@@ -1,6 +1,6 @@
 ---
 title: "Phoenix"
-description: "Phoenix (Places) - 44 mentions"
+description: "Phoenix (Places) - 49 mentions"
 id: "gpe-phoenix"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-phoenix-t-00-15-16">2025-10-09 · 00:15:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-phoenix-t-00-43-18">2026-09-08 · 00:43:47</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-phoenix-t-00-34-40">2026-10-07 · 00:35:13</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -57,6 +57,9 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-phoenix-t-00-15-26" style="--pulse-height:100%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 5 mentions" title="2026-07-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52" style="--pulse-height:20%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-phoenix-t-00-43-18" style="--pulse-height:20%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-phoenix-t-00-06-45" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-phoenix-t-00-22-01" style="--pulse-height:40%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-phoenix-t-00-34-40" style="--pulse-height:20%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +85,9 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-phoenix-t-00-15-26) | 5 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-phoenix-t-00-43-18) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-phoenix-t-00-06-45) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-phoenix-t-00-22-01) | 2 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-phoenix-t-00-34-40) | 1 |
 
 </details>
 </section>
@@ -93,7 +99,37 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:35:13](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-phoenix-t-00-34-40)**
+> "...hrough its national office in Phoenix. And some of the MEAC members."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:22:18](/episodes/ep-5TTkMa49qj8.md#ent-gpe-phoenix-t-00-22-01)**
+> "...ct that the event was held in Phoenix."
+
+**[00:22:23](/episodes/ep-5TTkMa49qj8.md#ent-gpe-phoenix-t-00-22-01)**
+> "...ca (Erika Kirk) lives, right? Phoenix Scottsdale is that's where Erica (Erika Kirk) liv..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[00:07:06](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-phoenix-t-00-06-45)**
+> "...mbers at Turning Point USA in Phoenix seeking assistance in connecting with Dan Flood a..."
+
+**[00:36:53](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-phoenix-t-00-36-53)**
+> "...hrough its national office in Phoenix. And when certain major events members expressed ..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -333,9 +369,10 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <summary>Headquarters Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:22:59](/episodes/ep-HGtMfbePDKk.md#t-00-22-52): “They declined to go on the record, but they invited me to their Phoenix headquarters where I sat down with Erika and other leadership.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:35:13](/episodes/ep-yrg_-D6oNHE.md#t-00-34-40): “Crofts (Macy Crofts) also reportedly preferred the TPUSA manage online ticketing through its national office in Phoenix. And some of the MEAC members.”
 
 </details>
 
@@ -345,9 +382,10 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <summary>Location Of (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#t-00-28-45): “In the near future, there will be a live stream here in Phoenix where we address in a clear and comprehensive way the claims and accusations—the false accusations—that have been made against Charlie (Charlie Kirk)'s family, friends, and the people here at Turning Point. ... If Candace is available, we would sincerely welcome her participation in that live stream at our studio here in Phoenix.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:36:53](/episodes/ep-bIuvTKlFeGo.md#t-00-36-53): “She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix. And when certain major events members expressed reservations, including Robin Ebmeyer, UVU's director of emergency management and safety.”
 
 </details>
 
@@ -383,9 +421,10 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#t-00-28-45): “In the near future, there will be a live stream here in Phoenix where we address in a clear and comprehensive way the claims and accusations—the false accusations—that have been made against Charlie (Charlie Kirk)'s family, friends, and the people here at Turning Point. ... If Candace is available, we would sincerely welcome her participation in that live stream at our studio here in Phoenix.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:36:53](/episodes/ep-bIuvTKlFeGo.md#t-00-36-53): “She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix. And when certain major events members expressed reservations, including Robin Ebmeyer, UVU's director of emergency management and safety.”
 
 </details>
 
@@ -397,9 +436,10 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** headquartered in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:22:59](/episodes/ep-HGtMfbePDKk.md#t-00-22-52): “They declined to go on the record, but they invited me to their Phoenix headquarters where I sat down with Erika and other leadership.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:35:13](/episodes/ep-yrg_-D6oNHE.md#t-00-34-40): “Crofts (Macy Crofts) also reportedly preferred the TPUSA manage online ticketing through its national office in Phoenix. And some of the MEAC members.”
 
 </details>
 

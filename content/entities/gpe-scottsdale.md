@@ -1,6 +1,6 @@
 ---
 title: "Scottsdale, Arizona"
-description: "Scottsdale, Arizona (Places) - 88 mentions"
+description: "Scottsdale, Arizona (Places) - 90 mentions"
 id: "gpe-scottsdale"
 type: "GPE"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45">2025-10-31 · 00:41:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-18-21">2026-04-21 · 00:18:21</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-scottsdale-t-00-11-47">2026-10-07 · 00:12:04</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>90</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -58,6 +58,8 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-scottsdale-t-00-24-21" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-04-36" style="--pulse-height:22%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-09-17" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-scottsdale-t-00-22-01" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-scottsdale-t-00-11-47" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,6 +87,8 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-scottsdale-t-00-24-21) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-04-36) | 4 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-09-17) | 2 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-scottsdale-t-00-22-01) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-scottsdale-t-00-11-47) | 1 |
 
 </details>
 </section>
@@ -96,7 +100,23 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
+
+**[00:12:04](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-scottsdale-t-00-11-47)**
+> "He actually lives in Scottsdale, so he mailed them here just so I could mail them..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
+
+**[00:22:23](/episodes/ep-5TTkMa49qj8.md#ent-gpe-scottsdale-t-00-22-01)**
+> "...a Kirk) lives, right? Phoenix Scottsdale is that's where Erica (Erika Kirk) lives. So ther..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
@@ -506,7 +526,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Residence Of (2)</summary>
+<summary>Residence Of (3)</summary>
 
 - **[Vance Voetberg](/entities/person-vance-voetberg.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -522,10 +542,17 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:22:23](/episodes/ep-5TTkMa49qj8.md#t-00-22-01): “That's where Erica (Erika Kirk) lives, right? Phoenix Scottsdale is that's where Erica (Erika Kirk) lives. So there.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -559,6 +586,13 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04): “this person who lives in Scottsdale, Arizona and is a billionaire, and that is where Turning Point USA is based, knowing this person's background is incredibly compelling, okay? This individual that they mentioned that we should take a look into or learn more about, his name is Pierre Falcone.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:22:23](/episodes/ep-5TTkMa49qj8.md#t-00-22-01): “That's where Erica (Erika Kirk) lives, right? Phoenix Scottsdale is that's where Erica (Erika Kirk) lives. So there.”
 
 </details>
 

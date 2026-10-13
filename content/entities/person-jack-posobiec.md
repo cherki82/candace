@@ -1,6 +1,6 @@
 ---
 title: "Jack Posobiec"
-description: "Jack Posobiec (People) - 15 mentions"
+description: "Jack Posobiec (People) - 16 mentions"
 id: "person-jack-posobiec"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-05">2025-09-22 · 00:48:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#t-01-00-32">2026-07-16 · 01:00:54</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jack-posobiec-t-00-18-41">2026-10-01 · 00:18:41</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -39,6 +39,7 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-jack-posobiec-t-00-45-28" style="--pulse-height:10%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-jack-posobiec-t-00-06-25" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#t-01-00-32" style="--pulse-height:10%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jack-posobiec-t-00-18-41" style="--pulse-height:10%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jack-posobiec-t-00-45-28) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-jack-posobiec-t-00-06-25) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-01-00-32) | 1 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jack-posobiec-t-00-18-41) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
+
+**[00:18:41](/episodes/ep-q4m-kGzvwjw.md#ent-person-jack-posobiec-t-00-18-41)**
+> "...gan McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lauren Chen, Chris..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>

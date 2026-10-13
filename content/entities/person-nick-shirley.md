@@ -1,6 +1,6 @@
 ---
 title: "Nick Shirley"
-description: "Nick Shirley (People) - 53 mentions"
+description: "Nick Shirley (People) - 55 mentions"
 id: "person-nick-shirley"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-33-50">2026-03-24 · 00:34:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-55">2026-05-26 · 00:16:55</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-08-32">2026-10-05 · 00:08:32</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-nick-shirley-t-00-45-57" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-nick-shirley-t-00-28-40" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 12 mentions" title="2026-05-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-19" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-07-54" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-nick-shirley-t-00-45-57) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-nick-shirley-t-00-28-40) | 12 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-19) | 2 |
+| 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-07-54) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
+
+**[00:08:23](/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-07-54)**
+> "...lfare scandal in Minneapolis, Nick Shirley, also goes to Brazil."
+
+**[00:08:32](/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-08-32)**
+> "...'s Twitter account, and Nick (Nick Shirley) probably doesn't know that, for some work that h..."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
@@ -302,7 +315,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 </details>
 
 <details>
-<summary>Interviewed By (2)</summary>
+<summary>Interviewed By (3)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -315,6 +328,13 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:28:13](/episodes/ep-KpxIBWkNsSs.md#t-00-28-13): “pb who was one of the people who issued a kind statement about Nick Shirley because gasp candace doesn't believe that he infiltrated a gang in 48 hours hosted him on his show and they show the clip of what i said and the pbds pretending he had no idea he completely already knew i said this even the whole little scene you're going to watch between them is just so contrived it just bothers me on a level He had no idea. He completely already knew I said this.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:08:32](/episodes/ep-ms5ChhZegRg.md#t-00-08-32): “I'm not going to get into it, but. He was kind of relatively unknown to the public. He was doing some other work, but he also happened to be the very last guest on the Charlie Kirk show, picked by Andrew Kolvet, who runs Charlie (Charlie Kirk)'s Twitter account, and Nick (Nick Shirley) probably doesn't know that, for some work that he had done on the border. ... And they said, hey, come on Charlie (Charlie Kirk)'s show. And he did that. But it turns out, despite this, despite their best push, the welfare abuse Somali scandal was not big enough to make us move on from it. And now we're a year into this, a year, over a year into this, and it seems that they can't manufacture a story that's big enough to make the world move on from Charlie Kirk.”
 
 </details>
 
@@ -333,7 +353,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -373,6 +393,13 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:08:32](/episodes/ep-ms5ChhZegRg.md#t-00-08-32): “I'm not going to get into it, but. He was kind of relatively unknown to the public. He was doing some other work, but he also happened to be the very last guest on the Charlie Kirk show, picked by Andrew Kolvet, who runs Charlie (Charlie Kirk)'s Twitter account, and Nick (Nick Shirley) probably doesn't know that, for some work that he had done on the border. ... And they said, hey, come on Charlie (Charlie Kirk)'s show. And he did that. But it turns out, despite this, despite their best push, the welfare abuse Somali scandal was not big enough to make us move on from it. And now we're a year into this, a year, over a year into this, and it seems that they can't manufacture a story that's big enough to make the world move on from Charlie Kirk.”
+
+</details>
+
 </details>
 
 </details>
@@ -407,7 +434,15 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Shirley (5)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Shirley (6)</strong></summary>
+
+<details>
+<summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>
+
+- [00:08:23](/episodes/ep-ms5ChhZegRg.md#t-00-07-54) (Claim) **Candace Owens**: ["Owens said Nick Shirley uncovered the Minneapolis welfare scandal and ..."](/statements/statement-274366068d44.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>

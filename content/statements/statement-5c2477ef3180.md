@@ -25,7 +25,7 @@ veracity: "unverifiable"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
 
@@ -42,6 +42,14 @@ veracity: "unverifiable"
 <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1814s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > charlie didn't let him on a show charlie said no to Bibi (Benjamin Netanyahu) net and yahoo when Bibi (Benjamin Netanyahu) wanted to take turning point to the next level charlie said no okay to Bibi (Benjamin Netanyahu) net and yahoo who is a gangster you don't get to tell Bibi (Benjamin Netanyahu) net and yahoo no we all know this and so i i just want people i just want people to know the truth which is that and obviously i release text messages they've left me no choice but to abandon the pro-israel cause
+
+### 3. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
+
+**Episode:** [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md)
+**Timestamp:** [00:49:06](/episodes/ep-5TTkMa49qj8.md#t-00-48-33) 
+<a href="https://www.youtube.com/watch?v=5TTkMa49qj8&t=2946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie (Charlie Kirk) was in the Hamptons. Receiving a phone call from Bibi Netanyahu (Benjamin Netanyahu) offering to take Turning Point USA to the next level, but we don't know in exchange for what. ... We just know that Charlie (Charlie Kirk) said no.
 
 ## Verification
 

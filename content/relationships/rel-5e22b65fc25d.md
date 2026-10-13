@@ -11,7 +11,7 @@ object: "person-kash-patel"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) friend of [Kash Patel](/entities/person-kash-patel)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88)**
 
@@ -24,6 +24,10 @@ object: "person-kash-patel"
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
 - [00:49:12](/episodes/ep-YFmRH8p5lt0#t-00-49-12): _Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting._
+
+**[WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo)**
+
+- [01:00:33](/episodes/ep-bIuvTKlFeGo#t-01-00-33): _I would love to see that. And I'm going to trust my friends, Kash Patel, Dan Bongino, my friend Pam Bondi, all these guys._
 
 ### Related
 

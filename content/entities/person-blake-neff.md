@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 426 mentions"
+description: "Blake Neff (People) - 533 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,97 +24,110 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-45-04">2026-09-09 · 00:45:04</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>426</strong></div>
-<div><span>Statements by</span><strong>58</strong></div>
-<div><span>Statements about</span><strong>81</strong></div>
-<div><span>Relationships</span><strong>49</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-51-47">2026-10-08 · 00:52:18</a></strong></div>
+<div><span>Episodes</span><strong>91</strong></div>
+<div><span>Mentions</span><strong>533</strong></div>
+<div><span>Statements by</span><strong>72</strong></div>
+<div><span>Statements about</span><strong>114</strong></div>
+<div><span>Relationships</span><strong>71</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a> (20 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01">More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400</a> (33 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-5autG89PW6w.md#t-00-15-02" style="--pulse-height:15%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32" style="--pulse-height:10%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-10-04" style="--pulse-height:10%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32" style="--pulse-height:40%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-15-02" style="--pulse-height:9%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-10-04" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32" style="--pulse-height:24%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#t-00-05-50" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-01" style="--pulse-height:40%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14" style="--pulse-height:45%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41" style="--pulse-height:60%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 12 mentions" title="2025-12-05 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36" style="--pulse-height:70%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 14 mentions" title="2025-12-05 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-01" style="--pulse-height:24%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14" style="--pulse-height:27%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41" style="--pulse-height:36%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 12 mentions" title="2025-12-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36" style="--pulse-height:42%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 14 mentions" title="2025-12-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-blake-neff-t-00-37-15" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05" style="--pulse-height:15%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36" style="--pulse-height:20%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37" style="--pulse-height:10%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05" style="--pulse-height:10%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05" style="--pulse-height:9%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36" style="--pulse-height:12%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17" style="--pulse-height:12%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-blake-neff-t-00-07-27" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55" style="--pulse-height:35%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:10%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55" style="--pulse-height:21%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-13-26" style="--pulse-height:55%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-44-46" style="--pulse-height:10%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-15" style="--pulse-height:35%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-13-26" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-44-46" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-15" style="--pulse-height:21%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-blake-neff-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50" style="--pulse-height:10%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28" style="--pulse-height:45%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28" style="--pulse-height:27%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:60%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 12 mentions" title="2026-04-02 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-blake-neff-t-00-02-07" style="--pulse-height:10%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:80%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 16 mentions" title="2026-04-21 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-46-57" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54" style="--pulse-height:15%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36" style="--pulse-height:20%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:36%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 12 mentions" title="2026-04-02 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16" style="--pulse-height:15%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-blake-neff-t-00-02-07" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:48%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 16 mentions" title="2026-04-21 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-46-57" style="--pulse-height:15%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54" style="--pulse-height:9%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02" style="--pulse-height:30%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 6 mentions" title="2026-05-11 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09" style="--pulse-height:45%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 9 mentions" title="2026-05-13 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-30-37" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-14-14" style="--pulse-height:60%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 12 mentions" title="2026-05-18 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06" style="--pulse-height:15%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02" style="--pulse-height:18%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 6 mentions" title="2026-05-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09" style="--pulse-height:27%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 9 mentions" title="2026-05-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-30-37" style="--pulse-height:15%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-14-14" style="--pulse-height:36%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 12 mentions" title="2026-05-18 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06" style="--pulse-height:9%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-blake-neff-t-01-03-29" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-blake-neff-t-00-16-41" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11" style="--pulse-height:10%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 10 mentions" title="2026-06-15 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32" style="--pulse-height:20%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45" style="--pulse-height:45%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 9 mentions" title="2026-06-22 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:70%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 14 mentions" title="2026-07-14 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:40%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56" style="--pulse-height:30%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05" style="--pulse-height:35%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-00-01-46" style="--pulse-height:90%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 18 mentions" title="2026-07-21 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 10 mentions" title="2026-07-22 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-blake-neff-t-00-09-42" style="--pulse-height:15%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-blake-neff-t-00-09-06" style="--pulse-height:70%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 14 mentions" title="2026-07-30 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27" style="--pulse-height:30%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 10 mentions" title="2026-06-15 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45" style="--pulse-height:27%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 9 mentions" title="2026-06-22 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:42%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 14 mentions" title="2026-07-14 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:24%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56" style="--pulse-height:18%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05" style="--pulse-height:21%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-00-01-46" style="--pulse-height:55%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 18 mentions" title="2026-07-21 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01" style="--pulse-height:30%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 10 mentions" title="2026-07-22 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-blake-neff-t-00-09-42" style="--pulse-height:9%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-blake-neff-t-00-09-06" style="--pulse-height:42%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 14 mentions" title="2026-07-30 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-blake-neff-t-00-00-47" style="--pulse-height:25%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:55%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 11 mentions" title="2026-08-04 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-blake-neff-t-00-08-10" style="--pulse-height:15%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-blake-neff-t-00-05-52" style="--pulse-height:30%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-blake-neff-t-00-48-35" style="--pulse-height:10%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-blake-neff-t-00-12-30" style="--pulse-height:20%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:15%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-blake-neff-t-00-42-07" style="--pulse-height:10%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-person-blake-neff-t-00-01-00" style="--pulse-height:35%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-blake-neff-t-00-00-47" style="--pulse-height:15%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 11 mentions" title="2026-08-04 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-blake-neff-t-00-08-10" style="--pulse-height:9%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-blake-neff-t-00-05-52" style="--pulse-height:18%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-blake-neff-t-00-48-35" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-blake-neff-t-00-12-30" style="--pulse-height:12%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:9%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-blake-neff-t-00-42-07" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-blake-neff-t-00-01-00" style="--pulse-height:21%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58" style="--pulse-height:25%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 20 mentions" title="2026-09-02 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00" style="--pulse-height:40%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:75%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 15 mentions" title="2026-09-08 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-08-10" style="--pulse-height:15%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58" style="--pulse-height:15%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55" style="--pulse-height:12%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18" style="--pulse-height:61%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 20 mentions" title="2026-09-02 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00" style="--pulse-height:24%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:45%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 15 mentions" title="2026-09-08 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-08-10" style="--pulse-height:9%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-blake-neff-t-00-44-28" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 2 mentions" title="2026-09-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-blake-neff-t-00-19-28" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-00-41" style="--pulse-height:58%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 19 mentions" title="2026-09-18 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-00-40" style="--pulse-height:24%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 8 mentions" title="2026-09-21 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:15%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 5 mentions" title="2026-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-10-13" style="--pulse-height:21%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 7 mentions" title="2026-09-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-person-blake-neff-t-00-40-00" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-blake-neff-t-00-02-37" style="--pulse-height:12%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-person-blake-neff-t-00-02-34" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-neff-t-01-06-52" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-blake-neff-t-01-05-06" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:61%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 20 mentions" title="2026-10-07 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:100%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 33 mentions" title="2026-10-08 · 33 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -198,6 +211,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00) | 8 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-00-42) | 15 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-08-10) | 3 |
+| 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-blake-neff-t-00-44-28) | 2 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-blake-neff-t-00-19-28) | 2 |
+| 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-00-41) | 19 |
+| 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-00-40) | 8 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-blake-neff-t-00-00-01) | 5 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-10-13) | 7 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-person-blake-neff-t-00-40-00) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-blake-neff-t-00-02-37) | 4 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-blake-neff-t-00-02-34) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-neff-t-01-06-52) | 2 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-blake-neff-t-01-05-06) | 1 |
+| 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-00-01) | 20 |
+| 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01) | 33 |
 
 </details>
 </section>
@@ -205,11 +231,395 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (426)</strong></summary>
+<summary><strong class="section-title">Raw mentions (533)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (33 mentions)</summary>
+
+**[00:00:11](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01)**
+> "...sode special. And Blakey Poo (Blake Neff), I'd like to dedicate today's episode to you, gi..."
+
+**[00:00:27](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-27)**
+> "...nyway, today we must sentence Blake Neff, right? I feel we must do that appropriately, of ..."
+
+**[00:01:33](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-01-13)**
+> "You know what, guys? Blakey (Blake Neff) hurt my feelings yesterday. He called me so many..."
+
+**[00:01:55](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-01-55)**
+> "... on the inside. I sad, Blake (Blake Neff)."
+
+**[00:02:29](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-02-29)**
+> "Unfortunately for Blake (Blake Neff), I've been researching September 10th extensivel..."
+
+**[00:02:49](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-02-49)**
+> "Also, Blake Neff, his existence in general. Everything about what ..."
+
+**[00:03:18](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-02-49)**
+> "...hat other value add is Blake (Blake Neff)?"
+
+**[00:03:27](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-03-27)**
+> "... first we were told by Blake (Blake Neff) the story about Mikey McCoy's quivering lip, a l..."
+
+**[00:03:37](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-03-27)**
+> "That Blake (Blake Neff) would never forget, followed by an intimate conv..."
+
+**[00:09:08](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-08-56)**
+> "... can show you, is that Blake (Blake Neff) and Danny Philip reappear upon the scene just be..."
+
+**[00:09:19](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-08-56)**
+> "Where were you, Blake (Blake Neff)?"
+
+**[00:09:22](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-08-56)**
+> "...member where you went, Blake (Blake Neff), after Mikey (Mikey McCoy)'s quivering lip?"
+
+**[00:10:37](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-10-09)**
+> "...there you go, there's Blakey (Blake Neff) and Nate (Nate Walker) and Danny (Danny Philip) ..."
+
+**[00:11:07](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-10-58)**
+> "...xt up, we find our characters Blake Neff, Danny Philip, and Nate Walker, and security memb..."
+
+**[00:13:10](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-13-10)**
+> "...s backpack and that is Blake (Blake Neff)."
+
+**[00:13:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-13-10)**
+> "...ot Nate Walker, Danny Philip, Blake Neff and Mikey McCoy in this shot and then making up t..."
+
+**[00:14:02](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-13-48)**
+> "Blake Neff, Nate Walker, and Danny Philip, and in vehicle tw..."
+
+**[00:15:02](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-15-02)**
+> "... making up that tail end with Blake Neff and Chris (Christopher Rhoades)."
+
+**[00:16:15](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-15-55)**
+> "Mikey (Mikey McCoy) and Blake Neff and Danny Philip with the federal officer, and on..."
+
+**[00:19:26](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-19-13)**
+> "...g at the hospital with Blake (Blake Neff) so we can safely assume that they didn't just fo..."
+
+**[00:19:34](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-19-13)**
+> "...e sure that, you know, Blake (Blake Neff), Neff and Danny (Danny Philip) are safe. They're..."
+
+**[00:24:40](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-24-40)**
+> "Anyway, your move, Blakey (Blake Neff). Your move, because you just it sounded like you..."
+
+**[00:38:38](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-38-22)**
+> "Now, when Blake (Blake Neff) tells the story, it makes it seem like Mikey (Mi..."
+
+**[00:38:47](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-38-22)**
+> "Blake (Blake Neff) just told us he said, "No one's giving any infor..."
+
+**[00:39:28](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-39-05)**
+> "...nflicts with Mike with Blake (Blake Neff)'s earlier assertion that Mikey (Mikey McCoy) was..."
+
+**[00:40:22](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-40-22)**
+> "...Nate (Nate Walker) and Blake (Blake Neff) and Mikey (Mikey McCoy). If you're going to be h..."
+
+**[00:44:30](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-44-30)**
+> "...ng to be the Mikey McCoy car, Blake Neff and Danny Philip to the hospital escorted by an o..."
+
+**[00:45:45](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-45-14)**
+> "...m yesterday's episode, Blake (Blake Neff) speaking again on a live murder. I meant to say,..."
+
+**[00:45:55](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-45-55)**
+> ".... Pickle Fairy writes, Blake (Blake Neff) done neft up. I love that. Blake (Blake Neff) do..."
+
+**[00:46:10](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-45-55)**
+> "...of grit. That is true. Blake (Blake Neff) said murdered instead of married. I wonder who w..."
+
+**[00:50:13](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-50-13)**
+> "...confused with the behavior of Blake Neff, Andrew Kolvet and Erika Kirk. It's almost like t..."
+
+**[00:51:54](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-51-47)**
+> "...ow writes, "The more unhinged Blake Neff gets, the more flamboyant he becomes." He does. H..."
+
+**[00:52:18](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-51-47)**
+> "...tainly is not. I mean, Blake (Blake Neff) is in a way he's impressive."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (20 mentions)</summary>
+
+**[00:00:15](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-00-01)**
+> "...ng on. In other news, we have Blake Neff. He is crashing out after our episode yesterday."
+
+**[00:00:37](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-00-01)**
+> "No, Blake (Blake Neff), no. How dare you? I'm not going to stand for th..."
+
+**[00:00:45](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-00-45)**
+> "...se it is the source of Blake (Blake Neff)'s panic, the true source of Blake (Blake Neff)'s..."
+
+**[00:01:32](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-01-32)**
+> "Blakey (Blake Neff), no."
+
+**[00:02:17](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-02-09)**
+> "...forget that Andrew Kolvet and Blake Neff over at Turning Point USA have expressed these ve..."
+
+**[00:02:35](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-02-09)**
+> "... of humor. Yesterday evening, Blake Neff joined an X live Space."
+
+**[00:02:45](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-02-09)**
+> "...e way. Just not advisable for Blake Neff to just speak."
+
+**[00:04:04](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-04-04)**
+> "Blake (Blake Neff),"
+
+**[00:04:07](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-04-07)**
+> "... identity unverified), Blake (Blake Neff) just accidentally said that..."
+
+**[00:04:28](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-04-28)**
+> "...ight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for mu..."
+
+**[00:04:35](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-04-28)**
+> "...hy would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking th..."
+
+**[00:05:10](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-05-10)**
+> "... are we talking about, Blake (Blake Neff)? You can't just say stuff. You seem really upset..."
+
+**[00:06:55](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-06-42)**
+> "...apparent to us is that Blake (Blake Neff) has a very distinct pattern. OK, he suffers thro..."
+
+**[00:09:28](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-09-18)**
+> "...ook, I understand why Blakey (Blake Neff)'s mad. Blakey (Blake Neff) boy gets really angry..."
+
+**[00:12:25](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-12-16)**
+> "...seems to be settling. Blakey (Blake Neff) is off the rails. The Atlantic article informed ..."
+
+**[00:23:40](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-23-01)**
+> "Blake Neff is crashing out. Why? What's going on, guys?"
+
+**[00:44:39](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-44-13)**
+> "...get darker. Like I said, when Blake Neff starts freaking out, we're getting close to somet..."
+
+**[00:47:33](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-47-33)**
+> "...verified) writes, this Blake (Blake Neff) slip reminds me of September 18th, 2025, when An..."
+
+**[00:51:26](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-51-06)**
+> "Blake Collins writes, Blake (Blake Neff) is literally the wine mom who is sitting back wa..."
+
+**[00:51:32](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-51-06)**
+> "... accuse my audience of being, Blake Neff most certainly is. He's a wine mom who's, like, s..."
+
+</details>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:05:06](/episodes/ep-0pSAhaAZz1w.md#ent-person-blake-neff-t-01-05-06)**
+> "...light us. This is like such a Blake Neff thing. What are you talking about? We don't have ..."
+
+</details>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (2 mentions)</summary>
+
+**[01:07:19](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-neff-t-01-06-52)**
+> "...stion offers Blake Lively and Blake Neff]? Blake Lively or Blake Neff?""
+
+**[01:07:43](/episodes/ep-q4m-kGzvwjw.md#ent-person-blake-neff-t-01-07-37)**
+> "I feel like you got to put Blake Neff next to Ryan Reynolds because they're kind of mor..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:02:34](/episodes/ep-5TTkMa49qj8.md#ent-person-blake-neff-t-00-02-34)**
+> "...tart with just checking in on Blake Neff, because I remember he bookmarked my tweet, didn'..."
+
+**[00:03:19](/episodes/ep-5TTkMa49qj8.md#ent-person-blake-neff-t-00-03-19)**
+> "And Blake (Blake Neff), who thought he was just being so funny, decided..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:40:27](/episodes/ep-_Sq5RqP27NY.md#ent-person-blake-neff-t-00-40-00)**
+> "We unpacked the absurdity of Blake Neff's sit down interview wherein he just says all the t..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (4 mentions)</summary>
+
+**[00:03:14](/episodes/ep-bIuvTKlFeGo.md#ent-person-blake-neff-t-00-02-37)**
+> "Somebody get Andrew Kolvet, Blake Neff. Somebody wake up the widow. Get the pastors."
+
+**[00:08:56](/episodes/ep-bIuvTKlFeGo.md#ent-person-blake-neff-t-00-08-26)**
+> "...ined. And yet, Andrew Kolvet, Blake Neff, every single day they're beating the drum, talki..."
+
+**[01:17:50](/episodes/ep-bIuvTKlFeGo.md#ent-person-blake-neff-t-01-17-50)**
+> "...is last year, the audacity of Blake Neff, the audacity of Andrew Kolvet, but most of all, ..."
+
+**[01:29:18](/episodes/ep-bIuvTKlFeGo.md#ent-person-blake-neff-t-01-29-18)**
+> "...ully this review helps Blake (Blake Neff) sort through and start to remember some things t..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (7 mentions)</summary>
+
+**[00:10:26](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-10-13)**
+> "Some people like Blake Neff like to imagine that he's assembling a rifle. Som..."
+
+**[00:10:54](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-10-54)**
+> "...don't have to imagine is what Blake Neff is doing at this exact time. Blake Neff is on his..."
+
+**[00:11:18](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-10-54)**
+> "...sistants, new hire, who drove Blake Neff to the event in an SUV."
+
+**[00:12:01](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-11-33)**
+> "...a serious bout of amnesia for Blake Neff. I don't know what's going on in that SUV, why he..."
+
+**[00:12:18](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-12-18)**
+> "...of us were also wondering why Blake Neff was being driven like he had called an Uber drive..."
+
+**[00:43:32](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-43-02)**
+> "...g that bizarrely gay photo of Blake Neff with Jeremy (person pictured with Blake Neff; sur..."
+
+**[00:49:21](/episodes/ep-_2DiIbfy4mU.md#ent-person-blake-neff-t-00-49-21)**
+> "Blake Neff is obviously unwell. It's the nicest way that we ..."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (5 mentions)</summary>
+
+**[00:00:26](/episodes/ep-6XfDqKTdFKg.md#ent-person-blake-neff-t-00-00-01)**
+> "...is unnecessarily gay photo of Blake Neff and Jeremy Boreing, which they consciously select..."
+
+**[00:32:34](/episodes/ep-6XfDqKTdFKg.md#ent-person-blake-neff-t-00-32-34)**
+> "...ng an hours long podcast with Blake Neff. who also fixates and Bobby Sausalito, who I told..."
+
+**[00:33:12](/episodes/ep-6XfDqKTdFKg.md#ent-person-blake-neff-t-00-33-12)**
+> "...of plans tomorrow because the Blake Neff germs boring (Jeremy Boreing; satirical nickname)..."
+
+**[00:49:39](/episodes/ep-6XfDqKTdFKg.md#ent-person-blake-neff-t-00-49-39)**
+> "...verified): I like how Blakey (Blake Neff) says Candace (Candace Owens)'s agenda is transpa..."
+
+**[00:50:32](/episodes/ep-6XfDqKTdFKg.md#ent-person-blake-neff-t-00-50-18)**
+> "...en send out Andrew Kolvet and Blake Neff to gaslight the kids with a genocidal granny."
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (8 mentions)</summary>
+
+**[00:01:06](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-00-40)**
+> "... Andrew Kolvet in particular, Blake Neff in particular, and they have now included an angr..."
+
+**[00:29:57](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-29-33)**
+> "...dated assembly. And here come Blake Neff and Andrew Kolvet doing the absolute most on X, p..."
+
+**[00:30:13](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-30-13)**
+> "Blake (Blake Neff) called me a liar. He actually wrote this on X. H..."
+
+**[00:31:18](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-31-18)**
+> "... so confused as to how Blake (Blake Neff) and Andrew (Andrew Kolvet) are going to gaslight..."
+
+**[00:32:28](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-31-55)**
+> "Now, if Blake (Blake Neff) would like to present evidence to the contrary, ..."
+
+**[00:40:46](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-40-31)**
+> "Like the anger of Blake (Blake Neff) calling me a liar, knowing fully well that I was..."
+
+**[00:41:59](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-41-46)**
+> "...sit through. And now you have Blake Neff and Andrew Kolvet being like they loved it."
+
+**[00:45:59](/episodes/ep-BvthGQw3_s0.md#ent-person-blake-neff-t-00-45-59)**
+> "...ive me the microphone, Blake (Blake Neff)."
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (19 mentions)</summary>
+
+**[00:01:01](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-00-41)**
+> "...s perfidious former employee, Blake Neff, and his beyond slimy attempt to hijack Charlie (..."
+
+**[00:45:04](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-45-04)**
+> "...call out his former employee, Blake Neff, because it was so disgusting, so disgusting that..."
+
+**[00:45:19](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-45-04)**
+> "It is so funny. Blake Neff was not friends with Charlie Kirk. He's a random ..."
+
+**[00:45:24](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-45-04)**
+> "...nd makes a phone call to help Blake Neff get this job after he was kind of."
+
+**[00:45:44](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-45-44)**
+> "...es and wanted to after he was Blake Neff was involved in this racism scandal for being a t..."
+
+**[00:46:05](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-46-05)**
+> "...publication, and we know that Blake Neff is best friends with people involved in D.C., or ..."
+
+**[00:46:30](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-46-30)**
+> "...lute most with that subtitle. Blake Neff turned Charlie Kirk and Tucker Carlson into a sta..."
+
+**[00:46:56](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-46-30)**
+> "...er Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that..."
+
+**[00:47:18](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-47-18)**
+> "This is a profile of Blake Neff from Politico. Neff confessed to grappling in a r..."
+
+**[00:47:42](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-47-42)**
+> "...hat, by the way, that's not a Blake Neff quote."
+
+**[00:49:35](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-49-15)**
+> "And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we..."
+
+**[00:49:46](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-49-15)**
+> "Neff sees only two potential paths forward. This is a ..."
+
+**[00:51:12](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-51-12)**
+> "And it's just remarkable that Blake Neff is carrying on Charlie Kirk's legacy, Andrew Kolv..."
+
+**[00:51:47](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-51-12)**
+> "...just not an either or, Blake (Blake Neff). But that is who they are."
+
+**[00:52:26](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-52-26)**
+> "...t start your own show, Blake (Blake Neff), if you really truly believe that you've got the..."
+
+**[00:53:03](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-53-03)**
+> "And so, yeah, Blake (Blake Neff) is exactly as Tucker (Tucker Carlson) describes ..."
+
+**[00:56:23](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-56-23)**
+> "... get worse. I'm sorry, Blake (Blake Neff), got to cancel the party. They were probably so ..."
+
+**[00:59:48](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-00-59-17)**
+> "Comments on today's episode. Blake Neff reminds me of Gollum in Lord of the Rings where C..."
+
+**[01:00:08](/episodes/ep-NNiCZk1cuzs.md#ent-person-blake-neff-t-01-00-02)**
+> "... (Erika Kirk), Andrew Kolvet, Blake Neff. It'll all be mine. And that's why they're crashi..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2 mentions)</summary>
+
+**[00:19:51](/episodes/ep-kn1E0scy9Wc.md#ent-person-blake-neff-t-00-19-28)**
+> "... place behind the Denali that Blake Neff You can see right there, this is a clear picture ..."
+
+**[00:20:02](/episodes/ep-kn1E0scy9Wc.md#ent-person-blake-neff-t-00-20-02)**
+> "... standing behind the SUV that Blake Neff and being Uber driven by Danny Philip."
+
+</details>
+
+<details>
+<summary>More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 (2 mentions)</summary>
+
+**[00:44:40](/episodes/ep-O4Zw3bCALjU.md#ent-person-blake-neff-t-00-44-28)**
+> "...ping, and for whatever reason Blake Neff decided to bookmark the tweet as if I was lying. ..."
+
+**[00:52:41](/episodes/ep-O4Zw3bCALjU.md#ent-person-blake-neff-t-00-52-06)**
+> "...can just pull clips of Blake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that n..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
@@ -1882,7 +2292,20 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Accused (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:30:13](/episodes/ep-BvthGQw3_s0.md#t-00-30-13): “Blake (Blake Neff) called me a liar. He actually wrote this on X. He shared a grandma's tweet and he wrote in a shocking development, everything Candace said about yesterday's event in Idaho was full of lies and distortions. Her agenda is hype.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29): “She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (6)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1894,10 +2317,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Danny Philip](/entities/person-danny-philip.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -1905,6 +2329,27 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:24:21](/episodes/ep-_cNtgris8Ik.md#t-00-24-21): “All right, you guys, today on the Beavis and Butthead show, so fitting for Andrew Kolvet and Blake Neff. They were joined by Andrew Wilson.”
+
+</details>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02): “Okay, top comments from yesterday's episode regarding that bizarrely gay photo of Blake Neff with Jeremy (person pictured with Blake Neff; surname unverified). Pamela (commenter; surname unverified) wrote, looks like Blake (Blake Neff) and Jeremy (person pictured with Blake Neff; surname unverified) are sending out Christmas cards this year.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -1927,7 +2372,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
@@ -1940,6 +2385,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22): “Blake Neff comes at us like this on X. ... Candace (Candace Owens) starts harassing another random Utah police officer, accuses him of being a dirty cop”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:01:00](/episodes/ep-9hRcfSrri70.md#t-00-01-00): “Anyway, I got a strange press request today. Blake Neff is now entering the foray. He's speaking to reporters who wants everyone to know that I'm just jealous of Erika (Erika Kirk).”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:34:28](/episodes/ep-_cNtgris8Ik.md#t-00-34-28): “2023, 2024, she actually becomes obsessed with the Jews all the time.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:21](/episodes/ep-6XfDqKTdFKg.md#t-00-37-21): “She is a malicious, hateful, dishonest, destructive actor in American life.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:03:08](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08): “And I think Candace (Candace Owens) is like by far the most obvious case of this. She's clearly like a wretched individual who like has always enjoyed being nasty to people. If you talk to anyone who's ever worked with her, they never have anything good to say about her because she's always been. Absolutely awful to assistants, to people sent to help her. And you just see a new manifestation of this, like with Erika (Erika Kirk). Like, she probably, she probably never liked the fact that she would, she would probably hated anyone who married Charlie (Charlie Kirk), so of course she's gonna hate Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). She, you know, probably on some level she probably, like, dislikes, like... White women. She probably dislikes other pretty women. Any number of things can, like, go into this. And she found her paper-thin excuse to, like, bully and ridicule someone who's just manifestly a better person than she is. So that's my thoughts on some of that.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:01:33](/episodes/ep-UAdBEXs7nNc.md#t-00-01-13): “You know what, guys? Blakey (Blake Neff) hurt my feelings yesterday. He called me so many names. I mean, he completely violated one of Charlie (Charlie Kirk)'s cardinal rules of never engaging in ad hominem attacks. I mean, he called me all sorts of things in that X Space. He said I was wretched, nasty, absolutely awful, claimed that I dislike other pretty women. He also called me illiterate thereafter on X. I just feel sad on the inside. I sad, Blake (Blake Neff).”
 
 </details>
 
@@ -1958,9 +2406,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:46:56](/episodes/ep-NNiCZk1cuzs.md#t-00-46-30): “like, you know, Stephen King's it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that Tucker Carlson and Charlie (Charlie Kirk) were not friends when he would not have had his job were Tucker Carlson and Charlie Kirk not friends.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29): “She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible.”
 
 </details>
 
@@ -1981,10 +2431,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -2019,6 +2469,48 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:15](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “And so, Blake (Blake Neff), you're just sort of off the mark with trying to tell people that somehow they should be wanting to dedicate their lives more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actions, the things that you have said, you were not worth that investment.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:52:26](/episodes/ep-NNiCZk1cuzs.md#t-00-52-26): “Just start your own show, Blake (Blake Neff), if you really truly believe that you've got the it factor. Sorry to laugh. I'm sure your parents told you you do. Then start your own show, Blake (Blake Neff), because I've never—you crashed Charlie (Charlie Kirk)'s. Actually, this might be your only talent,”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:40:46](/episodes/ep-BvthGQw3_s0.md#t-00-40-31): “Like the anger of Blake (Blake Neff) calling me a liar, knowing fully well that I was telling the truth, trying to find a random loophole.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:00:26](/episodes/ep-6XfDqKTdFKg.md#t-00-00-01): “What do I have for you guys today other than this unnecessarily gay photo of Blake Neff and Jeremy Boreing, which they consciously selected. That's what makes it so funny. They consciously selected this photo to promote their upcoming sit down, which will undoubtedly be about me.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:49:21](/episodes/ep-_2DiIbfy4mU.md#t-00-49-21): “Blake Neff is obviously unwell. It's the nicest way that we could possibly say it. He's coming apart.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:40:27](/episodes/ep-_Sq5RqP27NY.md#t-00-40-00): “We unpacked the absurdity of Blake Neff's sit down interview wherein he just says all the things that everyone says all the time about this Charlie Kirk investigation, but he did a AI video which really covered the basis on what took place during that interview.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:17:50](/episodes/ep-bIuvTKlFeGo.md#t-01-17-50): “But your main takeaway from today's episode should be the audacity of turning point USA over this last year, the audacity of Blake Neff, the audacity of Andrew Kolvet, but most of all, the audacity of Erika (Erika Kirk), the audacity of Erika (Erika Kirk) to.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:19](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “And Blake (Blake Neff), who thought he was just being so funny, decided to add that tweet to his bookmarks. Well, Blakey (Blake Neff), you can, you can remove that from your bookmarks. You guys are forever gaslighting me and my sources, but yes, Erica (Erika Kirk)'s profile was at long last dropped. And we should just begin with the headline photo because it is something. It is something, this photo. I don't know why she can never just be normal and do normal things.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:28](/episodes/ep-yrg_-D6oNHE.md#t-00-04-28): “They're just going to gaslight us. They tried to gaslight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). Why would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking that way? A lot of allegations you're throwing out. I'm back to hating white people again or something. I hate pretty women. I hate white women. He's just whatever will stick. Also, he's admitted that he's never met me, so he has no idea. idea how I treat people around me. He has no evidence of anything he's saying, given the fact that my assistant lasted six years, actually, the one that we were just trying to replace and also my other assistant lasted five years and went on to become my manager.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:54](/episodes/ep-UAdBEXs7nNc.md#t-00-51-47): “He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show.”
+
+</details>
+
+- **[Commenter Lindsay in episode 386 (identity unverified)](/entities/anon-src-O4Zw3bCALjU-006.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:52:41](/episodes/ep-O4Zw3bCALjU.md#t-00-52-06): “Lindsay (commenter; full identity unverified) writes, I get worried you are going to run out of never before seen clips, but then it occurred to me you can just pull clips of Blake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that no one's watching.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:49:35](/episodes/ep-NNiCZk1cuzs.md#t-00-49-15): “And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before. ... Neff sees only two potential paths forward. This is a verbatim quote: either we have to make our peace with censorship and explain how we're going to do that, or we have to explain how we're going to combat this without censorship, period. ... And that's the point at which you just feel like, well, we're done. ... We may have to make our peace with censorship. How do we do that? It's like saying, well, you know, I'm really mad. ... No, you can never make your peace with turning other people into slaves. You can never be the slave master. ... Because slavery is bad for them, but it's even worse for you. It is totally dehumanizing to everyone involved to turn other human beings into something that is less than a human being. And that is exactly what censorship does each and every time.”
+
+</details>
+
+- **[Bobby Sausalito](/entities/person-bobby-sausalito.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:33:12](/episodes/ep-6XfDqKTdFKg.md#t-00-33-12): “I hope you don't have a lot of plans tomorrow because the Blake Neff germs boring (Jeremy Boreing; satirical nickname) collab is about to drop. I don't think I've ever been as excited for a boring, predictable podcast to drop in my life. And since it's not out yet and you know I'm about to cover that, I'm going to make some prediction. Before we do that, so there's a reason Charlie (Charlie Kirk) called him his secret weapon. Secret weapon. Brother, a weapon is supposed to do damage to the other person. not yourself. He's a weapon for destroying Turning Point USA. But before the—yo, before the predictions, I just, when I saw this photo, I could—I was like, I can't. There's too many jokes all over the fences. But how did—I can't even understand how this is real. This is like totally giving the energy of, like, when a dude walks into the room, and these—this is, I guess, their two angry dads: what are your intentions with my son, sir?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:03:23](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08): “Absolutely awful to assistants, to people sent to help her. And you just see a new manifestation of this, like with Erika (Erika Kirk). Like, she probably, she probably never liked the fact that she would, she would probably hated anyone who married Charlie (Charlie Kirk), so of course she's gonna hate Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). She, you know, probably on some level she probably, like, dislikes, like... ... White women. She probably dislikes other pretty women. Any number of things can, like, go into this. And she found her paper-thin excuse to, like, bully and ridicule someone who's just manifestly a better person than she is. So that's my thoughts on some of that.”
 
 </details>
 
@@ -2040,10 +2532,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Formerly Worked For (4)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:01:01](/episodes/ep-NNiCZk1cuzs.md#t-00-00-41): “I'm going to let you guys be the judge, tell me what you think. And at long last, Tucker Carlson calls out his perfidious former employee, Blake Neff, and his beyond slimy attempt to hijack Charlie (Charlie Kirk)'s true voice. ... Anyway, moving on from that, pretty excited to hear Tucker Carlson finally call out his former employee, Blake Neff, because it was so disgusting, so disgusting that Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk.”
 
 </details>
 
@@ -2055,17 +2548,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Stew Peters](/entities/person-stew-peters.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:30](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04): “kind of floating around for years. He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk.”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40): “He has spent the least amount of time with Charlie (Charlie Kirk). He himself says that he didn't join Charlie (Charlie Kirk)'s team until what was it? Mid 2023.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:04](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04): “Anyway, moving on from that, pretty excited to hear Tucker Carlson finally call out his former employee, Blake Neff, because it was so disgusting, so disgusting that Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk. ... This is Charlie Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former employees and wanted to after he was Blake Neff was involved in this racism scandal for being a total creep online and now we see he's just a creep in general. He probably should have just stayed as an online troll wanting to help him take the next step in his life working on the Charlie Kirk show.”
 
 </details>
 
@@ -2096,12 +2591,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Interviewed By (2)</summary>
 
 - **[Deseret News](/entities/org-deseret-news.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:33](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “Also, I have to draw you guys your attention to this. This is wacky, okay? So they're all sort of giving these interviews right now coming up upon the one-year anniversary, and Blake Neff spoke to Deseret News, which is in Utah.”
+
+</details>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:07](/episodes/ep-6XfDqKTdFKg.md#t-00-37-07): “You were sort of instrumental in pushing the envelope of what was acceptable to say on the right. ... I support maximal free speech. I have never once said YouTube should ban Candace (Candace Owens). ... Aren't we dealing with actual defamation? ... She is a malicious, hateful, dishonest, destructive actor in American life. ... Does it just fame clicks, likes, ... Bobby (Bobby Sausalito)! ... money? ... She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible. ... He is siding with some of the worst voices in the country right now. ... The last communication I had with Tucker (Tucker Carlson) was, Tucker (Tucker Carlson), just privately, can you ask your brother to just stop pushing this Candace (Candace Owens) stuff? ... Is all of this the result of the effort to bring more speech to the table? to the public square.”
 
 </details>
 
@@ -2139,7 +2641,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
+<summary>Spoke With (1)</summary>
+
+- **[Gary (X Space host in Ep 399; identity unverified)](/entities/anon-src-yrg_-D6oNHE-003.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:02](/episodes/ep-yrg_-D6oNHE.md#t-00-04-02): “Yeah. All right, ... Blake (Blake Neff), ... Blue Kite (X Space participant handle; real identity unverified), you're going to close us out. ... Sorry, Gary (X Space host; full identity unverified), Blake (Blake Neff) just accidentally said that... ... Uh, Candace (Candace Owens) hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). He meant marrying Charlie (Charlie Kirk). You... ... Oh, Yes. I mean, no. Yes. I think, yeah. ... Were just saying in the same breath... ... I'm ... and ... pretty sure ... so you ... I said marrying Charlie (Charlie Kirk). ... I thought he did too. Yeah, it's fair enough.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2149,13 +2663,20 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:52:41](/episodes/ep-O4Zw3bCALjU.md#t-00-52-06): “Lindsay (commenter; full identity unverified) writes, I get worried you are going to run out of never before seen clips, but then it occurred to me you can just pull clips of Blake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that no one's watching.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:52](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Next up, we have Blake Neff. Obviously, you guys will recall Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy when the shot rang out.”
@@ -2164,23 +2685,33 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:01:48](/episodes/ep-mLvJqdxS-FY.md#t-00-01-40): “Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:02:17](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09): “We should take everything that any person says at face value. And let's shouldn't forget that Andrew Kolvet and Blake Neff over at Turning Point USA have expressed these very sentiments. They keep a list. They check it twice.”
 
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:44](/episodes/ep-NNiCZk1cuzs.md#t-00-45-44): “This is Charlie Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former employees and wanted to after he was Blake Neff was involved in this racism scandal for being a total creep online and now we see he's just a creep in general. He probably should have just stayed as an online troll wanting to help him take the next step in his life working on the Charlie Kirk show. ... And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (24)</summary>
+<summary>Referenced By (35)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:30:13](/episodes/ep-BvthGQw3_s0.md#t-00-30-13): “Blake (Blake Neff) called me a liar. He actually wrote this on X. He shared a grandma's tweet and he wrote in a shocking development, everything Candace said about yesterday's event in Idaho was full of lies and distortions. Her agenda is hype.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29): “She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too.”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -2192,10 +2723,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Danny Philip](/entities/person-danny-philip.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -2203,6 +2735,27 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:24:21](/episodes/ep-_cNtgris8Ik.md#t-00-24-21): “All right, you guys, today on the Beavis and Butthead show, so fitting for Andrew Kolvet and Blake Neff. They were joined by Andrew Wilson.”
+
+</details>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02): “Okay, top comments from yesterday's episode regarding that bizarrely gay photo of Blake Neff with Jeremy (person pictured with Blake Neff; surname unverified). Pamela (commenter; surname unverified) wrote, looks like Blake (Blake Neff) and Jeremy (person pictured with Blake Neff; surname unverified) are sending out Christmas cards this year.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48): “into two separate white vehicles. A lot of white vehicles. They divide into two separate white vehicles. What you're gonna—we're gonna show you vehicle one. You've got Mikey (Mikey McCoy), an officer, Blake Neff, Nate Walker, and Danny Philip, and in vehicle two, you have the security team, Blake Gibson, Blake Harruff, and Christopher Rhoades, and again, the vehicle is being driven by an officer.”
 
 </details>
 
@@ -2215,7 +2768,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -2250,11 +2803,41 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:15](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “And so, Blake (Blake Neff), you're just sort of off the mark with trying to tell people that somehow they should be wanting to dedicate their lives more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actions, the things that you have said, you were not worth that investment.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:52:26](/episodes/ep-NNiCZk1cuzs.md#t-00-52-26): “Just start your own show, Blake (Blake Neff), if you really truly believe that you've got the it factor. Sorry to laugh. I'm sure your parents told you you do. Then start your own show, Blake (Blake Neff), because I've never—you crashed Charlie (Charlie Kirk)'s. Actually, this might be your only talent,”
+- [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:40:46](/episodes/ep-BvthGQw3_s0.md#t-00-40-31): “Like the anger of Blake (Blake Neff) calling me a liar, knowing fully well that I was telling the truth, trying to find a random loophole.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:00:26](/episodes/ep-6XfDqKTdFKg.md#t-00-00-01): “What do I have for you guys today other than this unnecessarily gay photo of Blake Neff and Jeremy Boreing, which they consciously selected. That's what makes it so funny. They consciously selected this photo to promote their upcoming sit down, which will undoubtedly be about me.”
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:49:21](/episodes/ep-_2DiIbfy4mU.md#t-00-49-21): “Blake Neff is obviously unwell. It's the nicest way that we could possibly say it. He's coming apart.”
+- [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:40:27](/episodes/ep-_Sq5RqP27NY.md#t-00-40-00): “We unpacked the absurdity of Blake Neff's sit down interview wherein he just says all the things that everyone says all the time about this Charlie Kirk investigation, but he did a AI video which really covered the basis on what took place during that interview.”
+- [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:17:50](/episodes/ep-bIuvTKlFeGo.md#t-01-17-50): “But your main takeaway from today's episode should be the audacity of turning point USA over this last year, the audacity of Blake Neff, the audacity of Andrew Kolvet, but most of all, the audacity of Erika (Erika Kirk), the audacity of Erika (Erika Kirk) to.”
+- [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:19](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “And Blake (Blake Neff), who thought he was just being so funny, decided to add that tweet to his bookmarks. Well, Blakey (Blake Neff), you can, you can remove that from your bookmarks. You guys are forever gaslighting me and my sources, but yes, Erica (Erika Kirk)'s profile was at long last dropped. And we should just begin with the headline photo because it is something. It is something, this photo. I don't know why she can never just be normal and do normal things.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:28](/episodes/ep-yrg_-D6oNHE.md#t-00-04-28): “They're just going to gaslight us. They tried to gaslight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). Why would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking that way? A lot of allegations you're throwing out. I'm back to hating white people again or something. I hate pretty women. I hate white women. He's just whatever will stick. Also, he's admitted that he's never met me, so he has no idea. idea how I treat people around me. He has no evidence of anything he's saying, given the fact that my assistant lasted six years, actually, the one that we were just trying to replace and also my other assistant lasted five years and went on to become my manager.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:54](/episodes/ep-UAdBEXs7nNc.md#t-00-51-47): “He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show.”
+
+</details>
+
+- **[Commenter Lindsay in episode 386 (identity unverified)](/entities/anon-src-O4Zw3bCALjU-006.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:52:41](/episodes/ep-O4Zw3bCALjU.md#t-00-52-06): “Lindsay (commenter; full identity unverified) writes, I get worried you are going to run out of never before seen clips, but then it occurred to me you can just pull clips of Blake (Blake Neff) and Andrew (Andrew Kolvet)'s idiotic show that no one's watching.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:49:35](/episodes/ep-NNiCZk1cuzs.md#t-00-49-15): “And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before. ... Neff sees only two potential paths forward. This is a verbatim quote: either we have to make our peace with censorship and explain how we're going to do that, or we have to explain how we're going to combat this without censorship, period. ... And that's the point at which you just feel like, well, we're done. ... We may have to make our peace with censorship. How do we do that? It's like saying, well, you know, I'm really mad. ... No, you can never make your peace with turning other people into slaves. You can never be the slave master. ... Because slavery is bad for them, but it's even worse for you. It is totally dehumanizing to everyone involved to turn other human beings into something that is less than a human being. And that is exactly what censorship does each and every time.”
+
+</details>
+
+- **[Bobby Sausalito](/entities/person-bobby-sausalito.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:33:12](/episodes/ep-6XfDqKTdFKg.md#t-00-33-12): “I hope you don't have a lot of plans tomorrow because the Blake Neff germs boring (Jeremy Boreing; satirical nickname) collab is about to drop. I don't think I've ever been as excited for a boring, predictable podcast to drop in my life. And since it's not out yet and you know I'm about to cover that, I'm going to make some prediction. Before we do that, so there's a reason Charlie (Charlie Kirk) called him his secret weapon. Secret weapon. Brother, a weapon is supposed to do damage to the other person. not yourself. He's a weapon for destroying Turning Point USA. But before the—yo, before the predictions, I just, when I saw this photo, I could—I was like, I can't. There's too many jokes all over the fences. But how did—I can't even understand how this is real. This is like totally giving the energy of, like, when a dude walks into the room, and these—this is, I guess, their two angry dads: what are your intentions with my son, sir?”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
@@ -2267,6 +2850,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22): “Blake Neff comes at us like this on X. ... Candace (Candace Owens) starts harassing another random Utah police officer, accuses him of being a dirty cop”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:01:00](/episodes/ep-9hRcfSrri70.md#t-00-01-00): “Anyway, I got a strange press request today. Blake Neff is now entering the foray. He's speaking to reporters who wants everyone to know that I'm just jealous of Erika (Erika Kirk).”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:34:28](/episodes/ep-_cNtgris8Ik.md#t-00-34-28): “2023, 2024, she actually becomes obsessed with the Jews all the time.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:21](/episodes/ep-6XfDqKTdFKg.md#t-00-37-21): “She is a malicious, hateful, dishonest, destructive actor in American life.”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:03:08](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08): “And I think Candace (Candace Owens) is like by far the most obvious case of this. She's clearly like a wretched individual who like has always enjoyed being nasty to people. If you talk to anyone who's ever worked with her, they never have anything good to say about her because she's always been. Absolutely awful to assistants, to people sent to help her. And you just see a new manifestation of this, like with Erika (Erika Kirk). Like, she probably, she probably never liked the fact that she would, she would probably hated anyone who married Charlie (Charlie Kirk), so of course she's gonna hate Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). She, you know, probably on some level she probably, like, dislikes, like... White women. She probably dislikes other pretty women. Any number of things can, like, go into this. And she found her paper-thin excuse to, like, bully and ridicule someone who's just manifestly a better person than she is. So that's my thoughts on some of that.”
+- [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:01:33](/episodes/ep-UAdBEXs7nNc.md#t-00-01-13): “You know what, guys? Blakey (Blake Neff) hurt my feelings yesterday. He called me so many names. I mean, he completely violated one of Charlie (Charlie Kirk)'s cardinal rules of never engaging in ad hominem attacks. I mean, he called me all sorts of things in that X Space. He said I was wretched, nasty, absolutely awful, claimed that I dislike other pretty women. He also called me illiterate thereafter on X. I just feel sad on the inside. I sad, Blake (Blake Neff).”
 
 </details>
 
@@ -2285,9 +2871,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:46:56](/episodes/ep-NNiCZk1cuzs.md#t-00-46-30): “like, you know, Stephen King's it factor. Anyway, we have Tucker Carlson finally hitting at Blake Neff, who was taking swipes at him, lying, saying that Tucker Carlson and Charlie (Charlie Kirk) were not friends when he would not have had his job were Tucker Carlson and Charlie Kirk not friends.”
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29): “She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible.”
 
 </details>
 
@@ -2305,24 +2893,33 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:03:23](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08): “Absolutely awful to assistants, to people sent to help her. And you just see a new manifestation of this, like with Erika (Erika Kirk). Like, she probably, she probably never liked the fact that she would, she would probably hated anyone who married Charlie (Charlie Kirk), so of course she's gonna hate Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). She, you know, probably on some level she probably, like, dislikes, like... ... White women. She probably dislikes other pretty women. Any number of things can, like, go into this. And she found her paper-thin excuse to, like, bully and ridicule someone who's just manifestly a better person than she is. So that's my thoughts on some of that.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:01:48](/episodes/ep-mLvJqdxS-FY.md#t-00-01-40): “Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:02:17](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09): “We should take everything that any person says at face value. And let's shouldn't forget that Andrew Kolvet and Blake Neff over at Turning Point USA have expressed these very sentiments. They keep a list. They check it twice.”
 
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:44](/episodes/ep-NNiCZk1cuzs.md#t-00-45-44): “This is Charlie Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former employees and wanted to after he was Blake Neff was involved in this racism scandal for being a total creep online and now we see he's just a creep in general. He probably should have just stayed as an online troll wanting to help him take the next step in his life working on the Charlie Kirk show. ... And we're quoting, this is Blake Neff, the guy in the Charlie Kirk show. We got what we wanted on speech, and that means we also have to endure a lot of things that we're tamped down on before.”
 
 </details>
 
@@ -2334,10 +2931,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:01:01](/episodes/ep-NNiCZk1cuzs.md#t-00-00-41): “I'm going to let you guys be the judge, tell me what you think. And at long last, Tucker Carlson calls out his perfidious former employee, Blake Neff, and his beyond slimy attempt to hijack Charlie (Charlie Kirk)'s true voice. ... Anyway, moving on from that, pretty excited to hear Tucker Carlson finally call out his former employee, Blake Neff, because it was so disgusting, so disgusting that Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk.”
 
 </details>
 
@@ -2349,17 +2947,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Stew Peters](/entities/person-stew-peters.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:30](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04): “kind of floating around for years. He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk.”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40): “He has spent the least amount of time with Charlie (Charlie Kirk). He himself says that he didn't join Charlie (Charlie Kirk)'s team until what was it? Mid 2023.”
+- [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:45:04](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04): “Anyway, moving on from that, pretty excited to hear Tucker Carlson finally call out his former employee, Blake Neff, because it was so disgusting, so disgusting that Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk. ... This is Charlie Kirk actually being loyal to Tucker Carlson who apparently has a bleeding heart for former employees and wanted to after he was Blake Neff was involved in this racism scandal for being a total creep online and now we see he's just a creep in general. He probably should have just stayed as an online troll wanting to help him take the next step in his life working on the Charlie Kirk show.”
 
 </details>
 
@@ -2374,6 +2974,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:33](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “Also, I have to draw you guys your attention to this. This is wacky, okay? So they're all sort of giving these interviews right now coming up upon the one-year anniversary, and Blake Neff spoke to Deseret News, which is in Utah.”
+
+</details>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:37:07](/episodes/ep-6XfDqKTdFKg.md#t-00-37-07): “You were sort of instrumental in pushing the envelope of what was acceptable to say on the right. ... I support maximal free speech. I have never once said YouTube should ban Candace (Candace Owens). ... Aren't we dealing with actual defamation? ... She is a malicious, hateful, dishonest, destructive actor in American life. ... Does it just fame clicks, likes, ... Bobby (Bobby Sausalito)! ... money? ... She wants the person who killed Charlie (Charlie Kirk) to get away with it. With that, Tucker (Tucker Carlson) has extended maximum grace to Candace Owens. Tucker (Tucker Carlson) was a benefactor to me, but Charlie (Charlie Kirk) was a benefactor to me too. Tucker (Tucker Carlson) has done things that are indefensible. ... He is siding with some of the worst voices in the country right now. ... The last communication I had with Tucker (Tucker Carlson) was, Tucker (Tucker Carlson), just privately, can you ask your brother to just stop pushing this Candace (Candace Owens) stuff? ... Is all of this the result of the effort to bring more speech to the table? to the public square.”
 
 </details>
 
@@ -2405,12 +3012,91 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Gary (X Space host in Ep 399; identity unverified)](/entities/anon-src-yrg_-D6oNHE-003.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:02](/episodes/ep-yrg_-D6oNHE.md#t-00-04-02): “Yeah. All right, ... Blake (Blake Neff), ... Blue Kite (X Space participant handle; real identity unverified), you're going to close us out. ... Sorry, Gary (X Space host; full identity unverified), Blake (Blake Neff) just accidentally said that... ... Uh, Candace (Candace Owens) hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). He meant marrying Charlie (Charlie Kirk). You... ... Oh, Yes. I mean, no. Yes. I think, yeah. ... Were just saying in the same breath... ... I'm ... and ... pretty sure ... so you ... I said marrying Charlie (Charlie Kirk). ... I thought he did too. Yeah, it's fair enough.”
+
+</details>
+
+- **[Danny Philip](/entities/person-danny-philip.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:11:18](/episodes/ep-_2DiIbfy4mU.md#t-00-10-54): “What we also do not have to imagine is what Danny Philip was doing. Danny Philip, let's not forget, one of Charlie (Charlie Kirk)'s assistants, new hire, who drove Blake Neff to the event in an SUV. Gratefully, we also don't have to imagine what his other assistant is doing, Nate Walker, because at nearly the exact same time, okay, I'm talking 12-17. Nearly the exact same time that the alleged killer jumps onto Losee rooftop and ducks, and I'm talking within. Five seconds, when I say exact same time, Danny Philip and Nate Walker are going to make their way to Danny (Danny Philip)'s SUV. This is the SUV, by the way, that has caused a serious bout of amnesia for Blake Neff. I don't know what's going on in that SUV, why he can't remember things. He's very hesitant to speak about that. He didn't even remember that he showed up at the event with Danny (Danny Philip), remember? And many of us were also wondering why Blake Neff was being driven like he had called an Uber driver. Remember, he was in the back seat when they showed up and Danny (Danny Philip) was in the front seat. The passenger seat, the front passenger seat was vacant. It's a very strange way to drive with your colleagues, but I digress. The point is that 1217, Nate Walker and Danny Philip head to the SUV to offload their backpacks, okay?”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (58)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (72)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2)</summary>
+
+- [00:03:48](/episodes/ep-UAdBEXs7nNc.md#t-00-03-48) [○] (Claim) ["Neff recalled that Michael McCoy was profoundly freaked out after the shooting a..."](/statements/statement-511db2234309.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:04:17](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17) [○] (Claim) ["Neff recalled calling his mother around the same time McCoy called Erika Kirk, t..."](/statements/statement-e74f45ea90f6.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3)</summary>
+
+- [00:03:18](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08) [○] (Accusation) ["In the X Space clip, Blake Neff alleged that people who worked with Owens never ..."](/statements/statement-bf458009254a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:03:23](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08) [○] (Citation) ["In the X Space clip, Neff said Owens would hate Erika Kirk "for murdering Charli..."](/statements/statement-53da888b134f.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:03:23](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08) [○] (Opinion) ["In the X Space clip, Neff speculated that Owens probably would have hated anyone..."](/statements/statement-7e5d7cdc1c35.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (6)</summary>
+
+- [00:34:28](/episodes/ep-6XfDqKTdFKg.md#t-00-34-28) [○] (Opinion) ["In an old clip replayed through Bobby Sausalito’s commentary, Blake Neff called ..."](/statements/statement-fa210464f600.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:13](/episodes/ep-6XfDqKTdFKg.md#t-00-37-13) [○] (Opinion) ["In the interview trailer, Neff says he supports maximal free speech and has neve..."](/statements/statement-d40a7f92e84a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [YouTube](/entities/org-youtube.md)
+
+- [00:37:21](/episodes/ep-6XfDqKTdFKg.md#t-00-37-21) [○] (Opinion) ["In the interview trailer, Neff calls Owens a malicious, hateful, dishonest, dest..."](/statements/statement-541007689cd0.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29) [○] (Accusation) ["In the interview trailer, Neff alleges that Owens wants the person who killed Ch..."](/statements/statement-7090b600363a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29) [○] (Opinion) ["In the interview trailer, Neff says Carlson has extended maximum grace to Owens ..."](/statements/statement-fe6eaa8cba5f.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:47](/episodes/ep-6XfDqKTdFKg.md#t-00-37-47) [○] (Claim) ["In the interview trailer, Neff says his last communication with Carlson privatel..."](/statements/statement-40e292dda286.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>
+
+- [00:30:13](/episodes/ep-BvthGQw3_s0.md#t-00-30-13) [○] (Accusation) ["Blake Neff wrote on X that everything Owens said about the Idaho event was full ..."](/statements/statement-3e578c1284aa.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (2)</summary>
+
+- [00:49:35](/episodes/ep-NNiCZk1cuzs.md#t-00-49-15) [○] (Opinion) ["Neff was quoted saying, “We got what we wanted on speech,” and therefore had to ..."](/statements/statement-eec92c64e24b.md)
+
+- [00:49:46](/episodes/ep-NNiCZk1cuzs.md#t-00-49-15) [○] (Opinion) ["Neff was quoted saying either they had to make peace with censorship and explain..."](/statements/statement-cb6a017aed97.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3)</summary>
@@ -2709,7 +3395,140 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (81)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (114)</strong></summary>
+
+<details>
+<summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (12)</summary>
+
+- [00:01:45](/episodes/ep-UAdBEXs7nNc.md#t-00-01-13) (Claim) **Candace Owens** (via paraphrase): ["Owens said Blake Neff called her wretched, nasty and absolutely awful ..."](/statements/statement-f1a3c58e9ebe.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:04:17](/episodes/ep-UAdBEXs7nNc.md#t-00-04-17) (Claim) **Blake Neff** (via quoted speech): ["Neff recalled calling his mother around the same time McCoy called Eri..."](/statements/statement-e74f45ea90f6.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:09:08](/episodes/ep-UAdBEXs7nNc.md#t-00-08-56) (Claim) **Candace Owens**: ["Owens said Blake Neff and Danny Philip reappeared at the scene just be..."](/statements/statement-db9ba696a782.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:09:41](/episodes/ep-UAdBEXs7nNc.md#t-00-09-34) (Claim) **Candace Owens**: ["Owens said the returning group was escorted into different vehicles by..."](/statements/statement-96acc211561e.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Nate Walker](/entities/person-nate-walker.md)
+
+- [00:10:37](/episodes/ep-UAdBEXs7nNc.md#t-00-10-09) (Claim) **Candace Owens**: ["Owens said an officer pictured with Blake Neff, Nate Walker and Danny ..."](/statements/statement-9b0c724549bd.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Danny Philip](/entities/person-danny-philip.md), [Jeff Long](/entities/person-jeff-long.md)
+
+- [00:11:07](/episodes/ep-UAdBEXs7nNc.md#t-00-10-58) (Claim) **Candace Owens**: ["Owens described Blake Neff, Danny Philip, Nate Walker, the security me..."](/statements/statement-e3f85ad5bb13.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Nate Walker](/entities/person-nate-walker.md), [Blake Harruff (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-002.md)
+
+- [00:13:48](/episodes/ep-UAdBEXs7nNc.md#t-00-13-48) (Claim) **Candace Owens**: ["Owens said the group split into two white vehicles: Michael McCoy, Bla..."](/statements/statement-6db3c5a6a104.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Nate Walker](/entities/person-nate-walker.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:19:20](/episodes/ep-UAdBEXs7nNc.md#t-00-19-13) (Claim) **Candace Owens**: ["Owens said the second vehicle appeared to be driven by another federal..."](/statements/statement-81505114b9eb.md)
+  - Also about: [Blake Gibson (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-001.md), [Blake Harruff (security team member; identity unverified)](/entities/anon-src-UAdBEXs7nNc-002.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+- [00:39:41](/episodes/ep-UAdBEXs7nNc.md#t-00-39-41) (Claim) **Candace Owens** (via paraphrase): ["Owens said she believed Turek rather than Neff on who delivered the ne..."](/statements/statement-e8feb1722bdb.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Erika Kirk](/entities/person-erika-kirk.md), [Hospital surgeon-news source (Ep 400; identity unverified)](/entities/anon-src-UAdBEXs7nNc-012.md)
+
+- [00:45:55](/episodes/ep-UAdBEXs7nNc.md#t-00-45-55) (Claim) **Little dudette (commenter; identity unverified)** (via quoted post): ["The commenter displayed as Little dudette, whose identity is unverifie..."](/statements/statement-9bb3c583340d.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:50:13](/episodes/ep-UAdBEXs7nNc.md#t-00-50-13) (Opinion) **Not Nona / Nona’s fave five (commenter; identity unverified)** (via quoted post): ["The commenter displayed as Not Nona / Nona's fave five, identity unver..."](/statements/statement-fc8cf55bfe4a.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:13](/episodes/ep-UAdBEXs7nNc.md#t-00-50-13) (Opinion) **Candace Owens**: ["Owens said that from the beginning it had felt as though Blake Neff, A..."](/statements/statement-4760630f6101.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>
+
+- [00:03:23](/episodes/ep-yrg_-D6oNHE.md#t-00-03-08) (Citation) **Blake Neff** (via quoted speech): ["In the X Space clip, Neff said Owens would hate Erika Kirk "for murder..."](/statements/statement-53da888b134f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>
+
+- [00:03:19](/episodes/ep-5TTkMa49qj8.md#t-00-03-19) (Claim) **Candace Owens**: ["Owens said Blake Neff bookmarked her tweet predicting the Erika Kirk V..."](/statements/statement-fd85f586e3af.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (5)</summary>
+
+- [00:10:26](/episodes/ep-_2DiIbfy4mU.md#t-00-10-13) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterizes Blake Neff as imagining the rooftop subject was as..."](/statements/statement-2551f56a4e0c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:10:54](/episodes/ep-_2DiIbfy4mU.md#t-00-10-54) (Claim) **Candace Owens**: ["Owens says Blake Neff was on his phone behind the tent at the time the..."](/statements/statement-cde53533ddcc.md)
+
+- [00:11:18](/episodes/ep-_2DiIbfy4mU.md#t-00-10-54) (Claim) **Candace Owens**: ["Owens says Danny Philip was a newly hired assistant to Charlie Kirk an..."](/statements/statement-a7f80e50362f.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:24](/episodes/ep-_2DiIbfy4mU.md#t-00-12-18) (Claim) **Candace Owens**: ["Owens says Blake Neff arrived in the rear seat of Danny Philip’s SUV, ..."](/statements/statement-a9a088928724.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:43:32](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02) (Claim) **Candace Owens**: ["Owens says the photograph of Blake Neff with Jeremy Boreing shown in h..."](/statements/statement-fbc4c9f41b40.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (6)</summary>
+
+- [00:32:34](/episodes/ep-6XfDqKTdFKg.md#t-00-32-34) (Claim) **Candace Owens**: ["Owens says Boreing announced an hours-long podcast with Blake Neff."](/statements/statement-876c10f1ea9f.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:34:59](/episodes/ep-6XfDqKTdFKg.md#t-00-34-59) (Prediction) **Bobby Sausalito** (via quoted speech): ["Sausalito predicts most of the Boreing–Neff interview will be a hate s..."](/statements/statement-de180c549ecb.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:35:28](/episodes/ep-6XfDqKTdFKg.md#t-00-35-09) (Prediction) **Bobby Sausalito** (via quoted speech): ["Sausalito predicts with absolute certainty that the Boreing–Neff inter..."](/statements/statement-a45c8dc84ab7.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:29](/episodes/ep-6XfDqKTdFKg.md#t-00-37-29) (Opinion) **Blake Neff** (via quoted speech): ["In the interview trailer, Neff says Carlson has extended maximum grace..."](/statements/statement-fe6eaa8cba5f.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:47](/episodes/ep-6XfDqKTdFKg.md#t-00-37-47) (Claim) **Blake Neff** (via quoted speech): ["In the interview trailer, Neff says his last communication with Carlso..."](/statements/statement-40e292dda286.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:50:18](/episodes/ep-6XfDqKTdFKg.md#t-00-50-18) (Accusation) **Candace Owens**: ["Responding to a commenter’s sarcastic questions about locking students..."](/statements/statement-721f4ba6803b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (2)</summary>
+
+- [00:28:52](/episodes/ep-BvthGQw3_s0.md#t-00-28-52) (Accusation) **Candace Owens**: ["Owens accused TPUSA, Blake Neff and Andrew Kolvet of misrepresenting a..."](/statements/statement-e7bf80186153.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Nampa Christian Schools](/entities/org-nampa-christian-schools.md)
+
+- [00:40:46](/episodes/ep-BvthGQw3_s0.md#t-00-40-31) (Accusation) **Candace Owens**: ["Owens accused Blake Neff of calling her a liar while knowing she was t..."](/statements/statement-37332dff942e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (6)</summary>
+
+- [00:45:04](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04) (Claim) **Candace Owens**: ["Owens said Carlson helped Neff get his job with Kirk by making a call ..."](/statements/statement-d45f2add0e62.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Stew Peters](/entities/person-stew-peters.md)
+
+- [00:45:19](/episodes/ep-NNiCZk1cuzs.md#t-00-45-04) (Accusation) **Candace Owens** (via paraphrase): ["Owens disputed Neff’s account of Kirk’s friendship with Carlson, claim..."](/statements/statement-4aec1737959c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:47:18](/episodes/ep-NNiCZk1cuzs.md#t-00-47-18) (Citation) **Ian Ward** (via quoted article): ["Ian Ward’s Politico profile framed Neff as grappling with whether his ..."](/statements/statement-4fae6b08f624.md)
+  - Also about: [POLITICO](/entities/org-politico.md)
+
+- [00:47:42](/episodes/ep-NNiCZk1cuzs.md#t-00-47-42) (Opinion) **Tucker Carlson** (via quoted speech): ["Carlson said “maximalist position on free speech” was the anti-free-sp..."](/statements/statement-dd45d2f8d618.md)
+  - Also about: [Ian Ward](/entities/person-ian-ward.md), [POLITICO](/entities/org-politico.md)
+
+- [00:52:26](/episodes/ep-NNiCZk1cuzs.md#t-00-52-26) (Accusation) **Candace Owens**: ["Owens accused Neff of crashing a once-successful organization, busines..."](/statements/statement-8a1d499a7c86.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+- [01:00:08](/episodes/ep-NNiCZk1cuzs.md#t-01-00-02) (Accusation) **Candace Owens**: ["Owens accused Erika, Kolvet and Neff of sending people to attack those..."](/statements/statement-ef09b5579817.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3)</summary>

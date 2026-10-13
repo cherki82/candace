@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Alex Clark](/entities/person-alex-clark) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 
 - [00:30:51](/episodes/ep-KpxIBWkNsSs#t-00-30-51): _But she wrote this, Nick Shirley is a real journalist. Candace Owens is not. Oh, OK. So we're in a podcast._
+
+**[More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU)**
+
+- [00:00:39](/episodes/ep-O4Zw3bCALjU#t-00-00-39): _How can I ever forgive someone like Candace Owens?_
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 

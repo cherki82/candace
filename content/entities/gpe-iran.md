@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 251 mentions"
+description: "Iran (Places) - 264 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34">2026-08-21 · 01:07:34</a></strong></div>
-<div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>251</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-26-33">2026-10-01 · 00:26:41</a></strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>264</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>101</strong></div>
+<div><span>Statements about</span><strong>106</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -94,6 +94,13 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iran-t-00-48-13" style="--pulse-height:9%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aLJhpxrakCU.md#ent-gpe-iran-t-01-02-18" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-iran-t-00-44-56" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-iran-t-00-40-04" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iran-t-00-37-12" style="--pulse-height:17%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-iran-t-01-27-17" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-iran-t-00-10-01" style="--pulse-height:9%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-25-50" style="--pulse-height:13%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -157,6 +164,13 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iran-t-00-48-13) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34) | 1 |
+| 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-gpe-iran-t-01-02-18) | 1 |
+| 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-iran-t-00-44-56) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-iran-t-00-40-04) | 1 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iran-t-00-37-12) | 4 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-iran-t-01-27-17) | 1 |
+| 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-iran-t-00-10-01) | 2 |
+| 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-25-50) | 3 |
 
 </details>
 </section>
@@ -168,7 +182,81 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (251)</strong></summary>
+<summary><strong class="section-title">Raw mentions (264)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (3 mentions)</summary>
+
+**[00:25:50](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-25-50)**
+> "June 13th, Iran and Israel 12 day war commences. Bibi Netanyahu (..."
+
+**[00:26:15](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-25-50)**
+> "...g for American involvement in Iran."
+
+**[00:26:41](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-26-33)**
+> "America bombs Iran, the nuclear sites. On June 22nd, Bradley Hansel ..."
+
+</details>
+
+<details>
+<summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2 mentions)</summary>
+
+**[00:10:13](/episodes/ep-5TTkMa49qj8.md#ent-gpe-iran-t-00-10-01)**
+> "...nion on, given the war, given Iran, given gas prices."
+
+**[00:11:19](/episodes/ep-5TTkMa49qj8.md#ent-gpe-iran-t-00-11-19)**
+> "What's happening right now in Iran, what's happening with the gas prices, the inflat..."
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (4 mentions)</summary>
+
+**[00:37:12](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iran-t-00-37-12)**
+> "the Houthis, Iran, militias in Iraq, militias in Syria. Palestinian..."
+
+**[00:37:29](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iran-t-00-37-23)**
+> "... American friends, we crushed Iran's army, navy, air force and nuclear facilities."
+
+**[00:51:58](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iran-t-00-51-42)**
+> "...ld him he was right about the Iran war and that we are going to die in the end."
+
+**[00:52:08](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-iran-t-00-51-42)**
+> "...missed his concerns about the Iran war by saying we're all going to die anyway."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[01:27:47](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-iran-t-01-27-17)**
+> "...s regarding going to war with Iran."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1 mentions)</summary>
+
+**[00:40:04](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-iran-t-00-40-04)**
+> "Here's a rare picture from March of 1609 showing a bottled water in Persia. Trust me, bro. And he just edited the metadata to say that he."
+
+</details>
+
+<details>
+<summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>
+
+**[00:44:56](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-iran-t-00-44-56)**
+> "... at least we're going to stop Iran from getting a nuclear weapon, which you've been ..."
+
+</details>
+
+<details>
+<summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
+
+**[01:02:52](/episodes/ep-aLJhpxrakCU.md#ent-gpe-iran-t-01-02-18)**
+> "...t loyalty? She lied about his Iran war views, covered up his Israel views and handed..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1341,7 +1429,37 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (101)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (106)</strong></summary>
+
+<details>
+<summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
+
+- [00:25:50](/episodes/ep-q4m-kGzvwjw.md#t-00-25-50) (Claim) **Candace Owens**: ["Owens said Charlie Kirk lobbied against U.S. involvement in the Iran w..."](/statements/statement-5b8452cd7881.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (3)</summary>
+
+- [00:36:49](/episodes/ep-_Sq5RqP27NY.md#t-00-36-49) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel had fought a seven-fr..."](/statements/statement-db410504f811.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md), [Hezbollah](/entities/org-hezbollah.md)
+
+- [00:37:29](/episodes/ep-_Sq5RqP27NY.md#t-00-37-23) (Claim) **Benjamin Netanyahu** (via quoted speech): ["In the recorded UN speech, Netanyahu said Israel and its American frie..."](/statements/statement-98126b2c8862.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:52:08](/episodes/ep-_Sq5RqP27NY.md#t-00-51-42) (Opinion) **Donald J. Trump** (via quoted article): ["According to Tucker Carlson’s recollection reported via NPR and read b..."](/statements/statement-e20b1d9756ad.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>
+
+- [01:27:40](/episodes/ep-bIuvTKlFeGo.md#t-01-27-17) (Claim) **Candace Owens**: ["Owens said Charlie Kirk went to the White House June 18th and 19th and..."](/statements/statement-374ede496eee.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5)</summary>

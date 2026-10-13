@@ -1,6 +1,6 @@
 ---
 title: "David Frodsham"
-description: "David Frodsham (People) - 2 mentions"
+description: "David Frodsham (People) - 3 mentions"
 id: "person-david-frodsham"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08">2026-01-06 · 00:36:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-david-frodsham-t-00-14-55">2026-01-09 · 00:15:24</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-david-frodsham-t-00-04-34">2026-09-15 · 00:04:44</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,6 +32,7 @@ Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-david-frodsham-t-00-14-55" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-david-frodsham-t-00-04-34" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-david-frodsham-t-00-14-55) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-david-frodsham-t-00-04-34) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:04:44](/episodes/ep-kn1E0scy9Wc.md#ent-person-david-frodsham-t-00-04-34)**
+> "...nian Angels during this time. David Frodsham, he was the civilian commander that was stationed..."
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
@@ -69,7 +79,29 @@ Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Formerly Based In (1)</summary>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:04:44](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34): “He worked with Erika (Erika Kirk)'s Romanian Angels during this time. David Frodsham, he was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** former base of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:04:44](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34): “He worked with Erika (Erika Kirk)'s Romanian Angels during this time. David Frodsham, he was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-description: "Florida (Places) - 31 mentions"
+description: "Florida (Places) - 32 mentions"
 id: "gpe-florida"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20">2025-09-11 · 00:01:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-florida-t-00-38-25">2026-08-31 · 00:38:58</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#t-00-58-03">2026-09-25 · 00:58:03</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -56,6 +56,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-florida-t-00-56-28" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-florida-t-00-39-17" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-florida-t-00-38-25" style="--pulse-height:67%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-00-58-03" style="--pulse-height:33%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-florida-t-00-56-28) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-florida-t-00-39-17) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-florida-t-00-38-25) | 2 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03) | 1 |
 
 </details>
 </section>
@@ -94,7 +96,15 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
+
+**[00:58:03](/episodes/ep-bIuvTKlFeGo.md#t-00-58-03)**
+> "She's being vague. I don't know what's really going on. Okay. July 11th to the 13th is the Student Action Summit in Tampa, Florida."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>

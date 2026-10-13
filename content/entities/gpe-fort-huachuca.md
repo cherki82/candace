@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 243 mentions"
+description: "Fort Huachuca (Places) - 258 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -24,12 +24,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:12:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-fort-huachuca-t-00-39-26">2026-09-09 · 00:39:26</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>243</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-fort-huachuca-t-01-25-13">2026-09-25 · 01:25:35</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>258</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>107</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>114</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -88,6 +88,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-fort-huachuca-t-00-40-31" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-fort-huachuca-t-00-39-26" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#ent-gpe-fort-huachuca-t-00-04-34" style="--pulse-height:8%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-23-28" style="--pulse-height:52%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 11 mentions" title="2026-09-23 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-fort-huachuca-t-00-46-17" style="--pulse-height:8%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-fort-huachuca-t-00-43-21" style="--pulse-height:10%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -144,6 +148,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-fort-huachuca-t-00-40-31) | 1 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-fort-huachuca-t-00-39-26) | 1 |
+| 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-fort-huachuca-t-00-04-34) | 1 |
+| 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-23-28) | 11 |
+| 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-fort-huachuca-t-00-46-17) | 1 |
+| 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-fort-huachuca-t-00-43-21) | 2 |
 
 </details>
 </section>
@@ -155,7 +163,72 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (243)</strong></summary>
+<summary><strong class="section-title">Raw mentions (258)</strong></summary>
+
+<details>
+<summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>
+
+**[00:46:42](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-fort-huachuca-t-00-46-17)**
+> "...ast time we even talked about Fort Huachuca on the show? If that’s where you’re going, just d..."
+
+</details>
+
+<details>
+<summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
+
+**[00:43:33](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-fort-huachuca-t-00-43-21)**
+> "...e're supposed to trust him on Fort Huachuca, guys. We're supposed to trust him on Fort Huachu..."
+
+**[01:25:35](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-fort-huachuca-t-01-25-13)**
+> "...s with this random push about Fort Huachuca when we weren't discussing Fort Huachuca and now ..."
+
+</details>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (11 mentions)</summary>
+
+**[00:23:28](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-23-28)**
+> "...e bizarre overreaction to the Fort Huachuca story from last December regarding Mitch Snow, a ..."
+
+**[00:23:48](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-23-28)**
+> "...lace. I can confirm he was at Fort Huachuca. I can confirm which hotel he was at."
+
+**[00:24:33](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-24-08)**
+> "...stop. As soon as we mentioned Fort Huachuca, things just got crazy at the end of last year."
+
+**[00:25:15](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-24-52)**
+> "...e all going to find out about Fort Huachuca."
+
+**[00:30:42](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-30-04)**
+> "That is going to debunk the Fort Huachuca story. We don't actually need that. We're in cour..."
+
+**[00:33:03](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-32-40)**
+> "...I mistakenly think it debunks Fort Huachuca, whatever,"
+
+**[00:37:07](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-36-37)**
+> "... able to say whether she's on Fort Huachuca base, whether she's in Arizona."
+
+**[00:37:10](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-36-37)**
+> "I've never said that she's in Fort Huachuca. I couldn't tell you. I don't have Mitch (Mitch S..."
+
+**[00:39:10](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-38-48)**
+> "...dea what they have to do with Fort Huachuca. I really don't understand what they have to do w..."
+
+**[00:44:24](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-44-24)**
+> "...ka (Erika Kirk) was—wasn't at Fort Huachuca, how is that some kind of own? Because you've sai..."
+
+**[00:45:33](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-fort-huachuca-t-00-45-33)**
+> "...a (Erika Kirk), if she was at Fort Huachuca until they just the overreaction, the influencers..."
+
+</details>
+
+<details>
+<summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
+
+**[00:04:44](/episodes/ep-kn1E0scy9Wc.md#ent-gpe-fort-huachuca-t-00-04-34)**
+> "...mmander that was stationed at Fort Huachuca who was charged with running a child sex abuse ri..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
@@ -1163,6 +1236,18 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
+<summary>Former Base Of (1)</summary>
+
+- **[David Frodsham](/entities/person-david-frodsham.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:04:44](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34): “He worked with Erika (Erika Kirk)'s Romanian Angels during this time. David Frodsham, he was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Bruce Bevins](/entities/person-bruce-bevins.md)**
@@ -1206,7 +1291,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Candlewood Suites Building 44420](/entities/gpe-candlewood-suites-fort-huachuca.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1219,6 +1304,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:34:16](/episodes/ep-MhakwJxK-Zk.md#t-00-33-50): “It is announced that Palantir is doing a $10 billion software deal with the military and they are going to be stationed at Fort Huachuca.”
+
+</details>
+
+- **[David Frodsham](/entities/person-david-frodsham.md)** formerly based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:04:44](/episodes/ep-kn1E0scy9Wc.md#t-00-04-34): “He worked with Erika (Erika Kirk)'s Romanian Angels during this time. David Frodsham, he was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.”
 
 </details>
 
@@ -1256,7 +1348,33 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (107)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (114)</strong></summary>
+
+<details>
+<summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (7)</summary>
+
+- [00:23:28](/episodes/ep-_2DiIbfy4mU.md#t-00-23-28) (Opinion) **Candace Owens**: ["Owens still deems Mitch Snow’s Fort Huachuca story credible despite a ..."](/statements/statement-5e076f5934d0.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:24:41](/episodes/ep-_2DiIbfy4mU.md#t-00-24-08) (Claim) **Candace Owens**: ["Owens says she has a pending lawsuit and is reserving additional infor..."](/statements/statement-ccacb32fd502.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:25:07](/episodes/ep-_2DiIbfy4mU.md#t-00-24-52) (Prediction) **Candace Owens**: ["Owens predicts the lawsuit will make it inevitable that the public fin..."](/statements/statement-78f69981dddb.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:30:15](/episodes/ep-_2DiIbfy4mU.md#t-00-30-04) (Claim) **Candace Owens** (via paraphrase): ["Owens says Andrew Wilson claimed a private video of Charlie Kirk with ..."](/statements/statement-754d8b1883ce.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chicago Bears](/entities/org-chicago-bears.md)
+
+- [00:37:10](/episodes/ep-_2DiIbfy4mU.md#t-00-36-37) (Claim) **Candace Owens**: ["Owens says she has never asserted Erika Kirk was at Fort Huachuca and ..."](/statements/statement-94658aacac72.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:45:00](/episodes/ep-_2DiIbfy4mU.md#t-00-45-00) (Claim) **Candace Owens** (via paraphrase): ["Owens says Mitch Snow only reported seeing Erika Kirk leave a hotel on..."](/statements/statement-32005c363434.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:45:33](/episodes/ep-_2DiIbfy4mU.md#t-00-45-33) (Opinion) **Candace Owens**: ["Owens says the forceful response from influencers, many seemingly Gree..."](/statements/statement-ff3ae5a2321b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Army Special Forces](/entities/org-us-army-special-forces.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>

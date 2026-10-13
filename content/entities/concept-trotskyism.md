@@ -1,6 +1,6 @@
 ---
 title: "Trotskyism"
-description: "Trotskyism (Concepts) - 1 mention"
+description: "Trotskyism (Concepts) - 2 mentions"
 id: "concept-trotskyism"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Trotskyite Definition & Meaning — Merriam-Webster](https://www.merria
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-trotskyism-t-00-54-53">2025-12-17 · 00:54:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-trotskyism-t-00-54-53">2025-12-17 · 00:54:57</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-trotskyism-t-01-09-46">2026-10-06 · 01:10:01</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Trotskyite Definition & Meaning — Merriam-Webster](https://www.merria
 <p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-trotskyism-t-00-54-53">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-trotskyism-t-00-54-53" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-trotskyism-t-01-09-46" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-trotskyism-t-00-54-53) | 1 |
+| 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-trotskyism-t-01-09-46) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Trotskyite Definition & Meaning — Merriam-Webster](https://www.merria
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
+
+**[01:10:01](/episodes/ep-0pSAhaAZz1w.md#ent-concept-trotskyism-t-01-09-46)**
+> "These are Trotskyites. These are communists and these are not people, d..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
