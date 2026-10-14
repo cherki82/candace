@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 435 mentions"
+description: "Utah Valley University (Organizations) - 450 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,12 +27,12 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-46-41">2026-10-08 · 00:46:50</a></strong></div>
-<div><span>Episodes</span><strong>94</strong></div>
-<div><span>Mentions</span><strong>435</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-12-25">2026-10-13 · 00:13:02</a></strong></div>
+<div><span>Episodes</span><strong>95</strong></div>
+<div><span>Mentions</span><strong>450</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>201</strong></div>
-<div><span>Relationships</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>208</strong></div>
+<div><span>Relationships</span><strong>51</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -134,6 +134,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-00-01" style="--pulse-height:26%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 12 mentions" title="2026-10-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-00-01" style="--pulse-height:23%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 11 mentions" title="2026-10-07 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40" style="--pulse-height:32%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 15 mentions" title="2026-10-13 · 15 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -233,6 +234,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-utah-valley-university-t-00-00-01) | 12 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-00-01) | 11 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13) | 4 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40) | 15 |
 
 </details>
 </section>
@@ -244,7 +246,57 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (435)</strong></summary>
+<summary><strong class="section-title">Raw mentions (450)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (15 mentions)</summary>
+
+**[00:02:03](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40)**
+> "...scinating discovery regarding UVU. One that I've held onto because of my ever pendi..."
+
+**[00:04:37](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-04-06)**
+> "...ant. He's a faculty member at UVU."
+
+**[00:04:56](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-04-45)**
+> "...e power than the president of UVU ever did, ever has. He is allegedly, I'll say thi..."
+
+**[00:05:29](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-05-29)**
+> "...Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, th..."
+
+**[00:06:07](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-05-29)**
+> "... from his very many duties at UVU, he also currently serves in Utah's House of Repr..."
+
+**[00:06:23](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-06-14)**
+> "...e that much responsibility at UVU and also be serving in the House of Representativ..."
+
+**[00:07:05](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-06-48)**
+> "...his full-time employment with UVU."
+
+**[00:07:30](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-07-30)**
+> "So this was when UVU was Utah Valley State College. And he, at this po..."
+
+**[00:07:39](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-07-30)**
+> "...s a seasoned administrator at Utah Valley State College."
+
+**[00:09:55](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-09-32)**
+> "Employed by UVSC since 1987, Peterson (Val Peterson) is serving as..."
+
+**[00:10:07](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-09-32)**
+> "...d past leadership position at UVSC have provided him with vast experience in managin..."
+
+**[00:10:52](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-10-16)**
+> "...an see why faculty members at UVU are terrified of this man. They don't find him to..."
+
+**[00:11:25](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-11-01)**
+> "...eakerphone while traveling to UVU and remained actively engaged. But obviously he a..."
+
+**[00:13:02](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-12-25)**
+> "... p.m. He was not on campus at UVU. And guys."
+
+**[00:05:36](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-05-29)**
+> "And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (4 mentions)</summary>
@@ -2175,6 +2227,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
+<summary>Has Vice President (1)</summary>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Hosted Speaker (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -2256,7 +2320,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Referenced By (25)</summary>
+<summary>Referenced By (26)</summary>
 
 - **[Orem Police Department](/entities/org-orem-police-department.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2421,6 +2485,13 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 </details>
 
+- **[Val L. Peterson](/entities/person-val-peterson.md)** vice president of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
+
+</details>
+
 - **[Jeff Long](/entities/person-jeff-long.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
@@ -2452,7 +2523,33 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (201)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (208)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (7)</summary>
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) (Accusation) **Candace Owens** (via paraphrase): ["According to unnamed UVU faculty sources, Owens said Val Peterson was ..."](/statements/statement-5c58ae25b183.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UVU faculty sources described by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-004.md)
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) (Opinion) **Candace Owens** (via paraphrase): ["Owens said UVU faculty were terrified of Val Peterson and that she was..."](/statements/statement-7aac777dabe1.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [UVU faculty sources described by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-004.md)
+
+- [00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) (Claim) **Candace Owens**: ["Val Peterson started at the institution now called UVU in June 1987 an..."](/statements/statement-98672eb3c885.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md)
+
+- [00:05:46](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) (Claim) **Candace Owens**: ["Owens said Val Peterson oversees a budget of more than $50 million and..."](/statements/statement-7325260e919c.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md)
+
+- [00:06:48](/episodes/ep-V-phmW9f0pM.md#t-00-06-48) (Claim) **Candace Owens**: ["Owens said Val Peterson is a brigadier general and for 30 years led th..."](/statements/statement-c85267029590.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah National Guard](/entities/org-utah-national-guard.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+- [00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01) (Citation) **Candace Owens**: ["Citing the after-action report, Owens said Val Peterson was approximat..."](/statements/statement-e17ff3b4c7ae.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:43](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) (Opinion) **Candace Owens**: ["Owens noted Salt Lake City and its National Guard air base were 45 min..."](/statements/statement-34cbc7af2eed.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah National Guard](/entities/org-utah-national-guard.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (4)</summary>

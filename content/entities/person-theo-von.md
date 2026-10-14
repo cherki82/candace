@@ -1,6 +1,6 @@
 ---
 title: "Theo Von"
-description: "Theo Von (People) - 49 mentions"
+description: "Theo Von (People) - 51 mentions"
 id: "person-theo-von"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36">2025-10-02 · 00:46:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56">2026-10-08 · 00:48:18</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-55-35">2026-10-13 · 00:56:09</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43" style="--pulse-height:100%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 11 mentions" title="2026-05-20 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13" style="--pulse-height:36%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56" style="--pulse-height:27%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-48-46" style="--pulse-height:18%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43) | 11 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13) | 4 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56) | 3 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-48-46) | 2 |
 
 </details>
 </section>
@@ -75,7 +77,18 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:49:04](/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-48-46)**
+> "...ly in the running, is between Theo Von and Tim Dillon, had a similar take on this case, ..."
+
+**[00:56:09](/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-55-35)**
+> "I loved your Theo Von interview. Guys, like 3.5 million of you have wat..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3 mentions)</summary>
@@ -380,9 +393,10 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <summary>Interviewed (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:47:56](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “They have she who must not be named for everyone who watched My Sit Down with Theo Von. We had such a great time. I think like already over 2 million people have watched it and just been up for two days.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:56:04](/episodes/ep-V-phmW9f0pM.md#t-00-55-35): “I could do no wrong, especially this pregnant. Lola Wild writes, Candace, you are the bravest journalist alive. I loved your Theo Von interview. Guys, like 3.5 million of you have watched an interview. I think it's like his biggest interview of the year. It's on track to be at least.”
 
 </details>
 
@@ -438,9 +452,10 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:47:56](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “They have she who must not be named for everyone who watched My Sit Down with Theo Von. We had such a great time. I think like already over 2 million people have watched it and just been up for two days.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:56:04](/episodes/ep-V-phmW9f0pM.md#t-00-55-35): “I could do no wrong, especially this pregnant. Lola Wild writes, Candace, you are the bravest journalist alive. I loved your Theo Von interview. Guys, like 3.5 million of you have watched an interview. I think it's like his biggest interview of the year. It's on track to be at least.”
 
 </details>
 
@@ -475,7 +490,15 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Theo Von (2)</strong></summary>
+<summary><strong class="section-title">Statements about Theo Von (3)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:56:09](/episodes/ep-V-phmW9f0pM.md#t-00-55-35) (Claim) **Candace Owens**: ["Owens said about 3.5 million people had watched her Theo Von interview..."](/statements/statement-d2b0b32e0dd9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>

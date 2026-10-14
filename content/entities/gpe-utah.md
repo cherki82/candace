@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 448 mentions"
+description: "Utah (Places) - 461 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [State of Utah official website](https://utah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-36-17">2026-10-08 · 00:36:53</a></strong></div>
-<div><span>Episodes</span><strong>102</strong></div>
-<div><span>Mentions</span><strong>448</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-32-45">2026-10-13 · 00:33:11</a></strong></div>
+<div><span>Episodes</span><strong>103</strong></div>
+<div><span>Mentions</span><strong>461</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -137,6 +137,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-utah-t-00-07-59" style="--pulse-height:18%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-utah-t-00-07-12" style="--pulse-height:18%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-17-49" style="--pulse-height:12%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-04-45" style="--pulse-height:76%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 13 mentions" title="2026-10-13 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -244,6 +245,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-utah-t-00-07-59) | 3 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-utah-t-00-07-12) | 3 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-utah-t-00-17-49) | 2 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-04-45) | 13 |
 
 </details>
 </section>
@@ -255,7 +257,51 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (448)</strong></summary>
+<summary><strong class="section-title">Raw mentions (461)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (13 mentions)</summary>
+
+**[00:04:45](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-04-45)**
+> "...n campus, but in the state of Utah."
+
+**[00:05:36](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-05-29)**
+> "And back then it was just Utah Technical College. College today. He is officiall..."
+
+**[00:06:07](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-05-29)**
+> "..., he also currently serves in Utah's House of Representatives."
+
+**[00:06:23](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-06-14)**
+> "...r possible. But apparently in Utah, it's a thing. As you will learn throughout this ..."
+
+**[00:07:46](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-07-30)**
+> "...eterson (Val Peterson) at the Utah Army National Guard. During a change of command c..."
+
+**[00:10:36](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-10-16)**
+> "... commands within the state of Utah."
+
+**[00:11:43](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-10-16)**
+> "He serves in the Utah House of Reps in Orem American Fork. And I'm just..."
+
+**[00:12:44](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-12-25)**
+> "For Utah is where the National Guard Army is headquartered..."
+
+**[00:14:20](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-12-25)**
+> "...ungest person to serve in the Utah House of Representatives. [ASR wording uncertain;..."
+
+**[00:16:54](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-16-54)**
+> "..., Rep. Clancy (Tyler Clancy). Utah is safer because of your work. Yay. I agree. Than..."
+
+**[00:24:30](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-24-30)**
+> "Very shortly after the assassination, Governor Cox (Spencer Cox) promoted him, allowing him to achieve another Utah State first."
+
+**[00:25:04](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-25-04)**
+> "Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets."
+
+**[00:33:11](/episodes/ep-V-phmW9f0pM.md#ent-gpe-utah-t-00-32-45)**
+> "And it's allowed in Utah, by the way, they're not breaking the law by doin..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
@@ -2123,6 +2169,18 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:41](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator. The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Former Residence Of (1)</summary>
 
 - **[Senator Mike Lee](/entities/person-senator-mike-lee.md)**
@@ -2135,12 +2193,19 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Deirdre Amaro](/entities/person-deirdre-amaro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:02:05](/episodes/ep-HZvwbfePe7o.md#t-00-01-43): “Curiously enough, there was no official reason provided for Deidre's sudden resignation, only that she is moving on from her position. I find that to be a lead that people should chase. If you perhaps know more, please do send us an email to tips at candaceowens.com. Why is our chief medical examiner of Utah resigning so quickly?”
+
+</details>
+
+- **[Wayne Niederhauser](/entities/person-wayne-niederhauser.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:25:04](/episodes/ep-V-phmW9f0pM.md#t-00-25-04): “Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets. Thank you to Wayne Niederhauser, our outgoing state homeless coordinator, for his service and congratulations on his retirement, youngest ever in the state, once again.”
 
 </details>
 
@@ -2150,10 +2215,23 @@ Source: [State of Utah official website](https://utah.gov/)
 <summary>Has Governor (1)</summary>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Very shortly after the assassination, Governor Cox (Spencer Cox) promoted him, allowing him to achieve another Utah State first. Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator. The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Headquarters Of (1)</summary>
+
+- **[300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:07:46](/episodes/ep-V-phmW9f0pM.md#t-00-07-30): “By evening, weekend, or whenever called, he is Lieutenant Colonel Peterson (Val Peterson) at the Utah Army National Guard. During a change of command ceremony on Saturday at the Utah Army National Guard's Draper headquarters, Peterson (Val Peterson) assumed command of the 300th Military Intelligence Brigade, a linguist and intelligence unit headquartered in Utah that has nearly 2,000 language specialist troops in six states.”
 
 </details>
 
@@ -2218,7 +2296,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Jennica Pounds](/entities/person-jennica-pounds.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2248,11 +2326,26 @@ Source: [State of Utah official website](https://utah.gov/)
 
 </details>
 
+- **[Wayne Niederhauser](/entities/person-wayne-niederhauser.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:25:04](/episodes/ep-V-phmW9f0pM.md#t-00-25-04): “Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets. Thank you to Wayne Niederhauser, our outgoing state homeless coordinator, for his service and congratulations on his retirement, youngest ever in the state, once again.”
+
+</details>
+
 - **[Spencer Cox](/entities/person-spencer-cox.md)** governor of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Very shortly after the assassination, Governor Cox (Spencer Cox) promoted him, allowing him to achieve another Utah State first. Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator. The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
+
+</details>
+
+- **[300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)** headquartered in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:07:46](/episodes/ep-V-phmW9f0pM.md#t-00-07-30): “By evening, weekend, or whenever called, he is Lieutenant Colonel Peterson (Val Peterson) at the Utah Army National Guard. During a change of command ceremony on Saturday at the Utah Army National Guard's Draper headquarters, Peterson (Val Peterson) assumed command of the 300th Military Intelligence Brigade, a linguist and intelligence unit headquartered in Utah that has nearly 2,000 language specialist troops in six states.”
 
 </details>
 
@@ -2292,12 +2385,27 @@ Source: [State of Utah official website](https://utah.gov/)
 
 </details>
 
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:41](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator. The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (35)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (36)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:33:04](/episodes/ep-V-phmW9f0pM.md#t-00-32-45) (Claim) **Candace Owens**: ["Owens said Utah allows people such as Val Peterson and Tyler Clancy to..."](/statements/statement-9296099ef9f7.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</details>
 
 <details>
 <summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (7)</summary>

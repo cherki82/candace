@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 178 mentions"
+description: "Baron Coleman (People) - 181 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10">2026-10-06 · 01:07:27</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>178</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-58-15">2026-10-13 · 00:58:15</a></strong></div>
+<div><span>Episodes</span><strong>58</strong></div>
+<div><span>Mentions</span><strong>181</strong></div>
 <div><span>Statements by</span><strong>32</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -92,6 +92,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-person-baron-coleman-t-00-36-41" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20" style="--pulse-height:62%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 10 mentions" title="2026-10-05 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -154,6 +155,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-baron-coleman-t-00-36-41) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20) | 10 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37) | 3 |
 
 </details>
 </section>
@@ -165,7 +167,21 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+<summary><strong class="section-title">Raw mentions (181)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
+
+**[00:19:53](/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37)**
+> "...ause when I mentioned this to Baron Coleman at a separate time, he brought to my attention."
+
+**[00:20:24](/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-20-24)**
+> "... remember this at all. Baron (Baron Coleman) said, yeah, he said that recently. The exact dat..."
+
+**[00:58:15](/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-58-15)**
+> "...ay when you see our exclusive Baron Coleman line that we're going to be dropping soon. It sho..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
@@ -1053,11 +1069,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <summary>Spoke With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:44:34](/episodes/ep-NNiCZk1cuzs.md#t-00-44-28): “Picture of Empress Films at this time. That's what I'd like to know. Just seems weird to me, and I find that a little bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is weird, very weird, and I don't know why it's weird, but it just feels weird for some reason. When you are just running a clothing company, like, were they going to do a documentary on Erika (Erika Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I don't know. Doesn't register to me as correct.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:00:34](/episodes/ep-_Sq5RqP27NY.md#t-00-00-01): “I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot because I think it really does help.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37): “Mostly I'm inclined to believe it, though, because when I mentioned this to Baron Coleman at a separate time, he brought to my attention. That a similar and potentially corroborating story was told by none other than Yankin Bankin Frank (Frank Turek). Yes, ladies and gentlemen, Frank Turek, with an ever so slight variation on the story that we heard, rather an excuse for why he did this, has already admitted that he gave his bloodied bag to a police officer to dispose. Frank (Frank Turek) has this way of getting ahead of things. Like, you go back, and I was like, I don't remember this at all. Baron (Baron Coleman) said, yeah, he said that recently. The exact date was April 9th, 2026. You can take a listen to what he said. It was on a podcast called the Apostate Prophet podcast. And again, this was recorded, this was released, rather, on April 9th, 2026. Take a listen.”
 
 </details>
 
@@ -1115,11 +1132,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:44:34](/episodes/ep-NNiCZk1cuzs.md#t-00-44-28): “Picture of Empress Films at this time. That's what I'd like to know. Just seems weird to me, and I find that a little bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is weird, very weird, and I don't know why it's weird, but it just feels weird for some reason. When you are just running a clothing company, like, were they going to do a documentary on Erika (Erika Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I don't know. Doesn't register to me as correct.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:00:34](/episodes/ep-_Sq5RqP27NY.md#t-00-00-01): “I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot because I think it really does help.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37): “Mostly I'm inclined to believe it, though, because when I mentioned this to Baron Coleman at a separate time, he brought to my attention. That a similar and potentially corroborating story was told by none other than Yankin Bankin Frank (Frank Turek). Yes, ladies and gentlemen, Frank Turek, with an ever so slight variation on the story that we heard, rather an excuse for why he did this, has already admitted that he gave his bloodied bag to a police officer to dispose. Frank (Frank Turek) has this way of getting ahead of things. Like, you go back, and I was like, I don't remember this at all. Baron (Baron Coleman) said, yeah, he said that recently. The exact date was April 9th, 2026. You can take a listen to what he said. It was on a podcast called the Apostate Prophet podcast. And again, this was recorded, this was released, rather, on April 9th, 2026. Take a listen.”
 
 </details>
 
@@ -1301,7 +1319,18 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baron Coleman (15)</strong></summary>
+<summary><strong class="section-title">Statements about Baron Coleman (17)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>
+
+- [00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37) (Citation) **Candace Owens**: ["Owens said Baron Coleman drew her attention to a similar, potentially ..."](/statements/statement-67c23f5a60fe.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Apostate Prophet (YouTube channel)](/entities/work-apostate-prophet-channel.md)
+
+- [00:58:15](/episodes/ep-V-phmW9f0pM.md#t-00-58-15) (Promise) **Candace Owens**: ["Owens promised an exclusive Baron Coleman merchandise line, saying it ..."](/statements/statement-ef705255dd76.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "The Truman Show"
-description: "The Truman Show (Works & Media) - 18 mentions"
+description: "The Truman Show (Works & Media) - 19 mentions"
 id: "work-the-truman-show"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-work-the-truman-show-t-00-37-35">2025-09-30 · 00:37:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-work-the-truman-show-t-00-20-24">2026-09-10 · 00:20:24</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-work-the-truman-show-t-00-40-13">2026-10-13 · 00:40:33</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-the-truman-show-t-00-25-48" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-work-the-truman-show-t-00-25-21" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-work-the-truman-show-t-00-20-24" style="--pulse-height:33%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-work-the-truman-show-t-00-40-13" style="--pulse-height:33%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-work-the-truman-show-t-00-25-48) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-the-truman-show-t-00-25-21) | 2 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-work-the-truman-show-t-00-20-24) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-work-the-truman-show-t-00-40-13) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:40:33](/episodes/ep-V-phmW9f0pM.md#ent-work-the-truman-show-t-00-40-13)**
+> "...lie (Charlie Kirk) was living the Truman Show and now we're all living the Truman Show, and I'm..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>

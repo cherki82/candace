@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 455 mentions"
+description: "Brian Harpole (People) - 457 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-55-10">2026-10-08 · 00:55:33</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>455</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-29-22">2026-10-13 · 00:29:22</a></strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>457</strong></div>
 <div><span>Statements by</span><strong>37</strong></div>
 <div><span>Statements about</span><strong>171</strong></div>
 <div><span>Relationships</span><strong>45</strong></div>
@@ -98,6 +98,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-brian-harpole-t-00-57-29" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-28-07" style="--pulse-height:12%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 5 mentions" title="2026-10-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20" style="--pulse-height:32%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 13 mentions" title="2026-10-08 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-23-44" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -170,6 +171,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-brian-harpole-t-00-57-29) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-28-07) | 5 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20) | 13 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-23-44) | 2 |
 
 </details>
 </section>
@@ -181,7 +183,18 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (455)</strong></summary>
+<summary><strong class="section-title">Raw mentions (457)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:23:44](/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-23-44)**
+> "Brian Harpole's in there yelling, do the medical, do the medical,..."
+
+**[00:29:22](/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-29-22)**
+> "...of Frank Turek, the legend of Brian Harpole."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (13 mentions)</summary>
@@ -1957,7 +1970,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1974,6 +1987,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:29:55](/episodes/ep-ms5ChhZegRg.md#t-00-29-55): “This feels significant enough that we need a concrete answer as to who performed CPR, who met Charlie (Charlie Kirk)'s SUV at the hospital and performed CPR and then gave amnesia to Frank Turek and Brian Harpole about this act. ... That's what happened. They both suddenly descended into amnesia and they both remember no one remembers no CPR remembers CPR in the last 30 seconds, but none of them remember a fire captain who gave CPR to Charlie (Charlie Kirk). ... Again, I find that to be unbelievable.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
 
 </details>
 
@@ -2205,7 +2219,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -2222,6 +2236,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:29:55](/episodes/ep-ms5ChhZegRg.md#t-00-29-55): “This feels significant enough that we need a concrete answer as to who performed CPR, who met Charlie (Charlie Kirk)'s SUV at the hospital and performed CPR and then gave amnesia to Frank Turek and Brian Harpole about this act. ... That's what happened. They both suddenly descended into amnesia and they both remember no one remembers no CPR remembers CPR in the last 30 seconds, but none of them remember a fire captain who gave CPR to Charlie (Charlie Kirk). ... Again, I find that to be unbelievable.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
 
 </details>
 

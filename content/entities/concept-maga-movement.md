@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 134 mentions"
+description: "MAGA movement (Concepts) - 136 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-maga-movement-t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-35-03">2026-10-01 · 00:35:03</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>134</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-concept-maga-movement-t-00-34-50">2026-10-13 · 00:34:50</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>136</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -85,6 +85,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-concept-maga-movement-t-00-40-51" style="--pulse-height:27%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-29-24" style="--pulse-height:45%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 5 mentions" title="2026-09-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#t-00-35-03" style="--pulse-height:9%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-concept-maga-movement-t-00-33-24" style="--pulse-height:18%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -139,6 +140,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-concept-maga-movement-t-00-40-51) | 3 |
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-maga-movement-t-00-29-24) | 5 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-35-03) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-concept-maga-movement-t-00-33-24) | 2 |
 
 </details>
 </section>
@@ -150,7 +152,18 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+<summary><strong class="section-title">Raw mentions (136)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:33:46](/episodes/ep-V-phmW9f0pM.md#ent-concept-maga-movement-t-00-33-24)**
+> "...back when I was proud to wear MAGA hats. You couldn't catch me wearing one ever toda..."
+
+**[00:34:50](/episodes/ep-V-phmW9f0pM.md#ent-concept-maga-movement-t-00-34-50)**
+> "...and it felt different and the MAGA movement felt different and we were kind of making the tra..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
@@ -809,7 +822,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MAGA movement (10)</strong></summary>
+<summary><strong class="section-title">Statements about MAGA movement (12)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>
+
+- [00:33:46](/episodes/ep-V-phmW9f0pM.md#t-00-33-24) (Opinion) **Candace Owens**: ["Owens said she used to be proud to wear MAGA hats during Trump's first..."](/statements/statement-31cf29542015.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) (Accusation) **Candace Owens**: ["Owens said she felt Karoline Leavitt was gaslighting and lying to the ..."](/statements/statement-ac7e81844d62.md)
+  - Also about: [Karoline Leavitt](/entities/person-karoline-leavitt.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</details>
 
 <details>
 <summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>

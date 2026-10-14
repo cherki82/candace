@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 677 mentions"
+description: "American Financing (Organizations) - 682 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-american-financing-t-00-43-53">2026-10-08 · 00:44:10</a></strong></div>
-<div><span>Episodes</span><strong>154</strong></div>
-<div><span>Mentions</span><strong>677</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-46">2026-10-13 · 00:48:54</a></strong></div>
+<div><span>Episodes</span><strong>155</strong></div>
+<div><span>Mentions</span><strong>682</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -190,6 +190,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-american-financing-t-00-54-26" style="--pulse-height:62%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-american-financing-t-00-42-09" style="--pulse-height:62%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 5 mentions" title="2026-10-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-american-financing-t-00-43-15" style="--pulse-height:62%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 5 mentions" title="2026-10-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-07" style="--pulse-height:62%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 5 mentions" title="2026-10-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -349,6 +350,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-american-financing-t-00-54-26) | 5 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-american-financing-t-00-42-09) | 5 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-american-financing-t-00-43-15) | 5 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-07) | 5 |
 
 </details>
 </section>
@@ -356,7 +358,27 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (677)</strong></summary>
+<summary><strong class="section-title">Raw mentions (682)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5 mentions)</summary>
+
+**[00:48:07](/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-07)**
+> "...want to remind you guys about American Financing because simple cheap things like fast food stops ..."
+
+**[00:48:19](/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-07)**
+> "...u've maybe considered calling American financing, but then hesitated because you remembered that l..."
+
+**[00:48:31](/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-07)**
+> "...ld be shifting in your favor. American financing can help you use your hard-earned equity to wipe ..."
+
+**[00:48:38](/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-07)**
+> "... average of $800 a month with American financing."
+
+**[00:48:54](/episodes/ep-V-phmW9f0pM.md#ent-org-american-financing-t-00-48-46)**
+> "So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (5 mentions)</summary>
@@ -3159,7 +3181,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (54)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (55)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -3215,6 +3237,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:54:54](/episodes/ep-0pSAhaAZz1w.md#t-00-54-26): “What used to cost $20 is now closer to $40 or $50. Of course, if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American Financing, but maybe hesitated because you remembered you're currently enjoying a low mortgage rate. But hang on to that low rate doesn't actually help if the high interest credit cards are eating up your monthly income. That's where the numbers can actually shift in your favor. American Financing can help you use your hard-earned equity to wipe out high-interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American Financing. There are no upfront fees, no pressure, and no costs to find out your potential monthly savings. Plus, starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, that's Americanfinancing.net slash Owens.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:42:24](/episodes/ep-yrg_-D6oNHE.md#t-00-42-09): “T-R-Y-H-2-O dot com slash Candace. I also want to remind you guys about American financing because simple cheap things like fast food stops with the family have become out of control expensive. ... What used to cost $20 is now closer to $40 or $50. And if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American financing, but maybe hesitated because you remembered that you're enjoying a low mortgage rate. ... But hanging on to a low rate doesn't actually help if high interest credit cards are eating up your money. ... your monthly income. And that's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners who are saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure, and no costs to find out your potential monthly savings, while starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit americanfinancing.net slash owens. Again, that's americanfinancing.net slash owens.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -3251,7 +3274,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (54)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (55)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -3307,6 +3330,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:54:54](/episodes/ep-0pSAhaAZz1w.md#t-00-54-26): “What used to cost $20 is now closer to $40 or $50. Of course, if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American Financing, but maybe hesitated because you remembered you're currently enjoying a low mortgage rate. But hang on to that low rate doesn't actually help if the high interest credit cards are eating up your monthly income. That's where the numbers can actually shift in your favor. American Financing can help you use your hard-earned equity to wipe out high-interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American Financing. There are no upfront fees, no pressure, and no costs to find out your potential monthly savings. Plus, starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, that's Americanfinancing.net slash Owens.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:42:24](/episodes/ep-yrg_-D6oNHE.md#t-00-42-09): “T-R-Y-H-2-O dot com slash Candace. I also want to remind you guys about American financing because simple cheap things like fast food stops with the family have become out of control expensive. ... What used to cost $20 is now closer to $40 or $50. And if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American financing, but maybe hesitated because you remembered that you're enjoying a low mortgage rate. ... But hanging on to a low rate doesn't actually help if high interest credit cards are eating up your money. ... your monthly income. And that's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners who are saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure, and no costs to find out your potential monthly savings, while starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit americanfinancing.net slash owens. Again, that's americanfinancing.net slash owens.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 
 </details>
 

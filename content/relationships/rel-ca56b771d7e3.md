@@ -11,7 +11,7 @@ object: "org-paleovalley"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Paleovalley](/entities/org-paleovalley)
 
-### Evidence (12 mentions)
+### Evidence (13 mentions)
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
@@ -36,6 +36,10 @@ object: "org-paleovalley"
 **[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
 
 - [00:27:41](/episodes/ep-MUA9ebCF4Ow#t-00-27-41): _Also, I wanna tell you guys about Paleovalley because something that my team and I are always craving are their snack beef sticks_
+
+**[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
+
+- [00:32:30](/episodes/ep-V-phmW9f0pM#t-00-32-30): _So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout._
 
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 

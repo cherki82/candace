@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 137 mentions"
+description: "Provo (Places) - 141 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53">2026-10-05 · 00:27:53</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>137</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-32-45">2026-10-13 · 00:33:16</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>141</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -71,6 +71,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-46-40" style="--pulse-height:11%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-15-34" style="--pulse-height:22%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -110,6 +111,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24) | 1 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-46-40) | 2 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-15-34) | 4 |
 
 </details>
 </section>
@@ -121,7 +123,24 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (137)</strong></summary>
+<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4 mentions)</summary>
+
+**[00:16:08](/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-15-34)**
+> "... but he was also serving as a Provo police officer, special victims unit."
+
+**[00:16:35](/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-16-18)**
+> "...his service as a detective in Provo PD's special victims unit where he helped."
+
+**[00:17:35](/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-17-35)**
+> "...ancy was in fact on duty as a Provo police officer on September 11th. He was allegedl..."
+
+**[00:33:16](/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-32-45)**
+> "... conflict of interest to be a Provo police officer and a government employee."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>

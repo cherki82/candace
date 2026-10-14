@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (42 mentions)
+### Evidence (43 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -108,6 +108,10 @@ object: "person-blake-neff"
 **[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
 
 - [00:51:54](/episodes/ep-UAdBEXs7nNc#t-00-51-54): _He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show._
+
+**[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
+
+- [00:12:00](/episodes/ep-V-phmW9f0pM#t-00-12-00): _I only noted the time and the National Guard presence, generally speaking, all throughout Salt Lake City because there was that, remember that lost bald guy, diva, Blakey Poo (Blake Neff) girlfriend who for whatever reason could not remember where he was in Salt Lake City or who he was with. And Blake (Blake Neff) said he was just, he didn't go with Charlie (Charlie Kirk) to the event, but he was marking time, interesting way to phrase that, marking time._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 

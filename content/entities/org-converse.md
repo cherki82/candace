@@ -1,6 +1,6 @@
 ---
 title: "Converse (footwear brand)"
-description: "Converse (footwear brand) (Organizations) - 5 mentions"
+description: "Converse (footwear brand) (Organizations) - 7 mentions"
 id: "org-converse"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Who We Are | Converse](https://careers.converse.com/who-we-are)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-converse-t-00-14-48">2026-09-14 · 00:15:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-converse-t-00-54-47">2026-09-22 · 00:55:08</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-converse-t-00-27-07">2026-10-13 · 00:27:31</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Who We Are | Converse](https://careers.converse.com/who-we-are)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-converse-t-00-14-48" style="--pulse-height:25%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-converse-t-00-00-01" style="--pulse-height:100%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 4 mentions" title="2026-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-converse-t-00-26-29" style="--pulse-height:50%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Who We Are | Converse](https://careers.converse.com/who-we-are)
 |---|---|---:|
 | 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-converse-t-00-14-48) | 1 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-converse-t-00-00-01) | 4 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-converse-t-00-26-29) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [Who We Are | Converse](https://careers.converse.com/who-we-are)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:26:58](/episodes/ep-V-phmW9f0pM.md#ent-org-converse-t-00-26-29)**
+> "... see him. This last pic shows converse branded footprints."
+
+**[00:27:31](/episodes/ep-V-phmW9f0pM.md#ent-org-converse-t-00-27-07)**
+> "...o of him retracing steps with Converse, whether it was Tyler Clancy, who assisted by thr..."
+
+</details>
 
 <details>
 <summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4 mentions)</summary>
@@ -89,7 +102,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Converse (footwear brand) (1)</strong></summary>
+<summary><strong class="section-title">Statements about Converse (footwear brand) (2)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29) (Claim) **Shaner Broderick** (via quoted post): ["Shaner Broderick wrote that he took friends to his grandmother's house..."](/statements/statement-f5eabc707337.md)
+  - Also about: [Shaner Broderick](/entities/person-shaner-broderick.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>

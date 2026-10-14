@@ -1,6 +1,6 @@
 ---
 title: "Vogue"
-description: "Vogue (Organizations) - 3 mentions"
+description: "Vogue (Organizations) - 4 mentions"
 id: "org-vogue"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About Vogue](https://www.vogue.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-vogue-t-00-41-22">2026-01-21 · 00:41:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-vogue-t-00-42-06">2026-01-21 · 00:42:12</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-vogue-t-00-53-03">2026-10-13 · 00:53:23</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [About Vogue](https://www.vogue.com/about)
 <p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-vogue-t-00-41-22">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-vogue-t-00-41-22" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-vogue-t-00-53-03" style="--pulse-height:33%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-vogue-t-00-41-22) | 3 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-vogue-t-00-53-03) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [About Vogue](https://www.vogue.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:53:23](/episodes/ep-V-phmW9f0pM.md#ent-org-vogue-t-00-53-03)**
+> ".... I'll be doing the spread in Vogue."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (3 mentions)</summary>

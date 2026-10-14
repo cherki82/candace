@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PDS Debt](/entities/org-pds-debt) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (9 mentions)
+### Evidence (10 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -36,6 +36,10 @@ object: "person-candace-owens"
 **[More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc)**
 
 - [00:25:23](/episodes/ep-UAdBEXs7nNc#t-00-25-23): _Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment._
+
+**[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
+
+- [00:30:20](/episodes/ep-V-phmW9f0pM#t-00-30-20): _They're actually designed to keep you stuck. PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowered monthly payment._
 
 **[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
 

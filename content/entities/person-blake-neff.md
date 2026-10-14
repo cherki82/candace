@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 533 mentions"
+description: "Blake Neff (People) - 536 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-51-47">2026-10-08 · 00:52:18</a></strong></div>
-<div><span>Episodes</span><strong>91</strong></div>
-<div><span>Mentions</span><strong>533</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-12-25">2026-10-13 · 00:12:25</a></strong></div>
+<div><span>Episodes</span><strong>92</strong></div>
+<div><span>Mentions</span><strong>536</strong></div>
 <div><span>Statements by</span><strong>72</strong></div>
-<div><span>Statements about</span><strong>114</strong></div>
+<div><span>Statements about</span><strong>115</strong></div>
 <div><span>Relationships</span><strong>71</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
@@ -128,6 +128,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-blake-neff-t-01-05-06" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:61%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 20 mentions" title="2026-10-07 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:100%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 33 mentions" title="2026-10-08 · 33 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-11-43" style="--pulse-height:9%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -224,6 +225,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-blake-neff-t-01-05-06) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-blake-neff-t-00-00-01) | 20 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01) | 33 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-11-43) | 3 |
 
 </details>
 </section>
@@ -236,7 +238,21 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (533)</strong></summary>
+<summary><strong class="section-title">Raw mentions (536)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
+
+**[00:12:00](/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-11-43)**
+> "...t bald guy, diva, Blakey Poo (Blake Neff) girlfriend who for whatever reason could not rem..."
+
+**[00:12:18](/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-11-43)**
+> "And Blake (Blake Neff) said he was just, he didn't go with Charlie (Cha..."
+
+**[00:12:25](/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-12-25)**
+> "...search to try to help Blakey (Blake Neff) recall where he might have been when he was in t..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (33 mentions)</summary>
@@ -2434,7 +2450,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (43)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -2478,6 +2494,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:19](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “And Blake (Blake Neff), who thought he was just being so funny, decided to add that tweet to his bookmarks. Well, Blakey (Blake Neff), you can, you can remove that from your bookmarks. You guys are forever gaslighting me and my sources, but yes, Erica (Erika Kirk)'s profile was at long last dropped. And we should just begin with the headline photo because it is something. It is something, this photo. I don't know why she can never just be normal and do normal things.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:28](/episodes/ep-yrg_-D6oNHE.md#t-00-04-28): “They're just going to gaslight us. They tried to gaslight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). Why would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking that way? A lot of allegations you're throwing out. I'm back to hating white people again or something. I hate pretty women. I hate white women. He's just whatever will stick. Also, he's admitted that he's never met me, so he has no idea. idea how I treat people around me. He has no evidence of anything he's saying, given the fact that my assistant lasted six years, actually, the one that we were just trying to replace and also my other assistant lasted five years and went on to become my manager.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:54](/episodes/ep-UAdBEXs7nNc.md#t-00-51-47): “He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43): “I only noted the time and the National Guard presence, generally speaking, all throughout Salt Lake City because there was that, remember that lost bald guy, diva, Blakey Poo (Blake Neff) girlfriend who for whatever reason could not remember where he was in Salt Lake City or who he was with. And Blake (Blake Neff) said he was just, he didn't go with Charlie (Charlie Kirk) to the event, but he was marking time, interesting way to phrase that, marking time.”
 
 </details>
 
@@ -2768,7 +2785,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (43)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -2812,6 +2829,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:19](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “And Blake (Blake Neff), who thought he was just being so funny, decided to add that tweet to his bookmarks. Well, Blakey (Blake Neff), you can, you can remove that from your bookmarks. You guys are forever gaslighting me and my sources, but yes, Erica (Erika Kirk)'s profile was at long last dropped. And we should just begin with the headline photo because it is something. It is something, this photo. I don't know why she can never just be normal and do normal things.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:28](/episodes/ep-yrg_-D6oNHE.md#t-00-04-28): “They're just going to gaslight us. They tried to gaslight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). Why would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking that way? A lot of allegations you're throwing out. I'm back to hating white people again or something. I hate pretty women. I hate white women. He's just whatever will stick. Also, he's admitted that he's never met me, so he has no idea. idea how I treat people around me. He has no evidence of anything he's saying, given the fact that my assistant lasted six years, actually, the one that we were just trying to replace and also my other assistant lasted five years and went on to become my manager.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:54](/episodes/ep-UAdBEXs7nNc.md#t-00-51-47): “He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43): “I only noted the time and the National Guard presence, generally speaking, all throughout Salt Lake City because there was that, remember that lost bald guy, diva, Blakey Poo (Blake Neff) girlfriend who for whatever reason could not remember where he was in Salt Lake City or who he was with. And Blake (Blake Neff) said he was just, he didn't go with Charlie (Charlie Kirk) to the event, but he was marking time, interesting way to phrase that, marking time.”
 
 </details>
 
@@ -3395,7 +3413,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (114)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (115)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) (Claim) **Candace Owens** (via paraphrase): ["Owens said Blake Neff had said he did not accompany Charlie Kirk to th..."](/statements/statement-6d7c7fa693e7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (12)</summary>

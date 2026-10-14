@@ -1,6 +1,6 @@
 ---
 title: "Harvard University"
-description: "Harvard University (Organizations) - 8 mentions"
+description: "Harvard University (Organizations) - 9 mentions"
 id: "org-harvard-university"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-harvard-university-t-00-29-10">2025-09-15 · 00:29:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-harvard-university-t-00-41-47">2026-10-05 · 00:41:47</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-harvard-university-t-00-34-09">2026-10-13 · 00:34:09</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-harvard-university-t-00-20-19" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-harvard-university-t-00-31-26" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-harvard-university-t-00-41-47" style="--pulse-height:50%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-harvard-university-t-00-34-09" style="--pulse-height:50%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-harvard-university-t-00-20-19) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-harvard-university-t-00-31-26) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-harvard-university-t-00-41-47) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-harvard-university-t-00-34-09) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:34:09](/episodes/ep-V-phmW9f0pM.md#ent-org-harvard-university-t-00-34-09)**
+> "...t that she was. She graduated Harvard with a law degree. She did also spend time overse..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
@@ -121,12 +131,42 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Attended By (1)</summary>
+
+- **[Kayleigh McEnany](/entities/person-kayleigh-mcenany.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:33:59](/episodes/ep-V-phmW9f0pM.md#t-00-33-24): “Kayleigh McEnany. Kayleigh McEnany was whip-smart, right? Beyond the fact that she's an attractive young woman, nobody really cared about that because she was whip-smart. No one could deny the fact that she was. She graduated Harvard with a law degree.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Kayleigh McEnany](/entities/person-kayleigh-mcenany.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:33:59](/episodes/ep-V-phmW9f0pM.md#t-00-33-24): “Kayleigh McEnany. Kayleigh McEnany was whip-smart, right? Beyond the fact that she's an attractive young woman, nobody really cared about that because she was whip-smart. No one could deny the fact that she was. She graduated Harvard with a law degree.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Harvard University (2)</strong></summary>
+<summary><strong class="section-title">Statements about Harvard University (3)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:34:09](/episodes/ep-V-phmW9f0pM.md#t-00-34-09) (Claim) **Candace Owens**: ["Owens said Kayleigh McEnany graduated from Harvard with a law degree."](/statements/statement-74ff0338c103.md)
+  - Also about: [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>

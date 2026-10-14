@@ -11,7 +11,11 @@ object: "person-schuyler-pryor"
 
 ## [Candace Owens](/entities/person-candace-owens) employs [Schuyler Pryor](/entities/person-schuyler-pryor)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
+
+- [00:01:14](/episodes/ep-V-phmW9f0pM#t-00-01-14): _I mean, it was an absolute mess. I want you guys to know right at the top here, it was Skylar (Schuyler Pryor)'s fault. Skylar (Schuyler Pryor), the producer, right as soon as I said, we'll see you on Monday, we went off air. He went, no, Tuesday._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 556 mentions"
+description: "Jeffrey Epstein (People) - 558 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-56-06">2026-10-05 · 00:56:36</a></strong></div>
-<div><span>Episodes</span><strong>104</strong></div>
-<div><span>Mentions</span><strong>556</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-51-16">2026-10-13 · 00:51:28</a></strong></div>
+<div><span>Episodes</span><strong>105</strong></div>
+<div><span>Mentions</span><strong>558</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>160</strong></div>
 <div><span>Relationships</span><strong>53</strong></div>
@@ -139,6 +139,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-58-03" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 14 mentions" title="2026-09-25 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 35 mentions" title="2026-10-01 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:40%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 14 mentions" title="2026-10-05 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-43-23" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -248,6 +249,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-jeffrey-epstein-t-00-58-03) | 14 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23) | 35 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01) | 14 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-43-23) | 2 |
 
 </details>
 </section>
@@ -259,7 +261,18 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (556)</strong></summary>
+<summary><strong class="section-title">Raw mentions (558)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:43:35](/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-43-23)**
+> "... basically living in Epstein (Jeffrey Epstein) society. Everything about this case is evidence ..."
+
+**[00:51:28](/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-51-16)**
+> "...the United States of Epstein (Jeffrey Epstein) at this moment. And we're like all lowering ours..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (14 mentions)</summary>

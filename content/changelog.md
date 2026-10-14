@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-10-14 10:27:57
+
+**Added 1 episode(s):**
+  - `V-phmW9f0pM`: America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401
+**Added 39 new entity/entities**
+**Added 14 new event(s)**
+**Added 70 new statement(s)**
+**Added 67 new relationship(s)**
+
+**Totals:**
+- Episodes: 182
+- Entities: 5176
+- Events: 2095
+- Statements: 8545
+- Relationships: 5977
+
+---
+
 ## 2026-10-13 08:54:34
 
 No data changes detected (regeneration only)

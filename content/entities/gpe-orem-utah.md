@@ -1,6 +1,6 @@
 ---
 title: "Orem, Utah"
-description: "Orem, Utah (Places) - 43 mentions"
+description: "Orem, Utah (Places) - 50 mentions"
 id: "gpe-orem-utah"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Orem official website](https://orem.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-20-31">2025-09-16 · 00:20:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#t-00-47-24">2026-09-25 · 00:47:38</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#t-00-27-07">2026-10-13 · 00:27:07</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -33,28 +33,29 @@ Source: [City of Orem official website](https://orem.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-16-10">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-V-phmW9f0pM.md#t-00-03-26">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#t-00-20-31" style="--pulse-height:50%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-06-08" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#t-00-05-26" style="--pulse-height:50%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#t-00-15-46" style="--pulse-height:17%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-16-10" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 6 mentions" title="2025-10-02 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#t-00-29-57" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#t-00-02-25" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-orem-utah-t-00-07-14" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#t-00-52-21" style="--pulse-height:17%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#t-00-08-05" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-orem-utah-t-00-14-15" style="--pulse-height:17%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#t-00-36-05" style="--pulse-height:67%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-orem-utah-t-00-39-28" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-32-41" style="--pulse-height:17%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5zgkrOaCCj4.md#t-00-17-09" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-orem-utah-t-00-36-15" style="--pulse-height:17%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-bpXkPHpz9po.md#t-00-35-24" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-kn1E0scy9Wc.md#t-00-22-23" style="--pulse-height:17%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-08-29" style="--pulse-height:33%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-bIuvTKlFeGo.md#t-00-47-24" style="--pulse-height:17%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-20-31" style="--pulse-height:43%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-06-08" style="--pulse-height:29%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-05-26" style="--pulse-height:43%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-15-46" style="--pulse-height:14%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-16-10" style="--pulse-height:86%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 6 mentions" title="2025-10-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-29-57" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#t-00-02-25" style="--pulse-height:43%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-orem-utah-t-00-07-14" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#t-00-52-21" style="--pulse-height:14%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#t-00-08-05" style="--pulse-height:43%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-orem-utah-t-00-14-15" style="--pulse-height:14%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#t-00-36-05" style="--pulse-height:57%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-orem-utah-t-00-39-28" style="--pulse-height:29%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-32-41" style="--pulse-height:14%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#t-00-17-09" style="--pulse-height:57%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-orem-utah-t-00-36-15" style="--pulse-height:14%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#t-00-35-24" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kn1E0scy9Wc.md#t-00-22-23" style="--pulse-height:14%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_Sq5RqP27NY.md#t-00-08-29" style="--pulse-height:29%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#t-00-47-24" style="--pulse-height:14%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#t-00-03-26" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 7 mentions" title="2026-10-13 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [City of Orem official website](https://orem.gov/)
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#t-00-22-23) | 1 |
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#t-00-08-29) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-00-47-24) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-03-26) | 7 |
 
 </details>
 </section>
@@ -91,7 +93,33 @@ Source: [City of Orem official website](https://orem.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (7 mentions)</summary>
+
+**[00:03:26](/episodes/ep-V-phmW9f0pM.md#t-00-03-26)**
+> "...blic like he runs the town of Orem. He even"
+
+**[00:06:14](/episodes/ep-V-phmW9f0pM.md#t-00-06-14)**
+> "...istrict from American Fork to Orem. I don't know how or."
+
+**[00:07:39](/episodes/ep-V-phmW9f0pM.md#t-00-07-30)**
+> "...s us, by day, Val Peterson of Orem is a seasoned administrator at Utah Valley State ..."
+
+**[00:11:43](/episodes/ep-V-phmW9f0pM.md#t-00-11-43)**
+> "... in the Utah House of Reps in Orem American Fork. And I'm just going to throw out he..."
+
+**[00:19:37](/episodes/ep-V-phmW9f0pM.md#t-00-19-37)**
+> "...fied by multiple provosts and Orem sources until it's accurate. [ASR wording uncerta..."
+
+**[00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49)**
+> "We all had to go from Orem where we were, you and I were just last week, we ..."
+
+**[00:27:07](/episodes/ep-V-phmW9f0pM.md#t-00-27-07)**
+> "Hashtag Orem. Hashtag Charlie Kirk. Well, guess what? Tyler Cl..."
+
+</details>
 
 <details>
 <summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>

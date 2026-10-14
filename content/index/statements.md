@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 4515 factual claims and 8474 attributed statements"
+description: "Browse 4551 factual claims and 8544 attributed statements"
 ---
 
 # Claims & Statements
 
-_4515 factual claims within 8474 attributed statements._
+_4551 factual claims within 8544 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _4515 factual claims within 8474 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (181)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (182)</label>
 </div>
 
 <style>
@@ -53,7 +53,228 @@ _4515 factual claims within 8474 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (4515)</strong></summary>
+<summary><strong class="section-title">Factual Claims (4551)</strong></summary>
+
+<details>
+<summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (36)</summary>
+
+<div class="filter-item" data-filter-key="statement-d5ec0400b464">
+
+- [00:03:05](/episodes/ep-V-phmW9f0pM.md#t-00-02-59) [○] **Candace Owens**: ["Owens said an unnamed commentator she nicknamed Jimmy Neutron had been telling p..."](/statements/statement-d5ec0400b464.md)
+  - About: [Commentator nicknamed Jimmy Neutron by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-003.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9d64058b3513">
+
+- [00:03:26](/episodes/ep-V-phmW9f0pM.md#t-00-03-26) [○] **Candace Owens**: ["Owens said the unnamed commentator she nicknamed Jimmy Neutron claimed to know t..."](/statements/statement-9d64058b3513.md)
+  - About: [Commentator nicknamed Jimmy Neutron by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-003.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-04b19ef7aca8">
+
+- [00:04:18](/episodes/ep-V-phmW9f0pM.md#t-00-04-06) [○] **Candace Owens**: ["Owens said she knew about the forthcoming lawsuit in advance and had been storin..."](/statements/statement-04b19ef7aca8.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-98672eb3c885">
+
+- [00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] **Candace Owens**: ["Val Peterson started at the institution now called UVU in June 1987 and is its v..."](/statements/statement-98672eb3c885.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7325260e919c">
+
+- [00:05:46](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] **Candace Owens**: ["Owens said Val Peterson oversees a budget of more than $50 million and responsib..."](/statements/statement-7325260e919c.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a83439fb1234">
+
+- [00:06:07](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] **Candace Owens**: ["Owens said Val Peterson also serves in the Utah House of Representatives, repres..."](/statements/statement-a83439fb1234.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c85267029590">
+
+- [00:06:48](/episodes/ep-V-phmW9f0pM.md#t-00-06-48) [○] **Candace Owens**: ["Owens said Val Peterson is a brigadier general and for 30 years led the state Na..."](/statements/statement-c85267029590.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah National Guard](/entities/org-utah-national-guard.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-42633dcbf9e0">
+
+- [00:08:11](/episodes/ep-V-phmW9f0pM.md#t-00-08-11) [○] **Val L. Peterson**: ["Val Peterson said a large majority of the brigade members had already served or ..."](/statements/statement-42633dcbf9e0.md)
+  - About: [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7709cd7c0b76">
+
+- [00:09:32](/episodes/ep-V-phmW9f0pM.md#t-00-09-32) [○] **Val L. Peterson**: ["Val Peterson recalled seeing Colombian army trucks take young men to boot camp i..."](/statements/statement-7709cd7c0b76.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Colombia](/entities/gpe-colombia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24af315b6208">
+
+- [00:10:36](/episodes/ep-V-phmW9f0pM.md#t-00-10-16) [○] **Candace Owens**: ["Owens said retired Brigadier General Val Peterson had responsibility for trainin..."](/statements/statement-24af315b6208.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Army National Guard](/entities/org-utah-army-national-guard.md), [Uniform Code of Military Justice](/entities/law-uniform-code-of-military-justice.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6d7c7fa693e7">
+
+- [00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) [○] **Candace Owens**: ["Owens said Blake Neff had said he did not accompany Charlie Kirk to the event an..."](/statements/statement-6d7c7fa693e7.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-04f8abecd58b">
+
+- [00:13:44](/episodes/ep-V-phmW9f0pM.md#t-00-13-44) [○] **Candace Owens**: ["Owens said Tyler Clancy attended BYU and was born in 1997."](/statements/statement-04f8abecd58b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3cbddc63fb3c">
+
+- [00:16:08](/episodes/ep-V-phmW9f0pM.md#t-00-15-34) [○] **Candace Owens**: ["Owens said that on September 10th, 2025, Tyler Clancy was both a Utah House memb..."](/statements/statement-3cbddc63fb3c.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0721320d5d3c">
+
+- [00:17:22](/episodes/ep-V-phmW9f0pM.md#t-00-16-54) [○] **Candace Owens**: ["Owens said her team requested Tyler Clancy's comments ahead of the show, had not..."](/statements/statement-0721320d5d3c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b0a3f977ac5a">
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) [○] **Candace Owens**: ["Owens said other people confirmed Tyler Clancy was on duty as a Provo police off..."](/statements/statement-b0a3f977ac5a.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-62265c891060">
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) [○] **Candace Owens**: ["Owens alleged Tyler Clancy was dispatched from Timpanogos with another officer t..."](/statements/statement-62265c891060.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6697c2c1ad80">
+
+- [00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) [○] **Frank Turek**: ["Frank Turek said Michael McCoy and Catherine Castro, whom he described as a TPUS..."](/statements/statement-6697c2c1ad80.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md), [JD Vance](/entities/person-jd-vance.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e3e99dbba557">
+
+- [00:21:21](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) [○] **Frank Turek**: ["Frank Turek said the car used to take Charlie Kirk to the hospital was treated a..."](/statements/statement-e3e99dbba557.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b0b4d55c99a4">
+
+- [00:21:58](/episodes/ep-V-phmW9f0pM.md#t-00-21-58) [○] **Frank Turek**: ["Frank Turek said he found Charlie Kirk's missing necklace across his bag, refuse..."](/statements/statement-b0b4d55c99a4.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ef07cc7f3349">
+
+- [00:22:45](/episodes/ep-V-phmW9f0pM.md#t-00-22-45) [○] **Frank Turek**: ["Frank Turek said he did not want Erika Kirk to see the bloodied bag and asked th..."](/statements/statement-ef07cc7f3349.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Erika Kirk](/entities/person-erika-kirk.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-efa7fc532dda">
+
+- [00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30) [○] **Candace Owens**: ["Owens said Governor Spencer Cox promoted Tyler Clancy shortly after the assassin..."](/statements/statement-efa7fc532dda.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Spencer Cox](/entities/person-spencer-cox.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-da1da3aaa1eb">
+
+- [00:25:04](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) [○] **Spencer Cox**: ["Spencer Cox announced that he appointed Representative Tyler Clancy as Utah's st..."](/statements/statement-da1da3aaa1eb.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Wayne Niederhauser](/entities/person-wayne-niederhauser.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7b60cdf098e4">
+
+- [00:25:31](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) [○] **Candace Owens**: ["According to multiple people with direct knowledge, Owens said Tyler Clancy and ..."](/statements/statement-7b60cdf098e4.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Rob Hild](/entities/person-rob-hild.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f5eabc707337">
+
+- [00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29) [○] **Shaner Broderick**: ["Shaner Broderick wrote that he took friends to his grandmother's house, retraced..."](/statements/statement-f5eabc707337.md)
+  - About: [Shaner Broderick](/entities/person-shaner-broderick.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Converse (footwear brand)](/entities/org-converse.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f4bd71d6b70f">
+
+- [00:28:23](/episodes/ep-V-phmW9f0pM.md#t-00-27-54) [○] **Candace Owens**: ["Owens said her team was still unable to determine the identity of the fire capta..."](/statements/statement-f4bd71d6b70f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cdab8c23cf14">
+
+- [00:29:22](/episodes/ep-V-phmW9f0pM.md#t-00-29-22) [○] **Candace Owens**: ["Owens said she had heard, but could not confirm, that the unidentified fire capt..."](/statements/statement-cdab8c23cf14.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9296099ef9f7">
+
+- [00:33:04](/episodes/ep-V-phmW9f0pM.md#t-00-32-45) [○] **Candace Owens**: ["Owens said Utah allows people such as Val Peterson and Tyler Clancy to hold gove..."](/statements/statement-9296099ef9f7.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah](/entities/gpe-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-74ff0338c103">
+
+- [00:34:09](/episodes/ep-V-phmW9f0pM.md#t-00-34-09) [○] **Candace Owens**: ["Owens said Kayleigh McEnany graduated from Harvard with a law degree."](/statements/statement-74ff0338c103.md)
+  - About: [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md), [Harvard University](/entities/org-harvard-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7267177ce4bd">
+
+- [00:35:06](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) [○] **Candace Owens**: ["Owens said Katie Zacharia had recently been announced as Karoline Leavitt's repl..."](/statements/statement-7267177ce4bd.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8868f9582b73">
+
+- [00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07) [○] **Katie Zacharia**: ["Katie Zacharia said President Trump delivered a rally in Youngstown, Ohio the pr..."](/statements/statement-8868f9582b73.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jake Paul](/entities/person-jake-paul.md), [Jon Gruden](/entities/person-jon-gruden.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-caf7a304a48b">
+
+- [00:36:46](/episodes/ep-V-phmW9f0pM.md#t-00-36-37) [○] **Katie Zacharia**: ["Katie Zacharia said the Department of War selected Cleveland, Ohio for a 46,000-..."](/statements/statement-caf7a304a48b.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Navy](/entities/org-united-states-navy.md), [Cleveland, Ohio](/entities/gpe-cleveland-ohio.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8b9e674b4752">
+
+- [00:38:48](/episodes/ep-V-phmW9f0pM.md#t-00-38-24) [○] **Candace Owens**: ["Owens said Katie Zacharia was reading the entire briefing, including her own nam..."](/statements/statement-8b9e674b4752.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-45cd652f5d6b">
+
+- [00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34) [○] **Candace Owens**: ["Owens said Katie Zacharia kept answering questions about her law degree by sayin..."](/statements/statement-45cd652f5d6b.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c988d935b703">
+
+- [00:40:58](/episodes/ep-V-phmW9f0pM.md#t-00-40-58) [○] **Katie Zacharia**: ["Katie Zacharia said she practiced international transaction law with all the app..."](/statements/statement-c988d935b703.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fd9dcb25108a">
+
+- [00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07) [○] **Candace Owens**: ["Owens recalled her conversation with Hunter Biden, saying he agreed to use crack..."](/statements/statement-fd9dcb25108a.md)
+  - About: [Hunter Biden](/entities/person-hunter-biden.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d2b0b32e0dd9">
+
+- [00:56:09](/episodes/ep-V-phmW9f0pM.md#t-00-55-35) [○] **Candace Owens**: ["Owens said about 3.5 million people had watched her Theo Von interview and that ..."](/statements/statement-d2b0b32e0dd9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Theo Von](/entities/person-theo-von.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-08 · More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (52)</summary>
@@ -27470,7 +27691,60 @@ _4515 factual claims within 8474 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1964)</strong></summary>
+<summary><strong class="section-title">Accusations (1972)</strong></summary>
+
+<details>
+<summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (8)</summary>
+
+<div class="filter-item" data-filter-key="statement-5c58ae25b183">
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) [○] **Candace Owens**: ["According to unnamed UVU faculty sources, Owens said Val Peterson was allegedly ..."](/statements/statement-5c58ae25b183.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-35bcba68a220">
+
+- [00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13) [○] **Candace Owens**: ["Owens alleged that a Turning Point USA member, affiliate or guest left a bloodie..."](/statements/statement-35bcba68a220.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b95f0bbe0e2b">
+
+- [00:19:02](/episodes/ep-V-phmW9f0pM.md#t-00-18-57) [○] **Candace Owens**: ["Owens questioned why an officer would dispose of a bloodied item rather than put..."](/statements/statement-b95f0bbe0e2b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ac7e81844d62">
+
+- [00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) [○] **Candace Owens**: ["Owens said she felt Karoline Leavitt was gaslighting and lying to the public and..."](/statements/statement-ac7e81844d62.md)
+  - About: [Karoline Leavitt](/entities/person-karoline-leavitt.md), [MAGA movement](/entities/concept-maga-movement.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c7213b71aa55">
+
+- [00:39:34](/episodes/ep-V-phmW9f0pM.md#t-00-39-34) [○] **Candace Owens**: ["Owens said Katie Zacharia was not selected on merit and that journalists were ha..."](/statements/statement-c7213b71aa55.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-38cdeff02530">
+
+- [00:42:07](/episodes/ep-V-phmW9f0pM.md#t-00-42-07) [○] **Candace Owens**: ["In discussing the Cornell 7 case, Owens said that, from what she was seeing, a w..."](/statements/statement-38cdeff02530.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-924d4ac3613d">
+
+- [00:52:26](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) [○] **Seven Sheets (commenter; identity unverified)**: ["The viewer Seven Sheets said the government was trying to convict a clearly inno..."](/statements/statement-924d4ac3613d.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5bc8397106df">
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) [○] **Candace Owens**: ["Owens alleged that Erika Kirk does not author her own tweets."](/statements/statement-5bc8397106df.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-08 · More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (5)</summary>
@@ -40945,7 +41219,24 @@ _4515 factual claims within 8474 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Promises (169)</strong></summary>
+<summary><strong class="section-title">Promises (171)</strong></summary>
+
+<details>
+<summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>
+
+<div class="filter-item" data-filter-key="statement-a31b64d63320">
+
+- [00:52:46](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) [○] **Candace Owens**: ["Owens promised to talk more about the Brian Cole case before going off air for m..."](/statements/statement-a31b64d63320.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ef705255dd76">
+
+- [00:58:15](/episodes/ep-V-phmW9f0pM.md#t-00-58-15) [○] **Candace Owens**: ["Owens promised an exclusive Baron Coleman merchandise line, saying it should be ..."](/statements/statement-ef705255dd76.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Baron Coleman](/entities/person-baron-coleman.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-07 · BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
@@ -42443,7 +42734,66 @@ _4515 factual claims within 8474 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (473)</strong></summary>
+<summary><strong class="section-title">Citations (482)</strong></summary>
+
+<details>
+<summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (9)</summary>
+
+<div class="filter-item" data-filter-key="statement-d1fba4d1a7e3">
+
+- [00:07:30](/episodes/ep-V-phmW9f0pM.md#t-00-07-30) [○] **Candace Owens**: ["Citing a 2007 article, Owens said then-Lieutenant Colonel Val Peterson assumed c..."](/statements/statement-d1fba4d1a7e3.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md), [Utah Army National Guard](/entities/org-utah-army-national-guard.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0de8bcfc195a">
+
+- [00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) [○] **Candace Owens**: ["Citing the 2007 article, Owens said Val Peterson was a Moscow, Idaho native who ..."](/statements/statement-0de8bcfc195a.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6f5cfe9b4ce0">
+
+- [00:09:55](/episodes/ep-V-phmW9f0pM.md#t-00-09-32) [○] **Candace Owens**: ["Citing the article, Owens said Val Peterson held a master's degree and a doctora..."](/statements/statement-6f5cfe9b4ce0.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e17ff3b4c7ae">
+
+- [00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01) [○] **Candace Owens**: ["Citing the after-action report, Owens said Val Peterson was approximately 45 min..."](/statements/statement-e17ff3b4c7ae.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0778550ea7fc">
+
+- [00:14:20](/episodes/ep-V-phmW9f0pM.md#t-00-14-20) [○] **Candace Owens**: ["Citing an article, Owens said Tyler Clancy became the youngest person to serve i..."](/statements/statement-0778550ea7fc.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b437ee7f36db">
+
+- [00:15:01](/episodes/ep-V-phmW9f0pM.md#t-00-15-01) [○] **Candace Owens**: ["Citing the article, Owens said Val Peterson was Tyler Clancy's church leader dur..."](/statements/statement-b437ee7f36db.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7dc6f8984692">
+
+- [00:16:24](/episodes/ep-V-phmW9f0pM.md#t-00-16-18) [○] **Candace Owens**: ["Citing a May 20th, 2025 Instagram post, Owens said Tyler Clancy received the LaG..."](/statements/statement-7dc6f8984692.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [LaGrand and Beth Baker Award](/entities/concept-lagrand-and-beth-baker-award.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-67c23f5a60fe">
+
+- [00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37) [○] **Candace Owens**: ["Owens said Baron Coleman drew her attention to a similar, potentially corroborat..."](/statements/statement-67c23f5a60fe.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md), [Frank Turek](/entities/person-frank-turek.md), [Apostate Prophet (YouTube channel)](/entities/work-apostate-prophet-channel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a5ebc2599ef4">
+
+- [00:40:58](/episodes/ep-V-phmW9f0pM.md#t-00-40-58) [○] **Candace Owens**: ["Citing Business Insider, Owens said Katie Zacharia's response about her credenti..."](/statements/statement-a5ebc2599ef4.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Business Insider](/entities/org-business-insider.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-07 · BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (12)</summary>
@@ -45889,7 +46239,102 @@ _4515 factual claims within 8474 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1261)</strong></summary>
+<summary><strong class="section-title">Opinions (1276)</strong></summary>
+
+<details>
+<summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (15)</summary>
+
+<div class="filter-item" data-filter-key="statement-7aac777dabe1">
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) [○] **Candace Owens**: ["Owens said UVU faculty were terrified of Val Peterson and that she was told he w..."](/statements/statement-7aac777dabe1.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [UVU faculty sources described by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-004.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6ab042903611">
+
+- [00:08:30](/episodes/ep-V-phmW9f0pM.md#t-00-08-11) [○] **Hank McIntire**: ["Hank McIntire described Val Peterson as a Spanish linguist uniquely in touch wit..."](/statements/statement-6ab042903611.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-34cbc7af2eed">
+
+- [00:11:43](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) [○] **Candace Owens**: ["Owens noted Salt Lake City and its National Guard air base were 45 minutes from ..."](/statements/statement-34cbc7af2eed.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7b67d03a4910">
+
+- [00:14:52](/episodes/ep-V-phmW9f0pM.md#t-00-14-20) [○] **Val L. Peterson**: ["Val Peterson called Tyler Clancy a natural leader who wants to serve his communi..."](/statements/statement-7b67d03a4910.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1602f1334b0b">
+
+- [00:15:21](/episodes/ep-V-phmW9f0pM.md#t-00-15-01) [○] **Matt Schneck**: ["BYU lacrosse head coach Matt Schneck said Tyler Clancy used leadership, personal..."](/statements/statement-1602f1334b0b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b246341fbcb6">
+
+- [00:24:23](/episodes/ep-V-phmW9f0pM.md#t-00-23-44) [○] **Candace Owens**: ["Owens said she was inclined to believe the police officer in the bloodied bag ac..."](/statements/statement-b246341fbcb6.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-31cf29542015">
+
+- [00:33:46](/episodes/ep-V-phmW9f0pM.md#t-00-33-24) [○] **Candace Owens**: ["Owens said she used to be proud to wear MAGA hats during Trump's first term but ..."](/statements/statement-31cf29542015.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [MAGA movement](/entities/concept-maga-movement.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0b74e349fa54">
+
+- [00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44) [○] **Katie Zacharia**: ["Katie Zacharia said she was honored to work for President Trump and the American..."](/statements/statement-0b74e349fa54.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ea714a45276d">
+
+- [00:39:13](/episodes/ep-V-phmW9f0pM.md#t-00-39-02) [○] **Candace Owens**: ["Owens speculated that donors might somehow be involved in Katie Zacharia's selec..."](/statements/statement-ea714a45276d.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0d987b4ab041">
+
+- [00:40:29](/episodes/ep-V-phmW9f0pM.md#t-00-40-13) [○] **Candace Owens**: ["Owens said Katie Zacharia should be fired on her first day."](/statements/statement-0d987b4ab041.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3a528fdb1008">
+
+- [00:42:38](/episodes/ep-V-phmW9f0pM.md#t-00-42-38) [○] **Candace Owens**: ["Owens characterized an alleged fraternity group-chat message as an invitation fo..."](/statements/statement-3a528fdb1008.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8d1bf0752de2">
+
+- [00:44:53](/episodes/ep-V-phmW9f0pM.md#t-00-44-47) [○] **Candace Owens**: ["Owens said sending a message inviting other people to have sex with someone was ..."](/statements/statement-8d1bf0752de2.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-201d2791ba77">
+
+- [00:49:37](/episodes/ep-V-phmW9f0pM.md#t-00-49-37) [○] **Tim Dillon**: ["Tim Dillon said no one would be proud if the men in the Cornell case were their ..."](/statements/statement-201d2791ba77.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2fc07ec5c42a">
+
+- [00:51:04](/episodes/ep-V-phmW9f0pM.md#t-00-50-36) [○] **Tim Dillon**: ["Tim Dillon said the behavior in the Cornell case was scumbag behavior and should..."](/statements/statement-2fc07ec5c42a.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2aab6ec694ce">
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) [○] **Candace Owens**: ["Owens characterized Erika Kirk's explanation for sitting down with Vanity Fair a..."](/statements/statement-2aab6ec694ce.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Vanity Fair](/entities/org-vanity-fair.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-08 · More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (6)</summary>
@@ -54253,6 +54698,431 @@ _4515 factual claims within 8474 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</strong> (70)</summary>
+
+<div class="filter-item" data-filter-key="statement-d5ec0400b464">
+
+- [00:03:05](/episodes/ep-V-phmW9f0pM.md#t-00-02-59) [○] (Claim) **Candace Owens**: ["Owens said an unnamed commentator she nicknamed Jimmy Neutron had been telling p..."](/statements/statement-d5ec0400b464.md)
+  - About: [Commentator nicknamed Jimmy Neutron by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-003.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9d64058b3513">
+
+- [00:03:26](/episodes/ep-V-phmW9f0pM.md#t-00-03-26) [○] (Claim) **Candace Owens**: ["Owens said the unnamed commentator she nicknamed Jimmy Neutron claimed to know t..."](/statements/statement-9d64058b3513.md)
+  - About: [Commentator nicknamed Jimmy Neutron by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-003.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-04b19ef7aca8">
+
+- [00:04:18](/episodes/ep-V-phmW9f0pM.md#t-00-04-06) [○] (Claim) **Candace Owens**: ["Owens said she knew about the forthcoming lawsuit in advance and had been storin..."](/statements/statement-04b19ef7aca8.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5c58ae25b183">
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) [○] (Accusation) **Candace Owens**: ["According to unnamed UVU faculty sources, Owens said Val Peterson was allegedly ..."](/statements/statement-5c58ae25b183.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7aac777dabe1">
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) [○] (Opinion) **Candace Owens**: ["Owens said UVU faculty were terrified of Val Peterson and that she was told he w..."](/statements/statement-7aac777dabe1.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [UVU faculty sources described by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-004.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-98672eb3c885">
+
+- [00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] (Claim) **Candace Owens**: ["Val Peterson started at the institution now called UVU in June 1987 and is its v..."](/statements/statement-98672eb3c885.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7325260e919c">
+
+- [00:05:46](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] (Claim) **Candace Owens**: ["Owens said Val Peterson oversees a budget of more than $50 million and responsib..."](/statements/statement-7325260e919c.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a83439fb1234">
+
+- [00:06:07](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] (Claim) **Candace Owens**: ["Owens said Val Peterson also serves in the Utah House of Representatives, repres..."](/statements/statement-a83439fb1234.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c85267029590">
+
+- [00:06:48](/episodes/ep-V-phmW9f0pM.md#t-00-06-48) [○] (Claim) **Candace Owens**: ["Owens said Val Peterson is a brigadier general and for 30 years led the state Na..."](/statements/statement-c85267029590.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah National Guard](/entities/org-utah-national-guard.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d1fba4d1a7e3">
+
+- [00:07:30](/episodes/ep-V-phmW9f0pM.md#t-00-07-30) [○] (Citation) **Candace Owens**: ["Citing a 2007 article, Owens said then-Lieutenant Colonel Val Peterson assumed c..."](/statements/statement-d1fba4d1a7e3.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md), [Utah Army National Guard](/entities/org-utah-army-national-guard.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-42633dcbf9e0">
+
+- [00:08:11](/episodes/ep-V-phmW9f0pM.md#t-00-08-11) [○] (Claim) **Val L. Peterson**: ["Val Peterson said a large majority of the brigade members had already served or ..."](/statements/statement-42633dcbf9e0.md)
+  - About: [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6ab042903611">
+
+- [00:08:30](/episodes/ep-V-phmW9f0pM.md#t-00-08-11) [○] (Opinion) **Hank McIntire**: ["Hank McIntire described Val Peterson as a Spanish linguist uniquely in touch wit..."](/statements/statement-6ab042903611.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0de8bcfc195a">
+
+- [00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) [○] (Citation) **Candace Owens**: ["Citing the 2007 article, Owens said Val Peterson was a Moscow, Idaho native who ..."](/statements/statement-0de8bcfc195a.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7709cd7c0b76">
+
+- [00:09:32](/episodes/ep-V-phmW9f0pM.md#t-00-09-32) [○] (Claim) **Val L. Peterson**: ["Val Peterson recalled seeing Colombian army trucks take young men to boot camp i..."](/statements/statement-7709cd7c0b76.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Colombia](/entities/gpe-colombia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6f5cfe9b4ce0">
+
+- [00:09:55](/episodes/ep-V-phmW9f0pM.md#t-00-09-32) [○] (Citation) **Candace Owens**: ["Citing the article, Owens said Val Peterson held a master's degree and a doctora..."](/statements/statement-6f5cfe9b4ce0.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24af315b6208">
+
+- [00:10:36](/episodes/ep-V-phmW9f0pM.md#t-00-10-16) [○] (Claim) **Candace Owens**: ["Owens said retired Brigadier General Val Peterson had responsibility for trainin..."](/statements/statement-24af315b6208.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Army National Guard](/entities/org-utah-army-national-guard.md), [Uniform Code of Military Justice](/entities/law-uniform-code-of-military-justice.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e17ff3b4c7ae">
+
+- [00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01) [○] (Citation) **Candace Owens**: ["Citing the after-action report, Owens said Val Peterson was approximately 45 min..."](/statements/statement-e17ff3b4c7ae.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-34cbc7af2eed">
+
+- [00:11:43](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) [○] (Opinion) **Candace Owens**: ["Owens noted Salt Lake City and its National Guard air base were 45 minutes from ..."](/statements/statement-34cbc7af2eed.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6d7c7fa693e7">
+
+- [00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) [○] (Claim) **Candace Owens**: ["Owens said Blake Neff had said he did not accompany Charlie Kirk to the event an..."](/statements/statement-6d7c7fa693e7.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-04f8abecd58b">
+
+- [00:13:44](/episodes/ep-V-phmW9f0pM.md#t-00-13-44) [○] (Claim) **Candace Owens**: ["Owens said Tyler Clancy attended BYU and was born in 1997."](/statements/statement-04f8abecd58b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0778550ea7fc">
+
+- [00:14:20](/episodes/ep-V-phmW9f0pM.md#t-00-14-20) [○] (Citation) **Candace Owens**: ["Citing an article, Owens said Tyler Clancy became the youngest person to serve i..."](/statements/statement-0778550ea7fc.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7b67d03a4910">
+
+- [00:14:52](/episodes/ep-V-phmW9f0pM.md#t-00-14-20) [○] (Opinion) **Val L. Peterson**: ["Val Peterson called Tyler Clancy a natural leader who wants to serve his communi..."](/statements/statement-7b67d03a4910.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b437ee7f36db">
+
+- [00:15:01](/episodes/ep-V-phmW9f0pM.md#t-00-15-01) [○] (Citation) **Candace Owens**: ["Citing the article, Owens said Val Peterson was Tyler Clancy's church leader dur..."](/statements/statement-b437ee7f36db.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1602f1334b0b">
+
+- [00:15:21](/episodes/ep-V-phmW9f0pM.md#t-00-15-01) [○] (Opinion) **Matt Schneck**: ["BYU lacrosse head coach Matt Schneck said Tyler Clancy used leadership, personal..."](/statements/statement-1602f1334b0b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3cbddc63fb3c">
+
+- [00:16:08](/episodes/ep-V-phmW9f0pM.md#t-00-15-34) [○] (Claim) **Candace Owens**: ["Owens said that on September 10th, 2025, Tyler Clancy was both a Utah House memb..."](/statements/statement-3cbddc63fb3c.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7dc6f8984692">
+
+- [00:16:24](/episodes/ep-V-phmW9f0pM.md#t-00-16-18) [○] (Citation) **Candace Owens**: ["Citing a May 20th, 2025 Instagram post, Owens said Tyler Clancy received the LaG..."](/statements/statement-7dc6f8984692.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [LaGrand and Beth Baker Award](/entities/concept-lagrand-and-beth-baker-award.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0721320d5d3c">
+
+- [00:17:22](/episodes/ep-V-phmW9f0pM.md#t-00-16-54) [○] (Claim) **Candace Owens**: ["Owens said her team requested Tyler Clancy's comments ahead of the show, had not..."](/statements/statement-0721320d5d3c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b0a3f977ac5a">
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) [○] (Claim) **Candace Owens**: ["Owens said other people confirmed Tyler Clancy was on duty as a Provo police off..."](/statements/statement-b0a3f977ac5a.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-62265c891060">
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) [○] (Claim) **Candace Owens**: ["Owens alleged Tyler Clancy was dispatched from Timpanogos with another officer t..."](/statements/statement-62265c891060.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-35bcba68a220">
+
+- [00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13) [○] (Accusation) **Candace Owens**: ["Owens alleged that a Turning Point USA member, affiliate or guest left a bloodie..."](/statements/statement-35bcba68a220.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b95f0bbe0e2b">
+
+- [00:19:02](/episodes/ep-V-phmW9f0pM.md#t-00-18-57) [○] (Accusation) **Candace Owens**: ["Owens questioned why an officer would dispose of a bloodied item rather than put..."](/statements/statement-b95f0bbe0e2b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-67c23f5a60fe">
+
+- [00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37) [○] (Citation) **Candace Owens**: ["Owens said Baron Coleman drew her attention to a similar, potentially corroborat..."](/statements/statement-67c23f5a60fe.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md), [Frank Turek](/entities/person-frank-turek.md), [Apostate Prophet (YouTube channel)](/entities/work-apostate-prophet-channel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6697c2c1ad80">
+
+- [00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) [○] (Claim) **Frank Turek**: ["Frank Turek said Michael McCoy and Catherine Castro, whom he described as a TPUS..."](/statements/statement-6697c2c1ad80.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md), [JD Vance](/entities/person-jd-vance.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e3e99dbba557">
+
+- [00:21:21](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) [○] (Claim) **Frank Turek**: ["Frank Turek said the car used to take Charlie Kirk to the hospital was treated a..."](/statements/statement-e3e99dbba557.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b0b4d55c99a4">
+
+- [00:21:58](/episodes/ep-V-phmW9f0pM.md#t-00-21-58) [○] (Claim) **Frank Turek**: ["Frank Turek said he found Charlie Kirk's missing necklace across his bag, refuse..."](/statements/statement-b0b4d55c99a4.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ef07cc7f3349">
+
+- [00:22:45](/episodes/ep-V-phmW9f0pM.md#t-00-22-45) [○] (Claim) **Frank Turek**: ["Frank Turek said he did not want Erika Kirk to see the bloodied bag and asked th..."](/statements/statement-ef07cc7f3349.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Erika Kirk](/entities/person-erika-kirk.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b246341fbcb6">
+
+- [00:24:23](/episodes/ep-V-phmW9f0pM.md#t-00-23-44) [○] (Opinion) **Candace Owens**: ["Owens said she was inclined to believe the police officer in the bloodied bag ac..."](/statements/statement-b246341fbcb6.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-efa7fc532dda">
+
+- [00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30) [○] (Claim) **Candace Owens**: ["Owens said Governor Spencer Cox promoted Tyler Clancy shortly after the assassin..."](/statements/statement-efa7fc532dda.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Spencer Cox](/entities/person-spencer-cox.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-da1da3aaa1eb">
+
+- [00:25:04](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) [○] (Claim) **Spencer Cox**: ["Spencer Cox announced that he appointed Representative Tyler Clancy as Utah's st..."](/statements/statement-da1da3aaa1eb.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Wayne Niederhauser](/entities/person-wayne-niederhauser.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7b60cdf098e4">
+
+- [00:25:31](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) [○] (Claim) **Candace Owens**: ["According to multiple people with direct knowledge, Owens said Tyler Clancy and ..."](/statements/statement-7b60cdf098e4.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Rob Hild](/entities/person-rob-hild.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f5eabc707337">
+
+- [00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29) [○] (Claim) **Shaner Broderick**: ["Shaner Broderick wrote that he took friends to his grandmother's house, retraced..."](/statements/statement-f5eabc707337.md)
+  - About: [Shaner Broderick](/entities/person-shaner-broderick.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Converse (footwear brand)](/entities/org-converse.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f4bd71d6b70f">
+
+- [00:28:23](/episodes/ep-V-phmW9f0pM.md#t-00-27-54) [○] (Claim) **Candace Owens**: ["Owens said her team was still unable to determine the identity of the fire capta..."](/statements/statement-f4bd71d6b70f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cdab8c23cf14">
+
+- [00:29:22](/episodes/ep-V-phmW9f0pM.md#t-00-29-22) [○] (Claim) **Candace Owens**: ["Owens said she had heard, but could not confirm, that the unidentified fire capt..."](/statements/statement-cdab8c23cf14.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9296099ef9f7">
+
+- [00:33:04](/episodes/ep-V-phmW9f0pM.md#t-00-32-45) [○] (Claim) **Candace Owens**: ["Owens said Utah allows people such as Val Peterson and Tyler Clancy to hold gove..."](/statements/statement-9296099ef9f7.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah](/entities/gpe-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-31cf29542015">
+
+- [00:33:46](/episodes/ep-V-phmW9f0pM.md#t-00-33-24) [○] (Opinion) **Candace Owens**: ["Owens said she used to be proud to wear MAGA hats during Trump's first term but ..."](/statements/statement-31cf29542015.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [MAGA movement](/entities/concept-maga-movement.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-74ff0338c103">
+
+- [00:34:09](/episodes/ep-V-phmW9f0pM.md#t-00-34-09) [○] (Claim) **Candace Owens**: ["Owens said Kayleigh McEnany graduated from Harvard with a law degree."](/statements/statement-74ff0338c103.md)
+  - About: [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md), [Harvard University](/entities/org-harvard-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ac7e81844d62">
+
+- [00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) [○] (Accusation) **Candace Owens**: ["Owens said she felt Karoline Leavitt was gaslighting and lying to the public and..."](/statements/statement-ac7e81844d62.md)
+  - About: [Karoline Leavitt](/entities/person-karoline-leavitt.md), [MAGA movement](/entities/concept-maga-movement.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7267177ce4bd">
+
+- [00:35:06](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) [○] (Claim) **Candace Owens**: ["Owens said Katie Zacharia had recently been announced as Karoline Leavitt's repl..."](/statements/statement-7267177ce4bd.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0b74e349fa54">
+
+- [00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44) [○] (Opinion) **Katie Zacharia**: ["Katie Zacharia said she was honored to work for President Trump and the American..."](/statements/statement-0b74e349fa54.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8868f9582b73">
+
+- [00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07) [○] (Claim) **Katie Zacharia**: ["Katie Zacharia said President Trump delivered a rally in Youngstown, Ohio the pr..."](/statements/statement-8868f9582b73.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jake Paul](/entities/person-jake-paul.md), [Jon Gruden](/entities/person-jon-gruden.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-caf7a304a48b">
+
+- [00:36:46](/episodes/ep-V-phmW9f0pM.md#t-00-36-37) [○] (Claim) **Katie Zacharia**: ["Katie Zacharia said the Department of War selected Cleveland, Ohio for a 46,000-..."](/statements/statement-caf7a304a48b.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Navy](/entities/org-united-states-navy.md), [Cleveland, Ohio](/entities/gpe-cleveland-ohio.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8b9e674b4752">
+
+- [00:38:48](/episodes/ep-V-phmW9f0pM.md#t-00-38-24) [○] (Claim) **Candace Owens**: ["Owens said Katie Zacharia was reading the entire briefing, including her own nam..."](/statements/statement-8b9e674b4752.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ea714a45276d">
+
+- [00:39:13](/episodes/ep-V-phmW9f0pM.md#t-00-39-02) [○] (Opinion) **Candace Owens**: ["Owens speculated that donors might somehow be involved in Katie Zacharia's selec..."](/statements/statement-ea714a45276d.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c7213b71aa55">
+
+- [00:39:34](/episodes/ep-V-phmW9f0pM.md#t-00-39-34) [○] (Accusation) **Candace Owens**: ["Owens said Katie Zacharia was not selected on merit and that journalists were ha..."](/statements/statement-c7213b71aa55.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-45cd652f5d6b">
+
+- [00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34) [○] (Claim) **Candace Owens**: ["Owens said Katie Zacharia kept answering questions about her law degree by sayin..."](/statements/statement-45cd652f5d6b.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0d987b4ab041">
+
+- [00:40:29](/episodes/ep-V-phmW9f0pM.md#t-00-40-13) [○] (Opinion) **Candace Owens**: ["Owens said Katie Zacharia should be fired on her first day."](/statements/statement-0d987b4ab041.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c988d935b703">
+
+- [00:40:58](/episodes/ep-V-phmW9f0pM.md#t-00-40-58) [○] (Claim) **Katie Zacharia**: ["Katie Zacharia said she practiced international transaction law with all the app..."](/statements/statement-c988d935b703.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a5ebc2599ef4">
+
+- [00:40:58](/episodes/ep-V-phmW9f0pM.md#t-00-40-58) [○] (Citation) **Candace Owens**: ["Citing Business Insider, Owens said Katie Zacharia's response about her credenti..."](/statements/statement-a5ebc2599ef4.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Business Insider](/entities/org-business-insider.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-38cdeff02530">
+
+- [00:42:07](/episodes/ep-V-phmW9f0pM.md#t-00-42-07) [○] (Accusation) **Candace Owens**: ["In discussing the Cornell 7 case, Owens said that, from what she was seeing, a w..."](/statements/statement-38cdeff02530.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3a528fdb1008">
+
+- [00:42:38](/episodes/ep-V-phmW9f0pM.md#t-00-42-38) [○] (Opinion) **Candace Owens**: ["Owens characterized an alleged fraternity group-chat message as an invitation fo..."](/statements/statement-3a528fdb1008.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fd9dcb25108a">
+
+- [00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07) [○] (Claim) **Candace Owens**: ["Owens recalled her conversation with Hunter Biden, saying he agreed to use crack..."](/statements/statement-fd9dcb25108a.md)
+  - About: [Hunter Biden](/entities/person-hunter-biden.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8d1bf0752de2">
+
+- [00:44:53](/episodes/ep-V-phmW9f0pM.md#t-00-44-47) [○] (Opinion) **Candace Owens**: ["Owens said sending a message inviting other people to have sex with someone was ..."](/statements/statement-8d1bf0752de2.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-201d2791ba77">
+
+- [00:49:37](/episodes/ep-V-phmW9f0pM.md#t-00-49-37) [○] (Opinion) **Tim Dillon**: ["Tim Dillon said no one would be proud if the men in the Cornell case were their ..."](/statements/statement-201d2791ba77.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2fc07ec5c42a">
+
+- [00:51:04](/episodes/ep-V-phmW9f0pM.md#t-00-50-36) [○] (Opinion) **Tim Dillon**: ["Tim Dillon said the behavior in the Cornell case was scumbag behavior and should..."](/statements/statement-2fc07ec5c42a.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-924d4ac3613d">
+
+- [00:52:26](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) [○] (Accusation) **Seven Sheets (commenter; identity unverified)**: ["The viewer Seven Sheets said the government was trying to convict a clearly inno..."](/statements/statement-924d4ac3613d.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a31b64d63320">
+
+- [00:52:46](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) [○] (Promise) **Candace Owens**: ["Owens promised to talk more about the Brian Cole case before going off air for m..."](/statements/statement-a31b64d63320.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5bc8397106df">
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) [○] (Accusation) **Candace Owens**: ["Owens alleged that Erika Kirk does not author her own tweets."](/statements/statement-5bc8397106df.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2aab6ec694ce">
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) [○] (Opinion) **Candace Owens**: ["Owens characterized Erika Kirk's explanation for sitting down with Vanity Fair a..."](/statements/statement-2aab6ec694ce.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Vanity Fair](/entities/org-vanity-fair.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d2b0b32e0dd9">
+
+- [00:56:09](/episodes/ep-V-phmW9f0pM.md#t-00-55-35) [○] (Claim) **Candace Owens**: ["Owens said about 3.5 million people had watched her Theo Von interview and that ..."](/statements/statement-d2b0b32e0dd9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Theo Von](/entities/person-theo-von.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ef705255dd76">
+
+- [00:58:15](/episodes/ep-V-phmW9f0pM.md#t-00-58-15) [○] (Promise) **Candace Owens**: ["Owens promised an exclusive Baron Coleman merchandise line, saying it should be ..."](/statements/statement-ef705255dd76.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Baron Coleman](/entities/person-baron-coleman.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-10-08 · More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400</strong> (63)</summary>
@@ -105231,4 +106101,4 @@ _4515 factual claims within 8474 attributed statements._
 
 ---
 
-*Generated: 2026-10-13 08:54:27*
+*Generated: 2026-10-14 10:27:51*

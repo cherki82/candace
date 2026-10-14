@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 1046 mentions"
+description: "Donald J. Trump (People) - 1059 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,12 +28,12 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49">2026-10-08 · 00:18:15</a></strong></div>
-<div><span>Episodes</span><strong>148</strong></div>
-<div><span>Mentions</span><strong>1,046</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-54-07">2026-10-13 · 00:54:07</a></strong></div>
+<div><span>Episodes</span><strong>149</strong></div>
+<div><span>Mentions</span><strong>1,059</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>261</strong></div>
-<div><span>Relationships</span><strong>169</strong></div>
+<div><span>Statements about</span><strong>265</strong></div>
+<div><span>Relationships</span><strong>175</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -189,6 +189,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-00-46" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 4 mentions" title="2026-10-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-30-44" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 13 mentions" title="2026-10-13 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -342,6 +343,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-donald-trump-t-00-00-46) | 4 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-30-44) | 3 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24) | 13 |
 
 </details>
 </section>
@@ -353,7 +355,51 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1046)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1059)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (13 mentions)</summary>
+
+**[00:33:46](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24)**
+> "Okay, so let's just rewind Trump (Donald Trump) 1.0 back when I was proud to wear ..."
+
+**[00:35:44](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-35-44)**
+> "...honored to work for President Trump (Donald Trump) and the American people as the new..."
+
+**[00:35:54](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-35-44)**
+> "I want to thank President Trump (Donald Trump) for his trust that he has placed i..."
+
+**[00:36:10](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-36-07)**
+> "...midterms, thanks to President Trump (Donald Trump)."
+
+**[00:36:22](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-36-07)**
+> "...gstown, Ohio, where President Trump (Donald Trump) delivered another blockbuster rall..."
+
+**[00:36:37](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-36-37)**
+> "...came out to support President Trump (Donald Trump), as well as special guests Jake Pa..."
+
+**[00:37:28](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-37-17)**
+> "...would like to thank President Trump (Donald Trump) for picking me. I'm so honored and..."
+
+**[00:37:39](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-37-17)**
+> "...esterday in Youngstown, Ohio, Trump (Donald Trump) was on the trail and the excitemen..."
+
+**[00:37:52](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-37-17)**
+> "...emember her name and thanking Trump (Donald Trump)?"
+
+**[00:38:00](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-38-00)**
+> "...emember her name and thanking Trump (Donald Trump). That's not something you got to r..."
+
+**[00:40:58](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-40-58)**
+> "Trump (Donald Trump)'s new press secretary was asked wh..."
+
+**[00:53:58](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-53-40)**
+> "...vice president and, you know, Trump (Donald Trump)'s entire administration. Oh, peopl..."
+
+**[00:54:07](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-54-07)**
+> "... least writes, every woman in Trump (Donald Trump)'s orbit absolutely wrecked their f..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
@@ -4296,7 +4342,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Appeared With (10)</summary>
+<summary>Appeared With (12)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4369,6 +4415,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
+
+</details>
+
+- **[Jake Paul](/entities/person-jake-paul.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07): “Just look no further than last night in Youngstown, Ohio, where President Trump (Donald Trump) delivered another blockbuster rally out on the trail. The arena was overflowing with enthusiasm. ... thousands came out to support President Trump (Donald Trump), as well as special guests Jake Paul and football legend Jon Gruden,”
+
+</details>
+
+- **[Jon Gruden](/entities/person-jon-gruden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07): “Just look no further than last night in Youngstown, Ohio, where President Trump (Donald Trump) delivered another blockbuster rally out on the trail. The arena was overflowing with enthusiasm. ... thousands came out to support President Trump (Donald Trump), as well as special guests Jake Paul and football legend Jon Gruden,”
 
 </details>
 
@@ -4633,12 +4693,19 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Natalie Harp](/entities/person-natalie-harp.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:34](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23): “And now it's widely reported that on Truth Social, that's the job of Natalie Harp. Trump is not using AI to doctor that.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44): “I am so honored to work for President Trump (Donald Trump) and the American people as the new White House press secretary.”
 
 </details>
 
@@ -5077,7 +5144,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (84)</summary>
+<summary>Referenced By (87)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5198,6 +5265,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:30:55](/episodes/ep-0pSAhaAZz1w.md#t-00-30-44): “Wynn (Blake Wynn) also said that he regularly speaks with FBI director Kash Patel. And that he was good friends with Kirk (Charlie Kirk). In the same podcast, Wynn (Blake Wynn) recounted sitting next to Trump (Donald J. Trump) at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump (Donald J. Trump)'s friend and special envoy.”
+
+</details>
+
+- **[Jake Paul](/entities/person-jake-paul.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07): “Just look no further than last night in Youngstown, Ohio, where President Trump (Donald Trump) delivered another blockbuster rally out on the trail. The arena was overflowing with enthusiasm. ... thousands came out to support President Trump (Donald Trump), as well as special guests Jake Paul and football legend Jon Gruden,”
+
+</details>
+
+- **[Jon Gruden](/entities/person-jon-gruden.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07): “Just look no further than last night in Youngstown, Ohio, where President Trump (Donald Trump) delivered another blockbuster rally out on the trail. The arena was overflowing with enthusiasm. ... thousands came out to support President Trump (Donald Trump), as well as special guests Jake Paul and football legend Jon Gruden,”
 
 </details>
 
@@ -5756,6 +5837,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44): “I am so honored to work for President Trump (Donald Trump) and the American people as the new White House press secretary.”
+
+</details>
+
 </details>
 
 </details>
@@ -5966,7 +6054,24 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (261)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (265)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4)</summary>
+
+- [00:33:46](/episodes/ep-V-phmW9f0pM.md#t-00-33-24) (Opinion) **Candace Owens**: ["Owens said she used to be proud to wear MAGA hats during Trump's first..."](/statements/statement-31cf29542015.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [MAGA movement](/entities/concept-maga-movement.md)
+
+- [00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44) (Opinion) **Katie Zacharia** (via quoted speech): ["Katie Zacharia said she was honored to work for President Trump and th..."](/statements/statement-0b74e349fa54.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+- [00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07) (Claim) **Katie Zacharia** (via quoted speech): ["Katie Zacharia said President Trump delivered a rally in Youngstown, O..."](/statements/statement-8868f9582b73.md)
+  - Also about: [Jake Paul](/entities/person-jake-paul.md), [Jon Gruden](/entities/person-jon-gruden.md)
+
+- [00:39:13](/episodes/ep-V-phmW9f0pM.md#t-00-39-02) (Opinion) **Candace Owens**: ["Owens speculated that donors might somehow be involved in Katie Zachar..."](/statements/statement-ea714a45276d.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>

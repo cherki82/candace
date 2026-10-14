@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 39 mentions"
+description: "United States Navy (Organizations) - 41 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#t-00-37-19">2026-10-05 · 00:37:38</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-united-states-navy-t-00-36-37">2026-10-13 · 00:38:24</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -62,6 +62,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <a href="/episodes/ep-bpXkPHpz9po.md#t-00-01-19" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aLJhpxrakCU.md#t-00-07-34" style="--pulse-height:75%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 3 mentions" title="2026-09-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#t-00-37-19" style="--pulse-height:25%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-united-states-navy-t-00-36-37" style="--pulse-height:50%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +94,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-01-19) | 2 |
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#t-00-07-34) | 3 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-37-19) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-united-states-navy-t-00-36-37) | 2 |
 
 </details>
 </section>
@@ -104,7 +106,18 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:36:46](/episodes/ep-V-phmW9f0pM.md#ent-org-united-states-navy-t-00-36-37)**
+> "... as the new home for the U.S. Navy's submarine component repair center, this massive..."
+
+**[00:38:24](/episodes/ep-V-phmW9f0pM.md#ent-org-united-states-navy-t-00-36-37)**
+> "...oving the headquarters of the Navy to Youngstown, Ohio. Okay, how much that's going ..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
@@ -596,7 +609,15 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Navy (10)</strong></summary>
+<summary><strong class="section-title">Statements about United States Navy (11)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:36:46](/episodes/ep-V-phmW9f0pM.md#t-00-36-37) (Claim) **Katie Zacharia** (via quoted speech): ["Katie Zacharia said the Department of War selected Cleveland, Ohio for..."](/statements/statement-caf7a304a48b.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Cleveland, Ohio](/entities/gpe-cleveland-ohio.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>

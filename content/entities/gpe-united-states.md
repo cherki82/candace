@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 2001 mentions"
+description: "United States (Places) - 2012 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,9 +28,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-42-32">2026-10-08 · 00:42:46</a></strong></div>
-<div><span>Episodes</span><strong>176</strong></div>
-<div><span>Mentions</span><strong>2,001</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-52-26">2026-10-13 · 00:52:26</a></strong></div>
+<div><span>Episodes</span><strong>177</strong></div>
+<div><span>Mentions</span><strong>2,012</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>179</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -217,6 +217,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-15-32" style="--pulse-height:13%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 6 mentions" title="2026-10-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51" style="--pulse-height:24%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 11 mentions" title="2026-10-07 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-37-41" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-30-40" style="--pulse-height:24%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 11 mentions" title="2026-10-13 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -398,6 +399,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-united-states-t-00-15-32) | 6 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51) | 11 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-37-41) | 2 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-30-40) | 11 |
 
 </details>
 </section>
@@ -409,7 +411,45 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2001)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2012)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (11 mentions)</summary>
+
+**[00:31:13](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-30-40)**
+> "... and filled right here in the USA."
+
+**[00:33:31](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-33-24)**
+> "But America, America has fallen. I think there's just a lot o..."
+
+**[00:33:37](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-33-24)**
+> "...we can make for the fact that America has fallen is what's happening inside of the Whit..."
+
+**[00:37:17](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-37-17)**
+> "I don't even, like, I, America has fallen. That's it. That's it. It's over. Hi."
+
+**[00:45:29](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-45-29)**
+> "... a year. Like, if this is the America that you believe in, vote me for dictator, becaus..."
+
+**[00:46:52](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-46-52)**
+> "...lect me to be dictator of the United States and I will leave it at that. We'll be right back ..."
+
+**[00:47:04](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-46-52)**
+> "...ent plants all throughout the United States were compromised."
+
+**[00:49:04](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-48-46)**
+> "...f the only rational people in America."
+
+**[00:49:30](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-49-30)**
+> "... when I'm the dictator of the United States, had to say about the Cornell 7 case."
+
+**[00:51:28](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-51-16)**
+> "...d I just feel like we are the United States of Epstein (Jeffrey Epstein) at this moment. And ..."
+
+**[00:52:26](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-52-26)**
+> "...wn here. Seven sheets writes, America might be falling, but it's not falling, but we do..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>

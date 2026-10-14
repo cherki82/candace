@@ -1,6 +1,6 @@
 ---
 title: "Seven Sheets (commenter; identity unverified)"
-description: "Seven Sheets (commenter; identity unverified) (Anonymous Sources) - 15 mentions"
+description: "Seven Sheets (commenter; identity unverified) (Anonymous Sources) - 16 mentions"
 id: "anon-src-iB-YtO3UZOg-seven-sheets"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -25,10 +25,10 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-00-57-13">2025-12-02 · 00:57:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-01-04-23">2026-10-06 · 01:04:42</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-00-52-26">2026-10-13 · 00:52:26</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -53,6 +53,7 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-00-57-55" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-01-04-08" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-01-04-23" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-00-52-26" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-00-57-55) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-01-04-08) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-01-04-23) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-00-52-26) | 1 |
 
 </details>
 </section>
@@ -80,7 +82,15 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:52:26](/episodes/ep-V-phmW9f0pM.md#ent-anon-src-iB-YtO3UZOg-seven-sheets-t-00-52-26)**
+> "That's crazy. A couple of comments from today's episode. Let me scroll down here. Seven sheets writes, America might be falling, but it's not falling, but we do need more voices like yours. But I am disgusted by my country that is trying to convict a clearly innocent man over the J6 bombing."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
@@ -228,6 +238,19 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:50:51](/episodes/ep-_Sq5RqP27NY.md#t-00-50-21): “But we have never been more awake. Seven sheets writes truth. Just God bless and protect you and your beautifully growing family. ... You are so needed and appreciated. Everybody is so needed and you never know how you may have just a small part of what happened on September 10th and it can make a big difference. And bravery inspires bravery.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Seven Sheets (commenter; identity unverified) (1)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:52:26](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) [○] (Accusation) ["The viewer Seven Sheets said the government was trying to convict a clearly inno..."](/statements/statement-924d4ac3613d.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
 
 </details>
 

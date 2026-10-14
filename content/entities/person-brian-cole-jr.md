@@ -1,6 +1,6 @@
 ---
 title: "Brian Cole Jr."
-description: "Brian Cole Jr. (People) - 15 mentions"
+description: "Brian Cole Jr. (People) - 16 mentions"
 id: "person-brian-cole-jr"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Brian Cole Jr. charged in indictment | US DOJ](https://www.justice.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-brian-cole-jr-t-00-57-26">2026-09-18 · 00:57:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-brian-cole-jr-t-00-52-03">2026-10-05 · 00:52:08</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-brian-cole-jr-t-00-52-26">2026-10-13 · 00:52:46</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Brian Cole Jr. charged in indictment | US DOJ](https://www.justice.gov/
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-brian-cole-jr-t-00-57-26" style="--pulse-height:38%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-brian-cole-jr-t-00-45-34" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 8 mentions" title="2026-10-01 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-brian-cole-jr-t-00-51-21" style="--pulse-height:25%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-brian-cole-jr-t-00-52-26" style="--pulse-height:12%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Brian Cole Jr. charged in indictment | US DOJ](https://www.justice.gov/
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-brian-cole-jr-t-00-57-26) | 3 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-brian-cole-jr-t-00-45-34) | 8 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-brian-cole-jr-t-00-51-21) | 2 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-brian-cole-jr-t-00-52-26) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Brian Cole Jr. charged in indictment | US DOJ](https://www.justice.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:52:46](/episodes/ep-V-phmW9f0pM.md#ent-person-brian-cole-jr-t-00-52-26)**
+> "...we should talk more about the Brian Cole case. I'll be sure to talk more, speak more about..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
@@ -161,7 +171,17 @@ Source: [Brian Cole Jr. charged in indictment | US DOJ](https://www.justice.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Cole Jr. (18)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Cole Jr. (20)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>
+
+- [00:52:26](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) (Accusation) **Seven Sheets (commenter; identity unverified)** (via read message): ["The viewer Seven Sheets said the government was trying to convict a cl..."](/statements/statement-924d4ac3613d.md)
+
+- [00:52:46](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) (Promise) **Candace Owens**: ["Owens promised to talk more about the Brian Cole case before going off..."](/statements/statement-a31b64d63320.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>

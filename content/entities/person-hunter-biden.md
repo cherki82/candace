@@ -1,6 +1,6 @@
 ---
 title: "Hunter Biden"
-description: "Hunter Biden (People) - 30 mentions"
+description: "Hunter Biden (People) - 32 mentions"
 id: "person-hunter-biden"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-hunter-biden-t-00-41-13">2026-03-03 · 00:41:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-hunter-biden-t-00-49-41">2026-05-26 · 00:50:02</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-hunter-biden-t-00-44-47">2026-10-13 · 00:45:02</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>34</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>29</strong></div>
 <div><span>Relationships</span><strong>66</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-hunter-biden-t-00-48-16" style="--pulse-height:17%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-hunter-biden-t-00-00-00" style="--pulse-height:75%" aria-label="Candace x Hunter Biden: The Interview: 9 mentions" title="2026-05-21 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-hunter-biden-t-00-00-01" style="--pulse-height:50%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 6 mentions" title="2026-05-26 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-hunter-biden-t-00-44-07" style="--pulse-height:17%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-hunter-biden-t-00-48-16) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-hunter-biden-t-00-00-00) | 9 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-hunter-biden-t-00-00-01) | 6 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-hunter-biden-t-00-44-07) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:44:14](/episodes/ep-V-phmW9f0pM.md#ent-person-hunter-biden-t-00-44-07)**
+> "...minds me of sitting down with Hunter Biden. He agreed to do crack at a Motel 8, Motel 7, wha..."
+
+**[00:45:02](/episodes/ep-V-phmW9f0pM.md#ent-person-hunter-biden-t-00-44-47)**
+> "...ike, or that I need to defend Hunter Biden if I get called to the scene of the crime and the..."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (6 mentions)</summary>
@@ -395,11 +408,12 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 <summary>Interviewed By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:47:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-46-32): “Everyone hating right now for you interviewing Hunter Biden is most likely still bootlicking Trump by proxy, Bibi (Benjamin Netanyahu).”
 - [Candace x Hunter Biden: The Interview @ 00:00:00](/episodes/ep-Ux1kzgQxkws.md#t-00-00-00): “Hunter Biden, welcome to the Candace Owens Show.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:45:44](/episodes/ep-BxN2-aeMYIs.md#t-00-45-44): “Hi, Candace. ... your talks with Hunter was possibly your best guest show yet.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07): “I mean, this reminds me of sitting down with Hunter Biden. He agreed to do crack at a Motel 8, Motel 7, whatever it was.”
 
 </details>
 
@@ -696,11 +710,12 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:47:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-46-32): “Everyone hating right now for you interviewing Hunter Biden is most likely still bootlicking Trump by proxy, Bibi (Benjamin Netanyahu).”
 - [Candace x Hunter Biden: The Interview @ 00:00:00](/episodes/ep-Ux1kzgQxkws.md#t-00-00-00): “Hunter Biden, welcome to the Candace Owens Show.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:45:44](/episodes/ep-BxN2-aeMYIs.md#t-00-45-44): “Hi, Candace. ... your talks with Hunter was possibly your best guest show yet.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07): “I mean, this reminds me of sitting down with Hunter Biden. He agreed to do crack at a Motel 8, Motel 7, whatever it was.”
 
 </details>
 
@@ -883,7 +898,14 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hunter Biden (28)</strong></summary>
+<summary><strong class="section-title">Statements about Hunter Biden (29)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled her conversation with Hunter Biden, saying he agreed to..."](/statements/statement-fd9dcb25108a.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (23)</summary>

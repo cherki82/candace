@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 6852 mentions"
+description: "Charlie Kirk (People) - 6872 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-charlie-kirk-t-00-50-13">2026-10-08 · 00:50:13</a></strong></div>
-<div><span>Episodes</span><strong>181</strong></div>
-<div><span>Mentions</span><strong>6,852</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-54-07">2026-10-13 · 00:54:45</a></strong></div>
+<div><span>Episodes</span><strong>182</strong></div>
+<div><span>Mentions</span><strong>6,872</strong></div>
 <div><span>Statements by</span><strong>134</strong></div>
-<div><span>Statements about</span><strong>2,244</strong></div>
+<div><span>Statements about</span><strong>2,255</strong></div>
 <div><span>Relationships</span><strong>397</strong></div>
 <div><span>Threads</span><strong>3</strong></div>
 </div>
@@ -218,6 +218,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-charlie-kirk-t-00-02-19" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 27 mentions" title="2026-10-06 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-charlie-kirk-t-00-03-08" style="--pulse-height:22%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 24 mentions" title="2026-10-07 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:34%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 37 mentions" title="2026-10-08 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 20 mentions" title="2026-10-13 · 20 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -404,6 +405,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-charlie-kirk-t-00-02-19) | 27 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-charlie-kirk-t-00-03-08) | 24 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-charlie-kirk-t-00-00-01) | 37 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01) | 20 |
 
 </details>
 </section>
@@ -417,7 +419,72 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6852)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6872)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (20 mentions)</summary>
+
+**[00:11:01](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01)**
+> "...as not at the university when Charlie Kirk was assassinated. How do we know that? Because th..."
+
+**[00:12:18](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-43)**
+> "...t, he didn't go with Charlie (Charlie Kirk) to the event, but he was marking time, interesti..."
+
+**[00:17:35](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-17-35)**
+> "...spital shortly after Charlie (Charlie Kirk) arrived. And then when Erika Kirk was due to lan..."
+
+**[00:19:10](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-18-57)**
+> "...on. We don't know if Charlie (Charlie Kirk) was set up by those around him."
+
+**[00:20:49](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-20-49)**
+> "...ce) to come and take Charlie (Charlie Kirk)'s body back to Phoenix."
+
+**[00:21:27](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-21-27)**
+> ".... It turned out that Charlie (Charlie Kirk) was laying on it across"
+
+**[00:22:34](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-21-58)**
+> "...hat was attending to Charlie (Charlie Kirk) was in scrubs now. We couldn't wear the clothes ..."
+
+**[00:23:03](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-23-03)**
+> "...ze he also says that Charlie (Charlie Kirk) was lying on the bag. Did that complicate the CP..."
+
+**[00:26:58](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-26-29)**
+> "...d to have attended to support Charlie Kirk and to see him. This last pic shows converse bran..."
+
+**[00:27:07](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-27-07)**
+> "Hashtag Orem. Hashtag Charlie Kirk. Well, guess what? Tyler Clancy and Shaner (Shane..."
+
+**[00:28:23](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-27-54)**
+> "...tain was that provided CPR to Charlie Kirk upon arrival at Timpanogos. It is a remarkable de..."
+
+**[00:29:22](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-29-22)**
+> "...captain doing CPR on Charlie (Charlie Kirk). Why, when you arrive to the hospital? How? Like..."
+
+**[00:40:33](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-40-13)**
+> "...a Truman Show. Like, Charlie (Charlie Kirk) was living the Truman Show and now we're all liv..."
+
+**[00:52:01](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-51-54)**
+> "...that we get into the Charlie (Charlie Kirk) story. By the way, tomorrow is Charlie Kirk's bi..."
+
+**[00:52:54](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-52-26)**
+> "...A events before with Charlie (Charlie Kirk), but one day before his death, he said he is aba..."
+
+**[00:53:03](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-53-03)**
+> "...a Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing."
+
+**[00:53:12](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-53-03)**
+> "... Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagr..."
+
+**[00:54:07](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-54-07)**
+> "...is makes me sick. If Charlie (Charlie Kirk) was a man of the people, she is the exact opposi..."
+
+**[00:54:37](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-54-07)**
+> "...spiritual connection Charlie (Charlie Kirk) and I would have had or perhaps had."
+
+**[00:54:45](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-54-07)**
+> "Rest in peace, Charlie (Charlie Kirk). I can't wait to meet you one day. Well, happy b..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (37 mentions)</summary>
@@ -26297,7 +26364,45 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (2244)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (2255)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (11)</summary>
+
+- [00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01) (Citation) **Candace Owens**: ["Citing the after-action report, Owens said Val Peterson was approximat..."](/statements/statement-e17ff3b4c7ae.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) (Claim) **Candace Owens** (via paraphrase): ["Owens said Blake Neff had said he did not accompany Charlie Kirk to th..."](/statements/statement-6d7c7fa693e7.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) (Claim) **Candace Owens** (via paraphrase): ["Owens said other people confirmed Tyler Clancy was on duty as a Provo ..."](/statements/statement-b0a3f977ac5a.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:19:02](/episodes/ep-V-phmW9f0pM.md#t-00-18-57) (Accusation) **Candace Owens**: ["Owens questioned why an officer would dispose of a bloodied item rathe..."](/statements/statement-b95f0bbe0e2b.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said Michael McCoy and Catherine Castro, whom he described..."](/statements/statement-6697c2c1ad80.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [00:21:21](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said the car used to take Charlie Kirk to the hospital was..."](/statements/statement-e3e99dbba557.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:21:58](/episodes/ep-V-phmW9f0pM.md#t-00-21-58) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he found Charlie Kirk's missing necklace across his b..."](/statements/statement-b0b4d55c99a4.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Erika Kirk](/entities/person-erika-kirk.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+- [00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29) (Claim) **Shaner Broderick** (via quoted post): ["Shaner Broderick wrote that he took friends to his grandmother's house..."](/statements/statement-f5eabc707337.md)
+  - Also about: [Shaner Broderick](/entities/person-shaner-broderick.md), [Converse (footwear brand)](/entities/org-converse.md)
+
+- [00:28:23](/episodes/ep-V-phmW9f0pM.md#t-00-27-54) (Claim) **Candace Owens**: ["Owens said her team was still unable to determine the identity of the ..."](/statements/statement-f4bd71d6b70f.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+- [00:29:22](/episodes/ep-V-phmW9f0pM.md#t-00-29-22) (Claim) **Candace Owens** (via paraphrase): ["Owens said she had heard, but could not confirm, that the unidentified..."](/statements/statement-cdab8c23cf14.md)
+  - Also about: [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterized Erika Kirk's explanation for sitting down with Van..."](/statements/statement-2aab6ec694ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Vanity Fair](/entities/org-vanity-fair.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (29)</summary>

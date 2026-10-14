@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 2081_
+_Total events: 2095_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,8 +340,8 @@ _Total events: 2081_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (375)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (983)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (379)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (990)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (108)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (42)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (31)</label>
@@ -359,7 +359,7 @@ _Total events: 2081_
   <label for="tab-year-2010" class="tab-btn">2010 (20)</label>
   <label for="tab-year-2009" class="tab-btn">2009 (14)</label>
   <label for="tab-year-2008" class="tab-btn">2008 (13)</label>
-  <label for="tab-year-2007" class="tab-btn">2007 (12)</label>
+  <label for="tab-year-2007" class="tab-btn">2007 (13)</label>
   <label for="tab-year-2006" class="tab-btn">2006 (15)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (11)</label>
   <label for="tab-year-2004" class="tab-btn">2004 (2)</label>
@@ -369,7 +369,7 @@ _Total events: 2081_
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
   <label for="tab-year-1999" class="tab-btn">1999 (15)</label>
   <label for="tab-year-1998" class="tab-btn">1998 (8)</label>
-  <label for="tab-year-1997" class="tab-btn">1997 (6)</label>
+  <label for="tab-year-1997" class="tab-btn">1997 (7)</label>
   <label for="tab-year-1996" class="tab-btn">1996 (5)</label>
   <label for="tab-year-1995" class="tab-btn">1995 (7)</label>
   <label for="tab-year-1994" class="tab-btn">1994 (5)</label>
@@ -379,7 +379,7 @@ _Total events: 2081_
   <label for="tab-year-1990" class="tab-btn">1990 (10)</label>
   <label for="tab-year-1989" class="tab-btn">1989 (4)</label>
   <label for="tab-year-1988" class="tab-btn">1988 (4)</label>
-  <label for="tab-year-1987" class="tab-btn">1987 (2)</label>
+  <label for="tab-year-1987" class="tab-btn">1987 (3)</label>
   <label for="tab-year-1986" class="tab-btn">1986 (3)</label>
   <label for="tab-year-1985" class="tab-btn">1985 (3)</label>
   <label for="tab-year-1983" class="tab-btn">1983 (2)</label>
@@ -439,6 +439,53 @@ _Total events: 2081_
 <h2 id="year-2026">2026</h2>
 
 **October**
+
+<div class="timeline-event filter-item" id="event-2026-10-13-katie-zacharia-made-her-first-white-hous" data-filter-key="event-2026-10-13-katie-zacharia-made-her-first-white-hous">
+<div class="timeline-date">2026-10-13</div>
+<div class="timeline-desc"><a href="/events/event-2026-10-13-katie-zacharia-made-her-first-white-hous.md">Katie Zacharia made her first White House press briefing as the new press secretary, in the clip discussed by Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-13: Katie Zacharia made her first White House press briefing as the new press secretary, in the clip discussed by Candace Owens. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-12-katie-zacharia-said-donald-trump-held-a-" data-filter-key="event-2026-10-12-katie-zacharia-said-donald-trump-held-a-">
+<div class="timeline-date">2026-10-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-10-12-katie-zacharia-said-donald-trump-held-a-.md">Katie Zacharia said Donald Trump held a campaign rally in Youngstown, Ohio, the previous night.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-12: Katie Zacharia said Donald Trump held a campaign rally in Youngstown, Ohio, the previous night. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-12-katie-zacharia-said-donald-trump-announc" data-filter-key="event-2026-10-12-katie-zacharia-said-donald-trump-announc">
+<div class="timeline-date">2026-10-12</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-12-katie-zacharia-said-donald-trump-announc.md">Katie Zacharia said Donald Trump announced at the Youngstown rally that Cleveland, Ohio, was selected for the U.S. Navy submarine component repair ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-12-katie-zacharia-said-donald-trump-announc.md">Katie Zacharia said Donald Trump announced at the Youngstown rally that Cleveland, Ohio, was selected for the U.S. Navy submarine component repair center.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-12: Katie Zacharia said Donald Trump announced at the Youngstown rally that Cleveland, Ohio, was selected for the U.S. Navy submarine component repair center. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:36:46](/episodes/ep-V-phmW9f0pM.md#t-00-36-37)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2026-10-08-candace-owens-publicly-identified-charli" data-filter-key="event-2026-10-08-candace-owens-publicly-identified-charli">
 <div class="timeline-date">2026-10-08</div>
@@ -4389,6 +4436,21 @@ _Total events: 2081_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To President Donald Trump (My Re... @ 00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-09-candace-owens-said-the-apostate-prophet-" data-filter-key="event-2026-04-09-candace-owens-said-the-apostate-prophet-">
+<div class="timeline-date">2026-04-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-09-candace-owens-said-the-apostate-prophet-.md">Candace Owens said the Apostate Prophet podcast episode featuring Frank Turek's bloodied-bag account was released on April 9, 2026.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-09: Candace Owens said the Apostate Prophet podcast episode featuring Frank Turek\'s bloodied-bag account was released on April 9, 2026. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:20:24](/episodes/ep-V-phmW9f0pM.md#t-00-20-24)
 
 </details>
 </div>
@@ -9226,6 +9288,21 @@ _Total events: 2081_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-30-candace-owens-said-governor-spencer-cox-" data-filter-key="event-2025-10-30-candace-owens-said-governor-spencer-cox-">
+<div class="timeline-date">2025-10-30</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-30-candace-owens-said-governor-spencer-cox-.md">Candace Owens said Governor Spencer Cox announced Tyler Clancy's appointment as Utah state homeless coordinator on October 30, 2025.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-30: Candace Owens said Governor Spencer Cox announced Tyler Clancy\'s appointment as Utah state homeless coordinator on October 30, 2025. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:25:04](/episodes/ep-V-phmW9f0pM.md#t-00-25-04)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-29-daily-mail-publishes-kash-patel-shutting-down-kirk" data-filter-key="event-2025-10-29-daily-mail-publishes-kash-patel-shutting-down-kirk">
 <div class="timeline-date">2025-10-29</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-29-daily-mail-publishes-kash-patel-shutting-down-kirk.md">Daily Mail publishes Kash Patel shutting down Kirk foreign intelligence probe</a></div>
@@ -10274,6 +10351,57 @@ _Total events: 2081_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHO... @ 00:53:01](/episodes/ep-0pSAhaAZz1w.md#t-00-53-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-candace-owens-alleged-that-tyler-clancy-" data-filter-key="event-2025-09-candace-owens-alleged-that-tyler-clancy-">
+<div class="timeline-date">2025-09</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-candace-owens-alleged-that-tyler-clancy-.md">Candace Owens alleged that Tyler Clancy and another officer were dispatched from Timpanogos Hospital to escort Erika Kirk from the airport; the sou...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-candace-owens-alleged-that-tyler-clancy-.md">Candace Owens alleged that Tyler Clancy and another officer were dispatched from Timpanogos Hospital to escort Erika Kirk from the airport; the source conflicts between September 10 and 11, 2025, so the day is intentionally unspecified.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens alleged that Tyler Clancy and another officer were dispatched from Timpanogos Hospital to escort Erika Kirk from the airport; the source conflicts between September 10 and 11, 2025, so the day is intentionally unspecified. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:18:01](/episodes/ep-V-phmW9f0pM.md#t-00-17-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-candace-owens-alleged-that-a-tpusa-membe" data-filter-key="event-2025-09-candace-owens-alleged-that-a-tpusa-membe">
+<div class="timeline-date">2025-09</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-candace-owens-alleged-that-a-tpusa-membe.md">Candace Owens alleged that a TPUSA member or affiliate left a bloodied bag in Tyler Clancy's car and that Clancy disposed of it the same day; the s...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-candace-owens-alleged-that-a-tpusa-membe.md">Candace Owens alleged that a TPUSA member or affiliate left a bloodied bag in Tyler Clancy's car and that Clancy disposed of it the same day; the surrounding source conflicts between September 10 and 11, 2025.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens alleged that a TPUSA member or affiliate left a bloodied bag in Tyler Clancy\'s car and that Clancy disposed of it the same day; the surrounding source conflicts between September 10 and 11, 2025. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:18:50](/episodes/ep-V-phmW9f0pM.md#t-00-18-13)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-frank-turek-said-he-asked-an-unnamed-pol" data-filter-key="event-2025-09-frank-turek-said-he-asked-an-unnamed-pol">
+<div class="timeline-date">2025-09</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-frank-turek-said-he-asked-an-unnamed-pol.md">Frank Turek said he asked an unnamed police officer to dispose of his bloodied computer bag during the aftermath of Charlie Kirk's shooting; neithe...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-frank-turek-said-he-asked-an-unnamed-pol.md">Frank Turek said he asked an unnamed police officer to dispose of his bloodied computer bag during the aftermath of Charlie Kirk's shooting; neither the officer's identity nor a September 10/11 day is established by this clip.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Frank Turek said he asked an unnamed police officer to dispose of his bloodied computer bag during the aftermath of Charlie Kirk\'s shooting; neither the officer\'s identity nor a September 10/11 day is established by this clip. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:22:49](/episodes/ep-V-phmW9f0pM.md#t-00-22-45)
 
 </details>
 </div>
@@ -11871,6 +11999,21 @@ _Total events: 2081_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-14-candace-owens-said-shaner-broderick-post" data-filter-key="event-2025-09-14-candace-owens-said-shaner-broderick-post">
+<div class="timeline-date">2025-09-14</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-14-candace-owens-said-shaner-broderick-post.md">Candace Owens said Shaner Broderick posted an Instagram account of retracing the alleged killer's steps with friends following the manhunt.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-14: Candace Owens said Shaner Broderick posted an Instagram account of retracing the alleged killer\'s steps with friends following the manhunt. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:26:20](/episodes/ep-V-phmW9f0pM.md#t-00-25-48)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-12-governor-cox-press-conference-declares-we-got-him" data-filter-key="event-2025-09-12-governor-cox-press-conference-declares-we-got-him">
 <div class="timeline-date">2025-09-12 <span class='time'>08:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-12-governor-cox-press-conference-declares-we-got-him.md">Governor Cox press conference declares 'We got him'</a></div>
@@ -11983,7 +12126,7 @@ _Total events: 2081_
 <div class="timeline-date">2025-09-12</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-12-tyler-robinson-arrested-as-suspect-in-charlie-kirk.md">Tyler Robinson arrested as suspect in Charlie Kirk assassination.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">9× in 3 eps</span>
+<span class="timeline-badge mentions">10× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-12: Tyler Robinson arrested as suspect in Charlie Kirk assassination. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11998,6 +12141,7 @@ _Total events: 2081_
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:20:43](/episodes/ep-5autG89PW6w.md#t-00-19-58)
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:47:59](/episodes/ep-5autG89PW6w.md#t-00-47-46)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:28:50](/episodes/ep-2WEHTk0Xewg.md#t-00-28-27)
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:25:55](/episodes/ep-V-phmW9f0pM.md#t-00-25-48)
 
 </details>
 </div>
@@ -13940,7 +14084,7 @@ _Total events: 2081_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">166× in 117 eps</span>
+<span class="timeline-badge mentions">167× in 118 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -14112,6 +14256,7 @@ _Total events: 2081_
 - [COVER UP! The Mysterious Death Of A Whistleblow... @ 00:07:54](/episodes/ep-ms5ChhZegRg.md#t-00-07-54)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHO... @ 00:18:32](/episodes/ep-0pSAhaAZz1w.md#t-00-18-12)
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake ... @ 00:27:24](/episodes/ep-yrg_-D6oNHE.md#t-00-27-24)
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01)
 
 </details>
 </div>
@@ -16088,13 +16233,15 @@ _Total events: 2081_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-frank-turek-says-he-retrieved-his-comput.md">Frank Turek says he retrieved his computer bag and Charlie Kirk's necklace from the transport vehicle after the FBI cleared it at the hospital.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Frank Turek says he retrieved his computer bag and Charlie Kirk\'s necklace from the transport vehicle after the FBI cleared it at the hospital. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:27:53](/episodes/ep-9k2xrAC0H88.md#t-00-27-18)
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:21:49](/episodes/ep-V-phmW9f0pM.md#t-00-21-27)
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:21:58](/episodes/ep-V-phmW9f0pM.md#t-00-21-58)
 
 </details>
 </div>
@@ -16522,6 +16669,21 @@ _Total events: 2081_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Hap... @ 00:38:00](/episodes/ep-UAdBEXs7nNc.md#t-00-37-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-the-uvu-after-action-report-read-by-cand" data-filter-key="event-2025-09-10-the-uvu-after-action-report-read-by-cand">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-the-uvu-after-action-report-read-by-cand.md">The UVU after-action report read by Candace Owens said Val Peterson joined shooting-response discussions by speakerphone while traveling to campus.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: The UVU after-action report read by Candace Owens said Val Peterson joined shooting-response discussions by speakerphone while traveling to campus. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:11:25](/episodes/ep-V-phmW9f0pM.md#t-00-11-01)
 
 </details>
 </div>
@@ -20891,6 +21053,21 @@ _Total events: 2081_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:33:22](/episodes/ep-aDlhjfW6hz8.md#t-00-32-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-05-20-candace-owens-read-a-may-20-2025-instagr" data-filter-key="event-2025-05-20-candace-owens-read-a-may-20-2025-instagr">
+<div class="timeline-date">2025-05-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-05-20-candace-owens-read-a-may-20-2025-instagr.md">Candace Owens read a May 20, 2025 Instagram post saying Tyler Clancy received the LaGrand and Beth Baker Award for his detective service.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-05-20: Candace Owens read a May 20, 2025 Instagram post saying Tyler Clancy received the LaGrand and Beth Baker Award for his detective service. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:16:35](/episodes/ep-V-phmW9f0pM.md#t-00-16-18)
 
 </details>
 </div>
@@ -29985,6 +30162,23 @@ _Total events: 2081_
 
 **January**
 
+<div class="timeline-event filter-item" id="event-2007-01-an-article-read-by-candace-owens-reporte" data-filter-key="event-2007-01-an-article-read-by-candace-owens-reporte">
+<div class="timeline-date">2007-01</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2007-01-an-article-read-by-candace-owens-reporte.md">An article read by Candace Owens reported that Val Peterson assumed command of the 300th Military Intelligence Brigade at a Draper change-of-comman...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2007-01-an-article-read-by-candace-owens-reporte.md">An article read by Candace Owens reported that Val Peterson assumed command of the 300th Military Intelligence Brigade at a Draper change-of-command ceremony.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2007-01: An article read by Candace Owens reported that Val Peterson assumed command of the 300th Military Intelligence Brigade at a Draper change-of-command ceremony. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:07:46](/episodes/ep-V-phmW9f0pM.md#t-00-07-30)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2007-01-01-romania-and-bulgaria-joined-the-european" data-filter-key="event-2007-01-01-romania-and-bulgaria-joined-the-european">
 <div class="timeline-date">2007-01-01</div>
 <div class="timeline-desc"><a href="/events/event-2007-01-01-romania-and-bulgaria-joined-the-european.md">Romania and Bulgaria joined the European Union.</a></div>
@@ -31578,6 +31772,21 @@ _Total events: 2081_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-1997-candace-owens-said-tyler-clancy-was-born" data-filter-key="event-1997-candace-owens-said-tyler-clancy-was-born">
+<div class="timeline-date">1997</div>
+<div class="timeline-desc"><a href="/events/event-1997-candace-owens-said-tyler-clancy-was-born.md">Candace Owens said Tyler Clancy was born in 1997.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1997: Candace Owens said Tyler Clancy was born in 1997. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:13:44](/episodes/ep-V-phmW9f0pM.md#t-00-13-44)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -32319,6 +32528,25 @@ _Total events: 2081_
 <div class="timeline-container">
 
 <h2 id="year-1987">1987</h2>
+
+**June**
+
+<div class="timeline-event filter-item" id="event-1987-06-candace-owens-said-val-peterson-began-wo" data-filter-key="event-1987-06-candace-owens-said-val-peterson-began-wo">
+<div class="timeline-date">1987-06</div>
+<div class="timeline-desc"><a href="/events/event-1987-06-candace-owens-said-val-peterson-began-wo.md">Candace Owens said Val Peterson began working at the institution now known as Utah Valley University in June 1987.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1987-06: Candace Owens said Val Peterson began working at the institution now known as Utah Valley University in June 1987. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [America The Ugly: A General, A Cop & A Missing ... @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29)
+
+</details>
+</div>
+
+****
 
 <div class="timeline-event filter-item" id="event-1987-a-girl-identified-michael-aquino-as-the-" data-filter-key="event-1987-a-girl-identified-michael-aquino-as-the-">
 <div class="timeline-date">1987</div>

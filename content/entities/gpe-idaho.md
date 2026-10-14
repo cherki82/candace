@@ -1,6 +1,6 @@
 ---
 title: "Idaho"
-description: "Idaho (Places) - 15 mentions"
+description: "Idaho (Places) - 16 mentions"
 id: "gpe-idaho"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of Idaho](https://idaho.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-idaho-t-00-56-45">2025-10-30 · 00:56:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-15-02">2026-09-25 · 01:15:06</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#t-00-08-47">2026-10-13 · 00:08:57</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -40,6 +40,7 @@ Source: [State of Idaho](https://idaho.gov/)
 <a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-idaho-t-00-28-52" style="--pulse-height:100%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 3 mentions" title="2026-09-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-idaho-t-00-48-36" style="--pulse-height:33%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-09-06" style="--pulse-height:67%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#t-00-08-47" style="--pulse-height:33%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [State of Idaho](https://idaho.gov/)
 | 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-gpe-idaho-t-00-28-52) | 3 |
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-idaho-t-00-48-36) | 1 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-09-06) | 2 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [State of Idaho](https://idaho.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47)**
+> "A native of Moscow, Idaho, not to be interesting, where his father was a un..."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>

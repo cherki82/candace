@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 71 mentions"
+description: "Salt Lake City (Places) - 76 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [SLC.gov](https://www.slc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53">2025-09-17 · 00:19:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-salt-lake-city-t-00-02-49">2026-10-08 · 00:02:49</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-21-58">2026-10-13 · 00:22:24</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -65,6 +65,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 <a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-salt-lake-city-t-00-10-54" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-salt-lake-city-t-00-17-23" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-salt-lake-city-t-00-02-49" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-11-43" style="--pulse-height:42%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 5 mentions" title="2026-10-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +105,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-salt-lake-city-t-00-10-54) | 1 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-salt-lake-city-t-00-17-23) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-salt-lake-city-t-00-02-49) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-11-43) | 5 |
 
 </details>
 </section>
@@ -115,7 +117,27 @@ Source: [SLC.gov](https://www.slc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5 mentions)</summary>
+
+**[00:11:53](/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-11-43)**
+> "Salt Lake City is. That's where the National Guard air base is. ..."
+
+**[00:12:00](/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-11-43)**
+> "...ally speaking, all throughout Salt Lake City because there was that, remember that lost bald g..."
+
+**[00:20:49](/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-20-49)**
+> "...e all had to go from there to Salt Lake City because Mikey (Michael McCoy) and Catherine Castr..."
+
+**[00:21:16](/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-20-49)**
+> "So we had to go to Salt Lake City for that."
+
+**[00:22:24](/episodes/ep-V-phmW9f0pM.md#ent-gpe-salt-lake-city-t-00-21-58)**
+> "...my pocket. And as we drove to Salt Lake City, I took everything of value out of that bag. I'm ..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
@@ -532,7 +554,15 @@ Source: [SLC.gov](https://www.slc.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Salt Lake City (14)</strong></summary>
+<summary><strong class="section-title">Statements about Salt Lake City (15)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:11:43](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) (Opinion) **Candace Owens**: ["Owens noted Salt Lake City and its National Guard air base were 45 min..."](/statements/statement-34cbc7af2eed.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

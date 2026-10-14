@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 181_
+_Total episodes: 182_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -22,6 +22,10 @@ _Total episodes: 181_
 </style>
 
 
+
+## Week of Oct 12 - 18, 2026
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md) — Tue, Oct 13
 
 ## Week of Oct 05 - 11, 2026
 

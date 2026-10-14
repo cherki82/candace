@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 126 mentions"
+description: "Paleovalley (Organizations) - 130 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02">2025-09-16 · 00:39:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-paleovalley-t-00-26-02">2026-10-07 · 00:26:02</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>126</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-paleovalley-t-00-32-03">2026-10-13 · 00:32:39</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>130</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -63,6 +63,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <a href="/episodes/ep-aLJhpxrakCU.md#ent-org-paleovalley-t-00-52-10" style="--pulse-height:44%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 4 mentions" title="2026-09-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-paleovalley-t-00-28-13" style="--pulse-height:44%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 4 mentions" title="2026-09-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-paleovalley-t-00-25-17" style="--pulse-height:44%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-paleovalley-t-00-31-23" style="--pulse-height:44%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +96,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-paleovalley-t-00-52-10) | 4 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-paleovalley-t-00-28-13) | 4 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-paleovalley-t-00-25-17) | 4 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-paleovalley-t-00-31-23) | 4 |
 
 </details>
 </section>
@@ -102,7 +104,24 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (126)</strong></summary>
+<summary><strong class="section-title">Raw mentions (130)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4 mentions)</summary>
+
+**[00:31:51](/episodes/ep-V-phmW9f0pM.md#ent-org-paleovalley-t-00-31-23)**
+> "...want to remind you guys about Paleovalley because I feel like fall has officially arrived a..."
+
+**[00:32:21](/episodes/ep-V-phmW9f0pM.md#ent-org-paleovalley-t-00-32-03)**
+> "Paleovalley also has a pumpkin spice bone broth, which I'm eq..."
+
+**[00:32:30](/episodes/ep-V-phmW9f0pM.md#ent-org-paleovalley-t-00-32-03)**
+> "...hen life gets busy, check out paleovalley.com and get 20% off your first order with code Ca..."
+
+**[00:32:39](/episodes/ep-V-phmW9f0pM.md#ent-org-paleovalley-t-00-32-03)**
+> "That's paleovalley.com and use Use promo code Candace at checkout."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (4 mentions)</summary>
@@ -626,7 +645,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
@@ -640,6 +659,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:52:23](/episodes/ep-aLJhpxrakCU.md#t-00-52-10): “I don't know. It's weird. It's all very weird. We'll be right back after a brief break. All right, you guys, I feel like fall has officially arrived at our house and I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They have these pumpkin spice superfood bars. And for someone like me who is constantly on the go, they are very convenient between getting out the door, running around with kids, this show and everything else that fills up my day. I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. about. It's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code CANDACE at checkout.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:28:20](/episodes/ep-6XfDqKTdFKg.md#t-00-28-13): “Again, that's twc.health slash Candace. And you know I love Paleovalley snacks. I feel like fall has officially arrived at our house and I'm not mad about it, I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They had these pumpkin spice superfood bars, and for someone like me who is constantly on the go, they are very convenient. Between getting out the door, running around with the kids, this show, and everything else that fills up a day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make me happy. That make this time of year feel extra special. So if you are looking for easy, convenient options to keep on hand while life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:25:17](/episodes/ep-yrg_-D6oNHE.md#t-00-25-17): “And you know I have to tell you guys about Paleovalley. I love them. I feel like the fall season has officially begun and I am definitely not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They've now added pumpkin spice superfood bars to their lineup. And for someone like me who is constantly on the go, their snacks are so convenient. Between getting out of the door, running around with my kids, the show, everything else that fills up my day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on. Keep on hand when life gets busy, head to paleovalley.com and get 20% off your order if you use code CANDACE at checkout. That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:32:30](/episodes/ep-V-phmW9f0pM.md#t-00-32-03): “So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 
 </details>
 
@@ -649,7 +669,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
@@ -663,6 +683,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:52:23](/episodes/ep-aLJhpxrakCU.md#t-00-52-10): “I don't know. It's weird. It's all very weird. We'll be right back after a brief break. All right, you guys, I feel like fall has officially arrived at our house and I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They have these pumpkin spice superfood bars. And for someone like me who is constantly on the go, they are very convenient between getting out the door, running around with kids, this show and everything else that fills up my day. I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. about. It's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code CANDACE at checkout.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:28:20](/episodes/ep-6XfDqKTdFKg.md#t-00-28-13): “Again, that's twc.health slash Candace. And you know I love Paleovalley snacks. I feel like fall has officially arrived at our house and I'm not mad about it, I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They had these pumpkin spice superfood bars, and for someone like me who is constantly on the go, they are very convenient. Between getting out the door, running around with the kids, this show, and everything else that fills up a day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make me happy. That make this time of year feel extra special. So if you are looking for easy, convenient options to keep on hand while life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:25:17](/episodes/ep-yrg_-D6oNHE.md#t-00-25-17): “And you know I have to tell you guys about Paleovalley. I love them. I feel like the fall season has officially begun and I am definitely not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They've now added pumpkin spice superfood bars to their lineup. And for someone like me who is constantly on the go, their snacks are so convenient. Between getting out of the door, running around with my kids, the show, everything else that fills up my day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on. Keep on hand when life gets busy, head to paleovalley.com and get 20% off your order if you use code CANDACE at checkout. That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:32:30](/episodes/ep-V-phmW9f0pM.md#t-00-32-03): “So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 
 </details>
 

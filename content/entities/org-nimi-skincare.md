@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 376 mentions"
+description: "Nimi Skincare (Organizations) - 379 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -46,9 +46,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-nimi-skincare-t-00-57-16">2025-09-15 · 00:57:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-45">2026-10-07 · 00:26:50</a></strong></div>
-<div><span>Episodes</span><strong>84</strong></div>
-<div><span>Mentions</span><strong>376</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-nimi-skincare-t-00-31-23">2026-10-13 · 00:31:51</a></strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>379</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -143,6 +143,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-nimi-skincare-t-00-44-15" style="--pulse-height:22%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-nimi-skincare-t-00-49-29" style="--pulse-height:33%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-02" style="--pulse-height:33%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-nimi-skincare-t-00-30-40" style="--pulse-height:33%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -232,6 +233,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-nimi-skincare-t-00-44-15) | 2 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-nimi-skincare-t-00-49-29) | 3 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-nimi-skincare-t-00-26-02) | 3 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-nimi-skincare-t-00-30-40) | 3 |
 
 </details>
 </section>
@@ -239,7 +241,21 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (376)</strong></summary>
+<summary><strong class="section-title">Raw mentions (379)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
+
+**[00:30:58](/episodes/ep-V-phmW9f0pM.md#ent-org-nimi-skincare-t-00-30-40)**
+> "...know I have to tell you about Nimi Skin Care because I've talked about their tallow ..."
+
+**[00:31:23](/episodes/ep-V-phmW9f0pM.md#ent-org-nimi-skincare-t-00-31-23)**
+> "... done that for me. So head to NIMIskincare.com and use my code Candace10 at checkout for it, but..."
+
+**[00:31:51](/episodes/ep-V-phmW9f0pM.md#ent-org-nimi-skincare-t-00-31-23)**
+> "that's nimiskincare.com with code Candace10 at checkout. I also want to r..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
@@ -1783,7 +1799,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1813,6 +1829,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:44:15](/episodes/ep-q4m-kGzvwjw.md#t-00-44-15): “The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to nimiskincare.com and use my code CANDACE10 at checkout for a discount. Again, that's nimiskincare.com with code CANDACE10 at checkout.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:49:54](/episodes/ep-ms5ChhZegRg.md#t-00-49-29): “I love finding products that actually are in a permanent spot in my routine and Nimi has definitely done that for me. ... So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code candace10 at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:26:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-02): “That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with. With clean ingredients and tallow as the star, their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. So there's now something for every part of your routine. The tallow sugar scrub gently buffs away dry, rough skin. The tallow body butter gives you rich hydration without that heavy greasy feeling. And the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. Stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use code Candace10 at checkout for a discount. That's NIMIskincare.com with code Candace10 at checkout.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:31:23](/episodes/ep-V-phmW9f0pM.md#t-00-31-23): “Scrub, which gently buffs away dry, rough skin; the tallow body butter, which gives you rich hydration without that heavy, greasy feeling; and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. And I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use my code Candace10 at checkout for it, but for a discount,”
 
 </details>
 
@@ -1856,7 +1873,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1886,6 +1903,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:44:15](/episodes/ep-q4m-kGzvwjw.md#t-00-44-15): “The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to nimiskincare.com and use my code CANDACE10 at checkout for a discount. Again, that's nimiskincare.com with code CANDACE10 at checkout.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:49:54](/episodes/ep-ms5ChhZegRg.md#t-00-49-29): “I love finding products that actually are in a permanent spot in my routine and Nimi has definitely done that for me. ... So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code candace10 at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:26:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-02): “That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with. With clean ingredients and tallow as the star, their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. So there's now something for every part of your routine. The tallow sugar scrub gently buffs away dry, rough skin. The tallow body butter gives you rich hydration without that heavy greasy feeling. And the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. Stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use code Candace10 at checkout for a discount. That's NIMIskincare.com with code Candace10 at checkout.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:31:23](/episodes/ep-V-phmW9f0pM.md#t-00-31-23): “Scrub, which gently buffs away dry, rough skin; the tallow body butter, which gives you rich hydration without that heavy, greasy feeling; and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. And I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use my code Candace10 at checkout for it, but for a discount,”
 
 </details>
 

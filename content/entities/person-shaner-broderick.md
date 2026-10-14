@@ -1,6 +1,6 @@
 ---
 title: "Shaner Broderick"
-description: "Shaner Broderick (People) - 19 mentions"
+description: "Shaner Broderick (People) - 22 mentions"
 id: "person-shaner-broderick"
 type: "PERSON"
 categories:
@@ -20,12 +20,12 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50">2025-09-30 · 00:02:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57">2025-10-02 · 00:24:06</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-shaner-broderick-t-00-27-07">2026-10-13 · 00:27:31</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -36,6 +36,7 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 5 mentions" title="2025-09-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#t-00-07-42" style="--pulse-height:60%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-shaner-broderick-t-00-26-29" style="--pulse-height:60%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50) | 5 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-07-42) | 3 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-23-57) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-shaner-broderick-t-00-26-29) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
+
+**[00:26:29](/episodes/ep-V-phmW9f0pM.md#ent-person-shaner-broderick-t-00-26-29)**
+> "We're looking for clues. A Shaner Broderick swoops in with his friends, Robbie Hild (Rob Hild..."
+
+**[00:27:07](/episodes/ep-V-phmW9f0pM.md#ent-person-shaner-broderick-t-00-27-07)**
+> "...hat? Tyler Clancy and Shaner (Shaner Broderick) are best friends. He's in the same friend group ..."
+
+**[00:27:31](/episodes/ep-V-phmW9f0pM.md#ent-person-shaner-broderick-t-00-27-07)**
+> "...ful way, whether it's Shaner (Shaner Broderick) contributing, which eventually was a video of hi..."
+
+</details>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
@@ -117,6 +133,25 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 </details>
 
 <details>
+<summary>Friend Of (2)</summary>
+
+- **[Rob Hild](/entities/person-rob-hild.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29): “We're looking for clues. A Shaner Broderick swoops in with his friends, Robbie Hild (Rob Hild) and Gernot Omer, who volunteered, according to Shaner (Shaner Broderick), I should say. To retrace the steps of the alleged killer, and we covered that on our show, obviously here's that post, I took my friends to my grandma's house and we retraced his steps and took pictures in the exact place that the security cameras caught him. I've been through this new experience for the last few days.”
+
+</details>
+
+- **[Gernot Omer (participant named by Candace Owens; identity unverified)](/entities/anon-src-V-phmW9f0pM-002.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29): “We're looking for clues. A Shaner Broderick swoops in with his friends, Robbie Hild (Rob Hild) and Gernot Omer, who volunteered, according to Shaner (Shaner Broderick), I should say. To retrace the steps of the alleged killer, and we covered that on our show, obviously here's that post, I took my friends to my grandma's house and we retraced his steps and took pictures in the exact place that the security cameras caught him. I've been through this new experience for the last few days.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Niece/Nephew Of (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
@@ -129,12 +164,26 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): “It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah.”
+
+</details>
+
+- **[Rob Hild](/entities/person-rob-hild.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29): “We're looking for clues. A Shaner Broderick swoops in with his friends, Robbie Hild (Rob Hild) and Gernot Omer, who volunteered, according to Shaner (Shaner Broderick), I should say. To retrace the steps of the alleged killer, and we covered that on our show, obviously here's that post, I took my friends to my grandma's house and we retraced his steps and took pictures in the exact place that the security cameras caught him. I've been through this new experience for the last few days.”
+
+</details>
+
+- **[Gernot Omer (participant named by Candace Owens; identity unverified)](/entities/anon-src-V-phmW9f0pM-002.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29): “We're looking for clues. A Shaner Broderick swoops in with his friends, Robbie Hild (Rob Hild) and Gernot Omer, who volunteered, according to Shaner (Shaner Broderick), I should say. To retrace the steps of the alleged killer, and we covered that on our show, obviously here's that post, I took my friends to my grandma's house and we retraced his steps and took pictures in the exact place that the security cameras caught him. I've been through this new experience for the last few days.”
 
 </details>
 
@@ -150,7 +199,15 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Shaner Broderick (1)</strong></summary>
+<summary><strong class="section-title">Statements by Shaner Broderick (2)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29) [○] (Claim) ["Shaner Broderick wrote that he took friends to his grandmother's house, retraced..."](/statements/statement-f5eabc707337.md)
+  - About: [Shaner Broderick](/entities/person-shaner-broderick.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Converse (footwear brand)](/entities/org-converse.md)
+
+</details>
 
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
@@ -162,7 +219,18 @@ Source: [Shaner Broderick, MHA - LinkedIn](https://www.linkedin.com/in/shanerbro
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Shaner Broderick (3)</strong></summary>
+<summary><strong class="section-title">Statements about Shaner Broderick (5)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>
+
+- [00:25:31](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) (Claim) **Candace Owens** (via paraphrase): ["According to multiple people with direct knowledge, Owens said Tyler C..."](/statements/statement-7b60cdf098e4.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Rob Hild](/entities/person-rob-hild.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+- [00:26:29](/episodes/ep-V-phmW9f0pM.md#t-00-26-29) (Claim) **Shaner Broderick** (via quoted post): ["Shaner Broderick wrote that he took friends to his grandmother's house..."](/statements/statement-f5eabc707337.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Converse (footwear brand)](/entities/org-converse.md)
+
+</details>
 
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (3)</summary>

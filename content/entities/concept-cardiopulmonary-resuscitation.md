@@ -1,6 +1,6 @@
 ---
 title: "Cardiopulmonary resuscitation"
-description: "Cardiopulmonary resuscitation (Concepts) - 98 mentions"
+description: "Cardiopulmonary resuscitation (Concepts) - 101 mentions"
 id: "concept-cardiopulmonary-resuscitation"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-cardiopulmonary-resuscitation-t-00-38-48">2026-06-17 · 00:38:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-41-51">2026-10-08 · 00:41:59</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>98</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-29-22">2026-10-13 · 00:29:22</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>101</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -51,6 +51,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-11" style="--pulse-height:75%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 9 mentions" title="2026-10-05 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-57-29" style="--pulse-height:33%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-15" style="--pulse-height:67%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 8 mentions" title="2026-10-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-23-03" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-11) | 9 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-cardiopulmonary-resuscitation-t-00-57-29) | 4 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-15) | 8 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-23-03) | 3 |
 
 </details>
 </section>
@@ -83,7 +85,21 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
+
+**[00:23:03](/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-23-03)**
+> "... bag. Did that complicate the CPR that you were doing at all? Do you normally, do w..."
+
+**[00:28:23](/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-27-54)**
+> "...ire captain was that provided CPR to Charlie Kirk upon arrival at Timpanogos. It is..."
+
+**[00:29:22](/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-29-22)**
+> "A fire captain doing CPR on Charlie (Charlie Kirk). Why, when you arrive t..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (8 mentions)</summary>

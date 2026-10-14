@@ -18,7 +18,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (166 times)
+## Mentioned In (167 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -1362,3 +1362,11 @@ date: "2025-09-10"
 
 > **Date stated in this source:** “September 10th; a year of his life”
 > **Date review note:** The source discusses the anniversary of the September 10, 2025 assassination; retain the existing canonical date.
+
+### 167. America The Ugly: A General, A Cop & A Missing Bloodied Bag....
+
+**Episode:** [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md)
+**Timestamp:** [00:11:01](/episodes/ep-V-phmW9f0pM.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-11-01) 
+<a href="https://www.youtube.com/watch?v=V-phmW9f0pM&t=661s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Val Peterson was not at the university when Charlie Kirk was assassinated.

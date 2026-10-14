@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 463 mentions"
+description: "Michael McCoy (People) - 464 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-44-30">2026-10-08 · 00:44:52</a></strong></div>
-<div><span>Episodes</span><strong>87</strong></div>
-<div><span>Mentions</span><strong>463</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-michael-mccoy-t-00-20-49">2026-10-13 · 00:20:49</a></strong></div>
+<div><span>Episodes</span><strong>88</strong></div>
+<div><span>Mentions</span><strong>464</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>131</strong></div>
-<div><span>Relationships</span><strong>71</strong></div>
+<div><span>Statements about</span><strong>132</strong></div>
+<div><span>Relationships</span><strong>72</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -124,6 +124,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-michael-mccoy-t-00-22-52" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-michael-mccoy-t-00-23-33" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27" style="--pulse-height:97%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 32 mentions" title="2026-10-08 · 32 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-michael-mccoy-t-00-20-49" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -216,6 +217,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-michael-mccoy-t-00-22-52) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-michael-mccoy-t-00-23-33) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27) | 32 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-michael-mccoy-t-00-20-49) | 1 |
 
 </details>
 </section>
@@ -227,7 +229,15 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (463)</strong></summary>
+<summary><strong class="section-title">Raw mentions (464)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:20:49](/episodes/ep-V-phmW9f0pM.md#ent-person-michael-mccoy-t-00-20-49)**
+> "...Salt Lake City because Mikey (Michael McCoy) and Catherine Castro, also a great team member o..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (32 mentions)</summary>
@@ -2382,7 +2392,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Worked With (2)</summary>
+<summary>Worked With (3)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2397,6 +2407,13 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:02:42](/episodes/ep-bIuvTKlFeGo.md#t-01-02-14): “And I'll tell you why this is interesting, because it's the first time Mikey McCoy (Michael McCoy) and Elizabeth (Elizabeth McCoy) join him and they capture what's going to be Elizabeth (Elizabeth McCoy) and Mikey (Michael McCoy) capture all this final footage of Charlie (Charlie Kirk) and Erika (Erika Kirk) that we're then going to be shown immediately after. It's not old footage. ... It's final footage from this trip.”
+
+</details>
+
+- **[Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49): “We all had to go from Orem where we were, you and I were just last week, we all had to go from there to Salt Lake City because Mikey (Michael McCoy) and Catherine Castro, also a great team member of TPUSA, arranged for J.D. Vance (JD Vance) to come and take Charlie (Charlie Kirk)'s body back to Phoenix.”
 
 </details>
 
@@ -2769,7 +2786,15 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (131)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (132)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said Michael McCoy and Catherine Castro, whom he described..."](/statements/statement-6697c2c1ad80.md)
+  - Also about: [Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md), [JD Vance](/entities/person-jd-vance.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (10)</summary>

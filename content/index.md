@@ -8,7 +8,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/threads">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
 </div>
 
-<p class="kg-freshness"><strong>181 sources</strong> · processed through <time datetime="2026-10-08">2026-10-08</time> · generated <time datetime="2026-10-13">2026-10-13</time></p>
+<p class="kg-freshness"><strong>182 sources</strong> · processed through <time datetime="2026-10-13">2026-10-13</time> · generated <time datetime="2026-10-14">2026-10-14</time></p>
 
 <section class="kg-thread-observatory" aria-labelledby="theory-watch-title">
 <header>
@@ -18,14 +18,25 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-thread-grid">
 <article class="kg-thread-card featured">
 <div class="thread-card-meta">
-<span>177 sources</span>
-<span>3868 reviewed turns</span>
-<time datetime="2026-10-08">2026-10-08</time>
+<span>178 sources</span>
+<span>3879 reviewed turns</span>
+<time datetime="2026-10-13">2026-10-13</time>
 </div>
 <h3><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h3>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>449</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,416</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>454</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,430</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open thread <span aria-hidden="true">→</span></a>
+</article>
+<article class="kg-thread-card">
+<div class="thread-card-meta">
+<span>1 source</span>
+<span>3 reviewed turns</span>
+<time datetime="2026-10-13">2026-10-13</time>
+</div>
+<h3><a href="/threads/thread-zacharia-legal-credentials-dispute">How the Zacharia legal-credentials objection narrowed</a></h3>
+<p>Tracks Owens&#x27;s law-degree challenge, Zacharia&#x27;s quoted practice-and-credentials defense, and Owens&#x27;s subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.</p>
+<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>3</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-zacharia-legal-credentials-dispute">Open thread <span aria-hidden="true">→</span></a>
 </article>
 <article class="kg-thread-card">
 <div class="thread-card-meta">
@@ -38,17 +49,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>5</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-owens-kirk-2019-feud-provenance">Open thread <span aria-hidden="true">→</span></a>
 </article>
-<article class="kg-thread-card">
-<div class="thread-card-meta">
-<span>2 sources</span>
-<span>2 reviewed turns</span>
-<time datetime="2026-10-05">2026-10-05</time>
-</div>
-<h3><a href="/threads/thread-gillette-pro-palestine-suppression-response">How the Gillette pro-Palestine suppression narrative changed</a></h3>
-<p>Tracks Owens’s account of Kraft excluding Macklemore and her later presentation of Zach Bryan’s same-stadium pro-Palestine performances as a response. It records the evolution of her suppression-versus-defiance narrative, without establishing venue policy, motives or attendance figures.</p>
-<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>1</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-gillette-pro-palestine-suppression-response">Open thread <span aria-hidden="true">→</span></a>
-</article>
 </div>
 </section>
 
@@ -56,23 +56,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-coverage-heading">
 <span class="research-kicker">Publication audit</span>
 <h2 id="coverage-title">Research coverage</h2>
-<p><strong>181 of 181</strong> published sources have completed every extraction stage.</p>
+<p><strong>182 of 182</strong> published sources have completed every extraction stage.</p>
 </div>
 <div class="kg-coverage-grid">
-<div><span>Transcript cleaned</span><strong>181 / 181</strong></div>
-<div><span>Entities extracted</span><strong>181 / 181</strong></div>
-<div><span>Statements extracted</span><strong>181 / 181</strong></div>
-<div><span>Events extracted</span><strong>181 / 181</strong></div>
-<div><span>Relationships extracted</span><strong>181 / 181</strong></div>
-<div><span>Theory threads reviewed</span><strong>181 / 181</strong></div>
+<div><span>Transcript cleaned</span><strong>182 / 182</strong></div>
+<div><span>Entities extracted</span><strong>182 / 182</strong></div>
+<div><span>Statements extracted</span><strong>182 / 182</strong></div>
+<div><span>Events extracted</span><strong>182 / 182</strong></div>
+<div><span>Relationships extracted</span><strong>182 / 182</strong></div>
+<div><span>Theory threads reviewed</span><strong>182 / 182</strong></div>
 </div>
 <p class="kg-coverage-complete">No published source has a known extraction-stage gap.</p>
 </section>
 
 <div class="kg-stat-grid">
-<div><strong>8,474</strong><span>Claims &amp; statements</span></div>
-<div><strong>5,137</strong><span>Tracked entities</span></div>
-<div><strong>2,081</strong><span>Timeline events</span></div>
+<div><strong>8,544</strong><span>Claims &amp; statements</span></div>
+<div><strong>5,176</strong><span>Tracked entities</span></div>
+<div><strong>2,095</strong><span>Timeline events</span></div>
 <div><strong>3,082</strong><span>Research sources</span></div>
 </div>
 
@@ -81,6 +81,11 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Ordered by source publication date, not editorial priority.</p>
 
 <div class="recent-source-list">
+<article>
+<time datetime="2026-10-13">2026-10-13</time>
+<a href="/episodes/ep-V-phmW9f0pM">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a>
+<span>Candace Owens</span>
+</article>
 <article>
 <time datetime="2026-10-08">2026-10-08</time>
 <a href="/episodes/ep-UAdBEXs7nNc">More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400</a>
@@ -101,11 +106,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <a href="/episodes/ep-ms5ChhZegRg">COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397</a>
 <span>Candace Owens</span>
 </article>
-<article>
-<time datetime="2026-10-01">2026-10-01</time>
-<a href="/episodes/ep-q4m-kGzvwjw">LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396</a>
-<span>Candace Owens</span>
-</article>
 </div>
 
 ## What changed
@@ -113,12 +113,12 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>57 recent mentions · +38 vs prior window</span></a>
-<a href="/entities/person-jeffrey-epstein"><strong>Jeffrey Epstein</strong><span>49 recent mentions · +30 vs prior window</span></a>
-<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>37 recent mentions · +28 vs prior window</span></a>
+<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>58 recent mentions · +42 vs prior window</span></a>
+<a href="/entities/person-val-peterson"><strong>Val L. Peterson</strong><span>29 recent mentions · +29 vs prior window</span></a>
+<a href="/entities/person-tyler-clancy"><strong>Tyler Clancy</strong><span>27 recent mentions · +27 vs prior window</span></a>
+<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>35 recent mentions · +26 vs prior window</span></a>
+<a href="/entities/concept-cardiopulmonary-resuscitation"><strong>Cardiopulmonary resuscitation</strong><span>24 recent mentions · +23 vs prior window</span></a>
 <a href="/entities/org-monsterlab-clipping-platform"><strong>MonsterLab (clipping platform)</strong><span>23 recent mentions · +23 vs prior window</span></a>
-<a href="/entities/gpe-las-vegas-nevada"><strong>Las Vegas, Nevada</strong><span>23 recent mentions · +23 vs prior window</span></a>
-<a href="/entities/person-blake-wynn"><strong>Blake Wynn</strong><span>22 recent mentions · +22 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes

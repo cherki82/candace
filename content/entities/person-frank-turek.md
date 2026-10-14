@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 366 mentions"
+description: "Frank Turek (People) - 370 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-50-38">2026-10-08 · 00:50:38</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>366</strong></div>
-<div><span>Statements by</span><strong>57</strong></div>
-<div><span>Statements about</span><strong>96</strong></div>
-<div><span>Relationships</span><strong>74</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-29-22">2026-10-13 · 00:29:22</a></strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>370</strong></div>
+<div><span>Statements by</span><strong>61</strong></div>
+<div><span>Statements about</span><strong>101</strong></div>
+<div><span>Relationships</span><strong>76</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -104,6 +104,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-22-11" style="--pulse-height:22%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 7 mentions" title="2026-10-05 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54" style="--pulse-height:9%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27" style="--pulse-height:44%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 14 mentions" title="2026-10-08 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-01" style="--pulse-height:12%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -177,6 +178,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-frank-turek-t-00-22-11) | 7 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54) | 3 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27) | 14 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-01) | 4 |
 
 </details>
 </section>
@@ -188,7 +190,24 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (366)</strong></summary>
+<summary><strong class="section-title">Raw mentions (370)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4 mentions)</summary>
+
+**[00:20:01](/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-01)**
+> "That a similar and potentially corroborating story was told by none other than Yankin Bankin Frank (Frank Turek). Yes, ladies and gentlemen, Frank Turek, with an ever so slight variation on the story that we heard, rather an excuse for why he did this, has already admitted that he gave his bloodied bag to a police officer to dispose."
+
+**[00:20:24](/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-24)**
+> "Frank (Frank Turek) has this way of getting ahead of things. Like, y..."
+
+**[00:23:03](/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-23-03)**
+> "...ck? There's a lot with Frank (Frank Turek)'s stories that don't really add up. I know we on..."
+
+**[00:29:22](/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-29-22)**
+> "...s not a part of the legend of Frank Turek, the legend of Brian Harpole."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (14 mentions)</summary>
@@ -1625,6 +1644,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared On (1)</summary>
+
+- **[Apostate Prophet (YouTube channel)](/entities/work-apostate-prophet-channel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:20:01](/episodes/ep-V-phmW9f0pM.md#t-00-20-01): “That a similar and potentially corroborating story was told by none other than Yankin Bankin Frank (Frank Turek). Yes, ladies and gentlemen, Frank Turek, with an ever so slight variation on the story that we heard, rather an excuse for why he did this, has already admitted that he gave his bloodied bag to a police officer to dispose. Frank (Frank Turek) has this way of getting ahead of things. Like, you go back, and I was like, I don't remember this at all. Baron (Baron Coleman) said, yeah, he said that recently. The exact date was April 9th, 2026. You can take a listen to what he said. It was on a podcast called the Apostate Prophet podcast. And again, this was recorded, this was released, rather, on April 9th, 2026. Take a listen.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Appeared With (7)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -1730,7 +1761,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1753,6 +1784,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02): “With Frank Turek, it's just amazing to me. I don't know how people can look at this person and think that after everything that we have seen, all of the stories running into one another, that he is A, honest, or that he is at all actually a pastor, that he cares about the truth. ... Whatsoever. How can you look at that man, think that he can't even tell the truth? As he gets to, he's like, 'We got to the hospital, and Dan Flood showed me the messages.' He's like, 'Actually, it was a couple days after that.' What? Like, what? How can you be so convinced of memory and so strong and then, like, quietly whisper in your breath, 'But actually, that's not the right memory. Let's just move on from that.' And after this report came out, how, how do you possess”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
 
 </details>
 
@@ -1997,7 +2029,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Referenced By (37)</summary>
+<summary>Referenced By (38)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2080,7 +2112,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -2103,6 +2135,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02): “With Frank Turek, it's just amazing to me. I don't know how people can look at this person and think that after everything that we have seen, all of the stories running into one another, that he is A, honest, or that he is at all actually a pastor, that he cares about the truth. ... Whatsoever. How can you look at that man, think that he can't even tell the truth? As he gets to, he's like, 'We got to the hospital, and Dan Flood showed me the messages.' He's like, 'Actually, it was a couple days after that.' What? Like, what? How can you be so convinced of memory and so strong and then, like, quietly whisper in your breath, 'But actually, that's not the right memory. Let's just move on from that.' And after this report came out, how, how do you possess”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
 
 </details>
 
@@ -2138,6 +2171,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
+
+</details>
+
+- **[Apostate Prophet (YouTube channel)](/entities/work-apostate-prophet-channel.md)** featured this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:20:01](/episodes/ep-V-phmW9f0pM.md#t-00-20-01): “That a similar and potentially corroborating story was told by none other than Yankin Bankin Frank (Frank Turek). Yes, ladies and gentlemen, Frank Turek, with an ever so slight variation on the story that we heard, rather an excuse for why he did this, has already admitted that he gave his bloodied bag to a police officer to dispose. Frank (Frank Turek) has this way of getting ahead of things. Like, you go back, and I was like, I don't remember this at all. Baron (Baron Coleman) said, yeah, he said that recently. The exact date was April 9th, 2026. You can take a listen to what he said. It was on a podcast called the Apostate Prophet podcast. And again, this was recorded, this was released, rather, on April 9th, 2026. Take a listen.”
 
 </details>
 
@@ -2301,7 +2341,24 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (57)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (61)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4)</summary>
+
+- [00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) [○] (Claim) ["Frank Turek said Michael McCoy and Catherine Castro, whom he described as a TPUS..."](/statements/statement-6697c2c1ad80.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [00:21:21](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) [○] (Claim) ["Frank Turek said the car used to take Charlie Kirk to the hospital was treated a..."](/statements/statement-e3e99dbba557.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:58](/episodes/ep-V-phmW9f0pM.md#t-00-21-58) [○] (Claim) ["Frank Turek said he found Charlie Kirk's missing necklace across his bag, refuse..."](/statements/statement-b0b4d55c99a4.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:22:45](/episodes/ep-V-phmW9f0pM.md#t-00-22-45) [○] (Claim) ["Frank Turek said he did not want Erika Kirk to see the bloodied bag and asked th..."](/statements/statement-ef07cc7f3349.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Erika Kirk](/entities/person-erika-kirk.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (11)</summary>
@@ -2605,7 +2662,27 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (96)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (101)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5)</summary>
+
+- [00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37) (Citation) **Candace Owens**: ["Owens said Baron Coleman drew her attention to a similar, potentially ..."](/statements/statement-67c23f5a60fe.md)
+  - Also about: [Baron Coleman](/entities/person-baron-coleman.md), [Apostate Prophet (YouTube channel)](/entities/work-apostate-prophet-channel.md)
+
+- [00:21:21](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said the car used to take Charlie Kirk to the hospital was..."](/statements/statement-e3e99dbba557.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:58](/episodes/ep-V-phmW9f0pM.md#t-00-21-58) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he found Charlie Kirk's missing necklace across his b..."](/statements/statement-b0b4d55c99a4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+- [00:22:45](/episodes/ep-V-phmW9f0pM.md#t-00-22-45) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he did not want Erika Kirk to see the bloodied bag an..."](/statements/statement-ef07cc7f3349.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+- [00:24:23](/episodes/ep-V-phmW9f0pM.md#t-00-23-44) (Opinion) **Candace Owens**: ["Owens said she was inclined to believe the police officer in the blood..."](/statements/statement-b246341fbcb6.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (14)</summary>

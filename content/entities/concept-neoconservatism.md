@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 36 mentions"
+description: "Neoconservatism (Concepts) - 38 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-neoconservatism-t-00-09-46">2025-11-12 · 00:09:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-neoconservatism-t-00-10-01">2026-09-30 · 00:10:22</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-concept-neoconservatism-t-00-34-50">2026-10-13 · 00:34:50</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -51,6 +51,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-neoconservatism-t-00-29-24" style="--pulse-height:30%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-neoconservatism-t-00-10-01" style="--pulse-height:10%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-concept-neoconservatism-t-00-03-26" style="--pulse-height:20%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01) | 1 |
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-neoconservatism-t-00-29-24) | 3 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-neoconservatism-t-00-10-01) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-concept-neoconservatism-t-00-03-26) | 2 |
 
 </details>
 </section>
@@ -78,7 +80,18 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:03:51](/episodes/ep-V-phmW9f0pM.md#ent-concept-neoconservatism-t-00-03-26)**
+> "...ap, gap. Another one of these neocon chihuahuas."
+
+**[00:34:50](/episodes/ep-V-phmW9f0pM.md#ent-concept-neoconservatism-t-00-34-50)**
+> "...aking the transition into the neocon movement."
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
@@ -273,7 +286,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Neoconservatism (5)</strong></summary>
+<summary><strong class="section-title">Statements about Neoconservatism (6)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) (Accusation) **Candace Owens**: ["Owens said she felt Karoline Leavitt was gaslighting and lying to the ..."](/statements/statement-ac7e81844d62.md)
+  - Also about: [Karoline Leavitt](/entities/person-karoline-leavitt.md), [MAGA movement](/entities/concept-maga-movement.md)
+
+</details>
 
 <details>
 <summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3420 mentions"
+description: "Erika Kirk (People) - 3432 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,12 +27,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-erika-kirk-t-00-51-47">2026-10-08 · 00:51:47</a></strong></div>
-<div><span>Episodes</span><strong>165</strong></div>
-<div><span>Mentions</span><strong>3,420</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-54-50">2026-10-13 · 00:55:08</a></strong></div>
+<div><span>Episodes</span><strong>166</strong></div>
+<div><span>Mentions</span><strong>3,432</strong></div>
 <div><span>Statements by</span><strong>133</strong></div>
-<div><span>Statements about</span><strong>1,184</strong></div>
-<div><span>Relationships</span><strong>384</strong></div>
+<div><span>Statements about</span><strong>1,189</strong></div>
+<div><span>Relationships</span><strong>386</strong></div>
 <div><span>Threads</span><strong>5</strong></div>
 </div>
 
@@ -205,6 +205,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-erika-kirk-t-00-00-43" style="--pulse-height:41%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 35 mentions" title="2026-10-06 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:23%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 20 mentions" title="2026-10-07 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:19%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 16 mentions" title="2026-10-08 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35" style="--pulse-height:14%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 12 mentions" title="2026-10-13 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -375,6 +376,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-erika-kirk-t-00-00-43) | 35 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-erika-kirk-t-00-00-01) | 20 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-erika-kirk-t-00-00-01) | 16 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35) | 12 |
 
 </details>
 </section>
@@ -390,7 +392,48 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3420)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3432)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (12 mentions)</summary>
+
+**[00:17:35](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35)**
+> "... Kirk) arrived. And then when Erika Kirk was due to land, it was time."
+
+**[00:18:01](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35)**
+> "...ther officer to escort Erika (Erika Kirk) from the airport."
+
+**[00:21:58](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-21-58)**
+> "...e and it came off, and Erika (Erika Kirk) had asked, where's his necklace? Because it wasn..."
+
+**[00:22:14](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-21-58)**
+> "...is. I'm giving this to Erika (Erika Kirk). She wants it, you know."
+
+**[00:22:45](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-22-45)**
+> "...o I just, I don't want Erika (Erika Kirk) to see the bag. I don't want her to see the bloo..."
+
+**[00:23:29](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-23-03)**
+> "...that. I'm giving it to Erika (Erika Kirk). Give me that. This goes with me."
+
+**[00:39:34](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-39-34)**
+> "...g into a hole. It's like with Erika Kirk, when Erika Kirk says that, you know, she was in ..."
+
+**[00:39:49](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-39-34)**
+> "...It's hard to confirm that Dr. Erika Kirk."
+
+**[00:40:13](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-40-13)**
+> "...rsity, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm wh..."
+
+**[00:52:54](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-52-26)**
+> "...ed a journalist to ask Erika (Erika Kirk). I know Ben [comment-read referent unverified] d..."
+
+**[00:53:03](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-53-03)**
+> "...you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, ob..."
+
+**[00:55:08](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-54-50)**
+> "...ry is being coached by Erika (Erika Kirk). Her advice is to throw a bunch of words in a pr..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (16 mentions)</summary>
@@ -11840,7 +11883,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Attended (6)</summary>
+<summary>Attended (7)</summary>
 
 - **[Arizona State University](/entities/org-arizona-state-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -11883,6 +11926,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19): “It is that specific school that Erica (Erika Kirk) attended that is virtually impossible to come by many documents regarding.”
+
+</details>
+
+- **[Pepperdine University](/entities/org-pepperdine-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:40:13](/episodes/ep-V-phmW9f0pM.md#t-00-40-13): “At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University.”
 
 </details>
 
@@ -12098,7 +12148,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (14)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (78)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -12178,6 +12228,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:11:52](/episodes/ep-ms5ChhZegRg.md#t-00-11-44): “They can't see how perfect and godly Erika (Erika Kirk) is because the internet has created the social contagion. The problem is not that Erika (Erika Kirk) keeps getting caught in lie after lie. ... The problem is not that she's unconvincing, that her grief is unconvincing. The problem is that women are internetting.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 
 </details>
 
@@ -13520,10 +13571,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Vanity Fair](/entities/org-vanity-fair.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:44:34](/episodes/ep-O4Zw3bCALjU.md#t-00-44-28): “I also want to say that I think it was a couple of months ago I clocked that Erika (Erika Kirk) was working on some big hit piece. Vanity Fair, because I know Charlie (Charlie Kirk) would have loved to work with Vanity Fair. It's like her pursuit for fame is never-ending. And I tweeted that this piece was going to be dropping, and for whatever reason Blake Neff decided to bookmark the tweet as if I was lying. I said, 'They're going to put her in a spread for Vanity Fair with her children to pull in our heartstrings. Save this tweet; it will age well.' And then Blake Neff replied and bookmarked the tweet. And I'm glad he did that because I was contacted by Vanity Fair over the weekend and the article is going to be released imminently. They basically asked me if I'd like to comment, but said that my comment doesn't actually matter because they fact-checked everything. So I think we should expect another digital assassin piece a la Vanity Fair this time as Erika (Erika Kirk) continues to work with people who her husband would have never worked with to, I don't know, aspire toward being Being seen in a positive light when I think both the left and the right firmly reject her and with good reason we firmly reject Erika (Erika Kirk) because everything she is doing is a 180 to what her husband stood for.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit. ... Hats off to Clara (Clara Molot). I actually can't believe Turning Point USA agreed to grant four months of access to this reporter.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 
 </details>
 
@@ -13558,7 +13610,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (181)</summary>
+<summary>Referenced By (182)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (26)</summary>
@@ -13831,6 +13883,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Pepperdine University](/entities/org-pepperdine-university.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:40:13](/episodes/ep-V-phmW9f0pM.md#t-00-40-13): “At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University.”
+
+</details>
+
 - **[Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)** birthplace of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -13906,7 +13965,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (78)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -13986,6 +14045,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:11:52](/episodes/ep-ms5ChhZegRg.md#t-00-11-44): “They can't see how perfect and godly Erika (Erika Kirk) is because the internet has created the social contagion. The problem is not that Erika (Erika Kirk) keeps getting caught in lie after lie. ... The problem is not that she's unconvincing, that her grief is unconvincing. The problem is that women are internetting.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 
 </details>
 
@@ -15936,7 +15996,26 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (1184)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (1189)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5)</summary>
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) (Claim) **Candace Owens** (via paraphrase): ["Owens alleged Tyler Clancy was dispatched from Timpanogos with another..."](/statements/statement-62265c891060.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:21:58](/episodes/ep-V-phmW9f0pM.md#t-00-21-58) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he found Charlie Kirk's missing necklace across his b..."](/statements/statement-b0b4d55c99a4.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+- [00:22:45](/episodes/ep-V-phmW9f0pM.md#t-00-22-45) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he did not want Erika Kirk to see the bloodied bag an..."](/statements/statement-ef07cc7f3349.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) (Accusation) **Candace Owens**: ["Owens alleged that Erika Kirk does not author her own tweets."](/statements/statement-5bc8397106df.md)
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterized Erika Kirk's explanation for sitting down with Van..."](/statements/statement-2aab6ec694ce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Vanity Fair](/entities/org-vanity-fair.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (7)</summary>

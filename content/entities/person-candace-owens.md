@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2911 mentions"
+description: "Candace Owens (People) - 2927 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,13 +23,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-candace-owens-t-00-54-33">2026-10-08 · 00:54:33</a></strong></div>
-<div><span>Episodes</span><strong>181</strong></div>
-<div><span>Mentions</span><strong>2,911</strong></div>
-<div><span>Statements by</span><strong>5,814</strong></div>
-<div><span>Statements about</span><strong>819</strong></div>
-<div><span>Relationships</span><strong>1,082</strong></div>
-<div><span>Threads</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-55-35">2026-10-13 · 00:56:04</a></strong></div>
+<div><span>Episodes</span><strong>182</strong></div>
+<div><span>Mentions</span><strong>2,927</strong></div>
+<div><span>Statements by</span><strong>5,866</strong></div>
+<div><span>Statements about</span><strong>826</strong></div>
+<div><span>Relationships</span><strong>1,088</strong></div>
+<div><span>Threads</span><strong>7</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -217,6 +217,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-candace-owens-t-00-00-01" style="--pulse-height:43%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 26 mentions" title="2026-10-06 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-candace-owens-t-00-03-08" style="--pulse-height:13%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 8 mentions" title="2026-10-07 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-candace-owens-t-00-00-01" style="--pulse-height:18%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 11 mentions" title="2026-10-08 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 16 mentions" title="2026-10-13 · 16 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -403,6 +404,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-candace-owens-t-00-00-01) | 26 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-candace-owens-t-00-03-08) | 8 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-candace-owens-t-00-00-01) | 11 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11) | 16 |
 
 </details>
 </section>
@@ -415,11 +417,65 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [How the AmFest suit-fit explanation was disputed](/threads/thread-erika-amfest-suit-fit-dispute) — Tracks Erika Kirk’s quoted explanation that only the sparkly suit fit and Owens’s later rebuttal using other public outfits; it does not establish what fit on the day.
 - [How Kirk Telegram account attribution became uncertain](/threads/thread-kirk-telegram-account-attribution) — Tracks a viewer’s matching-contact observation and Owens’s shared-account alternative in Episode 396. The progression concerns attribution of displayed messages; account ownership, authorship and message authenticity remain unverified.
 - [How the Gillette pro-Palestine suppression narrative changed](/threads/thread-gillette-pro-palestine-suppression-response) — Tracks Owens’s account of Kraft excluding Macklemore and her later presentation of Zach Bryan’s same-stadium pro-Palestine performances as a response. It records the evolution of her suppression-versus-defiance narrative, without establishing venue policy, motives or attendance figures.
+- [How the Zacharia legal-credentials objection narrowed](/threads/thread-zacharia-legal-credentials-dispute) — Tracks Owens's law-degree challenge, Zacharia's quoted practice-and-credentials defense, and Owens's subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2911)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2927)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (16 mentions)</summary>
+
+**[00:00:11](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11)**
+> "Candace Owens has been caught in a lie. I didn't want to do thi..."
+
+**[00:00:26](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11)**
+> "[Archival Candace Owens clip] We will see you guys on Monday. [Live Canda..."
+
+**[00:02:18](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-02-18)**
+> "...w mysterious. Welcome back to Candace."
+
+**[00:02:50](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-02-18)**
+> "...ng to become famous by hating Candace Owens. What a weird thing."
+
+**[00:02:59](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-02-59)**
+> "...g to become famous for hating Candace Owens. I'm going to be the anti-Candace."
+
+**[00:30:27](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-30-02)**
+> "...sessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowe..."
+
+**[00:30:49](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-30-40)**
+> "...nt today at pdsdebt.com slash candace. Again, that's pdsdebt.com slash candace."
+
+**[00:32:30](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-32-03)**
+> "...ff your first order with code Candace at checkout."
+
+**[00:32:39](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-32-03)**
+> "...ey.com and use Use promo code Candace at checkout."
+
+**[00:37:28](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-37-17)**
+> "I am Candace Owens. I would like to thank President Trump (Donald Tr..."
+
+**[00:47:45](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-47-24)**
+> "..., head to sentryh2o.com slash Candace and get 10% off your order."
+
+**[00:47:54](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-47-24)**
+> "...t. That's sentryh2o.com slash candace for 10% off your order."
+
+**[00:49:55](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-47-24)**
+> "[Candace Owens, interrupting] You [Tim Dillon, continuing] have ..."
+
+**[00:51:54](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-51-54)**
+> "Candace. Thank you so much. Fozzie Bear writes, more peop..."
+
+**[00:54:50](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-54-50)**
+> "...ow. Sam, it writes blessings, Candace Owens for the beautiful new light that you are bringing..."
+
+**[00:56:04](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-55-35)**
+> "...s pregnant. Lola Wild writes, Candace, you are the bravest journalist alive."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (11 mentions)</summary>
@@ -9738,7 +9794,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (48)</summary>
+<summary>Accused (49)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -10186,6 +10242,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:19:22](/episodes/ep-ms5ChhZegRg.md#t-00-19-22): “My honest opinion is that it's because ultimately they are going to seek to regulate the Internet because of the failure, the astonishing failure of the Pentagon to cover their own tracks regarding the assassination of Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right?”
 
 </details>
 
@@ -10659,7 +10722,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (138)</summary>
+<summary>Criticized (140)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -10757,7 +10820,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (78)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -10837,6 +10900,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:11:52](/episodes/ep-ms5ChhZegRg.md#t-00-11-44): “They can't see how perfect and godly Erika (Erika Kirk) is because the internet has created the social contagion. The problem is not that Erika (Erika Kirk) keeps getting caught in lie after lie. ... The problem is not that she's unconvincing, that her grief is unconvincing. The problem is that women are internetting.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 
 </details>
 
@@ -10980,7 +11044,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -10997,6 +11061,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:29:55](/episodes/ep-ms5ChhZegRg.md#t-00-29-55): “This feels significant enough that we need a concrete answer as to who performed CPR, who met Charlie (Charlie Kirk)'s SUV at the hospital and performed CPR and then gave amnesia to Frank Turek and Brian Harpole about this act. ... That's what happened. They both suddenly descended into amnesia and they both remember no one remembers no CPR remembers CPR in the last 30 seconds, but none of them remember a fire captain who gave CPR to Charlie (Charlie Kirk). ... Again, I find that to be unbelievable.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
 
 </details>
 
@@ -11015,7 +11080,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -11038,6 +11103,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02): “With Frank Turek, it's just amazing to me. I don't know how people can look at this person and think that after everything that we have seen, all of the stories running into one another, that he is A, honest, or that he is at all actually a pastor, that he cares about the truth. ... Whatsoever. How can you look at that man, think that he can't even tell the truth? As he gets to, he's like, 'We got to the hospital, and Dan Flood showed me the messages.' He's like, 'Actually, it was a couple days after that.' What? Like, what? How can you be so convinced of memory and so strong and then, like, quietly whisper in your breath, 'But actually, that's not the right memory. Let's just move on from that.' And after this report came out, how, how do you possess”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
 
 </details>
 
@@ -11140,7 +11206,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (43)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -11184,6 +11250,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:19](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “And Blake (Blake Neff), who thought he was just being so funny, decided to add that tweet to his bookmarks. Well, Blakey (Blake Neff), you can, you can remove that from your bookmarks. You guys are forever gaslighting me and my sources, but yes, Erica (Erika Kirk)'s profile was at long last dropped. And we should just begin with the headline photo because it is something. It is something, this photo. I don't know why she can never just be normal and do normal things.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:28](/episodes/ep-yrg_-D6oNHE.md#t-00-04-28): “They're just going to gaslight us. They tried to gaslight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). Why would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking that way? A lot of allegations you're throwing out. I'm back to hating white people again or something. I hate pretty women. I hate white women. He's just whatever will stick. Also, he's admitted that he's never met me, so he has no idea. idea how I treat people around me. He has no evidence of anything he's saying, given the fact that my assistant lasted six years, actually, the one that we were just trying to replace and also my other assistant lasted five years and went on to become my manager.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:54](/episodes/ep-UAdBEXs7nNc.md#t-00-51-47): “He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43): “I only noted the time and the National Guard presence, generally speaking, all throughout Salt Lake City because there was that, remember that lost bald guy, diva, Blakey Poo (Blake Neff) girlfriend who for whatever reason could not remember where he was in Salt Lake City or who he was with. And Blake (Blake Neff) said he was just, he didn't go with Charlie (Charlie Kirk) to the event, but he was marking time, interesting way to phrase that, marking time.”
 
 </details>
 
@@ -11453,9 +11520,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Karoline Leavitt](/entities/person-karoline-leavitt.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:58:16](/episodes/ep-69A8TzAGHlU.md#t-00-58-16): “I don't feel threatened by that. OK, you have a right to think racist thoughts. Now, I happen to genuinely not be a racist, but if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight full fire, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to violence. Take a listen.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50): “Then we got Karoline Leavitt in 2.0 and I just felt that she was gaslighting us at all times like lying the whole time and it felt different and the MAGA movement felt different and we were kind of making the transition into the neocon movement.”
 
 </details>
 
@@ -12115,6 +12183,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:42:33](/episodes/ep-ms5ChhZegRg.md#t-00-42-33): “In 2018, in which Howard Lutnick, a email chain from 2018, pardon, in which Howard Lutnick and Jeffrey Epstein had discussed prospects of a startup business they were both involved in. ... So again, Jeffrey Epstein having been found guilty of and striking up a deal down in Palm Beach for having sexually abused children did not stop Howard Lutnick from wanting to work with him. ... He wanted to start a business with him in 2018. ... I mean, that's just stunning to me. This is a story to pay attention to. They are saying, but it is a suicide, obviously is remarkably suspicious suicide.”
+
+</details>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right? A couple of thoughts here. My first thought was, what officer in their right mind would dispose of a bloodied item? Rather than moving it immediately into evidence on the day of the biggest assassination since JFK (John F. Kennedy), especially while the killer is still actively on the loose. We don't have any information. We don't know if Charlie (Charlie Kirk) was set up by those around him. We don't know if the killer, even if he is caught, was acting alone. We don't know anything. It just seems like an extraordinary thing to just dispose of a bloodied item as an officer.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
 
 </details>
 
@@ -12807,11 +12889,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Employs (6)</summary>
 
 - **[Schuyler Pryor](/entities/person-schuyler-pryor.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I heard from Skylar, my executive producer, this morning via text”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:54:14](/episodes/ep-X3VKJVJ7cN4.md#t-00-54-14): “I just, I'm not interested. I'm going to force my producers to watch it and tell me about it. Sorry, guys. I'm really sorry. Skylar (Schuyler Pryor) is having a really rough week. We're making him do all sorts of things.”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:42:45](/episodes/ep-czVBmqZP6Ss.md#t-00-42-33): “So let me just skip off of that because, Skylar, we should actually look to research that.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:01:14](/episodes/ep-V-phmW9f0pM.md#t-00-00-57): “I mean, it was an absolute mess. I want you guys to know right at the top here, it was Skylar (Schuyler Pryor)'s fault. Skylar (Schuyler Pryor), the producer, right as soon as I said, we'll see you on Monday, we went off air. He went, no, Tuesday.”
 
 </details>
 
@@ -12869,7 +12952,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Nimi Skincare](/entities/org-nimi-skincare.md)**
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -12899,6 +12982,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:44:15](/episodes/ep-q4m-kGzvwjw.md#t-00-44-15): “The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to nimiskincare.com and use my code CANDACE10 at checkout for a discount. Again, that's nimiskincare.com with code CANDACE10 at checkout.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:49:54](/episodes/ep-ms5ChhZegRg.md#t-00-49-29): “I love finding products that actually are in a permanent spot in my routine and Nimi has definitely done that for me. ... So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code candace10 at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:26:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-02): “That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with. With clean ingredients and tallow as the star, their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. So there's now something for every part of your routine. The tallow sugar scrub gently buffs away dry, rough skin. The tallow body butter gives you rich hydration without that heavy greasy feeling. And the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. Stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use code Candace10 at checkout for a discount. That's NIMIskincare.com with code Candace10 at checkout.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:31:23](/episodes/ep-V-phmW9f0pM.md#t-00-31-23): “Scrub, which gently buffs away dry, rough skin; the tallow body butter, which gives you rich hydration without that heavy, greasy feeling; and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. And I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use my code Candace10 at checkout for it, but for a discount,”
 
 </details>
 
@@ -12946,7 +13030,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (54)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (55)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -13002,6 +13086,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:54:54](/episodes/ep-0pSAhaAZz1w.md#t-00-54-26): “What used to cost $20 is now closer to $40 or $50. Of course, if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American Financing, but maybe hesitated because you remembered you're currently enjoying a low mortgage rate. But hang on to that low rate doesn't actually help if the high interest credit cards are eating up your monthly income. That's where the numbers can actually shift in your favor. American Financing can help you use your hard-earned equity to wipe out high-interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American Financing. There are no upfront fees, no pressure, and no costs to find out your potential monthly savings. Plus, starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, that's Americanfinancing.net slash Owens.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:42:24](/episodes/ep-yrg_-D6oNHE.md#t-00-42-09): “T-R-Y-H-2-O dot com slash Candace. I also want to remind you guys about American financing because simple cheap things like fast food stops with the family have become out of control expensive. ... What used to cost $20 is now closer to $40 or $50. And if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American financing, but maybe hesitated because you remembered that you're enjoying a low mortgage rate. ... But hanging on to a low rate doesn't actually help if high interest credit cards are eating up your money. ... your monthly income. And that's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners who are saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure, and no costs to find out your potential monthly savings, while starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit americanfinancing.net slash owens. Again, that's americanfinancing.net slash owens.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -13109,7 +13194,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PDS Debt](/entities/org-pds-debt.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -13120,6 +13205,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:11](/episodes/ep-NNiCZk1cuzs.md#t-00-32-04): “They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans, and medical bills. ... So get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:30:20](/episodes/ep-V-phmW9f0pM.md#t-00-30-02): “They're actually designed to keep you stuck. PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowered monthly payment.”
 
 </details>
 
@@ -13229,7 +13315,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Paleovalley](/entities/org-paleovalley.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
@@ -13243,6 +13329,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:52:23](/episodes/ep-aLJhpxrakCU.md#t-00-52-10): “I don't know. It's weird. It's all very weird. We'll be right back after a brief break. All right, you guys, I feel like fall has officially arrived at our house and I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They have these pumpkin spice superfood bars. And for someone like me who is constantly on the go, they are very convenient between getting out the door, running around with kids, this show and everything else that fills up my day. I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. about. It's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code CANDACE at checkout.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:28:20](/episodes/ep-6XfDqKTdFKg.md#t-00-28-13): “Again, that's twc.health slash Candace. And you know I love Paleovalley snacks. I feel like fall has officially arrived at our house and I'm not mad about it, I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They had these pumpkin spice superfood bars, and for someone like me who is constantly on the go, they are very convenient. Between getting out the door, running around with the kids, this show, and everything else that fills up a day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make me happy. That make this time of year feel extra special. So if you are looking for easy, convenient options to keep on hand while life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:25:17](/episodes/ep-yrg_-D6oNHE.md#t-00-25-17): “And you know I have to tell you guys about Paleovalley. I love them. I feel like the fall season has officially begun and I am definitely not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They've now added pumpkin spice superfood bars to their lineup. And for someone like me who is constantly on the go, their snacks are so convenient. Between getting out of the door, running around with my kids, the show, everything else that fills up my day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on. Keep on hand when life gets busy, head to paleovalley.com and get 20% off your order if you use code CANDACE at checkout. That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:32:30](/episodes/ep-V-phmW9f0pM.md#t-00-32-03): “So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 
 </details>
 
@@ -13386,9 +13473,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Sentry H2O](/entities/org-sentry-h2o.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:41:53](/episodes/ep-yrg_-D6oNHE.md#t-00-41-31): “That's why I love Sentry H2O in our home. I love it because it has changed the way that I think about what's in my house and what my family is drinking. ... drinking every single day. Sentry H2O is a water wellness system designed to provide clean water straight from your existing faucets while maintaining beneficial minerals and supporting alkalinity. ... Their filtration system is uniquely designed to rid your water of contaminants, including parasites and bacteria. You can take action today to learn more about your water and make a better choice for your family. Head to sentryh2o.com slash Candace. That's S-E-N.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:47:18](/episodes/ep-V-phmW9f0pM.md#t-00-46-52): “Gratefully, I partner with Sentry H2O and they have a water wellness system that will transform your health.”
 
 </details>
 
@@ -13908,9 +13996,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Host Of (1)</summary>
 
 - **[Candace (podcast)](/entities/work-candace-podcast-series.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:08:50](/episodes/ep-_2DiIbfy4mU.md#t-00-08-50): “Is it Waluigi tall? I'm observing with my eyes here, by the way. So this is my show, my podcast. I'm going to say what I believe that I see.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:02:18](/episodes/ep-V-phmW9f0pM.md#t-00-02-18): “And it involves an army general, a cop, and a bloodied bag on September 10th. How mysterious. Welcome back to Candace.”
 
 </details>
 
@@ -14043,11 +14132,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Hunter Biden](/entities/person-hunter-biden.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:47:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-46-32): “Everyone hating right now for you interviewing Hunter Biden is most likely still bootlicking Trump by proxy, Bibi (Benjamin Netanyahu).”
 - [Candace x Hunter Biden: The Interview @ 00:00:00](/episodes/ep-Ux1kzgQxkws.md#t-00-00-00): “Hunter Biden, welcome to the Candace Owens Show.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:45:44](/episodes/ep-BxN2-aeMYIs.md#t-00-45-44): “Hi, Candace. ... your talks with Hunter was possibly your best guest show yet.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07): “I mean, this reminds me of sitting down with Hunter Biden. He agreed to do crack at a Motel 8, Motel 7, whatever it was.”
 
 </details>
 
@@ -14175,9 +14265,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Theo Von](/entities/person-theo-von.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:47:56](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “They have she who must not be named for everyone who watched My Sit Down with Theo Von. We had such a great time. I think like already over 2 million people have watched it and just been up for two days.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:56:04](/episodes/ep-V-phmW9f0pM.md#t-00-55-35): “I could do no wrong, especially this pregnant. Lola Wild writes, Candace, you are the bravest journalist alive. I loved your Theo Von interview. Guys, like 3.5 million of you have watched an interview. I think it's like his biggest interview of the year. It's on track to be at least.”
 
 </details>
 
@@ -14536,11 +14627,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Baron Coleman](/entities/person-baron-coleman.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:44:34](/episodes/ep-NNiCZk1cuzs.md#t-00-44-28): “Picture of Empress Films at this time. That's what I'd like to know. Just seems weird to me, and I find that a little bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is weird, very weird, and I don't know why it's weird, but it just feels weird for some reason. When you are just running a clothing company, like, were they going to do a documentary on Erika (Erika Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I don't know. Doesn't register to me as correct.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:00:34](/episodes/ep-_Sq5RqP27NY.md#t-00-00-01): “I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot because I think it really does help.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37): “Mostly I'm inclined to believe it, though, because when I mentioned this to Baron Coleman at a separate time, he brought to my attention. That a similar and potentially corroborating story was told by none other than Yankin Bankin Frank (Frank Turek). Yes, ladies and gentlemen, Frank Turek, with an ever so slight variation on the story that we heard, rather an excuse for why he did this, has already admitted that he gave his bloodied bag to a police officer to dispose. Frank (Frank Turek) has this way of getting ahead of things. Like, you go back, and I was like, I don't remember this at all. Baron (Baron Coleman) said, yeah, he said that recently. The exact date was April 9th, 2026. You can take a listen to what he said. It was on a podcast called the Apostate Prophet podcast. And again, this was recorded, this was released, rather, on April 9th, 2026. Take a listen.”
 
 </details>
 
@@ -15206,7 +15298,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (530)</summary>
+<summary>Referenced By (533)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -15772,6 +15864,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:19:22](/episodes/ep-ms5ChhZegRg.md#t-00-19-22): “My honest opinion is that it's because ultimately they are going to seek to regulate the Internet because of the failure, the astonishing failure of the Pentagon to cover their own tracks regarding the assassination of Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right?”
 
 </details>
 
@@ -16494,7 +16593,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (78)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -16574,6 +16673,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:11:52](/episodes/ep-ms5ChhZegRg.md#t-00-11-44): “They can't see how perfect and godly Erika (Erika Kirk) is because the internet has created the social contagion. The problem is not that Erika (Erika Kirk) keeps getting caught in lie after lie. ... The problem is not that she's unconvincing, that her grief is unconvincing. The problem is that women are internetting.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 
 </details>
 
@@ -16716,7 +16816,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -16733,6 +16833,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:29:55](/episodes/ep-ms5ChhZegRg.md#t-00-29-55): “This feels significant enough that we need a concrete answer as to who performed CPR, who met Charlie (Charlie Kirk)'s SUV at the hospital and performed CPR and then gave amnesia to Frank Turek and Brian Harpole about this act. ... That's what happened. They both suddenly descended into amnesia and they both remember no one remembers no CPR remembers CPR in the last 30 seconds, but none of them remember a fire captain who gave CPR to Charlie (Charlie Kirk). ... Again, I find that to be unbelievable.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
 
 </details>
 
@@ -16751,7 +16852,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -16774,6 +16875,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:38:02](/episodes/ep-ms5ChhZegRg.md#t-00-38-02): “With Frank Turek, it's just amazing to me. I don't know how people can look at this person and think that after everything that we have seen, all of the stories running into one another, that he is A, honest, or that he is at all actually a pastor, that he cares about the truth. ... Whatsoever. How can you look at that man, think that he can't even tell the truth? As he gets to, he's like, 'We got to the hospital, and Dan Flood showed me the messages.' He's like, 'Actually, it was a couple days after that.' What? Like, what? How can you be so convinced of memory and so strong and then, like, quietly whisper in your breath, 'But actually, that's not the right memory. Let's just move on from that.' And after this report came out, how, how do you possess”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
 
 </details>
 
@@ -16876,7 +16978,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (43)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -16920,6 +17022,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:03:19](/episodes/ep-5TTkMa49qj8.md#t-00-03-19): “And Blake (Blake Neff), who thought he was just being so funny, decided to add that tweet to his bookmarks. Well, Blakey (Blake Neff), you can, you can remove that from your bookmarks. You guys are forever gaslighting me and my sources, but yes, Erica (Erika Kirk)'s profile was at long last dropped. And we should just begin with the headline photo because it is something. It is something, this photo. I don't know why she can never just be normal and do normal things.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:04:28](/episodes/ep-yrg_-D6oNHE.md#t-00-04-28): “They're just going to gaslight us. They tried to gaslight us there. No, no, Blake (Blake Neff), you said that I hated Erika (Erika Kirk) for murdering Charlie (Charlie Kirk). Why would you say that, Blake (Blake Neff)? Why would you say that? Why are you thinking that way? A lot of allegations you're throwing out. I'm back to hating white people again or something. I hate pretty women. I hate white women. He's just whatever will stick. Also, he's admitted that he's never met me, so he has no idea. idea how I treat people around me. He has no evidence of anything he's saying, given the fact that my assistant lasted six years, actually, the one that we were just trying to replace and also my other assistant lasted five years and went on to become my manager.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:54](/episodes/ep-UAdBEXs7nNc.md#t-00-51-47): “He does. He's a little, that's the right word. Blake (Blake Neff) is flamboyant. He's just a girl from the Valley and he wants to gossip with the girls. He is obviously not somebody who could ever take over the Charlie Kirk Show.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43): “I only noted the time and the National Guard presence, generally speaking, all throughout Salt Lake City because there was that, remember that lost bald guy, diva, Blakey Poo (Blake Neff) girlfriend who for whatever reason could not remember where he was in Salt Lake City or who he was with. And Blake (Blake Neff) said he was just, he didn't go with Charlie (Charlie Kirk) to the event, but he was marking time, interesting way to phrase that, marking time.”
 
 </details>
 
@@ -17189,9 +17292,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Karoline Leavitt](/entities/person-karoline-leavitt.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:58:16](/episodes/ep-69A8TzAGHlU.md#t-00-58-16): “I don't feel threatened by that. OK, you have a right to think racist thoughts. Now, I happen to genuinely not be a racist, but if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight full fire, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to violence. Take a listen.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50): “Then we got Karoline Leavitt in 2.0 and I just felt that she was gaslighting us at all times like lying the whole time and it felt different and the MAGA movement felt different and we were kind of making the transition into the neocon movement.”
 
 </details>
 
@@ -17854,6 +17958,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right? A couple of thoughts here. My first thought was, what officer in their right mind would dispose of a bloodied item? Rather than moving it immediately into evidence on the day of the biggest assassination since JFK (John F. Kennedy), especially while the killer is still actively on the loose. We don't have any information. We don't know if Charlie (Charlie Kirk) was set up by those around him. We don't know if the killer, even if he is caught, was acting alone. We don't know anything. It just seems like an extraordinary thing to just dispose of a bloodied item as an officer.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
+
+</details>
+
 - **[Shmuley Boteach](/entities/person-shmuley-boteach.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -18149,7 +18267,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Nimi Skincare](/entities/org-nimi-skincare.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -18179,6 +18297,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:44:15](/episodes/ep-q4m-kGzvwjw.md#t-00-44-15): “The tallow body butter gives you rich hydration without that heavy, greasy feeling, and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to nimiskincare.com and use my code CANDACE10 at checkout for a discount. Again, that's nimiskincare.com with code CANDACE10 at checkout.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:49:54](/episodes/ep-ms5ChhZegRg.md#t-00-49-29): “I love finding products that actually are in a permanent spot in my routine and Nimi has definitely done that for me. ... So head to nimiskincare.com and use my code Candace10 at checkout for a discount. That's nimiskincare.com with code candace10 at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:26:02](/episodes/ep-yrg_-D6oNHE.md#t-00-26-02): “That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with. With clean ingredients and tallow as the star, their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA. So there's now something for every part of your routine. The tallow sugar scrub gently buffs away dry, rough skin. The tallow body butter gives you rich hydration without that heavy greasy feeling. And the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera so it cleanses without leaving your skin feeling stripped. Stripped. I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use code Candace10 at checkout for a discount. That's NIMIskincare.com with code Candace10 at checkout.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:31:23](/episodes/ep-V-phmW9f0pM.md#t-00-31-23): “Scrub, which gently buffs away dry, rough skin; the tallow body butter, which gives you rich hydration without that heavy, greasy feeling; and the tallow heritage balm is their richest formula yet for those extra dry areas. They've also updated their nourishing body wash with aloe vera, so it cleanses without leaving your skin feeling stripped. And I love finding products that actually earn a permanent spot in my routine, and Nimi has definitely done that for me. So head to NIMIskincare.com and use my code Candace10 at checkout for it, but for a discount,”
 
 </details>
 
@@ -18226,7 +18345,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (54)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (55)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -18282,6 +18401,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:54:54](/episodes/ep-0pSAhaAZz1w.md#t-00-54-26): “What used to cost $20 is now closer to $40 or $50. Of course, if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American Financing, but maybe hesitated because you remembered you're currently enjoying a low mortgage rate. But hang on to that low rate doesn't actually help if the high interest credit cards are eating up your monthly income. That's where the numbers can actually shift in your favor. American Financing can help you use your hard-earned equity to wipe out high-interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American Financing. There are no upfront fees, no pressure, and no costs to find out your potential monthly savings. Plus, starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, that's Americanfinancing.net slash Owens.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:42:24](/episodes/ep-yrg_-D6oNHE.md#t-00-42-09): “T-R-Y-H-2-O dot com slash Candace. I also want to remind you guys about American financing because simple cheap things like fast food stops with the family have become out of control expensive. ... What used to cost $20 is now closer to $40 or $50. And if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American financing, but maybe hesitated because you remembered that you're enjoying a low mortgage rate. ... But hanging on to a low rate doesn't actually help if high interest credit cards are eating up your money. ... your monthly income. And that's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners who are saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure, and no costs to find out your potential monthly savings, while starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit americanfinancing.net slash owens. Again, that's americanfinancing.net slash owens.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -18389,7 +18509,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PDS Debt](/entities/org-pds-debt.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -18400,6 +18520,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:11](/episodes/ep-NNiCZk1cuzs.md#t-00-32-04): “They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans, and medical bills. ... So get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:30:20](/episodes/ep-V-phmW9f0pM.md#t-00-30-02): “They're actually designed to keep you stuck. PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowered monthly payment.”
 
 </details>
 
@@ -18509,7 +18630,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Paleovalley](/entities/org-paleovalley.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
@@ -18523,6 +18644,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:52:23](/episodes/ep-aLJhpxrakCU.md#t-00-52-10): “I don't know. It's weird. It's all very weird. We'll be right back after a brief break. All right, you guys, I feel like fall has officially arrived at our house and I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They have these pumpkin spice superfood bars. And for someone like me who is constantly on the go, they are very convenient between getting out the door, running around with kids, this show and everything else that fills up my day. I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. about. It's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code CANDACE at checkout.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:28:20](/episodes/ep-6XfDqKTdFKg.md#t-00-28-13): “Again, that's twc.health slash Candace. And you know I love Paleovalley snacks. I feel like fall has officially arrived at our house and I'm not mad about it, I'm not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They had these pumpkin spice superfood bars, and for someone like me who is constantly on the go, they are very convenient. Between getting out the door, running around with the kids, this show, and everything else that fills up a day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make me happy. That make this time of year feel extra special. So if you are looking for easy, convenient options to keep on hand while life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:25:17](/episodes/ep-yrg_-D6oNHE.md#t-00-25-17): “And you know I have to tell you guys about Paleovalley. I love them. I feel like the fall season has officially begun and I am definitely not mad about it, especially because Paleovalley just launched some of my favorite seasonal flavors. They've now added pumpkin spice superfood bars to their lineup. And for someone like me who is constantly on the go, their snacks are so convenient. Between getting out of the door, running around with my kids, the show, everything else that fills up my day, I love having something easy that I can grab and take with me. And these actually taste like fall. Paleovalley also has a pumpkin spice bone broth, which I'm equally excited about. There's just something about those cozy seasonal flavors that make this time of year feel extra special. So if you're looking for easy, convenient options to keep on. Keep on hand when life gets busy, head to paleovalley.com and get 20% off your order if you use code CANDACE at checkout. That's paleovalley.com promo code CANDACE at checkout. And you guys know I love Nimi skincare. I have talked about their tallow skincare before, so I'm excited to share with you guys that they recently launched a full tallow body line. It's quickly become a staple in my house. What I love is how simple and thoughtful everything is with.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:32:30](/episodes/ep-V-phmW9f0pM.md#t-00-32-03): “So if you're looking for easy, convenient options to keep on hand when life gets busy, check out paleovalley.com and get 20% off your first order with code Candace at checkout.”
 
 </details>
 
@@ -18666,9 +18788,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Sentry H2O](/entities/org-sentry-h2o.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:41:53](/episodes/ep-yrg_-D6oNHE.md#t-00-41-31): “That's why I love Sentry H2O in our home. I love it because it has changed the way that I think about what's in my house and what my family is drinking. ... drinking every single day. Sentry H2O is a water wellness system designed to provide clean water straight from your existing faucets while maintaining beneficial minerals and supporting alkalinity. ... Their filtration system is uniquely designed to rid your water of contaminants, including parasites and bacteria. You can take action today to learn more about your water and make a better choice for your family. Head to sentryh2o.com slash Candace. That's S-E-N.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:47:18](/episodes/ep-V-phmW9f0pM.md#t-00-46-52): “Gratefully, I partner with Sentry H2O and they have a water wellness system that will transform your health.”
 
 </details>
 
@@ -19070,9 +19193,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Candace (podcast)](/entities/work-candace-podcast-series.md)** has host this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:08:50](/episodes/ep-_2DiIbfy4mU.md#t-00-08-50): “Is it Waluigi tall? I'm observing with my eyes here, by the way. So this is my show, my podcast. I'm going to say what I believe that I see.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:02:18](/episodes/ep-V-phmW9f0pM.md#t-00-02-18): “And it involves an army general, a cop, and a bloodied bag on September 10th. How mysterious. Welcome back to Candace.”
 
 </details>
 
@@ -19258,9 +19382,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Theo Von](/entities/person-theo-von.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:47:56](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “They have she who must not be named for everyone who watched My Sit Down with Theo Von. We had such a great time. I think like already over 2 million people have watched it and just been up for two days.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:56:04](/episodes/ep-V-phmW9f0pM.md#t-00-55-35): “I could do no wrong, especially this pregnant. Lola Wild writes, Candace, you are the bravest journalist alive. I loved your Theo Von interview. Guys, like 3.5 million of you have watched an interview. I think it's like his biggest interview of the year. It's on track to be at least.”
 
 </details>
 
@@ -19386,11 +19511,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Hunter Biden](/entities/person-hunter-biden.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:47:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-46-32): “Everyone hating right now for you interviewing Hunter Biden is most likely still bootlicking Trump by proxy, Bibi (Benjamin Netanyahu).”
 - [Candace x Hunter Biden: The Interview @ 00:00:00](/episodes/ep-Ux1kzgQxkws.md#t-00-00-00): “Hunter Biden, welcome to the Candace Owens Show.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:45:44](/episodes/ep-BxN2-aeMYIs.md#t-00-45-44): “Hi, Candace. ... your talks with Hunter was possibly your best guest show yet.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07): “I mean, this reminds me of sitting down with Hunter Biden. He agreed to do crack at a Motel 8, Motel 7, whatever it was.”
 
 </details>
 
@@ -19637,11 +19763,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Baron Coleman](/entities/person-baron-coleman.md)** spoke with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:44:34](/episodes/ep-NNiCZk1cuzs.md#t-00-44-28): “Picture of Empress Films at this time. That's what I'd like to know. Just seems weird to me, and I find that a little bit to be interesting. And Baron Coleman and I were discussing it, and we're like, this is weird, very weird, and I don't know why it's weird, but it just feels weird for some reason. When you are just running a clothing company, like, were they going to do a documentary on Erika (Erika Kirk)'s clothing company? A Christian clothing company partnering with this feminine—I don't know. Doesn't register to me as correct.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:00:34](/episodes/ep-_Sq5RqP27NY.md#t-00-00-01): “I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot because I think it really does help.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37): “Mostly I'm inclined to believe it, though, because when I mentioned this to Baron Coleman at a separate time, he brought to my attention. That a similar and potentially corroborating story was told by none other than Yankin Bankin Frank (Frank Turek). Yes, ladies and gentlemen, Frank Turek, with an ever so slight variation on the story that we heard, rather an excuse for why he did this, has already admitted that he gave his bloodied bag to a police officer to dispose. Frank (Frank Turek) has this way of getting ahead of things. Like, you go back, and I was like, I don't remember this at all. Baron (Baron Coleman) said, yeah, he said that recently. The exact date was April 9th, 2026. You can take a listen to what he said. It was on a podcast called the Apostate Prophet podcast. And again, this was recorded, this was released, rather, on April 9th, 2026. Take a listen.”
 
 </details>
 
@@ -20149,11 +20276,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Schuyler Pryor](/entities/person-schuyler-pryor.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I heard from Skylar, my executive producer, this morning via text”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:54:14](/episodes/ep-X3VKJVJ7cN4.md#t-00-54-14): “I just, I'm not interested. I'm going to force my producers to watch it and tell me about it. Sorry, guys. I'm really sorry. Skylar (Schuyler Pryor) is having a really rough week. We're making him do all sorts of things.”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:42:45](/episodes/ep-czVBmqZP6Ss.md#t-00-42-33): “So let me just skip off of that because, Skylar, we should actually look to research that.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:01:14](/episodes/ep-V-phmW9f0pM.md#t-00-00-57): “I mean, it was an absolute mess. I want you guys to know right at the top here, it was Skylar (Schuyler Pryor)'s fault. Skylar (Schuyler Pryor), the producer, right as soon as I said, we'll see you on Monday, we went off air. He went, no, Tuesday.”
 
 </details>
 
@@ -20199,7 +20327,168 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (5814)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (5866)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (52)</summary>
+
+- [00:03:05](/episodes/ep-V-phmW9f0pM.md#t-00-02-59) [○] (Claim) ["Owens said an unnamed commentator she nicknamed Jimmy Neutron had been telling p..."](/statements/statement-d5ec0400b464.md)
+  - About: [Commentator nicknamed Jimmy Neutron by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-003.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:03:26](/episodes/ep-V-phmW9f0pM.md#t-00-03-26) [○] (Claim) ["Owens said the unnamed commentator she nicknamed Jimmy Neutron claimed to know t..."](/statements/statement-9d64058b3513.md)
+  - About: [Commentator nicknamed Jimmy Neutron by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-003.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:04:18](/episodes/ep-V-phmW9f0pM.md#t-00-04-06) [○] (Claim) ["Owens said she knew about the forthcoming lawsuit in advance and had been storin..."](/statements/statement-04b19ef7aca8.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) [○] (Accusation) ["According to unnamed UVU faculty sources, Owens said Val Peterson was allegedly ..."](/statements/statement-5c58ae25b183.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) [○] (Opinion) ["Owens said UVU faculty were terrified of Val Peterson and that she was told he w..."](/statements/statement-7aac777dabe1.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [UVU faculty sources described by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-004.md)
+
+- [00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] (Claim) ["Val Peterson started at the institution now called UVU in June 1987 and is its v..."](/statements/statement-98672eb3c885.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:05:46](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] (Claim) ["Owens said Val Peterson oversees a budget of more than $50 million and responsib..."](/statements/statement-7325260e919c.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:06:07](/episodes/ep-V-phmW9f0pM.md#t-00-05-29) [○] (Claim) ["Owens said Val Peterson also serves in the Utah House of Representatives, repres..."](/statements/statement-a83439fb1234.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md)
+
+- [00:06:48](/episodes/ep-V-phmW9f0pM.md#t-00-06-48) [○] (Claim) ["Owens said Val Peterson is a brigadier general and for 30 years led the state Na..."](/statements/statement-c85267029590.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah National Guard](/entities/org-utah-national-guard.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)
+
+- [00:07:30](/episodes/ep-V-phmW9f0pM.md#t-00-07-30) [○] (Citation) ["Citing a 2007 article, Owens said then-Lieutenant Colonel Val Peterson assumed c..."](/statements/statement-d1fba4d1a7e3.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md), [Utah Army National Guard](/entities/org-utah-army-national-guard.md)
+
+- [00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) [○] (Citation) ["Citing the 2007 article, Owens said Val Peterson was a Moscow, Idaho native who ..."](/statements/statement-0de8bcfc195a.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+- [00:09:55](/episodes/ep-V-phmW9f0pM.md#t-00-09-32) [○] (Citation) ["Citing the article, Owens said Val Peterson held a master's degree and a doctora..."](/statements/statement-6f5cfe9b4ce0.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+- [00:10:36](/episodes/ep-V-phmW9f0pM.md#t-00-10-16) [○] (Claim) ["Owens said retired Brigadier General Val Peterson had responsibility for trainin..."](/statements/statement-24af315b6208.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Army National Guard](/entities/org-utah-army-national-guard.md), [Uniform Code of Military Justice](/entities/law-uniform-code-of-military-justice.md)
+
+- [00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01) [○] (Citation) ["Citing the after-action report, Owens said Val Peterson was approximately 45 min..."](/statements/statement-e17ff3b4c7ae.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:43](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) [○] (Opinion) ["Owens noted Salt Lake City and its National Guard air base were 45 minutes from ..."](/statements/statement-34cbc7af2eed.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+- [00:12:00](/episodes/ep-V-phmW9f0pM.md#t-00-11-43) [○] (Claim) ["Owens said Blake Neff had said he did not accompany Charlie Kirk to the event an..."](/statements/statement-6d7c7fa693e7.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:44](/episodes/ep-V-phmW9f0pM.md#t-00-13-44) [○] (Claim) ["Owens said Tyler Clancy attended BYU and was born in 1997."](/statements/statement-04f8abecd58b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+- [00:14:20](/episodes/ep-V-phmW9f0pM.md#t-00-14-20) [○] (Citation) ["Citing an article, Owens said Tyler Clancy became the youngest person to serve i..."](/statements/statement-0778550ea7fc.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md)
+
+- [00:15:01](/episodes/ep-V-phmW9f0pM.md#t-00-15-01) [○] (Citation) ["Citing the article, Owens said Val Peterson was Tyler Clancy's church leader dur..."](/statements/statement-b437ee7f36db.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+- [00:16:08](/episodes/ep-V-phmW9f0pM.md#t-00-15-34) [○] (Claim) ["Owens said that on September 10th, 2025, Tyler Clancy was both a Utah House memb..."](/statements/statement-3cbddc63fb3c.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+- [00:16:24](/episodes/ep-V-phmW9f0pM.md#t-00-16-18) [○] (Citation) ["Citing a May 20th, 2025 Instagram post, Owens said Tyler Clancy received the LaG..."](/statements/statement-7dc6f8984692.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [LaGrand and Beth Baker Award](/entities/concept-lagrand-and-beth-baker-award.md)
+
+- [00:17:22](/episodes/ep-V-phmW9f0pM.md#t-00-16-54) [○] (Claim) ["Owens said her team requested Tyler Clancy's comments ahead of the show, had not..."](/statements/statement-0721320d5d3c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) [○] (Claim) ["Owens said other people confirmed Tyler Clancy was on duty as a Provo police off..."](/statements/statement-b0a3f977ac5a.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) [○] (Claim) ["Owens alleged Tyler Clancy was dispatched from Timpanogos with another officer t..."](/statements/statement-62265c891060.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13) [○] (Accusation) ["Owens alleged that a Turning Point USA member, affiliate or guest left a bloodie..."](/statements/statement-35bcba68a220.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:02](/episodes/ep-V-phmW9f0pM.md#t-00-18-57) [○] (Accusation) ["Owens questioned why an officer would dispose of a bloodied item rather than put..."](/statements/statement-b95f0bbe0e2b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:53](/episodes/ep-V-phmW9f0pM.md#t-00-19-37) [○] (Citation) ["Owens said Baron Coleman drew her attention to a similar, potentially corroborat..."](/statements/statement-67c23f5a60fe.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md), [Frank Turek](/entities/person-frank-turek.md), [Apostate Prophet (YouTube channel)](/entities/work-apostate-prophet-channel.md)
+
+- [00:24:23](/episodes/ep-V-phmW9f0pM.md#t-00-23-44) [○] (Opinion) ["Owens said she was inclined to believe the police officer in the bloodied bag ac..."](/statements/statement-b246341fbcb6.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Police officer in Frank Turek bag and necklace account (identity unverified)](/entities/anon-src-V-phmW9f0pM-009.md)
+
+- [00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30) [○] (Claim) ["Owens said Governor Spencer Cox promoted Tyler Clancy shortly after the assassin..."](/statements/statement-efa7fc532dda.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Spencer Cox](/entities/person-spencer-cox.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+- [00:25:31](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) [○] (Claim) ["According to multiple people with direct knowledge, Owens said Tyler Clancy and ..."](/statements/statement-7b60cdf098e4.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Rob Hild](/entities/person-rob-hild.md)
+
+- [00:28:23](/episodes/ep-V-phmW9f0pM.md#t-00-27-54) [○] (Claim) ["Owens said her team was still unable to determine the identity of the fire capta..."](/statements/statement-f4bd71d6b70f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+- [00:29:22](/episodes/ep-V-phmW9f0pM.md#t-00-29-22) [○] (Claim) ["Owens said she had heard, but could not confirm, that the unidentified fire capt..."](/statements/statement-cdab8c23cf14.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+- [00:33:04](/episodes/ep-V-phmW9f0pM.md#t-00-32-45) [○] (Claim) ["Owens said Utah allows people such as Val Peterson and Tyler Clancy to hold gove..."](/statements/statement-9296099ef9f7.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah](/entities/gpe-utah.md)
+
+- [00:33:46](/episodes/ep-V-phmW9f0pM.md#t-00-33-24) [○] (Opinion) ["Owens said she used to be proud to wear MAGA hats during Trump's first term but ..."](/statements/statement-31cf29542015.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [MAGA movement](/entities/concept-maga-movement.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:34:09](/episodes/ep-V-phmW9f0pM.md#t-00-34-09) [○] (Claim) ["Owens said Kayleigh McEnany graduated from Harvard with a law degree."](/statements/statement-74ff0338c103.md)
+  - About: [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md), [Harvard University](/entities/org-harvard-university.md)
+
+- [00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) [○] (Accusation) ["Owens said she felt Karoline Leavitt was gaslighting and lying to the public and..."](/statements/statement-ac7e81844d62.md)
+  - About: [Karoline Leavitt](/entities/person-karoline-leavitt.md), [MAGA movement](/entities/concept-maga-movement.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+- [00:35:06](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) [○] (Claim) ["Owens said Katie Zacharia had recently been announced as Karoline Leavitt's repl..."](/statements/statement-7267177ce4bd.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md), [White House](/entities/org-white-house.md)
+
+- [00:38:48](/episodes/ep-V-phmW9f0pM.md#t-00-38-24) [○] (Claim) ["Owens said Katie Zacharia was reading the entire briefing, including her own nam..."](/statements/statement-8b9e674b4752.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+- [00:39:13](/episodes/ep-V-phmW9f0pM.md#t-00-39-02) [○] (Opinion) ["Owens speculated that donors might somehow be involved in Katie Zacharia's selec..."](/statements/statement-ea714a45276d.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:39:34](/episodes/ep-V-phmW9f0pM.md#t-00-39-34) [○] (Accusation) ["Owens said Katie Zacharia was not selected on merit and that journalists were ha..."](/statements/statement-c7213b71aa55.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34) [○] (Claim) ["Owens said Katie Zacharia kept answering questions about her law degree by sayin..."](/statements/statement-45cd652f5d6b.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:40:29](/episodes/ep-V-phmW9f0pM.md#t-00-40-13) [○] (Opinion) ["Owens said Katie Zacharia should be fired on her first day."](/statements/statement-0d987b4ab041.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:40:58](/episodes/ep-V-phmW9f0pM.md#t-00-40-58) [○] (Citation) ["Citing Business Insider, Owens said Katie Zacharia's response about her credenti..."](/statements/statement-a5ebc2599ef4.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Business Insider](/entities/org-business-insider.md)
+
+- [00:42:07](/episodes/ep-V-phmW9f0pM.md#t-00-42-07) [○] (Accusation) ["In discussing the Cornell 7 case, Owens said that, from what she was seeing, a w..."](/statements/statement-38cdeff02530.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+- [00:42:38](/episodes/ep-V-phmW9f0pM.md#t-00-42-38) [○] (Opinion) ["Owens characterized an alleged fraternity group-chat message as an invitation fo..."](/statements/statement-3a528fdb1008.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+- [00:44:14](/episodes/ep-V-phmW9f0pM.md#t-00-44-07) [○] (Claim) ["Owens recalled her conversation with Hunter Biden, saying he agreed to use crack..."](/statements/statement-fd9dcb25108a.md)
+  - About: [Hunter Biden](/entities/person-hunter-biden.md)
+
+- [00:44:53](/episodes/ep-V-phmW9f0pM.md#t-00-44-47) [○] (Opinion) ["Owens said sending a message inviting other people to have sex with someone was ..."](/statements/statement-8d1bf0752de2.md)
+  - About: [Cornell University](/entities/org-cornell-university.md)
+
+- [00:52:46](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) [○] (Promise) ["Owens promised to talk more about the Brian Cole case before going off air for m..."](/statements/statement-a31b64d63320.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) [○] (Accusation) ["Owens alleged that Erika Kirk does not author her own tweets."](/statements/statement-5bc8397106df.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) [○] (Opinion) ["Owens characterized Erika Kirk's explanation for sitting down with Vanity Fair a..."](/statements/statement-2aab6ec694ce.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Vanity Fair](/entities/org-vanity-fair.md)
+
+- [00:56:09](/episodes/ep-V-phmW9f0pM.md#t-00-55-35) [○] (Claim) ["Owens said about 3.5 million people had watched her Theo Von interview and that ..."](/statements/statement-d2b0b32e0dd9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Theo Von](/entities/person-theo-von.md)
+
+- [00:58:15](/episodes/ep-V-phmW9f0pM.md#t-00-58-15) [○] (Promise) ["Owens promised an exclusive Baron Coleman merchandise line, saying it should be ..."](/statements/statement-ef705255dd76.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Baron Coleman](/entities/person-baron-coleman.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (42)</summary>
@@ -37957,7 +38246,32 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (819)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (826)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (7)</summary>
+
+- [00:03:05](/episodes/ep-V-phmW9f0pM.md#t-00-02-59) (Claim) **Candace Owens** (via paraphrase): ["Owens said an unnamed commentator she nicknamed Jimmy Neutron had been..."](/statements/statement-d5ec0400b464.md)
+  - Also about: [Commentator nicknamed Jimmy Neutron by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-003.md)
+
+- [00:04:18](/episodes/ep-V-phmW9f0pM.md#t-00-04-06) (Claim) **Candace Owens**: ["Owens said she knew about the forthcoming lawsuit in advance and had b..."](/statements/statement-04b19ef7aca8.md)
+
+- [00:17:22](/episodes/ep-V-phmW9f0pM.md#t-00-16-54) (Claim) **Candace Owens**: ["Owens said her team requested Tyler Clancy's comments ahead of the sho..."](/statements/statement-0721320d5d3c.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:33:46](/episodes/ep-V-phmW9f0pM.md#t-00-33-24) (Opinion) **Candace Owens**: ["Owens said she used to be proud to wear MAGA hats during Trump's first..."](/statements/statement-31cf29542015.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:52:46](/episodes/ep-V-phmW9f0pM.md#t-00-52-26) (Promise) **Candace Owens**: ["Owens promised to talk more about the Brian Cole case before going off..."](/statements/statement-a31b64d63320.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:56:09](/episodes/ep-V-phmW9f0pM.md#t-00-55-35) (Claim) **Candace Owens**: ["Owens said about 3.5 million people had watched her Theo Von interview..."](/statements/statement-d2b0b32e0dd9.md)
+  - Also about: [Theo Von](/entities/person-theo-von.md)
+
+- [00:58:15](/episodes/ep-V-phmW9f0pM.md#t-00-58-15) (Promise) **Candace Owens**: ["Owens promised an exclusive Baron Coleman merchandise line, saying it ..."](/statements/statement-ef705255dd76.md)
+  - Also about: [Baron Coleman](/entities/person-baron-coleman.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2)</summary>

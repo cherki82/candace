@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Sentry H2O](/entities/org-sentry-h2o) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
+
+- [00:47:18](/episodes/ep-V-phmW9f0pM#t-00-47-18): _Gratefully, I partner with Sentry H2O and they have a water wellness system that will transform your health._
 
 **[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
 

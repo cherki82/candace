@@ -1,6 +1,6 @@
 ---
 title: "Kayleigh McEnany"
-description: "Kayleigh McEnany (People) - 2 mentions"
+description: "Kayleigh McEnany (People) - 3 mentions"
 id: "person-kayleigh-mcenany"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-kayleigh-mcenany-t-00-28-37">2025-09-29 · 00:28:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-kayleigh-mcenany-t-00-15-25">2025-10-01 · 00:15:44</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-kayleigh-mcenany-t-00-33-24">2026-10-13 · 00:33:59</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,7 @@ Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](h
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-kayleigh-mcenany-t-00-28-37" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-kayleigh-mcenany-t-00-15-25" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-kayleigh-mcenany-t-00-33-24" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](h
 |---|---|---:|
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-kayleigh-mcenany-t-00-28-37) | 1 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-kayleigh-mcenany-t-00-15-25) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-kayleigh-mcenany-t-00-33-24) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:33:59](/episodes/ep-V-phmW9f0pM.md#ent-person-kayleigh-mcenany-t-00-33-24)**
+> "Kayleigh McEnany. Kayleigh McEnany was whip-smart, right? Beyond t..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
@@ -71,6 +81,18 @@ Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](h
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attended (1)</summary>
+
+- **[Harvard University](/entities/org-harvard-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:33:59](/episodes/ep-V-phmW9f0pM.md#t-00-33-24): “Kayleigh McEnany. Kayleigh McEnany was whip-smart, right? Beyond the fact that she's an attractive young woman, nobody really cared about that because she was whip-smart. No one could deny the fact that she was. She graduated Harvard with a law degree.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
@@ -83,7 +105,14 @@ Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](h
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Harvard University](/entities/org-harvard-university.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:33:59](/episodes/ep-V-phmW9f0pM.md#t-00-33-24): “Kayleigh McEnany. Kayleigh McEnany was whip-smart, right? Beyond the fact that she's an attractive young woman, nobody really cared about that because she was whip-smart. No one could deny the fact that she was. She graduated Harvard with a law degree.”
+
+</details>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -91,6 +120,19 @@ Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](h
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-37): “Here he is in his interview speaking to Kayleigh McEnany.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Kayleigh McEnany (1)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:34:09](/episodes/ep-V-phmW9f0pM.md#t-00-34-09) (Claim) **Candace Owens**: ["Owens said Kayleigh McEnany graduated from Harvard with a law degree."](/statements/statement-74ff0338c103.md)
+  - Also about: [Harvard University](/entities/org-harvard-university.md)
 
 </details>
 

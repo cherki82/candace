@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2423 mentions"
+description: "Turning Point USA (Organizations) - 2429 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,12 +27,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-turning-point-usa-t-00-51-03">2026-10-08 · 00:51:27</a></strong></div>
-<div><span>Episodes</span><strong>177</strong></div>
-<div><span>Mentions</span><strong>2,423</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-52-26">2026-10-13 · 00:52:54</a></strong></div>
+<div><span>Episodes</span><strong>178</strong></div>
+<div><span>Mentions</span><strong>2,429</strong></div>
 <div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>1,028</strong></div>
-<div><span>Relationships</span><strong>254</strong></div>
+<div><span>Statements about</span><strong>1,032</strong></div>
+<div><span>Relationships</span><strong>256</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
 
@@ -217,6 +217,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-turning-point-usa-t-00-00-43" style="--pulse-height:26%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 21 mentions" title="2026-10-06 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-t-00-02-09" style="--pulse-height:21%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 17 mentions" title="2026-10-07 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-turning-point-usa-t-00-23-20" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 6 mentions" title="2026-10-13 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -399,6 +400,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-turning-point-usa-t-00-00-43) | 21 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-t-00-02-09) | 17 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-turning-point-usa-t-00-23-20) | 4 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45) | 6 |
 
 </details>
 </section>
@@ -411,7 +413,30 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2423)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2429)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (6 mentions)</summary>
+
+**[00:04:56](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45)**
+> "...rt allegedly, decisively team turning point USA against his own faculty members, allegedly, I'll ..."
+
+**[00:18:13](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-18-13)**
+> "...legedly. I'm told he had some Turning Point USA members, staff members or affiliates in his car."
+
+**[00:18:26](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-18-13)**
+> "... would like to know who those TPUSA members or affiliates were. I mean, lawsuits make..."
+
+**[00:18:36](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-18-13)**
+> "...t at some point, one of those turning point members or affiliates, guests left a bloodied bag..."
+
+**[00:20:49](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-20-49)**
+> "..., also a great team member of TPUSA, arranged for J.D. Vance (JD Vance) to come and t..."
+
+**[00:52:54](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-52-26)**
+> "...referent unverified] did, did TPUSA events before with Charlie (Charlie Kirk), but on..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (4 mentions)</summary>
@@ -9678,13 +9703,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Has Member (1)</summary>
+<summary>Has Member (2)</summary>
 
 - **[Caleb Chilcutt](/entities/person-caleb-chilcutt.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:27:13](/episodes/ep-q4m-kGzvwjw.md#t-00-27-13): “We know that the next day, on July 10th, TPUSA headquarters asks UVU Club President Caleb Chilcutt to book Charlie (Charlie Kirk) for an event in the UVU courtyard, and his field rep is being vague on the details. ... He asks the school if the space is available.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:41](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Caleb Chilcutt, a rising senior and chapter president at Utah Valley University, has been involved with Turning Point USA since 2023.”
+
+</details>
+
+- **[Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49): “We all had to go from Orem where we were, you and I were just last week, we all had to go from there to Salt Lake City because Mikey (Michael McCoy) and Catherine Castro, also a great team member of TPUSA, arranged for J.D. Vance (JD Vance) to come and take Charlie (Charlie Kirk)'s body back to Phoenix.”
 
 </details>
 
@@ -9927,7 +9959,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (132)</summary>
+<summary>Referenced By (133)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (42)</summary>
@@ -10668,6 +10700,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md)** member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49): “We all had to go from Orem where we were, you and I were just last week, we all had to go from there to Salt Lake City because Mikey (Michael McCoy) and Catherine Castro, also a great team member of TPUSA, arranged for J.D. Vance (JD Vance) to come and take Charlie (Charlie Kirk)'s body back to Phoenix.”
+
+</details>
+
 - **[VFXLA](/entities/org-vfxla.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -11320,7 +11359,24 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (1028)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (1032)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4)</summary>
+
+- [00:04:45](/episodes/ep-V-phmW9f0pM.md#t-00-04-45) (Accusation) **Candace Owens** (via paraphrase): ["According to unnamed UVU faculty sources, Owens said Val Peterson was ..."](/statements/statement-5c58ae25b183.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [UVU faculty sources described by Candace Owens (identity unverified)](/entities/anon-src-V-phmW9f0pM-004.md)
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) (Claim) **Candace Owens** (via paraphrase): ["Owens alleged Tyler Clancy was dispatched from Timpanogos with another..."](/statements/statement-62265c891060.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13) (Accusation) **Candace Owens**: ["Owens alleged that a Turning Point USA member, affiliate or guest left..."](/statements/statement-35bcba68a220.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:20:49](/episodes/ep-V-phmW9f0pM.md#t-00-20-49) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said Michael McCoy and Catherine Castro, whom he described..."](/statements/statement-6697c2c1ad80.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Catherine Castro (TPUSA team member named by Frank Turek; identity unverified)](/entities/anon-src-V-phmW9f0pM-001.md), [JD Vance](/entities/person-jd-vance.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3)</summary>

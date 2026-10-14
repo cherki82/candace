@@ -12,7 +12,7 @@ date: "2025-09-12"
 
 > Tyler Robinson arrested as suspect in Charlie Kirk assassination.
 
-## Mentioned In (9 times)
+## Mentioned In (10 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -85,3 +85,14 @@ date: "2025-09-12"
 <a href="https://www.youtube.com/watch?v=2WEHTk0Xewg&t=1730s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > When encountered in person by investigators in Washington County on September 12th in the early
+
+### 10. America The Ugly: A General, A Cop & A Missing Bloodied Bag....
+
+**Episode:** [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md)
+**Timestamp:** [00:25:55](/episodes/ep-V-phmW9f0pM.md#event-event-2025-09-12-tyler-robinson-arrested-as-suspect-in-charlie-kirk-t-00-25-48) 
+<a href="https://www.youtube.com/watch?v=V-phmW9f0pM&t=1555s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> We've just been told and informed that Tyler Robinson is in custody.
+
+> **Date stated in this source:** “September 14th retrospective; told the day before, September 13th or 12th at segment 155”
+> **Date review note:** Retain the existing canonical September 12, 2025 arrest date. This source is uncertain about when the audience was informed (September 12 or 13); it does not establish a different arrest date. No duplicate September 13 event is created.

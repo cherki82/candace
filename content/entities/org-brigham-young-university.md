@@ -1,6 +1,6 @@
 ---
 title: "Brigham Young University"
-description: "Brigham Young University (Organizations) - 20 mentions"
+description: "Brigham Young University (Organizations) - 29 mentions"
 id: "org-brigham-young-university"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About - BYU](https://www.byu.edu/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-brigham-young-university-t-00-21-19">2025-09-23 · 00:21:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-brigham-young-university-t-00-09-26">2026-08-04 · 00:09:32</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-27-07">2026-10-13 · 00:27:22</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -44,6 +44,7 @@ Source: [About - BYU](https://www.byu.edu/about)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-t-00-18-00" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 12 mentions" title="2026-04-01 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-brigham-young-university-t-01-10-56" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-brigham-young-university-t-00-09-26" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-08-47" style="--pulse-height:75%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 9 mentions" title="2026-10-13 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [About - BYU](https://www.byu.edu/about)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-t-00-18-00) | 12 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-brigham-young-university-t-01-10-56) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-brigham-young-university-t-00-09-26) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-08-47) | 9 |
 
 </details>
 </section>
@@ -69,7 +71,39 @@ Source: [About - BYU](https://www.byu.edu/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (9 mentions)</summary>
+
+**[00:08:57](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-08-47)**
+> ".... Later, as a student at BYU, Brigham Young University,"
+
+**[00:09:55](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-09-32)**
+> "...'s and a doctoral degree from BYU."
+
+**[00:10:24](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-10-16)**
+> "...ilitary intelligence began at BYU, as you just heard."
+
+**[00:13:17](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-13-10)**
+> "... as the church leader to some BYU students, one student in particular who we're goi..."
+
+**[00:13:44](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-13-44)**
+> "...leader Val Peterson, attended BYU, not at the same time, to be clear. Tyler Clancy ..."
+
+**[00:15:08](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-15-01)**
+> "During his time at BYU and has helped the young lawmaker navigate the le..."
+
+**[00:15:21](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-15-01)**
+> "...ip role that he earned on the BYU lacrosse team, said Matt Schneck, head coach of B..."
+
+**[00:27:07](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-27-07)**
+> "... lacrosse with one another at BYU."
+
+**[00:27:22](/episodes/ep-V-phmW9f0pM.md#ent-org-brigham-young-university-t-00-27-07)**
+> "The BYU that Val Peterson is the church leader of Tyler C..."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -182,7 +216,7 @@ Source: [About - BYU](https://www.byu.edu/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Attended By (5)</summary>
+<summary>Attended By (7)</summary>
 
 - **[Connor Henderson](/entities/person-connor-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -215,21 +249,43 @@ Source: [About - BYU](https://www.byu.edu/about)
 </details>
 
 - **[Rob Hild](/entities/person-rob-hild.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:27:07](/episodes/ep-V-phmW9f0pM.md#t-00-27-07): “Hashtag Orem. Hashtag Charlie Kirk. Well, guess what? Tyler Clancy and Shaner (Shaner Broderick) are best friends. He's in the same friend group with Robbie Hild (Rob Hild) because the two of them played lacrosse with one another at BYU.”
+
+</details>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47): “A native of Moscow, Idaho, not to be interesting, where his father was a university professor. Peterson (Val Peterson) went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia, where he gained a mastery of Spanish language. Later, as a student at BYU, Brigham Young University, he heard about a linguist military intelligence unit of the Utah National Guard from roommates who were looking into possibly signing up along with obvious educational benefits of serving.”
+
+</details>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:13:44](/episodes/ep-V-phmW9f0pM.md#t-00-13-44): “Hit my radar because of Jimmy Neutron yapping about lawsuits to too many people. Tyler Clancy, like his church leader Val Peterson, attended BYU, not at the same time, to be clear. Tyler Clancy is very young, actually born in 1997. And yet, like Val Peterson, he is remarkably accomplished. First, let's pull up, pull up Val Peterson's Pokemon stats, just so you have Val Peterson's. These are, it's amazing. I choose, I choose you, Val Peterson.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Steven E. Jones](/entities/person-steven-e-jones.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:47:20](/episodes/ep-rupRLXmSndU.md#t-00-46-56): “Dr. Stephen Jones, a physicist at BYU, published a study in 2009 proving advanced thermite-based explosives in abundance in the dust from Ground Zero on 9-11.”
+
+</details>
+
+- **[Matt Schneck](/entities/person-matt-schneck.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:15:21](/episodes/ep-V-phmW9f0pM.md#t-00-15-01): “Elsewhere, it tells us that Clancy (Tyler Clancy)'s reputation for community leadership was mirrored by the leadership role that he earned on the BYU lacrosse team, said Matt Schneck, head coach of BYU men's lacrosse team.”
 
 </details>
 
@@ -261,7 +317,7 @@ Source: [About - BYU](https://www.byu.edu/about)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -301,9 +357,24 @@ Source: [About - BYU](https://www.byu.edu/about)
 </details>
 
 - **[Rob Hild](/entities/person-rob-hild.md)** attended this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:27:07](/episodes/ep-V-phmW9f0pM.md#t-00-27-07): “Hashtag Orem. Hashtag Charlie Kirk. Well, guess what? Tyler Clancy and Shaner (Shaner Broderick) are best friends. He's in the same friend group with Robbie Hild (Rob Hild) because the two of them played lacrosse with one another at BYU.”
+
+</details>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47): “A native of Moscow, Idaho, not to be interesting, where his father was a university professor. Peterson (Val Peterson) went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia, where he gained a mastery of Spanish language. Later, as a student at BYU, Brigham Young University, he heard about a linguist military intelligence unit of the Utah National Guard from roommates who were looking into possibly signing up along with obvious educational benefits of serving.”
+
+</details>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:13:44](/episodes/ep-V-phmW9f0pM.md#t-00-13-44): “Hit my radar because of Jimmy Neutron yapping about lawsuits to too many people. Tyler Clancy, like his church leader Val Peterson, attended BYU, not at the same time, to be clear. Tyler Clancy is very young, actually born in 1997. And yet, like Val Peterson, he is remarkably accomplished. First, let's pull up, pull up Val Peterson's Pokemon stats, just so you have Val Peterson's. These are, it's amazing. I choose, I choose you, Val Peterson.”
 
 </details>
 
@@ -329,12 +400,42 @@ Source: [About - BYU](https://www.byu.edu/about)
 
 </details>
 
+- **[Matt Schneck](/entities/person-matt-schneck.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:15:21](/episodes/ep-V-phmW9f0pM.md#t-00-15-01): “Elsewhere, it tells us that Clancy (Tyler Clancy)'s reputation for community leadership was mirrored by the leadership role that he earned on the BYU lacrosse team, said Matt Schneck, head coach of BYU men's lacrosse team.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigham Young University (5)</strong></summary>
+<summary><strong class="section-title">Statements about Brigham Young University (11)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (6)</summary>
+
+- [00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) (Citation) **Candace Owens**: ["Citing the 2007 article, Owens said Val Peterson was a Moscow, Idaho n..."](/statements/statement-0de8bcfc195a.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah National Guard](/entities/org-utah-national-guard.md), [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
+
+- [00:09:55](/episodes/ep-V-phmW9f0pM.md#t-00-09-32) (Citation) **Candace Owens**: ["Citing the article, Owens said Val Peterson held a master's degree and..."](/statements/statement-6f5cfe9b4ce0.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md)
+
+- [00:13:44](/episodes/ep-V-phmW9f0pM.md#t-00-13-44) (Claim) **Candace Owens**: ["Owens said Tyler Clancy attended BYU and was born in 1997."](/statements/statement-04f8abecd58b.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:15:01](/episodes/ep-V-phmW9f0pM.md#t-00-15-01) (Citation) **Candace Owens**: ["Citing the article, Owens said Val Peterson was Tyler Clancy's church ..."](/statements/statement-b437ee7f36db.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:15:21](/episodes/ep-V-phmW9f0pM.md#t-00-15-01) (Opinion) **Matt Schneck** (via quoted article): ["BYU lacrosse head coach Matt Schneck said Tyler Clancy used leadership..."](/statements/statement-1602f1334b0b.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:25:31](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) (Claim) **Candace Owens** (via paraphrase): ["According to multiple people with direct knowledge, Owens said Tyler C..."](/statements/statement-7b60cdf098e4.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Rob Hild](/entities/person-rob-hild.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4)</summary>

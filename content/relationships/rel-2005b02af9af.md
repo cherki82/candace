@@ -11,7 +11,7 @@ object: "person-hunter-biden"
 
 ## [Candace Owens](/entities/person-candace-owens) interviewed [Hunter Biden](/entities/person-hunter-biden)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -24,6 +24,10 @@ object: "person-hunter-biden"
 **[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
 
 - [00:00:00](/episodes/ep-Ux1kzgQxkws#t-00-00-00): _Hunter Biden, welcome to the Candace Owens Show._
+
+**[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
+
+- [00:44:14](/episodes/ep-V-phmW9f0pM#t-00-44-14): _I mean, this reminds me of sitting down with Hunter Biden. He agreed to do crack at a Motel 8, Motel 7, whatever it was._
 
 ### Related
 

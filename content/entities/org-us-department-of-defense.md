@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 112 mentions"
+description: "United States Department of Defense (Organizations) - 113 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-48-10">2026-10-06 · 00:48:10</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37">2026-10-13 · 00:36:46</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>113</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>68</strong></div>
+<div><span>Statements about</span><strong>69</strong></div>
 <div><span>Relationships</span><strong>30</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -84,6 +84,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-q4m-kGzvwjw.md#t-00-26-33" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-20-46" style="--pulse-height:15%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41" style="--pulse-height:69%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 9 mentions" title="2026-10-06 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -132,6 +133,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-26-33) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-20-46) | 2 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41) | 9 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37) | 1 |
 
 </details>
 </section>
@@ -143,7 +145,15 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:36:46](/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37)**
+> "... president also announced the Department of War has officially selected Cleveland, Ohio as the ne..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (9 mentions)</summary>
@@ -1001,7 +1011,15 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (68)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (69)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:36:46](/episodes/ep-V-phmW9f0pM.md#t-00-36-37) (Claim) **Katie Zacharia** (via quoted speech): ["Katie Zacharia said the Department of War selected Cleveland, Ohio for..."](/statements/statement-caf7a304a48b.md)
+  - Also about: [United States Navy](/entities/org-united-states-navy.md), [Cleveland, Ohio](/entities/gpe-cleveland-ohio.md)
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (5)</summary>

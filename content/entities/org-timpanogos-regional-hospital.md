@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 46 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 47 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09">2026-10-08 · 00:41:29</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-timpanogos-regional-hospital-t-00-17-35">2026-10-13 · 00:17:35</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>62</strong></div>
+<div><span>Statements about</span><strong>65</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -65,6 +65,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-timpanogos-regional-hospital-t-00-26-02" style="--pulse-height:50%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#t-00-57-29" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09" style="--pulse-height:75%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-timpanogos-regional-hospital-t-00-17-35" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +101,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-timpanogos-regional-hospital-t-00-26-02) | 2 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09) | 3 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-timpanogos-regional-hospital-t-00-17-35) | 1 |
 
 </details>
 </section>
@@ -111,7 +113,15 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:17:35](/episodes/ep-V-phmW9f0pM.md#ent-org-timpanogos-regional-hospital-t-00-17-35)**
+> "...ber 11th. He was allegedly at Timpanogos Hospital shortly after Charlie (Charlie Kirk) arrived. And..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3 mentions)</summary>
@@ -495,7 +505,21 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (62)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (65)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3)</summary>
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) (Claim) **Candace Owens** (via paraphrase): ["Owens said other people confirmed Tyler Clancy was on duty as a Provo ..."](/statements/statement-b0a3f977ac5a.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:35](/episodes/ep-V-phmW9f0pM.md#t-00-17-35) (Claim) **Candace Owens** (via paraphrase): ["Owens alleged Tyler Clancy was dispatched from Timpanogos with another..."](/statements/statement-62265c891060.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:28:23](/episodes/ep-V-phmW9f0pM.md#t-00-27-54) (Claim) **Candace Owens**: ["Owens said her team was still unable to determine the identity of the ..."](/statements/statement-f4bd71d6b70f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Fire captain described in Charlie Kirk hospital account (identity unverified)](/entities/anon-src-V-phmW9f0pM-008.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (13)</summary>

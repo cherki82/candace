@@ -1,6 +1,6 @@
 ---
 title: "The One You Feed (commenter; identity unverified)"
-description: "The One You Feed (commenter; identity unverified) (Anonymous Sources) - 2 mentions"
+description: "The One You Feed (commenter; identity unverified) (Anonymous Sources) - 3 mentions"
 id: "anon-src-4JxgOclKzqg-011"
 type: "ANONYMOUS_SOURCE"
 categories:
@@ -17,9 +17,9 @@ Source: [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#t-00-45-25">2026-08-18 · 00:45:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#t-01-04-23">2026-10-06 · 01:04:23</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#t-00-54-50">2026-10-13 · 00:55:08</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-4JxgOclKzqg.md#t-00-45-25" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#t-01-04-23" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#t-00-54-50" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ Source: [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA
 |---|---|---:|
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#t-00-45-25) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-01-04-23) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-54-50) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
+
+**[00:55:08](/episodes/ep-V-phmW9f0pM.md#t-00-54-50)**
+> "The one you feed writes, obviously, the new White House press secretary is being coached by Erika (Erika Kirk). Her advice is to throw a bunch of words in a proverbial blender and start speaking."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>

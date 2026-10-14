@@ -1,6 +1,6 @@
 ---
 title: "Internet Crimes Against Children Task Force Program"
-description: "Internet Crimes Against Children Task Force Program (Organizations) - 5 mentions"
+description: "Internet Crimes Against Children Task Force Program (Organizations) - 7 mentions"
 id: "org-internet-crimes-against-children-task-force-program"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-00-33-01">2026-05-19 · 00:33:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-07-29">2026-10-08 · 00:07:29</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-internet-crimes-against-children-task-force-program-t-00-24-30">2026-10-13 · 00:24:41</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-00-33-01" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-22-23" style="--pulse-height:100%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-07-29" style="--pulse-height:50%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-internet-crimes-against-children-task-force-program-t-00-16-18" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-internet-crimes-against-children-task-force-program-t-00-33-01) | 2 |
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-22-23) | 2 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-internet-crimes-against-children-task-force-program-t-00-07-29) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-internet-crimes-against-children-task-force-program-t-00-16-18) | 2 |
 
 </details>
 </section>
@@ -54,7 +56,18 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:16:18](/episodes/ep-V-phmW9f0pM.md#ent-org-internet-crimes-against-children-task-force-program-t-00-16-18)**
+> "He's also on ICAC, Internet Crimes Against Children."
+
+**[00:24:41](/episodes/ep-V-phmW9f0pM.md#ent-org-internet-crimes-against-children-task-force-program-t-00-24-30)**
+> "...a Provo Police Department SVU ICAC detective, and he was instead appointed as the st..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
@@ -104,6 +117,18 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 </details>
 
 <details>
+<summary>Has Former Member (1)</summary>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:41](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Former Part (1)</summary>
 
 - **[Lafieta Asisi](/entities/person-lafieta-asisi.md)**
@@ -116,7 +141,14 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)** formerly member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:41](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator.”
+
+</details>
 
 - **[Lafieta Asisi](/entities/person-lafieta-asisi.md)** formerly part of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -137,7 +169,15 @@ Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjd
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Internet Crimes Against Children Task Force Program (2)</strong></summary>
+<summary><strong class="section-title">Statements about Internet Crimes Against Children Task Force Program (3)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:16:08](/episodes/ep-V-phmW9f0pM.md#t-00-15-34) (Claim) **Candace Owens**: ["Owens said that on September 10th, 2025, Tyler Clancy was both a Utah ..."](/statements/statement-3cbddc63fb3c.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Utah House of Representatives](/entities/org-utah-house-of-representatives.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1)</summary>

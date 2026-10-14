@@ -1,6 +1,6 @@
 ---
 title: "Ohio"
-description: "Ohio (Places) - 25 mentions"
+description: "Ohio (Places) - 30 mentions"
 id: "gpe-ohio"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-ohio-t-00-24-47">2026-02-13 · 00:24:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-ohio-t-00-32-10">2026-10-06 · 00:32:10</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#t-00-38-24">2026-10-13 · 00:38:24</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-ohio-t-00-17-37" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#t-00-54-45" style="--pulse-height:20%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-ohio-t-00-32-10" style="--pulse-height:20%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#t-00-36-07" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 5 mentions" title="2026-10-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-ohio-t-00-17-37) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-54-45) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-ohio-t-00-32-10) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-36-07) | 5 |
 
 </details>
 </section>
@@ -69,7 +71,27 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5 mentions)</summary>
+
+**[00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07)**
+> "...han last night in Youngstown, Ohio, where President Trump (Donald Trump) delivered a..."
+
+**[00:36:46](/episodes/ep-V-phmW9f0pM.md#t-00-36-37)**
+> "...fficially selected Cleveland, Ohio as the new home for the U.S. Navy's submarine com..."
+
+**[00:37:39](/episodes/ep-V-phmW9f0pM.md#t-00-37-17)**
+> "Yesterday in Youngstown, Ohio, Trump (Donald Trump) was on the trail and the ex..."
+
+**[00:38:15](/episodes/ep-V-phmW9f0pM.md#t-00-38-00)**
+> "...er that he was in Youngstown, Ohio."
+
+**[00:38:24](/episodes/ep-V-phmW9f0pM.md#t-00-38-24)**
+> "...rs of the Navy to Youngstown, Ohio. Okay, how much that's going to cost might be a l..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>

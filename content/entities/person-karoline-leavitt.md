@@ -1,6 +1,6 @@
 ---
 title: "Karoline Leavitt"
-description: "Karoline Leavitt (People) - 14 mentions"
+description: "Karoline Leavitt (People) - 16 mentions"
 id: "person-karoline-leavitt"
 type: "PERSON"
 categories:
@@ -17,11 +17,11 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-karoline-leavitt-t-00-27-32">2025-11-21 · 00:27:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-32-36">2026-10-01 · 00:32:50</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-karoline-leavitt-t-00-34-50">2026-10-13 · 00:35:06</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-karoline-leavitt-t-00-10-08" style="--pulse-height:50%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BvthGQw3_s0.md#ent-person-karoline-leavitt-t-00-53-10" style="--pulse-height:50%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#t-00-32-36" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-karoline-leavitt-t-00-34-50" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-karoline-leavitt-t-00-10-08) | 1 |
 | 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-karoline-leavitt-t-00-53-10) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-32-36) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-karoline-leavitt-t-00-34-50) | 2 |
 
 </details>
 </section>
@@ -64,7 +66,18 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:34:50](/episodes/ep-V-phmW9f0pM.md#ent-person-karoline-leavitt-t-00-34-50)**
+> "Then we got Karoline Leavitt in 2.0 and I just felt that she was gaslighting u..."
+
+**[00:35:06](/episodes/ep-V-phmW9f0pM.md#ent-person-karoline-leavitt-t-00-34-50)**
+> "...that she would be taking over Karoline Leavitt."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
@@ -165,9 +178,10 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:58:16](/episodes/ep-69A8TzAGHlU.md#t-00-58-16): “I don't feel threatened by that. OK, you have a right to think racist thoughts. Now, I happen to genuinely not be a racist, but if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight full fire, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to violence. Take a listen.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50): “Then we got Karoline Leavitt in 2.0 and I just felt that she was gaslighting us at all times like lying the whole time and it felt different and the MAGA movement felt different and we were kind of making the transition into the neocon movement.”
 
 </details>
 
@@ -208,9 +222,10 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:58:16](/episodes/ep-69A8TzAGHlU.md#t-00-58-16): “I don't feel threatened by that. OK, you have a right to think racist thoughts. Now, I happen to genuinely not be a racist, but if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight full fire, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to violence. Take a listen.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50): “Then we got Karoline Leavitt in 2.0 and I just felt that she was gaslighting us at all times like lying the whole time and it felt different and the MAGA movement felt different and we were kind of making the transition into the neocon movement.”
 
 </details>
 
@@ -271,7 +286,18 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Karoline Leavitt (4)</strong></summary>
+<summary><strong class="section-title">Statements about Karoline Leavitt (6)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>
+
+- [00:34:50](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) (Accusation) **Candace Owens**: ["Owens said she felt Karoline Leavitt was gaslighting and lying to the ..."](/statements/statement-ac7e81844d62.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+- [00:35:06](/episodes/ep-V-phmW9f0pM.md#t-00-34-50) (Claim) **Candace Owens**: ["Owens said Katie Zacharia had recently been announced as Karoline Leav..."](/statements/statement-7267177ce4bd.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. (1)</summary>

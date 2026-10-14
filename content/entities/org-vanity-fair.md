@@ -1,6 +1,6 @@
 ---
 title: "Vanity Fair"
-description: "Vanity Fair (Organizations) - 26 mentions"
+description: "Vanity Fair (Organizations) - 28 mentions"
 id: "org-vanity-fair"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-vanity-fair-t-00-06-21">2025-12-02 · 00:06:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-vanity-fair-t-00-40-47">2026-10-07 · 00:40:58</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-vanity-fair-t-00-53-03">2026-10-13 · 00:53:23</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-org-vanity-fair-t-00-00-01" style="--pulse-height:100%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 9 mentions" title="2026-09-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-vanity-fair-t-00-00-01" style="--pulse-height:78%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 7 mentions" title="2026-10-01 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-vanity-fair-t-00-40-47" style="--pulse-height:11%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-vanity-fair-t-00-53-03" style="--pulse-height:22%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-vanity-fair-t-00-00-01) | 9 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-vanity-fair-t-00-00-01) | 7 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-vanity-fair-t-00-40-47) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-vanity-fair-t-00-53-03) | 2 |
 
 </details>
 </section>
@@ -57,7 +59,18 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:53:12](/episodes/ep-V-phmW9f0pM.md#ent-org-vanity-fair-t-00-53-03)**
+> "... of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sittin..."
+
+**[00:53:23](/episodes/ep-V-phmW9f0pM.md#ent-org-vanity-fair-t-00-53-03)**
+> "...s that disagree with you, not Vanity Fair. Like, what are you talking about? What are you t..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
@@ -219,10 +232,11 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:44:34](/episodes/ep-O4Zw3bCALjU.md#t-00-44-28): “I also want to say that I think it was a couple of months ago I clocked that Erika (Erika Kirk) was working on some big hit piece. Vanity Fair, because I know Charlie (Charlie Kirk) would have loved to work with Vanity Fair. It's like her pursuit for fame is never-ending. And I tweeted that this piece was going to be dropping, and for whatever reason Blake Neff decided to bookmark the tweet as if I was lying. I said, 'They're going to put her in a spread for Vanity Fair with her children to pull in our heartstrings. Save this tweet; it will age well.' And then Blake Neff replied and bookmarked the tweet. And I'm glad he did that because I was contacted by Vanity Fair over the weekend and the article is going to be released imminently. They basically asked me if I'd like to comment, but said that my comment doesn't actually matter because they fact-checked everything. So I think we should expect another digital assassin piece a la Vanity Fair this time as Erika (Erika Kirk) continues to work with people who her husband would have never worked with to, I don't know, aspire toward being Being seen in a positive light when I think both the left and the right firmly reject her and with good reason we firmly reject Erika (Erika Kirk) because everything she is doing is a 180 to what her husband stood for.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit. ... Hats off to Clara (Clara Molot). I actually can't believe Turning Point USA agreed to grant four months of access to this reporter.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 
 </details>
 
@@ -272,7 +286,15 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Vanity Fair (7)</strong></summary>
+<summary><strong class="section-title">Statements about Vanity Fair (8)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:53:12](/episodes/ep-V-phmW9f0pM.md#t-00-53-03) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterized Erika Kirk's explanation for sitting down with Van..."](/statements/statement-2aab6ec694ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Spencer Cox"
-description: "Spencer Cox (People) - 51 mentions"
+description: "Spencer Cox (People) - 53 mentions"
 id: "person-spencer-cox"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-spencer-cox-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24">2026-09-15 · 00:08:34</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
-<div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30">2026-10-13 · 00:24:56</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-spencer-cox-t-00-44-22" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42" style="--pulse-height:38%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-spencer-cox-t-00-44-22) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42) | 3 |
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30) | 2 |
 
 </details>
 </section>
@@ -80,7 +82,18 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
+
+**[00:24:30](/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30)**
+> "... assassination, Governor Cox (Spencer Cox) promoted him, allowing him to achieve another Ut..."
+
+**[00:24:56](/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30)**
+> "...a, announced by Governor Cox (Spencer Cox) himself."
+
+</details>
 
 <details>
 <summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1 mentions)</summary>
@@ -299,7 +312,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appointed (2)</summary>
+<summary>Appointed (3)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -313,6 +326,13 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:19:13](/episodes/ep-N4uM8Jdr410.md#t-00-18-54): “That's Beau Mason. You should know that Beau Mason was appointed to that position—commissioner of the Utah Department of Public Safety—on June 19th, 2025, by Governor Cox (Spencer Cox).”
+
+</details>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:56](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
 
 </details>
 
@@ -336,10 +356,11 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary>Governor Of (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Very shortly after the assassination, Governor Cox (Spencer Cox) promoted him, allowing him to achieve another Utah State first. Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator. The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
 
 </details>
 
@@ -358,7 +379,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -375,6 +396,13 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 
 </details>
 
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)** appointed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:56](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
@@ -385,10 +413,11 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 - **[Utah](/entities/gpe-utah.md)** has governor this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Very shortly after the assassination, Governor Cox (Spencer Cox) promoted him, allowing him to achieve another Utah State first. Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator. The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
 
 </details>
 
@@ -404,7 +433,15 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Spencer Cox (11)</strong></summary>
+<summary><strong class="section-title">Statements by Spencer Cox (12)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:25:04](/episodes/ep-V-phmW9f0pM.md#t-00-25-04) [○] (Claim) ["Spencer Cox announced that he appointed Representative Tyler Clancy as Utah's st..."](/statements/statement-da1da3aaa1eb.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Wayne Niederhauser](/entities/person-wayne-niederhauser.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
@@ -464,7 +501,15 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (12)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (13)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30) (Claim) **Candace Owens**: ["Owens said Governor Spencer Cox promoted Tyler Clancy shortly after th..."](/statements/statement-efa7fc532dda.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+</details>
 
 <details>
 <summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "The Church of Jesus Christ of Latter-day Saints"
-description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 26 mentions"
+description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 29 mentions"
 id: "org-church-of-jesus-christ-of-latter-day-saints"
 type: "ORG"
 aliases:
@@ -27,12 +27,12 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-55-47">2025-09-22 · 00:56:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04">2026-08-19 · 00:33:04</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-09-32">2026-10-13 · 00:09:32</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -56,6 +56,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50" style="--pulse-height:80%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47" style="--pulse-height:40%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-08-47" style="--pulse-height:60%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50) | 4 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04) | 1 |
+| 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-08-47) | 3 |
 
 </details>
 </section>
@@ -88,7 +90,21 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
+
+**[00:08:57](/episodes/ep-V-phmW9f0pM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-08-47)**
+> "...terson) went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia, where he gained a mastery of Spanish..."
+
+**[00:09:28](/episodes/ep-V-phmW9f0pM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-08-47)**
+> "... serve his country during the LDS mission in Colombia, pride in being able to serve..."
+
+**[00:09:32](/episodes/ep-V-phmW9f0pM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-09-32)**
+> "During the LDS mission in Colombia, where conscripted military s..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -316,7 +332,14 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47): “A native of Moscow, Idaho, not to be interesting, where his father was a university professor. Peterson (Val Peterson) went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia, where he gained a mastery of Spanish language. Later, as a student at BYU, Brigham Young University,”
+
+</details>
 
 - **[Frank William Gay](/entities/person-frank-william-gay.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -365,7 +388,15 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (7)</strong></summary>
+<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (8)</strong></summary>
+
+<details>
+<summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>
+
+- [00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) (Citation) **Candace Owens**: ["Citing the 2007 article, Owens said Val Peterson was a Moscow, Idaho n..."](/statements/statement-0de8bcfc195a.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Utah National Guard](/entities/org-utah-national-guard.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
