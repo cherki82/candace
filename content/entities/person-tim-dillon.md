@@ -1,6 +1,6 @@
 ---
 title: "Tim Dillon"
-description: "Tim Dillon (People) - 62 mentions"
+description: "Tim Dillon (People) - 63 mentions"
 id: "person-tim-dillon"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">2025-11-13 · 00:46:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tim-dillon-t-00-49-30">2026-10-13 · 00:49:55</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tim-dillon-t-00-43-23">2026-10-14 · 00:43:42</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>63</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -55,6 +55,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tim-dillon-t-01-03-13" style="--pulse-height:22%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56" style="--pulse-height:11%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tim-dillon-t-00-48-46" style="--pulse-height:33%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tim-dillon-t-00-43-23" style="--pulse-height:11%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +85,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-tim-dillon-t-01-03-13) | 2 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-tim-dillon-t-00-48-46) | 3 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-tim-dillon-t-00-43-23) | 1 |
 
 </details>
 </section>
@@ -95,7 +97,15 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:43:42](/episodes/ep-6jOEN9rBePU.md#ent-person-tim-dillon-t-00-43-23)**
+> "...ve to listen to Congress. And Tim Dillon can be my press secretary, and if he needs a day ..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>

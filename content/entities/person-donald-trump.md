@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 1059 mentions"
+description: "Donald J. Trump (People) - 1064 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,13 +28,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-54-07">2026-10-13 · 00:54:07</a></strong></div>
-<div><span>Episodes</span><strong>149</strong></div>
-<div><span>Mentions</span><strong>1,059</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-29-35">2026-10-14 · 00:29:35</a></strong></div>
+<div><span>Episodes</span><strong>150</strong></div>
+<div><span>Mentions</span><strong>1,064</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>265</strong></div>
-<div><span>Relationships</span><strong>175</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>267</strong></div>
+<div><span>Relationships</span><strong>177</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -190,6 +190,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-30-44" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 13 mentions" title="2026-10-13 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11" style="--pulse-height:10%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -344,6 +345,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-donald-trump-t-00-30-44) | 3 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24) | 13 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11) | 5 |
 
 </details>
 </section>
@@ -351,11 +353,32 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the Zacharia legal-credentials objection narrowed](/threads/thread-zacharia-legal-credentials-dispute) — Tracks Owens's law-degree challenge, Zacharia's quoted practice-and-credentials defense, and Owens's subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1059)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1064)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
+
+**[00:15:23](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11)**
+> "...ons. Why did President Donald Trump call Charlie Kirk in July and reprimand him for s..."
+
+**[00:28:21](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-27-58)**
+> "...she gave when she was next to Trump (Donald Trump) and the reporters just asked her."
+
+**[00:28:30](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-27-58)**
+> "When she was next to Trump (Donald Trump) and the reporters just asked her, ..."
+
+**[00:29:25](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-28-58)**
+> "...t's massively embarrassing to Trump (Donald Trump). It's massively embarrassing that ..."
+
+**[00:29:35](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-29-35)**
+> "It's just wrong. Trump (Donald Trump) got duped. Why she was put into th..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (13 mentions)</summary>
@@ -4342,7 +4365,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Appeared With (12)</summary>
+<summary>Appeared With (13)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4429,6 +4452,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07): “Just look no further than last night in Youngstown, Ohio, where President Trump (Donald Trump) delivered another blockbuster rally out on the trail. The arena was overflowing with enthusiasm. ... thousands came out to support President Trump (Donald Trump), as well as special guests Jake Paul and football legend Jon Gruden,”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... When she was next to Trump (Donald Trump) and the reporters just asked her, hey, where, where did you, where'd you pass the bar?”
 
 </details>
 
@@ -4703,9 +4733,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Katie Zacharia](/entities/person-katie-zacharia.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44): “I am so honored to work for President Trump (Donald Trump) and the American people as the new White House press secretary.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... And so this is all made up and it's massively embarrassing to Trump (Donald Trump). It's massively embarrassing that we have people who are so tribal, they won't call this out and say it's wrong.”
 
 </details>
 
@@ -5144,7 +5175,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (87)</summary>
+<summary>Referenced By (88)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5279,6 +5310,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:36:22](/episodes/ep-V-phmW9f0pM.md#t-00-36-07): “Just look no further than last night in Youngstown, Ohio, where President Trump (Donald Trump) delivered another blockbuster rally out on the trail. The arena was overflowing with enthusiasm. ... thousands came out to support President Trump (Donald Trump), as well as special guests Jake Paul and football legend Jon Gruden,”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... When she was next to Trump (Donald Trump) and the reporters just asked her, hey, where, where did you, where'd you pass the bar?”
 
 </details>
 
@@ -5838,9 +5876,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Katie Zacharia](/entities/person-katie-zacharia.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44): “I am so honored to work for President Trump (Donald Trump) and the American people as the new White House press secretary.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... And so this is all made up and it's massively embarrassing to Trump (Donald Trump). It's massively embarrassing that we have people who are so tribal, they won't call this out and say it's wrong.”
 
 </details>
 
@@ -6054,7 +6093,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (265)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (267)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>
+
+- [00:15:23](/episodes/ep-6jOEN9rBePU.md#t-00-15-11) (Accusation) **Candace Owens**: ["Why did President Donald Trump call Charlie Kirk in July and reprimand..."](/statements/statement-16c95e8be047.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:29:18](/episodes/ep-6jOEN9rBePU.md#t-00-28-58) (Accusation) **Candace Owens**: ["Owens alleged that Katie Zacharia did not pass the bar and that the st..."](/statements/statement-5bed8ec5d921.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4)</summary>

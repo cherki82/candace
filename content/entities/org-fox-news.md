@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 105 mentions"
+description: "Fox News (Organizations) - 106 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-22-41">2026-09-30 · 00:23:31</a></strong></div>
-<div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>105</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-fox-news-t-00-27-15">2026-10-14 · 00:27:33</a></strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>106</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -97,6 +97,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-fox-news-t-00-11-15" style="--pulse-height:38%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-fox-news-t-01-04-22" style="--pulse-height:12%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-15-21" style="--pulse-height:38%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 3 mentions" title="2026-09-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-fox-news-t-00-27-15" style="--pulse-height:12%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -160,6 +161,7 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-fox-news-t-00-11-15) | 3 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-fox-news-t-01-04-22) | 1 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-15-21) | 3 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-fox-news-t-00-27-15) | 1 |
 
 </details>
 </section>
@@ -171,7 +173,15 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:27:33](/episodes/ep-6jOEN9rBePU.md#ent-org-fox-news-t-00-27-15)**
+> "providing commentary on Fox News. I'm sure she's a nice girl. It's nothing persona..."
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (3 mentions)</summary>
@@ -840,12 +850,19 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Has Contributor (1)</summary>
+<summary>Has Contributor (2)</summary>
 
 - **[Jason Chaffetz](/entities/person-jason-chavitz.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-21-50): “Jason Chaffetz is a former politician and a Fox News contributor who was a witness to the events.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... This is like first day nerves and it's totally fine that we can't confirm her background. She's been. ... providing commentary on Fox News. I'm sure she's a nice girl. It's nothing personal, nothing personal against Katie (Katie Zacharia).”
 
 </details>
 
@@ -878,7 +895,7 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Suzanne Scott](/entities/person-suzanne-scott.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -891,6 +908,13 @@ Source: [Fox News](https://www.foxnews.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-21-50): “Jason Chaffetz is a former politician and a Fox News contributor who was a witness to the events.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** contributor to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... This is like first day nerves and it's totally fine that we can't confirm her background. She's been. ... providing commentary on Fox News. I'm sure she's a nice girl. It's nothing personal, nothing personal against Katie (Katie Zacharia).”
 
 </details>
 
@@ -957,7 +981,15 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fox News (12)</strong></summary>
+<summary><strong class="section-title">Statements about Fox News (13)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) (Claim) **Candace Owens**: ["Owens described Katie Zacharia as the new press secretary and said she..."](/statements/statement-70fd80ed53d5.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>

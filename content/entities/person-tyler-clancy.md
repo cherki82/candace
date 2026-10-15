@@ -1,6 +1,6 @@
 ---
 title: "Tyler Clancy"
-description: "Tyler Clancy (People) - 27 mentions"
+description: "Tyler Clancy (People) - 31 mentions"
 id: "person-tyler-clancy"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-13-10">2026-10-13 · 00:13:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-32-45">2026-10-13 · 00:33:04</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-07-22">2026-10-14 · 00:07:33</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -32,12 +32,14 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 <p>Highest activity: <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-13-10">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a> (27 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-13-10" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 27 mentions" title="2026-10-13 · 27 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-06-40" style="--pulse-height:15%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-13-10) | 27 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-06-40) | 4 |
 
 </details>
 </section>
@@ -49,7 +51,24 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
+
+**[00:06:40](/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-06-40)**
+> "...her than Provo Police Officer Tyler Clancy."
+
+**[00:06:58](/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-06-40)**
+> "...a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansio..."
+
+**[00:07:13](/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-06-40)**
+> "Wow. What can I say? Tyler Clancy really is just so impressive. That's what I want ..."
+
+**[00:07:33](/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-07-22)**
+> "...Who knows? I wonder if Tyler (Tyler Clancy) was which hat he was wearing. House of Rep hats?..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (27 mentions)</summary>
@@ -218,9 +237,10 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 <summary>Member Of (1)</summary>
 
 - **[Utah House of Representatives](/entities/org-utah-house-of-representatives.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:15:57](/episodes/ep-V-phmW9f0pM.md#t-00-15-34): “The point I'm making that I like you guys take away from this is that just like his church leader and his House of Representatives colleague, Val (Val Peterson), Tyler Clancy wears many hats. And on September 10th, 2025, not only was he serving in the House of Reps, but he was also serving as a Provo police officer, special victims unit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:58](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion. ... And to be clear, the Utah House of Reps, they work 45 days a year and he started in 2023. So he's climbing this ladder quickly. He's making a lot of connections here.”
 
 </details>
 
@@ -239,6 +259,18 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 </details>
 
 <details>
+<summary>Met With (1)</summary>
+
+- **[Spencer Cox](/entities/person-spencer-cox.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
@@ -251,7 +283,7 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -303,9 +335,10 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 </details>
 
 - **[Utah House of Representatives](/entities/org-utah-house-of-representatives.md)** has member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:15:57](/episodes/ep-V-phmW9f0pM.md#t-00-15-34): “The point I'm making that I like you guys take away from this is that just like his church leader and his House of Representatives colleague, Val (Val Peterson), Tyler Clancy wears many hats. And on September 10th, 2025, not only was he serving in the House of Reps, but he was also serving as a Provo police officer, special victims unit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:58](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion. ... And to be clear, the Utah House of Reps, they work 45 days a year and he started in 2023. So he's climbing this ladder quickly. He's making a lot of connections here.”
 
 </details>
 
@@ -313,6 +346,13 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:15:01](/episodes/ep-V-phmW9f0pM.md#t-00-15-01): “Peterson (Val Peterson), who has represented portions of Utah County in the House for more than a decade, was Clancy (Tyler Clancy)'s church leader. During his time at BYU and has helped the young lawmaker navigate the learning curve inherent in the legislative process.”
+
+</details>
+
+- **[Spencer Cox](/entities/person-spencer-cox.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
 
 </details>
 
@@ -328,7 +368,18 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Clancy (17)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Clancy (19)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>
+
+- [00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40) (Citation) **Candace Owens**: ["Owens cited Governor Spencer Cox's published schedule as listing a Sep..."](/statements/statement-85e7964d90c2.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:07:22](/episodes/ep-6jOEN9rBePU.md#t-00-07-22) (Claim) **Candace Owens**: ["Owens said the Utah House of Representatives works 45 days a year and ..."](/statements/statement-48e5154454b3.md)
+  - Also about: [Utah House of Representatives](/entities/org-utah-house-of-representatives.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (17)</summary>

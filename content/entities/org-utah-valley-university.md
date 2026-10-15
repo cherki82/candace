@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 450 mentions"
+description: "Utah Valley University (Organizations) - 455 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-12-25">2026-10-13 · 00:13:02</a></strong></div>
-<div><span>Episodes</span><strong>95</strong></div>
-<div><span>Mentions</span><strong>450</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-12-28">2026-10-14 · 00:12:58</a></strong></div>
+<div><span>Episodes</span><strong>96</strong></div>
+<div><span>Mentions</span><strong>455</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>208</strong></div>
+<div><span>Statements about</span><strong>212</strong></div>
 <div><span>Relationships</span><strong>51</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -135,6 +135,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-00-01" style="--pulse-height:23%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 11 mentions" title="2026-10-07 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40" style="--pulse-height:32%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 15 mentions" title="2026-10-13 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55" style="--pulse-height:11%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -235,6 +236,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-utah-valley-university-t-00-00-01) | 11 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13) | 4 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40) | 15 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55) | 5 |
 
 </details>
 </section>
@@ -246,7 +248,27 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (450)</strong></summary>
+<summary><strong class="section-title">Raw mentions (455)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
+
+**[00:03:22](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55)**
+> "...terson, the vice president of UVU, and apparently the guy, the man allegedly feared..."
+
+**[00:03:42](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-03-36)**
+> "...he after incident report that UVU had outsourced the independent review, you know, ..."
+
+**[00:04:00](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-03-36)**
+> "...e oversaw EMS services at the UVU among it. So you would think that if he knew Char..."
+
+**[00:04:16](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-04-16)**
+> "... terrified faculty members at UVU, we were able to put some more pieces together. W..."
+
+**[00:12:58](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-12-28)**
+> "...o allegedly, according to the UVU review, insisted."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (15 mentions)</summary>
@@ -2230,9 +2252,10 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Has Vice President (1)</summary>
 
 - **[Val L. Peterson](/entities/person-val-peterson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
 
 </details>
 
@@ -2486,9 +2509,10 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 - **[Val L. Peterson](/entities/person-val-peterson.md)** vice president of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
 
 </details>
 
@@ -2523,7 +2547,24 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (208)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (212)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55) (Claim) **Candace Owens** (via paraphrase): ["Owens described Val Peterson as UVU's vice president, allegedly feared..."](/statements/statement-4743917a40b1.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) (Claim) **Candace Owens**: ["Val Peterson oversaw EMS services at UVU, according to Owens."](/statements/statement-446a741467ef.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md)
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) (Citation) **Candace Owens**: ["Owens cited UVU's independent after-incident review as saying Val Pete..."](/statements/statement-1165c73c5b31.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md)
+
+- [00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) (Citation) **Candace Owens** (via paraphrase): ["Owens said that, allegedly according to the UVU review, Maycee Crofts ..."](/statements/statement-315140a7550a.md)
+  - Also about: [Maycee Crofts](/entities/person-maycee-crofts.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (7)</summary>

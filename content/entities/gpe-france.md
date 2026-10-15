@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 359 mentions"
+description: "France (Places) - 365 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-france-t-00-54-00">2026-10-05 · 00:54:00</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>359</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-20-33">2026-10-14 · 00:20:33</a></strong></div>
+<div><span>Episodes</span><strong>63</strong></div>
+<div><span>Mentions</span><strong>365</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>45</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>48</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -97,6 +97,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-france-t-00-39-02" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-france-t-00-31-51" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 2 mentions" title="2026-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-france-t-00-54-00" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-15-42" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 6 mentions" title="2026-10-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -164,6 +165,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-france-t-00-39-02) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-france-t-00-31-51) | 2 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-france-t-00-54-00) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-15-42) | 6 |
 
 </details>
 </section>
@@ -175,7 +177,30 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (359)</strong></summary>
+<summary><strong class="section-title">Raw mentions (365)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (6 mentions)</summary>
+
+**[00:16:07](/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-15-42)**
+> "...gency that was started by the French pervert, Jean-Luc Brunel, who was Jeffrey Epstein..."
+
+**[00:18:55](/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-18-30)**
+> "...t spewing grand conspiracies. France, Israel, the United States government all working..."
+
+**[00:19:33](/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-19-09)**
+> "...hislaine Maxwell, was born in France. He therefore ran his trafficking operations in a..."
+
+**[00:19:41](/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-19-09)**
+> "...ed property and businesses in France. Jean-Luc Brunel, who hung himself, perhaps was s..."
+
+**[00:19:49](/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-19-09)**
+> "French. Modeling agency's French."
+
+**[00:20:33](/episodes/ep-6jOEN9rBePU.md#ent-gpe-france-t-00-20-33)**
+> "...out pedo criminal networks in France."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
@@ -1579,12 +1604,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Birthplace Of (1)</summary>
+<summary>Birthplace Of (2)</summary>
 
 - **[Pierre Falcone](/entities/person-pierre-falcone.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
+
+- **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:33](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “His convicted partner, Ghislaine Maxwell, was born in France. He therefore ran his trafficking operations in and through France extensively.”
 
 </details>
 
@@ -1646,7 +1678,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1673,6 +1705,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
+
+- **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)** born in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:33](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “His convicted partner, Ghislaine Maxwell, was born in France. He therefore ran his trafficking operations in and through France extensively.”
 
 </details>
 
@@ -1715,7 +1754,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (45)</strong></summary>
+<summary><strong class="section-title">Statements about France (48)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3)</summary>
+
+- [00:18:55](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) (Opinion) **Candace Owens**: ["Owens suggested that France, Israel, and the United States working tog..."](/statements/statement-cbf5c89fd4e1.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Accusation) **Candace Owens**: ["Owens said Jeffrey Epstein ran trafficking operations extensively in a..."](/statements/statement-3f1a7905719e.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Claim) **Candace Owens**: ["Owens said Jeffrey Epstein owned property and businesses in France."](/statements/statement-33195375a702.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>

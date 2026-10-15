@@ -17,6 +17,8 @@ _Type: Organizations_
 
 **Categories:** child exploitation law enforcement, law enforcement network
 
+> **Possibly overlapping entity records:** [Idaho Attorney General Internet Crimes Against Children Unit](/entities/org-idaho-attorney-general-icac-unit). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > The U.S. Office of Juvenile Justice and Delinquency Prevention confirms the canonical program name and ICAC acronym.
 Source: [OJJDP Internet Crimes Against Children Task Force Program](https://ojjdp.ojp.gov/programs/internet-crimes-against-children-task-force-program)

@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 511 mentions"
+description: "Ben Shapiro (People) - 517 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-49-39">2026-10-07 · 00:49:39</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>511</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-45-02">2026-10-14 · 00:45:02</a></strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>517</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>118</strong></div>
-<div><span>Relationships</span><strong>101</strong></div>
+<div><span>Statements about</span><strong>122</strong></div>
+<div><span>Relationships</span><strong>105</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -114,6 +114,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-ben-shapiro-t-00-52-51" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-32-10" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-22-21" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-39-51" style="--pulse-height:11%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 6 mentions" title="2026-10-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -197,6 +198,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-ben-shapiro-t-00-52-51) | 2 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-ben-shapiro-t-00-32-10) | 4 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-ben-shapiro-t-00-22-21) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-39-51) | 6 |
 
 </details>
 </section>
@@ -208,7 +210,30 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (511)</strong></summary>
+<summary><strong class="section-title">Raw mentions (517)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (6 mentions)</summary>
+
+**[00:39:51](/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-39-51)**
+> "...r who is allegedly stuck in a Ben Shapiro project, either kind of tricked him into allegedl..."
+
+**[00:40:15](/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-39-51)**
+> "...ently had never even heard of Ben Shapiro before signing on for this new movie, Pondshop."
+
+**[00:40:35](/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-40-35)**
+> "...yone, including us, found out Ben Shapiro was involved." That's, that is so exactly what I ..."
+
+**[00:41:17](/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-41-17)**
+> "...out knowing any of the facts. Ben Shapiro got Mexicans to abandon one of their heroes, got ..."
+
+**[00:41:34](/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-41-17)**
+> "...ll stalk you, you can't leave Ben Shapiro. I just I just want to give some free advice to D..."
+
+**[00:45:02](/episodes/ep-6jOEN9rBePU.md#ent-person-ben-shapiro-t-00-45-02)**
+> "... Abigail writes, "Did you see Ben Shapiro getting called out""
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
@@ -2299,10 +2324,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Criticized By (4)</summary>
+<summary>Criticized By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2325,6 +2350,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:53:08](/episodes/ep-6XfDqKTdFKg.md#t-00-52-51): “They just are so disrespectful to my pregnancy right now. The weatherman is just disrespecting my pregnancy. Janet (online commenter; surname unverified) writes: Ben Shapiro, I compel you to apologize to Candace Owens. That was so random. We weren't even talking about Ben (Ben Shapiro) today, but I agree. I compel you. I compel you to apologize just because you should.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17): “I want to let you know that, yeah, if he will sue you for breach of contract, he won't just sue you breach contract, he will follow you across states, he will stalk you, you can't leave Ben Shapiro. I just I just want to give some free advice to Danny Trejo that, yeah, you can the tricky contract clauses, not knowing who somebody is, feeling entrapped and then being like this is just morally wrong. ... If you try to get out of that contract, you're getting sued, sue sued. Like, I mean, then he will encourage others to sue you with their money. ... Really. I tend to believe that. I call it from personal experience. Let me tell you, you better just do the movie or you're going to have to deal with. ... a psychotic stalker for the rest of your life who will then probably try to take your business, your kids' businesses. He's probably already plotting against one of your kids. I'm guessing he's already, because he just can't, he just can't be normal and realize that people, people don't want to work with him. They don't want to work with him. They want to move on in their lives, and that's not, it's not acceptable according to him. So, um, stay in it, Danny (Danny Trejo). If you need someone to talk to, I'm here. Top comments from yesterday's episode, Kim Wood writes, "We are going to need"”
 
 </details>
 
@@ -2347,6 +2373,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:05:41](/episodes/ep-k8ueJdPFel4.md#t-00-05-12): “She writes, poor little Ben (Ben Shapiro). And I do mean little desperate for me to protect him. Can you imagine being this emasculated? It's sad.”
+
+</details>
+
+- **[Gilbert Trejo](/entities/person-gilbert-trejo.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35): “"Ish with my dad, he was booked on a film. It's not pro-ICE. It's not overtly pro-anything. His agent described it as, quote, a complicated story about a complicated time where everyone looks bad except you, the hardworking Mexican shop owner who just wants peace. He jumped at the idea of playing a good guy. About two weeks into shooting, everyone, including us, found out Ben Shapiro was involved." That's, that is so exactly what I think happened, by the way. "My 82-year-old dad said he had never heard of Ben Shapiro. I had to explain" ... To explain to him who that is and what kind of guy he is, my dad contractually cannot badmouth him, the film, or walk away without being sued for breach of contract. ... He couldn't even release the statement that he wanted to. It's effed up. He is handcuffed to the stupid project. ... And so many people have instantly turned their back on him without knowing any of the facts. Ben Shapiro got Mexicans to abandon one of their heroes, got his own name to the top of Google searches and made us look.”
 
 </details>
 
@@ -2595,6 +2628,18 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
+<summary>Produced (1)</summary>
+
+- **[Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:51](/episodes/ep-6jOEN9rBePU.md#t-00-39-51): “Okay, I want to comment on this very quickly. I saw this trending. Danny Trejo, the actor who is allegedly stuck in a Ben Shapiro project, either kind of tricked him into allegedly, his son is claiming, Variety is reporting that people were going, why is Danny Trejo participating in this movie with Ben Shapiro and like that, you know, Ben Shapiro was producing rather. ... And it's a pro-ice project, which goes against his roots, his Mexican roots. And Danny Trejo apparently had never even heard of Ben Shapiro before signing on for this new movie, Pondshop.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Represented By (1)</summary>
 
 - **[Matthew Sarelson](/entities/person-matthew-sarelson.md)**
@@ -2684,7 +2729,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (50)</summary>
+<summary>Referenced By (52)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -2728,7 +2773,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2751,6 +2796,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:53:08](/episodes/ep-6XfDqKTdFKg.md#t-00-52-51): “They just are so disrespectful to my pregnancy right now. The weatherman is just disrespecting my pregnancy. Janet (online commenter; surname unverified) writes: Ben Shapiro, I compel you to apologize to Candace Owens. That was so random. We weren't even talking about Ben (Ben Shapiro) today, but I agree. I compel you. I compel you to apologize just because you should.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17): “I want to let you know that, yeah, if he will sue you for breach of contract, he won't just sue you breach contract, he will follow you across states, he will stalk you, you can't leave Ben Shapiro. I just I just want to give some free advice to Danny Trejo that, yeah, you can the tricky contract clauses, not knowing who somebody is, feeling entrapped and then being like this is just morally wrong. ... If you try to get out of that contract, you're getting sued, sue sued. Like, I mean, then he will encourage others to sue you with their money. ... Really. I tend to believe that. I call it from personal experience. Let me tell you, you better just do the movie or you're going to have to deal with. ... a psychotic stalker for the rest of your life who will then probably try to take your business, your kids' businesses. He's probably already plotting against one of your kids. I'm guessing he's already, because he just can't, he just can't be normal and realize that people, people don't want to work with him. They don't want to work with him. They want to move on in their lives, and that's not, it's not acceptable according to him. So, um, stay in it, Danny (Danny Trejo). If you need someone to talk to, I'm here. Top comments from yesterday's episode, Kim Wood writes, "We are going to need"”
 
 </details>
 
@@ -2773,6 +2819,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:05:41](/episodes/ep-k8ueJdPFel4.md#t-00-05-12): “She writes, poor little Ben (Ben Shapiro). And I do mean little desperate for me to protect him. Can you imagine being this emasculated? It's sad.”
+
+</details>
+
+- **[Gilbert Trejo](/entities/person-gilbert-trejo.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35): “"Ish with my dad, he was booked on a film. It's not pro-ICE. It's not overtly pro-anything. His agent described it as, quote, a complicated story about a complicated time where everyone looks bad except you, the hardworking Mexican shop owner who just wants peace. He jumped at the idea of playing a good guy. About two weeks into shooting, everyone, including us, found out Ben Shapiro was involved." That's, that is so exactly what I think happened, by the way. "My 82-year-old dad said he had never heard of Ben Shapiro. I had to explain" ... To explain to him who that is and what kind of guy he is, my dad contractually cannot badmouth him, the film, or walk away without being sued for breach of contract. ... He couldn't even release the statement that he wanted to. It's effed up. He is handcuffed to the stupid project. ... And so many people have instantly turned their back on him without knowing any of the facts. Ben Shapiro got Mexicans to abandon one of their heroes, got his own name to the top of Google searches and made us look.”
 
 </details>
 
@@ -3055,6 +3108,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)** produced by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:51](/episodes/ep-6jOEN9rBePU.md#t-00-39-51): “Okay, I want to comment on this very quickly. I saw this trending. Danny Trejo, the actor who is allegedly stuck in a Ben Shapiro project, either kind of tricked him into allegedly, his son is claiming, Variety is reporting that people were going, why is Danny Trejo participating in this movie with Ben Shapiro and like that, you know, Ben Shapiro was producing rather. ... And it's a pro-ice project, which goes against his roots, his Mexican roots. And Danny Trejo apparently had never even heard of Ben Shapiro before signing on for this new movie, Pondshop.”
+
+</details>
+
 - **[Matthew Sarelson](/entities/person-matthew-sarelson.md)** represented this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -3242,7 +3302,24 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (118)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (122)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>
+
+- [00:39:51](/episodes/ep-6jOEN9rBePU.md#t-00-39-51) (Claim) **Gilbert Trejo** (via quoted article): ["Gilbert Trejo said his father Danny was booked on a film represented a..."](/statements/statement-5eda373fcae4.md)
+  - Also about: [Danny Trejo](/entities/person-danny-trejo.md), [Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)
+
+- [00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35) (Claim) **Gilbert Trejo** (via quoted article): ["Gilbert Trejo said Danny Trejo's contract prevented him from badmouthi..."](/statements/statement-3ffbf5388ac8.md)
+  - Also about: [Danny Trejo](/entities/person-danny-trejo.md), [Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) (Accusation) **Candace Owens**: ["Owens alleged that if Danny Trejo tried to leave Ben Shapiro's contrac..."](/statements/statement-6ec723c5b44f.md)
+  - Also about: [Danny Trejo](/entities/person-danny-trejo.md)
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) (Accusation) **Candace Owens**: ["Citing personal experience, Owens warned Danny Trejo he could face a s..."](/statements/statement-df5acb5d2e9d.md)
+  - Also about: [Danny Trejo](/entities/person-danny-trejo.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>

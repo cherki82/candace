@@ -25,13 +25,23 @@ type: "accusation"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [White House](/entities/org-white-house.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [01:00:54](/episodes/ep-5-HUyv9LyMg.md#t-01-00-54) 
 <a href="https://www.youtube.com/watch?v=5-HUyv9LyMg&t=3654s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > France, by the way, I have told you guys this repeatedly, was there on the day of Charlie Kirk's assassination. I made that statement, and the White House has not disputed it, have they? ... The French Foreign Legion
+
+### 2. Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death...
+
+**Episode:** [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md)
+**Timestamp:** [00:18:46](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) 
+<a href="https://www.youtube.com/watch?v=6jOEN9rBePU&t=1126s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> regarding Israel. He was done with them. I said, hey, White House, the French Foreign Legion's presence, they were there on the day, on the ground that day. ... It's a fact that still has never been disputed by the White House
 
 ## Verification
 

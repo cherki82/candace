@@ -1,6 +1,6 @@
 ---
 title: "Theo Von"
-description: "Theo Von (People) - 51 mentions"
+description: "Theo Von (People) - 52 mentions"
 id: "person-theo-von"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-36">2025-10-02 · 00:46:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-55-35">2026-10-13 · 00:56:09</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-theo-von-t-00-43-23">2026-10-14 · 00:43:42</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -50,6 +50,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13" style="--pulse-height:36%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56" style="--pulse-height:27%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-48-46" style="--pulse-height:18%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-theo-von-t-00-43-23" style="--pulse-height:9%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-theo-von-t-01-03-13) | 4 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-theo-von-t-00-47-56) | 3 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-theo-von-t-00-48-46) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-theo-von-t-00-43-23) | 1 |
 
 </details>
 </section>
@@ -77,7 +79,15 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:43:42](/episodes/ep-6jOEN9rBePU.md#ent-person-theo-von-t-00-43-23)**
+> "...eds a day off, weeks off, um, Theo Von"
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>

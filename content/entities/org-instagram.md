@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 136 mentions"
+description: "Instagram (Organizations) - 138 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-instagram-t-00-25-48">2026-10-13 · 00:26:20</a></strong></div>
-<div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>136</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-instagram-t-00-34-20">2026-10-14 · 00:34:46</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>138</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -103,6 +103,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-10-17" style="--pulse-height:62%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-10-40" style="--pulse-height:38%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-instagram-t-00-16-18" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-instagram-t-00-20-33" style="--pulse-height:25%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -180,6 +181,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-instagram-t-00-10-17) | 5 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-instagram-t-00-10-40) | 3 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-instagram-t-00-16-18) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-instagram-t-00-20-33) | 2 |
 
 </details>
 </section>
@@ -191,7 +193,18 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (136)</strong></summary>
+<summary><strong class="section-title">Raw mentions (138)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
+
+**[00:20:45](/episodes/ep-6jOEN9rBePU.md#ent-org-instagram-t-00-20-33)**
+> "...y is not an empty tweet or an Instagram post dedicated from the people whose careers that..."
+
+**[00:34:46](/episodes/ep-6jOEN9rBePU.md#ent-org-instagram-t-00-34-20)**
+> "... she tweeted out or went onto Instagram and immediately wrote that she had been discrimin..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 916 mentions"
+description: "Andrew Kolvet (People) - 918 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-50-13">2026-10-08 · 00:50:13</a></strong></div>
-<div><span>Episodes</span><strong>137</strong></div>
-<div><span>Mentions</span><strong>916</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-andrew-kolvet-t-00-17-46">2026-10-14 · 00:18:07</a></strong></div>
+<div><span>Episodes</span><strong>138</strong></div>
+<div><span>Mentions</span><strong>918</strong></div>
 <div><span>Statements by</span><strong>113</strong></div>
-<div><span>Statements about</span><strong>268</strong></div>
+<div><span>Statements about</span><strong>269</strong></div>
 <div><span>Relationships</span><strong>129</strong></div>
 <div><span>Threads</span><strong>3</strong></div>
 </div>
@@ -172,6 +172,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-03-41" style="--pulse-height:12%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-02-09" style="--pulse-height:9%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-45-55" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-andrew-kolvet-t-00-17-46" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -314,6 +315,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-kolvet-t-00-03-41) | 5 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-kolvet-t-00-02-09) | 4 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-andrew-kolvet-t-00-45-55) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-andrew-kolvet-t-00-17-46) | 2 |
 
 </details>
 </section>
@@ -327,7 +329,18 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (916)</strong></summary>
+<summary><strong class="section-title">Raw mentions (918)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
+
+**[00:17:46](/episodes/ep-6jOEN9rBePU.md#ent-person-andrew-kolvet-t-00-17-46)**
+> "was Andrew Kolvet allegedly at the White House meeting with top bra..."
+
+**[00:18:07](/episodes/ep-6jOEN9rBePU.md#ent-person-andrew-kolvet-t-00-17-46)**
+> "...t this means, but I'm hearing Andrew Kolvet's at the White House.""
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
@@ -5615,7 +5628,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (268)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (269)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:17:46](/episodes/ep-6jOEN9rBePU.md#t-00-17-46) (Claim) **Candace Owens** (via paraphrase): ["Owens asked why Andrew Kolvet was allegedly at the White House meeting..."](/statements/statement-88f27d9c0bbe.md)
+  - Also about: [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md), [Two White House email sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-013.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3)</summary>

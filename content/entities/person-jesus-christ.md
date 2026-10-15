@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 418 mentions"
+description: "Jesus Christ (People) - 419 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-49-44">2026-10-08 · 00:50:01</a></strong></div>
-<div><span>Episodes</span><strong>143</strong></div>
-<div><span>Mentions</span><strong>418</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jesus-christ-t-00-23-14">2026-10-14 · 00:23:21</a></strong></div>
+<div><span>Episodes</span><strong>144</strong></div>
+<div><span>Mentions</span><strong>419</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -179,6 +179,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-jesus-christ-t-00-35-29" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-jesus-christ-t-00-46-53" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-47-12" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jesus-christ-t-00-23-14" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -327,6 +328,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-jesus-christ-t-00-35-29) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-jesus-christ-t-00-46-53) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-jesus-christ-t-00-47-12) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-jesus-christ-t-00-23-14) | 1 |
 
 </details>
 </section>
@@ -334,7 +336,15 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (418)</strong></summary>
+<summary><strong class="section-title">Raw mentions (419)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:23:21](/episodes/ep-6jOEN9rBePU.md#ent-person-jesus-christ-t-00-23-14)**
+> "...nds of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies,..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>

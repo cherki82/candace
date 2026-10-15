@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 4551 factual claims and 8544 attributed statements"
+description: "Browse 4574 factual claims and 8589 attributed statements"
 ---
 
 # Claims & Statements
 
-_4551 factual claims within 8544 attributed statements._
+_4574 factual claims within 8589 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _4551 factual claims within 8544 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (182)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (183)</label>
 </div>
 
 <style>
@@ -53,7 +53,150 @@ _4551 factual claims within 8544 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (4551)</strong></summary>
+<summary><strong class="section-title">Factual Claims (4574)</strong></summary>
+
+<details>
+<summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (23)</summary>
+
+<div class="filter-item" data-filter-key="statement-4743917a40b1">
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55) [○] **Candace Owens**: ["Owens described Val Peterson as UVU's vice president, allegedly feared by facult..."](/statements/statement-4743917a40b1.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-446a741467ef">
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) [○] **Candace Owens**: ["Val Peterson oversaw EMS services at UVU, according to Owens."](/statements/statement-446a741467ef.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-32b82145af6e">
+
+- [00:04:16](/episodes/ep-6jOEN9rBePU.md#t-00-04-16) [○] **Candace Owens**: ["Owens said multiple sources with direct knowledge reported that Val Peterson was..."](/statements/statement-32b82145af6e.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Heber City, Utah](/entities/gpe-heber-city-utah.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6bc7789739bf">
+
+- [00:04:49](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) [○] **Candace Owens**: ["Owens said she was also told Val Peterson was with Governor Spencer Cox while aw..."](/statements/statement-6bc7789739bf.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f077492c34cb">
+
+- [00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03) [○] **Candace Owens**: ["As far as Owens and her team could tell, Governor Spencer Cox had never stated w..."](/statements/statement-f077492c34cb.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-48e5154454b3">
+
+- [00:07:22](/episodes/ep-6jOEN9rBePU.md#t-00-07-22) [○] **Candace Owens**: ["Owens said the Utah House of Representatives works 45 days a year and Tyler Clan..."](/statements/statement-48e5154454b3.md)
+  - About: [Utah House of Representatives](/entities/org-utah-house-of-representatives.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-26db539bd5b9">
+
+- [00:08:20](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) [○] **Candace Owens**: ["Owens said Val Peterson has a brother named Charles Loritz Peterson. The middle ..."](/statements/statement-26db539bd5b9.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-194286f9197a">
+
+- [00:08:35](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) [○] **Candace Owens**: ["Owens said the man she identified as Val Peterson's brother, Charles Loritz Pete..."](/statements/statement-194286f9197a.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Val L. Peterson](/entities/person-val-peterson.md), [Layton, Utah](/entities/gpe-layton-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-425ea556539d">
+
+- [00:08:44](/episodes/ep-6jOEN9rBePU.md#t-00-08-44) [○] **Candace Owens**: ["Owens reported Utah charges against the man she identified as Charles Loritz Pet..."](/statements/statement-425ea556539d.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Utah](/entities/gpe-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5f9e3ddcdb17">
+
+- [00:12:28](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) [○] **Candace Owens**: ["Owens said Val Peterson was from Moscow, Idaho, where his father was a Universit..."](/statements/statement-5f9e3ddcdb17.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [University of Idaho](/entities/org-university-of-idaho.md), [Moscow, Idaho](/entities/gpe-moscow-idaho.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24ed0c5d7611">
+
+- [00:13:20](/episodes/ep-6jOEN9rBePU.md#t-00-13-10) [○] **Candace Owens**: ["Owens said Maycee Crofts's Uncle Kip Crofts was arrested just outside Nampa, whe..."](/statements/statement-24ed0c5d7611.md)
+  - About: [Maycee Crofts](/entities/person-maycee-crofts.md), [Kip Crofts](/entities/person-kip-crofts.md), [Nampa, Idaho](/entities/gpe-nampa-idaho.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-634d53ebac46">
+
+- [00:13:43](/episodes/ep-6jOEN9rBePU.md#t-00-13-43) [○] **Idaho Office of Attorney General**: ["An Idaho Attorney General release read by Owens said a Meridian man, Charles Pet..."](/statements/statement-634d53ebac46.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Idaho Attorney General Internet Crimes Against Children Unit](/entities/org-idaho-attorney-general-icac-unit.md), [Layton City Police Department](/entities/org-layton-police-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a57af3cea489">
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) [○] **Candace Owens**: ["Why did the Epstein files require so many top-level meetings in the White House ..."](/statements/statement-a57af3cea489.md)
+  - About: [Epstein Files](/entities/work-epstein-files.md), [White House](/entities/org-white-house.md), [White House Situation Room](/entities/gpe-white-house-situation-room.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-78ac54903b99">
+
+- [00:17:14](/episodes/ep-6jOEN9rBePU.md#t-00-17-07) [○] **Candace Owens**: ["Owens said Charlie Kirk's last company pitch to investors in Aspen, three weeks ..."](/statements/statement-78ac54903b99.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Club America](/entities/org-club-america.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-88f27d9c0bbe">
+
+- [00:17:46](/episodes/ep-6jOEN9rBePU.md#t-00-17-46) [○] **Candace Owens**: ["Owens asked why Andrew Kolvet was allegedly at the White House meeting top brass..."](/statements/statement-88f27d9c0bbe.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3f6722c15e73">
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] **Candace Owens**: ["Owens claimed Jeffrey Epstein worked directly for the Rothschilds, who, she said..."](/statements/statement-3f6722c15e73.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Rothschild family](/entities/org-rothschild-family.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-33195375a702">
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] **Candace Owens**: ["Owens said Jeffrey Epstein owned property and businesses in France."](/statements/statement-33195375a702.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-70fd80ed53d5">
+
+- [00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) [○] **Candace Owens**: ["Owens described Katie Zacharia as the new press secretary and said she had provi..."](/statements/statement-70fd80ed53d5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Fox News](/entities/org-fox-news.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0412c2c1b999">
+
+- [00:28:54](/episodes/ep-6jOEN9rBePU.md#t-00-28-54) [○] **Katie Zacharia**: ["In the embedded bar-exam exchange, the speaker identified in the cleaned transcr..."](/statements/statement-0412c2c1b999.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [China](/entities/gpe-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-35129ca3971c">
+
+- [00:33:50](/episodes/ep-6jOEN9rBePU.md#t-00-33-15) [○] **Candace Owens**: ["Owens said Kelly Clarkson misunderstood the $15,000 price displayed for Molly: i..."](/statements/statement-35129ca3971c.md)
+  - About: [Kelly Clarkson](/entities/person-kelly-clarkson.md), [Art of Play](/entities/org-art-of-play.md), [Molly (Art of Play bird automaton)](/entities/work-molly-art-of-play.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-09b85c84aebd">
+
+- [00:36:08](/episodes/ep-6jOEN9rBePU.md#t-00-35-38) [○] **Candace Owens**: ["Owens reported that the Art of Play owner said they were receiving death threats..."](/statements/statement-09b85c84aebd.md)
+  - About: [Art of Play](/entities/org-art-of-play.md), [Kelly Clarkson](/entities/person-kelly-clarkson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5eda373fcae4">
+
+- [00:39:51](/episodes/ep-6jOEN9rBePU.md#t-00-39-51) [○] **Gilbert Trejo**: ["Gilbert Trejo said his father Danny was booked on a film represented as not pro-..."](/statements/statement-5eda373fcae4.md)
+  - About: [Danny Trejo](/entities/person-danny-trejo.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3ffbf5388ac8">
+
+- [00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35) [○] **Gilbert Trejo**: ["Gilbert Trejo said Danny Trejo's contract prevented him from badmouthing Ben Sha..."](/statements/statement-3ffbf5388ac8.md)
+  - About: [Danny Trejo](/entities/person-danny-trejo.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (36)</summary>
@@ -27691,7 +27834,78 @@ _4551 factual claims within 8544 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1972)</strong></summary>
+<summary><strong class="section-title">Accusations (1983)</strong></summary>
+
+<details>
+<summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (11)</summary>
+
+<div class="filter-item" data-filter-key="statement-16c95e8be047">
+
+- [00:15:23](/episodes/ep-6jOEN9rBePU.md#t-00-15-11) [○] **Candace Owens**: ["Why did President Donald Trump call Charlie Kirk in July and reprimand him for s..."](/statements/statement-16c95e8be047.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-704c910024e3">
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) [○] **Candace Owens**: ["Owens repeated a source-reported allegation that Erika Kirk allegedly spent time..."](/statements/statement-704c910024e3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b156170e6499">
+
+- [00:16:22](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) [○] **Candace Owens**: ["Owens repeated a source-reported allegation that Erika Kirk was in charge of Upp..."](/statements/statement-b156170e6499.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Upper East Side](/entities/gpe-upper-east-side.md), [Modeling-apartment account sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-014.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f5d9e3cc8ce7">
+
+- [00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) [○] **Candace Owens**: ["Why is it that Turning Point under Erika Kirk's leadership appears to be so espe..."](/statements/statement-f5d9e3cc8ce7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3f1a7905719e">
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] **Candace Owens**: ["Owens said Jeffrey Epstein ran trafficking operations extensively in and through..."](/statements/statement-3f1a7905719e.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5500cc1ac4c7">
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] **Candace Owens**: ["Owens said Jean-Luc Brunel 'hung himself, perhaps was suicided in a cell.'"](/statements/statement-5500cc1ac4c7.md)
+  - About: [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b35b9a591035">
+
+- [00:26:24](/episodes/ep-6jOEN9rBePU.md#t-00-26-24) [○] **Candace Owens**: ["Owens accused Brigitte Macron of gaslighting the public about an alleged absence..."](/statements/statement-b35b9a591035.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5bed8ec5d921">
+
+- [00:29:18](/episodes/ep-6jOEN9rBePU.md#t-00-28-58) [○] **Candace Owens**: ["Owens alleged that Katie Zacharia did not pass the bar and that the story was 'a..."](/statements/statement-5bed8ec5d921.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7c852dbbba4e">
+
+- [00:35:00](/episodes/ep-6jOEN9rBePU.md#t-00-35-00) [○] **Kelly Clarkson**: ["Kelly Clarkson wrote that she drove to Art of Play in Brooklyn intending to buy ..."](/statements/statement-7c852dbbba4e.md)
+  - About: [Art of Play](/entities/org-art-of-play.md), [Kelly Clarkson](/entities/person-kelly-clarkson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6ec723c5b44f">
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) [○] **Candace Owens**: ["Owens alleged that if Danny Trejo tried to leave Ben Shapiro's contract, Shapiro..."](/statements/statement-6ec723c5b44f.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Danny Trejo](/entities/person-danny-trejo.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-df5acb5d2e9d">
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) [○] **Candace Owens**: ["Citing personal experience, Owens warned Danny Trejo he could face a stalker for..."](/statements/statement-df5acb5d2e9d.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Danny Trejo](/entities/person-danny-trejo.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (8)</summary>
@@ -42734,7 +42948,48 @@ _4551 factual claims within 8544 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (482)</strong></summary>
+<summary><strong class="section-title">Citations (488)</strong></summary>
+
+<details>
+<summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (6)</summary>
+
+<div class="filter-item" data-filter-key="statement-1165c73c5b31">
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) [○] **Candace Owens**: ["Owens cited UVU's independent after-incident review as saying Val Peterson was 4..."](/statements/statement-1165c73c5b31.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ff3ddb014e64">
+
+- [00:05:14](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) [○] **Candace Owens**: ["Owens said Governor Cox's published schedule listed no commitments for September..."](/statements/statement-ff3ddb014e64.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-85e7964d90c2">
+
+- [00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40) [○] **Candace Owens**: ["Owens cited Governor Spencer Cox's published schedule as listing a September 2 m..."](/statements/statement-85e7964d90c2.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-97453a021a50">
+
+- [00:09:48](/episodes/ep-6jOEN9rBePU.md#t-00-09-48) [○] **Candace Owens**: ["Owens read a Utah statutory definition of enticing a minor into sexual activity ..."](/statements/statement-97453a021a50.md)
+  - About: [Utah](/entities/gpe-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-315140a7550a">
+
+- [00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) [○] **Candace Owens**: ["Owens said that, allegedly according to the UVU review, Maycee Crofts insisted o..."](/statements/statement-315140a7550a.md)
+  - About: [Maycee Crofts](/entities/person-maycee-crofts.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a73eabb5c385">
+
+- [00:27:47](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) [○] **Candace Owens**: ["Owens said Pepperdine confirmed Katie Zacharia attended and obtained a degree, a..."](/statements/statement-a73eabb5c385.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (9)</summary>
@@ -46239,7 +46494,42 @@ _4551 factual claims within 8544 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1276)</strong></summary>
+<summary><strong class="section-title">Opinions (1281)</strong></summary>
+
+<details>
+<summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5)</summary>
+
+<div class="filter-item" data-filter-key="statement-0a9b41cade4c">
+
+- [00:18:37](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) [○] **Candace Owens**: ["Owens characterized Charlie Kirk as having changed his mind regarding Israel and..."](/statements/statement-0a9b41cade4c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cbf5c89fd4e1">
+
+- [00:18:55](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) [○] **Candace Owens**: ["Owens suggested that France, Israel, and the United States working together rega..."](/statements/statement-cbf5c89fd4e1.md)
+  - About: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9b199bf74381">
+
+- [00:21:52](/episodes/ep-6jOEN9rBePU.md#t-00-21-52) [○] **Candace Owens**: ["Owens portrayed Charlie Kirk as terrified near the end, unaware of what was happ..."](/statements/statement-9b199bf74381.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ac45ad9962fb">
+
+- [00:35:12](/episodes/ep-6jOEN9rBePU.md#t-00-35-00) [○] **Candace Owens**: ["Owens said Kelly Clarkson was not discriminated against at Art of Play and that ..."](/statements/statement-ac45ad9962fb.md)
+  - About: [Kelly Clarkson](/entities/person-kelly-clarkson.md), [Art of Play](/entities/org-art-of-play.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1413afdf935c">
+
+- [00:45:59](/episodes/ep-6jOEN9rBePU.md#t-00-45-42) [○] **Candace Owens**: ["Owens said she hoped young women would consider homeschooling, examine who built..."](/statements/statement-1413afdf935c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (15)</summary>
@@ -54698,6 +54988,281 @@ _4551 factual claims within 8544 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402</strong> (45)</summary>
+
+<div class="filter-item" data-filter-key="statement-4743917a40b1">
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55) [○] (Claim) **Candace Owens**: ["Owens described Val Peterson as UVU's vice president, allegedly feared by facult..."](/statements/statement-4743917a40b1.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-446a741467ef">
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) [○] (Claim) **Candace Owens**: ["Val Peterson oversaw EMS services at UVU, according to Owens."](/statements/statement-446a741467ef.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1165c73c5b31">
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) [○] (Citation) **Candace Owens**: ["Owens cited UVU's independent after-incident review as saying Val Peterson was 4..."](/statements/statement-1165c73c5b31.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-32b82145af6e">
+
+- [00:04:16](/episodes/ep-6jOEN9rBePU.md#t-00-04-16) [○] (Claim) **Candace Owens**: ["Owens said multiple sources with direct knowledge reported that Val Peterson was..."](/statements/statement-32b82145af6e.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Heber City, Utah](/entities/gpe-heber-city-utah.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6bc7789739bf">
+
+- [00:04:49](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) [○] (Claim) **Candace Owens**: ["Owens said she was also told Val Peterson was with Governor Spencer Cox while aw..."](/statements/statement-6bc7789739bf.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ff3ddb014e64">
+
+- [00:05:14](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) [○] (Citation) **Candace Owens**: ["Owens said Governor Cox's published schedule listed no commitments for September..."](/statements/statement-ff3ddb014e64.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f077492c34cb">
+
+- [00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03) [○] (Claim) **Candace Owens**: ["As far as Owens and her team could tell, Governor Spencer Cox had never stated w..."](/statements/statement-f077492c34cb.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-85e7964d90c2">
+
+- [00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40) [○] (Citation) **Candace Owens**: ["Owens cited Governor Spencer Cox's published schedule as listing a September 2 m..."](/statements/statement-85e7964d90c2.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-48e5154454b3">
+
+- [00:07:22](/episodes/ep-6jOEN9rBePU.md#t-00-07-22) [○] (Claim) **Candace Owens**: ["Owens said the Utah House of Representatives works 45 days a year and Tyler Clan..."](/statements/statement-48e5154454b3.md)
+  - About: [Utah House of Representatives](/entities/org-utah-house-of-representatives.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-26db539bd5b9">
+
+- [00:08:20](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) [○] (Claim) **Candace Owens**: ["Owens said Val Peterson has a brother named Charles Loritz Peterson. The middle ..."](/statements/statement-26db539bd5b9.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-194286f9197a">
+
+- [00:08:35](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) [○] (Claim) **Candace Owens**: ["Owens said the man she identified as Val Peterson's brother, Charles Loritz Pete..."](/statements/statement-194286f9197a.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Val L. Peterson](/entities/person-val-peterson.md), [Layton, Utah](/entities/gpe-layton-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-425ea556539d">
+
+- [00:08:44](/episodes/ep-6jOEN9rBePU.md#t-00-08-44) [○] (Claim) **Candace Owens**: ["Owens reported Utah charges against the man she identified as Charles Loritz Pet..."](/statements/statement-425ea556539d.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Utah](/entities/gpe-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-97453a021a50">
+
+- [00:09:48](/episodes/ep-6jOEN9rBePU.md#t-00-09-48) [○] (Citation) **Candace Owens**: ["Owens read a Utah statutory definition of enticing a minor into sexual activity ..."](/statements/statement-97453a021a50.md)
+  - About: [Utah](/entities/gpe-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5f9e3ddcdb17">
+
+- [00:12:28](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) [○] (Claim) **Candace Owens**: ["Owens said Val Peterson was from Moscow, Idaho, where his father was a Universit..."](/statements/statement-5f9e3ddcdb17.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [University of Idaho](/entities/org-university-of-idaho.md), [Moscow, Idaho](/entities/gpe-moscow-idaho.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-315140a7550a">
+
+- [00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) [○] (Citation) **Candace Owens**: ["Owens said that, allegedly according to the UVU review, Maycee Crofts insisted o..."](/statements/statement-315140a7550a.md)
+  - About: [Maycee Crofts](/entities/person-maycee-crofts.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24ed0c5d7611">
+
+- [00:13:20](/episodes/ep-6jOEN9rBePU.md#t-00-13-10) [○] (Claim) **Candace Owens**: ["Owens said Maycee Crofts's Uncle Kip Crofts was arrested just outside Nampa, whe..."](/statements/statement-24ed0c5d7611.md)
+  - About: [Maycee Crofts](/entities/person-maycee-crofts.md), [Kip Crofts](/entities/person-kip-crofts.md), [Nampa, Idaho](/entities/gpe-nampa-idaho.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-634d53ebac46">
+
+- [00:13:43](/episodes/ep-6jOEN9rBePU.md#t-00-13-43) [○] (Claim) **Idaho Office of Attorney General**: ["An Idaho Attorney General release read by Owens said a Meridian man, Charles Pet..."](/statements/statement-634d53ebac46.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Idaho Attorney General Internet Crimes Against Children Unit](/entities/org-idaho-attorney-general-icac-unit.md), [Layton City Police Department](/entities/org-layton-police-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-16c95e8be047">
+
+- [00:15:23](/episodes/ep-6jOEN9rBePU.md#t-00-15-11) [○] (Accusation) **Candace Owens**: ["Why did President Donald Trump call Charlie Kirk in July and reprimand him for s..."](/statements/statement-16c95e8be047.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a57af3cea489">
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) [○] (Claim) **Candace Owens**: ["Why did the Epstein files require so many top-level meetings in the White House ..."](/statements/statement-a57af3cea489.md)
+  - About: [Epstein Files](/entities/work-epstein-files.md), [White House](/entities/org-white-house.md), [White House Situation Room](/entities/gpe-white-house-situation-room.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-704c910024e3">
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) [○] (Accusation) **Candace Owens**: ["Owens repeated a source-reported allegation that Erika Kirk allegedly spent time..."](/statements/statement-704c910024e3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b156170e6499">
+
+- [00:16:22](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) [○] (Accusation) **Candace Owens**: ["Owens repeated a source-reported allegation that Erika Kirk was in charge of Upp..."](/statements/statement-b156170e6499.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Upper East Side](/entities/gpe-upper-east-side.md), [Modeling-apartment account sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-014.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f5d9e3cc8ce7">
+
+- [00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) [○] (Accusation) **Candace Owens**: ["Why is it that Turning Point under Erika Kirk's leadership appears to be so espe..."](/statements/statement-f5d9e3cc8ce7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-78ac54903b99">
+
+- [00:17:14](/episodes/ep-6jOEN9rBePU.md#t-00-17-07) [○] (Claim) **Candace Owens**: ["Owens said Charlie Kirk's last company pitch to investors in Aspen, three weeks ..."](/statements/statement-78ac54903b99.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Club America](/entities/org-club-america.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-88f27d9c0bbe">
+
+- [00:17:46](/episodes/ep-6jOEN9rBePU.md#t-00-17-46) [○] (Claim) **Candace Owens**: ["Owens asked why Andrew Kolvet was allegedly at the White House meeting top brass..."](/statements/statement-88f27d9c0bbe.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0a9b41cade4c">
+
+- [00:18:37](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) [○] (Opinion) **Candace Owens**: ["Owens characterized Charlie Kirk as having changed his mind regarding Israel and..."](/statements/statement-0a9b41cade4c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cbf5c89fd4e1">
+
+- [00:18:55](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) [○] (Opinion) **Candace Owens**: ["Owens suggested that France, Israel, and the United States working together rega..."](/statements/statement-cbf5c89fd4e1.md)
+  - About: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3f6722c15e73">
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Claim) **Candace Owens**: ["Owens claimed Jeffrey Epstein worked directly for the Rothschilds, who, she said..."](/statements/statement-3f6722c15e73.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Rothschild family](/entities/org-rothschild-family.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3f1a7905719e">
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Accusation) **Candace Owens**: ["Owens said Jeffrey Epstein ran trafficking operations extensively in and through..."](/statements/statement-3f1a7905719e.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-33195375a702">
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Claim) **Candace Owens**: ["Owens said Jeffrey Epstein owned property and businesses in France."](/statements/statement-33195375a702.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5500cc1ac4c7">
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Accusation) **Candace Owens**: ["Owens said Jean-Luc Brunel 'hung himself, perhaps was suicided in a cell.'"](/statements/statement-5500cc1ac4c7.md)
+  - About: [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9b199bf74381">
+
+- [00:21:52](/episodes/ep-6jOEN9rBePU.md#t-00-21-52) [○] (Opinion) **Candace Owens**: ["Owens portrayed Charlie Kirk as terrified near the end, unaware of what was happ..."](/statements/statement-9b199bf74381.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b35b9a591035">
+
+- [00:26:24](/episodes/ep-6jOEN9rBePU.md#t-00-26-24) [○] (Accusation) **Candace Owens**: ["Owens accused Brigitte Macron of gaslighting the public about an alleged absence..."](/statements/statement-b35b9a591035.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-70fd80ed53d5">
+
+- [00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) [○] (Claim) **Candace Owens**: ["Owens described Katie Zacharia as the new press secretary and said she had provi..."](/statements/statement-70fd80ed53d5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Fox News](/entities/org-fox-news.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a73eabb5c385">
+
+- [00:27:47](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) [○] (Citation) **Candace Owens**: ["Owens said Pepperdine confirmed Katie Zacharia attended and obtained a degree, a..."](/statements/statement-a73eabb5c385.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0412c2c1b999">
+
+- [00:28:54](/episodes/ep-6jOEN9rBePU.md#t-00-28-54) [○] (Claim) **Katie Zacharia**: ["In the embedded bar-exam exchange, the speaker identified in the cleaned transcr..."](/statements/statement-0412c2c1b999.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [China](/entities/gpe-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5bed8ec5d921">
+
+- [00:29:18](/episodes/ep-6jOEN9rBePU.md#t-00-28-58) [○] (Accusation) **Candace Owens**: ["Owens alleged that Katie Zacharia did not pass the bar and that the story was 'a..."](/statements/statement-5bed8ec5d921.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-35129ca3971c">
+
+- [00:33:50](/episodes/ep-6jOEN9rBePU.md#t-00-33-15) [○] (Claim) **Candace Owens**: ["Owens said Kelly Clarkson misunderstood the $15,000 price displayed for Molly: i..."](/statements/statement-35129ca3971c.md)
+  - About: [Kelly Clarkson](/entities/person-kelly-clarkson.md), [Art of Play](/entities/org-art-of-play.md), [Molly (Art of Play bird automaton)](/entities/work-molly-art-of-play.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7c852dbbba4e">
+
+- [00:35:00](/episodes/ep-6jOEN9rBePU.md#t-00-35-00) [○] (Accusation) **Kelly Clarkson**: ["Kelly Clarkson wrote that she drove to Art of Play in Brooklyn intending to buy ..."](/statements/statement-7c852dbbba4e.md)
+  - About: [Art of Play](/entities/org-art-of-play.md), [Kelly Clarkson](/entities/person-kelly-clarkson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ac45ad9962fb">
+
+- [00:35:12](/episodes/ep-6jOEN9rBePU.md#t-00-35-00) [○] (Opinion) **Candace Owens**: ["Owens said Kelly Clarkson was not discriminated against at Art of Play and that ..."](/statements/statement-ac45ad9962fb.md)
+  - About: [Kelly Clarkson](/entities/person-kelly-clarkson.md), [Art of Play](/entities/org-art-of-play.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-09b85c84aebd">
+
+- [00:36:08](/episodes/ep-6jOEN9rBePU.md#t-00-35-38) [○] (Claim) **Candace Owens**: ["Owens reported that the Art of Play owner said they were receiving death threats..."](/statements/statement-09b85c84aebd.md)
+  - About: [Art of Play](/entities/org-art-of-play.md), [Kelly Clarkson](/entities/person-kelly-clarkson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5eda373fcae4">
+
+- [00:39:51](/episodes/ep-6jOEN9rBePU.md#t-00-39-51) [○] (Claim) **Gilbert Trejo**: ["Gilbert Trejo said his father Danny was booked on a film represented as not pro-..."](/statements/statement-5eda373fcae4.md)
+  - About: [Danny Trejo](/entities/person-danny-trejo.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3ffbf5388ac8">
+
+- [00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35) [○] (Claim) **Gilbert Trejo**: ["Gilbert Trejo said Danny Trejo's contract prevented him from badmouthing Ben Sha..."](/statements/statement-3ffbf5388ac8.md)
+  - About: [Danny Trejo](/entities/person-danny-trejo.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Pawn Shop (2026 film)](/entities/work-pawn-shop-2026.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6ec723c5b44f">
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) [○] (Accusation) **Candace Owens**: ["Owens alleged that if Danny Trejo tried to leave Ben Shapiro's contract, Shapiro..."](/statements/statement-6ec723c5b44f.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Danny Trejo](/entities/person-danny-trejo.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-df5acb5d2e9d">
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) [○] (Accusation) **Candace Owens**: ["Citing personal experience, Owens warned Danny Trejo he could face a stalker for..."](/statements/statement-df5acb5d2e9d.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Danny Trejo](/entities/person-danny-trejo.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1413afdf935c">
+
+- [00:45:59](/episodes/ep-6jOEN9rBePU.md#t-00-45-42) [○] (Opinion) **Candace Owens**: ["Owens said she hoped young women would consider homeschooling, examine who built..."](/statements/statement-1413afdf935c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</strong> (70)</summary>
@@ -106101,4 +106666,4 @@ _4551 factual claims within 8544 attributed statements._
 
 ---
 
-*Generated: 2026-10-14 10:27:51*
+*Generated: 2026-10-15 10:09:06*

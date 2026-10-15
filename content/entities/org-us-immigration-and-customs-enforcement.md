@@ -1,6 +1,6 @@
 ---
 title: "U.S. Immigration and Customs Enforcement"
-description: "U.S. Immigration and Customs Enforcement (Organizations) - 11 mentions"
+description: "U.S. Immigration and Customs Enforcement (Organizations) - 13 mentions"
 id: "org-us-immigration-and-customs-enforcement"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-us-immigration-and-customs-enforcement-t-00-44-45">2025-09-24 · 00:44:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48">2026-10-05 · 00:02:48</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#t-00-40-35">2026-10-14 · 00:40:35</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -45,6 +45,7 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-us-immigration-and-customs-enforcement-t-00-40-20" style="--pulse-height:67%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-us-immigration-and-customs-enforcement-t-00-58-32" style="--pulse-height:33%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48" style="--pulse-height:33%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#t-00-39-51" style="--pulse-height:67%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-us-immigration-and-customs-enforcement-t-00-40-20) | 2 |
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-us-immigration-and-customs-enforcement-t-00-58-32) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#t-00-39-51) | 2 |
 
 </details>
 </section>
@@ -65,7 +67,18 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
+
+**[00:40:15](/episodes/ep-6jOEN9rBePU.md#t-00-39-51)**
+> "And it's a pro-ice project, which goes against his roots, his Mexican roots. And Danny Trejo apparently had never even heard of Ben Shapiro before signing on for this new movie, Pondshop."
+
+**[00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35)**
+> ""Ish with my dad, he was booked on a film. It's not pro-ICE. It's not overtly pro-anything. His agent described it as, quote, a complicated story about a complicated time where everyone looks bad except you, the hardworking Mexican shop owner who just wants peace. He jumped at the idea of playing a good guy. About two weeks into shooting, everyone, including us, found out Ben Shapiro was involved." That's, that is so exactly what I think happened, by the way. "My 82-year-old dad said he had never heard of Ben Shapiro. I had to explain""
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>

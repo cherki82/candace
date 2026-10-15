@@ -1,6 +1,6 @@
 ---
 title: "Upper East Side"
-description: "Upper East Side (Places) - 7 mentions"
+description: "Upper East Side (Places) - 8 mentions"
 id: "gpe-upper-east-side"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [19th Precinct | NYPD](https://www.nyc.gov/site/nypd/bureaus/patrol/prec
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-upper-east-side-t-00-07-16">2026-03-11 · 00:07:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-upper-east-side-t-00-21-08">2026-06-26 · 00:21:08</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-upper-east-side-t-00-16-22">2026-10-14 · 00:16:22</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [19th Precinct | NYPD](https://www.nyc.gov/site/nypd/bureaus/patrol/prec
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-upper-east-side-t-00-03-00" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-upper-east-side-t-00-33-03" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-upper-east-side-t-00-21-08" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-upper-east-side-t-00-16-22" style="--pulse-height:25%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [19th Precinct | NYPD](https://www.nyc.gov/site/nypd/bureaus/patrol/prec
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-upper-east-side-t-00-03-00) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-upper-east-side-t-00-33-03) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-upper-east-side-t-00-21-08) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-upper-east-side-t-00-16-22) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [19th Precinct | NYPD](https://www.nyc.gov/site/nypd/bureaus/patrol/prec
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:16:22](/episodes/ep-6jOEN9rBePU.md#ent-gpe-upper-east-side-t-00-16-22)**
+> "...of modeling apartments on the Upper East Side."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -112,7 +122,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Upper East Side (3)</strong></summary>
+<summary><strong class="section-title">Statements about Upper East Side (4)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:16:22](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) (Accusation) **Candace Owens** (via paraphrase): ["Owens repeated a source-reported allegation that Erika Kirk was in cha..."](/statements/statement-b156170e6499.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Modeling-apartment account sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-014.md)
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2)</summary>

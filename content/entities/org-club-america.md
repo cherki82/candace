@@ -1,6 +1,6 @@
 ---
 title: "Club America"
-description: "Club America (Organizations) - 25 mentions"
+description: "Club America (Organizations) - 26 mentions"
 id: "org-club-america"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-club-america-t-00-00-44">2026-03-06 · 00:01:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-club-america-t-00-26-28">2026-10-06 · 00:26:49</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-club-america-t-00-16-22">2026-10-14 · 00:16:51</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -45,6 +45,7 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-club-america-t-00-00-01" style="--pulse-height:100%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 12 mentions" title="2026-09-18 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-BvthGQw3_s0.md#ent-org-club-america-t-00-28-52" style="--pulse-height:33%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 4 mentions" title="2026-09-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-club-america-t-00-26-28" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-club-america-t-00-16-22" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-club-america-t-00-00-01) | 12 |
 | 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-club-america-t-00-28-52) | 4 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-club-america-t-00-26-28) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-club-america-t-00-16-22) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:16:51](/episodes/ep-6jOEN9rBePU.md#ent-org-club-america-t-00-16-22)**
+> "...ed on access to high schools, Club America, which is being administratively forced upon stud..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
@@ -192,6 +202,18 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Operated By (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Part Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -219,7 +241,7 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** includes this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -227,6 +249,13 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:30:32](/episodes/ep-I0OaY6Gryqk.md#t-00-30-07): “Last week, a couple of weeks ago, she made that sheepish appearance next to Sarah Huckabee Sanders, and Sarah Huckabee Sanders was signing the proclamation on behalf of Club America, which is Turning Point USA's incursion into high schools, buyer beware.”
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:30:03](/episodes/ep-NNiCZk1cuzs.md#t-00-29-51): “And this is taken from what really might be his final presentation on what he wanted for Turning Point USA, which is a very long presentation. ... But this is the portion of what was given in front of Aspen donors. Here's what he said about Club America. ... The high school program is now called Club America. We just hired 80 new full-time people last week. ... This is just full-time people just in the Club America department. What is their job? What do they do?”
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:28:52](/episodes/ep-BvthGQw3_s0.md#t-00-28-52): “Perfect example, case in point, Erika (Erika Kirk) does this event in Idaho. Club America event, okay, they then publish it onto X and promote it as though this was a tremendously successful Club America event where the idea here, you're meant to infer 500 plus students at a Club America event today in Idaho fired up because 500 outstanding high school students attended the TPUSA Club America tour stop.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -243,7 +272,18 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Club America (13)</strong></summary>
+<summary><strong class="section-title">Statements about Club America (15)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>
+
+- [00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) (Accusation) **Candace Owens**: ["Why is it that Turning Point under Erika Kirk's leadership appears to ..."](/statements/statement-f5d9e3cc8ce7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:17:14](/episodes/ep-6jOEN9rBePU.md#t-00-17-07) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk's last company pitch to investors in Aspen, th..."](/statements/statement-78ac54903b99.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 58 mentions"
+description: "Epstein Files (Works & Media) - 65 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -22,40 +22,41 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10">2025-11-04 · 00:30:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#t-00-42-48">2026-10-01 · 00:42:48</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-29-35">2026-10-14 · 00:29:35</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-15-11">Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-epstein-files-t-00-44-48" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-work-epstein-files-t-00-46-00" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05" style="--pulse-height:67%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-epstein-files-t-00-15-24" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-epstein-files-t-00-31-36" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-work-epstein-files-t-00-26-13" style="--pulse-height:17%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-46-01" style="--pulse-height:67%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-40-14" style="--pulse-height:83%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-epstein-files-t-00-14-13" style="--pulse-height:17%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50" style="--pulse-height:17%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-work-epstein-files-t-00-10-49" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-29-37" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-44-10" style="--pulse-height:67%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 4 mentions" title="2026-09-22 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-23-08" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-epstein-files-t-00-30-10" style="--pulse-height:29%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-epstein-files-t-00-44-48" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-work-epstein-files-t-00-46-00" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05" style="--pulse-height:57%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00" style="--pulse-height:86%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-epstein-files-t-00-15-24" style="--pulse-height:14%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-epstein-files-t-00-31-36" style="--pulse-height:29%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-work-epstein-files-t-00-26-13" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-46-01" style="--pulse-height:57%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-40-14" style="--pulse-height:71%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-epstein-files-t-00-14-13" style="--pulse-height:14%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31" style="--pulse-height:29%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39" style="--pulse-height:14%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50" style="--pulse-height:14%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-work-epstein-files-t-00-10-49" style="--pulse-height:43%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04" style="--pulse-height:57%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23" style="--pulse-height:43%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-29-37" style="--pulse-height:43%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-44-10" style="--pulse-height:57%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 4 mentions" title="2026-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#t-00-23-08" style="--pulse-height:86%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-15-11" style="--pulse-height:100%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 7 mentions" title="2026-10-14 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05) | 2 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-work-epstein-files-t-00-44-10) | 4 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-23-08) | 6 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-15-11) | 7 |
 
 </details>
 </section>
@@ -93,7 +95,33 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (7 mentions)</summary>
+
+**[00:15:23](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-15-11)**
+> "... for speaking out against the Epstein files?"
+
+**[00:15:42](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-15-42)**
+> "Why did the Epstein files require so many top-level meetings in the White H..."
+
+**[00:17:46](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-17-46)**
+> "... top brass the day before the Epstein files were partially released to the public? I'll say w..."
+
+**[00:18:07](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-17-46)**
+> "...d told me. We didn't know the Epstein files were coming out the next day, so we just tweeted ..."
+
+**[00:20:14](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-19-55)**
+> "...sh of global economies if the Epstein files were released in their entirety."
+
+**[00:21:47](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-21-15)**
+> "...t we just keep discussing the Epstein files."
+
+**[00:29:35](/episodes/ep-6jOEN9rBePU.md#ent-work-epstein-files-t-00-29-35)**
+> "...ing about everything from the Epstein files all the way down to whether or not this chick pas..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (6 mentions)</summary>
@@ -381,7 +409,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Epstein Files (18)</strong></summary>
+<summary><strong class="section-title">Statements about Epstein Files (21)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3)</summary>
+
+- [00:15:23](/episodes/ep-6jOEN9rBePU.md#t-00-15-11) (Accusation) **Candace Owens**: ["Why did President Donald Trump call Charlie Kirk in July and reprimand..."](/statements/statement-16c95e8be047.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) (Claim) **Candace Owens**: ["Why did the Epstein files require so many top-level meetings in the Wh..."](/statements/statement-a57af3cea489.md)
+  - Also about: [White House](/entities/org-white-house.md), [White House Situation Room](/entities/gpe-white-house-situation-room.md)
+
+- [00:17:46](/episodes/ep-6jOEN9rBePU.md#t-00-17-46) (Claim) **Candace Owens** (via paraphrase): ["Owens asked why Andrew Kolvet was allegedly at the White House meeting..."](/statements/statement-88f27d9c0bbe.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [White House](/entities/org-white-house.md), [Two White House email sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-013.md)
+
+</details>
 
 <details>
 <summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1)</summary>

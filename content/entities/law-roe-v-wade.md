@@ -1,6 +1,6 @@
 ---
 title: "Roe v. Wade"
-description: "Roe v. Wade (Laws & Legislation) - 8 mentions"
+description: "Roe v. Wade (Laws & Legislation) - 9 mentions"
 id: "law-roe-v-wade"
 type: "LAW"
 categories:
@@ -18,9 +18,9 @@ Source: [Dobbs v. Jackson Women’s Health Organization | U.S. Supreme Court](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-law-roe-v-wade-t-00-28-34">2026-09-01 · 00:28:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-law-roe-v-wade-t-00-35-29">2026-10-06 · 00:35:38</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-law-roe-v-wade-t-00-22-32">2026-10-14 · 00:23:05</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Dobbs v. Jackson Women’s Health Organization | U.S. Supreme Court](ht
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-law-roe-v-wade-t-00-26-09" style="--pulse-height:50%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-law-roe-v-wade-t-00-31-13" style="--pulse-height:100%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-law-roe-v-wade-t-00-35-29" style="--pulse-height:50%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-law-roe-v-wade-t-00-22-32" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Dobbs v. Jackson Women’s Health Organization | U.S. Supreme Court](ht
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-law-roe-v-wade-t-00-26-09) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-law-roe-v-wade-t-00-31-13) | 2 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-law-roe-v-wade-t-00-35-29) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-law-roe-v-wade-t-00-22-32) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Dobbs v. Jackson Women’s Health Organization | U.S. Supreme Court](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:23:05](/episodes/ep-6jOEN9rBePU.md#ent-law-roe-v-wade-t-00-22-32)**
+> "Since Roe v. Wade was overturned, the abortion industry has not slo..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>

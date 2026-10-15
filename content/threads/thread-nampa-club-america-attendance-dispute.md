@@ -11,10 +11,10 @@ description: "Tracks Owens’s allegation of compulsory assembly attendance, Kol
 <p class="thread-summary">Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.</p>
 
 <div class="thread-detail-stats">
-<div><strong>17</strong><span>reviewed turns</span></div>
-<div><strong>3</strong><span>source episodes</span></div>
-<div><strong>18</strong><span>transitions</span></div>
-<div><strong>2026-09-22</strong><span>latest update</span></div>
+<div><strong>18</strong><span>reviewed turns</span></div>
+<div><strong>4</strong><span>source episodes</span></div>
+<div><strong>19</strong><span>transitions</span></div>
+<div><strong>2026-10-14</strong><span>latest update</span></div>
 </div>
 
 <section class="thread-explorer" data-thread-browser data-index-path="/assets/threads/thread-nampa-club-america-attendance-dispute.json" aria-label="Thread evidence explorer">
@@ -24,7 +24,7 @@ description: "Tracks Owens’s allegation of compulsory assembly attendance, Kol
 </section>
 
 <details class="thread-background"><summary>About this thread · sources, entities &amp; events</summary>
-<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>13<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/person-erika-kirk">Erika Kirk</a> · <a href="/entities/person-andrew-kolvet">Andrew Kolvet</a> · <a href="/entities/org-nampa-christian-schools">Nampa Christian Schools</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/org-club-america">Club America</a> · <a href="/entities/person-blake-neff">Blake Neff</a> · <a href="/entities/anon-src-BvthGQw3_s0-002">Handle Idaho Heartland (identity unverified)</a> · <a href="/entities/org-nampa-christian-flamingo-campus">Nampa Christian Flamingo Campus</a> · <a href="/entities/org-turning-point-usa-faith">Turning Point USA Faith</a> · <a href="/entities/anon-src-BvthGQw3_s0-012">Nampa Christian parent email author quoted in full (identity unverified)</a> · <a href="/entities/anon-src-BvthGQw3_s0-013">Nampa Christian bathroom-email parents (identity unverified)</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
+<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>14<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/person-erika-kirk">Erika Kirk</a> · <a href="/entities/person-andrew-kolvet">Andrew Kolvet</a> · <a href="/entities/org-nampa-christian-schools">Nampa Christian Schools</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/org-club-america">Club America</a> · <a href="/entities/person-blake-neff">Blake Neff</a> · <a href="/entities/anon-src-BvthGQw3_s0-002">Handle Idaho Heartland (identity unverified)</a> · <a href="/entities/org-nampa-christian-flamingo-campus">Nampa Christian Flamingo Campus</a> · <a href="/entities/org-turning-point-usa-faith">Turning Point USA Faith</a> · <a href="/entities/anon-src-BvthGQw3_s0-012">Nampa Christian parent email author quoted in full (identity unverified)</a> · <a href="/entities/anon-src-BvthGQw3_s0-013">Nampa Christian bathroom-email parents (identity unverified)</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
 
 <section class="thread-event-register">
 <span class="research-kicker">Event time</span>

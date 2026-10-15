@@ -11,7 +11,11 @@ object: "person-val-peterson"
 
 ## [Utah Valley University](/entities/org-utah-valley-university) has vice president [Val L. Peterson](/entities/person-val-peterson)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU#t-00-03-22): _It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA._
 
 **[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
 

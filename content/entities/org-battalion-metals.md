@@ -1,6 +1,6 @@
 ---
 title: "Battalion Metals"
-description: "Battalion Metals (Organizations) - 9 mentions"
+description: "Battalion Metals (Organizations) - 10 mentions"
 id: "org-battalion-metals"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-battalion-metals-t-00-34-46">2026-06-09 · 00:35:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-battalion-metals-t-00-55-12">2026-09-25 · 00:55:34</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-battalion-metals-t-00-38-29">2026-10-14 · 00:38:37</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-battalion-metals-t-00-22-14" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-battalion-metals-t-00-21-25" style="--pulse-height:100%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 2 mentions" title="2026-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-battalion-metals-t-00-55-12" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-battalion-metals-t-00-38-29" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-battalion-metals-t-00-22-14) | 1 |
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-battalion-metals-t-00-21-25) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-battalion-metals-t-00-55-12) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-battalion-metals-t-00-38-29) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:38:37](/episodes/ep-6jOEN9rBePU.md#ent-org-battalion-metals-t-00-38-29)**
+> "...end Tucker Carlson's company, Battalion Metals."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
@@ -137,13 +147,14 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:10](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:45](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “So glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing. So visit BattalionMetals.com slash Candace and use code Candace at checkout. Again, that's BattalionMetals.com slash Candace.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals. ... They make it simple, honest and fairly priced for Americans to buy gold. So head to battalionmetals.com slash Candace. Again, that's battalionmetals.com.”
 
 </details>
 
@@ -170,9 +181,10 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 <summary>Owned By (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 
@@ -192,7 +204,7 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -203,13 +215,14 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:10](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:45](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “So glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing. So visit BattalionMetals.com slash Candace and use code Candace at checkout. Again, that's BattalionMetals.com slash Candace.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals. ... They make it simple, honest and fairly priced for Americans to buy gold. So head to battalionmetals.com slash Candace. Again, that's battalionmetals.com.”
 
 </details>
 
@@ -226,9 +239,10 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** owns this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 
@@ -237,6 +251,13 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:45](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “So glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:34](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “So Tucker (Tucker Carlson) founded Battalion Metals instead, and I'm glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 

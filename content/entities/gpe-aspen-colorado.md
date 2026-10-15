@@ -1,6 +1,6 @@
 ---
 title: "Aspen, Colorado"
-description: "Aspen, Colorado (Places) - 51 mentions"
+description: "Aspen, Colorado (Places) - 52 mentions"
 id: "gpe-aspen-colorado"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Aspen](https://www.aspen.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aspen-colorado-t-00-54-01">2026-01-20 · 00:54:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-aspen-colorado-t-00-29-51">2026-09-18 · 00:30:11</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-aspen-colorado-t-00-17-07">2026-10-14 · 00:17:14</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,6 +54,7 @@ Source: [City of Aspen](https://www.aspen.gov/)
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-aspen-colorado-t-00-15-17" style="--pulse-height:14%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-aspen-colorado-t-00-28-38" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-aspen-colorado-t-00-29-51" style="--pulse-height:14%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-aspen-colorado-t-00-17-07" style="--pulse-height:14%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [City of Aspen](https://www.aspen.gov/)
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-aspen-colorado-t-00-15-17) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-aspen-colorado-t-00-28-38) | 1 |
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-gpe-aspen-colorado-t-00-29-51) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-aspen-colorado-t-00-17-07) | 1 |
 
 </details>
 </section>
@@ -89,7 +91,15 @@ Source: [City of Aspen](https://www.aspen.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:17:14](/episodes/ep-6jOEN9rBePU.md#ent-gpe-aspen-colorado-t-00-17-07)**
+> "...gave in front of investors in Aspen three weeks before his death."
+
+</details>
 
 <details>
 <summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Spencer Cox"
-description: "Spencer Cox (People) - 53 mentions"
+description: "Spencer Cox (People) - 56 mentions"
 id: "person-spencer-cox"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-spencer-cox-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30">2026-10-13 · 00:24:56</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-06-40">2026-10-14 · 00:06:40</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -51,6 +51,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42" style="--pulse-height:38%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-04-49" style="--pulse-height:38%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42) | 3 |
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-04-49) | 3 |
 
 </details>
 </section>
@@ -82,7 +84,21 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
+
+**[00:04:49](/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-04-49)**
+> "...hat he was with Governor Cox (Spencer Cox)."
+
+**[00:06:03](/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-06-03)**
+> "...prised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of..."
+
+**[00:06:40](/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-06-40)**
+> "...d discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other t..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
@@ -367,6 +383,18 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details>
+<summary>Met With (1)</summary>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Ran Against (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
@@ -379,7 +407,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -418,6 +446,13 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:24:30](/episodes/ep-V-phmW9f0pM.md#t-00-24-30): “Very shortly after the assassination, Governor Cox (Spencer Cox) promoted him, allowing him to achieve another Utah State first. Tyler (Tyler Clancy) left his position as a Provo Police Department SVU ICAC detective, and he was instead appointed as the state's youngest ever homeless coordinator. The appointment was announced on October 30th. You can see it here on social media, announced by Governor Cox (Spencer Cox) himself. Here's what it says. Today, I appointed Rep. Tyler Clancy as Utah State's homeless coordinator. I'm confident in his leadership to deliver results, faster help for those who need it, and cleaner, safer streets.”
+
+</details>
+
+- **[Tyler Clancy](/entities/person-tyler-clancy.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
 
 </details>
 
@@ -501,7 +536,23 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (13)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (17)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>
+
+- [00:04:49](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) (Claim) **Candace Owens** (via paraphrase): ["Owens said she was also told Val Peterson was with Governor Spencer Co..."](/statements/statement-6bc7789739bf.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+- [00:05:14](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) (Citation) **Candace Owens**: ["Owens said Governor Cox's published schedule listed no commitments for..."](/statements/statement-ff3ddb014e64.md)
+
+- [00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03) (Claim) **Candace Owens**: ["As far as Owens and her team could tell, Governor Spencer Cox had neve..."](/statements/statement-f077492c34cb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40) (Citation) **Candace Owens**: ["Owens cited Governor Spencer Cox's published schedule as listing a Sep..."](/statements/statement-85e7964d90c2.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>

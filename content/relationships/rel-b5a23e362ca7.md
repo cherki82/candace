@@ -11,7 +11,11 @@ object: "person-katie-zacharia"
 
 ## [Pepperdine University](/entities/org-pepperdine-university) attended by [Katie Zacharia](/entities/person-katie-zacharia)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
+
+- [00:27:58](/episodes/ep-6jOEN9rBePU#t-00-27-58): _And I want to be clear, the school she went to, Pepperdine, same school as Erika (Erika Kirk). I don't know if they're manufacturing these girls, like Erika's (Erika Kirk) credentials were all over the place, kind of felt like they were made up, if we're being honest. ... But Pepperdine confirmed that she went to the school. That's not in question. They confirmed that she got a degree. ... We know that she got her bachelor's degree. We know that she finished at law school. Did you pass the bar?_
 
 **[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
 

@@ -10,37 +10,63 @@ description: "Reviewed theory milestones and proposition changes over event and 
 <div class="thread-index-audit"><strong>Reviewed, not inferred</strong><span>Membership and transitions require evidence. Similarity alone never creates a durable link.</span></div>
 
 <div class="thread-index-stats">
-<div><strong>466</strong><span>live branches</span></div>
+<div><strong>471</strong><span>live branches</span></div>
 <div><strong>104</strong><span>dormant seeds</span></div>
 <div><strong>24</strong><span>put to rest</span></div>
-<div><strong>3,911</strong><span>reviewed turns</span></div>
+<div><strong>3,923</strong><span>reviewed turns</span></div>
 </div>
 
 <div class="thread-index-grid">
 <article class="thread-index-card">
 <div class="thread-card-meta">
-<span>178 sources</span>
-<span>3879 reviewed turns</span>
-<time datetime="2026-10-13">Updated 2026-10-13</time>
+<span>179 sources</span>
+<span>3885 reviewed turns</span>
+<time datetime="2026-10-14">Updated 2026-10-14</time>
 </div>
 <h2><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h2>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>454</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,430</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>456</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,436</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">6430 reviewed transitions</span>
+<span class="sr-only">6436 reviewed transitions</span>
+</article>
+
+<article class="thread-index-card">
+<div class="thread-card-meta">
+<span>4 sources</span>
+<span>18 reviewed turns</span>
+<time datetime="2026-10-14">Updated 2026-10-14</time>
+</div>
+<h2><a href="/threads/thread-nampa-club-america-attendance-dispute">How the Nampa Club America attendance dispute narrowed</a></h2>
+<p>Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.</p>
+<div class="thread-index-preview"><span><strong>8</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>19</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
+<span class="sr-only">19 reviewed transitions</span>
+</article>
+
+<article class="thread-index-card">
+<div class="thread-card-meta">
+<span>2 sources</span>
+<span>6 reviewed turns</span>
+<time datetime="2026-10-14">Updated 2026-10-14</time>
+</div>
+<h2><a href="/threads/thread-zacharia-legal-credentials-dispute">How the Zacharia legal-credentials objection narrowed</a></h2>
+<p>Tracks Owens&#x27;s law-degree challenge, Zacharia&#x27;s quoted practice-and-credentials defense, and Owens&#x27;s subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.</p>
+<div class="thread-index-preview"><span><strong>2</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>6</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-zacharia-legal-credentials-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
+<span class="sr-only">6 reviewed transitions</span>
 </article>
 
 <article class="thread-index-card">
 <div class="thread-card-meta">
 <span>1 source</span>
-<span>3 reviewed turns</span>
-<time datetime="2026-10-13">Updated 2026-10-13</time>
+<span>2 reviewed turns</span>
+<time datetime="2026-10-14">Updated 2026-10-14</time>
 </div>
-<h2><a href="/threads/thread-zacharia-legal-credentials-dispute">How the Zacharia legal-credentials objection narrowed</a></h2>
-<p>Tracks Owens&#x27;s law-degree challenge, Zacharia&#x27;s quoted practice-and-credentials defense, and Owens&#x27;s subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.</p>
-<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>3</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-zacharia-legal-credentials-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">3 reviewed transitions</span>
+<h2><a href="/threads/thread-clarkson-art-of-play-treatment-dispute">How the Clarkson Art of Play treatment account was disputed</a></h2>
+<p>Tracks Clarkson&#x27;s quoted account of being treated as unable to afford a purchase and Owens&#x27;s contrary interpretation of the same store encounter. These are competing attributed accounts, not an adjudication of discrimination.</p>
+<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>1</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-clarkson-art-of-play-treatment-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
+<span class="sr-only">1 reviewed transitions</span>
 </article>
 
 <article class="thread-index-card">
@@ -93,19 +119,6 @@ description: "Reviewed theory milestones and proposition changes over event and 
 <div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>1</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-erika-amfest-suit-fit-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
 <span class="sr-only">1 reviewed transitions</span>
-</article>
-
-<article class="thread-index-card">
-<div class="thread-card-meta">
-<span>3 sources</span>
-<span>17 reviewed turns</span>
-<time datetime="2026-09-22">Updated 2026-09-22</time>
-</div>
-<h2><a href="/threads/thread-nampa-club-america-attendance-dispute">How the Nampa Club America attendance dispute narrowed</a></h2>
-<p>Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.</p>
-<div class="thread-index-preview"><span><strong>7</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>18</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">18 reviewed transitions</span>
 </article>
 
 </div>

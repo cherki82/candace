@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell"
-description: "Ghislaine Maxwell (People) - 24 mentions"
+description: "Ghislaine Maxwell (People) - 25 mentions"
 id: "person-ghislaine-maxwell"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-29-10">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-15-41">2026-10-05 · 00:15:41</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-ghislaine-maxwell-t-00-19-09">2026-10-14 · 00:19:33</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -45,6 +45,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-ghislaine-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 3 mentions" title="2026-09-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-ghislaine-maxwell-t-00-31-51" style="--pulse-height:33%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-14-58" style="--pulse-height:67%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-ghislaine-maxwell-t-00-19-09" style="--pulse-height:33%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-ghislaine-maxwell-t-00-39-05) | 3 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-ghislaine-maxwell-t-00-31-51) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-ghislaine-maxwell-t-00-14-58) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-ghislaine-maxwell-t-00-19-09) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:19:33](/episodes/ep-6jOEN9rBePU.md#ent-person-ghislaine-maxwell-t-00-19-09)**
+> "His convicted partner, Ghislaine Maxwell, was born in France. He therefore ran his traffic..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>
@@ -225,6 +235,18 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Born In (1)</summary>
+
+- **[France](/entities/gpe-france.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:33](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “His convicted partner, Ghislaine Maxwell, was born in France. He therefore ran his trafficking operations in and through France extensively.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Child Of (1)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)**
@@ -251,7 +273,26 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Worked With (1)</summary>
+
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “Shared interest regarding Charlie Kirk? Ha, ha, ha, ha. Let me be perfectly clear. Jeffrey Epstein would be the literal manifestation of all three of those nations. ... His convicted partner, Ghislaine Maxwell, was born in France. He therefore ran his trafficking operations in and through France extensively.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[France](/entities/gpe-france.md)** birthplace of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:33](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “His convicted partner, Ghislaine Maxwell, was born in France. He therefore ran his trafficking operations in and through France extensively.”
+
+</details>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -274,7 +315,15 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ghislaine Maxwell (8)</strong></summary>
+<summary><strong class="section-title">Statements about Ghislaine Maxwell (9)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Accusation) **Candace Owens**: ["Owens said Jeffrey Epstein ran trafficking operations extensively in a..."](/statements/statement-3f1a7905719e.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [France](/entities/gpe-france.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Lena Dunham"
-description: "Lena Dunham (People) - 2 mentions"
+description: "Lena Dunham (People) - 3 mentions"
 id: "person-lena-dunham"
 type: "PERSON"
 categories:
@@ -19,9 +19,9 @@ Source: [Lena Dunham | Biography | Britannica](https://www.britannica.com/biogra
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-lena-dunham-t-00-02-55">2026-01-16 · 00:03:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-lena-dunham-t-00-03-46">2026-01-16 · 00:03:46</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-lena-dunham-t-00-31-53">2026-10-14 · 00:31:53</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,12 +33,14 @@ Source: [Lena Dunham | Biography | Britannica](https://www.britannica.com/biogra
 <p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-person-lena-dunham-t-00-02-55">Myron Gaines x Candace Owens</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-lena-dunham-t-00-02-55" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-lena-dunham-t-00-31-53" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-lena-dunham-t-00-02-55) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-lena-dunham-t-00-31-53) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ Source: [Lena Dunham | Biography | Britannica](https://www.britannica.com/biogra
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:31:53](/episodes/ep-6jOEN9rBePU.md#ent-person-lena-dunham-t-00-31-53)**
+> "It's like where Lena Dunham goes, where, like, Taylor Swift is writing an alb..."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Provo Police Department"
-description: "Provo Police Department (Organizations) - 8 mentions"
+description: "Provo Police Department (Organizations) - 11 mentions"
 id: "org-provo-police-department"
 type: "ORG"
 categories:
@@ -19,9 +19,9 @@ Source: [Police | Provo, UT](https://www.provo.gov/283/Police)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-provo-police-department-t-00-22-06">2026-07-20 · 00:22:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-provo-police-department-t-00-24-30">2026-10-13 · 00:33:16</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#t-00-07-22">2026-10-14 · 00:07:33</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -34,6 +34,7 @@ Source: [Police | Provo, UT](https://www.provo.gov/283/Police)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-provo-police-department-t-00-22-06" style="--pulse-height:40%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-provo-police-department-t-00-24-30" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 5 mentions" title="2026-10-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#t-00-06-40" style="--pulse-height:60%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [Police | Provo, UT](https://www.provo.gov/283/Police)
 |---|---|---:|
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-provo-police-department-t-00-22-06) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-provo-police-department-t-00-24-30) | 5 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#t-00-06-40) | 3 |
 
 </details>
 </section>
@@ -52,7 +54,21 @@ Source: [Police | Provo, UT](https://www.provo.gov/283/Police)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
+
+**[00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)**
+> "In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy."
+
+**[00:06:54](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)**
+> "House of Rep, Provo police officer, many hats, homeless coordinator, check this out. I can't make this up."
+
+**[00:07:33](/episodes/ep-6jOEN9rBePU.md#t-00-07-22)**
+> "And I'm wondering what they spoke about. Maybe it was regarding his upcoming promotion. Who knows? I wonder if Tyler (Tyler Clancy) was which hat he was wearing. House of Rep hats? Probably not because they're in session beginning in January. Maybe the Provo police stopping human trafficking hat."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 370 mentions"
+description: "Frank Turek (People) - 371 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-29-22">2026-10-13 · 00:29:22</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>370</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-frank-turek-t-00-02-28">2026-10-14 · 00:02:28</a></strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>371</strong></div>
 <div><span>Statements by</span><strong>61</strong></div>
 <div><span>Statements about</span><strong>101</strong></div>
 <div><span>Relationships</span><strong>76</strong></div>
@@ -105,6 +105,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54" style="--pulse-height:9%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27" style="--pulse-height:44%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 14 mentions" title="2026-10-08 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-01" style="--pulse-height:12%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-frank-turek-t-00-02-28" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -179,6 +180,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-frank-turek-t-00-30-54) | 3 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27) | 14 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-01) | 4 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-frank-turek-t-00-02-28) | 1 |
 
 </details>
 </section>
@@ -190,7 +192,15 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (370)</strong></summary>
+<summary><strong class="section-title">Raw mentions (371)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:02:28](/episodes/ep-6jOEN9rBePU.md#ent-person-frank-turek-t-00-02-28)**
+> "And professionals at any time. Also, tattoo brothers, um, if you've got the tattoo, you can team up. But there is a weakness there at the bottom: "What more was I supposed to do exactly?" Then, of course, we have Yankin' Bankin' Frank (Frank Turek). Uh, there he is. This is, I love this Poké card. These are the hokey Pokémon cards. They're just saying whatever. Uh, CPR, perhaps he can do it. Sometimes he doesn't."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Idaho"
-description: "Idaho (Places) - 16 mentions"
+description: "Idaho (Places) - 21 mentions"
 id: "gpe-idaho"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of Idaho](https://idaho.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-idaho-t-00-56-45">2025-10-30 · 00:56:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#t-00-08-47">2026-10-13 · 00:08:57</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-17-07">2026-10-14 · 00:17:33</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -28,19 +28,20 @@ Source: [State of Idaho](https://idaho.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-idaho-t-00-28-52">Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-11-49">Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-idaho-t-00-56-45" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-idaho-t-00-20-23" style="--pulse-height:67%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-idaho-t-00-18-37" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#t-00-02-55" style="--pulse-height:33%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-idaho-t-00-46-14" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-idaho-t-00-10-17" style="--pulse-height:33%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-idaho-t-00-00-01" style="--pulse-height:67%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-idaho-t-00-28-52" style="--pulse-height:100%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 3 mentions" title="2026-09-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-idaho-t-00-48-36" style="--pulse-height:33%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-09-06" style="--pulse-height:67%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-V-phmW9f0pM.md#t-00-08-47" style="--pulse-height:33%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-idaho-t-00-56-45" style="--pulse-height:20%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-idaho-t-00-20-23" style="--pulse-height:40%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-idaho-t-00-18-37" style="--pulse-height:20%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#t-00-02-55" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-idaho-t-00-46-14" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-idaho-t-00-10-17" style="--pulse-height:20%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NNiCZk1cuzs.md#ent-gpe-idaho-t-00-00-01" style="--pulse-height:40%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BvthGQw3_s0.md#ent-gpe-idaho-t-00-28-52" style="--pulse-height:60%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 3 mentions" title="2026-09-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-idaho-t-00-48-36" style="--pulse-height:20%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-09-06" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#t-00-08-47" style="--pulse-height:20%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-11-49" style="--pulse-height:100%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [State of Idaho](https://idaho.gov/)
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-idaho-t-00-48-36) | 1 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-09-06) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-11-49) | 5 |
 
 </details>
 </section>
@@ -64,7 +66,27 @@ Source: [State of Idaho](https://idaho.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
+
+**[00:12:17](/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-11-49)**
+> "...e decided to collaborate with Idaho."
+
+**[00:12:28](/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-12-28)**
+> "...you that Val Peterson is from Idaho. He's from Moscow, Idaho, where his father was a ..."
+
+**[00:12:50](/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-12-28)**
+> "... Petersons, collaborated with Idaho, and he was additionally charged in Meridian, Ida..."
+
+**[00:13:43](/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-13-43)**
+> "...le, which is available on the Idaho Attorney General's website. Not a lot of details ..."
+
+**[00:17:33](/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-17-07)**
+> "...ch influence in the region of Idaho and Utah? Actually, why"
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>

@@ -16,7 +16,7 @@ date: "2025-07-12"
 
 > The New York Times reported that Donald Trump called and scolded Charlie Kirk over Epstein criticism at the Student Action Summit.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
 
@@ -52,3 +52,14 @@ date: "2025-07-12"
 <a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=1707s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > President Trump called Charlie Kirk angrily to scold him about his events, told
+
+### 5. Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death...
+
+**Episode:** [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md)
+**Timestamp:** [00:15:23](/episodes/ep-6jOEN9rBePU.md#event-event-2025-07-12-the-new-york-times-reported-that-donald--t-00-15-11) 
+<a href="https://www.youtube.com/watch?v=6jOEN9rBePU&t=923s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Why did President Donald Trump call Charlie Kirk in July and reprimand him
+
+> **Date stated in this source:** “in July”
+> **Date review note:** This source states month only. Retain the existing sourced July 12, 2025 canonical date for the same reported call without claiming this source supplies its day.

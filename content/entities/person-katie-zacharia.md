@@ -1,6 +1,6 @@
 ---
 title: "Katie Zacharia"
-description: "Katie Zacharia (People) - 4 mentions"
+description: "Katie Zacharia (People) - 6 mentions"
 id: "person-katie-zacharia"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50">2026-10-13 · 00:35:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-40-58">2026-10-13 · 00:40:58</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15">2026-10-14 · 00:27:33</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -32,12 +32,14 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 <p>Highest activity: <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50) | 4 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15) | 2 |
 
 </details>
 </section>
@@ -49,7 +51,18 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
+
+**[00:27:15](/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15)**
+> "...scussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm jus..."
+
+**[00:27:33](/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15)**
+> "...thing personal against Katie (Katie Zacharia)."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4 mentions)</summary>
@@ -74,12 +87,37 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... When she was next to Trump (Donald Trump) and the reporters just asked her, hey, where, where did you, where'd you pass the bar?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Attended (1)</summary>
 
 - **[Pepperdine University](/entities/org-pepperdine-university.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:58](/episodes/ep-6jOEN9rBePU.md#t-00-27-58): “And I want to be clear, the school she went to, Pepperdine, same school as Erika (Erika Kirk). I don't know if they're manufacturing these girls, like Erika's (Erika Kirk) credentials were all over the place, kind of felt like they were made up, if we're being honest. ... But Pepperdine confirmed that she went to the school. That's not in question. They confirmed that she got a degree. ... We know that she got her bachelor's degree. We know that she finished at law school. Did you pass the bar?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Contributor To (1)</summary>
+
+- **[Fox News](/entities/org-fox-news.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... This is like first day nerves and it's totally fine that we can't confirm her background. She's been. ... providing commentary on Fox News. I'm sure she's a nice girl. It's nothing personal, nothing personal against Katie (Katie Zacharia).”
 
 </details>
 
@@ -89,9 +127,10 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... It's just I happen to notice that she seems to have no idea what she's talking about. She seems to be confused. ... And I don't know how she got this position. And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it.”
 
 </details>
 
@@ -101,9 +140,10 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 <summary>Works For (2)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44): “I am so honored to work for President Trump (Donald Trump) and the American people as the new White House press secretary.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... And so this is all made up and it's massively embarrassing to Trump (Donald Trump). It's massively embarrassing that we have people who are so tribal, they won't call this out and say it's wrong.”
 
 </details>
 
@@ -117,26 +157,36 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (6)</summary>
 
-- **[Pepperdine University](/entities/org-pepperdine-university.md)** attended by this
+- **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... When she was next to Trump (Donald Trump) and the reporters just asked her, hey, where, where did you, where'd you pass the bar?”
+
+</details>
+
+- **[Pepperdine University](/entities/org-pepperdine-university.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:58](/episodes/ep-6jOEN9rBePU.md#t-00-27-58): “And I want to be clear, the school she went to, Pepperdine, same school as Erika (Erika Kirk). I don't know if they're manufacturing these girls, like Erika's (Erika Kirk) credentials were all over the place, kind of felt like they were made up, if we're being honest. ... But Pepperdine confirmed that she went to the school. That's not in question. They confirmed that she got a degree. ... We know that she got her bachelor's degree. We know that she finished at law school. Did you pass the bar?”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... It's just I happen to notice that she seems to have no idea what she's talking about. She seems to be confused. ... And I don't know how she got this position. And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it.”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:35:44](/episodes/ep-V-phmW9f0pM.md#t-00-35-44): “I am so honored to work for President Trump (Donald Trump) and the American people as the new White House press secretary.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... You can't just pretend to be a practicing attorney if you didn't pass the bar. Where did you pass the bar? Here is the answer that she gave when she was next to Trump (Donald Trump) and the reporters just asked her. ... And so this is all made up and it's massively embarrassing to Trump (Donald Trump). It's massively embarrassing that we have people who are so tribal, they won't call this out and say it's wrong.”
 
 </details>
 
@@ -147,12 +197,27 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 
 </details>
 
+- **[Fox News](/entities/org-fox-news.md)** has contributor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... This is like first day nerves and it's totally fine that we can't confirm her background. She's been. ... providing commentary on Fox News. I'm sure she's a nice girl. It's nothing personal, nothing personal against Katie (Katie Zacharia).”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Katie Zacharia (4)</strong></summary>
+<summary><strong class="section-title">Statements by Katie Zacharia (5)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:28:54](/episodes/ep-6jOEN9rBePU.md#t-00-28-54) [○] (Claim) ["In the embedded bar-exam exchange, the speaker identified in the cleaned transcr..."](/statements/statement-0412c2c1b999.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [China](/entities/gpe-china.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4)</summary>
@@ -174,7 +239,24 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Katie Zacharia (9)</strong></summary>
+<summary><strong class="section-title">Statements about Katie Zacharia (13)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>
+
+- [00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) (Claim) **Candace Owens**: ["Owens described Katie Zacharia as the new press secretary and said she..."](/statements/statement-70fd80ed53d5.md)
+  - Also about: [Fox News](/entities/org-fox-news.md)
+
+- [00:27:47](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) (Citation) **Candace Owens**: ["Owens said Pepperdine confirmed Katie Zacharia attended and obtained a..."](/statements/statement-a73eabb5c385.md)
+  - Also about: [Pepperdine University](/entities/org-pepperdine-university.md)
+
+- [00:28:54](/episodes/ep-6jOEN9rBePU.md#t-00-28-54) (Claim) **Katie Zacharia** (via quoted speech): ["In the embedded bar-exam exchange, the speaker identified in the clean..."](/statements/statement-0412c2c1b999.md)
+  - Also about: [China](/entities/gpe-china.md)
+
+- [00:29:18](/episodes/ep-6jOEN9rBePU.md#t-00-28-58) (Accusation) **Candace Owens**: ["Owens alleged that Katie Zacharia did not pass the bar and that the st..."](/statements/statement-5bed8ec5d921.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (9)</summary>

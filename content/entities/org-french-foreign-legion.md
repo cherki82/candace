@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 47 mentions"
+description: "French Foreign Legion (Organizations) - 48 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39">2025-11-21 · 00:14:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52">2026-08-14 · 02:36:52</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-french-foreign-legion-t-00-18-30">2026-10-14 · 00:18:46</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -52,6 +52,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25" style="--pulse-height:21%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-47-23" style="--pulse-height:21%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-french-foreign-legion-t-00-18-30" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25) | 4 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-47-23) | 4 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-french-foreign-legion-t-00-18-30) | 1 |
 
 </details>
 </section>
@@ -82,7 +84,15 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:18:46](/episodes/ep-6jOEN9rBePU.md#ent-org-french-foreign-legion-t-00-18-30)**
+> "...I said, hey, White House, the French Foreign Legion's presence, they were there on the day, on the grou..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>

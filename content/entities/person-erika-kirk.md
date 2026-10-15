@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3432 mentions"
+description: "Erika Kirk (People) - 3436 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,11 +27,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-54-50">2026-10-13 · 00:55:08</a></strong></div>
-<div><span>Episodes</span><strong>166</strong></div>
-<div><span>Mentions</span><strong>3,432</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-27-58">2026-10-14 · 00:27:58</a></strong></div>
+<div><span>Episodes</span><strong>167</strong></div>
+<div><span>Mentions</span><strong>3,436</strong></div>
 <div><span>Statements by</span><strong>133</strong></div>
-<div><span>Statements about</span><strong>1,189</strong></div>
+<div><span>Statements about</span><strong>1,193</strong></div>
 <div><span>Relationships</span><strong>386</strong></div>
 <div><span>Threads</span><strong>5</strong></div>
 </div>
@@ -206,6 +206,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:23%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 20 mentions" title="2026-10-07 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:19%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 16 mentions" title="2026-10-08 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35" style="--pulse-height:14%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 12 mentions" title="2026-10-13 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -377,6 +378,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-erika-kirk-t-00-00-01) | 20 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-erika-kirk-t-00-00-01) | 16 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35) | 12 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55) | 4 |
 
 </details>
 </section>
@@ -392,7 +394,24 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3432)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3436)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
+
+**[00:03:22](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55)**
+> "...and allegedly very pro Erika (Erika Kirk) and Turning Point USA."
+
+**[00:15:42](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-15-42)**
+> "...(Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging ..."
+
+**[00:16:16](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-15-42)**
+> "It would be very easy for Erika Kirk to deny that she's ever been to that office. I wo..."
+
+**[00:27:58](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-27-58)**
+> "...erdine, same school as Erika (Erika Kirk). I don't know if they're manufacturing these gir..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (12 mentions)</summary>
@@ -11930,9 +11949,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Pepperdine University](/entities/org-pepperdine-university.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:40:13](/episodes/ep-V-phmW9f0pM.md#t-00-40-13): “At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:58](/episodes/ep-6jOEN9rBePU.md#t-00-27-58): “And I want to be clear, the school she went to, Pepperdine, same school as Erika (Erika Kirk). I don't know if they're manufacturing these girls, like Erika's (Erika Kirk) credentials were all over the place, kind of felt like they were made up, if we're being honest.”
 
 </details>
 
@@ -12148,7 +12168,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (14)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -12229,6 +12249,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 
 </details>
 
@@ -13327,7 +13348,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Widow Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (89)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -13418,6 +13439,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:20:44](/episodes/ep-0pSAhaAZz1w.md#t-00-20-44): “had a one hundred and twenty thousand dollar budget and instructed Clippers to post videos edited from the YouTube channel of Turning Point USA, the conservative nonprofit organization co-founded by the late Charlie Kirk. OK, so for clarity, that's the campaign that we just showed you, the generic August campaign that was then edited for one week to focus on making Andrew Wilson look good. Not a possible, not an easy task. And here is where the journalist makes a remarkable discovery regarding the Google Drive folder that was connected to this Turning Point USA campaign. The article says it links to a Google Drive folder with videos, mostly of his wife, Erika Kirk, that were uploaded on September 15th, 2025, five days after her husband's assassination.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
 
 </details>
 
@@ -13601,9 +13623,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -13884,9 +13907,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Pepperdine University](/entities/org-pepperdine-university.md)** attended by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:40:13](/episodes/ep-V-phmW9f0pM.md#t-00-40-13): “At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:58](/episodes/ep-6jOEN9rBePU.md#t-00-27-58): “And I want to be clear, the school she went to, Pepperdine, same school as Erika (Erika Kirk). I don't know if they're manufacturing these girls, like Erika's (Erika Kirk) credentials were all over the place, kind of felt like they were made up, if we're being honest.”
 
 </details>
 
@@ -13965,7 +13989,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -14046,6 +14070,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 
 </details>
 
@@ -14161,7 +14186,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** deceased husband of this
-<details class="relationship-evidence"><summary>Show all evidence (89)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -14252,6 +14277,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:20:44](/episodes/ep-0pSAhaAZz1w.md#t-00-20-44): “had a one hundred and twenty thousand dollar budget and instructed Clippers to post videos edited from the YouTube channel of Turning Point USA, the conservative nonprofit organization co-founded by the late Charlie Kirk. OK, so for clarity, that's the campaign that we just showed you, the generic August campaign that was then edited for one week to focus on making Andrew Wilson look good. Not a possible, not an easy task. And here is where the journalist makes a remarkable discovery regarding the Google Drive folder that was connected to this Turning Point USA campaign. The article says it links to a Google Drive folder with videos, mostly of his wife, Erika Kirk, that were uploaded on September 15th, 2025, five days after her husband's assassination.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
 
 </details>
 
@@ -14316,9 +14342,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -15996,7 +16023,24 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (1189)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (1193)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55) (Claim) **Candace Owens** (via paraphrase): ["Owens described Val Peterson as UVU's vice president, allegedly feared..."](/statements/statement-4743917a40b1.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) (Accusation) **Candace Owens** (via paraphrase): ["Owens repeated a source-reported allegation that Erika Kirk allegedly ..."](/statements/statement-704c910024e3.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [Modeling-apartment account sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-014.md)
+
+- [00:16:22](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) (Accusation) **Candace Owens** (via paraphrase): ["Owens repeated a source-reported allegation that Erika Kirk was in cha..."](/statements/statement-b156170e6499.md)
+  - Also about: [Upper East Side](/entities/gpe-upper-east-side.md), [Modeling-apartment account sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-014.md)
+
+- [00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) (Accusation) **Candace Owens**: ["Why is it that Turning Point under Erika Kirk's leadership appears to ..."](/statements/statement-f5d9e3cc8ce7.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5)</summary>

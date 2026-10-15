@@ -1,6 +1,6 @@
 ---
 title: "Val L. Peterson"
-description: "Val L. Peterson (People) - 29 mentions"
+description: "Val L. Peterson (People) - 36 mentions"
 id: "person-val-peterson"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06">2026-10-13 · 00:04:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-32-45">2026-10-13 · 00:33:04</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-13-10">2026-10-14 · 00:13:35</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -37,12 +37,14 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 <p>Highest activity: <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a> (29 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 29 mentions" title="2026-10-13 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-02-55" style="--pulse-height:24%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 7 mentions" title="2026-10-14 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06) | 29 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-02-55) | 7 |
 
 </details>
 </section>
@@ -54,7 +56,33 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (7 mentions)</summary>
+
+**[00:03:22](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-02-55)**
+> "It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the gu..."
+
+**[00:03:42](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-03-36)**
+> "...y we wanted to know where was Val Peterson on September 10th. He had a lot of duties."
+
+**[00:06:31](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-06-03)**
+> "...u? Were you golfing with Val (Val Peterson)?"
+
+**[00:08:20](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-08-06)**
+> "... sounds right. It's regarding Val Peterson, again, referred to by many as the most powerful ..."
+
+**[00:12:28](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-12-28)**
+> "Remember I told you that Val Peterson is from Idaho. He's from Moscow, Idaho, where his..."
+
+**[00:13:27](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-13-10)**
+> "...right there. By the way, just Val Peterson's dad, that's where they're from, Nampa, Idaho."
+
+**[00:13:35](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-13-10)**
+> "...t's interesting. Anyway, Val (Val Peterson)'s brother Charles (Charles Loritz Peterson) was ..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (29 mentions)</summary>
@@ -233,12 +261,25 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 <details>
+<summary>Sibling Of (1)</summary>
+
+- **[Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:13:35](/episodes/ep-6jOEN9rBePU.md#t-00-13-10): “Born in Nampa, Idaho. So that's interesting. Anyway, Val (Val Peterson)'s brother Charles (Charles Loritz Peterson) was additionally charged in Meridian with four counts of soliciting a child.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Vice President Of (1)</summary>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
 
 </details>
 
@@ -295,9 +336,10 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)** has vice president this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
 
 </details>
 
@@ -332,7 +374,36 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Val L. Peterson (16)</strong></summary>
+<summary><strong class="section-title">Statements about Val L. Peterson (24)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (8)</summary>
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55) (Claim) **Candace Owens** (via paraphrase): ["Owens described Val Peterson as UVU's vice president, allegedly feared..."](/statements/statement-4743917a40b1.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) (Claim) **Candace Owens**: ["Val Peterson oversaw EMS services at UVU, according to Owens."](/statements/statement-446a741467ef.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) (Citation) **Candace Owens**: ["Owens cited UVU's independent after-incident review as saying Val Pete..."](/statements/statement-1165c73c5b31.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:04:16](/episodes/ep-6jOEN9rBePU.md#t-00-04-16) (Claim) **Candace Owens** (via paraphrase): ["Owens said multiple sources with direct knowledge reported that Val Pe..."](/statements/statement-32b82145af6e.md)
+  - Also about: [Heber City, Utah](/entities/gpe-heber-city-utah.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+- [00:04:49](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) (Claim) **Candace Owens** (via paraphrase): ["Owens said she was also told Val Peterson was with Governor Spencer Co..."](/statements/statement-6bc7789739bf.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+- [00:08:20](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) (Claim) **Candace Owens**: ["Owens said Val Peterson has a brother named Charles Loritz Peterson. T..."](/statements/statement-26db539bd5b9.md)
+  - Also about: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md)
+
+- [00:08:35](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) (Claim) **Candace Owens**: ["Owens said the man she identified as Val Peterson's brother, Charles L..."](/statements/statement-194286f9197a.md)
+  - Also about: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Layton, Utah](/entities/gpe-layton-utah.md)
+
+- [00:12:28](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) (Claim) **Candace Owens**: ["Owens said Val Peterson was from Moscow, Idaho, where his father was a..."](/statements/statement-5f9e3ddcdb17.md)
+  - Also about: [University of Idaho](/entities/org-university-of-idaho.md), [Moscow, Idaho](/entities/gpe-moscow-idaho.md), [Nampa, Idaho](/entities/gpe-nampa-idaho.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (16)</summary>

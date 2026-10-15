@@ -1,6 +1,6 @@
 ---
 title: "Rothschild family"
-description: "Rothschild family (Organizations) - 46 mentions"
+description: "Rothschild family (Organizations) - 47 mentions"
 id: "org-rothschild-family"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-rothschild-family-t-00-55-46">2025-10-28 · 00:56:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-rothschild-family-t-00-39-23">2026-06-26 · 00:39:23</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-rothschild-family-t-00-19-09">2026-10-14 · 00:19:21</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-rothschild-family-t-00-36-22" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-rothschild-family-t-00-32-19" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-rothschild-family-t-00-23-17" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-rothschild-family-t-00-19-09" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-rothschild-family-t-00-36-22) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-rothschild-family-t-00-32-19) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-rothschild-family-t-00-23-17) | 3 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-rothschild-family-t-00-19-09) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:19:21](/episodes/ep-6jOEN9rBePU.md#ent-org-rothschild-family-t-00-19-09)**
+> "He worked directly for the Rothschilds, who credit themselves with having created the st..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -282,11 +292,12 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 <summary>Formerly Employed (1)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:22](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Jeffrey Epstein operated a global trafficking ring. And he worked, according to him and his emails, for the Rothschilds.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:23:17](/episodes/ep-IqHsl7d2dos.md#t-00-23-17): “The Rothschilds being Jeffrey Epstein's employers, Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeling world through which he trafficked victims from Eastern Europe, from impoverished war-torn areas.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “Shared interest regarding Charlie Kirk? Ha, ha, ha, ha. Let me be perfectly clear. Jeffrey Epstein would be the literal manifestation of all three of those nations. ... He worked directly for the Rothschilds, who credit themselves with having created the state of Israel in 1948.”
 
 </details>
 
@@ -320,11 +331,12 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 <summary>Referenced By (3)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:22](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Jeffrey Epstein operated a global trafficking ring. And he worked, according to him and his emails, for the Rothschilds.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:23:17](/episodes/ep-IqHsl7d2dos.md#t-00-23-17): “The Rothschilds being Jeffrey Epstein's employers, Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeling world through which he trafficked victims from Eastern Europe, from impoverished war-torn areas.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “Shared interest regarding Charlie Kirk? Ha, ha, ha, ha. Let me be perfectly clear. Jeffrey Epstein would be the literal manifestation of all three of those nations. ... He worked directly for the Rothschilds, who credit themselves with having created the state of Israel in 1948.”
 
 </details>
 
@@ -347,7 +359,15 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rothschild family (13)</strong></summary>
+<summary><strong class="section-title">Statements about Rothschild family (14)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Claim) **Candace Owens**: ["Owens claimed Jeffrey Epstein worked directly for the Rothschilds, who..."](/statements/statement-3f6722c15e73.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>

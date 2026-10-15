@@ -11,7 +11,11 @@ object: "org-utah-house-of-representatives"
 
 ## [Tyler Clancy](/entities/person-tyler-clancy) member of [Utah House of Representatives](/entities/org-utah-house-of-representatives)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
+
+- [00:06:58](/episodes/ep-6jOEN9rBePU#t-00-06-58): _This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion. ... And to be clear, the Utah House of Reps, they work 45 days a year and he started in 2023. So he's climbing this ladder quickly. He's making a lot of connections here._
 
 **[America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 6872 mentions"
+description: "Charlie Kirk (People) - 6894 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,13 +24,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-54-07">2026-10-13 · 00:54:45</a></strong></div>
-<div><span>Episodes</span><strong>182</strong></div>
-<div><span>Mentions</span><strong>6,872</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-45-02">2026-10-14 · 00:45:02</a></strong></div>
+<div><span>Episodes</span><strong>183</strong></div>
+<div><span>Mentions</span><strong>6,894</strong></div>
 <div><span>Statements by</span><strong>134</strong></div>
-<div><span>Statements about</span><strong>2,255</strong></div>
+<div><span>Statements about</span><strong>2,261</strong></div>
 <div><span>Relationships</span><strong>397</strong></div>
-<div><span>Threads</span><strong>3</strong></div>
+<div><span>Threads</span><strong>4</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -219,6 +219,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-charlie-kirk-t-00-03-08" style="--pulse-height:22%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 24 mentions" title="2026-10-07 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:34%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 37 mentions" title="2026-10-08 · 37 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 20 mentions" title="2026-10-13 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:20%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 22 mentions" title="2026-10-14 · 22 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -406,6 +407,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-charlie-kirk-t-00-03-08) | 24 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-charlie-kirk-t-00-00-01) | 37 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01) | 20 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01) | 22 |
 
 </details>
 </section>
@@ -414,12 +416,84 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 - [How the account of a manufactured Owens–Kirk feud changed](/threads/thread-owens-kirk-2019-feud-provenance) — Tracks the displayed 2019 messages and Owens’s later challenge to their claimed Groyper provenance. Authorship, authenticity and alleged coordination remain unverified; this thread does not identify assassination participants.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
 - [How Kirk Telegram account attribution became uncertain](/threads/thread-kirk-telegram-account-attribution) — Tracks a viewer’s matching-contact observation and Owens’s shared-account alternative in Episode 396. The progression concerns attribution of displayed messages; account ownership, authorship and message authenticity remain unverified.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6872)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6894)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (22 mentions)</summary>
+
+**[00:00:26](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01)**
+> "...er 14th, what would have been Charlie Kirk's 33rd birthday."
+
+**[00:00:39](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-39)**
+> "...hat and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I k..."
+
+**[00:00:51](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-39)**
+> "Charlie (Charlie Kirk) was never big on his birthday. He was sort of an..."
+
+**[00:04:00](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-03-36)**
+> "...u would think that if he knew Charlie Kirk was coming, he may have been there."
+
+**[00:06:03](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-06-03)**
+> "...s when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's g..."
+
+**[00:15:23](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-15-11)**
+> "...d President Donald Trump call Charlie Kirk in July and reprimand him for speaking out agains..."
+
+**[00:15:42](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-15-42)**
+> "... a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story ..."
+
+**[00:17:07](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-17-07)**
+> "... not the explicit vision that Charlie Kirk had."
+
+**[00:18:30](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-18-30)**
+> "...ssing various elements of the Charlie Kirk assassination."
+
+**[00:19:09](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-19-09)**
+> "Shared interest regarding Charlie Kirk? Ha, ha, ha, ha. Let me be perfectly clear. Jeffr..."
+
+**[00:19:55](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-19-55)**
+> "... would make a lot of sense if Charlie Kirk was threatening to"
+
+**[00:20:33](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-20-33)**
+> "And by he, I mean Charlie (Charlie Kirk), of course, on his show every day was hitting ha..."
+
+**[00:20:45](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-20-33)**
+> "... stand. It is, yeah, Charlie (Charlie Kirk)'s would be his 33rd birthday today. And I think ..."
+
+**[00:21:37](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-21-15)**
+> "...retend to care about Charlie (Charlie Kirk)? I don't know how they do it. Like I struggle wi..."
+
+**[00:21:47](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-21-15)**
+> "...ink the best gift to Charlie (Charlie Kirk) and what would have been his 33rd birthday is th..."
+
+**[00:21:52](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-21-52)**
+> "... we acknowledge that Charlie (Charlie Kirk) was terrified in the end."
+
+**[00:22:32](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-22-32)**
+> "...a positive note that Charlie (Charlie Kirk) knew that death was coming. He knew that his dea..."
+
+**[00:43:23](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-43-23)**
+> "... Patrick J. Carlin writes, on Charlie Kirk's birthday, and since he cared so deeply about Amer..."
+
+**[00:44:03](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-44-03)**
+> "...film as the portrayal of what Charlie Kirk's world would have been had he accepted Bibi's (Ben..."
+
+**[00:44:29](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-44-03)**
+> "...eople in the wake of Charlie (Charlie Kirk)'s assassination got that offer and said yes. And..."
+
+**[00:45:02](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-45-02)**
+> "...much, to yell out to Charlie (Charlie Kirk) that we will never give up and he is beyond love..."
+
+**[00:22:48](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-22-32)**
+> "What we're going to find, I think we can all conclude that Charlie (Charlie Kirk) was right. So happy birthday, Charlie Kirk."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (20 mentions)</summary>
@@ -22395,7 +22469,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (89)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -22486,6 +22560,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:20:44](/episodes/ep-0pSAhaAZz1w.md#t-00-20-44): “had a one hundred and twenty thousand dollar budget and instructed Clippers to post videos edited from the YouTube channel of Turning Point USA, the conservative nonprofit organization co-founded by the late Charlie Kirk. OK, so for clarity, that's the campaign that we just showed you, the generic August campaign that was then edited for one week to focus on making Andrew Wilson look good. Not a possible, not an easy task. And here is where the journalist makes a remarkable discovery regarding the Google Drive folder that was connected to this Turning Point USA campaign. The article says it links to a Google Drive folder with videos, mostly of his wife, Erika Kirk, that were uploaded on September 15th, 2025, five days after her husband's assassination.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
 
 </details>
 
@@ -25434,7 +25509,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (89)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -25525,6 +25600,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:20:44](/episodes/ep-0pSAhaAZz1w.md#t-00-20-44): “had a one hundred and twenty thousand dollar budget and instructed Clippers to post videos edited from the YouTube channel of Turning Point USA, the conservative nonprofit organization co-founded by the late Charlie Kirk. OK, so for clarity, that's the campaign that we just showed you, the generic August campaign that was then edited for one week to focus on making Andrew Wilson look good. Not a possible, not an easy task. And here is where the journalist makes a remarkable discovery regarding the Google Drive folder that was connected to this Turning Point USA campaign. The article says it links to a Google Drive folder with videos, mostly of his wife, Erika Kirk, that were uploaded on September 15th, 2025, five days after her husband's assassination.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
 
 </details>
 
@@ -26364,7 +26440,30 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (2255)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (2261)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (6)</summary>
+
+- [00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03) (Claim) **Candace Owens**: ["As far as Owens and her team could tell, Governor Spencer Cox had neve..."](/statements/statement-f077492c34cb.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:15:23](/episodes/ep-6jOEN9rBePU.md#t-00-15-11) (Accusation) **Candace Owens**: ["Why did President Donald Trump call Charlie Kirk in July and reprimand..."](/statements/statement-16c95e8be047.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:17:14](/episodes/ep-6jOEN9rBePU.md#t-00-17-07) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk's last company pitch to investors in Aspen, th..."](/statements/statement-78ac54903b99.md)
+  - Also about: [Club America](/entities/org-club-america.md)
+
+- [00:18:37](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterized Charlie Kirk as having changed his mind regarding ..."](/statements/statement-0a9b41cade4c.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:18:55](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) (Opinion) **Candace Owens**: ["Owens suggested that France, Israel, and the United States working tog..."](/statements/statement-cbf5c89fd4e1.md)
+  - Also about: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:21:52](/episodes/ep-6jOEN9rBePU.md#t-00-21-52) (Opinion) **Candace Owens**: ["Owens portrayed Charlie Kirk as terrified near the end, unaware of wha..."](/statements/statement-9b199bf74381.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (11)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 186 mentions"
+description: "Central Intelligence Agency (Organizations) - 189 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17">2026-10-05 · 00:07:48</a></strong></div>
-<div><span>Episodes</span><strong>80</strong></div>
-<div><span>Mentions</span><strong>186</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-52">2026-10-14 · 00:48:05</a></strong></div>
+<div><span>Episodes</span><strong>81</strong></div>
+<div><span>Mentions</span><strong>189</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>67</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
@@ -116,6 +116,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-central-intelligence-agency-t-01-04-02" style="--pulse-height:8%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BvthGQw3_s0.md#ent-org-central-intelligence-agency-t-00-06-04" style="--pulse-height:8%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-08" style="--pulse-height:18%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -201,6 +202,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-central-intelligence-agency-t-01-04-02) | 1 |
 | 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-org-central-intelligence-agency-t-00-06-04) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-08) | 3 |
 
 </details>
 </section>
@@ -212,7 +214,21 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+<summary><strong class="section-title">Raw mentions (189)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
+
+**[00:47:40](/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-08)**
+> "...g on her friends wearing your CIA T when they visit the White House. They want to g..."
+
+**[00:47:52](/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-52)**
+> "...dents coming up that like the CIA."
+
+**[00:48:05](/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-52)**
+> "...unverified]. You can buy that CIA shirt."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>

@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 182_
+_Total episodes: 183_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -25,6 +25,7 @@ _Total episodes: 182_
 
 ## Week of Oct 12 - 18, 2026
 
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md) — Wed, Oct 14
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md) — Tue, Oct 13
 
 ## Week of Oct 05 - 11, 2026

@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 284 mentions"
+description: "White House (Organizations) - 292 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-white-house-t-00-54-50">2026-10-13 · 00:55:08</a></strong></div>
-<div><span>Episodes</span><strong>83</strong></div>
-<div><span>Mentions</span><strong>284</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-47-52">2026-10-14 · 00:48:12</a></strong></div>
+<div><span>Episodes</span><strong>84</strong></div>
+<div><span>Mentions</span><strong>292</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>79</strong></div>
+<div><span>Statements about</span><strong>81</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -114,6 +114,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-white-house-t-00-26-28" style="--pulse-height:11%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-white-house-t-00-33-24" style="--pulse-height:11%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03" style="--pulse-height:29%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 8 mentions" title="2026-10-14 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -202,6 +203,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-white-house-t-00-26-28) | 3 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-white-house-t-00-33-24) | 3 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03) | 8 |
 
 </details>
 </section>
@@ -213,7 +215,36 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (284)</strong></summary>
+<summary><strong class="section-title">Raw mentions (292)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (8 mentions)</summary>
+
+**[00:06:03](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03)**
+> "...e I was on the phone with the White House."
+
+**[00:15:42](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-15-42)**
+> "...any top-level meetings in the White House in the Situation Room? Why, actually, why can't w..."
+
+**[00:17:46](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-17-46)**
+> "...ndrew Kolvet allegedly at the White House meeting with top brass the day before the Epstein..."
+
+**[00:18:07](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-17-46)**
+> "Two people in the White House emailed me and told me. We didn't know the Epstei..."
+
+**[00:18:46](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-18-30)**
+> "... done with them. I said, hey, White House, the French Foreign Legion's presence, they were ..."
+
+**[00:18:55](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-18-30)**
+> "...as never been disputed by the White House, I might add. They presented it, though, as if I ..."
+
+**[00:47:40](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-47-08)**
+> "...our CIA T when they visit the White House. They want to go max."
+
+**[00:48:12](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-47-52)**
+> "... be wearing the shirts to the White House."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
@@ -1644,7 +1675,18 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (79)</strong></summary>
+<summary><strong class="section-title">Statements about White House (81)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) (Claim) **Candace Owens**: ["Why did the Epstein files require so many top-level meetings in the Wh..."](/statements/statement-a57af3cea489.md)
+  - Also about: [Epstein Files](/entities/work-epstein-files.md), [White House Situation Room](/entities/gpe-white-house-situation-room.md)
+
+- [00:17:46](/episodes/ep-6jOEN9rBePU.md#t-00-17-46) (Claim) **Candace Owens** (via paraphrase): ["Owens asked why Andrew Kolvet was allegedly at the White House meeting..."](/statements/statement-88f27d9c0bbe.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Epstein Files](/entities/work-epstein-files.md), [Two White House email sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-013.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2927 mentions"
+description: "Candace Owens (People) - 2937 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,13 +23,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-55-35">2026-10-13 · 00:56:04</a></strong></div>
-<div><span>Episodes</span><strong>182</strong></div>
-<div><span>Mentions</span><strong>2,927</strong></div>
-<div><span>Statements by</span><strong>5,866</strong></div>
-<div><span>Statements about</span><strong>826</strong></div>
-<div><span>Relationships</span><strong>1,088</strong></div>
-<div><span>Threads</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-47-52">2026-10-14 · 00:47:52</a></strong></div>
+<div><span>Episodes</span><strong>183</strong></div>
+<div><span>Mentions</span><strong>2,937</strong></div>
+<div><span>Statements by</span><strong>5,906</strong></div>
+<div><span>Statements about</span><strong>827</strong></div>
+<div><span>Relationships</span><strong>1,093</strong></div>
+<div><span>Threads</span><strong>8</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -218,6 +218,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-candace-owens-t-00-03-08" style="--pulse-height:13%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 8 mentions" title="2026-10-07 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-candace-owens-t-00-00-01" style="--pulse-height:18%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 11 mentions" title="2026-10-08 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 16 mentions" title="2026-10-13 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20" style="--pulse-height:17%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 10 mentions" title="2026-10-14 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -405,6 +406,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-candace-owens-t-00-03-08) | 8 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-candace-owens-t-00-00-01) | 11 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11) | 16 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20) | 10 |
 
 </details>
 </section>
@@ -418,11 +420,47 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [How Kirk Telegram account attribution became uncertain](/threads/thread-kirk-telegram-account-attribution) — Tracks a viewer’s matching-contact observation and Owens’s shared-account alternative in Episode 396. The progression concerns attribution of displayed messages; account ownership, authorship and message authenticity remain unverified.
 - [How the Gillette pro-Palestine suppression narrative changed](/threads/thread-gillette-pro-palestine-suppression-response) — Tracks Owens’s account of Kraft excluding Macklemore and her later presentation of Zach Bryan’s same-stadium pro-Palestine performances as a response. It records the evolution of her suppression-versus-defiance narrative, without establishing venue policy, motives or attendance figures.
 - [How the Zacharia legal-credentials objection narrowed](/threads/thread-zacharia-legal-credentials-dispute) — Tracks Owens's law-degree challenge, Zacharia's quoted practice-and-credentials defense, and Owens's subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.
+- [How the Clarkson Art of Play treatment account was disputed](/threads/thread-clarkson-art-of-play-treatment-dispute) — Tracks Clarkson's quoted account of being treated as unable to afford a purchase and Owens's contrary interpretation of the same store encounter. These are competing attributed accounts, not an adjudication of discrimination.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2927)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2937)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (10 mentions)</summary>
+
+**[00:01:20](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20)**
+> "...tunate times. Welcome back to Candace."
+
+**[00:23:47](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-23-47)**
+> "...y, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also ..."
+
+**[00:25:40](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-25-11)**
+> "...ted, so visit tnusa.com slash Candace."
+
+**[00:25:54](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-25-54)**
+> "Again, that's tnusa.com slash Candace."
+
+**[00:38:43](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-38-29)**
+> "... to battalionmetals.com slash Candace. Again, that's battalionmetals.com."
+
+**[00:38:52](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-38-29)**
+> "Com slash Candace. I also remind you guys about American Financing ..."
+
+**[00:43:23](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-43-23)**
+> "...moral America and elect Queen Candace as the sole ruler of it, a representative democra..."
+
+**[00:45:59](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-45-42)**
+> "..., maybe. TV writes, "Candace (Candace Owens), you inspired my daughter to join speech and deb..."
+
+**[00:47:40](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-47-08)**
+> "...ike me, my daughter is a huge Candace fan. She and her eighth grade classmates will be ..."
+
+**[00:47:52](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-47-52)**
+> "...ognize that it was actually a Candace shirt. So you'd be so fine to wear it. They think..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (16 mentions)</summary>
@@ -10722,7 +10760,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (140)</summary>
+<summary>Criticized (141)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -10733,7 +10771,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10800,6 +10838,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:34:36](/episodes/ep-ms5ChhZegRg.md#t-00-34-36): “And one of the things you walk away with is how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long for the absence of what they deem to be acceptable security when Charlie (Charlie Kirk)'s security team, which was made up of about 13 members, all of them seals, former seals. ... And having these long military records did virtually nothing. I mean, didn't even try to get in touch with the police. The police had to, uh, play offense on that. And then, of course, we learned that headquarters was not sharing the ticket count, so there's no way they could have prepped without even knowing the numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript name spelling unverified) podcast, uh, gave an interview. He's been just speaking way too much, and there's one very funny part of his entire spiel which is just, it's just him.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -10820,7 +10859,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -10901,6 +10940,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 
 </details>
 
@@ -10934,7 +10974,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -10957,6 +10997,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:53:08](/episodes/ep-6XfDqKTdFKg.md#t-00-52-51): “They just are so disrespectful to my pregnancy right now. The weatherman is just disrespecting my pregnancy. Janet (online commenter; surname unverified) writes: Ben Shapiro, I compel you to apologize to Candace Owens. That was so random. We weren't even talking about Ben (Ben Shapiro) today, but I agree. I compel you. I compel you to apologize just because you should.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17): “I want to let you know that, yeah, if he will sue you for breach of contract, he won't just sue you breach contract, he will follow you across states, he will stalk you, you can't leave Ben Shapiro. I just I just want to give some free advice to Danny Trejo that, yeah, you can the tricky contract clauses, not knowing who somebody is, feeling entrapped and then being like this is just morally wrong. ... If you try to get out of that contract, you're getting sued, sue sued. Like, I mean, then he will encourage others to sue you with their money. ... Really. I tend to believe that. I call it from personal experience. Let me tell you, you better just do the movie or you're going to have to deal with. ... a psychotic stalker for the rest of your life who will then probably try to take your business, your kids' businesses. He's probably already plotting against one of your kids. I'm guessing he's already, because he just can't, he just can't be normal and realize that people, people don't want to work with him. They don't want to work with him. They want to move on in their lives, and that's not, it's not acceptable according to him. So, um, stay in it, Danny (Danny Trejo). If you need someone to talk to, I'm here. Top comments from yesterday's episode, Kim Wood writes, "We are going to need"”
 
 </details>
 
@@ -11854,12 +11895,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-09-34): “Why are you, what is your obsession with Brigitte (Brigitte Macron), this Brigitte Macron in the swimsuit? You think that you can command people, men, straight men to suddenly think that Brigitte (Brigitte Macron) is hot?”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:52:53](/episodes/ep-HYn0P-P1wUw.md#t-00-52-36): “Brigitte Macron believes the truth about his gender isn't a form of harassment. This is very chilling. They are sentencing these people to jail.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:55:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-02): “Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of her lying about having been born with a penis. ... You can't just keep pretending everything is just happening to you. ... So you may know what—come clean.”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:01](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Out of nowhere, Brigitte Macron just lies.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:26:24](/episodes/ep-6jOEN9rBePU.md#t-00-26-24): “Where people are just being pulled through the ranks and put into positions and we're told that they're qualified and they're, like, allowed to lead. I mean, that's what we were hitting at when I started looking into the Brigitte (Brigitte Macron) story. I was like, this is, this person doesn't exist. This person doesn't exist. You can't just not exist for 30 years and then gaslight the public and be like, "I have enough" ... power and resources to gaslight you as to why I can't produce a single photo of me across 30 years of my life. Like, this is the Brigitte Macron story. No one's asking for blood. Nope, no one needs to see private parts. It's not that extreme. You allegedly had three kids. Some photos raising them, pregnant, in the hospital, birthday parties. Nothing, nothing. It's just a dark hole, and then they look at us and they go, "You're, oh, you're crazy. How dare you think this?"”
 
 </details>
 
@@ -12194,9 +12236,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Katie Zacharia](/entities/person-katie-zacharia.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... It's just I happen to notice that she seems to have no idea what she's talking about. She seems to be confused. ... And I don't know how she got this position. And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it.”
+
+</details>
+
+- **[Kelly Clarkson](/entities/person-kelly-clarkson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:36:15](/episodes/ep-6jOEN9rBePU.md#t-00-35-38): “He's being dramatic about it. He was not there at the store when this took place. And all that happened is that Kelly Clarkson was treated normally. ... That's really the story is that Kelly Clarkson was treated normally and she's sort of used to having the carpet rolled out. ... But she definitely would not make it in New York. She wanted to, for whatever reason, purchase this bird for $15,000 and thought she would find an audience online that was sympathetic in this economy to a multimillionaire who has 15.”
 
 </details>
 
@@ -13030,7 +13080,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (55)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (56)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -13087,6 +13137,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:42:24](/episodes/ep-yrg_-D6oNHE.md#t-00-42-09): “T-R-Y-H-2-O dot com slash Candace. I also want to remind you guys about American financing because simple cheap things like fast food stops with the family have become out of control expensive. ... What used to cost $20 is now closer to $40 or $50. And if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American financing, but maybe hesitated because you remembered that you're enjoying a low mortgage rate. ... But hanging on to a low rate doesn't actually help if high interest credit cards are eating up your money. ... your monthly income. And that's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners who are saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure, and no costs to find out your potential monthly savings, while starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit americanfinancing.net slash owens. Again, that's americanfinancing.net slash owens.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -13103,7 +13154,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pure Talk](/entities/org-pure-talk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -13125,6 +13176,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:52](/episodes/ep-NNiCZk1cuzs.md#t-00-32-43): “I also have to remind you guys about Pure Talk because I've been telling you for a very long time that it is the best wireless company out there. ... I say that because I actually use Pure Talk. I make calls, send texts, watch videos, and use their unlimited data so that I can tell you firsthand that the coverage is phenomenal.”
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:47](/episodes/ep-6jOEN9rBePU.md#t-00-23-47): “that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
 
 </details>
 
@@ -13140,7 +13192,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tax Network USA](/entities/org-tax-network-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -13157,11 +13209,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:22:20](/episodes/ep-_2DiIbfy4mU.md#t-00-22-09): “Before the IRS sends more letters or takes collection action, call Tax Network USA. They have been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. So whether you owe $10,000 or $10 million, their team says that they have resolved over $1 billion in tax debt. Instead, right now you can get a free IRS investigative call to find out what you owe and what your options may be. So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:24:49](/episodes/ep-6jOEN9rBePU.md#t-00-24-31): “I also have to tell you guys about Tax Network USA because there are plenty of people who owe back taxes or have unfiled tax returns. ... So stop what you're doing and go to taxnetworkusa. for just $49, they pull your actual IRS data and give you a free tax strategy. ... Documents, bank levies, and property seizures. They can even file for you without your consent. This is about using your legal rights to take control before the government sets the terms for you. It takes two minutes to get started, so visit tnusa.com slash Candace.”
 
 </details>
 
 - **[PreBorn!](/entities/org-preborn.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -13190,6 +13243,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:35:20](/episodes/ep-5TTkMa49qj8.md#t-00-35-12): “Right now, another mother needs that moment and you can give it to her. Just $28 helps provide one life-saving ultrasound, $140 helps rescue five babies and all gifts are tax deductible. ... If you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace. preborn.com slash Candace.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
 
 </details>
 
@@ -13351,13 +13405,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:10](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:45](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “So glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing. So visit BattalionMetals.com slash Candace and use code Candace at checkout. Again, that's BattalionMetals.com slash Candace.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals. ... They make it simple, honest and fairly priced for Americans to buy gold. So head to battalionmetals.com slash Candace. Again, that's battalionmetals.com.”
 
 </details>
 
@@ -13828,12 +13883,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 
@@ -14779,7 +14835,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Supported By (20)</summary>
+<summary>Supported By (21)</summary>
 
 - **[Hasan Piker](/entities/person-hasan-piker.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -14922,6 +14978,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:52:40](/episodes/ep-UAdBEXs7nNc.md#t-00-52-31): “Emmeline Irish writes, keep up the great work, Candace, sending you prayers and love from Ireland. You are an inspiration, continuing to shine the bright light of honesty and hope in this rough world.”
+
+</details>
+
+- **[Brittany Reddick (commenter; identity unverified)](/entities/anon-src-6jOEN9rBePU-011.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:47:40](/episodes/ep-6jOEN9rBePU.md#t-00-47-08): “And Brittany Reddick writes, like me, my daughter is a huge Candace fan. She and her eighth grade classmates will be traveling to D.C. in a few weeks and she is insisting on her friends wearing your CIA T when they visit the White House. They want to go max.”
 
 </details>
 
@@ -15108,7 +15171,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Worked With (21)</summary>
+<summary>Worked With (22)</summary>
 
 - **[Goldco](/entities/org-goldco.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -15295,10 +15358,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Battalion Metals](/entities/org-battalion-metals.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (533)</summary>
+<summary>Referenced By (535)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -16507,7 +16577,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -16573,6 +16643,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:34:36](/episodes/ep-ms5ChhZegRg.md#t-00-34-36): “And one of the things you walk away with is how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long for the absence of what they deem to be acceptable security when Charlie (Charlie Kirk)'s security team, which was made up of about 13 members, all of them seals, former seals. ... And having these long military records did virtually nothing. I mean, didn't even try to get in touch with the police. The police had to, uh, play offense on that. And then, of course, we learned that headquarters was not sharing the ticket count, so there's no way they could have prepped without even knowing the numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript name spelling unverified) podcast, uh, gave an interview. He's been just speaking way too much, and there's one very funny part of his entire spiel which is just, it's just him.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -16593,7 +16664,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (79)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -16674,6 +16745,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 01:10:10](/episodes/ep-0pSAhaAZz1w.md#t-01-09-46): “They've demonstrated over and over again they don't. They're trying to manipulate the free markets. This is an example of crony capitalism plus an emotional asset that we are supposed to feel bad for. And every time we discover these stories, I walk away feeling less and less bad for Erika (Erika Kirk), less and less bad. I don't believe she's a real person. Remember that clip of the woman on the plane? I don't know. She had a couple of drinks. She was like, you are not a real person. And she got, that's me. She's just me on a plane to Erika (Erika Kirk). That is not real. That person is not real.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 
 </details>
 
@@ -16706,7 +16778,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -16729,6 +16801,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:53:08](/episodes/ep-6XfDqKTdFKg.md#t-00-52-51): “They just are so disrespectful to my pregnancy right now. The weatherman is just disrespecting my pregnancy. Janet (online commenter; surname unverified) writes: Ben Shapiro, I compel you to apologize to Candace Owens. That was so random. We weren't even talking about Ben (Ben Shapiro) today, but I agree. I compel you. I compel you to apologize just because you should.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17): “I want to let you know that, yeah, if he will sue you for breach of contract, he won't just sue you breach contract, he will follow you across states, he will stalk you, you can't leave Ben Shapiro. I just I just want to give some free advice to Danny Trejo that, yeah, you can the tricky contract clauses, not knowing who somebody is, feeling entrapped and then being like this is just morally wrong. ... If you try to get out of that contract, you're getting sued, sue sued. Like, I mean, then he will encourage others to sue you with their money. ... Really. I tend to believe that. I call it from personal experience. Let me tell you, you better just do the movie or you're going to have to deal with. ... a psychotic stalker for the rest of your life who will then probably try to take your business, your kids' businesses. He's probably already plotting against one of your kids. I'm guessing he's already, because he just can't, he just can't be normal and realize that people, people don't want to work with him. They don't want to work with him. They want to move on in their lives, and that's not, it's not acceptable according to him. So, um, stay in it, Danny (Danny Trejo). If you need someone to talk to, I'm here. Top comments from yesterday's episode, Kim Wood writes, "We are going to need"”
 
 </details>
 
@@ -17626,12 +17699,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-09-34): “Why are you, what is your obsession with Brigitte (Brigitte Macron), this Brigitte Macron in the swimsuit? You think that you can command people, men, straight men to suddenly think that Brigitte (Brigitte Macron) is hot?”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:52:53](/episodes/ep-HYn0P-P1wUw.md#t-00-52-36): “Brigitte Macron believes the truth about his gender isn't a form of harassment. This is very chilling. They are sentencing these people to jail.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:55:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-02): “Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of her lying about having been born with a penis. ... You can't just keep pretending everything is just happening to you. ... So you may know what—come clean.”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:01](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Out of nowhere, Brigitte Macron just lies.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:26:24](/episodes/ep-6jOEN9rBePU.md#t-00-26-24): “Where people are just being pulled through the ranks and put into positions and we're told that they're qualified and they're, like, allowed to lead. I mean, that's what we were hitting at when I started looking into the Brigitte (Brigitte Macron) story. I was like, this is, this person doesn't exist. This person doesn't exist. You can't just not exist for 30 years and then gaslight the public and be like, "I have enough" ... power and resources to gaslight you as to why I can't produce a single photo of me across 30 years of my life. Like, this is the Brigitte Macron story. No one's asking for blood. Nope, no one needs to see private parts. It's not that extreme. You allegedly had three kids. Some photos raising them, pregnant, in the hospital, birthday parties. Nothing, nothing. It's just a dark hole, and then they look at us and they go, "You're, oh, you're crazy. How dare you think this?"”
 
 </details>
 
@@ -17966,9 +18040,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Katie Zacharia](/entities/person-katie-zacharia.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... It's just I happen to notice that she seems to have no idea what she's talking about. She seems to be confused. ... And I don't know how she got this position. And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it.”
+
+</details>
+
+- **[Kelly Clarkson](/entities/person-kelly-clarkson.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:36:15](/episodes/ep-6jOEN9rBePU.md#t-00-35-38): “He's being dramatic about it. He was not there at the store when this took place. And all that happened is that Kelly Clarkson was treated normally. ... That's really the story is that Kelly Clarkson was treated normally and she's sort of used to having the carpet rolled out. ... But she definitely would not make it in New York. She wanted to, for whatever reason, purchase this bird for $15,000 and thought she would find an audience online that was sympathetic in this economy to a multimillionaire who has 15.”
 
 </details>
 
@@ -18345,7 +18427,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (55)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (56)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -18402,6 +18484,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:42:24](/episodes/ep-yrg_-D6oNHE.md#t-00-42-09): “T-R-Y-H-2-O dot com slash Candace. I also want to remind you guys about American financing because simple cheap things like fast food stops with the family have become out of control expensive. ... What used to cost $20 is now closer to $40 or $50. And if you're a homeowner sitting on soaring credit card balances, you've probably considered calling American financing, but maybe hesitated because you remembered that you're enjoying a low mortgage rate. ... But hanging on to a low rate doesn't actually help if high interest credit cards are eating up your money. ... your monthly income. And that's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners who are saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure, and no costs to find out your potential monthly savings, while starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit americanfinancing.net slash owens. Again, that's americanfinancing.net slash owens.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -18418,7 +18501,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pure Talk](/entities/org-pure-talk.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -18440,6 +18523,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:32:52](/episodes/ep-NNiCZk1cuzs.md#t-00-32-43): “I also have to remind you guys about Pure Talk because I've been telling you for a very long time that it is the best wireless company out there. ... I say that because I actually use Pure Talk. I make calls, send texts, watch videos, and use their unlimited data so that I can tell you firsthand that the coverage is phenomenal.”
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:47](/episodes/ep-6jOEN9rBePU.md#t-00-23-47): “that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
 
 </details>
 
@@ -18455,7 +18539,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tax Network USA](/entities/org-tax-network-usa.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -18472,11 +18556,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:22:20](/episodes/ep-_2DiIbfy4mU.md#t-00-22-09): “Before the IRS sends more letters or takes collection action, call Tax Network USA. They have been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems. So whether you owe $10,000 or $10 million, their team says that they have resolved over $1 billion in tax debt. Instead, right now you can get a free IRS investigative call to find out what you owe and what your options may be. So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:24:49](/episodes/ep-6jOEN9rBePU.md#t-00-24-31): “I also have to tell you guys about Tax Network USA because there are plenty of people who owe back taxes or have unfiled tax returns. ... So stop what you're doing and go to taxnetworkusa. for just $49, they pull your actual IRS data and give you a free tax strategy. ... Documents, bank levies, and property seizures. They can even file for you without your consent. This is about using your legal rights to take control before the government sets the terms for you. It takes two minutes to get started, so visit tnusa.com slash Candace.”
 
 </details>
 
 - **[PreBorn!](/entities/org-preborn.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -18505,6 +18590,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:35:20](/episodes/ep-5TTkMa49qj8.md#t-00-35-12): “Right now, another mother needs that moment and you can give it to her. Just $28 helps provide one life-saving ultrasound, $140 helps rescue five babies and all gifts are tax deductible. ... If you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace. preborn.com slash Candace.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
 
 </details>
 
@@ -18666,13 +18752,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:10](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:45](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “So glad that he did. I have personally purchased gold from Battalion Metals. With Battalion, you'll always get honesty, transparency, and fair pricing. So visit BattalionMetals.com slash Candace and use code Candace at checkout. Again, that's BattalionMetals.com slash Candace.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals. ... They make it simple, honest and fairly priced for Americans to buy gold. So head to battalionmetals.com slash Candace. Again, that's battalionmetals.com.”
 
 </details>
 
@@ -19082,12 +19169,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 
@@ -20102,6 +20190,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Brittany Reddick (commenter; identity unverified)](/entities/anon-src-6jOEN9rBePU-011.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:47:40](/episodes/ep-6jOEN9rBePU.md#t-00-47-08): “And Brittany Reddick writes, like me, my daughter is a huge Candace fan. She and her eighth grade classmates will be traveling to D.C. in a few weeks and she is insisting on her friends wearing your CIA T when they visit the White House. They want to go max.”
+
+</details>
+
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** target of criticism from this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -20327,7 +20422,132 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (5866)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (5906)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (40)</summary>
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55) [○] (Claim) ["Owens described Val Peterson as UVU's vice president, allegedly feared by facult..."](/statements/statement-4743917a40b1.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) [○] (Claim) ["Val Peterson oversaw EMS services at UVU, according to Owens."](/statements/statement-446a741467ef.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36) [○] (Citation) ["Owens cited UVU's independent after-incident review as saying Val Peterson was 4..."](/statements/statement-1165c73c5b31.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:04:16](/episodes/ep-6jOEN9rBePU.md#t-00-04-16) [○] (Claim) ["Owens said multiple sources with direct knowledge reported that Val Peterson was..."](/statements/statement-32b82145af6e.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Heber City, Utah](/entities/gpe-heber-city-utah.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+- [00:04:49](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) [○] (Claim) ["Owens said she was also told Val Peterson was with Governor Spencer Cox while aw..."](/statements/statement-6bc7789739bf.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md), [UVU faculty and direct-knowledge tip sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-012.md)
+
+- [00:05:14](/episodes/ep-6jOEN9rBePU.md#t-00-04-49) [○] (Citation) ["Owens said Governor Cox's published schedule listed no commitments for September..."](/statements/statement-ff3ddb014e64.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03) [○] (Claim) ["As far as Owens and her team could tell, Governor Spencer Cox had never stated w..."](/statements/statement-f077492c34cb.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40) [○] (Citation) ["Owens cited Governor Spencer Cox's published schedule as listing a September 2 m..."](/statements/statement-85e7964d90c2.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:07:22](/episodes/ep-6jOEN9rBePU.md#t-00-07-22) [○] (Claim) ["Owens said the Utah House of Representatives works 45 days a year and Tyler Clan..."](/statements/statement-48e5154454b3.md)
+  - About: [Utah House of Representatives](/entities/org-utah-house-of-representatives.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:08:20](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) [○] (Claim) ["Owens said Val Peterson has a brother named Charles Loritz Peterson. The middle ..."](/statements/statement-26db539bd5b9.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md)
+
+- [00:08:35](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) [○] (Claim) ["Owens said the man she identified as Val Peterson's brother, Charles Loritz Pete..."](/statements/statement-194286f9197a.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Val L. Peterson](/entities/person-val-peterson.md), [Layton, Utah](/entities/gpe-layton-utah.md)
+
+- [00:08:44](/episodes/ep-6jOEN9rBePU.md#t-00-08-44) [○] (Claim) ["Owens reported Utah charges against the man she identified as Charles Loritz Pet..."](/statements/statement-425ea556539d.md)
+  - About: [Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md), [Utah](/entities/gpe-utah.md)
+
+- [00:09:48](/episodes/ep-6jOEN9rBePU.md#t-00-09-48) [○] (Citation) ["Owens read a Utah statutory definition of enticing a minor into sexual activity ..."](/statements/statement-97453a021a50.md)
+  - About: [Utah](/entities/gpe-utah.md)
+
+- [00:12:28](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) [○] (Claim) ["Owens said Val Peterson was from Moscow, Idaho, where his father was a Universit..."](/statements/statement-5f9e3ddcdb17.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [University of Idaho](/entities/org-university-of-idaho.md), [Moscow, Idaho](/entities/gpe-moscow-idaho.md)
+
+- [00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) [○] (Citation) ["Owens said that, allegedly according to the UVU review, Maycee Crofts insisted o..."](/statements/statement-315140a7550a.md)
+  - About: [Maycee Crofts](/entities/person-maycee-crofts.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:13:20](/episodes/ep-6jOEN9rBePU.md#t-00-13-10) [○] (Claim) ["Owens said Maycee Crofts's Uncle Kip Crofts was arrested just outside Nampa, whe..."](/statements/statement-24ed0c5d7611.md)
+  - About: [Maycee Crofts](/entities/person-maycee-crofts.md), [Kip Crofts](/entities/person-kip-crofts.md), [Nampa, Idaho](/entities/gpe-nampa-idaho.md)
+
+- [00:15:23](/episodes/ep-6jOEN9rBePU.md#t-00-15-11) [○] (Accusation) ["Why did President Donald Trump call Charlie Kirk in July and reprimand him for s..."](/statements/statement-16c95e8be047.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) [○] (Claim) ["Why did the Epstein files require so many top-level meetings in the White House ..."](/statements/statement-a57af3cea489.md)
+  - About: [Epstein Files](/entities/work-epstein-files.md), [White House](/entities/org-white-house.md), [White House Situation Room](/entities/gpe-white-house-situation-room.md)
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) [○] (Accusation) ["Owens repeated a source-reported allegation that Erika Kirk allegedly spent time..."](/statements/statement-704c910024e3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+- [00:16:22](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) [○] (Accusation) ["Owens repeated a source-reported allegation that Erika Kirk was in charge of Upp..."](/statements/statement-b156170e6499.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Upper East Side](/entities/gpe-upper-east-side.md), [Modeling-apartment account sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-014.md)
+
+- [00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) [○] (Accusation) ["Why is it that Turning Point under Erika Kirk's leadership appears to be so espe..."](/statements/statement-f5d9e3cc8ce7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md)
+
+- [00:17:14](/episodes/ep-6jOEN9rBePU.md#t-00-17-07) [○] (Claim) ["Owens said Charlie Kirk's last company pitch to investors in Aspen, three weeks ..."](/statements/statement-78ac54903b99.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Club America](/entities/org-club-america.md)
+
+- [00:17:46](/episodes/ep-6jOEN9rBePU.md#t-00-17-46) [○] (Claim) ["Owens asked why Andrew Kolvet was allegedly at the White House meeting top brass..."](/statements/statement-88f27d9c0bbe.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:18:37](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) [○] (Opinion) ["Owens characterized Charlie Kirk as having changed his mind regarding Israel and..."](/statements/statement-0a9b41cade4c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:18:55](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) [○] (Opinion) ["Owens suggested that France, Israel, and the United States working together rega..."](/statements/statement-cbf5c89fd4e1.md)
+  - About: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Claim) ["Owens claimed Jeffrey Epstein worked directly for the Rothschilds, who, she said..."](/statements/statement-3f6722c15e73.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Rothschild family](/entities/org-rothschild-family.md), [Israel](/entities/gpe-israel.md)
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Accusation) ["Owens said Jeffrey Epstein ran trafficking operations extensively in and through..."](/statements/statement-3f1a7905719e.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [France](/entities/gpe-france.md)
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Claim) ["Owens said Jeffrey Epstein owned property and businesses in France."](/statements/statement-33195375a702.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [France](/entities/gpe-france.md)
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) [○] (Accusation) ["Owens said Jean-Luc Brunel 'hung himself, perhaps was suicided in a cell.'"](/statements/statement-5500cc1ac4c7.md)
+  - About: [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+- [00:21:52](/episodes/ep-6jOEN9rBePU.md#t-00-21-52) [○] (Opinion) ["Owens portrayed Charlie Kirk as terrified near the end, unaware of what was happ..."](/statements/statement-9b199bf74381.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:26:24](/episodes/ep-6jOEN9rBePU.md#t-00-26-24) [○] (Accusation) ["Owens accused Brigitte Macron of gaslighting the public about an alleged absence..."](/statements/statement-b35b9a591035.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+- [00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) [○] (Claim) ["Owens described Katie Zacharia as the new press secretary and said she had provi..."](/statements/statement-70fd80ed53d5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Fox News](/entities/org-fox-news.md)
+
+- [00:27:47](/episodes/ep-6jOEN9rBePU.md#t-00-27-15) [○] (Citation) ["Owens said Pepperdine confirmed Katie Zacharia attended and obtained a degree, a..."](/statements/statement-a73eabb5c385.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+- [00:29:18](/episodes/ep-6jOEN9rBePU.md#t-00-28-58) [○] (Accusation) ["Owens alleged that Katie Zacharia did not pass the bar and that the story was 'a..."](/statements/statement-5bed8ec5d921.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:33:50](/episodes/ep-6jOEN9rBePU.md#t-00-33-15) [○] (Claim) ["Owens said Kelly Clarkson misunderstood the $15,000 price displayed for Molly: i..."](/statements/statement-35129ca3971c.md)
+  - About: [Kelly Clarkson](/entities/person-kelly-clarkson.md), [Art of Play](/entities/org-art-of-play.md), [Molly (Art of Play bird automaton)](/entities/work-molly-art-of-play.md)
+
+- [00:35:12](/episodes/ep-6jOEN9rBePU.md#t-00-35-00) [○] (Opinion) ["Owens said Kelly Clarkson was not discriminated against at Art of Play and that ..."](/statements/statement-ac45ad9962fb.md)
+  - About: [Kelly Clarkson](/entities/person-kelly-clarkson.md), [Art of Play](/entities/org-art-of-play.md)
+
+- [00:36:08](/episodes/ep-6jOEN9rBePU.md#t-00-35-38) [○] (Claim) ["Owens reported that the Art of Play owner said they were receiving death threats..."](/statements/statement-09b85c84aebd.md)
+  - About: [Art of Play](/entities/org-art-of-play.md), [Kelly Clarkson](/entities/person-kelly-clarkson.md)
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) [○] (Accusation) ["Owens alleged that if Danny Trejo tried to leave Ben Shapiro's contract, Shapiro..."](/statements/statement-6ec723c5b44f.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Danny Trejo](/entities/person-danny-trejo.md)
+
+- [00:41:34](/episodes/ep-6jOEN9rBePU.md#t-00-41-17) [○] (Accusation) ["Citing personal experience, Owens warned Danny Trejo he could face a stalker for..."](/statements/statement-df5acb5d2e9d.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Danny Trejo](/entities/person-danny-trejo.md)
+
+- [00:45:59](/episodes/ep-6jOEN9rBePU.md#t-00-45-42) [○] (Opinion) ["Owens said she hoped young women would consider homeschooling, examine who built..."](/statements/statement-1413afdf935c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (52)</summary>
@@ -38246,7 +38466,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (826)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (827)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:45:59](/episodes/ep-6jOEN9rBePU.md#t-00-45-42) (Opinion) **Candace Owens**: ["Owens said she hoped young women would consider homeschooling, examine..."](/statements/statement-1413afdf935c.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (7)</summary>

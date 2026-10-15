@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-10-15 10:09:13
+
+**Added 1 episode(s):**
+  - `6jOEN9rBePU`: Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402
+**Added 34 new entity/entities**
+**Added 13 new event(s)**
+**Added 45 new statement(s)**
+**Added 40 new relationship(s)**
+
+**Totals:**
+- Episodes: 183
+- Entities: 5210
+- Events: 2108
+- Statements: 8590
+- Relationships: 6017
+
+---
+
 ## 2026-10-14 10:27:57
 
 **Added 1 episode(s):**

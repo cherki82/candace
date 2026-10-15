@@ -20,7 +20,7 @@ date: "2026-01-29"
 
 > Candace Owens said Andrew Kolvet visited the White House the day before the January 30, 2026 Epstein-files release.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
 
@@ -37,3 +37,14 @@ date: "2026-01-29"
 <a href="https://www.youtube.com/watch?v=3QJqtW_NOSI&t=78s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Andrew Kolvet was mysteriously seen at the White House, particularly in the executive office
+
+### 3. Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death...
+
+**Episode:** [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md)
+**Timestamp:** [00:17:46](/episodes/ep-6jOEN9rBePU.md#event-event-2026-01-29-candace-owens-said-andrew-kolvet-visited-t-00-17-46) 
+<a href="https://www.youtube.com/watch?v=6jOEN9rBePU&t=1066s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> was Andrew Kolvet allegedly at the White House meeting with top brass
+
+> **Date stated in this source:** “the day before the Epstein files were partially released to the public”
+> **Date review note:** Matches the existing reported visit preceding the January 30, 2026 release; canonical date is already enriched from DOJ release chronology. Alleged visit is not independently verified by date research.

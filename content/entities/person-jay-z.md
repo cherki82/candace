@@ -1,6 +1,6 @@
 ---
 title: "JAY-Z"
-description: "JAY-Z (People) - 17 mentions"
+description: "JAY-Z (People) - 19 mentions"
 id: "person-jay-z"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-jay-z-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jay-z-t-00-10-01">2026-09-08 · 00:10:28</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jay-z-t-00-31-53">2026-10-14 · 00:31:53</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -45,6 +45,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-jay-z-t-00-04-02" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 5 mentions" title="2026-02-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jay-z-t-00-10-01" style="--pulse-height:20%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jay-z-t-00-30-54" style="--pulse-height:40%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-jay-z-t-00-04-02) | 5 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-jay-z-t-00-10-01) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-jay-z-t-00-30-54) | 2 |
 
 </details>
 </section>
@@ -65,7 +67,18 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
+
+**[00:31:22](/episodes/ep-6jOEN9rBePU.md#ent-person-jay-z-t-00-30-54)**
+> "...in Brooklyn, this is not like Jay-Z's Brooklyn, okay?"
+
+**[00:31:53](/episodes/ep-6jOEN9rBePU.md#ent-person-jay-z-t-00-31-53)**
+> "... you can hit areas like where Jay-Z is, but where she went to the store called Art of..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Maycee Crofts"
-description: "Maycee Crofts (People) - 31 mentions"
+description: "Maycee Crofts (People) - 32 mentions"
 id: "person-maycee-crofts"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [Maycee Crofts — Turning Point USA](https://www.linkedin.com/in/maycee
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#t-00-21-13">2025-12-02 · 00:21:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#t-00-34-40">2026-10-07 · 00:35:13</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#t-00-12-28">2026-10-14 · 00:12:58</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Maycee Crofts — Turning Point USA](https://www.linkedin.com/in/maycee
 <a href="/episodes/ep-bIuvTKlFeGo.md#t-00-06-05" style="--pulse-height:100%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 23 mentions" title="2026-09-25 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#t-00-24-39" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#t-00-34-40" style="--pulse-height:13%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#t-00-12-28" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Maycee Crofts — Turning Point USA](https://www.linkedin.com/in/maycee
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-00-06-05) | 23 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-24-39) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#t-00-34-40) | 3 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [Maycee Crofts — Turning Point USA](https://www.linkedin.com/in/maycee
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28)**
+> "If you're wondering why that sounds vaguely familiar to you, it's because it's the same area that Macy Crofts, the one who allegedly, according to the UVU review, insisted."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
@@ -187,9 +197,10 @@ Source: [Maycee Crofts — Turning Point USA](https://www.linkedin.com/in/maycee
 <summary>Niece/Nephew Of (1)</summary>
 
 - **[Kip Crofts](/entities/person-kip-crofts.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:10:01](/episodes/ep-bIuvTKlFeGo.md#t-01-09-50): “at a school. And I want to get these charges exactly right. Her uncle is Kip Crofts. ... A warrant was issued charging Kip Crofts, so that's her dad's brother, with sexual abuse of a minor. ... Human trafficking, allegations of child sex abuse, allegations that Erika (Erika Kirk) was frequenting the office that Jeffrey Epstein and his cohorts were frequenting. I've never, never, ever, ever could I have imagined this many common things. Again, Macy (Macy Crofts)'s not involved in this case, this is her uncle.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28): “If you're wondering why that sounds vaguely familiar to you, it's because it's the same area that Macy Crofts, the one who allegedly, according to the UVU review, insisted. ... On having the event, wanted, she was on the call and she wanted the event to be in the amphitheater. ... We talked about her Uncle Kip Crofts who was arrested just outside of Nampa where Turning Point USA put on their assembly.”
 
 </details>
 
@@ -232,9 +243,10 @@ Source: [Maycee Crofts — Turning Point USA](https://www.linkedin.com/in/maycee
 </details>
 
 - **[Kip Crofts](/entities/person-kip-crofts.md)** uncle/aunt of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:10:01](/episodes/ep-bIuvTKlFeGo.md#t-01-09-50): “at a school. And I want to get these charges exactly right. Her uncle is Kip Crofts. ... A warrant was issued charging Kip Crofts, so that's her dad's brother, with sexual abuse of a minor. ... Human trafficking, allegations of child sex abuse, allegations that Erika (Erika Kirk) was frequenting the office that Jeffrey Epstein and his cohorts were frequenting. I've never, never, ever, ever could I have imagined this many common things. Again, Macy (Macy Crofts)'s not involved in this case, this is her uncle.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28): “If you're wondering why that sounds vaguely familiar to you, it's because it's the same area that Macy Crofts, the one who allegedly, according to the UVU review, insisted. ... On having the event, wanted, she was on the call and she wanted the event to be in the amphitheater. ... We talked about her Uncle Kip Crofts who was arrested just outside of Nampa where Turning Point USA put on their assembly.”
 
 </details>
 
@@ -243,7 +255,18 @@ Source: [Maycee Crofts — Turning Point USA](https://www.linkedin.com/in/maycee
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Maycee Crofts (15)</strong></summary>
+<summary><strong class="section-title">Statements about Maycee Crofts (17)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>
+
+- [00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28) (Citation) **Candace Owens** (via paraphrase): ["Owens said that, allegedly according to the UVU review, Maycee Crofts ..."](/statements/statement-315140a7550a.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:13:20](/episodes/ep-6jOEN9rBePU.md#t-00-13-10) (Claim) **Candace Owens**: ["Owens said Maycee Crofts's Uncle Kip Crofts was arrested just outside ..."](/statements/statement-24ed0c5d7611.md)
+  - Also about: [Kip Crofts](/entities/person-kip-crofts.md), [Nampa, Idaho](/entities/gpe-nampa-idaho.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>

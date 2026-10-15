@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2429 mentions"
+description: "Turning Point USA (Organizations) - 2434 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,12 +27,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-52-26">2026-10-13 · 00:52:54</a></strong></div>
-<div><span>Episodes</span><strong>178</strong></div>
-<div><span>Mentions</span><strong>2,429</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-44-03">2026-10-14 · 00:44:03</a></strong></div>
+<div><span>Episodes</span><strong>179</strong></div>
+<div><span>Mentions</span><strong>2,434</strong></div>
 <div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>1,032</strong></div>
-<div><span>Relationships</span><strong>256</strong></div>
+<div><span>Statements about</span><strong>1,036</strong></div>
+<div><span>Relationships</span><strong>258</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
 
@@ -218,6 +218,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-t-00-02-09" style="--pulse-height:21%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 17 mentions" title="2026-10-07 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-turning-point-usa-t-00-23-20" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 6 mentions" title="2026-10-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -401,6 +402,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-turning-point-usa-t-00-02-09) | 17 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-turning-point-usa-t-00-23-20) | 4 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45) | 6 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39) | 5 |
 
 </details>
 </section>
@@ -413,7 +415,27 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2429)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2434)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
+
+**[00:00:39](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39)**
+> "...f Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Char..."
+
+**[00:03:22](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-02-55)**
+> "...ry pro Erika (Erika Kirk) and Turning Point USA."
+
+**[00:13:20](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-13-10)**
+> "...d just outside of Nampa where Turning Point USA put on their assembly."
+
+**[00:16:51](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-16-22)**
+> "...ing questions, why is it that turning point under her leadership appears to be so especially ..."
+
+**[00:44:03](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-44-03)**
+> "...in Netanyahu) offer of taking TPUSA to the next level and then living in a world that..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (6 mentions)</summary>
@@ -8788,7 +8810,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -8854,6 +8876,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:34:36](/episodes/ep-ms5ChhZegRg.md#t-00-34-36): “And one of the things you walk away with is how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long for the absence of what they deem to be acceptable security when Charlie (Charlie Kirk)'s security team, which was made up of about 13 members, all of them seals, former seals. ... And having these long military records did virtually nothing. I mean, didn't even try to get in touch with the police. The police had to, uh, play offense on that. And then, of course, we learned that headquarters was not sharing the ticket count, so there's no way they could have prepped without even knowing the numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript name spelling unverified) podcast, uh, gave an interview. He's been just speaking way too much, and there's one very funny part of his entire spiel which is just, it's just him.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -9159,9 +9182,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -9861,6 +9885,18 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
+<summary>Operates (1)</summary>
+
+- **[Club America](/entities/org-club-america.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supported By (3)</summary>
 
 - **[White House](/entities/org-white-house.md)**
@@ -9959,7 +9995,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (133)</summary>
+<summary>Referenced By (134)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (42)</summary>
@@ -10235,7 +10271,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10302,6 +10338,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:34:36](/episodes/ep-ms5ChhZegRg.md#t-00-34-36): “And one of the things you walk away with is how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long for the absence of what they deem to be acceptable security when Charlie (Charlie Kirk)'s security team, which was made up of about 13 members, all of them seals, former seals. ... And having these long military records did virtually nothing. I mean, didn't even try to get in touch with the police. The police had to, uh, play offense on that. And then, of course, we learned that headquarters was not sharing the ticket count, so there's no way they could have prepped without even knowing the numbers sufficiently. Anyway, Frank Turek went on Brennan Tatum's (podcast host; transcript name spelling unverified) podcast, uh, gave an interview. He's been just speaking way too much, and there's one very funny part of his entire spiel which is just, it's just him.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -10711,6 +10748,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:37:32](/episodes/ep-4DvYXBn_5JI.md#t-00-37-13): “Okay. VFX Los Angeles. These guys were brought into Turning Point USA. Like I said, we can confirm that with Marcus Wada.”
+
+</details>
+
+- **[Club America](/entities/org-club-america.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -11206,9 +11250,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22): “And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 
 </details>
 
@@ -11359,7 +11404,24 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (1032)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (1036)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>
+
+- [00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55) (Claim) **Candace Owens** (via paraphrase): ["Owens described Val Peterson as UVU's vice president, allegedly feared..."](/statements/statement-4743917a40b1.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:13:20](/episodes/ep-6jOEN9rBePU.md#t-00-13-10) (Claim) **Candace Owens**: ["Owens said Maycee Crofts's Uncle Kip Crofts was arrested just outside ..."](/statements/statement-24ed0c5d7611.md)
+  - Also about: [Maycee Crofts](/entities/person-maycee-crofts.md), [Kip Crofts](/entities/person-kip-crofts.md), [Nampa, Idaho](/entities/gpe-nampa-idaho.md)
+
+- [00:16:51](/episodes/ep-6jOEN9rBePU.md#t-00-16-22) (Accusation) **Candace Owens**: ["Why is it that Turning Point under Erika Kirk's leadership appears to ..."](/statements/statement-f5d9e3cc8ce7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+- [00:21:52](/episodes/ep-6jOEN9rBePU.md#t-00-21-52) (Opinion) **Candace Owens**: ["Owens portrayed Charlie Kirk as terrified near the end, unaware of wha..."](/statements/statement-9b199bf74381.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4)</summary>

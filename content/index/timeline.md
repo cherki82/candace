@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 2095_
+_Total events: 2108_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,10 +340,10 @@ _Total events: 2095_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (379)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (990)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (385)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (993)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (108)</label>
-  <label for="tab-year-2023" class="tab-btn">2023 (42)</label>
+  <label for="tab-year-2023" class="tab-btn">2023 (43)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (31)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (24)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (17)</label>
@@ -364,7 +364,7 @@ _Total events: 2095_
   <label for="tab-year-2005" class="tab-btn">2005 (11)</label>
   <label for="tab-year-2004" class="tab-btn">2004 (2)</label>
   <label for="tab-year-2003" class="tab-btn">2003 (14)</label>
-  <label for="tab-year-2002" class="tab-btn">2002 (5)</label>
+  <label for="tab-year-2002" class="tab-btn">2002 (7)</label>
   <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
   <label for="tab-year-1999" class="tab-btn">1999 (15)</label>
@@ -404,7 +404,7 @@ _Total events: 2095_
   <label for="tab-year-1954" class="tab-btn">1954 (2)</label>
   <label for="tab-year-1953" class="tab-btn">1953 (1)</label>
   <label for="tab-year-1950" class="tab-btn">1950 (1)</label>
-  <label for="tab-year-1948" class="tab-btn">1948 (4)</label>
+  <label for="tab-year-1948" class="tab-btn">1948 (5)</label>
   <label for="tab-year-1947" class="tab-btn">1947 (2)</label>
   <label for="tab-year-1946" class="tab-btn">1946 (1)</label>
   <label for="tab-year-1944" class="tab-btn">1944 (1)</label>
@@ -439,6 +439,38 @@ _Total events: 2095_
 <h2 id="year-2026">2026</h2>
 
 **October**
+
+<div class="timeline-event filter-item" id="event-2026-10-gilbert-trejo-posted-a-statement-saying-" data-filter-key="event-2026-10-gilbert-trejo-posted-a-statement-saying-">
+<div class="timeline-date">2026-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-gilbert-trejo-posted-a-statement-saying-.md">Gilbert Trejo posted a statement saying Danny Trejo learned of Ben Shapiro's involvement two weeks into filming and could not leave the project wit...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-gilbert-trejo-posted-a-statement-saying-.md">Gilbert Trejo posted a statement saying Danny Trejo learned of Ben Shapiro's involvement two weeks into filming and could not leave the project without a breach-of-contract suit, as quoted by Owens from Variety; the contract claims are attributed to Gilbert.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10: Gilbert Trejo posted a statement saying Danny Trejo learned of Ben Shapiro\'s involvement two weeks into filming and could not leave the project without a breach-of-contract suit, as quoted by Owens from Variety; the contract claims are attributed to Gilbert. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-14-candace-owens-commemorated-charlie-kirks" data-filter-key="event-2026-10-14-candace-owens-commemorated-charlie-kirks">
+<div class="timeline-date">2026-10-14</div>
+<div class="timeline-desc"><a href="/events/event-2026-10-14-candace-owens-commemorated-charlie-kirks.md">Candace Owens commemorated Charlie Kirk's birthday and urged continued investigation of his death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-14: Candace Owens commemorated Charlie Kirk\'s birthday and urged continued investigation of his death. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:00:26](/episodes/ep-6jOEN9rBePU.md#t-00-00-01)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2026-10-13-katie-zacharia-made-her-first-white-hous" data-filter-key="event-2026-10-13-katie-zacharia-made-her-first-white-hous">
 <div class="timeline-date">2026-10-13</div>
@@ -483,6 +515,38 @@ _Total events: 2095_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [America The Ugly: A General, A Cop & A Missing ... @ 00:36:46](/episodes/ep-V-phmW9f0pM.md#t-00-36-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-10-kelly-clarkson-visited-art-of-play-in-br" data-filter-key="event-2026-10-10-kelly-clarkson-visited-art-of-play-in-br">
+<div class="timeline-date">2026-10-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-10-10-kelly-clarkson-visited-art-of-play-in-br.md">Kelly Clarkson visited Art of Play in Brooklyn and inquired about a mechanical bird; the participants disputed how the shopping exchange unfolded.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-10: Kelly Clarkson visited Art of Play in Brooklyn and inquired about a mechanical bird; the participants disputed how the shopping exchange unfolded. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:30:54](/episodes/ep-6jOEN9rBePU.md#t-00-30-54)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-10-kelly-clarkson-posted-a-complaint-compar" data-filter-key="event-2026-10-10-kelly-clarkson-posted-a-complaint-compar">
+<div class="timeline-date">2026-10-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-10-kelly-clarkson-posted-a-complaint-compar.md">Kelly Clarkson posted a complaint comparing her Art of Play shopping experience to Pretty Woman; Owens quoted the complaint and said it followed th...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-10-kelly-clarkson-posted-a-complaint-compar.md">Kelly Clarkson posted a complaint comparing her Art of Play shopping experience to Pretty Woman; Owens quoted the complaint and said it followed the visit.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-10: Kelly Clarkson posted a complaint comparing her Art of Play shopping experience to Pretty Woman; Owens quoted the complaint and said it followed the visit. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:35:00](/episodes/ep-6jOEN9rBePU.md#t-00-35-00)
 
 </details>
 </div>
@@ -5179,6 +5243,24 @@ _Total events: 2095_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-03-05-charles-peterson-was-charged-in-idaho-wi" data-filter-key="event-2026-03-05-charles-peterson-was-charged-in-idaho-wi">
+<div class="timeline-date">2026-03-05</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-03-05-charles-peterson-was-charged-in-idaho-wi.md">Charles Peterson was charged in Idaho with four counts of enticing a child, according to the Idaho Attorney General release read by Owens; the char...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-03-05-charles-peterson-was-charged-in-idaho-wi.md">Charles Peterson was charged in Idaho with four counts of enticing a child, according to the Idaho Attorney General release read by Owens; the charges are accusations, not a conviction, and the claimed relationship to Val Peterson remains unverified.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-05: Charles Peterson was charged in Idaho with four counts of enticing a child, according to the Idaho Attorney General release read by Owens; the charges are accusations, not a conviction, and the claimed relationship to Val Peterson remains unverified. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:13:43](/episodes/ep-6jOEN9rBePU.md#t-00-13-43)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:14:01](/episodes/ep-6jOEN9rBePU.md#t-00-13-43)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-03-01-an-iranian-strike-at-port-shuaiba-kuwait" data-filter-key="event-2026-03-01-an-iranian-strike-at-port-shuaiba-kuwait">
 <div class="timeline-date">2026-03-01</div>
 <div class="timeline-desc"><a href="/events/event-2026-03-01-an-iranian-strike-at-port-shuaiba-kuwait.md">An Iranian strike at Port Shuaiba, Kuwait, killed six U.S. service members.</a></div>
@@ -5561,6 +5643,24 @@ _Total events: 2095_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-02-03-charles-peterson-was-arrested-by-idaho-i" data-filter-key="event-2026-02-03-charles-peterson-was-arrested-by-idaho-i">
+<div class="timeline-date">2026-02-03</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-02-03-charles-peterson-was-arrested-by-idaho-i.md">Charles Peterson was arrested by Idaho ICAC investigators following a Layton Police request, according to the Idaho Attorney General release read b...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-02-03-charles-peterson-was-arrested-by-idaho-i.md">Charles Peterson was arrested by Idaho ICAC investigators following a Layton Police request, according to the Idaho Attorney General release read by Owens. Owens also placed an arrest in Layton on this date; two distinct arrests and the claimed relationship to Val Peterson are not established by the release.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-03: Charles Peterson was arrested by Idaho ICAC investigators following a Layton Police request, according to the Idaho Attorney General release read by Owens. Owens also placed an arrest in Layton on this date; two distinct arrests and the claimed relationship to Val Peterson are not established by the release. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:14:01](/episodes/ep-6jOEN9rBePU.md#t-00-13-43)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:08:44](/episodes/ep-6jOEN9rBePU.md#t-00-08-44)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-02-02-candace-owens-said-kevin-sorbo-tweeted-t" data-filter-key="event-2026-02-02-candace-owens-said-kevin-sorbo-tweeted-t">
 <div class="timeline-date">2026-02-02</div>
 <div class="timeline-desc"><a href="/events/event-2026-02-02-candace-owens-said-kevin-sorbo-tweeted-t.md">Candace Owens said Kevin Sorbo tweeted that he left Hollywood because he believed it was full of pedophiles.</a></div>
@@ -5859,7 +5959,7 @@ _Total events: 2095_
 <div class="timeline-date">2026-01-29</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-29-candace-owens-said-andrew-kolvet-visited.md">Candace Owens said Andrew Kolvet visited the White House the day before the January 30, 2026 Epstein-files release.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-29: Candace Owens said Andrew Kolvet visited the White House the day before the January 30, 2026 Epstein-files release. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -5867,6 +5967,7 @@ _Total events: 2095_
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24)
 - [The Whistleblower: Did Epstein’s Network Reemer... @ 00:01:18](/episodes/ep-3QJqtW_NOSI.md#t-00-01-18)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:17:46](/episodes/ep-6jOEN9rBePU.md#t-00-17-46)
 
 </details>
 </div>
@@ -16688,6 +16789,40 @@ _Total events: 2095_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-reported-that-val-peterson" data-filter-key="event-2025-09-10-candace-owens-reported-that-val-peterson">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-candace-owens-reported-that-val-peterson.md">Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox acco...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-reported-that-val-peterson.md">Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox accompanied him was explicitly unverified.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox accompanied him was explicitly unverified. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:04:16](/episodes/ep-6jOEN9rBePU.md#t-00-04-16)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:04:49](/episodes/ep-6jOEN9rBePU.md#t-00-04-49)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-recounted-spencer-cox-sayi" data-filter-key="event-2025-09-10-candace-owens-recounted-spencer-cox-sayi">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-recounted-spencer-cox-sayi.md">Candace Owens recounted Spencer Cox saying he called the White House within a minute of receiving the notification of Charlie Kirk's death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens recounted Spencer Cox saying he called the White House within a minute of receiving the notification of Charlie Kirk\'s death. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution" data-filter-key="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -18224,6 +18359,24 @@ _Total events: 2095_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-02-according-to-the-published-schedule-desc" data-filter-key="event-2025-09-02-according-to-the-published-schedule-desc">
+<div class="timeline-date">2025-09-02 <span class='time'>17:00</span></div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-02-according-to-the-published-schedule-desc.md">According to the published schedule described by Candace Owens, Spencer Cox had a 5 p.m. meeting scheduled with Tyler Clancy at the governor's mans...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-02-according-to-the-published-schedule-desc.md">According to the published schedule described by Candace Owens, Spencer Cox had a 5 p.m. meeting scheduled with Tyler Clancy at the governor's mansion; attendance was not independently established.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-02 17:00: According to the published schedule described by Candace Owens, Spencer Cox had a 5 p.m. meeting scheduled with Tyler Clancy at the governor\'s mansion; attendance was not independently established. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:06:58](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-02-charlie-kirk-announces-tpusa-doge-department-and-j" data-filter-key="event-2025-09-02-charlie-kirk-announces-tpusa-doge-department-and-j">
 <div class="timeline-date">2025-09-02</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-02-charlie-kirk-announces-tpusa-doge-department-and-j.md">Charlie Kirk announces TPUSA DOGE department and Justin Strief as COO in internal memo.</a></div>
@@ -19062,7 +19215,7 @@ _Total events: 2095_
 <div class="timeline-date">2025-08-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-15-a-turning-point-usa-donor-retreat-began-.md">A Turning Point USA donor retreat began in Aspen.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">6× in 6 eps</span>
+<span class="timeline-badge mentions">7× in 7 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-15: A Turning Point USA donor retreat began in Aspen. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -19074,6 +19227,7 @@ _Total events: 2095_
 - [Hunter Biden Returns. The White House Ghosts Me... @ 00:13:29](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29)
 - [REVEALED! Trump Scolded Charlie Kirk Over Epste... @ 00:34:15](/episodes/ep-WoXd4oLwd3w.md#t-00-34-15)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:37:11](/episodes/ep-q4m-kGzvwjw.md#t-00-37-01)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:17:14](/episodes/ep-6jOEN9rBePU.md#t-00-17-07)
 
 </details>
 </div>
@@ -20110,7 +20264,7 @@ _Total events: 2095_
 <div class="timeline-date">2025-07-12</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-12-the-new-york-times-reported-that-donald-.md">The New York Times reported that Donald Trump called and scolded Charlie Kirk over Epstein criticism at the Student Action Summit.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-12: The New York Times reported that Donald Trump called and scolded Charlie Kirk over Epstein criticism at the Student Action Summit. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -20120,6 +20274,7 @@ _Total events: 2095_
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09)
 - [WE WERE RIGHT! UVU Releases Their Independent R... @ 00:59:23](/episodes/ep-bIuvTKlFeGo.md#t-00-59-23)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:28:27](/episodes/ep-q4m-kGzvwjw.md#t-00-28-27)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:15:23](/episodes/ep-6jOEN9rBePU.md#t-00-15-11)
 
 </details>
 </div>
@@ -20492,13 +20647,14 @@ _Total events: 2095_
 <div class="timeline-date">2025-06</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-kip-crofts-was-arrested-by-nampa-police-.md">Kip Crofts was arrested by Nampa police on a charge of sexual abuse of a minor, according to Owens; the accusation is not a conviction.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06: Kip Crofts was arrested by Nampa police on a charge of sexual abuse of a minor, according to Owens; the accusation is not a conviction. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [WE WERE RIGHT! UVU Releases Their Independent R... @ 01:10:14](/episodes/ep-bIuvTKlFeGo.md#t-01-09-50)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:13:20](/episodes/ep-6jOEN9rBePU.md#t-00-13-10)
 
 </details>
 </div>
@@ -24533,6 +24689,21 @@ _Total events: 2095_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Hap... @ 00:46:41](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-candace-owens-said-tyler-clancy-began-se" data-filter-key="event-2023-candace-owens-said-tyler-clancy-began-se">
+<div class="timeline-date">2023</div>
+<div class="timeline-desc"><a href="/events/event-2023-candace-owens-said-tyler-clancy-began-se.md">Candace Owens said Tyler Clancy began serving in the Utah House of Representatives in 2023.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023: Candace Owens said Tyler Clancy began serving in the Utah House of Representatives in 2023. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:07:22](/episodes/ep-6jOEN9rBePU.md#t-00-07-22)
 
 </details>
 </div>
@@ -31047,6 +31218,42 @@ _Total events: 2095_
 
 <h2 id="year-2002">2002</h2>
 
+**September**
+
+<div class="timeline-event filter-item" id="event-2002-09-04-kelly-clarkson-won-the-first-season-of-a" data-filter-key="event-2002-09-04-kelly-clarkson-won-the-first-season-of-a">
+<div class="timeline-date">2002-09-04</div>
+<div class="timeline-desc"><a href="/events/event-2002-09-04-kelly-clarkson-won-the-first-season-of-a.md">Kelly Clarkson won the first season of American Idol.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2002-09-04: Kelly Clarkson won the first season of American Idol. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:30:42](/episodes/ep-6jOEN9rBePU.md#t-00-30-19)
+
+</details>
+</div>
+
+**June**
+
+<div class="timeline-event filter-item" id="event-2002-06-11-american-idol-premiered-on-us-television" data-filter-key="event-2002-06-11-american-idol-premiered-on-us-television">
+<div class="timeline-date">2002-06-11</div>
+<div class="timeline-desc"><a href="/events/event-2002-06-11-american-idol-premiered-on-us-television.md">American Idol premiered on U.S. television.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2002-06-11: American Idol premiered on U.S. television. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:30:19](/episodes/ep-6jOEN9rBePU.md#t-00-30-19)
+
+</details>
+</div>
+
+****
+
 <div class="timeline-event filter-item" id="event-2002-candace-owens-said-israel-took-over-tele" data-filter-key="event-2002-candace-owens-said-israel-took-over-tele">
 <div class="timeline-date">2002</div>
 <div class="timeline-desc"><a href="/events/event-2002-candace-owens-said-israel-took-over-tele.md">Candace Owens said Israel took over television broadcasts in Gaza and aired pornography as a spiritual weapon.</a></div>
@@ -33768,6 +33975,21 @@ _Total events: 2095_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:12:03](/episodes/ep-ds6umq1rHAw.md#t-00-12-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1948-the-state-of-israel-was-established-in-1" data-filter-key="event-1948-the-state-of-israel-was-established-in-1">
+<div class="timeline-date">1948</div>
+<div class="timeline-desc"><a href="/events/event-1948-the-state-of-israel-was-established-in-1.md">The State of Israel was established in 1948, an occurrence referenced by Candace Owens while discussing the Rothschilds.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1948: The State of Israel was established in 1948, an occurrence referenced by Candace Owens while discussing the Rothschilds. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:19:21](/episodes/ep-6jOEN9rBePU.md#t-00-19-09)
 
 </details>
 </div>

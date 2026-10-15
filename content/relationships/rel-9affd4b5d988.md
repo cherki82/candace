@@ -11,7 +11,7 @@ object: "org-tax-network-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Tax Network USA](/entities/org-tax-network-usa)
 
-### Evidence (15 mentions)
+### Evidence (16 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -24,6 +24,10 @@ object: "org-tax-network-usa"
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
 - [00:42:00](/episodes/ep-1QZ4X6q1DPg#t-00-42-00): _Before the IRS starts sending more letters, garnishing wages, or freezing your bank account, call Tax Network USA._
+
+**[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
+
+- [00:24:49](/episodes/ep-6jOEN9rBePU#t-00-24-49): _I also have to tell you guys about Tax Network USA because there are plenty of people who owe back taxes or have unfiled tax returns. ... So stop what you're doing and go to taxnetworkusa. for just $49, they pull your actual IRS data and give you a free tax strategy. ... Documents, bank levies, and property seizures. They can even file for you without your consent. This is about using your legal rights to take control before the government sets the terms for you. It takes two minutes to get started, so visit tnusa.com slash Candace._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

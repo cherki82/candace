@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 194 mentions"
+description: "Internal Revenue Service (Organizations) - 197 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-05-44">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-27-23">2026-10-08 · 00:27:57</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>194</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-internal-revenue-service-t-00-25-11">2026-10-14 · 00:25:31</a></strong></div>
+<div><span>Episodes</span><strong>58</strong></div>
+<div><span>Mentions</span><strong>197</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -92,6 +92,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-internal-revenue-service-t-01-15-02" style="--pulse-height:60%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 3 mentions" title="2026-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-internal-revenue-service-t-00-53-46" style="--pulse-height:60%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-26-42" style="--pulse-height:60%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-internal-revenue-service-t-00-24-31" style="--pulse-height:60%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -154,6 +155,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-internal-revenue-service-t-01-15-02) | 3 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-internal-revenue-service-t-00-53-46) | 3 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-internal-revenue-service-t-00-26-42) | 3 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-internal-revenue-service-t-00-24-31) | 3 |
 
 </details>
 </section>
@@ -161,7 +163,21 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (194)</strong></summary>
+<summary><strong class="section-title">Raw mentions (197)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
+
+**[00:24:56](/episodes/ep-6jOEN9rBePU.md#ent-org-internal-revenue-service-t-00-24-31)**
+> "...or your IRA early and now the IRS wants their share."
+
+**[00:25:11](/episodes/ep-6jOEN9rBePU.md#ent-org-internal-revenue-service-t-00-25-11)**
+> "...st $49, they pull your actual IRS data and give you a free tax strategy."
+
+**[00:25:31](/episodes/ep-6jOEN9rBePU.md#ent-org-internal-revenue-service-t-00-25-11)**
+> "...r $1 billion in tax debt. The IRS is not waiting. They are enforcing collections th..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (3 mentions)</summary>

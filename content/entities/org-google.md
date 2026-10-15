@@ -1,6 +1,6 @@
 ---
 title: "Google"
-description: "Google (Organizations) - 68 mentions"
+description: "Google (Organizations) - 69 mentions"
 id: "org-google"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Google — About](https://about.google/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41">2025-09-24 · 00:24:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-46-12">2026-10-06 · 00:46:46</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>68</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-google-t-00-41-17">2026-10-14 · 00:41:17</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -72,6 +72,7 @@ Source: [Google — About](https://about.google/)
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-org-google-t-00-15-32" style="--pulse-height:10%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-google-t-00-24-39" style="--pulse-height:10%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-24-08" style="--pulse-height:20%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 2 mentions" title="2026-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-google-t-00-41-17" style="--pulse-height:10%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -119,6 +120,7 @@ Source: [Google — About](https://about.google/)
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-org-google-t-00-15-32) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-google-t-00-24-39) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-google-t-00-24-08) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-google-t-00-41-17) | 1 |
 
 </details>
 </section>
@@ -130,7 +132,15 @@ Source: [Google — About](https://about.google/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:41:17](/episodes/ep-6jOEN9rBePU.md#ent-org-google-t-00-41-17)**
+> "...ot his own name to the top of Google searches and made us look."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2 mentions)</summary>

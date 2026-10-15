@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 558 mentions"
+description: "Jeffrey Epstein (People) - 561 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-51-16">2026-10-13 · 00:51:28</a></strong></div>
-<div><span>Episodes</span><strong>105</strong></div>
-<div><span>Mentions</span><strong>558</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-19-55">2026-10-14 · 00:20:25</a></strong></div>
+<div><span>Episodes</span><strong>106</strong></div>
+<div><span>Mentions</span><strong>561</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>160</strong></div>
-<div><span>Relationships</span><strong>53</strong></div>
+<div><span>Statements about</span><strong>164</strong></div>
+<div><span>Relationships</span><strong>54</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -140,6 +140,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 35 mentions" title="2026-10-01 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:40%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 14 mentions" title="2026-10-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-43-23" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-15-42" style="--pulse-height:9%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -250,6 +251,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jeffrey-epstein-t-00-22-23) | 35 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01) | 14 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-43-23) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-15-42) | 3 |
 
 </details>
 </section>
@@ -261,7 +263,21 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (558)</strong></summary>
+<summary><strong class="section-title">Raw mentions (561)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
+
+**[00:16:07](/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-15-42)**
+> "Office was frequented by Jeffrey Epstein, a modeling agency that was started by the French..."
+
+**[00:19:09](/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-19-09)**
+> "...a. Let me be perfectly clear. Jeffrey Epstein would be the literal manifestation of all three o..."
+
+**[00:20:25](/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-19-55)**
+> "...d while he was going on about Epstein, I was going on about Brigitte (Brigitte Macron) ..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
@@ -2593,11 +2609,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:22](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Jeffrey Epstein operated a global trafficking ring. And he worked, according to him and his emails, for the Rothschilds.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:23:17](/episodes/ep-IqHsl7d2dos.md#t-00-23-17): “The Rothschilds being Jeffrey Epstein's employers, Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeling world through which he trafficked victims from Eastern Europe, from impoverished war-torn areas.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “Shared interest regarding Charlie Kirk? Ha, ha, ha, ha. Let me be perfectly clear. Jeffrey Epstein would be the literal manifestation of all three of those nations. ... He worked directly for the Rothschilds, who credit themselves with having created the state of Israel in 1948.”
 
 </details>
 
@@ -2704,11 +2721,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): “what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel”
 - [Candace Owens x Ana Kasparian @ 00:43:11](/episodes/ep-SKNJPul29zU.md#t-00-43-11): “the guy Jean-Luc Brunel was his partner in Paris for like the modeling firm who ended up killing himself in prison.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:41:07](/episodes/ep-q4m-kGzvwjw.md#t-00-40-44): “Jean-Luc Brunel, of course. potentially suicided partner of Jeffrey Epstein through the modeling group, the modeling group founded by him, Faith Kate (modeling-company figure; name spelling unverified)'s modeling group, a question that we could not get an answer on when we asked Turning Point USA explicitly why we had people that worked there saying that Erika (Erika Kirk) was in control of the modeling apartments. ... The company that Jean-Luc Brunel started, this feels like it could be very important for us to go back to the Epstein (Jeffrey Epstein) story.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:16:07](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Office was frequented by Jeffrey Epstein, a modeling agency that was started by the French pervert, Jean-Luc Brunel, who was Jeffrey Epstein's partner.”
 
 </details>
 
@@ -2722,7 +2740,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Referenced By (27)</summary>
+<summary>Referenced By (28)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2821,11 +2839,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:22](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Jeffrey Epstein operated a global trafficking ring. And he worked, according to him and his emails, for the Rothschilds.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:23:17](/episodes/ep-IqHsl7d2dos.md#t-00-23-17): “The Rothschilds being Jeffrey Epstein's employers, Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeling world through which he trafficked victims from Eastern Europe, from impoverished war-torn areas.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “Shared interest regarding Charlie Kirk? Ha, ha, ha, ha. Let me be perfectly clear. Jeffrey Epstein would be the literal manifestation of all three of those nations. ... He worked directly for the Rothschilds, who credit themselves with having created the state of Israel in 1948.”
 
 </details>
 
@@ -2923,6 +2942,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 </details>
 
+- **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09): “Shared interest regarding Charlie Kirk? Ha, ha, ha, ha. Let me be perfectly clear. Jeffrey Epstein would be the literal manifestation of all three of those nations. ... His convicted partner, Ghislaine Maxwell, was born in France. He therefore ran his trafficking operations in and through France extensively.”
+
+</details>
+
 </details>
 
 </details>
@@ -2949,7 +2975,24 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (160)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (164)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>
+
+- [00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) (Accusation) **Candace Owens** (via paraphrase): ["Owens repeated a source-reported allegation that Erika Kirk allegedly ..."](/statements/statement-704c910024e3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [Modeling-apartment account sources (Ep 402; identity unverified)](/entities/anon-src-6jOEN9rBePU-014.md)
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Claim) **Candace Owens**: ["Owens claimed Jeffrey Epstein worked directly for the Rothschilds, who..."](/statements/statement-3f6722c15e73.md)
+  - Also about: [Rothschild family](/entities/org-rothschild-family.md), [Israel](/entities/gpe-israel.md)
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Accusation) **Candace Owens**: ["Owens said Jeffrey Epstein ran trafficking operations extensively in a..."](/statements/statement-3f1a7905719e.md)
+  - Also about: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [France](/entities/gpe-france.md)
+
+- [00:19:41](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Claim) **Candace Owens**: ["Owens said Jeffrey Epstein owned property and businesses in France."](/statements/statement-33195375a702.md)
+  - Also about: [France](/entities/gpe-france.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (9)</summary>

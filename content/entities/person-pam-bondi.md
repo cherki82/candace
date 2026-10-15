@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 37 mentions"
+description: "Pam Bondi (People) - 39 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-37">2025-09-19 · 00:34:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-pam-bondi-t-00-43-14">2026-10-05 · 00:43:14</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-pam-bondi-t-00-19-55">2026-10-14 · 00:20:07</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -51,6 +51,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-pam-bondi-t-01-00-03" style="--pulse-height:17%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-pam-bondi-t-00-29-54" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-pam-bondi-t-00-43-14" style="--pulse-height:17%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-pam-bondi-t-00-17-46" style="--pulse-height:33%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-pam-bondi-t-01-00-03) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-pam-bondi-t-00-29-54) | 3 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-pam-bondi-t-00-43-14) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-pam-bondi-t-00-17-46) | 2 |
 
 </details>
 </section>
@@ -83,7 +85,18 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
+
+**[00:17:58](/episodes/ep-6jOEN9rBePU.md#ent-person-pam-bondi-t-00-17-46)**
+> "...ere never going to get to see Pam Bondi saying that it would lead to the collapse of glob..."
+
+**[00:20:07](/episodes/ep-6jOEN9rBePU.md#ent-person-pam-bondi-t-00-19-55)**
+> "...think it means something that Pam Bondi, as I mentioned earlier."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>

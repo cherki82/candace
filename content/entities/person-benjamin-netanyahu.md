@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 449 mentions"
+description: "Benjamin Netanyahu (People) - 450 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -28,9 +28,9 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-benjamin-netanyahu-t-01-00-58">2026-10-01 · 01:00:58</a></strong></div>
-<div><span>Episodes</span><strong>105</strong></div>
-<div><span>Mentions</span><strong>449</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-benjamin-netanyahu-t-00-44-03">2026-10-14 · 00:44:03</a></strong></div>
+<div><span>Episodes</span><strong>106</strong></div>
+<div><span>Mentions</span><strong>450</strong></div>
 <div><span>Statements by</span><strong>22</strong></div>
 <div><span>Statements about</span><strong>145</strong></div>
 <div><span>Relationships</span><strong>70</strong></div>
@@ -146,6 +146,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-benjamin-netanyahu-t-00-56-43" style="--pulse-height:27%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 7 mentions" title="2026-09-25 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-person-benjamin-netanyahu-t-00-10-01" style="--pulse-height:23%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 6 mentions" title="2026-09-30 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-benjamin-netanyahu-t-00-24-34" style="--pulse-height:38%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 10 mentions" title="2026-10-01 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-benjamin-netanyahu-t-00-44-03" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -256,6 +257,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-benjamin-netanyahu-t-00-56-43) | 7 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-benjamin-netanyahu-t-00-10-01) | 6 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-benjamin-netanyahu-t-00-24-34) | 10 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-benjamin-netanyahu-t-00-44-03) | 1 |
 
 </details>
 </section>
@@ -267,7 +269,15 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (449)</strong></summary>
+<summary><strong class="section-title">Raw mentions (450)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:44:03](/episodes/ep-6jOEN9rBePU.md#ent-person-benjamin-netanyahu-t-00-44-03)**
+> "... been had he accepted Bibi's (Benjamin Netanyahu) offer of taking TPUSA to the next level and then..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (10 mentions)</summary>

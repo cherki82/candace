@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 2012 mentions"
+description: "United States (Places) - 2022 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,11 +28,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-52-26">2026-10-13 · 00:52:26</a></strong></div>
-<div><span>Episodes</span><strong>177</strong></div>
-<div><span>Mentions</span><strong>2,012</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-43-23">2026-10-14 · 00:43:42</a></strong></div>
+<div><span>Episodes</span><strong>178</strong></div>
+<div><span>Mentions</span><strong>2,022</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>179</strong></div>
+<div><span>Statements about</span><strong>180</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -218,6 +218,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51" style="--pulse-height:24%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 11 mentions" title="2026-10-07 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-37-41" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-30-40" style="--pulse-height:24%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 11 mentions" title="2026-10-13 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-00-01" style="--pulse-height:22%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 10 mentions" title="2026-10-14 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -400,6 +401,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-united-states-t-00-12-51) | 11 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-united-states-t-00-37-41) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-30-40) | 11 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-00-01) | 10 |
 
 </details>
 </section>
@@ -411,7 +413,42 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2012)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2022)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (10 mentions)</summary>
+
+**[00:00:10](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-00-01)**
+> "...ecial shout out to at Eric of America who wrote this. He said, I stand with Skylar (Sch..."
+
+**[00:01:20](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-01-20)**
+> "...e are now covering this beat: America has fallen. There's evidence of that everywhere, ..."
+
+**[00:18:55](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-18-30)**
+> "...piracies. France, Israel, the United States government all working together?"
+
+**[00:26:06](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-25-54)**
+> "...en operating like this in the United States and abroad?"
+
+**[00:29:35](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-29-35)**
+> "... this chick passed the bar in America. Like, how much do you hate us? How much do you h..."
+
+**[00:30:11](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-29-35)**
+> "...erything that has happened in America, like the America we thought we knew is so over."
+
+**[00:36:51](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-36-22)**
+> "...he times I'm telling you guys America has fallen."
+
+**[00:37:41](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-37-02)**
+> "... I'm sorry to report on that, America. But."
+
+**[00:43:23](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-43-23)**
+> "...ince he cared so deeply about America, I propose that we trash the immoral America and ..."
+
+**[00:43:42](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-43-23)**
+> "...ant to be the dictator of the United States. As long as I tell you that, then you vote for me..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (11 mentions)</summary>
@@ -7393,7 +7430,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (179)</strong></summary>
+<summary><strong class="section-title">Statements about United States (180)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:18:55](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) (Opinion) **Candace Owens**: ["Owens suggested that France, Israel, and the United States working tog..."](/statements/statement-cbf5c89fd4e1.md)
+  - Also about: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2)</summary>

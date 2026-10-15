@@ -20,7 +20,7 @@ date: "2025-08-15"
 
 > A Turning Point USA donor retreat began in Aspen.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. Candace x Baron Coleman LIVE!! | Candace Ep 293
 
@@ -72,3 +72,14 @@ date: "2025-08-15"
 
 > **Date stated in this source:** “August 15th through to August 17th”
 > **Date review note:** Source supplies the August 15-17, 2025 range; existing canonical August 15 is retained as retreat start, not an exact day for every activity.
+
+### 7. Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death...
+
+**Episode:** [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md)
+**Timestamp:** [00:17:14](/episodes/ep-6jOEN9rBePU.md#event-event-2025-08-15-a-turning-point-usa-donor-retreat-began--t-00-17-07) 
+<a href="https://www.youtube.com/watch?v=6jOEN9rBePU&t=1034s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> his last company pitch, if you will, that he gave in front of investors in Aspen
+
+> **Date stated in this source:** “three weeks before his death”
+> **Date review note:** Same Aspen investor retreat. Retain established August 15-17, 2025 range and canonical start date; this source gives an approximate interval and does not establish the precise pitch day.

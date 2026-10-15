@@ -1,6 +1,6 @@
 ---
 title: "Kip Crofts"
-description: "Kip Crofts (People) - 8 mentions"
+description: "Kip Crofts (People) - 9 mentions"
 id: "person-kip-crofts"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Idaho News 6 — Kip Crofts case dismissal](https://www.kivitv.com/cald
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-kip-crofts-t-01-09-50">2026-09-25 · 01:10:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-kip-crofts-t-01-12-07">2026-09-25 · 01:14:05</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-kip-crofts-t-00-13-10">2026-10-14 · 00:13:20</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,12 +32,14 @@ Source: [Idaho News 6 — Kip Crofts case dismissal](https://www.kivitv.com/cald
 <p>Highest activity: <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-kip-crofts-t-01-09-50">WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-kip-crofts-t-01-09-50" style="--pulse-height:100%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 8 mentions" title="2026-09-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-kip-crofts-t-00-13-10" style="--pulse-height:12%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-kip-crofts-t-01-09-50) | 8 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-kip-crofts-t-00-13-10) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Idaho News 6 — Kip Crofts case dismissal](https://www.kivitv.com/cald
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:13:20](/episodes/ep-6jOEN9rBePU.md#ent-person-kip-crofts-t-00-13-10)**
+> "We talked about her Uncle Kip Crofts who was arrested just outside of Nampa where Turn..."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (8 mentions)</summary>
@@ -109,9 +119,10 @@ Source: [Idaho News 6 — Kip Crofts case dismissal](https://www.kivitv.com/cald
 <summary>Uncle/Aunt Of (1)</summary>
 
 - **[Maycee Crofts](/entities/person-maycee-crofts.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:10:01](/episodes/ep-bIuvTKlFeGo.md#t-01-09-50): “at a school. And I want to get these charges exactly right. Her uncle is Kip Crofts. ... A warrant was issued charging Kip Crofts, so that's her dad's brother, with sexual abuse of a minor. ... Human trafficking, allegations of child sex abuse, allegations that Erika (Erika Kirk) was frequenting the office that Jeffrey Epstein and his cohorts were frequenting. I've never, never, ever, ever could I have imagined this many common things. Again, Macy (Macy Crofts)'s not involved in this case, this is her uncle.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28): “If you're wondering why that sounds vaguely familiar to you, it's because it's the same area that Macy Crofts, the one who allegedly, according to the UVU review, insisted. ... On having the event, wanted, she was on the call and she wanted the event to be in the amphitheater. ... We talked about her Uncle Kip Crofts who was arrested just outside of Nampa where Turning Point USA put on their assembly.”
 
 </details>
 
@@ -135,9 +146,10 @@ Source: [Idaho News 6 — Kip Crofts case dismissal](https://www.kivitv.com/cald
 </details>
 
 - **[Maycee Crofts](/entities/person-maycee-crofts.md)** niece/nephew of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:10:01](/episodes/ep-bIuvTKlFeGo.md#t-01-09-50): “at a school. And I want to get these charges exactly right. Her uncle is Kip Crofts. ... A warrant was issued charging Kip Crofts, so that's her dad's brother, with sexual abuse of a minor. ... Human trafficking, allegations of child sex abuse, allegations that Erika (Erika Kirk) was frequenting the office that Jeffrey Epstein and his cohorts were frequenting. I've never, never, ever, ever could I have imagined this many common things. Again, Macy (Macy Crofts)'s not involved in this case, this is her uncle.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:12:58](/episodes/ep-6jOEN9rBePU.md#t-00-12-28): “If you're wondering why that sounds vaguely familiar to you, it's because it's the same area that Macy Crofts, the one who allegedly, according to the UVU review, insisted. ... On having the event, wanted, she was on the call and she wanted the event to be in the amphitheater. ... We talked about her Uncle Kip Crofts who was arrested just outside of Nampa where Turning Point USA put on their assembly.”
 
 </details>
 
@@ -146,7 +158,15 @@ Source: [Idaho News 6 — Kip Crofts case dismissal](https://www.kivitv.com/cald
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kip Crofts (7)</strong></summary>
+<summary><strong class="section-title">Statements about Kip Crofts (8)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:13:20](/episodes/ep-6jOEN9rBePU.md#t-00-13-10) (Claim) **Candace Owens**: ["Owens said Maycee Crofts's Uncle Kip Crofts was arrested just outside ..."](/statements/statement-24ed0c5d7611.md)
+  - Also about: [Maycee Crofts](/entities/person-maycee-crofts.md), [Nampa, Idaho](/entities/gpe-nampa-idaho.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (7)</summary>

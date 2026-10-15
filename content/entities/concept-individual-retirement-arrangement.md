@@ -1,6 +1,6 @@
 ---
 title: "Individual Retirement Arrangement"
-description: "Individual Retirement Arrangement (Concepts) - 45 mentions"
+description: "Individual Retirement Arrangement (Concepts) - 46 mentions"
 id: "concept-individual-retirement-arrangement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-individual-retirement-arrangement-t-00-36-10">2026-02-05 · 00:36:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-individual-retirement-arrangement-t-00-26-42">2026-10-08 · 00:27:14</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-concept-individual-retirement-arrangement-t-00-24-31">2026-10-14 · 00:24:56</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -72,6 +72,7 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-individual-retirement-arrangement-t-00-41-10" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-concept-individual-retirement-arrangement-t-00-53-46" style="--pulse-height:33%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-individual-retirement-arrangement-t-00-26-42" style="--pulse-height:33%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-concept-individual-retirement-arrangement-t-00-24-31" style="--pulse-height:33%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -113,6 +114,7 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-individual-retirement-arrangement-t-00-41-10) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-concept-individual-retirement-arrangement-t-00-53-46) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-concept-individual-retirement-arrangement-t-00-26-42) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-concept-individual-retirement-arrangement-t-00-24-31) | 1 |
 
 </details>
 </section>
@@ -120,7 +122,15 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:24:56](/episodes/ep-6jOEN9rBePU.md#ent-concept-individual-retirement-arrangement-t-00-24-31)**
+> "... money from your 401k or your IRA early and now the IRS wants their share."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>

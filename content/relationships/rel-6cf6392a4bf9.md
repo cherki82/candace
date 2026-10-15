@@ -11,7 +11,11 @@ object: "person-tucker-carlson"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
+
+- [00:38:37](/episodes/ep-6jOEN9rBePU#t-00-38-37): _So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals._
 
 **[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
 

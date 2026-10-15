@@ -1,6 +1,6 @@
 ---
 title: "Utah House of Representatives"
-description: "Utah House of Representatives (Organizations) - 7 mentions"
+description: "Utah House of Representatives (Organizations) - 8 mentions"
 id: "org-utah-house-of-representatives"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-11-43">2026-10-13 · 00:06:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-15-34">2026-10-13 · 00:16:08</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-house-of-representatives-t-00-07-22">2026-10-14 · 00:07:22</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,12 +38,14 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 <p>Highest activity: <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-11-43">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-11-43" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 6 mentions" title="2026-10-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-house-of-representatives-t-00-07-22" style="--pulse-height:17%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-11-43) | 6 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-house-of-representatives-t-00-07-22) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:07:22](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-house-of-representatives-t-00-07-22)**
+> "And to be clear, the Utah House of Reps, they work 45 days a year and he started ..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (6 mentions)</summary>
@@ -92,9 +102,10 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 </details>
 
 - **[Tyler Clancy](/entities/person-tyler-clancy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:15:57](/episodes/ep-V-phmW9f0pM.md#t-00-15-34): “The point I'm making that I like you guys take away from this is that just like his church leader and his House of Representatives colleague, Val (Val Peterson), Tyler Clancy wears many hats. And on September 10th, 2025, not only was he serving in the House of Reps, but he was also serving as a Provo police officer, special victims unit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:58](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion. ... And to be clear, the Utah House of Reps, they work 45 days a year and he started in 2023. So he's climbing this ladder quickly. He's making a lot of connections here.”
 
 </details>
 
@@ -111,9 +122,10 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 </details>
 
 - **[Tyler Clancy](/entities/person-tyler-clancy.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:15:57](/episodes/ep-V-phmW9f0pM.md#t-00-15-34): “The point I'm making that I like you guys take away from this is that just like his church leader and his House of Representatives colleague, Val (Val Peterson), Tyler Clancy wears many hats. And on September 10th, 2025, not only was he serving in the House of Reps, but he was also serving as a Provo police officer, special victims unit.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:58](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion. ... And to be clear, the Utah House of Reps, they work 45 days a year and he started in 2023. So he's climbing this ladder quickly. He's making a lot of connections here.”
 
 </details>
 
@@ -122,7 +134,15 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah House of Representatives (3)</strong></summary>
+<summary><strong class="section-title">Statements about Utah House of Representatives (4)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>
+
+- [00:07:22](/episodes/ep-6jOEN9rBePU.md#t-00-07-22) (Claim) **Candace Owens**: ["Owens said the Utah House of Representatives works 45 days a year and ..."](/statements/statement-48e5154454b3.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3)</summary>

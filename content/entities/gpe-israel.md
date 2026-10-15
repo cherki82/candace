@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1686 mentions"
+description: "Israel (Places) - 1691 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12">2026-10-08 · 00:53:42</a></strong></div>
-<div><span>Episodes</span><strong>161</strong></div>
-<div><span>Mentions</span><strong>1,686</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-45-02">2026-10-14 · 00:45:28</a></strong></div>
+<div><span>Episodes</span><strong>162</strong></div>
+<div><span>Mentions</span><strong>1,691</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>379</strong></div>
+<div><span>Statements about</span><strong>382</strong></div>
 <div><span>Relationships</span><strong>86</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -199,6 +199,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-00-04-07" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-18-09" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -365,6 +366,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-israel-t-00-04-07) | 5 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-18-09) | 4 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30) | 5 |
 
 </details>
 </section>
@@ -376,7 +378,27 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1686)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1691)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
+
+**[00:18:46](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30)**
+> "regarding Israel. He was done with them. I said, hey, White House,..."
+
+**[00:18:55](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30)**
+> "...g grand conspiracies. France, Israel, the United States government all working togethe..."
+
+**[00:19:21](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-19-09)**
+> "...h having created the state of Israel in 1948."
+
+**[00:20:05](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-19-55)**
+> "turn against Israel."
+
+**[00:45:28](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-45-02)**
+> "called out for serving Israel. I did not. I only saw the thing about Danny Trej..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (2 mentions)</summary>
@@ -6950,7 +6972,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (379)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (382)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3)</summary>
+
+- [00:18:37](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) (Opinion) **Candace Owens** (via paraphrase): ["Owens characterized Charlie Kirk as having changed his mind regarding ..."](/statements/statement-0a9b41cade4c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:55](/episodes/ep-6jOEN9rBePU.md#t-00-18-30) (Opinion) **Candace Owens**: ["Owens suggested that France, Israel, and the United States working tog..."](/statements/statement-cbf5c89fd4e1.md)
+  - Also about: [France](/entities/gpe-france.md), [United States](/entities/gpe-united-states.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:09](/episodes/ep-6jOEN9rBePU.md#t-00-19-09) (Claim) **Candace Owens**: ["Owens claimed Jeffrey Epstein worked directly for the Rothschilds, who..."](/statements/statement-3f6722c15e73.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>

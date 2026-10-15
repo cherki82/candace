@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (64 mentions)
+### Evidence (65 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -60,6 +60,10 @@ object: "person-candace-owens"
 **[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
 
 - [00:52:32](/episodes/ep-6XfDqKTdFKg#t-00-52-32): _It is demonstration of your own character when you do stuff like that. And that is why Turning Point has fallen apart so quickly because people can see the day in and day out betrayal of what Charlie (Charlie Kirk) believed in, what his mission was, what his brand was, what he was going through in those last days and look at how quickly they weakened an organization that had so much influence._
+
+**[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
+
+- [00:00:39](/episodes/ep-6jOEN9rBePU#t-00-00-39): _And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?_
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 

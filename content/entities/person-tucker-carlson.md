@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 698 mentions"
+description: "Tucker Carlson (People) - 699 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tucker-carlson-t-00-31-28">2026-10-06 · 00:31:28</a></strong></div>
-<div><span>Episodes</span><strong>119</strong></div>
-<div><span>Mentions</span><strong>698</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tucker-carlson-t-00-38-29">2026-10-14 · 00:38:37</a></strong></div>
+<div><span>Episodes</span><strong>120</strong></div>
+<div><span>Mentions</span><strong>699</strong></div>
 <div><span>Statements by</span><strong>69</strong></div>
 <div><span>Statements about</span><strong>112</strong></div>
 <div><span>Relationships</span><strong>142</strong></div>
@@ -154,6 +154,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-25-09" style="--pulse-height:13%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 7 mentions" title="2026-09-30 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-00-27-52" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-tucker-carlson-t-00-31-28" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tucker-carlson-t-00-38-29" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -278,6 +279,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-tucker-carlson-t-00-25-09) | 7 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-tucker-carlson-t-00-27-52) | 4 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-tucker-carlson-t-00-31-28) | 1 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-tucker-carlson-t-00-38-29) | 1 |
 
 </details>
 </section>
@@ -289,7 +291,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (698)</strong></summary>
+<summary><strong class="section-title">Raw mentions (699)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:38:37](/episodes/ep-6jOEN9rBePU.md#ent-person-tucker-carlson-t-00-38-29)**
+> "...oud to partner with my friend Tucker Carlson's company, Battalion Metals."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
@@ -3328,12 +3338,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Friend Of (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 
@@ -3528,9 +3539,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Owns (1)</summary>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 
@@ -3937,12 +3949,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 
@@ -4161,9 +4174,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)** owned by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
+- [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
 
 </details>
 

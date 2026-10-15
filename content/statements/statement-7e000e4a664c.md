@@ -20,13 +20,23 @@ veracity: "true"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
-## Source
+## Appearances (2)
+
+### 1. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:14:01](/episodes/ep-Qt0VHV-POCg.md#t-00-14-01) 
 <a href="https://www.youtube.com/watch?v=Qt0VHV-POCg&t=841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he decided that October 14th, which is Charlie Kirk's birthday, would be a National Day of Remembrance for Charlie Kirk
+
+### 2. Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death...
+
+**Episode:** [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md)
+**Timestamp:** [00:00:26](/episodes/ep-6jOEN9rBePU.md#t-00-00-01) 
+<a href="https://www.youtube.com/watch?v=6jOEN9rBePU&t=26s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> today is indeed October 14th, what would have been Charlie Kirk's 33rd birthday.
 
 ## Verification
 

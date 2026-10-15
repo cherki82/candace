@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 141 mentions"
+description: "Provo (Places) - 144 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-32-45">2026-10-13 · 00:33:16</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>141</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-provo-t-00-07-22">2026-10-14 · 00:07:33</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>144</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -72,6 +72,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-46-40" style="--pulse-height:11%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-15-34" style="--pulse-height:22%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-provo-t-00-06-40" style="--pulse-height:17%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +113,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-provo-t-00-46-40) | 2 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-provo-t-00-27-53) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-provo-t-00-15-34) | 4 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-provo-t-00-06-40) | 3 |
 
 </details>
 </section>
@@ -123,7 +125,21 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+<summary><strong class="section-title">Raw mentions (144)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
+
+**[00:06:40](/episodes/ep-6jOEN9rBePU.md#ent-gpe-provo-t-00-06-40)**
+> "...mber 2nd with none other than Provo Police Officer Tyler Clancy."
+
+**[00:06:54](/episodes/ep-6jOEN9rBePU.md#ent-gpe-provo-t-00-06-40)**
+> "House of Rep, Provo police officer, many hats, homeless coordinator, ..."
+
+**[00:07:33](/episodes/ep-6jOEN9rBePU.md#ent-gpe-provo-t-00-07-22)**
+> "...ginning in January. Maybe the Provo police stopping human trafficking hat."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (4 mentions)</summary>

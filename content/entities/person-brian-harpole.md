@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 457 mentions"
+description: "Brian Harpole (People) - 458 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-29-22">2026-10-13 · 00:29:22</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>457</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-brian-harpole-t-00-02-03">2026-10-14 · 00:02:12</a></strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>458</strong></div>
 <div><span>Statements by</span><strong>37</strong></div>
 <div><span>Statements about</span><strong>171</strong></div>
 <div><span>Relationships</span><strong>45</strong></div>
@@ -99,6 +99,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-28-07" style="--pulse-height:12%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 5 mentions" title="2026-10-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20" style="--pulse-height:32%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 13 mentions" title="2026-10-08 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-23-44" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-brian-harpole-t-00-02-03" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -172,6 +173,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-brian-harpole-t-00-28-07) | 5 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20) | 13 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-23-44) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-brian-harpole-t-00-02-03) | 1 |
 
 </details>
 </section>
@@ -183,7 +185,15 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (457)</strong></summary>
+<summary><strong class="section-title">Raw mentions (458)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
+
+**[00:02:12](/episodes/ep-6jOEN9rBePU.md#ent-person-brian-harpole-t-00-02-03)**
+> "Some of you guys desire to trade these in the streets. You want to collect them. I want you to know that we, of course, have the Brian Harpole Pokemon card."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>

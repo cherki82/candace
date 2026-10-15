@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 62 mentions"
+description: "New York City (Places) - 66 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-38-06">2026-10-07 · 00:38:06</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#t-00-36-22">2026-10-14 · 00:36:27</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>66</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -70,6 +70,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-new-york-city-t-00-46-02" style="--pulse-height:17%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#t-00-30-33" style="--pulse-height:17%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-37-24" style="--pulse-height:33%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#t-00-15-42" style="--pulse-height:67%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -110,6 +111,7 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-new-york-city-t-00-46-02) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#t-00-30-33) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-new-york-city-t-00-37-24) | 2 |
+| 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#t-00-15-42) | 4 |
 
 </details>
 </section>
@@ -121,7 +123,24 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+
+<details>
+<summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
+
+**[00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42)**
+> "Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge."
+
+**[00:33:38](/episodes/ep-6jOEN9rBePU.md#t-00-33-15)**
+> "Nobody is judging you for coming into a store in Brooklyn and having a cap on. Also, welcome to New York."
+
+**[00:33:44](/episodes/ep-6jOEN9rBePU.md#t-00-33-15)**
+> "New York, everyone kind of has an attitude, right? I'm from New York. This is, I just, I know exactly the kind of vibe of where she was at."
+
+**[00:36:27](/episodes/ep-6jOEN9rBePU.md#t-00-36-22)**
+> "But she definitely would not make it in New York. She wanted to, for whatever reason, purchase this bird for $15,000 and thought she would find an audience online that was sympathetic in this economy to a multimillionaire who has 15."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>
