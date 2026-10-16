@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 181 mentions"
+description: "Baron Coleman (People) - 183 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-58-15">2026-10-13 · 00:58:15</a></strong></div>
-<div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>181</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-43-13">2026-10-15 · 00:43:18</a></strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>183</strong></div>
 <div><span>Statements by</span><strong>32</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -93,6 +93,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20" style="--pulse-height:62%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 10 mentions" title="2026-10-05 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-41-48" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -156,6 +157,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-baron-coleman-t-00-47-20) | 10 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37) | 3 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-41-48) | 2 |
 
 </details>
 </section>
@@ -167,7 +169,18 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (181)</strong></summary>
+<summary><strong class="section-title">Raw mentions (183)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:42:10](/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-41-48)**
+> "...'s why, obviously, I selected Baron Coleman to take over the show because he has been focused..."
+
+**[00:43:18](/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-43-13)**
+> "...rt who writes, we love Baron (Baron Coleman), but my wife and I are definitely going to have ..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3 mentions)</summary>
@@ -1149,12 +1162,13 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:07:08](/episodes/ep-DdPjoy5W-wY.md#t-01-06-42): “i wrote him some interesting things about Lori Frantzve since he's been helping so much the investigation”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:01:48](/episodes/ep-SgVcnx4Oh30.md#t-00-01-22): “We kind of build off of each other and the work and the investigation that we're doing.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:00:33](/episodes/ep-a2bZf4fic10.md#t-00-00-01): “I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for two weeks.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:32](/episodes/ep-_Sq5RqP27NY.md#t-00-25-53): “And yes, we will get together, me and Baron (Baron Coleman) will get together that sizzle reel for you guys before we pass off the show.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:42:10](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48): “Yes. There have been others, obviously, who have been just as consistent, staying focused, not jumping into all the riffraff. A lot of times people on X, like everyone's like fighting and just help investigate or don't. And that's why, obviously, I selected Baron Coleman to take over the show because he has been focused and he's. ... He's been updating everything and we have been information sharing in the background for quite some time now, but it's you can't ignore it.”
 
 </details>
 
@@ -1319,7 +1333,14 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baron Coleman (17)</strong></summary>
+<summary><strong class="section-title">Statements about Baron Coleman (18)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:42:10](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48) (Claim) **Candace Owens**: ["Owens said she selected Baron Coleman to take over the show and that t..."](/statements/statement-f9314ff7dc1b.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>

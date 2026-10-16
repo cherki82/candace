@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1691 mentions"
+description: "Israel (Places) - 1692 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,9 +25,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-45-02">2026-10-14 · 00:45:28</a></strong></div>
-<div><span>Episodes</span><strong>162</strong></div>
-<div><span>Mentions</span><strong>1,691</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-israel-t-00-34-32">2026-10-15 · 00:34:32</a></strong></div>
+<div><span>Episodes</span><strong>163</strong></div>
+<div><span>Mentions</span><strong>1,692</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>382</strong></div>
 <div><span>Relationships</span><strong>86</strong></div>
@@ -200,6 +200,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-18-09" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-israel-t-00-34-32" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -367,6 +368,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-israel-t-00-18-09) | 4 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30) | 5 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-israel-t-00-34-32) | 1 |
 
 </details>
 </section>
@@ -378,7 +380,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1691)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1692)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:34:32](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-israel-t-00-34-32)**
+> "... going to send you to die for Israel, right? Well, one of his recent tough guy things ..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>

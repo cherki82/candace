@@ -5,6 +5,38 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-10-16 10:29:48
+
+No data changes detected (regeneration only)
+
+**Totals:**
+- Episodes: 184
+- Entities: 5249
+- Events: 2117
+- Statements: 8652
+- Relationships: 6043
+
+---
+
+## 2026-10-16 10:03:59
+
+**Added 1 episode(s):**
+  - `YPIYYHCNPbE`: Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).
+**Added 39 new entity/entities**
+**Added 10 new event(s)**
+**Removed 1 event(s)**
+**Added 62 new statement(s)**
+**Added 26 new relationship(s)**
+
+**Totals:**
+- Episodes: 184
+- Entities: 5249
+- Events: 2117
+- Statements: 8652
+- Relationships: 6043
+
+---
+
 ## 2026-10-15 10:09:13
 
 **Added 1 episode(s):**

@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 4574 factual claims and 8589 attributed statements"
+description: "Browse 4604 factual claims and 8651 attributed statements"
 ---
 
 # Claims & Statements
 
-_4574 factual claims within 8589 attributed statements._
+_4604 factual claims within 8651 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _4574 factual claims within 8589 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (183)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (184)</label>
 </div>
 
 <style>
@@ -53,7 +53,192 @@ _4574 factual claims within 8589 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (4574)</strong></summary>
+<summary><strong class="section-title">Factual Claims (4604)</strong></summary>
+
+<details>
+<summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (30)</summary>
+
+<div class="filter-item" data-filter-key="statement-58a7085a398b">
+
+- [00:02:40](/episodes/ep-YPIYYHCNPbE.md#t-00-02-11) [○] **Candace Owens**: ["Owens said Tyler Clancy had a private one-on-one meeting with Spencer Cox on the..."](/statements/statement-58a7085a398b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6387e0752204">
+
+- [00:03:02](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) [○] **Candace Owens**: ["Owens said Tyler Clancy allegedly was selected to transport Turning Point employ..."](/statements/statement-6387e0752204.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-09b8a6cce564">
+
+- [00:03:13](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) [○] **Candace Owens**: ["Owens said she was told the officer in the police radio clip was Tyler Clancy an..."](/statements/statement-09b8a6cce564.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0bc9f7fe673f">
+
+- [00:03:41](/episodes/ep-YPIYYHCNPbE.md#t-00-03-41) [○] **Anonymous Source #22 (Ep YPIYYHCNPbE)**: ["The unidentified radio officer, whom Owens identifies as Tyler Clancy without in..."](/statements/statement-0bc9f7fe673f.md)
+  - About: [Sergeant Dupay (identity unverified)](/entities/anon-src-YPIYYHCNPbE-001.md), [Provo Airport](/entities/org-provo-airport.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dc03572627ec">
+
+- [00:04:47](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38) [○] **Candace Owens**: ["Owens said she was told that Clancy allegedly gave others a different account: h..."](/statements/statement-dc03572627ec.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-063f6361c186">
+
+- [00:05:55](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) [○] **Candace Owens**: ["Owens said people in Utah told her that Governor Cox’s “boys” were all over the ..."](/statements/statement-063f6361c186.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-51e7ad1a386f">
+
+- [00:07:49](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) [○] **Candace Owens**: ["Owens said sources she considered solid and unaware of one another placed Val Pe..."](/statements/statement-51e7ad1a386f.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d4439b4c0e1d">
+
+- [00:11:03](/episodes/ep-YPIYYHCNPbE.md#t-00-10-53) [○] **Candace Owens**: ["Owens identified Taylor Dodd as the former president of the Club America chapter..."](/statements/statement-d4439b4c0e1d.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Club America](/entities/org-club-america.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c757283dc89f">
+
+- [00:15:05](/episodes/ep-YPIYYHCNPbE.md#t-00-14-43) [○] **Cora Nichols**: ["In a local letter read by Owens, Cora Nichols described herself as vice presiden..."](/statements/statement-c757283dc89f.md)
+  - About: [Club America](/entities/org-club-america.md), [Bonners Ferry, Idaho](/entities/gpe-bonners-ferry-idaho.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eb4340447ae2">
+
+- [00:16:39](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) [○] **Candace Owens**: ["Owens said she was told Charlie Kirk established DOGE seven days before his deat..."](/statements/statement-eb4340447ae2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Action](/entities/org-turning-point-action.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fe6a1aad5d07">
+
+- [00:17:07](/episodes/ep-YPIYYHCNPbE.md#t-00-16-53) [○] **Candace Owens**: ["Owens said Justin Streiff denied the lead about money missing from Turning Point..."](/statements/statement-fe6a1aad5d07.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9f2d58625a4b">
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) [○] **Candace Owens**: ["Owens said Lori Frantzve and Tyler Bowyer worked together through Superfeed and ..."](/statements/statement-9f2d58625a4b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6e96797392ab">
+
+- [00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16) [○] **Candace Owens**: ["Owens said Tyler Bowyer presented a new Charlie Kirk statue in September and tha..."](/statements/statement-6e96797392ab.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-530baca890eb">
+
+- [00:19:08](/episodes/ep-YPIYYHCNPbE.md#t-00-19-00) [○] **Candace Owens**: ["Owens said Turning Point USA headquarters was under heavy surveillance but the o..."](/statements/statement-530baca890eb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12645a563495">
+
+- [00:20:39](/episodes/ep-YPIYYHCNPbE.md#t-00-20-39) [○] **Anonymous Source #23 (Ep YPIYYHCNPbE)**: ["The unidentified fundraising clip speaker said participation in the Commit 100 p..."](/statements/statement-12645a563495.md)
+  - About: [Commit 100](/entities/concept-commit-100.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5dd0af555340">
+
+- [00:21:28](/episodes/ep-YPIYYHCNPbE.md#t-00-21-14) [○] **Anonymous Source #23 (Ep YPIYYHCNPbE)**: ["The unidentified fundraising clip speaker said friends of Charlie and Erika Kirk..."](/statements/statement-5dd0af555340.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5fabac8b3837">
+
+- [00:21:43](/episodes/ep-YPIYYHCNPbE.md#t-00-21-40) [○] **Candace Owens**: ["Owens said the tips apparently had not worked, the statue vandals had not been c..."](/statements/statement-5fabac8b3837.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5f53a17650ee">
+
+- [00:22:35](/episodes/ep-YPIYYHCNPbE.md#t-00-22-19) [○] **Turning Point Action**: ["In a fundraising email read by Owens, Turning Point Action said September was it..."](/statements/statement-5f53a17650ee.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0f0432c8163d">
+
+- [00:28:24](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) [○] **Candace Owens**: ["Owens said Zacharia had consulted Pepperdine’s president and was told she could ..."](/statements/statement-0f0432c8163d.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Pepperdine president cited as adviser in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-019.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6876663c87e5">
+
+- [00:29:15](/episodes/ep-YPIYYHCNPbE.md#t-00-29-15) [○] **Katie Zacharia**: ["In a supercut played by Owens, Katie Zacharia repeatedly called herself a lawyer..."](/statements/statement-6876663c87e5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [China](/entities/gpe-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-66d8be47f506">
+
+- [00:29:57](/episodes/ep-YPIYYHCNPbE.md#t-00-29-57) [○] **Katie Zacharia**: ["In a clip played by Owens, Zacharia said she read The Real Anthony Fauci cover t..."](/statements/statement-66d8be47f506.md)
+  - About: [The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health](/entities/work-real-anthony-fauci.md), [Anthony Fauci](/entities/person-anthony-fauci.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-77ec6ce3b6fe">
+
+- [00:30:43](/episodes/ep-YPIYYHCNPbE.md#t-00-30-43) [○] **Katie Zacharia**: ["In the Posobiec interview clip, Zacharia said she had preregistered for the bar ..."](/statements/statement-77ec6ce3b6fe.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [China](/entities/gpe-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b0baf76b3602">
+
+- [00:31:52](/episodes/ep-YPIYYHCNPbE.md#t-00-31-26) [○] **Katie Zacharia**: ["In the Posobiec interview clip, Zacharia said she was offered a job in Zhonglun ..."](/statements/statement-b0baf76b3602.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Zhong Lun Law Firm](/entities/org-zhong-lun-law-firm.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-92d075483f27">
+
+- [00:32:12](/episodes/ep-YPIYYHCNPbE.md#t-00-31-59) [○] **Katie Zacharia**: ["In the Posobiec interview clip, Zacharia said her law degree provided the necess..."](/statements/statement-92d075483f27.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Zhong Lun Law Firm](/entities/org-zhong-lun-law-firm.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-71552b2fdef5">
+
+- [00:32:32](/episodes/ep-YPIYYHCNPbE.md#t-00-32-32) [○] **Katie Zacharia**: ["Asked by Posobiec why she did not try the bar again after returning, Zacharia sa..."](/statements/statement-71552b2fdef5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-69625fef2e7b">
+
+- [00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32) [○] **Candace Owens**: ["Owens characterized Pete Hegseth’s recent proposal as executing the Fort Hood sh..."](/statements/statement-69625fef2e7b.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f9314ff7dc1b">
+
+- [00:42:10](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48) [○] **Candace Owens**: ["Owens said she selected Baron Coleman to take over the show and that they had be..."](/statements/statement-f9314ff7dc1b.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3935c0bc4294">
+
+- [00:44:35](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) [○] **Commenter Melissa B (identity unverified)**: ["In a viewer comment read by Owens, Melissa B (surname unverified) said the never..."](/statements/statement-3935c0bc4294.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6a8666b7d33d">
+
+- [00:47:30](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) [○] **Commenter CPTN SL0 (identity unverified)**: ["In a viewer comment read by Owens, CPTN SL0 (identity unverified) said the blood..."](/statements/statement-6a8666b7d33d.md)
+  - About: [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4a4da2c6a527">
+
+- [00:47:38](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) [○] **Candace Owens**: ["Responding to a viewer, Owens said the bag offered to Shawn Ryan was Brian Harpo..."](/statements/statement-4a4da2c6a527.md)
+  - About: [Shawn Ryan](/entities/person-shawn-ryan.md), [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (23)</summary>
@@ -27834,7 +28019,72 @@ _4574 factual claims within 8589 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1983)</strong></summary>
+<summary><strong class="section-title">Accusations (1993)</strong></summary>
+
+<details>
+<summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (10)</summary>
+
+<div class="filter-item" data-filter-key="statement-6bc4f19edb22">
+
+- [00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56) [○] **Candace Owens**: ["Owens reported that Tyler Clancy disposed of a bloodied item belonging to Turnin..."](/statements/statement-6bc4f19edb22.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-44a22c2d813f">
+
+- [00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) [○] **Candace Owens**: ["Owens accused Spencer Cox of declaring a politically motivated assassination wit..."](/statements/statement-44a22c2d813f.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2cf8b684aca2">
+
+- [00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30) [○] **Candace Owens**: ["Owens urged parents to be wary of Club America and Turning Point under Erika Kir..."](/statements/statement-2cf8b684aca2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-092a03c2aeeb">
+
+- [00:14:22](/episodes/ep-YPIYYHCNPbE.md#t-00-14-08) [○] **Candace Owens**: ["Owens alleged Turning Point USA tried to scrub its affiliation with Dodd from th..."](/statements/statement-092a03c2aeeb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md), [Taylor Dodd](/entities/person-taylor-dodd.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-51ad75193454">
+
+- [00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) [○] **Candace Owens**: ["Owens called Tyler Bowyer a sexual deviant and said Charlie Kirk wanted to fire ..."](/statements/statement-51ad75193454.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9c4a4cbcfedf">
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) [○] **Candace Owens**: ["Owens wondered whether Lori Frantzve and Tyler Bowyer maybe did something funny ..."](/statements/statement-9c4a4cbcfedf.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e20bae039ae0">
+
+- [00:23:02](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02) [○] **Candace Owens**: ["Owens said she felt the statue incident maybe did not happen as described, that ..."](/statements/statement-e20bae039ae0.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-43d115ec874c">
+
+- [00:37:59](/episodes/ep-YPIYYHCNPbE.md#t-00-37-48) [○] **Candace Owens**: ["Owens said that, in her opinion, the “Epstein class” killed Charlie Kirk and set..."](/statements/statement-43d115ec874c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a8b0e5e2cea1">
+
+- [00:49:19](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) [○] **Candace Owens**: ["Owens said she found it very odd that neither Frank Turek nor Brian Harpole ment..."](/statements/statement-a8b0e5e2cea1.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-613ef71948c0">
+
+- [00:49:39](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) [○] **Candace Owens**: ["Owens said she was told the fire-captain information was intentionally being hus..."](/statements/statement-613ef71948c0.md)
+  - About: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (11)</summary>
@@ -40581,7 +40831,18 @@ _4574 factual claims within 8589 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Predictions (92)</strong></summary>
+<summary><strong class="section-title">Predictions (93)</strong></summary>
+
+<details>
+<summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+<div class="filter-item" data-filter-key="statement-78d03eae9cd2">
+
+- [00:37:19](/episodes/ep-YPIYYHCNPbE.md#t-00-37-19) [○] **Charlie Kirk**: ["In the recorded interview, Kirk predicted that actual Bolsheviks taking over wou..."](/statements/statement-78d03eae9cd2.md)
+  - About: [Michael Knowles](/entities/person-michael-knowles.md), [Bolsheviks](/entities/concept-bolsheviks.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-07 · BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>
@@ -41433,7 +41694,18 @@ _4574 factual claims within 8589 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Promises (171)</strong></summary>
+<summary><strong class="section-title">Promises (172)</strong></summary>
+
+<details>
+<summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+<div class="filter-item" data-filter-key="statement-ef419f5e8c4a">
+
+- [00:42:48](/episodes/ep-YPIYYHCNPbE.md#t-00-42-29) [○] **Candace Owens**: ["Owens promised to keep going and said she would not be silenced by lawsuits whil..."](/statements/statement-ef419f5e8c4a.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-13 · America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>
@@ -42948,7 +43220,84 @@ _4574 factual claims within 8589 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (488)</strong></summary>
+<summary><strong class="section-title">Citations (500)</strong></summary>
+
+<details>
+<summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (12)</summary>
+
+<div class="filter-item" data-filter-key="statement-82451084ca3a">
+
+- [00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33) [○] **Candace Owens**: ["Owens corrected her prior report that Governor Spencer Cox had no schedule for S..."](/statements/statement-82451084ca3a.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-92bd0146fafc">
+
+- [00:08:18](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) [○] **Candace Owens**: ["Citing Cox’s schedule and an AV company’s LinkedIn photo, Owens said he was keyn..."](/statements/statement-92bd0146fafc.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [LinkedIn](/entities/org-linkedin.md), [Mona, Utah](/entities/gpe-mona-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bd41a9761872">
+
+- [00:08:39](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) [○] **Candace Owens**: ["Owens said Cox’s next scheduled event on September 10 was an 11:30 a.m. Utah Dep..."](/statements/statement-bd41a9761872.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Utah Department of Environmental Quality](/entities/org-utah-department-environmental-quality.md), [Murray Park (Murray, Utah)](/entities/gpe-murray-park-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dcb3fdb9afa0">
+
+- [00:12:02](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02) [○] **Candace Owens**: ["Citing the Bonners Ferry Herald, Owens said 18-year-old Taylor Dodd was arrested..."](/statements/statement-dcb3fdb9afa0.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Bonners Ferry Herald](/entities/org-bonners-ferry-herald.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4db5843cd00c">
+
+- [00:12:24](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02) [○] **Candace Owens**: ["Citing the report and court documents, Owens said an ICAC tip from Discord conce..."](/statements/statement-4db5843cd00c.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Discord](/entities/org-discord.md), [Telegram](/entities/org-telegram.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dda5872cd3f2">
+
+- [00:13:03](/episodes/ep-YPIYYHCNPbE.md#t-00-12-47) [○] **Candace Owens**: ["Citing Officer Brandon Blackmore’s report and case documents, Owens said 116 ima..."](/statements/statement-dda5872cd3f2.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Brandon Blackmore](/entities/person-brandon-blackmore.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-11af4e32bca2">
+
+- [00:13:11](/episodes/ep-YPIYYHCNPbE.md#t-00-12-47) [○] **Candace Owens**: ["Citing the article and court documents, Owens said Dodd reportedly acknowledged ..."](/statements/statement-11af4e32bca2.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cc0041a70c31">
+
+- [00:28:16](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) [○] **Candace Owens**: ["Owens said the Wall Street Journal reported Katie Zacharia had not passed the ba..."](/statements/statement-cc0041a70c31.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [The Wall Street Journal](/entities/org-wall-street-journal.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-85116d0eaad5">
+
+- [00:28:46](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30) [○] **Candace Owens**: ["Owens said Katie Zacharia’s LinkedIn listed her as general counsel."](/statements/statement-85116d0eaad5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [LinkedIn](/entities/org-linkedin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fd4d6b1a0735">
+
+- [00:33:32](/episodes/ep-YPIYYHCNPbE.md#t-00-33-04) [○] **Candace Owens**: ["Owens said her research showed the bar exam was administered twice a year, could..."](/statements/statement-fd4d6b1a0735.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3542af57c374">
+
+- [00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18) [○] **Candace Owens**: ["Owens described a Trump Truth Social post as stopping a publicly livestreamed ex..."](/statements/statement-3542af57c374.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md), [Truth Social](/entities/org-truth-social.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dd89c74abaef">
+
+- [00:48:45](/episodes/ep-YPIYYHCNPbE.md#t-00-48-34) [○] **Candace Owens**: ["Citing the UVU independent review, Owens said an unidentified fire captain met C..."](/statements/statement-dd89c74abaef.md)
+  - About: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (6)</summary>
@@ -46494,7 +46843,60 @@ _4574 factual claims within 8589 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1281)</strong></summary>
+<summary><strong class="section-title">Opinions (1289)</strong></summary>
+
+<details>
+<summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (8)</summary>
+
+<div class="filter-item" data-filter-key="statement-bfa2f2619363">
+
+- [00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11) [○] **Candace Owens**: ["Owens said she struggled to believe disposing of a bag covered in a recently mur..."](/statements/statement-bfa2f2619363.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1f8d9d63a4e6">
+
+- [00:07:36](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) [○] **Candace Owens**: ["Owens said Cox’s clothing-change account did not seem like a mere mistake and th..."](/statements/statement-1f8d9d63a4e6.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7322aae5937c">
+
+- [00:28:57](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30) [○] **Candace Owens**: ["Owens said Zacharia’s explanation did not make sense to her and did not feel lik..."](/statements/statement-7322aae5937c.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c7222b73f118">
+
+- [00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49) [○] **Candace Owens**: ["Owens called the Trump administration a group of liars and sarcastically said Za..."](/statements/statement-c7222b73f118.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-36ac7860044d">
+
+- [00:34:58](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32) [○] **Candace Owens**: ["Owens opposed turning an execution into a public livestream, distinguishing supp..."](/statements/statement-36ac7860044d.md)
+  - About: [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bbb659c29bd7">
+
+- [00:36:37](/episodes/ep-YPIYYHCNPbE.md#t-00-36-37) [○] **Charlie Kirk**: ["In the recorded interview, Charlie Kirk said he opposed the death penalty in Ame..."](/statements/statement-bbb659c29bd7.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e070c4faf23f">
+
+- [00:41:48](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48) [○] **Commenter Danielle (identity unverified)**: ["In a viewer comment read by Owens, Danielle (surname unverified) argued that if ..."](/statements/statement-e070c4faf23f.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-81f96e5ff443">
+
+- [00:45:01](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) [○] **Candace Owens**: ["Owens said she thought Erika Kirk and her associates were going to employ an AI ..."](/statements/statement-81f96e5ff443.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5)</summary>
@@ -54988,6 +55390,383 @@ _4574 factual claims within 8589 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).</strong> (62)</summary>
+
+<div class="filter-item" data-filter-key="statement-82451084ca3a">
+
+- [00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33) [○] (Citation) **Candace Owens**: ["Owens corrected her prior report that Governor Spencer Cox had no schedule for S..."](/statements/statement-82451084ca3a.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-58a7085a398b">
+
+- [00:02:40](/episodes/ep-YPIYYHCNPbE.md#t-00-02-11) [○] (Claim) **Candace Owens**: ["Owens said Tyler Clancy had a private one-on-one meeting with Spencer Cox on the..."](/statements/statement-58a7085a398b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6387e0752204">
+
+- [00:03:02](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) [○] (Claim) **Candace Owens**: ["Owens said Tyler Clancy allegedly was selected to transport Turning Point employ..."](/statements/statement-6387e0752204.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-09b8a6cce564">
+
+- [00:03:13](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) [○] (Claim) **Candace Owens**: ["Owens said she was told the officer in the police radio clip was Tyler Clancy an..."](/statements/statement-09b8a6cce564.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0bc9f7fe673f">
+
+- [00:03:41](/episodes/ep-YPIYYHCNPbE.md#t-00-03-41) [○] (Claim) **Anonymous Source #22 (Ep YPIYYHCNPbE)**: ["The unidentified radio officer, whom Owens identifies as Tyler Clancy without in..."](/statements/statement-0bc9f7fe673f.md)
+  - About: [Sergeant Dupay (identity unverified)](/entities/anon-src-YPIYYHCNPbE-001.md), [Provo Airport](/entities/org-provo-airport.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6bc4f19edb22">
+
+- [00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56) [○] (Accusation) **Candace Owens**: ["Owens reported that Tyler Clancy disposed of a bloodied item belonging to Turnin..."](/statements/statement-6bc4f19edb22.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dc03572627ec">
+
+- [00:04:47](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38) [○] (Claim) **Candace Owens**: ["Owens said she was told that Clancy allegedly gave others a different account: h..."](/statements/statement-dc03572627ec.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bfa2f2619363">
+
+- [00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11) [○] (Opinion) **Candace Owens**: ["Owens said she struggled to believe disposing of a bag covered in a recently mur..."](/statements/statement-bfa2f2619363.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-063f6361c186">
+
+- [00:05:55](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) [○] (Claim) **Candace Owens**: ["Owens said people in Utah told her that Governor Cox’s “boys” were all over the ..."](/statements/statement-063f6361c186.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-44a22c2d813f">
+
+- [00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) [○] (Accusation) **Candace Owens**: ["Owens accused Spencer Cox of declaring a politically motivated assassination wit..."](/statements/statement-44a22c2d813f.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1f8d9d63a4e6">
+
+- [00:07:36](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) [○] (Opinion) **Candace Owens**: ["Owens said Cox’s clothing-change account did not seem like a mere mistake and th..."](/statements/statement-1f8d9d63a4e6.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-51e7ad1a386f">
+
+- [00:07:49](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) [○] (Claim) **Candace Owens**: ["Owens said sources she considered solid and unaware of one another placed Val Pe..."](/statements/statement-51e7ad1a386f.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-92bd0146fafc">
+
+- [00:08:18](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) [○] (Citation) **Candace Owens**: ["Citing Cox’s schedule and an AV company’s LinkedIn photo, Owens said he was keyn..."](/statements/statement-92bd0146fafc.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [LinkedIn](/entities/org-linkedin.md), [Mona, Utah](/entities/gpe-mona-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bd41a9761872">
+
+- [00:08:39](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) [○] (Citation) **Candace Owens**: ["Owens said Cox’s next scheduled event on September 10 was an 11:30 a.m. Utah Dep..."](/statements/statement-bd41a9761872.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Utah Department of Environmental Quality](/entities/org-utah-department-environmental-quality.md), [Murray Park (Murray, Utah)](/entities/gpe-murray-park-utah.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2cf8b684aca2">
+
+- [00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30) [○] (Accusation) **Candace Owens**: ["Owens urged parents to be wary of Club America and Turning Point under Erika Kir..."](/statements/statement-2cf8b684aca2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d4439b4c0e1d">
+
+- [00:11:03](/episodes/ep-YPIYYHCNPbE.md#t-00-10-53) [○] (Claim) **Candace Owens**: ["Owens identified Taylor Dodd as the former president of the Club America chapter..."](/statements/statement-d4439b4c0e1d.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Club America](/entities/org-club-america.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dcb3fdb9afa0">
+
+- [00:12:02](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02) [○] (Citation) **Candace Owens**: ["Citing the Bonners Ferry Herald, Owens said 18-year-old Taylor Dodd was arrested..."](/statements/statement-dcb3fdb9afa0.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Bonners Ferry Herald](/entities/org-bonners-ferry-herald.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4db5843cd00c">
+
+- [00:12:24](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02) [○] (Citation) **Candace Owens**: ["Citing the report and court documents, Owens said an ICAC tip from Discord conce..."](/statements/statement-4db5843cd00c.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Discord](/entities/org-discord.md), [Telegram](/entities/org-telegram.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dda5872cd3f2">
+
+- [00:13:03](/episodes/ep-YPIYYHCNPbE.md#t-00-12-47) [○] (Citation) **Candace Owens**: ["Citing Officer Brandon Blackmore’s report and case documents, Owens said 116 ima..."](/statements/statement-dda5872cd3f2.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Brandon Blackmore](/entities/person-brandon-blackmore.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-11af4e32bca2">
+
+- [00:13:11](/episodes/ep-YPIYYHCNPbE.md#t-00-12-47) [○] (Citation) **Candace Owens**: ["Citing the article and court documents, Owens said Dodd reportedly acknowledged ..."](/statements/statement-11af4e32bca2.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-092a03c2aeeb">
+
+- [00:14:22](/episodes/ep-YPIYYHCNPbE.md#t-00-14-08) [○] (Accusation) **Candace Owens**: ["Owens alleged Turning Point USA tried to scrub its affiliation with Dodd from th..."](/statements/statement-092a03c2aeeb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md), [Taylor Dodd](/entities/person-taylor-dodd.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c757283dc89f">
+
+- [00:15:05](/episodes/ep-YPIYYHCNPbE.md#t-00-14-43) [○] (Claim) **Cora Nichols**: ["In a local letter read by Owens, Cora Nichols described herself as vice presiden..."](/statements/statement-c757283dc89f.md)
+  - About: [Club America](/entities/org-club-america.md), [Bonners Ferry, Idaho](/entities/gpe-bonners-ferry-idaho.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-51ad75193454">
+
+- [00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) [○] (Accusation) **Candace Owens**: ["Owens called Tyler Bowyer a sexual deviant and said Charlie Kirk wanted to fire ..."](/statements/statement-51ad75193454.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eb4340447ae2">
+
+- [00:16:39](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) [○] (Claim) **Candace Owens**: ["Owens said she was told Charlie Kirk established DOGE seven days before his deat..."](/statements/statement-eb4340447ae2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Action](/entities/org-turning-point-action.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fe6a1aad5d07">
+
+- [00:17:07](/episodes/ep-YPIYYHCNPbE.md#t-00-16-53) [○] (Claim) **Candace Owens**: ["Owens said Justin Streiff denied the lead about money missing from Turning Point..."](/statements/statement-fe6a1aad5d07.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9f2d58625a4b">
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) [○] (Claim) **Candace Owens**: ["Owens said Lori Frantzve and Tyler Bowyer worked together through Superfeed and ..."](/statements/statement-9f2d58625a4b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9c4a4cbcfedf">
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) [○] (Accusation) **Candace Owens**: ["Owens wondered whether Lori Frantzve and Tyler Bowyer maybe did something funny ..."](/statements/statement-9c4a4cbcfedf.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6e96797392ab">
+
+- [00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16) [○] (Claim) **Candace Owens**: ["Owens said Tyler Bowyer presented a new Charlie Kirk statue in September and tha..."](/statements/statement-6e96797392ab.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-530baca890eb">
+
+- [00:19:08](/episodes/ep-YPIYYHCNPbE.md#t-00-19-00) [○] (Claim) **Candace Owens**: ["Owens said Turning Point USA headquarters was under heavy surveillance but the o..."](/statements/statement-530baca890eb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12645a563495">
+
+- [00:20:39](/episodes/ep-YPIYYHCNPbE.md#t-00-20-39) [○] (Claim) **Anonymous Source #23 (Ep YPIYYHCNPbE)**: ["The unidentified fundraising clip speaker said participation in the Commit 100 p..."](/statements/statement-12645a563495.md)
+  - About: [Commit 100](/entities/concept-commit-100.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5dd0af555340">
+
+- [00:21:28](/episodes/ep-YPIYYHCNPbE.md#t-00-21-14) [○] (Claim) **Anonymous Source #23 (Ep YPIYYHCNPbE)**: ["The unidentified fundraising clip speaker said friends of Charlie and Erika Kirk..."](/statements/statement-5dd0af555340.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5fabac8b3837">
+
+- [00:21:43](/episodes/ep-YPIYYHCNPbE.md#t-00-21-40) [○] (Claim) **Candace Owens**: ["Owens said the tips apparently had not worked, the statue vandals had not been c..."](/statements/statement-5fabac8b3837.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5f53a17650ee">
+
+- [00:22:35](/episodes/ep-YPIYYHCNPbE.md#t-00-22-19) [○] (Claim) **Turning Point Action**: ["In a fundraising email read by Owens, Turning Point Action said September was it..."](/statements/statement-5f53a17650ee.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e20bae039ae0">
+
+- [00:23:02](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02) [○] (Accusation) **Candace Owens**: ["Owens said she felt the statue incident maybe did not happen as described, that ..."](/statements/statement-e20bae039ae0.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cc0041a70c31">
+
+- [00:28:16](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) [○] (Citation) **Candace Owens**: ["Owens said the Wall Street Journal reported Katie Zacharia had not passed the ba..."](/statements/statement-cc0041a70c31.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [The Wall Street Journal](/entities/org-wall-street-journal.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0f0432c8163d">
+
+- [00:28:24](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) [○] (Claim) **Candace Owens**: ["Owens said Zacharia had consulted Pepperdine’s president and was told she could ..."](/statements/statement-0f0432c8163d.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Pepperdine president cited as adviser in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-019.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-85116d0eaad5">
+
+- [00:28:46](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30) [○] (Citation) **Candace Owens**: ["Owens said Katie Zacharia’s LinkedIn listed her as general counsel."](/statements/statement-85116d0eaad5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [LinkedIn](/entities/org-linkedin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7322aae5937c">
+
+- [00:28:57](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30) [○] (Opinion) **Candace Owens**: ["Owens said Zacharia’s explanation did not make sense to her and did not feel lik..."](/statements/statement-7322aae5937c.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6876663c87e5">
+
+- [00:29:15](/episodes/ep-YPIYYHCNPbE.md#t-00-29-15) [○] (Claim) **Katie Zacharia**: ["In a supercut played by Owens, Katie Zacharia repeatedly called herself a lawyer..."](/statements/statement-6876663c87e5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [China](/entities/gpe-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-66d8be47f506">
+
+- [00:29:57](/episodes/ep-YPIYYHCNPbE.md#t-00-29-57) [○] (Claim) **Katie Zacharia**: ["In a clip played by Owens, Zacharia said she read The Real Anthony Fauci cover t..."](/statements/statement-66d8be47f506.md)
+  - About: [The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health](/entities/work-real-anthony-fauci.md), [Anthony Fauci](/entities/person-anthony-fauci.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-77ec6ce3b6fe">
+
+- [00:30:43](/episodes/ep-YPIYYHCNPbE.md#t-00-30-43) [○] (Claim) **Katie Zacharia**: ["In the Posobiec interview clip, Zacharia said she had preregistered for the bar ..."](/statements/statement-77ec6ce3b6fe.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [China](/entities/gpe-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b0baf76b3602">
+
+- [00:31:52](/episodes/ep-YPIYYHCNPbE.md#t-00-31-26) [○] (Claim) **Katie Zacharia**: ["In the Posobiec interview clip, Zacharia said she was offered a job in Zhonglun ..."](/statements/statement-b0baf76b3602.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Zhong Lun Law Firm](/entities/org-zhong-lun-law-firm.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-92d075483f27">
+
+- [00:32:12](/episodes/ep-YPIYYHCNPbE.md#t-00-31-59) [○] (Claim) **Katie Zacharia**: ["In the Posobiec interview clip, Zacharia said her law degree provided the necess..."](/statements/statement-92d075483f27.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Zhong Lun Law Firm](/entities/org-zhong-lun-law-firm.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-71552b2fdef5">
+
+- [00:32:32](/episodes/ep-YPIYYHCNPbE.md#t-00-32-32) [○] (Claim) **Katie Zacharia**: ["Asked by Posobiec why she did not try the bar again after returning, Zacharia sa..."](/statements/statement-71552b2fdef5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fd4d6b1a0735">
+
+- [00:33:32](/episodes/ep-YPIYYHCNPbE.md#t-00-33-04) [○] (Citation) **Candace Owens**: ["Owens said her research showed the bar exam was administered twice a year, could..."](/statements/statement-fd4d6b1a0735.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c7222b73f118">
+
+- [00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49) [○] (Opinion) **Candace Owens**: ["Owens called the Trump administration a group of liars and sarcastically said Za..."](/statements/statement-c7222b73f118.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-69625fef2e7b">
+
+- [00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32) [○] (Claim) **Candace Owens**: ["Owens characterized Pete Hegseth’s recent proposal as executing the Fort Hood sh..."](/statements/statement-69625fef2e7b.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-36ac7860044d">
+
+- [00:34:58](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32) [○] (Opinion) **Candace Owens**: ["Owens opposed turning an execution into a public livestream, distinguishing supp..."](/statements/statement-36ac7860044d.md)
+  - About: [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bbb659c29bd7">
+
+- [00:36:37](/episodes/ep-YPIYYHCNPbE.md#t-00-36-37) [○] (Opinion) **Charlie Kirk**: ["In the recorded interview, Charlie Kirk said he opposed the death penalty in Ame..."](/statements/statement-bbb659c29bd7.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-78d03eae9cd2">
+
+- [00:37:19](/episodes/ep-YPIYYHCNPbE.md#t-00-37-19) [○] (Prediction) **Charlie Kirk**: ["In the recorded interview, Kirk predicted that actual Bolsheviks taking over wou..."](/statements/statement-78d03eae9cd2.md)
+  - About: [Michael Knowles](/entities/person-michael-knowles.md), [Bolsheviks](/entities/concept-bolsheviks.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-43d115ec874c">
+
+- [00:37:59](/episodes/ep-YPIYYHCNPbE.md#t-00-37-48) [○] (Accusation) **Candace Owens**: ["Owens said that, in her opinion, the “Epstein class” killed Charlie Kirk and set..."](/statements/statement-43d115ec874c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3542af57c374">
+
+- [00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18) [○] (Citation) **Candace Owens**: ["Owens described a Trump Truth Social post as stopping a publicly livestreamed ex..."](/statements/statement-3542af57c374.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md), [Truth Social](/entities/org-truth-social.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e070c4faf23f">
+
+- [00:41:48](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48) [○] (Opinion) **Commenter Danielle (identity unverified)**: ["In a viewer comment read by Owens, Danielle (surname unverified) argued that if ..."](/statements/statement-e070c4faf23f.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f9314ff7dc1b">
+
+- [00:42:10](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48) [○] (Claim) **Candace Owens**: ["Owens said she selected Baron Coleman to take over the show and that they had be..."](/statements/statement-f9314ff7dc1b.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ef419f5e8c4a">
+
+- [00:42:48](/episodes/ep-YPIYYHCNPbE.md#t-00-42-29) [○] (Promise) **Candace Owens**: ["Owens promised to keep going and said she would not be silenced by lawsuits whil..."](/statements/statement-ef419f5e8c4a.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3935c0bc4294">
+
+- [00:44:35](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) [○] (Claim) **Commenter Melissa B (identity unverified)**: ["In a viewer comment read by Owens, Melissa B (surname unverified) said the never..."](/statements/statement-3935c0bc4294.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-81f96e5ff443">
+
+- [00:45:01](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) [○] (Opinion) **Candace Owens**: ["Owens said she thought Erika Kirk and her associates were going to employ an AI ..."](/statements/statement-81f96e5ff443.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6a8666b7d33d">
+
+- [00:47:30](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) [○] (Claim) **Commenter CPTN SL0 (identity unverified)**: ["In a viewer comment read by Owens, CPTN SL0 (identity unverified) said the blood..."](/statements/statement-6a8666b7d33d.md)
+  - About: [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4a4da2c6a527">
+
+- [00:47:38](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) [○] (Claim) **Candace Owens**: ["Responding to a viewer, Owens said the bag offered to Shawn Ryan was Brian Harpo..."](/statements/statement-4a4da2c6a527.md)
+  - About: [Shawn Ryan](/entities/person-shawn-ryan.md), [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dd89c74abaef">
+
+- [00:48:45](/episodes/ep-YPIYYHCNPbE.md#t-00-48-34) [○] (Citation) **Candace Owens**: ["Citing the UVU independent review, Owens said an unidentified fire captain met C..."](/statements/statement-dd89c74abaef.md)
+  - About: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a8b0e5e2cea1">
+
+- [00:49:19](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) [○] (Accusation) **Candace Owens**: ["Owens said she found it very odd that neither Frank Turek nor Brian Harpole ment..."](/statements/statement-a8b0e5e2cea1.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-613ef71948c0">
+
+- [00:49:39](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) [○] (Accusation) **Candace Owens**: ["Owens said she was told the fire-captain information was intentionally being hus..."](/statements/statement-613ef71948c0.md)
+  - About: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-10-14 · Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402</strong> (45)</summary>
@@ -106666,4 +107445,4 @@ _4574 factual claims within 8589 attributed statements._
 
 ---
 
-*Generated: 2026-10-15 10:09:06*
+*Generated: 2026-10-16 10:29:40*

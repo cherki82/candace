@@ -1,6 +1,6 @@
 ---
 title: "Provo Airport"
-description: "Provo Airport (Organizations) - 9 mentions"
+description: "Provo Airport (Organizations) - 10 mentions"
 id: "org-provo-airport"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-01-57">2025-10-30 · 00:02:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-provo-airport-t-00-47-24">2026-09-25 · 00:47:38</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-provo-airport-t-00-03-41">2026-10-15 · 00:03:41</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-provo-airport-t-00-06-54" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-provo-airport-t-00-01-55" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-provo-airport-t-00-47-24" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-provo-airport-t-00-03-41" style="--pulse-height:25%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-provo-airport-t-00-06-54) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-provo-airport-t-00-01-55) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-provo-airport-t-00-47-24) | 2 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-provo-airport-t-00-03-41) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:03:41](/episodes/ep-YPIYYHCNPbE.md#ent-org-provo-airport-t-00-03-41)**
+> "...g unverified) are en route to Provo Airport."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
@@ -119,7 +129,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo Airport (11)</strong></summary>
+<summary><strong class="section-title">Statements about Provo Airport (12)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:03:41](/episodes/ep-YPIYYHCNPbE.md#t-00-03-41) (Claim) **Anonymous Source #22 (Ep YPIYYHCNPbE)** (via quoted speech): ["The unidentified radio officer, whom Owens identifies as Tyler Clancy ..."](/statements/statement-0bc9f7fe673f.md)
+  - Also about: [Sergeant Dupay (identity unverified)](/entities/anon-src-YPIYYHCNPbE-001.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1)</summary>

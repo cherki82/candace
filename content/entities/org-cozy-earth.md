@@ -1,6 +1,6 @@
 ---
 title: "Cozy Earth"
-description: "Cozy Earth (Organizations) - 71 mentions"
+description: "Cozy Earth (Organizations) - 76 mentions"
 id: "org-cozy-earth"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34">2025-09-23 · 00:28:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-cozy-earth-t-00-38-00">2026-10-06 · 00:38:21</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-26-37">2026-10-15 · 00:26:48</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -50,6 +50,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-29-55" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-aLJhpxrakCU.md#ent-org-cozy-earth-t-00-39-50" style="--pulse-height:62%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 5 mentions" title="2026-09-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-cozy-earth-t-00-37-16" style="--pulse-height:62%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 5 mentions" title="2026-10-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-25-54" style="--pulse-height:62%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 5 mentions" title="2026-10-15 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-29-55) | 5 |
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-cozy-earth-t-00-39-50) | 5 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-cozy-earth-t-00-37-16) | 5 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-25-54) | 5 |
 
 </details>
 </section>
@@ -76,7 +78,27 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (5 mentions)</summary>
+
+**[00:26:01](/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-25-54)**
+> "...I have to tell you guys about Cozy Earth because as a mom of four with baby number five on..."
+
+**[00:26:12](/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-25-54)**
+> "And Cozy Earth's sheets have completely changed my bedtime routine..."
+
+**[00:26:31](/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-25-54)**
+> "Cozy Earth makes it easy to give their sheets a try too beca..."
+
+**[00:26:37](/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-26-37)**
+> "...I definitely recommend giving Cozy Earth viscose bamboo sheets a try."
+
+**[00:26:48](/episodes/ep-YPIYYHCNPbE.md#ent-org-cozy-earth-t-00-26-37)**
+> "Head to CozyEarth.com and use code Candace at checkout for up to 20% of..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (5 mentions)</summary>
@@ -370,7 +392,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
@@ -379,6 +401,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:51](/episodes/ep-UBkFkg4UNY8.md#t-00-28-34): “That's why I love Cozy Earth.”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:50](/episodes/ep-aLJhpxrakCU.md#t-00-39-50): “That's twc.health slash CANDACE. Cleanses are available to USA residents only. And I have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I am a big fan of anything that makes the end of my day feel a little more luxurious. curious. I've been sleeping in Cozy Earth's bamboo stretch knit pajamas and getting into bed has honestly become the best part of my night because they are so soft. They're silky smooth with just enough stretch that nothing feels stiff or scratchy.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:28](/episodes/ep-0pSAhaAZz1w.md#t-00-37-16): “I also have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I'm a big fan of anything that makes the end of my day feel a little more luxurious and Cozy Earth's sheets have completely transformed my bedtime routine. They are incredibly soft and silky smooth and they have that really comfortable lightweight feel that makes getting into bed something that I actually look forward to. I also love that they are breathable, especially when I'm running warm at night, but they still feel cozy and comfortable. comfortable when the temperature drops. When you're a mom, a good night's sleep is worth investing in and Cozy Earth makes it easy to give their sheets a try too with a 100 night trial and a 10-year warranty. So there's no risk in trying it. If you're looking to make your bed feel a little more luxurious and to make the end of your day something to look forward to, I definitely recommend giving Cozy Earth's viscose bamboo sheets a try.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:26:37](/episodes/ep-YPIYYHCNPbE.md#t-00-26-37): “There is no risk in trying it so if you're looking to make your bed feel a little more luxurious and make the end of your day something to look forward to I definitely recommend giving Cozy Earth viscose bamboo sheets a try. ... Head to CozyEarth.com and use code Candace at checkout for up to 20% off home and sleepwear. Again that's CozyEarth.com code Candace.”
 
 </details>
 
@@ -388,7 +411,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
@@ -397,6 +420,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:51](/episodes/ep-UBkFkg4UNY8.md#t-00-28-34): “That's why I love Cozy Earth.”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:50](/episodes/ep-aLJhpxrakCU.md#t-00-39-50): “That's twc.health slash CANDACE. Cleanses are available to USA residents only. And I have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I am a big fan of anything that makes the end of my day feel a little more luxurious. curious. I've been sleeping in Cozy Earth's bamboo stretch knit pajamas and getting into bed has honestly become the best part of my night because they are so soft. They're silky smooth with just enough stretch that nothing feels stiff or scratchy.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:28](/episodes/ep-0pSAhaAZz1w.md#t-00-37-16): “I also have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I'm a big fan of anything that makes the end of my day feel a little more luxurious and Cozy Earth's sheets have completely transformed my bedtime routine. They are incredibly soft and silky smooth and they have that really comfortable lightweight feel that makes getting into bed something that I actually look forward to. I also love that they are breathable, especially when I'm running warm at night, but they still feel cozy and comfortable. comfortable when the temperature drops. When you're a mom, a good night's sleep is worth investing in and Cozy Earth makes it easy to give their sheets a try too with a 100 night trial and a 10-year warranty. So there's no risk in trying it. If you're looking to make your bed feel a little more luxurious and to make the end of your day something to look forward to, I definitely recommend giving Cozy Earth's viscose bamboo sheets a try.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:26:37](/episodes/ep-YPIYYHCNPbE.md#t-00-26-37): “There is no risk in trying it so if you're looking to make your bed feel a little more luxurious and make the end of your day something to look forward to I definitely recommend giving Cozy Earth viscose bamboo sheets a try. ... Head to CozyEarth.com and use code Candace at checkout for up to 20% off home and sleepwear. Again that's CozyEarth.com code Candace.”
 
 </details>
 

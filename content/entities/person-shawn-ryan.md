@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 87 mentions"
+description: "Shawn Ryan (People) - 88 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41">2025-11-05 · 00:23:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-shawn-ryan-t-00-31-58">2026-10-08 · 00:32:26</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-shawn-ryan-t-00-47-10">2026-10-15 · 00:47:30</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -73,6 +73,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-person-shawn-ryan-t-00-37-24" style="--pulse-height:10%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-shawn-ryan-t-00-28-07" style="--pulse-height:10%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-shawn-ryan-t-00-31-58" style="--pulse-height:10%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-shawn-ryan-t-00-47-10" style="--pulse-height:10%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -116,6 +117,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-person-shawn-ryan-t-00-37-24) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-shawn-ryan-t-00-28-07) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-shawn-ryan-t-00-31-58) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-shawn-ryan-t-00-47-10) | 1 |
 
 </details>
 </section>
@@ -127,7 +129,15 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:47:30](/episodes/ep-YPIYYHCNPbE.md#ent-person-shawn-ryan-t-00-47-10)**
+> "...e bloodied bag was offered to Shawn Ryan. Sean (Shawn Ryan) declined it because he thought..."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
@@ -728,7 +738,17 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Shawn Ryan (8)</strong></summary>
+<summary><strong class="section-title">Statements about Shawn Ryan (10)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>
+
+- [00:47:30](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) (Claim) **Commenter CPTN SL0 (identity unverified)** (via read message): ["In a viewer comment read by Owens, CPTN SL0 (identity unverified) said..."](/statements/statement-6a8666b7d33d.md)
+
+- [00:47:38](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) (Claim) **Candace Owens**: ["Responding to a viewer, Owens said the bag offered to Shawn Ryan was B..."](/statements/statement-4a4da2c6a527.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1)</summary>

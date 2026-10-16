@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 458 mentions"
+description: "Brian Harpole (People) - 463 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-brian-harpole-t-00-02-03">2026-10-14 · 00:02:12</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>458</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-49-19">2026-10-15 · 00:49:19</a></strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>463</strong></div>
 <div><span>Statements by</span><strong>37</strong></div>
-<div><span>Statements about</span><strong>171</strong></div>
+<div><span>Statements about</span><strong>173</strong></div>
 <div><span>Relationships</span><strong>45</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -100,6 +100,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20" style="--pulse-height:32%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 13 mentions" title="2026-10-08 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-23-44" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-brian-harpole-t-00-02-03" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-46-34" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 5 mentions" title="2026-10-15 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -174,6 +175,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-brian-harpole-t-00-23-20) | 13 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-brian-harpole-t-00-23-44) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-brian-harpole-t-00-02-03) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-46-34) | 5 |
 
 </details>
 </section>
@@ -185,7 +187,27 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (458)</strong></summary>
+<summary><strong class="section-title">Raw mentions (463)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (5 mentions)</summary>
+
+**[00:46:56](/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-46-34)**
+> "... just so absurd to think that Brian Harpole, who I worked with and who I know and who is an i..."
+
+**[00:47:10](/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-47-10)**
+> "...), I could believe more than. Brian Harpole, but it's like if you are going to pretend that y..."
+
+**[00:47:38](/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-47-10)**
+> "No, that's Brian Harpole's bag. It's totally different. And again, this Tyle..."
+
+**[00:47:55](/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-47-55)**
+> "...separate bags and that Brian (Brian Harpole) had nothing to do with the police officer story ..."
+
+**[00:49:19](/episodes/ep-YPIYYHCNPbE.md#ent-person-brian-harpole-t-00-49-19)**
+> "...rations of what happened, nor Brian Harpole in his super fantastic story of all that he did m..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -1980,7 +2002,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1998,6 +2020,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:46:56](/episodes/ep-YPIYYHCNPbE.md#t-00-46-34): “It's just so absurd to think that Brian Harpole, who I worked with and who I know and who is an idiot. ... OK, he is an idiot, was the person that was in control or that Mikey McCoy (Michael McCoy) was the general.”
 
 </details>
 
@@ -2229,7 +2252,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -2247,6 +2270,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:46:56](/episodes/ep-YPIYYHCNPbE.md#t-00-46-34): “It's just so absurd to think that Brian Harpole, who I worked with and who I know and who is an idiot. ... OK, he is an idiot, was the person that was in control or that Mikey McCoy (Michael McCoy) was the general.”
 
 </details>
 
@@ -2396,10 +2420,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:50:05](/episodes/ep-uC_GjKU8rs8.md#t-00-49-36): “And I reached out to him before. I just didn't feel like animosity toward him at all because like I said, I had worked with him.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:46:56](/episodes/ep-YPIYYHCNPbE.md#t-00-46-34): “It's just so absurd to think that Brian Harpole, who I worked with and who I know and who is an idiot.”
 
 </details>
 
@@ -2605,7 +2630,18 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (171)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (173)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>
+
+- [00:47:38](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) (Claim) **Candace Owens**: ["Responding to a viewer, Owens said the bag offered to Shawn Ryan was B..."](/statements/statement-4a4da2c6a527.md)
+  - Also about: [Shawn Ryan](/entities/person-shawn-ryan.md), [Frank Turek](/entities/person-frank-turek.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:49:19](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) (Accusation) **Candace Owens**: ["Owens said she found it very odd that neither Frank Turek nor Brian Ha..."](/statements/statement-a8b0e5e2cea1.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md)
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (10)</summary>

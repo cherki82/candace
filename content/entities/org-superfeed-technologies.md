@@ -1,11 +1,12 @@
 ---
 title: "Superfeed Technologies, Inc."
-description: "Superfeed Technologies, Inc. (Organizations) - 6 mentions"
+description: "Superfeed Technologies, Inc. (Organizations) - 7 mentions"
 id: "org-superfeed-technologies"
 type: "ORG"
 aliases:
   - "Superfeed Technologies"
   - "SUPERFEED TECHNOLOGIES, INC."
+  - "Superfeed"
 categories:
   - "technology company"
   - "Turning Point USA"
@@ -13,7 +14,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Superfeed Technologies, SUPERFEED TECHNOLOGIES, INC.
+**Also known as:** Superfeed Technologies, SUPERFEED TECHNOLOGIES, INC., Superfeed
 
 **Categories:** technology company, Turning Point USA
 
@@ -23,11 +24,11 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01">2026-02-28 · 00:00:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53">2026-03-11 · 00:26:08</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-superfeed-technologies-t-00-17-32">2026-10-15 · 00:17:41</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,14 +38,16 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 <p>Highest activity: <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01">Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53" style="--pulse-height:50%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-superfeed-technologies-t-00-25-53" style="--pulse-height:50%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-superfeed-technologies-t-00-17-32" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01) | 2 |
-| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-superfeed-technologies-t-00-25-53) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-superfeed-technologies-t-00-17-32) | 1 |
 
 </details>
 </section>
@@ -56,12 +59,20 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:17:41](/episodes/ep-YPIYYHCNPbE.md#ent-org-superfeed-technologies-t-00-17-32)**
+> "Brings you back to Erika (Erika Kirk)'s mother, Superfeed. Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie (Charlie Kirk) was ever in the picture. I had wondered out loud if whether or not, when Charlie (Charlie Kirk) began on this pursuit to find the money, if he realized that something was going on, that the money was funny, that Lori Frantzve and Tyler Bowyer maybe did something funny with the money. I don't know."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
 
-**[00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53)**
+**[00:26:08](/episodes/ep-H9p2ZGHAs9A.md#ent-org-superfeed-technologies-t-00-25-53)**
 > "Hotbed factually? Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?"
 
 </details>
@@ -135,7 +146,15 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (7)</strong></summary>
+<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (8)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said Lori Frantzve and Tyler Bowyer worked together through Supe..."](/statements/statement-9f2d58625a4b.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>

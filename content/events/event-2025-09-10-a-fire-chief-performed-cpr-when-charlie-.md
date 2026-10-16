@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > A fire official assisted with CPR when Charlie Kirk reached the hospital after the UVU shooting, according to Owens summarizing the review; the earlier source called the official a fire chief, while this source quotes a Station 2 fire captain.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 3...
 
@@ -52,3 +52,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=UAdBEXs7nNc&t=2489s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the fire captain, pardon me, fire captain that administered CPR to Charlie
+
+### 5. Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The We...
+
+**Episode:** [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md)
+**Timestamp:** [00:48:45](/episodes/ep-YPIYYHCNPbE.md#event-event-2025-09-10-a-fire-chief-performed-cpr-when-charlie--t-00-48-34) 
+<a href="https://www.youtube.com/watch?v=YPIYYHCNPbE&t=2925s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Information pertaining to who the fire captain was who performed CPR.

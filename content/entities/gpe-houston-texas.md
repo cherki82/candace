@@ -1,6 +1,6 @@
 ---
 title: "Houston, Texas"
-description: "Houston, Texas (Places) - 15 mentions"
+description: "Houston, Texas (Places) - 16 mentions"
 id: "gpe-houston-texas"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [City of Houston](https://www.houstontx.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57">2026-01-29 · 01:46:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-houston-texas-t-01-28-37">2026-09-25 · 01:28:42</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-houston-texas-t-00-45-50">2026-10-15 · 00:45:50</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [City of Houston](https://www.houstontx.gov/)
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-gpe-houston-texas-t-00-52-51" style="--pulse-height:100%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-houston-texas-t-00-48-59" style="--pulse-height:50%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-houston-texas-t-01-28-37" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-houston-texas-t-00-45-50" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [City of Houston](https://www.houstontx.gov/)
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-gpe-houston-texas-t-00-52-51) | 2 |
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-houston-texas-t-00-48-59) | 1 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-houston-texas-t-01-28-37) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-houston-texas-t-00-45-50) | 1 |
 
 </details>
 </section>
@@ -70,7 +72,15 @@ Source: [City of Houston](https://www.houstontx.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:45:50](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-houston-texas-t-00-45-50)**
+> "...r who go unchecked. Love from Houston."
+
+</details>
 
 <details>
 <summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Jack Posobiec"
-description: "Jack Posobiec (People) - 16 mentions"
+description: "Jack Posobiec (People) - 20 mentions"
 id: "person-jack-posobiec"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-05">2025-09-22 · 00:48:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jack-posobiec-t-00-18-41">2026-10-01 · 00:18:41</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-jack-posobiec-t-00-32-41">2026-10-15 · 00:32:41</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-jack-posobiec-t-00-06-25" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#t-01-00-32" style="--pulse-height:10%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jack-posobiec-t-00-18-41" style="--pulse-height:10%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-jack-posobiec-t-00-30-17" style="--pulse-height:20%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-jack-posobiec-t-00-06-25) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-01-00-32) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jack-posobiec-t-00-18-41) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-jack-posobiec-t-00-30-17) | 2 |
 
 </details>
 </section>
@@ -57,7 +59,18 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:30:17](/episodes/ep-YPIYYHCNPbE.md#ent-person-jack-posobiec-t-00-30-17)**
+> "...gratefully, she sat down with Jack Posobiec to further explore what actually happened behind ..."
+
+**[00:32:41](/episodes/ep-YPIYYHCNPbE.md#ent-person-jack-posobiec-t-00-32-41)**
+> "...ll, when we moved back, Jack (Jack Posobiec), we got a surprise baby. Our first baby, it's hi..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
@@ -159,6 +172,18 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 </details>
 
 <details>
+<summary>Interviewed (1)</summary>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:30:17](/episodes/ep-YPIYYHCNPbE.md#t-00-30-17): “Sounds like she thinks she's a lawyer. Well, gratefully, she sat down with Jack Posobiec to further explore what actually happened behind the scenes.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -171,7 +196,7 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[United States Navy](/entities/org-united-states-navy.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -184,6 +209,13 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:44](/episodes/ep-ja26iltROkM.md#t-00-49-28): “I've known him from the beginning of my career, and he has always been solid and supportive”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:30:17](/episodes/ep-YPIYYHCNPbE.md#t-00-30-17): “Sounds like she thinks she's a lawyer. Well, gratefully, she sat down with Jack Posobiec to further explore what actually happened behind the scenes.”
 
 </details>
 

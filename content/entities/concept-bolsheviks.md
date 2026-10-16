@@ -1,6 +1,6 @@
 ---
 title: "Bolsheviks"
-description: "Bolsheviks (Concepts) - 19 mentions"
+description: "Bolsheviks (Concepts) - 20 mentions"
 id: "concept-bolsheviks"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-bolsheviks-t-00-56-19">2025-10-29 · 00:56:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32">2026-06-18 · 00:26:40</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-concept-bolsheviks-t-00-37-19">2026-10-15 · 00:37:26</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-bolsheviks-t-00-12-33" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-bolsheviks-t-00-26-01" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-concept-bolsheviks-t-00-37-19" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-bolsheviks-t-00-12-33) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-bolsheviks-t-00-26-01) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32) | 2 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-concept-bolsheviks-t-00-37-19) | 1 |
 
 </details>
 </section>
@@ -70,7 +72,15 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:37:26](/episodes/ep-YPIYYHCNPbE.md#ent-concept-bolsheviks-t-00-37-19)**
+> "...istake, as soon as the actual Bolsheviks take over, they're going to want to bring back th..."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
@@ -193,7 +203,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bolsheviks (4)</strong></summary>
+<summary><strong class="section-title">Statements about Bolsheviks (5)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:37:19](/episodes/ep-YPIYYHCNPbE.md#t-00-37-19) (Prediction) **Charlie Kirk** (via quoted speech): ["In the recorded interview, Kirk predicted that actual Bolsheviks takin..."](/statements/statement-78d03eae9cd2.md)
+  - Also about: [Michael Knowles](/entities/person-michael-knowles.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>

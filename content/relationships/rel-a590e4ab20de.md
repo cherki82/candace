@@ -11,7 +11,7 @@ object: "org-club-america"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) includes [Club America](/entities/org-club-america)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0)**
 
@@ -24,6 +24,10 @@ object: "org-club-america"
 **[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
 
 - [00:30:03](/episodes/ep-NNiCZk1cuzs#t-00-30-03): _And this is taken from what really might be his final presentation on what he wanted for Turning Point USA, which is a very long presentation. ... But this is the portion of what was given in front of Aspen donors. Here's what he said about Club America. ... The high school program is now called Club America. We just hired 80 new full-time people last week. ... This is just full-time people just in the Club America department. What is their job? What do they do?_
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:00:31](/episodes/ep-YPIYYHCNPbE#t-00-00-31): _I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students._
 
 ### Related
 

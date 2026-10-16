@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (65 mentions)
+### Evidence (66 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -184,6 +184,10 @@ object: "person-candace-owens"
 **[DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo)**
 
 - [00:37:35](/episodes/ep-YA1FxrDWNIo#t-00-37-35): _Yeah, I'm putting the fire here right at the feet of Turning Point because I am disgusted._
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:15:35](/episodes/ep-YPIYYHCNPbE#t-00-15-35): _Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this._
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 

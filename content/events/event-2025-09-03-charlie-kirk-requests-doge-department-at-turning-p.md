@@ -12,7 +12,7 @@ date: "2025-09-03"
 
 > Charlie Kirk requests DOGE department at Turning Point USA.
 
-## Mentioned In (14 times)
+## Mentioned In (15 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -128,3 +128,14 @@ date: "2025-09-03"
 
 > **Date stated in this source:** “seven days before he died”
 > **Date review note:** Seven days before the established September 10, 2025 death anchors to September 3, matching the canonical request event; distinguish the separate September 2 announcement memo.
+
+### 15. Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The We...
+
+**Episode:** [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md)
+**Timestamp:** [00:16:39](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) 
+<a href="https://www.youtube.com/watch?v=YPIYYHCNPbE&t=999s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie had established DOGE, as I've said too many times, seven days before he died,
+
+> **Date stated in this source:** “seven days before he died”
+> **Date review note:** Seven days before the established September 10, 2025 death is September 3, matching the existing request event; the separate September 2 announcement memo is not redated.

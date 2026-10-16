@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3436 mentions"
+description: "Erika Kirk (People) - 3444 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,11 +27,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-27-58">2026-10-14 · 00:27:58</a></strong></div>
-<div><span>Episodes</span><strong>167</strong></div>
-<div><span>Mentions</span><strong>3,436</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-44-35">2026-10-15 · 00:44:35</a></strong></div>
+<div><span>Episodes</span><strong>168</strong></div>
+<div><span>Mentions</span><strong>3,444</strong></div>
 <div><span>Statements by</span><strong>133</strong></div>
-<div><span>Statements about</span><strong>1,193</strong></div>
+<div><span>Statements about</span><strong>1,199</strong></div>
 <div><span>Relationships</span><strong>386</strong></div>
 <div><span>Threads</span><strong>5</strong></div>
 </div>
@@ -207,6 +207,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:19%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 16 mentions" title="2026-10-08 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35" style="--pulse-height:14%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 12 mentions" title="2026-10-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-02-53" style="--pulse-height:9%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 8 mentions" title="2026-10-15 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -379,6 +380,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-erika-kirk-t-00-00-01) | 16 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35) | 12 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55) | 4 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-02-53) | 8 |
 
 </details>
 </section>
@@ -394,7 +396,36 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3436)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3444)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (8 mentions)</summary>
+
+**[00:03:02](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-02-53)**
+> "...the airport to pick up Erica (Erika Kirk)."
+
+**[00:10:02](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-09-30)**
+> "...hat makes my skin crawl about Erika Kirk and her pursuit of Club America."
+
+**[00:10:24](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-10-11)**
+> "... at this organization and who Erica has no issue working with."
+
+**[00:10:53](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-10-53)**
+> "...ary of this organization with Erika Kirk at the helm of it."
+
+**[00:14:15](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-14-08)**
+> "...ub America? What goes on with Erika Kirk?"
+
+**[00:17:41](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-17-32)**
+> "Brings you back to Erika (Erika Kirk)'s mother, Superfeed. Lori Frantzve and Tyler Bow..."
+
+**[00:21:28](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-21-14)**
+> "...lie (Charlie Kirk) and Erica (Erika Kirk) that have put up $10,000 reward if anybody has a..."
+
+**[00:44:35](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-44-35)**
+> "...ie Kirk) episodes that Erika (Erika Kirk) and her henchmen were bragging about. Candace, w..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
@@ -12030,7 +12061,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Child Of (2)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -12050,6 +12081,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:31](/episodes/ep-DYD_QHMPwqM.md#t-00-30-24): “Erika Kirk was not with her mother on September 10th. I will say that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:36:56](/episodes/ep-_2DiIbfy4mU.md#t-00-36-37): “He alleges that Erika (Erika Kirk) supplied him with a private text communication between her and her mother from September 8th. Again, nothing about these messages is going to tell us where Erika (Erika Kirk) is. We're not going to be able to say whether she's on Fort Huachuca base, whether she's in Arizona. I've never said that she's in Fort Huachuca. I couldn't tell you. I don't have Mitch (Mitch Snow)'s eyes and these people have been dancing around just giving an answer. They'd rather file a lawsuit than answer a text message. It's bizarre. But here is the text message thread that he showed about her apparently between her and her mother. She's giving this information to Andrew Wilson. I cannot process this in my mind. Mama Lowe, her mother writes, did you make it to the bank? You make the bank? I'm sorry, I am so much work and you're just tapped out. Erika (Erika Kirk) says, no, you're fine. I love you. I just am trying to fit it in. I'm still at the bank.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32): “Brings you back to Erika (Erika Kirk)'s mother, Superfeed. Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie (Charlie Kirk) was ever in the picture. I had wondered out loud if whether or not, when Charlie (Charlie Kirk) began on this pursuit to find the money, if he realized that something was going on, that the money was funny, that Lori Frantzve and Tyler Bowyer maybe did something funny with the money. I don't know.”
 
 </details>
 
@@ -12168,7 +12200,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (14)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -12250,6 +12282,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
 
 </details>
 
@@ -13989,7 +14022,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -14071,6 +14104,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
 
 </details>
 
@@ -15144,7 +15178,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -15164,6 +15198,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:31](/episodes/ep-DYD_QHMPwqM.md#t-00-30-24): “Erika Kirk was not with her mother on September 10th. I will say that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:36:56](/episodes/ep-_2DiIbfy4mU.md#t-00-36-37): “He alleges that Erika (Erika Kirk) supplied him with a private text communication between her and her mother from September 8th. Again, nothing about these messages is going to tell us where Erika (Erika Kirk) is. We're not going to be able to say whether she's on Fort Huachuca base, whether she's in Arizona. I've never said that she's in Fort Huachuca. I couldn't tell you. I don't have Mitch (Mitch Snow)'s eyes and these people have been dancing around just giving an answer. They'd rather file a lawsuit than answer a text message. It's bizarre. But here is the text message thread that he showed about her apparently between her and her mother. She's giving this information to Andrew Wilson. I cannot process this in my mind. Mama Lowe, her mother writes, did you make it to the bank? You make the bank? I'm sorry, I am so much work and you're just tapped out. Erika (Erika Kirk) says, no, you're fine. I love you. I just am trying to fit it in. I'm still at the bank.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32): “Brings you back to Erika (Erika Kirk)'s mother, Superfeed. Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie (Charlie Kirk) was ever in the picture. I had wondered out loud if whether or not, when Charlie (Charlie Kirk) began on this pursuit to find the money, if he realized that something was going on, that the money was funny, that Lori Frantzve and Tyler Bowyer maybe did something funny with the money. I don't know.”
 
 </details>
 
@@ -16023,7 +16058,30 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (1193)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (1199)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6)</summary>
+
+- [00:03:02](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Clancy allegedly was selected to transport Turning Po..."](/statements/statement-6387e0752204.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:41](/episodes/ep-YPIYYHCNPbE.md#t-00-03-41) (Claim) **Anonymous Source #22 (Ep YPIYYHCNPbE)** (via quoted speech): ["The unidentified radio officer, whom Owens identifies as Tyler Clancy ..."](/statements/statement-0bc9f7fe673f.md)
+  - Also about: [Sergeant Dupay (identity unverified)](/entities/anon-src-YPIYYHCNPbE-001.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30) (Accusation) **Candace Owens**: ["Owens urged parents to be wary of Club America and Turning Point under..."](/statements/statement-2cf8b684aca2.md)
+  - Also about: [Club America](/entities/org-club-america.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:21:28](/episodes/ep-YPIYYHCNPbE.md#t-00-21-14) (Claim) **Anonymous Source #23 (Ep YPIYYHCNPbE)** (via quoted speech): ["The unidentified fundraising clip speaker said friends of Charlie and ..."](/statements/statement-5dd0af555340.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:44:35](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) (Claim) **Commenter Melissa B (identity unverified)** (via read message): ["In a viewer comment read by Owens, Melissa B (surname unverified) said..."](/statements/statement-3935c0bc4294.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:01](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) (Opinion) **Candace Owens**: ["Owens said she thought Erika Kirk and her associates were going to emp..."](/statements/statement-81f96e5ff443.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>

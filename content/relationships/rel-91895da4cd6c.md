@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PreBorn!](/entities/org-preborn) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (28 mentions)
+### Evidence (29 mentions)
 
 **[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
 
@@ -76,6 +76,10 @@ object: "person-candace-owens"
 **[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
 
 - [00:26:46](/episodes/ep-Ux1kzgQxkws#t-00-26-46): _That's why Preborn exists through free ultrasounds, compassionate care and real support._
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:24:36](/episodes/ep-YPIYYHCNPbE#t-00-24-36): _Proof that Preborn is not just saving babies, it's rescuing souls. Right now, another mother needs that moment and you can give it to her. ... For just $28, you can help to provide one life-saving ultrasound. $140 can help rescue five babies and all gifts are tax deductible. ... So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

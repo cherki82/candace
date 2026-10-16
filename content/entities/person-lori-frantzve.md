@@ -1,6 +1,6 @@
 ---
 title: "Lori Frantzve"
-description: "Lori Frantzve (People) - 247 mentions"
+description: "Lori Frantzve (People) - 248 mentions"
 id: "person-lori-frantzve"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-53">2026-01-06 · 00:27:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-lori-frantzve-t-00-28-24">2026-09-25 · 00:28:55</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>247</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-lori-frantzve-t-00-17-32">2026-10-15 · 00:17:41</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>248</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>109</strong></div>
+<div><span>Statements about</span><strong>111</strong></div>
 <div><span>Relationships</span><strong>49</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -65,6 +65,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-lori-frantzve-t-00-27-49" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-lori-frantzve-t-00-27-18" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-lori-frantzve-t-00-28-24" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-lori-frantzve-t-00-17-32" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +101,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-lori-frantzve-t-00-27-49) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-lori-frantzve-t-00-27-18) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-lori-frantzve-t-00-28-24) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-lori-frantzve-t-00-17-32) | 1 |
 
 </details>
 </section>
@@ -111,7 +113,15 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (247)</strong></summary>
+<summary><strong class="section-title">Raw mentions (248)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:17:41](/episodes/ep-YPIYYHCNPbE.md#ent-person-lori-frantzve-t-00-17-32)**
+> "...ka Kirk)'s mother, Superfeed. Lori Frantzve and Tyler Bowyer work together. They have known e..."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
@@ -1203,7 +1213,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Parent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1223,6 +1233,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:31](/episodes/ep-DYD_QHMPwqM.md#t-00-30-24): “Erika Kirk was not with her mother on September 10th. I will say that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:36:56](/episodes/ep-_2DiIbfy4mU.md#t-00-36-37): “He alleges that Erika (Erika Kirk) supplied him with a private text communication between her and her mother from September 8th. Again, nothing about these messages is going to tell us where Erika (Erika Kirk) is. We're not going to be able to say whether she's on Fort Huachuca base, whether she's in Arizona. I've never said that she's in Fort Huachuca. I couldn't tell you. I don't have Mitch (Mitch Snow)'s eyes and these people have been dancing around just giving an answer. They'd rather file a lawsuit than answer a text message. It's bizarre. But here is the text message thread that he showed about her apparently between her and her mother. She's giving this information to Andrew Wilson. I cannot process this in my mind. Mama Lowe, her mother writes, did you make it to the bank? You make the bank? I'm sorry, I am so much work and you're just tapped out. Erika (Erika Kirk) says, no, you're fine. I love you. I just am trying to fit it in. I'm still at the bank.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32): “Brings you back to Erika (Erika Kirk)'s mother, Superfeed. Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie (Charlie Kirk) was ever in the picture. I had wondered out loud if whether or not, when Charlie (Charlie Kirk) began on this pursuit to find the money, if he realized that something was going on, that the money was funny, that Lori Frantzve and Tyler Bowyer maybe did something funny with the money. I don't know.”
 
 </details>
 
@@ -1246,11 +1257,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:42](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42): “Oh, Tyler Bowyer, shady dude. They're effectively then business partners. They have been for a while, actually. Lori (Lori Frantzve) was at first a director over at Superfeed.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:29:11](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... blind spot she just can't that's her one category she can't remember is how she knows Tyler Bowyer even though he is in business with her mother and has her at behind trump in 2015 it is my personal opinion that a deal was done when i look at the evidence when i look at everything i'm looking at when i see how duplicitous she was and i know that Charlie (Charlie Kirk) did not know these things because i was there”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:30](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “Tyler (Tyler Bowyer) is sitting on the board of a company with Erica's (Erika Kirk's) mother, Lori Frantzve”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32): “Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie (Charlie Kirk) was ever in the picture.”
 
 </details>
 
@@ -1290,7 +1302,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1310,6 +1322,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:31](/episodes/ep-DYD_QHMPwqM.md#t-00-30-24): “Erika Kirk was not with her mother on September 10th. I will say that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:36:56](/episodes/ep-_2DiIbfy4mU.md#t-00-36-37): “He alleges that Erika (Erika Kirk) supplied him with a private text communication between her and her mother from September 8th. Again, nothing about these messages is going to tell us where Erika (Erika Kirk) is. We're not going to be able to say whether she's on Fort Huachuca base, whether she's in Arizona. I've never said that she's in Fort Huachuca. I couldn't tell you. I don't have Mitch (Mitch Snow)'s eyes and these people have been dancing around just giving an answer. They'd rather file a lawsuit than answer a text message. It's bizarre. But here is the text message thread that he showed about her apparently between her and her mother. She's giving this information to Andrew Wilson. I cannot process this in my mind. Mama Lowe, her mother writes, did you make it to the bank? You make the bank? I'm sorry, I am so much work and you're just tapped out. Erika (Erika Kirk) says, no, you're fine. I love you. I just am trying to fit it in. I'm still at the bank.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32): “Brings you back to Erika (Erika Kirk)'s mother, Superfeed. Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie (Charlie Kirk) was ever in the picture. I had wondered out loud if whether or not, when Charlie (Charlie Kirk) began on this pursuit to find the money, if he realized that something was going on, that the money was funny, that Lori Frantzve and Tyler Bowyer maybe did something funny with the money. I don't know.”
 
 </details>
 
@@ -1477,7 +1490,18 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (109)</strong></summary>
+<summary><strong class="section-title">Statements about Lori Frantzve (111)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said Lori Frantzve and Tyler Bowyer worked together through Supe..."](/statements/statement-9f2d58625a4b.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) (Accusation) **Candace Owens**: ["Owens wondered whether Lori Frantzve and Tyler Bowyer maybe did someth..."](/statements/statement-9c4a4cbcfedf.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+</details>
 
 <details>
 <summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (3)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 278 mentions"
+description: "Kash Patel (People) - 280 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:08:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-46-12">2026-10-06 · 00:46:30</a></strong></div>
-<div><span>Episodes</span><strong>86</strong></div>
-<div><span>Mentions</span><strong>278</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40">2026-10-15 · 00:06:48</a></strong></div>
+<div><span>Episodes</span><strong>87</strong></div>
+<div><span>Mentions</span><strong>280</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
 <div><span>Statements about</span><strong>77</strong></div>
-<div><span>Relationships</span><strong>33</strong></div>
+<div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -123,6 +123,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-29-54" style="--pulse-height:38%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-kash-patel-t-00-53-24" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-27-07" style="--pulse-height:31%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40" style="--pulse-height:15%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -214,6 +215,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-kash-patel-t-00-29-54) | 5 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-kash-patel-t-00-53-24) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-27-07) | 4 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40) | 2 |
 
 </details>
 </section>
@@ -225,7 +227,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (278)</strong></summary>
+<summary><strong class="section-title">Raw mentions (280)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:06:40](/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40)**
+> ".... He was standing in front of Kash Patel and he said the shooter changed clothes on the ro..."
+
+**[00:06:48](/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40)**
+> "...fusion. He reported that with Kash Patel behind him on September 12th. So long after the F..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (4 mentions)</summary>
@@ -1502,6 +1515,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Spencer Cox](/entities/person-spencer-cox.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:48](/episodes/ep-YPIYYHCNPbE.md#t-00-06-40): “He also was the one who put out the narrative. He was standing in front of Kash Patel and he said the shooter changed clothes on the roof. ... And I want to be clear, he didn't say that amongst chaos and confusion. He reported that with Kash Patel behind him on September 12th. So long after the FBI had secured and reviewed the footage. Take a listen.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Appointed (1)</summary>
 
 - **[Robert Bohls](/entities/person-robert-bohls.md)**
@@ -1712,7 +1737,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Referenced By (16)</summary>
+<summary>Referenced By (17)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1720,6 +1745,13 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:29:15](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Kash Patel blocked any investigation into whether or not foreign actors could have been involved, said, oh, there's no evidence for that, because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:33:21](/episodes/ep-4JxgOclKzqg.md#t-00-33-14): “You have a right to look at this and go, hey, it's very strange that Kash Patel apparently shut down Joe Kent, who wanted to investigate whether or not there are foreign ties.”
+
+</details>
+
+- **[Spencer Cox](/entities/person-spencer-cox.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:48](/episodes/ep-YPIYYHCNPbE.md#t-00-06-40): “He also was the one who put out the narrative. He was standing in front of Kash Patel and he said the shooter changed clothes on the roof. ... And I want to be clear, he didn't say that amongst chaos and confusion. He reported that with Kash Patel behind him on September 12th. So long after the FBI had secured and reviewed the footage. Take a listen.”
 
 </details>
 

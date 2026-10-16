@@ -1,6 +1,6 @@
 ---
 title: "Spencer Cox"
-description: "Spencer Cox (People) - 56 mentions"
+description: "Spencer Cox (People) - 65 mentions"
 id: "person-spencer-cox"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-spencer-cox-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-06-40">2026-10-14 · 00:06:40</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-47-55">2026-10-15 · 00:48:21</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -52,6 +52,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-04-49" style="--pulse-height:38%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-01-33" style="--pulse-height:88%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 7 mentions" title="2026-10-15 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-spencer-cox-t-00-08-24) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-04-49) | 3 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-01-33) | 7 |
 
 </details>
 </section>
@@ -84,7 +86,33 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (7 mentions)</summary>
+
+**[00:01:33](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-01-33)**
+> "...thing regarding Governor Cox (Spencer Cox)'s public schedule during the week of September 1..."
+
+**[00:05:55](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-05-55)**
+> "...w zeroing in on Governor Cox (Spencer Cox) is because people in Utah say that Governor Cox ..."
+
+**[00:06:07](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-05-55)**
+> "...nd they're like Governor Cox (Spencer Cox) has like, you know, the Cox boys and now he's go..."
+
+**[00:06:19](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-05-55)**
+> "..., long ago that Governor Cox (Spencer Cox) lies."
+
+**[00:06:23](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-05-55)**
+> "..., it was it was Governor Cox (Spencer Cox) that was the one telling us instantly that this ..."
+
+**[00:48:11](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-47-55)**
+> "... hear back from Governor Cox (Spencer Cox)'s office."
+
+**[00:48:21](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-47-55)**
+> "...formation about Governor Cox (Spencer Cox) and promotions. I did see one in my inbox, which..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
@@ -328,6 +356,18 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Kash Patel](/entities/person-kash-patel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:48](/episodes/ep-YPIYYHCNPbE.md#t-00-06-40): “He also was the one who put out the narrative. He was standing in front of Kash Patel and he said the shooter changed clothes on the roof. ... And I want to be clear, he didn't say that amongst chaos and confusion. He reported that with Kash Patel behind him on September 12th. So long after the FBI had secured and reviewed the footage. Take a listen.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Appointed (3)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
@@ -358,11 +398,12 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05): “Governor Cox is a bad man. I'm telling you that right now, Governor Cox is a very bad man.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in. It just, it struck. struck them as odd that they would they were saying what he was wearing an outfit that he was not wearing so we had included uh that little tidbit on our original timeline when the police the washington county police knew that it was tyler robinson which was again by seven o'clock p.m they were all texting each other they had said they initially had planned to pick him up in warner valley but and this is a part that has not come out since that he was buying a gun that tyler”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:29:09](/episodes/ep-2WEHTk0Xewg.md#t-00-29-01): “I don't like Governor Cox. Vibes, okay? Vibes.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55): “He's a politician. He speaks. He lies. That's not that shocking. But beyond that, if you remember early on in the investigation, it was it was Governor Cox (Spencer Cox) that was the one telling us instantly that this was a politically motivated assassination, despite no evidence confirming that at that time.”
 
 </details>
 
@@ -386,9 +427,10 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary>Met With (1)</summary>
 
 - **[Tyler Clancy](/entities/person-tyler-clancy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33): “All right. So in case you missed it yesterday, I did pin a comment beneath our episode after one of you guys back home, one of you sleuths instantly emailed us and noticed something regarding Governor Cox (Spencer Cox)'s public schedule during the week of September 10th. You'll remember yesterday we were noting how odd it was that the governor had no apparent schedule for September 9th or the 10th, despite September being an extremely busy season for politicians. ... Officer House of Rep Tyler Clancy had that private one-on-one meeting with the governor. So that happened on the 9th.”
 
 </details>
 
@@ -407,7 +449,14 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
+
+- **[Kash Patel](/entities/person-kash-patel.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:48](/episodes/ep-YPIYYHCNPbE.md#t-00-06-40): “He also was the one who put out the narrative. He was standing in front of Kash Patel and he said the shooter changed clothes on the roof. ... And I want to be clear, he didn't say that amongst chaos and confusion. He reported that with Kash Patel behind him on September 12th. So long after the FBI had secured and reviewed the footage. Take a listen.”
+
+</details>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -432,11 +481,12 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05): “Governor Cox is a bad man. I'm telling you that right now, Governor Cox is a very bad man.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in. It just, it struck. struck them as odd that they would they were saying what he was wearing an outfit that he was not wearing so we had included uh that little tidbit on our original timeline when the police the washington county police knew that it was tyler robinson which was again by seven o'clock p.m they were all texting each other they had said they initially had planned to pick him up in warner valley but and this is a part that has not come out since that he was buying a gun that tyler”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:29:09](/episodes/ep-2WEHTk0Xewg.md#t-00-29-01): “I don't like Governor Cox. Vibes, okay? Vibes.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55): “He's a politician. He speaks. He lies. That's not that shocking. But beyond that, if you remember early on in the investigation, it was it was Governor Cox (Spencer Cox) that was the one telling us instantly that this was a politically motivated assassination, despite no evidence confirming that at that time.”
 
 </details>
 
@@ -450,9 +500,10 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 - **[Tyler Clancy](/entities/person-tyler-clancy.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33): “All right. So in case you missed it yesterday, I did pin a comment beneath our episode after one of you guys back home, one of you sleuths instantly emailed us and noticed something regarding Governor Cox (Spencer Cox)'s public schedule during the week of September 10th. You'll remember yesterday we were noting how odd it was that the governor had no apparent schedule for September 9th or the 10th, despite September being an extremely busy season for politicians. ... Officer House of Rep Tyler Clancy had that private one-on-one meeting with the governor. So that happened on the 9th.”
 
 </details>
 
@@ -536,7 +587,34 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (17)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (25)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (8)</summary>
+
+- [00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33) (Citation) **Candace Owens**: ["Owens corrected her prior report that Governor Spencer Cox had no sche..."](/statements/statement-82451084ca3a.md)
+
+- [00:02:40](/episodes/ep-YPIYYHCNPbE.md#t-00-02-11) (Claim) **Candace Owens**: ["Owens said Tyler Clancy had a private one-on-one meeting with Spencer ..."](/statements/statement-58a7085a398b.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:05:55](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) (Claim) **Candace Owens** (via paraphrase): ["Owens said people in Utah told her that Governor Cox’s “boys” were all..."](/statements/statement-063f6361c186.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) (Accusation) **Candace Owens**: ["Owens accused Spencer Cox of declaring a politically motivated assassi..."](/statements/statement-44a22c2d813f.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:07:36](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) (Opinion) **Candace Owens**: ["Owens said Cox’s clothing-change account did not seem like a mere mist..."](/statements/statement-1f8d9d63a4e6.md)
+
+- [00:07:49](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) (Claim) **Candace Owens** (via paraphrase): ["Owens said sources she considered solid and unaware of one another pla..."](/statements/statement-51e7ad1a386f.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md)
+
+- [00:08:18](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) (Citation) **Candace Owens**: ["Citing Cox’s schedule and an AV company’s LinkedIn photo, Owens said h..."](/statements/statement-92bd0146fafc.md)
+  - Also about: [LinkedIn](/entities/org-linkedin.md), [Mona, Utah](/entities/gpe-mona-utah.md)
+
+- [00:08:39](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) (Citation) **Candace Owens**: ["Owens said Cox’s next scheduled event on September 10 was an 11:30 a.m..."](/statements/statement-bd41a9761872.md)
+  - Also about: [Utah Department of Environmental Quality](/entities/org-utah-department-environmental-quality.md), [Murray Park (Murray, Utah)](/entities/gpe-murray-park-utah.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>

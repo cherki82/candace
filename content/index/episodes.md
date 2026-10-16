@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 183_
+_Total episodes: 184_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -25,6 +25,7 @@ _Total episodes: 183_
 
 ## Week of Oct 12 - 18, 2026
 
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md) — Thu, Oct 15
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md) — Wed, Oct 14
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md) — Tue, Oct 13
 

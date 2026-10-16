@@ -1,6 +1,6 @@
 ---
 title: "The Wall Street Journal"
-description: "The Wall Street Journal (Organizations) - 10 mentions"
+description: "The Wall Street Journal (Organizations) - 11 mentions"
 id: "org-wall-street-journal"
 type: "ORG"
 aliases:
@@ -23,13 +23,13 @@ Source: [Exclusive: Ye, Formerly Kanye West, Tells VF About His WSJ Apology Adve
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00">2025-10-06 · 00:36:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-wall-street-journal-t-00-42-05">2026-09-08 · 00:42:36</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-wall-street-journal-t-00-27-57">2026-10-15 · 00:28:16</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -43,6 +43,7 @@ Source: [Exclusive: Ye, Formerly Kanye West, Tells VF About His WSJ Apology Adve
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-wall-street-journal-t-00-43-34" style="--pulse-height:33%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-wall-street-journal-t-00-41-41" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-wall-street-journal-t-00-42-05" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-wall-street-journal-t-00-27-57" style="--pulse-height:33%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,14 +56,27 @@ Source: [Exclusive: Ye, Formerly Kanye West, Tells VF About His WSJ Apology Adve
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-wall-street-journal-t-00-43-34) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-wall-street-journal-t-00-41-41) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-wall-street-journal-t-00-42-05) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-wall-street-journal-t-00-27-57) | 1 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How the Zacharia legal-credentials objection narrowed](/threads/thread-zacharia-legal-credentials-dispute) — Tracks Owens's law-degree challenge, Zacharia's quoted practice-and-credentials defense, and Owens's subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:28:16](/episodes/ep-YPIYYHCNPbE.md#ent-org-wall-street-journal-t-00-27-57)**
+> "...the story. But anyways, yeah, Wall Street Journal broke the news that she did not pass the bar exam..."
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -135,5 +149,18 @@ Source: [Exclusive: Ye, Formerly Kanye West, Tells VF About His WSJ Apology Adve
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about The Wall Street Journal (1)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:28:16](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) (Citation) **Candace Owens**: ["Owens said the Wall Street Journal reported Katie Zacharia had not pas..."](/statements/statement-cc0041a70c31.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</details>
 
 </details>

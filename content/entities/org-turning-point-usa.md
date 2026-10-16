@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2434 mentions"
+description: "Turning Point USA (Organizations) - 2451 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-44-03">2026-10-14 · 00:44:03</a></strong></div>
-<div><span>Episodes</span><strong>179</strong></div>
-<div><span>Mentions</span><strong>2,434</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-43-55">2026-10-15 · 00:44:09</a></strong></div>
+<div><span>Episodes</span><strong>180</strong></div>
+<div><span>Mentions</span><strong>2,451</strong></div>
 <div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>1,036</strong></div>
+<div><span>Statements about</span><strong>1,045</strong></div>
 <div><span>Relationships</span><strong>258</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
@@ -219,6 +219,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-turning-point-usa-t-00-23-20" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 6 mentions" title="2026-10-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38" style="--pulse-height:21%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 17 mentions" title="2026-10-15 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -403,6 +404,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-turning-point-usa-t-00-23-20) | 4 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45) | 6 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39) | 5 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38) | 17 |
 
 </details>
 </section>
@@ -415,7 +417,63 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2434)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2451)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (17 mentions)</summary>
+
+**[00:00:38](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38)**
+> "...don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and..."
+
+**[00:00:49](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38)**
+> "Well, a recent arrest that Turning Point USA tried to scrub any affiliation from might help yo..."
+
+**[00:03:02](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-02-53)**
+> "...who was selected to transport turning point employees to the airport to pick up Erica (Erika ..."
+
+**[00:04:03](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-03-56)**
+> "...loodied item that belonged to Turning Point USA or one of their affiliates. And we deduced that i..."
+
+**[00:12:33](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-12-02)**
+> "...ot happening with Discord and Turning Point USA."
+
+**[00:14:15](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-14-08)**
+> "What goes on with Turning Point USA? What goes on with Turning Point Faith and Club A..."
+
+**[00:14:30](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-14-08)**
+> "...his had just happened because Turning Point dealt with it like they deal with everything."
+
+**[00:14:43](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-14-43)**
+> "... in, as we did, Bonners Ferry TPUSA president trying to figure to confirm that that w..."
+
+**[00:15:35](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-15-27)**
+> "... was not a chronic issue when Turning Point USA began. Now, not until all the money came in from ..."
+
+**[00:15:49](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-15-27)**
+> "Not until Turning Point got heaven focused, focused on heaven, did this s..."
+
+**[00:16:53](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-16-53)**
+> "...e Kirk) personally outside of turning point USA."
+
+**[00:17:26](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-16-53)**
+> "So you either believe a turning point employee or you don't believe a turning point emp..."
+
+**[00:19:13](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-19-00)**
+> "Everybody knows turning point USA headquarters is under heavy surveillance, heavy s..."
+
+**[00:20:22](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-20-22)**
+> "Well, after Statuegate, Turning Point USA's response was to direct people not to the tax-dedu..."
+
+**[00:23:15](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-23-02)**
+> "...putes, but people who work at Turning Point USA dispute what Justin Streiff says."
+
+**[00:42:48](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-42-29)**
+> "...ening, that are tangential to Turning Point USA."
+
+**[00:44:09](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-43-55)**
+> "...stantly call BS like I was at Turning Point USA."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
@@ -8810,7 +8868,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -8877,6 +8935,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 
 </details>
 
@@ -9274,7 +9333,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Formerly Employed (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
@@ -9290,6 +9349,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#t-00-31-51): “as a person who worked at Turning Point USA, who toured with Charlie (Charlie Kirk) the most”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:09:38](/episodes/ep-aLJhpxrakCU.md#t-00-09-30): “And to be clear, I'm not guessing here. I worked for Turning Point USA. On every tour that I went on thereafter, I brought in my own security team to each and every event.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:00:34](/episodes/ep-bIuvTKlFeGo.md#t-00-00-01): “We've been committed. I've pointed out things my experience working for Turning Point USA immediately told you things that were off about September 10th.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:09](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “I wouldn't have gone to work for The Daily Wire. I see them totally differently now. And so I feel like my eyes were opened at the exact right moment to then reflect and to know things about how things work so I can instantly call BS like I was at Turning Point USA.”
 
 </details>
 
@@ -9847,19 +9907,21 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Includes (3)</summary>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24): “the campaign arm of Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:16](/episodes/ep-O4Zw3bCALjU.md#t-00-39-08): “They're not looking, they're not seeking the public's help in trying to figure out who did this. this. Rather, they're all in unison essentially telling us that we should give to turning point action, which is not the 501c3 charitable arm, right? That's their 501c4. And they're basically like, you should sign up and head to turning point action. That's what we can do to deal with this.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:20:22](/episodes/ep-YPIYYHCNPbE.md#t-00-20-22): “Well, after Statuegate, Turning Point USA's response was to direct people not to the tax-deductible charitable arm, the 501(c)(3), but rather to Tyler Bowyer's Turning Point Action 501(c)(4) arm.”
 
 </details>
 
 - **[Club America](/entities/org-club-america.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:30:32](/episodes/ep-I0OaY6Gryqk.md#t-00-30-07): “Last week, a couple of weeks ago, she made that sheepish appearance next to Sarah Huckabee Sanders, and Sarah Huckabee Sanders was signing the proclamation on behalf of Club America, which is Turning Point USA's incursion into high schools, buyer beware.”
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:30:03](/episodes/ep-NNiCZk1cuzs.md#t-00-29-51): “And this is taken from what really might be his final presentation on what he wanted for Turning Point USA, which is a very long presentation. ... But this is the portion of what was given in front of Aspen donors. Here's what he said about Club America. ... The high school program is now called Club America. We just hired 80 new full-time people last week. ... This is just full-time people just in the Club America department. What is their job? What do they do?”
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:28:52](/episodes/ep-BvthGQw3_s0.md#t-00-28-52): “Perfect example, case in point, Erika (Erika Kirk) does this event in Idaho. Club America event, okay, they then publish it onto X and promote it as though this was a tremendously successful Club America event where the idea here, you're meant to infer 500 plus students at a Club America event today in Idaho fired up because 500 outstanding high school students attended the TPUSA Club America tour stop.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
 
 </details>
 
@@ -10271,7 +10333,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10339,6 +10401,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 
 </details>
 
@@ -10472,7 +10535,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:08](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25): “I know how it works because I came from Turning Point USA, okay? I have toured with them every year—with the exception of this year—since I started working for Charlie”
@@ -10491,6 +10554,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#t-00-31-51): “as a person who worked at Turning Point USA, who toured with Charlie (Charlie Kirk) the most”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:09:38](/episodes/ep-aLJhpxrakCU.md#t-00-09-30): “And to be clear, I'm not guessing here. I worked for Turning Point USA. On every tour that I went on thereafter, I brought in my own security team to each and every event.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:00:34](/episodes/ep-bIuvTKlFeGo.md#t-00-00-01): “We've been committed. I've pointed out things my experience working for Turning Point USA immediately told you things that were off about September 10th.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:09](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “I wouldn't have gone to work for The Daily Wire. I see them totally differently now. And so I feel like my eyes were opened at the exact right moment to then reflect and to know things about how things work so I can instantly call BS like I was at Turning Point USA.”
 
 </details>
 
@@ -10759,19 +10823,21 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** part of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24): “the campaign arm of Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:16](/episodes/ep-O4Zw3bCALjU.md#t-00-39-08): “They're not looking, they're not seeking the public's help in trying to figure out who did this. this. Rather, they're all in unison essentially telling us that we should give to turning point action, which is not the 501c3 charitable arm, right? That's their 501c4. And they're basically like, you should sign up and head to turning point action. That's what we can do to deal with this.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:20:22](/episodes/ep-YPIYYHCNPbE.md#t-00-20-22): “Well, after Statuegate, Turning Point USA's response was to direct people not to the tax-deductible charitable arm, the 501(c)(3), but rather to Tyler Bowyer's Turning Point Action 501(c)(4) arm.”
 
 </details>
 
 - **[Club America](/entities/org-club-america.md)** part of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:30:32](/episodes/ep-I0OaY6Gryqk.md#t-00-30-07): “Last week, a couple of weeks ago, she made that sheepish appearance next to Sarah Huckabee Sanders, and Sarah Huckabee Sanders was signing the proclamation on behalf of Club America, which is Turning Point USA's incursion into high schools, buyer beware.”
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 @ 00:30:03](/episodes/ep-NNiCZk1cuzs.md#t-00-29-51): “And this is taken from what really might be his final presentation on what he wanted for Turning Point USA, which is a very long presentation. ... But this is the portion of what was given in front of Aspen donors. Here's what he said about Club America. ... The high school program is now called Club America. We just hired 80 new full-time people last week. ... This is just full-time people just in the Club America department. What is their job? What do they do?”
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:28:52](/episodes/ep-BvthGQw3_s0.md#t-00-28-52): “Perfect example, case in point, Erika (Erika Kirk) does this event in Idaho. Club America event, okay, they then publish it onto X and promote it as though this was a tremendously successful Club America event where the idea here, you're meant to infer 500 plus students at a Club America event today in Idaho fired up because 500 outstanding high school students attended the TPUSA Club America tour stop.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
 
 </details>
 
@@ -11404,7 +11470,36 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (1036)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (1045)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (9)</summary>
+
+- [00:03:02](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Clancy allegedly was selected to transport Turning Po..."](/statements/statement-6387e0752204.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56) (Accusation) **Candace Owens** (via paraphrase): ["Owens reported that Tyler Clancy disposed of a bloodied item belonging..."](/statements/statement-6bc4f19edb22.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30) (Accusation) **Candace Owens**: ["Owens urged parents to be wary of Club America and Turning Point under..."](/statements/statement-2cf8b684aca2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+- [00:14:22](/episodes/ep-YPIYYHCNPbE.md#t-00-14-08) (Accusation) **Candace Owens**: ["Owens alleged Turning Point USA tried to scrub its affiliation with Do..."](/statements/statement-092a03c2aeeb.md)
+  - Also about: [Club America](/entities/org-club-america.md), [Taylor Dodd](/entities/person-taylor-dodd.md), [Cora Nichols](/entities/person-cora-nichols.md)
+
+- [00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Bowyer presented a new Charlie Kirk statue in Septemb..."](/statements/statement-6e96797392ab.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:08](/episodes/ep-YPIYYHCNPbE.md#t-00-19-00) (Claim) **Candace Owens**: ["Owens said Turning Point USA headquarters was under heavy surveillance..."](/statements/statement-530baca890eb.md)
+
+- [00:21:43](/episodes/ep-YPIYYHCNPbE.md#t-00-21-40) (Claim) **Candace Owens**: ["Owens said the tips apparently had not worked, the statue vandals had ..."](/statements/statement-5fabac8b3837.md)
+
+- [00:23:02](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02) (Accusation) **Candace Owens**: ["Owens said she felt the statue incident maybe did not happen as descri..."](/statements/statement-e20bae039ae0.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:42:48](/episodes/ep-YPIYYHCNPbE.md#t-00-42-29) (Promise) **Candace Owens**: ["Owens promised to keep going and said she would not be silenced by law..."](/statements/statement-ef419f5e8c4a.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>

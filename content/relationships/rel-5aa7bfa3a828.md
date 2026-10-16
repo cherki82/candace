@@ -11,7 +11,7 @@ object: "org-prageru"
 
 ## [Candace Owens](/entities/person-candace-owens) formerly worked for [PragerU](/entities/org-prageru)
 
-### Evidence (12 mentions)
+### Evidence (13 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -45,6 +45,10 @@ object: "org-prageru"
 
 - [00:00:06](/episodes/ep-YA1FxrDWNIo#t-00-00-06): _when I was working for Prager University._
 - [00:06:29](/episodes/ep-YA1FxrDWNIo#t-00-06-29): _when I was working for Prager University._
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:44:03](/episodes/ep-YPIYYHCNPbE#t-00-44-03): _And I think that I was intentionally blinded because if I had not been blinded, I wouldn't have gone to work for PragerU._
 
 **[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
 

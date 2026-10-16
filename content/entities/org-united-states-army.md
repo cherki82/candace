@@ -1,6 +1,6 @@
 ---
 title: "United States Army"
-description: "United States Army (Organizations) - 70 mentions"
+description: "United States Army (Organizations) - 71 mentions"
 id: "org-united-states-army"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44">2025-09-30 · 00:28:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#t-00-07-34">2026-09-16 · 00:07:34</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>70</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-united-states-army-t-00-38-18">2026-10-15 · 00:38:18</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -65,6 +65,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58" style="--pulse-height:55%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#t-00-19-20" style="--pulse-height:55%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-aLJhpxrakCU.md#t-00-07-34" style="--pulse-height:9%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-united-states-army-t-00-38-18" style="--pulse-height:9%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +100,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58) | 6 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-00-19-20) | 6 |
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#t-00-07-34) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-united-states-army-t-00-38-18) | 1 |
 
 </details>
 </section>
@@ -110,7 +112,15 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:38:18](/episodes/ep-YPIYYHCNPbE.md#ent-org-united-states-army-t-00-38-18)**
+> "...asan, who was the former U.S. Army major turned traitor,"
+
+</details>
 
 <details>
 <summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>
@@ -485,7 +495,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Formerly Employed (2)</summary>
+<summary>Formerly Employed (3)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -498,6 +508,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Paul E. Vallely, retired Army general”
+
+</details>
+
+- **[Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18): “Nidal Malik Hasan, who was the former U.S. Army major turned traitor,”
 
 </details>
 
@@ -540,7 +557,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -560,6 +577,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Paul E. Vallely, retired Army general”
+
+</details>
+
+- **[Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18): “Nidal Malik Hasan, who was the former U.S. Army major turned traitor,”
 
 </details>
 

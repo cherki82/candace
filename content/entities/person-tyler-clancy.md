@@ -1,6 +1,6 @@
 ---
 title: "Tyler Clancy"
-description: "Tyler Clancy (People) - 31 mentions"
+description: "Tyler Clancy (People) - 40 mentions"
 id: "person-tyler-clancy"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-13-10">2026-10-13 · 00:13:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-07-22">2026-10-14 · 00:07:33</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-47-55">2026-10-15 · 00:47:55</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-13-10" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 27 mentions" title="2026-10-13 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-06-40" style="--pulse-height:15%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-02-53" style="--pulse-height:33%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 9 mentions" title="2026-10-15 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 |---|---|---:|
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-clancy-t-00-13-10) | 27 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-tyler-clancy-t-00-06-40) | 4 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-02-53) | 9 |
 
 </details>
 </section>
@@ -51,7 +53,39 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (9 mentions)</summary>
+
+**[00:02:53](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-02-53)**
+> "Officer House of Rep Tyler Clancy had that private one-on-one meeting with the gove..."
+
+**[00:03:02](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-02-53)**
+> "...have already shared with you, Tyler Clancy allegedly was the person who was selected to tran..."
+
+**[00:03:13](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-02-53)**
+> "...'m told that this is actually Tyler Clancy speaking over the police radio regarding that pic..."
+
+**[00:04:03](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-03-56)**
+> "... reported that it was Officer Tyler Clancy, who at some point that same day or evening, depe..."
+
+**[00:04:47](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-04-38)**
+> "...elf. And it seems that Tyler (Tyler Clancy), as I am told, told a slightly varied story to o..."
+
+**[00:05:11](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-05-11)**
+> "...have from all of this is that Tyler Clancy played a significant role on September 10th. And ..."
+
+**[00:08:02](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-07-34)**
+> "... having spent an evening with Tyler Clancy on the 9th, a bizarre coincidence, and he, as you..."
+
+**[00:47:38](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-47-10)**
+> "...ly different. And again, this Tyler Clancy story is that the officer did throw out the bag a..."
+
+**[00:47:55](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-clancy-t-00-47-55)**
+> "...new information pertaining to Tyler Clancy."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
@@ -201,9 +235,10 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right? A couple of thoughts here. My first thought was, what officer in their right mind would dispose of a bloodied item? Rather than moving it immediately into evidence on the day of the biggest assassination since JFK (John F. Kennedy), especially while the killer is still actively on the loose. We don't have any information. We don't know if Charlie (Charlie Kirk) was set up by those around him. We don't know if the killer, even if he is caught, was acting alone. We don't know anything. It just seems like an extraordinary thing to just dispose of a bloodied item as an officer.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11): “We'll see. The takeaway that I want you to have from all of this is that Tyler Clancy played a significant role on September 10th. And frankly, I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim.”
 
 </details>
 
@@ -262,9 +297,10 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 <summary>Met With (1)</summary>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33): “All right. So in case you missed it yesterday, I did pin a comment beneath our episode after one of you guys back home, one of you sleuths instantly emailed us and noticed something regarding Governor Cox (Spencer Cox)'s public schedule during the week of September 10th. You'll remember yesterday we were noting how odd it was that the governor had no apparent schedule for September 9th or the 10th, despite September being an extremely busy season for politicians. ... Officer House of Rep Tyler Clancy had that private one-on-one meeting with the governor. So that happened on the 9th.”
 
 </details>
 
@@ -307,9 +343,10 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right? A couple of thoughts here. My first thought was, what officer in their right mind would dispose of a bloodied item? Rather than moving it immediately into evidence on the day of the biggest assassination since JFK (John F. Kennedy), especially while the killer is still actively on the loose. We don't have any information. We don't know if Charlie (Charlie Kirk) was set up by those around him. We don't know if the killer, even if he is caught, was acting alone. We don't know anything. It just seems like an extraordinary thing to just dispose of a bloodied item as an officer.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11): “We'll see. The takeaway that I want you to have from all of this is that Tyler Clancy played a significant role on September 10th. And frankly, I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim.”
 
 </details>
 
@@ -350,9 +387,10 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 </details>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40): “In examining his published schedule that week in general, we did discover that Governor Cox (Spencer Cox) had a meeting on September 2nd with none other than Provo Police Officer Tyler Clancy. ... This is again the published schedule on his website. You can see that at 5 p.m. he had a meeting with Representative Tyler Clancy at his mansion, not Tyler (Tyler Clancy)'s mansion, at the governor's mansion.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33): “All right. So in case you missed it yesterday, I did pin a comment beneath our episode after one of you guys back home, one of you sleuths instantly emailed us and noticed something regarding Governor Cox (Spencer Cox)'s public schedule during the week of September 10th. You'll remember yesterday we were noting how odd it was that the governor had no apparent schedule for September 9th or the 10th, despite September being an extremely busy season for politicians. ... Officer House of Rep Tyler Clancy had that private one-on-one meeting with the governor. So that happened on the 9th.”
 
 </details>
 
@@ -368,7 +406,31 @@ Source: [Utah House Judiciary Standing Committee minutes, February 23, 2026](htt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Clancy (19)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Clancy (26)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (7)</summary>
+
+- [00:02:40](/episodes/ep-YPIYYHCNPbE.md#t-00-02-11) (Claim) **Candace Owens**: ["Owens said Tyler Clancy had a private one-on-one meeting with Spencer ..."](/statements/statement-58a7085a398b.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:03:02](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Clancy allegedly was selected to transport Turning Po..."](/statements/statement-6387e0752204.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:13](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) (Claim) **Candace Owens** (via paraphrase): ["Owens said she was told the officer in the police radio clip was Tyler..."](/statements/statement-09b8a6cce564.md)
+
+- [00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56) (Accusation) **Candace Owens** (via paraphrase): ["Owens reported that Tyler Clancy disposed of a bloodied item belonging..."](/statements/statement-6bc4f19edb22.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:04:47](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38) (Claim) **Candace Owens** (via paraphrase): ["Owens said she was told that Clancy allegedly gave others a different ..."](/statements/statement-dc03572627ec.md)
+
+- [00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11) (Opinion) **Candace Owens**: ["Owens said she struggled to believe disposing of a bag covered in a re..."](/statements/statement-bfa2f2619363.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:38](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) (Claim) **Candace Owens**: ["Responding to a viewer, Owens said the bag offered to Shawn Ryan was B..."](/statements/statement-4a4da2c6a527.md)
+  - Also about: [Shawn Ryan](/entities/person-shawn-ryan.md), [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>

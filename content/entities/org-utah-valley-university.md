@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 455 mentions"
+description: "Utah Valley University (Organizations) - 457 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-12-28">2026-10-14 · 00:12:58</a></strong></div>
-<div><span>Episodes</span><strong>96</strong></div>
-<div><span>Mentions</span><strong>455</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-48-34">2026-10-15 · 00:48:54</a></strong></div>
+<div><span>Episodes</span><strong>97</strong></div>
+<div><span>Mentions</span><strong>457</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>212</strong></div>
+<div><span>Statements about</span><strong>213</strong></div>
 <div><span>Relationships</span><strong>51</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -136,6 +136,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13" style="--pulse-height:9%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 4 mentions" title="2026-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40" style="--pulse-height:32%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 15 mentions" title="2026-10-13 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55" style="--pulse-height:11%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-07-09" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -237,6 +238,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-utah-valley-university-t-00-19-13) | 4 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40) | 15 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55) | 5 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-07-09) | 2 |
 
 </details>
 </section>
@@ -248,7 +250,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (455)</strong></summary>
+<summary><strong class="section-title">Raw mentions (457)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:07:20](/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-07-09)**
+> "...n before the shooting here at UVU."
+
+**[00:48:54](/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-48-34)**
+> "...he hospital, according to the UVU independent review."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
@@ -2547,7 +2560,15 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (212)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (213)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:48:45](/episodes/ep-YPIYYHCNPbE.md#t-00-48-34) (Citation) **Candace Owens**: ["Citing the UVU independent review, Owens said an unidentified fire cap..."](/statements/statement-dd89c74abaef.md)
+  - Also about: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>

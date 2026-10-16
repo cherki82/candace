@@ -1,6 +1,6 @@
 ---
 title: "Michael Knowles"
-description: "Michael Knowles (People) - 26 mentions"
+description: "Michael Knowles (People) - 27 mentions"
 id: "person-michael-knowles"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06">2025-09-23 · 00:34:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-knowles-t-00-49-01">2026-08-31 · 00:49:30</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-michael-knowles-t-00-37-33">2026-10-15 · 00:37:33</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-michael-knowles-t-00-06-47" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-knowles-t-00-47-14" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-knowles-t-00-37-46" style="--pulse-height:29%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-michael-knowles-t-00-37-33" style="--pulse-height:14%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-michael-knowles-t-00-06-47) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-michael-knowles-t-00-47-14) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-knowles-t-00-37-46) | 2 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-michael-knowles-t-00-37-33) | 1 |
 
 </details>
 </section>
@@ -77,7 +79,15 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:37:33](/episodes/ep-YPIYYHCNPbE.md#ent-person-michael-knowles-t-00-37-33)**
+> "The idea that Michael Knowles and Charlie (Charlie Kirk) could still be in a gu..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -337,7 +347,15 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael Knowles (4)</strong></summary>
+<summary><strong class="section-title">Statements about Michael Knowles (5)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:37:19](/episodes/ep-YPIYYHCNPbE.md#t-00-37-19) (Prediction) **Charlie Kirk** (via quoted speech): ["In the recorded interview, Kirk predicted that actual Bolsheviks takin..."](/statements/statement-78d03eae9cd2.md)
+  - Also about: [Bolsheviks](/entities/concept-bolsheviks.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

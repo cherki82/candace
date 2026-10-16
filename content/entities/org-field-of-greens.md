@@ -1,6 +1,6 @@
 ---
 title: "Field of Greens"
-description: "Field of Greens (Organizations) - 31 mentions"
+description: "Field of Greens (Organizations) - 33 mentions"
 id: "org-field-of-greens"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-field-of-greens-t-00-29-46">2025-09-18 · 00:30:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11">2026-08-14 · 02:32:46</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-field-of-greens-t-00-41-09">2026-10-15 · 00:41:18</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -45,6 +45,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-field-of-greens-t-00-25-24" style="--pulse-height:60%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-field-of-greens-t-00-45-13" style="--pulse-height:40%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-field-of-greens-t-00-40-23" style="--pulse-height:40%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-field-of-greens-t-00-25-24) | 3 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-field-of-greens-t-00-45-13) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11) | 2 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-field-of-greens-t-00-40-23) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:40:56](/episodes/ep-YPIYYHCNPbE.md#ent-org-field-of-greens-t-00-40-23)**
+> "...o want to tell you guys about Field of Greens because I am always looking past the headlines an..."
+
+**[00:41:18](/episodes/ep-YPIYYHCNPbE.md#ent-org-field-of-greens-t-00-41-09)**
+> "...hem? That's one reason I like Field of Greens because their focus is on quality, transparency, ..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
@@ -221,10 +234,11 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:03](/episodes/ep-uC_GjKU8rs8.md#t-00-42-54): “It keeps you tired and weak. That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are dehydrated and ground into a.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:26:07](/episodes/ep-puuMVxEu5NU.md#t-00-25-24): “That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:41:18](/episodes/ep-YPIYYHCNPbE.md#t-00-41-09): “process and can I trust what's actually inside of them? That's one reason I like Field of Greens because their focus is on quality, transparency, and bringing together fruits and vegetables in a convenient daily formula. ... If you want to try it, use code CANDACE for 20% off your first order at fieldofgreens.com. That's code Candace at fieldofgreens.com.”
 
 </details>
 
@@ -234,10 +248,11 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:03](/episodes/ep-uC_GjKU8rs8.md#t-00-42-54): “It keeps you tired and weak. That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are dehydrated and ground into a.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:26:07](/episodes/ep-puuMVxEu5NU.md#t-00-25-24): “That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:41:18](/episodes/ep-YPIYYHCNPbE.md#t-00-41-09): “process and can I trust what's actually inside of them? That's one reason I like Field of Greens because their focus is on quality, transparency, and bringing together fruits and vegetables in a convenient daily formula. ... If you want to try it, use code CANDACE for 20% off your first order at fieldofgreens.com. That's code Candace at fieldofgreens.com.”
 
 </details>
 

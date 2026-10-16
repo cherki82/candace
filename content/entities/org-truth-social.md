@@ -1,6 +1,6 @@
 ---
 title: "Truth Social"
-description: "Truth Social (Organizations) - 21 mentions"
+description: "Truth Social (Organizations) - 23 mentions"
 id: "org-truth-social"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-truth-social-t-00-47-28">2025-10-09 · 00:47:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27">2026-06-13 · 00:16:27</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-truth-social-t-00-39-39">2026-10-15 · 00:39:39</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-truth-social-t-00-59-27" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-01" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-truth-social-t-00-38-18" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-truth-social-t-00-59-27) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-01) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-truth-social-t-00-38-18) | 2 |
 
 </details>
 </section>
@@ -69,7 +71,18 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:38:18](/episodes/ep-YPIYYHCNPbE.md#ent-org-truth-social-t-00-38-18)**
+> "...mp (Donald Trump) did issue a truth social post where where he established that Nidal Malik ..."
+
+**[00:39:39](/episodes/ep-YPIYYHCNPbE.md#ent-org-truth-social-t-00-39-39)**
+> "...ay, he did acknowledge in his truth social post, Donald Trump said that the execution can be..."
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
@@ -199,7 +212,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Truth Social (3)</strong></summary>
+<summary><strong class="section-title">Statements about Truth Social (4)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18) (Citation) **Candace Owens** (via paraphrase): ["Owens described a Trump Truth Social post as stopping a publicly lives..."](/statements/statement-3542af57c374.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>

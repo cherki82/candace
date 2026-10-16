@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Spencer Cox](/entities/person-spencer-cox) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:40:11](/episodes/ep-7ERqbYElOfs#t-00-40-11): _Governor Cox is a bad man. I'm telling you that right now, Governor Cox is a very bad man._
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:06:23](/episodes/ep-YPIYYHCNPbE#t-00-06-23): _He's a politician. He speaks. He lies. That's not that shocking. But beyond that, if you remember early on in the investigation, it was it was Governor Cox (Spencer Cox) that was the one telling us instantly that this was a politically motivated assassination, despite no evidence confirming that at that time._
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 

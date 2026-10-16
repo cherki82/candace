@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Field of Greens](/entities/org-field-of-greens) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:41:18](/episodes/ep-YPIYYHCNPbE#t-00-41-18): _process and can I trust what's actually inside of them? That's one reason I like Field of Greens because their focus is on quality, transparency, and bringing together fruits and vegetables in a convenient daily formula. ... If you want to try it, use code CANDACE for 20% off your first order at fieldofgreens.com. That's code Candace at fieldofgreens.com._
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

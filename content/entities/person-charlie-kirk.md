@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 6894 mentions"
+description: "Charlie Kirk (People) - 6927 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-45-02">2026-10-14 · 00:45:02</a></strong></div>
-<div><span>Episodes</span><strong>183</strong></div>
-<div><span>Mentions</span><strong>6,894</strong></div>
-<div><span>Statements by</span><strong>134</strong></div>
-<div><span>Statements about</span><strong>2,261</strong></div>
-<div><span>Relationships</span><strong>397</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-49-19">2026-10-15 · 00:49:43</a></strong></div>
+<div><span>Episodes</span><strong>184</strong></div>
+<div><span>Mentions</span><strong>6,927</strong></div>
+<div><span>Statements by</span><strong>136</strong></div>
+<div><span>Statements about</span><strong>2,275</strong></div>
+<div><span>Relationships</span><strong>399</strong></div>
 <div><span>Threads</span><strong>4</strong></div>
 </div>
 
@@ -220,6 +220,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:34%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 37 mentions" title="2026-10-08 · 37 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 20 mentions" title="2026-10-13 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:20%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 22 mentions" title="2026-10-14 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-00-38" style="--pulse-height:27%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 29 mentions" title="2026-10-15 · 29 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -408,6 +409,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-charlie-kirk-t-00-00-01) | 37 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01) | 20 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01) | 22 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-00-38) | 29 |
 
 </details>
 </section>
@@ -422,7 +424,99 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6894)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6927)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (29 mentions)</summary>
+
+**[00:01:02](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-00-38)**
+> "... alleged vandalization of the Charlie Kirk statue that happened back in September, followed ..."
+
+**[00:04:24](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-03-56)**
+> "...e, according to him, Charlie (Charlie Kirk)'s body had been on top of it in the car during t..."
+
+**[00:05:55](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-05-55)**
+> "...Cox)'s boys were all over the Charlie Kirk case."
+
+**[00:11:20](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-10-53)**
+> "... he actually gave a speech at Charlie Kirk's vigil."
+
+**[00:11:28](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-11-28)**
+> "...xperience having met Charlie (Charlie Kirk) when he was young. Fast forward just one year an..."
+
+**[00:16:31](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-16-10)**
+> "And Charlie (Charlie Kirk) wanted to fire. Tyler Bowyer before he passed. T..."
+
+**[00:16:39](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-16-10)**
+> "...that the reason that Charlie (Charlie Kirk) had established DOGE, as I've said too many time..."
+
+**[00:16:53](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-16-53)**
+> "...as somebody who knew Charlie (Charlie Kirk) personally outside of turning point USA."
+
+**[00:17:00](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-16-53)**
+> "...ion was missing. And Charlie (Charlie Kirk) wanted to know where it went. The money disappea..."
+
+**[00:17:41](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-17-32)**
+> "...h other since before Charlie (Charlie Kirk) was ever in the picture. I had wondered out loud..."
+
+**[00:18:33](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-18-16)**
+> "...e presented the newly erected Charlie Kirk statue in front of headquarters."
+
+**[00:18:42](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-18-16)**
+> "...tatue in memorial of Charlie (Charlie Kirk)."
+
+**[00:21:07](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-20-39)**
+> "...er than yourself, as Charlie (Charlie Kirk) would always say."
+
+**[00:21:28](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-21-14)**
+> "...have some friends of Charlie (Charlie Kirk) and Erica (Erika Kirk) that have put up $10,000 ..."
+
+**[00:23:15](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-23-02)**
+> "...at we know about how Charlie (Charlie Kirk) felt about Turning Point action allegedly, which..."
+
+**[00:36:34](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-36-15)**
+> "Charlie Kirk, take a listen."
+
+**[00:37:06](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-37-06)**
+> "Charlie Kirks (people like Charlie Kirk) of—[overlapping 'No'; speaker uncertain]—the wor..."
+
+**[00:37:12](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-37-12)**
+> "[Charlie Kirk] Oh, [Interview host] ...know, but... [Charlie Ki..."
+
+**[00:37:33](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-37-33)**
+> "... Michael Knowles and Charlie (Charlie Kirk) could still be in a gulag"
+
+**[00:37:51](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-37-48)**
+> "And of course, Charlie (Charlie Kirk) was not speaking about Pete Hegseth. He was not ..."
+
+**[00:37:59](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-37-48)**
+> "...ion, the Epstein class killed Charlie Kirk."
+
+**[00:43:59](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-43-55)**
+> "...t's why I reflect on Charlie (Charlie Kirk) knowing he was going to die and me not taking hi..."
+
+**[00:44:35](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-44-35)**
+> "...he never-before-seen Charlie (Charlie Kirk) episodes that Erika (Erika Kirk) and her henchme..."
+
+**[00:45:01](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-44-35)**
+> "...e going to employ AI Charlie (Charlie Kirk). I mean, they were having discussions with peopl..."
+
+**[00:47:10](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-47-10)**
+> "... of medicine to give Charlie (Charlie Kirk), please don't say doing the medical."
+
+**[00:48:21](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-47-55)**
+> "...at was tangential to Charlie (Charlie Kirk) on the 10th."
+
+**[00:48:54](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-48-34)**
+> "On Charlie (Charlie Kirk) when he arrived to the hospital, met them at the..."
+
+**[00:49:43](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-49-19)**
+> "...ld be a hero. You try to save Charlie Kirk's life."
+
+**[00:37:26](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-37-12)**
+> "Right. But make make no mistake, as soon as the actual Bolsheviks take over, they're going to want to bring back the guillotine. Right."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (22 mentions)</summary>
@@ -23403,7 +23497,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Met With (20)</summary>
+<summary>Met With (21)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -23559,6 +23653,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
+
+</details>
+
+- **[Taylor Dodd](/entities/person-taylor-dodd.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:11:20](/episodes/ep-YPIYYHCNPbE.md#t-00-10-53): “His name is Taylor Dodd. When he was 17 years old, he actually gave a speech at Charlie Kirk's vigil. ... And, um, he gave testimony regarding his experience having met Charlie (Charlie Kirk) when he was young. Fast forward just one year and, unfortunately for Dodd, just a couple weeks ago he was arrested. And you will never guess for what. Just kidding, you will definitely guess for what. I'm gonna, I'm gonna take it to the chat. What do you guys, what do you guys think?”
 
 </details>
 
@@ -23956,7 +24057,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (204)</summary>
+<summary>Referenced By (205)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -25262,6 +25363,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Taylor Dodd](/entities/person-taylor-dodd.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:11:20](/episodes/ep-YPIYYHCNPbE.md#t-00-10-53): “His name is Taylor Dodd. When he was 17 years old, he actually gave a speech at Charlie Kirk's vigil. ... And, um, he gave testimony regarding his experience having met Charlie (Charlie Kirk) when he was young. Fast forward just one year and, unfortunately for Dodd, just a couple weeks ago he was arrested. And you will never guess for what. Just kidding, you will definitely guess for what. I'm gonna, I'm gonna take it to the chat. What do you guys, what do you guys think?”
+
+</details>
+
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)** owned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -25752,7 +25860,18 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Charlie Kirk (134)</strong></summary>
+<summary><strong class="section-title">Statements by Charlie Kirk (136)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>
+
+- [00:36:37](/episodes/ep-YPIYYHCNPbE.md#t-00-36-37) [○] (Opinion) ["In the recorded interview, Charlie Kirk said he opposed the death penalty in Ame..."](/statements/statement-bbb659c29bd7.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:19](/episodes/ep-YPIYYHCNPbE.md#t-00-37-19) [○] (Prediction) ["In the recorded interview, Kirk predicted that actual Bolsheviks taking over wou..."](/statements/statement-78d03eae9cd2.md)
+  - About: [Michael Knowles](/entities/person-michael-knowles.md), [Bolsheviks](/entities/concept-bolsheviks.md)
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>
@@ -26440,7 +26559,53 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (2261)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (2275)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (14)</summary>
+
+- [00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56) (Accusation) **Candace Owens** (via paraphrase): ["Owens reported that Tyler Clancy disposed of a bloodied item belonging..."](/statements/statement-6bc4f19edb22.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11) (Opinion) **Candace Owens**: ["Owens said she struggled to believe disposing of a bag covered in a re..."](/statements/statement-bfa2f2619363.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:05:55](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) (Claim) **Candace Owens** (via paraphrase): ["Owens said people in Utah told her that Governor Cox’s “boys” were all..."](/statements/statement-063f6361c186.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:11:03](/episodes/ep-YPIYYHCNPbE.md#t-00-10-53) (Claim) **Candace Owens**: ["Owens identified Taylor Dodd as the former president of the Club Ameri..."](/statements/statement-d4439b4c0e1d.md)
+  - Also about: [Taylor Dodd](/entities/person-taylor-dodd.md), [Club America](/entities/org-club-america.md), [Bonners Ferry, Idaho](/entities/gpe-bonners-ferry-idaho.md)
+
+- [00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) (Accusation) **Candace Owens**: ["Owens called Tyler Bowyer a sexual deviant and said Charlie Kirk wante..."](/statements/statement-51ad75193454.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:16:39](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) (Claim) **Candace Owens** (via paraphrase): ["Owens said she was told Charlie Kirk established DOGE seven days befor..."](/statements/statement-eb4340447ae2.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
+
+- [00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Bowyer presented a new Charlie Kirk statue in Septemb..."](/statements/statement-6e96797392ab.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:21:28](/episodes/ep-YPIYYHCNPbE.md#t-00-21-14) (Claim) **Anonymous Source #23 (Ep YPIYYHCNPbE)** (via quoted speech): ["The unidentified fundraising clip speaker said friends of Charlie and ..."](/statements/statement-5dd0af555340.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:36:37](/episodes/ep-YPIYYHCNPbE.md#t-00-36-37) (Opinion) **Charlie Kirk** (via quoted speech): ["In the recorded interview, Charlie Kirk said he opposed the death pena..."](/statements/statement-bbb659c29bd7.md)
+
+- [00:37:59](/episodes/ep-YPIYYHCNPbE.md#t-00-37-48) (Accusation) **Candace Owens**: ["Owens said that, in her opinion, the “Epstein class” killed Charlie Ki..."](/statements/statement-43d115ec874c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:44:35](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) (Claim) **Commenter Melissa B (identity unverified)** (via read message): ["In a viewer comment read by Owens, Melissa B (surname unverified) said..."](/statements/statement-3935c0bc4294.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:45:01](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) (Opinion) **Candace Owens**: ["Owens said she thought Erika Kirk and her associates were going to emp..."](/statements/statement-81f96e5ff443.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:48:45](/episodes/ep-YPIYYHCNPbE.md#t-00-48-34) (Citation) **Candace Owens**: ["Citing the UVU independent review, Owens said an unidentified fire cap..."](/statements/statement-dd89c74abaef.md)
+  - Also about: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:49:19](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) (Accusation) **Candace Owens**: ["Owens said she found it very odd that neither Frank Turek nor Brian Ha..."](/statements/statement-a8b0e5e2cea1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (6)</summary>

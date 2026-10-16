@@ -1,6 +1,6 @@
 ---
 title: "Charles Loritz Peterson (source-named; identity unverified)"
-description: "Charles Loritz Peterson (source-named; identity unverified) (Anonymous Sources) - 4 mentions"
+description: "Charles Loritz Peterson (source-named; identity unverified) (Anonymous Sources) - 5 mentions"
 id: "anon-src-6jOEN9rBePU-001"
 type: "ANONYMOUS_SOURCE"
 categories:
@@ -17,9 +17,9 @@ Source: [Candace Ep 402 — source attribution](https://www.youtube.com/watch?v=
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#t-00-08-06">2026-10-14 · 00:08:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#t-00-13-43">2026-10-14 · 00:14:01</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#t-00-09-30">2026-10-15 · 00:09:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -31,12 +31,14 @@ Source: [Candace Ep 402 — source attribution](https://www.youtube.com/watch?v=
 <p>Highest activity: <a href="/episodes/ep-6jOEN9rBePU.md#t-00-08-06">Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-6jOEN9rBePU.md#t-00-08-06" style="--pulse-height:100%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#t-00-09-30" style="--pulse-height:25%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#t-00-08-06) | 4 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [Candace Ep 402 — source attribution](https://www.youtube.com/watch?v=
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:09:30](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30)**
+> "We will keep you guys posted. Now, regarding Val Peterson, the man, the myth, the legend, the alleged most powerful man in the States, now that we have discovered, as we did, that his brother Charles (Val Peterson's brother; full name unverified), Chuck (same person), Chuckie boy (same person) over there has some legal issues, and that's me putting it mildly."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
@@ -95,9 +105,10 @@ Source: [Candace Ep 402 — source attribution](https://www.youtube.com/watch?v=
 </details>
 
 - **[Val L. Peterson](/entities/person-val-peterson.md)** sibling of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:13:35](/episodes/ep-6jOEN9rBePU.md#t-00-13-10): “Born in Nampa, Idaho. So that's interesting. Anyway, Val (Val Peterson)'s brother Charles (Charles Loritz Peterson) was additionally charged in Meridian with four counts of soliciting a child.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:09:30](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “We will keep you guys posted. Now, regarding Val Peterson, the man, the myth, the legend, the alleged most powerful man in the States, now that we have discovered, as we did, that his brother Charles (Val Peterson's brother; full name unverified), Chuck (same person), Chuckie boy (same person) over there has some legal issues, and that's me putting it mildly.”
 
 </details>
 

@@ -3,7 +3,7 @@ title: "Event Explorer"
 description: "Search structured events and compare their dated transcript mentions."
 ---
 
-<div class="research-kicker">Event desk · 2,108 events · 3,653 transcript mentions</div>
+<div class="research-kicker">Event desk · 2,117 events · 3,677 transcript mentions</div>
 
 # Event Explorer
 

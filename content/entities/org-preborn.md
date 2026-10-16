@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 265 mentions"
+description: "PreBorn! (Organizations) - 271 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-preborn-t-00-23-47">2026-10-14 · 00:23:47</a></strong></div>
-<div><span>Episodes</span><strong>84</strong></div>
-<div><span>Mentions</span><strong>265</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-preborn-t-00-24-24">2026-10-15 · 00:24:59</a></strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>271</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -121,6 +121,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-13" style="--pulse-height:71%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 5 mentions" title="2026-10-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-29" style="--pulse-height:57%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-preborn-t-00-22-32" style="--pulse-height:57%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-preborn-t-00-24-24" style="--pulse-height:43%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 3 mentions" title="2026-10-15 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -210,6 +211,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-preborn-t-00-31-13) | 5 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-preborn-t-00-35-29) | 4 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-preborn-t-00-22-32) | 4 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-preborn-t-00-24-24) | 3 |
 
 </details>
 </section>
@@ -217,7 +219,21 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (265)</strong></summary>
+<summary><strong class="section-title">Raw mentions (271)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (3 mentions)</summary>
+
+**[00:24:36](/episodes/ep-YPIYYHCNPbE.md#ent-org-preborn-t-00-24-24)**
+> "Proof that Preborn is not just saving babies, it's rescuing souls. R..."
+
+**[00:24:51](/episodes/ep-YPIYYHCNPbE.md#ent-org-preborn-t-00-24-24)**
+> "...hat's pound 250 baby or visit preborn.com."
+
+**[00:24:59](/episodes/ep-YPIYYHCNPbE.md#ent-org-preborn-t-00-24-24)**
+> "dot com slash Candace. That's preborn dot com slash Candace. I also want to remind you ..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
@@ -1407,7 +1423,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1437,6 +1453,7 @@ Source: [PreBorn!](https://preborn.com/)
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:24:36](/episodes/ep-YPIYYHCNPbE.md#t-00-24-24): “Proof that Preborn is not just saving babies, it's rescuing souls. Right now, another mother needs that moment and you can give it to her. ... For just $28, you can help to provide one life-saving ultrasound. $140 can help rescue five babies and all gifts are tax deductible. ... So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com.”
 
 </details>
 
@@ -1463,7 +1480,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1493,6 +1510,7 @@ Source: [PreBorn!](https://preborn.com/)
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:24:36](/episodes/ep-YPIYYHCNPbE.md#t-00-24-24): “Proof that Preborn is not just saving babies, it's rescuing souls. Right now, another mother needs that moment and you can give it to her. ... For just $28, you can help to provide one life-saving ultrasound. $140 can help rescue five babies and all gifts are tax deductible. ... So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com.”
 
 </details>
 

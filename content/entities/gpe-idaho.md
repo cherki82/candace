@@ -1,6 +1,6 @@
 ---
 title: "Idaho"
-description: "Idaho (Places) - 21 mentions"
+description: "Idaho (Places) - 23 mentions"
 id: "gpe-idaho"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of Idaho](https://idaho.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-idaho-t-00-56-45">2025-10-30 · 00:56:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-17-07">2026-10-14 · 00:17:33</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-idaho-t-00-14-08">2026-10-15 · 00:14:08</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,6 +42,7 @@ Source: [State of Idaho](https://idaho.gov/)
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-09-06" style="--pulse-height:40%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#t-00-08-47" style="--pulse-height:20%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-11-49" style="--pulse-height:100%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-idaho-t-00-10-53" style="--pulse-height:40%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [State of Idaho](https://idaho.gov/)
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-idaho-t-01-09-06) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-08-47) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-idaho-t-00-11-49) | 5 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-idaho-t-00-10-53) | 2 |
 
 </details>
 </section>
@@ -66,7 +68,18 @@ Source: [State of Idaho](https://idaho.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:11:03](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-idaho-t-00-10-53)**
+> "... of a Club America chapter in Idaho, or rather, I should say, he's the now former pre..."
+
+**[00:14:08](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-idaho-t-00-14-08)**
+> "What goes on in Idaho, ladies and gentlemen? What goes on in Idaho? Wha..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>

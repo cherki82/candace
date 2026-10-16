@@ -1,6 +1,6 @@
 ---
 title: "Pete Hegseth"
-description: "Pete Hegseth (People) - 42 mentions"
+description: "Pete Hegseth (People) - 44 mentions"
 id: "person-pete-hegseth"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17">2026-03-10 · 00:02:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07">2026-10-06 · 00:04:41</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-37-48">2026-10-15 · 00:37:51</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -51,6 +51,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-pete-hegseth-t-00-52-57" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-pete-hegseth-t-00-29-09" style="--pulse-height:10%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07" style="--pulse-height:10%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-34-32" style="--pulse-height:20%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-pete-hegseth-t-00-52-57) | 1 |
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-pete-hegseth-t-00-29-09) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-34-32) | 2 |
 
 </details>
 </section>
@@ -83,7 +85,18 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:34:32](/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-34-32)**
+> "... administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind o..."
+
+**[00:37:51](/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-37-48)**
+> "... Kirk) was not speaking about Pete Hegseth. He was not speaking about Donald Trump. And that..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
@@ -319,11 +332,12 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
 
 </details>
 
@@ -385,11 +399,12 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
 
 </details>
 
@@ -454,7 +469,15 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pete Hegseth (14)</strong></summary>
+<summary><strong class="section-title">Statements about Pete Hegseth (15)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Pete Hegseth’s recent proposal as executing the Fo..."](/statements/statement-69625fef2e7b.md)
+  - Also about: [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>

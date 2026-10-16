@@ -1,6 +1,6 @@
 ---
 title: "Anthony Fauci"
-description: "Anthony Fauci (People) - 7 mentions"
+description: "Anthony Fauci (People) - 8 mentions"
 id: "person-anthony-fauci"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-anthony-fauci-t-00-21-55">2025-10-30 · 00:22:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-anthony-fauci-t-00-07-33">2026-05-18 · 00:07:55</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-anthony-fauci-t-00-29-57">2026-10-15 · 00:29:57</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-anthony-fauci-t-00-13-24" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-anthony-fauci-t-00-06-20" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-anthony-fauci-t-00-07-33" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-anthony-fauci-t-00-29-57" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-anthony-fauci-t-00-13-24) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-anthony-fauci-t-00-06-20) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-anthony-fauci-t-00-07-33) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-anthony-fauci-t-00-29-57) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:29:57](/episodes/ep-YPIYYHCNPbE.md#ent-person-anthony-fauci-t-00-29-57)**
+> "... wrote a book called The Real Anthony Fauci, which I read cover to cover to substantiate all ..."
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
@@ -117,7 +127,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Anthony Fauci (1)</strong></summary>
+<summary><strong class="section-title">Statements about Anthony Fauci (2)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:29:57](/episodes/ep-YPIYYHCNPbE.md#t-00-29-57) (Claim) **Katie Zacharia** (via quoted speech): ["In a clip played by Owens, Zacharia said she read The Real Anthony Fau..."](/statements/statement-66d8be47f506.md)
+  - Also about: [The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health](/entities/work-real-anthony-fauci.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>

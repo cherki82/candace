@@ -1,6 +1,6 @@
 ---
 title: "Patriot Act"
-description: "Patriot Act (Laws & Legislation) - 1 mention"
+description: "Patriot Act (Laws & Legislation) - 2 mentions"
 id: "law-patriot-act"
 type: "LAW"
 aliases:
@@ -21,9 +21,9 @@ Source: [Public Law 107-56 - USA PATRIOT Act](https://www.govinfo.gov/app/detail
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-37">2025-09-19 · 00:37:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-37">2025-09-19 · 00:37:57</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-law-patriot-act-t-00-36-37">2026-10-15 · 00:36:47</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [Public Law 107-56 - USA PATRIOT Act](https://www.govinfo.gov/app/detail
 <p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-37">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-37" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-law-patriot-act-t-00-36-37" style="--pulse-height:100%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-37) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-law-patriot-act-t-00-36-37) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [Public Law 107-56 - USA PATRIOT Act](https://www.govinfo.gov/app/detail
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:36:47](/episodes/ep-YPIYYHCNPbE.md#ent-law-patriot-act-t-00-36-37)**
+> "And this is the Patriot Act argument, right? The moral argument, I'm totally ..."
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 42 mentions"
+description: "Turning Point Action (Organizations) - 54 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -23,41 +23,42 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-00-00">2025-10-06 · 00:00:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11">2026-10-01 · 00:14:11</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-23-02">2026-10-15 · 00:23:35</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-21">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-00-38">Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46" style="--pulse-height:29%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-34-07" style="--pulse-height:29%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-action-t-00-15-33" style="--pulse-height:14%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-21" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-08" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-04" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-turning-point-action-t-00-17-26" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36" style="--pulse-height:14%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57" style="--pulse-height:29%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01" style="--pulse-height:43%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51" style="--pulse-height:29%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07" style="--pulse-height:14%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36" style="--pulse-height:43%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26" style="--pulse-height:43%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-25-17" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-08" style="--pulse-height:57%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26" style="--pulse-height:14%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46" style="--pulse-height:17%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-34-07" style="--pulse-height:17%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-action-t-00-15-33" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-21" style="--pulse-height:58%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-08" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-04" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-turning-point-action-t-00-17-26" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26" style="--pulse-height:25%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-25-17" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-08" style="--pulse-height:33%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 4 mentions" title="2026-09-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-00-38" style="--pulse-height:100%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 12 mentions" title="2026-10-15 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,6 +86,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-org-turning-point-action-t-00-39-08) | 4 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-00-38) | 12 |
 
 </details>
 </section>
@@ -96,7 +98,48 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (12 mentions)</summary>
+
+**[00:00:49](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-00-38)**
+> "...by the way, did you know that Turning Point Action is sending, hey, we're broke type emails?"
+
+**[00:16:22](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-16-10)**
+> "...n to break, we should discuss turning point action because turning point action is run by sexual dev..."
+
+**[00:16:39](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-16-10)**
+> "...ause money was missing out of Turning Point Action."
+
+**[00:17:32](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-17-32)**
+> "...pdated today, it appears that turning point action is suddenly out of money. And I told you this was..."
+
+**[00:18:08](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-17-32)**
+> "...d potentially be happening at Turning Point Action."
+
+**[00:19:50](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-19-43)**
+> "...ballot chasing initiative via Turning Point Action."
+
+**[00:20:22](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-20-22)**
+> "... but rather to Tyler Bowyer's Turning Point Action 501(c)(4) arm."
+
+**[00:21:12](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-20-39)**
+> "Go to tpaction.com slash"
+
+**[00:21:14](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-21-14)**
+> "100 tpaction.com slash 100. If we have the graphic. I know we ..."
+
+**[00:22:19](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-22-19)**
+> "...he vandals. But the update on Turning Point Action, which also has a Turning Point PAC that's associ..."
+
+**[00:23:15](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-23-02)**
+> "...lie (Charlie Kirk) felt about Turning Point action allegedly, which I will again say Justin Streiff ..."
+
+**[00:23:35](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-23-02)**
+> "... money disappeared again from turning point action."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
@@ -352,6 +395,18 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
+<summary>Affiliated With (1)</summary>
+
+- **[Turning Point PAC Inc.](/entities/org-turning-point-pac.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:22:19](/episodes/ep-YPIYYHCNPbE.md#t-00-22-19): “Seems like they don't even want to catch the vandals. But the update on Turning Point Action, which also has a Turning Point PAC that's associated with it, affiliated with it, is that they have no more money.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Audited By (1)</summary>
 
 - **[Baker Tilly](/entities/org-baker-tilly.md)**
@@ -370,6 +425,18 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:23:15](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02): “I feel like they could have released information to the public. I feel like their impulse to tell us to sign up to chase ballots feels wrong to me. And given everything that we know about how Charlie (Charlie Kirk) felt about Turning Point action allegedly, which I will again say Justin Streiff disputes, but people who work at Turning Point USA dispute what Justin Streiff says. ... It feels like they need money and like maybe some more money disappeared again from turning point action. ... Maybe, I don't know for a fact, but I'm telling you my instincts about the statue is that we're not being told the entire story.”
 
 </details>
 
@@ -432,10 +499,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Operated By (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -457,17 +525,18 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Part Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24): “the campaign arm of Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:16](/episodes/ep-O4Zw3bCALjU.md#t-00-39-08): “They're not looking, they're not seeking the public's help in trying to figure out who did this. this. Rather, they're all in unison essentially telling us that we should give to turning point action, which is not the 501c3 charitable arm, right? That's their 501c4. And they're basically like, you should sign up and head to turning point action. That's what we can do to deal with this.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:20:22](/episodes/ep-YPIYYHCNPbE.md#t-00-20-22): “Well, after Statuegate, Turning Point USA's response was to direct people not to the tax-deductible charitable arm, the 501(c)(3), but rather to Tyler Bowyer's Turning Point Action 501(c)(4) arm.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -498,6 +567,13 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:23:15](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02): “I feel like they could have released information to the public. I feel like their impulse to tell us to sign up to chase ballots feels wrong to me. And given everything that we know about how Charlie (Charlie Kirk) felt about Turning Point action allegedly, which I will again say Justin Streiff disputes, but people who work at Turning Point USA dispute what Justin Streiff says. ... It feels like they need money and like maybe some more money disappeared again from turning point action. ... Maybe, I don't know for a fact, but I'm telling you my instincts about the statue is that we're not being told the entire story.”
+
+</details>
+
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -513,10 +589,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** includes this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24): “the campaign arm of Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:39:16](/episodes/ep-O4Zw3bCALjU.md#t-00-39-08): “They're not looking, they're not seeking the public's help in trying to figure out who did this. this. Rather, they're all in unison essentially telling us that we should give to turning point action, which is not the 501c3 charitable arm, right? That's their 501c4. And they're basically like, you should sign up and head to turning point action. That's what we can do to deal with this.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:20:22](/episodes/ep-YPIYYHCNPbE.md#t-00-20-22): “Well, after Statuegate, Turning Point USA's response was to direct people not to the tax-deductible charitable arm, the 501(c)(3), but rather to Tyler Bowyer's Turning Point Action 501(c)(4) arm.”
 
 </details>
 
@@ -535,10 +612,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** operates this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -558,7 +636,42 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (27)</strong></summary>
+<summary><strong class="section-title">Statements by Turning Point Action (1)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:22:35](/episodes/ep-YPIYYHCNPbE.md#t-00-22-19) [○] (Claim) ["In a fundraising email read by Owens, Turning Point Action said September was it..."](/statements/statement-5f53a17650ee.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Turning Point Action (33)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6)</summary>
+
+- [00:16:39](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) (Claim) **Candace Owens** (via paraphrase): ["Owens said she was told Charlie Kirk established DOGE seven days befor..."](/statements/statement-eb4340447ae2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
+
+- [00:17:07](/episodes/ep-YPIYYHCNPbE.md#t-00-16-53) (Claim) **Candace Owens** (via paraphrase): ["Owens said Justin Streiff denied the lead about money missing from Tur..."](/statements/statement-fe6a1aad5d07.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) (Accusation) **Candace Owens**: ["Owens wondered whether Lori Frantzve and Tyler Bowyer maybe did someth..."](/statements/statement-9c4a4cbcfedf.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:20:39](/episodes/ep-YPIYYHCNPbE.md#t-00-20-39) (Claim) **Anonymous Source #23 (Ep YPIYYHCNPbE)** (via quoted speech): ["The unidentified fundraising clip speaker said participation in the Co..."](/statements/statement-12645a563495.md)
+  - Also about: [Commit 100](/entities/concept-commit-100.md)
+
+- [00:22:35](/episodes/ep-YPIYYHCNPbE.md#t-00-22-19) (Claim) **Turning Point Action** (via read message): ["In a fundraising email read by Owens, Turning Point Action said Septem..."](/statements/statement-5f53a17650ee.md)
+
+- [00:23:02](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02) (Accusation) **Candace Owens**: ["Owens said she felt the statue incident maybe did not happen as descri..."](/statements/statement-e20bae039ae0.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>

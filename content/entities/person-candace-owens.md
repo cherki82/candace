@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2937 mentions"
+description: "Candace Owens (People) - 2950 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-47-52">2026-10-14 · 00:47:52</a></strong></div>
-<div><span>Episodes</span><strong>183</strong></div>
-<div><span>Mentions</span><strong>2,937</strong></div>
-<div><span>Statements by</span><strong>5,906</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-45-10">2026-10-15 · 00:45:46</a></strong></div>
+<div><span>Episodes</span><strong>184</strong></div>
+<div><span>Mentions</span><strong>2,950</strong></div>
+<div><span>Statements by</span><strong>5,952</strong></div>
 <div><span>Statements about</span><strong>827</strong></div>
-<div><span>Relationships</span><strong>1,093</strong></div>
+<div><span>Relationships</span><strong>1,099</strong></div>
 <div><span>Threads</span><strong>8</strong></div>
 </div>
 
@@ -219,6 +219,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-candace-owens-t-00-00-01" style="--pulse-height:18%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 11 mentions" title="2026-10-08 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 16 mentions" title="2026-10-13 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20" style="--pulse-height:17%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 10 mentions" title="2026-10-14 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-00-38" style="--pulse-height:20%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 12 mentions" title="2026-10-15 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -407,6 +408,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-candace-owens-t-00-00-01) | 11 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11) | 16 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20) | 10 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-00-38) | 12 |
 
 </details>
 </section>
@@ -425,7 +427,48 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2937)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2950)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (12 mentions)</summary>
+
+**[00:01:15](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-00-38)**
+> "More on that. Welcome back to Candace."
+
+**[00:24:59](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-24-24)**
+> "dot com slash Candace. That's preborn dot com slash Candace. I also wan..."
+
+**[00:25:54](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-25-54)**
+> "So head to twc.health slash Candace and use code Candace at checkout and you'll get 1..."
+
+**[00:26:01](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-25-54)**
+> "...gain, that's twc.health slash Candace. And I have to tell you guys about Cozy Earth bec..."
+
+**[00:26:48](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-26-37)**
+> "...to CozyEarth.com and use code Candace at checkout for up to 20% off home and sleepwear...."
+
+**[00:26:58](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-26-37)**
+> "...eard about them right here on Candace."
+
+**[00:37:12](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-37-12)**
+> "...lie Kirk] no, it's that bad. [Candace Owens] They did execute [Interview host] they're not, t..."
+
+**[00:41:37](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-41-09)**
+> "... you want to try it, use code CANDACE for 20% off your first order at fieldofgreens.com..."
+
+**[00:42:03](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-41-48)**
+> "...ied) writes, if it wasn't for Candace digging into all of the background of all of this..."
+
+**[00:43:18](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-43-13)**
+> "...initely going to have serious Candace withdrawal during your absence."
+
+**[00:44:35](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-44-35)**
+> "...henchmen were bragging about. Candace, we pray Godspeed delivery and healing over you. ..."
+
+**[00:45:46](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-45-10)**
+> "Brooke Evans writes, Candace, I have shared your podcast with so many people w..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (10 mentions)</summary>
@@ -10760,7 +10803,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (141)</summary>
+<summary>Criticized (143)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -10771,7 +10814,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10839,6 +10882,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 
 </details>
 
@@ -10859,7 +10903,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -10941,6 +10985,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
 
 </details>
 
@@ -11002,7 +11047,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -11013,6 +11058,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -11085,7 +11131,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -11103,6 +11149,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:46:56](/episodes/ep-YPIYYHCNPbE.md#t-00-46-34): “It's just so absurd to think that Brian Harpole, who I worked with and who I know and who is an idiot. ... OK, he is an idiot, was the person that was in control or that Mikey McCoy (Michael McCoy) was the general.”
 
 </details>
 
@@ -11121,7 +11168,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -11145,6 +11192,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:04:38](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38): “And that, let me just brings a lot of questions to my mind. I will say this, it doesn't even make sense to me that Frank (Frank Turek) asked the officer to throw it out.”
 
 </details>
 
@@ -11296,7 +11344,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -11331,6 +11379,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:18:49](/episodes/ep-bIuvTKlFeGo.md#t-01-18-30): “I am just so sickened by how much power and how much money is behind this. How much power and how much money and the audacity of President Donald Trump (Donald J. Trump). ... who Charlie (Charlie Kirk) did so much for, so close to.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 
 </details>
 
@@ -11477,11 +11526,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05): “Governor Cox is a bad man. I'm telling you that right now, Governor Cox is a very bad man.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in. It just, it struck. struck them as odd that they would they were saying what he was wearing an outfit that he was not wearing so we had included uh that little tidbit on our original timeline when the police the washington county police knew that it was tyler robinson which was again by seven o'clock p.m they were all texting each other they had said they initially had planned to pick him up in warner valley but and this is a part that has not come out since that he was buying a gun that tyler”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:29:09](/episodes/ep-2WEHTk0Xewg.md#t-00-29-01): “I don't like Governor Cox. Vibes, okay? Vibes.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55): “He's a politician. He speaks. He lies. That's not that shocking. But beyond that, if you remember early on in the investigation, it was it was Governor Cox (Spencer Cox) that was the one telling us instantly that this was a politically motivated assassination, despite no evidence confirming that at that time.”
 
 </details>
 
@@ -11817,11 +11867,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pete Hegseth](/entities/person-pete-hegseth.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
 
 </details>
 
@@ -11833,7 +11884,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
@@ -11846,6 +11897,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:45:51](/episodes/ep-_Sq5RqP27NY.md#t-00-45-51): “The ability to do that so quickly after he died, you’d be cherishing this. Like, there’s no privacy. Sell, sell, sell, sell, and get even with him. Like I said, she’s so nasty behind the scenes, but you see a glimpse of that, and then you are met with this partnership with Andrew Wilson, and you just go, this guy’s a drunk. He is addicted, you know, to chain smoking constantly. There’s like late nights, ... night stuff of him just downing whiskey or whatever it is. I mean, this should register to her as scum of the earth. And she gives him something as precious as a video, what is supposed to be, as representing it, the last video, which should be the last video of her husband with his kids. That is just bizarre, and no one will ever make that make sense to me. I’m done arguing about whether it’s just a grieving widow. That is conniving, and it is disgusting, and it is debased.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 01:05:00](/episodes/ep-q4m-kGzvwjw.md#t-01-04-45): “But, like, other people also had access to it and could communicate, and that's the American flag icon. And then the real Charlie (Charlie Kirk), the one that was speaking to the donors, the one that says Charlie Kirk, that we saw when he's like, "I've been left with no choice but to ban the pro-Israel cause." That, yeah, I've realized the American flag thing is interesting. I don't know if Erika (Erika Kirk) took over that account. I don't know what's going on. I believe nothing that comes from Andrew Wilson, because why would you send it to Andrew Wilson when you could send it to Andrew Kolvet? ... Why would you not release the information yourself? Why wouldn't you send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it to Vanity Fair. ... You gave him four months of access. Why not give them the messages? Daily Mail, you don't choose to give something. They're moving towards these sorts of people who will lie and are disgusting.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:50](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “Something feels right in the story. It feels right for a variety of reasons. One of the reasons is because I had noticed this bizarre shift in the character and the quality of the influencers that are now in the Turning Point USA orbit, right? The Andrew (Andrew Wilson) and Rachel Wilson types. It's like they're suddenly dipping into a pool of degenerates. Group chats filled with people who look and behave like something you might come across upon the Strip in Las Vegas, if we're being honest. Like they bet their last $500 against the house and the house won because the house always wins.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:39:12](/episodes/ep-YPIYYHCNPbE.md#t-00-39-02): “But just generally people like, you know, Andrew Wilson, oh, I can't wait to watch. Yeah, I bet you can't wait to watch. ... This is like a state sponsored snuff pornography. It was very weird to me to hear people. just clamoring to watch somebody's soul leave their body.”
 
 </details>
 
@@ -12229,17 +12281,19 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Clancy](/entities/person-tyler-clancy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right? A couple of thoughts here. My first thought was, what officer in their right mind would dispose of a bloodied item? Rather than moving it immediately into evidence on the day of the biggest assassination since JFK (John F. Kennedy), especially while the killer is still actively on the loose. We don't have any information. We don't know if Charlie (Charlie Kirk) was set up by those around him. We don't know if the killer, even if he is caught, was acting alone. We don't know anything. It just seems like an extraordinary thing to just dispose of a bloodied item as an officer.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11): “We'll see. The takeaway that I want you to have from all of this is that Tyler Clancy played a significant role on September 10th. And frankly, I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim.”
 
 </details>
 
 - **[Katie Zacharia](/entities/person-katie-zacharia.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... It's just I happen to notice that she seems to have no idea what she's talking about. She seems to be confused. ... And I don't know how she got this position. And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:28:46](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30): “I don't know why Pepperdine's president would tell her that that was okay. Beyond that, I also want to be clear that on her LinkedIn, she has herself listed as a general counsel. ... Like that's not, you didn't, this doesn't feel like a mistake. But I'm open to hearing Katie (Katie Zacharia) as to how she arrived at the conclusion that she was a lawyer and why it was okay.”
 
 </details>
 
@@ -12247,6 +12301,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:36:15](/episodes/ep-6jOEN9rBePU.md#t-00-35-38): “He's being dramatic about it. He was not there at the store when this took place. And all that happened is that Kelly Clarkson was treated normally. ... That's really the story is that Kelly Clarkson was treated normally and she's sort of used to having the carpet rolled out. ... But she definitely would not make it in New York. She wanted to, for whatever reason, purchase this bird for $15,000 and thought she would find an audience online that was sympathetic in this economy to a multimillionaire who has 15.”
+
+</details>
+
+- **[Club America](/entities/org-club-america.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
+
+</details>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:23:15](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02): “I feel like they could have released information to the public. I feel like their impulse to tell us to sign up to chase ballots feels wrong to me. And given everything that we know about how Charlie (Charlie Kirk) felt about Turning Point action allegedly, which I will again say Justin Streiff disputes, but people who work at Turning Point USA dispute what Justin Streiff says. ... It feels like they need money and like maybe some more money disappeared again from turning point action. ... Maybe, I don't know for a fact, but I'm telling you my instincts about the statue is that we're not being told the entire story.”
 
 </details>
 
@@ -13080,7 +13148,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (56)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (57)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -13138,6 +13206,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -13214,7 +13283,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PreBorn!](/entities/org-preborn.md)**
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -13244,6 +13313,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:24:36](/episodes/ep-YPIYYHCNPbE.md#t-00-24-24): “Proof that Preborn is not just saving babies, it's rescuing souls. Right now, another mother needs that moment and you can give it to her. ... For just $28, you can help to provide one life-saving ultrasound. $140 can help rescue five babies and all gifts are tax deductible. ... So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com.”
 
 </details>
 
@@ -13264,7 +13334,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Cozy Earth](/entities/org-cozy-earth.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
@@ -13273,6 +13343,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:51](/episodes/ep-UBkFkg4UNY8.md#t-00-28-34): “That's why I love Cozy Earth.”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:50](/episodes/ep-aLJhpxrakCU.md#t-00-39-50): “That's twc.health slash CANDACE. Cleanses are available to USA residents only. And I have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I am a big fan of anything that makes the end of my day feel a little more luxurious. curious. I've been sleeping in Cozy Earth's bamboo stretch knit pajamas and getting into bed has honestly become the best part of my night because they are so soft. They're silky smooth with just enough stretch that nothing feels stiff or scratchy.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:28](/episodes/ep-0pSAhaAZz1w.md#t-00-37-16): “I also have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I'm a big fan of anything that makes the end of my day feel a little more luxurious and Cozy Earth's sheets have completely transformed my bedtime routine. They are incredibly soft and silky smooth and they have that really comfortable lightweight feel that makes getting into bed something that I actually look forward to. I also love that they are breathable, especially when I'm running warm at night, but they still feel cozy and comfortable. comfortable when the temperature drops. When you're a mom, a good night's sleep is worth investing in and Cozy Earth makes it easy to give their sheets a try too with a 100 night trial and a 10-year warranty. So there's no risk in trying it. If you're looking to make your bed feel a little more luxurious and to make the end of your day something to look forward to, I definitely recommend giving Cozy Earth's viscose bamboo sheets a try.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:26:37](/episodes/ep-YPIYYHCNPbE.md#t-00-26-37): “There is no risk in trying it so if you're looking to make your bed feel a little more luxurious and make the end of your day something to look forward to I definitely recommend giving Cozy Earth viscose bamboo sheets a try. ... Head to CozyEarth.com and use code Candace at checkout for up to 20% off home and sleepwear. Again that's CozyEarth.com code Candace.”
 
 </details>
 
@@ -13302,7 +13373,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Wellness Company](/entities/org-the-wellness-company.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -13318,6 +13389,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:17](/episodes/ep-aLJhpxrakCU.md#t-00-39-17): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as preventative measure. The Wellness Company offers a hard-to-access Rx parasite cleanse, which is USA compounded ivermectin and mebendazole. Each capsule was lab-tested for quality. You can now get a more budget-friendly 45 capsule option that costs $250 less. giving you two 21-day parasite cleanse cycles. It is the same formula as the original, just a smaller quantity. Head to twc.health slash CANDACE and use code CANDACE at checkout to save $52 plus you'll get free shipping.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:27:38](/episodes/ep-6XfDqKTdFKg.md#t-00-27-29): “The Wellness Company's methylene blue is USP grade, ensuring top—top-tier purity for maximum safety and effectiveness. This is not the sketchy stuff that you find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular repair while supporting clean, lasting energy. Tap into cognitive and metabolic support that helps you stay energized, focused, and resilient all day long. Choose a trusted formula made for your body, not for fish tanks. Feel the difference with enhanced mental clarity, sustained energy. sharper focus and protection against cognitive decline. And no, it's not going to turn your tongue blue. Head to twc.health slash Candace and use code Candace at checkout to get 15% off. Plus you'll get free shipping.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:11](/episodes/ep-0pSAhaAZz1w.md#t-00-36-35): “100,000 people now take the Wellness Company's Ultimate Spike Detox annually because it's something that we all can benefit from. So head to twc.health slash candace and use code candace at checkout, and you'll get 15% off your order. Again, that's twc.health slash candace.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:25:47](/episodes/ep-YPIYYHCNPbE.md#t-00-25-09): “100,000 people now take the wellness company's Ultimate Spike Detox annually because it's something that we can all benefit from. ... So head to twc.health slash Candace and use code Candace at checkout and you'll get 15% off your order.”
 
 </details>
 
@@ -13346,10 +13418,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Field of Greens](/entities/org-field-of-greens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:03](/episodes/ep-uC_GjKU8rs8.md#t-00-42-54): “It keeps you tired and weak. That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are dehydrated and ground into a.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:26:07](/episodes/ep-puuMVxEu5NU.md#t-00-25-24): “That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:41:18](/episodes/ep-YPIYYHCNPbE.md#t-00-41-09): “process and can I trust what's actually inside of them? That's one reason I like Field of Greens because their focus is on quality, transparency, and bringing together fruits and vegetables in a convenient daily formula. ... If you want to try it, use code CANDACE for 20% off your first order at fieldofgreens.com. That's code Candace at fieldofgreens.com.”
 
 </details>
 
@@ -13689,7 +13762,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Formerly Worked For (7)</summary>
 
 - **[PragerU](/entities/org-prageru.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “back when I had a show on PragerU.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “I obviously worked for PragerU.”
@@ -13703,11 +13776,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:29](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “when I was working for Prager University.”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “when I was working for Prager University.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:03](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “And I think that I was intentionally blinded because if I had not been blinded, I wouldn't have gone to work for PragerU.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:08](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25): “I know how it works because I came from Turning Point USA, okay? I have toured with them every year—with the exception of this year—since I started working for Charlie”
@@ -13726,11 +13800,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#t-00-31-51): “as a person who worked at Turning Point USA, who toured with Charlie (Charlie Kirk) the most”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:09:38](/episodes/ep-aLJhpxrakCU.md#t-00-09-30): “And to be clear, I'm not guessing here. I worked for Turning Point USA. On every tour that I went on thereafter, I brought in my own security team to each and every event.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:00:34](/episodes/ep-bIuvTKlFeGo.md#t-00-00-01): “We've been committed. I've pointed out things my experience working for Turning Point USA immediately told you things that were off about September 10th.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:09](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “I wouldn't have gone to work for The Daily Wire. I see them totally differently now. And so I feel like my eyes were opened at the exact right moment to then reflect and to know things about how things work so I can instantly call BS like I was at Turning Point USA.”
 
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-23): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -13765,6 +13840,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:39:30](/episodes/ep-5TTkMa49qj8.md#t-00-39-15): “You've been bombarded with news over the last two years. I mean, since I left Daily Wire, that I'm akin to Adolf Hitler.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:09](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “I wouldn't have gone to work for The Daily Wire. I see them totally differently now. And so I feel like my eyes were opened at the exact right moment to then reflect and to know things about how things work so I can instantly call BS like I was at Turning Point USA.”
 
 </details>
 
@@ -14643,7 +14719,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Spoke With (12)</summary>
+<summary>Spoke With (13)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -14731,6 +14807,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:24:34](/episodes/ep-q4m-kGzvwjw.md#t-00-24-34): “Calls Candace (Candace Owens) and asks her to stop discussing Brigitte Macron as a favor to President Trump (Donald J. Trump). February 26th, Trump (Donald J. Trump) calls Candace (Candace Owens) and asks her to stop speaking about Brigitte Macron.”
+
+</details>
+
+- **[Justin Streiff](/entities/person-justin-streiff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:07](/episodes/ep-YPIYYHCNPbE.md#t-00-16-53): “Well, I can tell you, and I will state this just to be fair, when I approached Justin Streiff about this, this lead, he came back to me and said, no, this is not, this is not true, whatever, whatever, whatever.”
 
 </details>
 
@@ -15239,20 +15322,22 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Baron Coleman](/entities/person-baron-coleman.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:07:08](/episodes/ep-DdPjoy5W-wY.md#t-01-06-42): “i wrote him some interesting things about Lori Frantzve since he's been helping so much the investigation”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:01:48](/episodes/ep-SgVcnx4Oh30.md#t-00-01-22): “We kind of build off of each other and the work and the investigation that we're doing.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:00:33](/episodes/ep-a2bZf4fic10.md#t-00-00-01): “I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for two weeks.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:32](/episodes/ep-_Sq5RqP27NY.md#t-00-25-53): “And yes, we will get together, me and Baron (Baron Coleman) will get together that sizzle reel for you guys before we pass off the show.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:42:10](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48): “Yes. There have been others, obviously, who have been just as consistent, staying focused, not jumping into all the riffraff. A lot of times people on X, like everyone's like fighting and just help investigate or don't. And that's why, obviously, I selected Baron Coleman to take over the show because he has been focused and he's. ... He's been updating everything and we have been information sharing in the background for quite some time now, but it's you can't ignore it.”
 
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:50:05](/episodes/ep-uC_GjKU8rs8.md#t-00-49-36): “And I reached out to him before. I just didn't feel like animosity toward him at all because like I said, I had worked with him.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:46:56](/episodes/ep-YPIYYHCNPbE.md#t-00-46-34): “It's just so absurd to think that Brian Harpole, who I worked with and who I know and who is an idiot.”
 
 </details>
 
@@ -15368,7 +15453,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (535)</summary>
+<summary>Referenced By (538)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -16577,7 +16662,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -16644,6 +16729,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:08:22](/episodes/ep-yrg_-D6oNHE.md#t-00-08-01): “Turning point doesn't feel clean anymore. It doesn't feel like something that you can trust your children to be a part of. We've got sparkly suits, glitter, merch sales at a funeral. You're in Vegas like it's a Vegas convention. It's gaudy now. Let's call it what it is. Turning USA is gaudy. But we also sense that the budget is large. Somehow we know that the budget feels impossibly large. It's giving the Sheldon Adelson Sands Casino money outright purchasing the presidency vibe. I mean, think about the money that's involved in this. We showed you yesterday. We have to ask ourselves a question. Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord? Through Discord. That's like high-end sleaze, right? If you've got that kind of money to spend, you go through proper channels to pay people, you put them on salaries. This is high-end sleaze, and that is how I would describe Turning Point. USA 2.0 under the guidance of Erika Kirk in a nutshell.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 
 </details>
 
@@ -16664,7 +16750,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (80)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -16746,6 +16832,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:10:26](/episodes/ep-yrg_-D6oNHE.md#t-00-09-56): “Yes, Erika (Erika Kirk), you really are the standard Proverbs 31 wife. Just kind of falls apart. That grift kind of just falls apart. It's been falling apart for a long time, but I did love this person who put it so succinctly in the comment section yesterday. She wrote this quote. This episode proved beyond a shadow of a doubt that Erika Kirk is indeed nasty behind the scenes. Been telling you guys that for a while. Okay. She doesn't get her hands dirty, but she's directing the show just like she was directing Charlie (Charlie Kirk)'s show.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
 
 </details>
 
@@ -16806,7 +16893,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -16817,6 +16904,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -16889,7 +16977,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -16907,6 +16995,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:30:21](/episodes/ep-yrg_-D6oNHE.md#t-00-30-09): “Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpole was severely misrepresenting things, you look back on that and you wonder, is he a sociopath? ... Why would he do that? Why is he representing a message as his, which is not his? Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood, but seemingly okay to allow Brian Harpole to go out and misrepresent it?”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:54:33](/episodes/ep-UAdBEXs7nNc.md#t-00-54-33): “file lawsuits, and that does not make you look like you are innocent when you have the option and Candace (Candace Owens) texts you, Brian Harpole, and asks a very simple question. You can just say no, and you instead opt to file a lawsuit and claim, "Why didn't answer that question four times when I was asked it? Because I didn't want to contribute to more views." Like, who are you? Like, you think you're like, like Celine Dion? Right. You can't even form a proper sentence. I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:44](/episodes/ep-V-phmW9f0pM.md#t-00-23-44): “Brian Harpole's in there yelling, do the medical, do the medical, just doing the medical, give him five cc's of this. I'm going to jump on top of him. None of it's making any sense, ladies and gentlemen. None of that is making any sense. But I will say it does seem corroborative, right?”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:46:56](/episodes/ep-YPIYYHCNPbE.md#t-00-46-34): “It's just so absurd to think that Brian Harpole, who I worked with and who I know and who is an idiot. ... OK, he is an idiot, was the person that was in control or that Mikey McCoy (Michael McCoy) was the general.”
 
 </details>
 
@@ -16925,7 +17014,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -16949,6 +17038,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:04:38](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38): “And that, let me just brings a lot of questions to my mind. I will say this, it doesn't even make sense to me that Frank (Frank Turek) asked the officer to throw it out.”
 
 </details>
 
@@ -17100,7 +17190,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -17135,6 +17225,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:18:49](/episodes/ep-bIuvTKlFeGo.md#t-01-18-30): “I am just so sickened by how much power and how much money is behind this. How much power and how much money and the audacity of President Donald Trump (Donald J. Trump). ... who Charlie (Charlie Kirk) did so much for, so close to.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 
 </details>
 
@@ -17281,11 +17372,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05): “Governor Cox is a bad man. I'm telling you that right now, Governor Cox is a very bad man.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in. It just, it struck. struck them as odd that they would they were saying what he was wearing an outfit that he was not wearing so we had included uh that little tidbit on our original timeline when the police the washington county police knew that it was tyler robinson which was again by seven o'clock p.m they were all texting each other they had said they initially had planned to pick him up in warner valley but and this is a part that has not come out since that he was buying a gun that tyler”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:29:09](/episodes/ep-2WEHTk0Xewg.md#t-00-29-01): “I don't like Governor Cox. Vibes, okay? Vibes.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55): “He's a politician. He speaks. He lies. That's not that shocking. But beyond that, if you remember early on in the investigation, it was it was Governor Cox (Spencer Cox) that was the one telling us instantly that this was a politically motivated assassination, despite no evidence confirming that at that time.”
 
 </details>
 
@@ -17621,11 +17713,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pete Hegseth](/entities/person-pete-hegseth.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
 
 </details>
 
@@ -17637,7 +17730,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
@@ -17650,6 +17743,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:45:51](/episodes/ep-_Sq5RqP27NY.md#t-00-45-51): “The ability to do that so quickly after he died, you’d be cherishing this. Like, there’s no privacy. Sell, sell, sell, sell, and get even with him. Like I said, she’s so nasty behind the scenes, but you see a glimpse of that, and then you are met with this partnership with Andrew Wilson, and you just go, this guy’s a drunk. He is addicted, you know, to chain smoking constantly. There’s like late nights, ... night stuff of him just downing whiskey or whatever it is. I mean, this should register to her as scum of the earth. And she gives him something as precious as a video, what is supposed to be, as representing it, the last video, which should be the last video of her husband with his kids. That is just bizarre, and no one will ever make that make sense to me. I’m done arguing about whether it’s just a grieving widow. That is conniving, and it is disgusting, and it is debased.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 01:05:00](/episodes/ep-q4m-kGzvwjw.md#t-01-04-45): “But, like, other people also had access to it and could communicate, and that's the American flag icon. And then the real Charlie (Charlie Kirk), the one that was speaking to the donors, the one that says Charlie Kirk, that we saw when he's like, "I've been left with no choice but to ban the pro-Israel cause." That, yeah, I've realized the American flag thing is interesting. I don't know if Erika (Erika Kirk) took over that account. I don't know what's going on. I believe nothing that comes from Andrew Wilson, because why would you send it to Andrew Wilson when you could send it to Andrew Kolvet? ... Why would you not release the information yourself? Why wouldn't you send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it to Vanity Fair. ... You gave him four months of access. Why not give them the messages? Daily Mail, you don't choose to give something. They're moving towards these sorts of people who will lie and are disgusting.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:50](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “Something feels right in the story. It feels right for a variety of reasons. One of the reasons is because I had noticed this bizarre shift in the character and the quality of the influencers that are now in the Turning Point USA orbit, right? The Andrew (Andrew Wilson) and Rachel Wilson types. It's like they're suddenly dipping into a pool of degenerates. Group chats filled with people who look and behave like something you might come across upon the Strip in Las Vegas, if we're being honest. Like they bet their last $500 against the house and the house won because the house always wins.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:39:12](/episodes/ep-YPIYYHCNPbE.md#t-00-39-02): “But just generally people like, you know, Andrew Wilson, oh, I can't wait to watch. Yeah, I bet you can't wait to watch. ... This is like a state sponsored snuff pornography. It was very weird to me to hear people. just clamoring to watch somebody's soul leave their body.”
 
 </details>
 
@@ -18033,17 +18127,19 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Clancy](/entities/person-tyler-clancy.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right? A couple of thoughts here. My first thought was, what officer in their right mind would dispose of a bloodied item? Rather than moving it immediately into evidence on the day of the biggest assassination since JFK (John F. Kennedy), especially while the killer is still actively on the loose. We don't have any information. We don't know if Charlie (Charlie Kirk) was set up by those around him. We don't know if the killer, even if he is caught, was acting alone. We don't know anything. It just seems like an extraordinary thing to just dispose of a bloodied item as an officer.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11): “We'll see. The takeaway that I want you to have from all of this is that Tyler Clancy played a significant role on September 10th. And frankly, I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim.”
 
 </details>
 
 - **[Katie Zacharia](/entities/person-katie-zacharia.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... It's just I happen to notice that she seems to have no idea what she's talking about. She seems to be confused. ... And I don't know how she got this position. And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:28:46](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30): “I don't know why Pepperdine's president would tell her that that was okay. Beyond that, I also want to be clear that on her LinkedIn, she has herself listed as a general counsel. ... Like that's not, you didn't, this doesn't feel like a mistake. But I'm open to hearing Katie (Katie Zacharia) as to how she arrived at the conclusion that she was a lawyer and why it was okay.”
 
 </details>
 
@@ -18051,6 +18147,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:36:15](/episodes/ep-6jOEN9rBePU.md#t-00-35-38): “He's being dramatic about it. He was not there at the store when this took place. And all that happened is that Kelly Clarkson was treated normally. ... That's really the story is that Kelly Clarkson was treated normally and she's sort of used to having the carpet rolled out. ... But she definitely would not make it in New York. She wanted to, for whatever reason, purchase this bird for $15,000 and thought she would find an audience online that was sympathetic in this economy to a multimillionaire who has 15.”
+
+</details>
+
+- **[Club America](/entities/org-club-america.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
+
+</details>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:23:15](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02): “I feel like they could have released information to the public. I feel like their impulse to tell us to sign up to chase ballots feels wrong to me. And given everything that we know about how Charlie (Charlie Kirk) felt about Turning Point action allegedly, which I will again say Justin Streiff disputes, but people who work at Turning Point USA dispute what Justin Streiff says. ... It feels like they need money and like maybe some more money disappeared again from turning point action. ... Maybe, I don't know for a fact, but I'm telling you my instincts about the statue is that we're not being told the entire story.”
 
 </details>
 
@@ -18427,7 +18537,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (56)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (57)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -18485,6 +18595,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:43:46](/episodes/ep-UAdBEXs7nNc.md#t-00-43-15): “come. That's where the numbers could actually shift in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -18561,7 +18672,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PreBorn!](/entities/org-preborn.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -18591,6 +18702,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:32:09](/episodes/ep-ms5ChhZegRg.md#t-00-31-53): “Right now, another mother needs that moment, and you can give it to her. For just $28, you can help provide one life-saving ultrasound. ... $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. ... That's pound 250 baby or visit preborn.com. .com slash Candace. Again, that's preborn.com slash Candace. I also want to tell you guys about Beekeepers Naturals because if you're a parent, you know how the fall brings a fresh rhythm to your family.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:24:36](/episodes/ep-YPIYYHCNPbE.md#t-00-24-24): “Proof that Preborn is not just saving babies, it's rescuing souls. Right now, another mother needs that moment and you can give it to her. ... For just $28, you can help to provide one life-saving ultrasound. $140 can help rescue five babies and all gifts are tax deductible. ... So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com.”
 
 </details>
 
@@ -18611,7 +18723,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Cozy Earth](/entities/org-cozy-earth.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
@@ -18620,6 +18732,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:28:51](/episodes/ep-UBkFkg4UNY8.md#t-00-28-34): “That's why I love Cozy Earth.”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:50](/episodes/ep-aLJhpxrakCU.md#t-00-39-50): “That's twc.health slash CANDACE. Cleanses are available to USA residents only. And I have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I am a big fan of anything that makes the end of my day feel a little more luxurious. curious. I've been sleeping in Cozy Earth's bamboo stretch knit pajamas and getting into bed has honestly become the best part of my night because they are so soft. They're silky smooth with just enough stretch that nothing feels stiff or scratchy.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:28](/episodes/ep-0pSAhaAZz1w.md#t-00-37-16): “I also have to tell you guys about Cozy Earth because as a mom of four with baby number five on the way, I'm a big fan of anything that makes the end of my day feel a little more luxurious and Cozy Earth's sheets have completely transformed my bedtime routine. They are incredibly soft and silky smooth and they have that really comfortable lightweight feel that makes getting into bed something that I actually look forward to. I also love that they are breathable, especially when I'm running warm at night, but they still feel cozy and comfortable. comfortable when the temperature drops. When you're a mom, a good night's sleep is worth investing in and Cozy Earth makes it easy to give their sheets a try too with a 100 night trial and a 10-year warranty. So there's no risk in trying it. If you're looking to make your bed feel a little more luxurious and to make the end of your day something to look forward to, I definitely recommend giving Cozy Earth's viscose bamboo sheets a try.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:26:37](/episodes/ep-YPIYYHCNPbE.md#t-00-26-37): “There is no risk in trying it so if you're looking to make your bed feel a little more luxurious and make the end of your day something to look forward to I definitely recommend giving Cozy Earth viscose bamboo sheets a try. ... Head to CozyEarth.com and use code Candace at checkout for up to 20% off home and sleepwear. Again that's CozyEarth.com code Candace.”
 
 </details>
 
@@ -18649,7 +18762,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Wellness Company](/entities/org-the-wellness-company.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -18665,6 +18778,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:17](/episodes/ep-aLJhpxrakCU.md#t-00-39-17): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as preventative measure. The Wellness Company offers a hard-to-access Rx parasite cleanse, which is USA compounded ivermectin and mebendazole. Each capsule was lab-tested for quality. You can now get a more budget-friendly 45 capsule option that costs $250 less. giving you two 21-day parasite cleanse cycles. It is the same formula as the original, just a smaller quantity. Head to twc.health slash CANDACE and use code CANDACE at checkout to save $52 plus you'll get free shipping.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:27:38](/episodes/ep-6XfDqKTdFKg.md#t-00-27-29): “The Wellness Company's methylene blue is USP grade, ensuring top—top-tier purity for maximum safety and effectiveness. This is not the sketchy stuff that you find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular repair while supporting clean, lasting energy. Tap into cognitive and metabolic support that helps you stay energized, focused, and resilient all day long. Choose a trusted formula made for your body, not for fish tanks. Feel the difference with enhanced mental clarity, sustained energy. sharper focus and protection against cognitive decline. And no, it's not going to turn your tongue blue. Head to twc.health slash Candace and use code Candace at checkout to get 15% off. Plus you'll get free shipping.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:11](/episodes/ep-0pSAhaAZz1w.md#t-00-36-35): “100,000 people now take the Wellness Company's Ultimate Spike Detox annually because it's something that we all can benefit from. So head to twc.health slash candace and use code candace at checkout, and you'll get 15% off your order. Again, that's twc.health slash candace.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:25:47](/episodes/ep-YPIYYHCNPbE.md#t-00-25-09): “100,000 people now take the wellness company's Ultimate Spike Detox annually because it's something that we can all benefit from. ... So head to twc.health slash Candace and use code Candace at checkout and you'll get 15% off your order.”
 
 </details>
 
@@ -18693,10 +18807,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Field of Greens](/entities/org-field-of-greens.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:03](/episodes/ep-uC_GjKU8rs8.md#t-00-42-54): “It keeps you tired and weak. That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are dehydrated and ground into a.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:26:07](/episodes/ep-puuMVxEu5NU.md#t-00-25-24): “That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:41:18](/episodes/ep-YPIYYHCNPbE.md#t-00-41-09): “process and can I trust what's actually inside of them? That's one reason I like Field of Greens because their focus is on quality, transparency, and bringing together fruits and vegetables in a convenient daily formula. ... If you want to try it, use code CANDACE for 20% off your first order at fieldofgreens.com. That's code Candace at fieldofgreens.com.”
 
 </details>
 
@@ -18998,7 +19113,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PragerU](/entities/org-prageru.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “back when I had a show on PragerU.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “I obviously worked for PragerU.”
@@ -19012,11 +19127,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:29](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “when I was working for Prager University.”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “when I was working for Prager University.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:03](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “And I think that I was intentionally blinded because if I had not been blinded, I wouldn't have gone to work for PragerU.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
@@ -19032,11 +19148,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#t-00-31-51): “as a person who worked at Turning Point USA, who toured with Charlie (Charlie Kirk) the most”
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:09:38](/episodes/ep-aLJhpxrakCU.md#t-00-09-30): “And to be clear, I'm not guessing here. I worked for Turning Point USA. On every tour that I went on thereafter, I brought in my own security team to each and every event.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:00:34](/episodes/ep-bIuvTKlFeGo.md#t-00-00-01): “We've been committed. I've pointed out things my experience working for Turning Point USA immediately told you things that were off about September 10th.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:09](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “I wouldn't have gone to work for The Daily Wire. I see them totally differently now. And so I feel like my eyes were opened at the exact right moment to then reflect and to know things about how things work so I can instantly call BS like I was at Turning Point USA.”
 
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
@@ -19065,6 +19182,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:39:30](/episodes/ep-5TTkMa49qj8.md#t-00-39-15): “You've been bombarded with news over the last two years. I mean, since I left Daily Wire, that I'm akin to Adolf Hitler.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:44:09](/episodes/ep-YPIYYHCNPbE.md#t-00-43-55): “I wouldn't have gone to work for The Daily Wire. I see them totally differently now. And so I feel like my eyes were opened at the exact right moment to then reflect and to know things about how things work so I can instantly call BS like I was at Turning Point USA.”
 
 </details>
 
@@ -19902,6 +20020,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Justin Streiff](/entities/person-justin-streiff.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:07](/episodes/ep-YPIYYHCNPbE.md#t-00-16-53): “Well, I can tell you, and I will state this just to be fair, when I approached Justin Streiff about this, this lead, he came back to me and said, no, this is not, this is not true, whatever, whatever, whatever.”
+
+</details>
+
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)** sued this
 <details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
@@ -20422,7 +20547,150 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (5906)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (5952)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (46)</summary>
+
+- [00:01:33](/episodes/ep-YPIYYHCNPbE.md#t-00-01-33) [○] (Citation) ["Owens corrected her prior report that Governor Spencer Cox had no schedule for S..."](/statements/statement-82451084ca3a.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:02:40](/episodes/ep-YPIYYHCNPbE.md#t-00-02-11) [○] (Claim) ["Owens said Tyler Clancy had a private one-on-one meeting with Spencer Cox on the..."](/statements/statement-58a7085a398b.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:03:02](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) [○] (Claim) ["Owens said Tyler Clancy allegedly was selected to transport Turning Point employ..."](/statements/statement-6387e0752204.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:13](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53) [○] (Claim) ["Owens said she was told the officer in the police radio clip was Tyler Clancy an..."](/statements/statement-09b8a6cce564.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56) [○] (Accusation) ["Owens reported that Tyler Clancy disposed of a bloodied item belonging to Turnin..."](/statements/statement-6bc4f19edb22.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:47](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38) [○] (Claim) ["Owens said she was told that Clancy allegedly gave others a different account: h..."](/statements/statement-dc03572627ec.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:05:11](/episodes/ep-YPIYYHCNPbE.md#t-00-05-11) [○] (Opinion) ["Owens said she struggled to believe disposing of a bag covered in a recently mur..."](/statements/statement-bfa2f2619363.md)
+  - About: [Tyler Clancy](/entities/person-tyler-clancy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:55](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) [○] (Claim) ["Owens said people in Utah told her that Governor Cox’s “boys” were all over the ..."](/statements/statement-063f6361c186.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:23](/episodes/ep-YPIYYHCNPbE.md#t-00-05-55) [○] (Accusation) ["Owens accused Spencer Cox of declaring a politically motivated assassination wit..."](/statements/statement-44a22c2d813f.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [FBI](/entities/org-fbi.md)
+
+- [00:07:36](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) [○] (Opinion) ["Owens said Cox’s clothing-change account did not seem like a mere mistake and th..."](/statements/statement-1f8d9d63a4e6.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:07:49](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) [○] (Claim) ["Owens said sources she considered solid and unaware of one another placed Val Pe..."](/statements/statement-51e7ad1a386f.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:08:18](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) [○] (Citation) ["Citing Cox’s schedule and an AV company’s LinkedIn photo, Owens said he was keyn..."](/statements/statement-92bd0146fafc.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [LinkedIn](/entities/org-linkedin.md), [Mona, Utah](/entities/gpe-mona-utah.md)
+
+- [00:08:39](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) [○] (Citation) ["Owens said Cox’s next scheduled event on September 10 was an 11:30 a.m. Utah Dep..."](/statements/statement-bd41a9761872.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Utah Department of Environmental Quality](/entities/org-utah-department-environmental-quality.md), [Murray Park (Murray, Utah)](/entities/gpe-murray-park-utah.md)
+
+- [00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30) [○] (Accusation) ["Owens urged parents to be wary of Club America and Turning Point under Erika Kir..."](/statements/statement-2cf8b684aca2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:03](/episodes/ep-YPIYYHCNPbE.md#t-00-10-53) [○] (Claim) ["Owens identified Taylor Dodd as the former president of the Club America chapter..."](/statements/statement-d4439b4c0e1d.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Club America](/entities/org-club-america.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:02](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02) [○] (Citation) ["Citing the Bonners Ferry Herald, Owens said 18-year-old Taylor Dodd was arrested..."](/statements/statement-dcb3fdb9afa0.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Bonners Ferry Herald](/entities/org-bonners-ferry-herald.md)
+
+- [00:12:24](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02) [○] (Citation) ["Citing the report and court documents, Owens said an ICAC tip from Discord conce..."](/statements/statement-4db5843cd00c.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Discord](/entities/org-discord.md), [Telegram](/entities/org-telegram.md)
+
+- [00:13:03](/episodes/ep-YPIYYHCNPbE.md#t-00-12-47) [○] (Citation) ["Citing Officer Brandon Blackmore’s report and case documents, Owens said 116 ima..."](/statements/statement-dda5872cd3f2.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md), [Brandon Blackmore](/entities/person-brandon-blackmore.md)
+
+- [00:13:11](/episodes/ep-YPIYYHCNPbE.md#t-00-12-47) [○] (Citation) ["Citing the article and court documents, Owens said Dodd reportedly acknowledged ..."](/statements/statement-11af4e32bca2.md)
+  - About: [Taylor Dodd](/entities/person-taylor-dodd.md)
+
+- [00:14:22](/episodes/ep-YPIYYHCNPbE.md#t-00-14-08) [○] (Accusation) ["Owens alleged Turning Point USA tried to scrub its affiliation with Dodd from th..."](/statements/statement-092a03c2aeeb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Club America](/entities/org-club-america.md), [Taylor Dodd](/entities/person-taylor-dodd.md)
+
+- [00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) [○] (Accusation) ["Owens called Tyler Bowyer a sexual deviant and said Charlie Kirk wanted to fire ..."](/statements/statement-51ad75193454.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:16:39](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) [○] (Claim) ["Owens said she was told Charlie Kirk established DOGE seven days before his deat..."](/statements/statement-eb4340447ae2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Action](/entities/org-turning-point-action.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
+
+- [00:17:07](/episodes/ep-YPIYYHCNPbE.md#t-00-16-53) [○] (Claim) ["Owens said Justin Streiff denied the lead about money missing from Turning Point..."](/statements/statement-fe6a1aad5d07.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) [○] (Claim) ["Owens said Lori Frantzve and Tyler Bowyer worked together through Superfeed and ..."](/statements/statement-9f2d58625a4b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) [○] (Accusation) ["Owens wondered whether Lori Frantzve and Tyler Bowyer maybe did something funny ..."](/statements/statement-9c4a4cbcfedf.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16) [○] (Claim) ["Owens said Tyler Bowyer presented a new Charlie Kirk statue in September and tha..."](/statements/statement-6e96797392ab.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:08](/episodes/ep-YPIYYHCNPbE.md#t-00-19-00) [○] (Claim) ["Owens said Turning Point USA headquarters was under heavy surveillance but the o..."](/statements/statement-530baca890eb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:21:43](/episodes/ep-YPIYYHCNPbE.md#t-00-21-40) [○] (Claim) ["Owens said the tips apparently had not worked, the statue vandals had not been c..."](/statements/statement-5fabac8b3837.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:23:02](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02) [○] (Accusation) ["Owens said she felt the statue incident maybe did not happen as described, that ..."](/statements/statement-e20bae039ae0.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:28:16](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) [○] (Citation) ["Owens said the Wall Street Journal reported Katie Zacharia had not passed the ba..."](/statements/statement-cc0041a70c31.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [The Wall Street Journal](/entities/org-wall-street-journal.md)
+
+- [00:28:24](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) [○] (Claim) ["Owens said Zacharia had consulted Pepperdine’s president and was told she could ..."](/statements/statement-0f0432c8163d.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Pepperdine president cited as adviser in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-019.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+- [00:28:46](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30) [○] (Citation) ["Owens said Katie Zacharia’s LinkedIn listed her as general counsel."](/statements/statement-85116d0eaad5.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [LinkedIn](/entities/org-linkedin.md)
+
+- [00:28:57](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30) [○] (Opinion) ["Owens said Zacharia’s explanation did not make sense to her and did not feel lik..."](/statements/statement-7322aae5937c.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:33:32](/episodes/ep-YPIYYHCNPbE.md#t-00-33-04) [○] (Citation) ["Owens said her research showed the bar exam was administered twice a year, could..."](/statements/statement-fd4d6b1a0735.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49) [○] (Opinion) ["Owens called the Trump administration a group of liars and sarcastically said Za..."](/statements/statement-c7222b73f118.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32) [○] (Claim) ["Owens characterized Pete Hegseth’s recent proposal as executing the Fort Hood sh..."](/statements/statement-69625fef2e7b.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+- [00:34:58](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32) [○] (Opinion) ["Owens opposed turning an execution into a public livestream, distinguishing supp..."](/statements/statement-36ac7860044d.md)
+  - About: [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md)
+
+- [00:37:59](/episodes/ep-YPIYYHCNPbE.md#t-00-37-48) [○] (Accusation) ["Owens said that, in her opinion, the “Epstein class” killed Charlie Kirk and set..."](/statements/statement-43d115ec874c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18) [○] (Citation) ["Owens described a Trump Truth Social post as stopping a publicly livestreamed ex..."](/statements/statement-3542af57c374.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md), [Truth Social](/entities/org-truth-social.md)
+
+- [00:42:10](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48) [○] (Claim) ["Owens said she selected Baron Coleman to take over the show and that they had be..."](/statements/statement-f9314ff7dc1b.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md)
+
+- [00:42:48](/episodes/ep-YPIYYHCNPbE.md#t-00-42-29) [○] (Promise) ["Owens promised to keep going and said she would not be silenced by lawsuits whil..."](/statements/statement-ef419f5e8c4a.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:45:01](/episodes/ep-YPIYYHCNPbE.md#t-00-44-35) [○] (Opinion) ["Owens said she thought Erika Kirk and her associates were going to employ an AI ..."](/statements/statement-81f96e5ff443.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:38](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) [○] (Claim) ["Responding to a viewer, Owens said the bag offered to Shawn Ryan was Brian Harpo..."](/statements/statement-4a4da2c6a527.md)
+  - About: [Shawn Ryan](/entities/person-shawn-ryan.md), [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:48:45](/episodes/ep-YPIYYHCNPbE.md#t-00-48-34) [○] (Citation) ["Citing the UVU independent review, Owens said an unidentified fire captain met C..."](/statements/statement-dd89c74abaef.md)
+  - About: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:49:19](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) [○] (Accusation) ["Owens said she found it very odd that neither Frank Turek nor Brian Harpole ment..."](/statements/statement-a8b0e5e2cea1.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:39](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) [○] (Accusation) ["Owens said she was told the fire-captain information was intentionally being hus..."](/statements/statement-613ef71948c0.md)
+  - About: [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (40)</summary>

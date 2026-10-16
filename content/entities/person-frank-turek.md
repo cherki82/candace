@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 371 mentions"
+description: "Frank Turek (People) - 376 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-frank-turek-t-00-02-28">2026-10-14 · 00:02:28</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>371</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-49-19">2026-10-15 · 00:49:19</a></strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>376</strong></div>
 <div><span>Statements by</span><strong>61</strong></div>
-<div><span>Statements about</span><strong>101</strong></div>
+<div><span>Statements about</span><strong>104</strong></div>
 <div><span>Relationships</span><strong>76</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -106,6 +106,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27" style="--pulse-height:44%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 14 mentions" title="2026-10-08 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-01" style="--pulse-height:12%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-frank-turek-t-00-02-28" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-03-56" style="--pulse-height:16%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 5 mentions" title="2026-10-15 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -181,6 +182,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-frank-turek-t-00-00-27) | 14 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-frank-turek-t-00-20-01) | 4 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-frank-turek-t-00-02-28) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-03-56) | 5 |
 
 </details>
 </section>
@@ -192,7 +194,27 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (371)</strong></summary>
+<summary><strong class="section-title">Raw mentions (376)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (5 mentions)</summary>
+
+**[00:04:03](/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-03-56)**
+> "...we deduced that it was likely Frank Turek's bloodied bag since Frank (Frank Turek), in fact, ..."
+
+**[00:04:38](/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-04-38)**
+> "... make sense to me that Frank (Frank Turek) asked the officer to throw it out."
+
+**[00:05:48](/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-05-11)**
+> "... police protocol to listen to Frank Turek. We'll see."
+
+**[00:47:38](/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-47-10)**
+> "...ow out the bag and it matches Frank Turek's. I'm sure obviously that it would make sense that..."
+
+**[00:49:19](/episodes/ep-YPIYYHCNPbE.md#ent-person-frank-turek-t-00-49-19)**
+> "...t to be very odd that neither Frank Turek in his many iterations of what happened, nor Bria..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -1771,7 +1793,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1795,6 +1817,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:04:38](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38): “And that, let me just brings a lot of questions to my mind. I will say this, it doesn't even make sense to me that Frank (Frank Turek) asked the officer to throw it out.”
 
 </details>
 
@@ -2122,7 +2145,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -2146,6 +2169,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:48:49](/episodes/ep-yrg_-D6oNHE.md#t-00-48-15): “Like I'm a pastor, I'm Pastor Frank Turek and you're going to hell demon. And like, what? Who are you, actually? ... Who are you? Why do you lie or misremember so much and think that you can convince us by shouting at people that it's acceptable? ... Crucial details that you don't remember from September 10th. ... Zamet (viewer handle; spelling and real identity unverified) writes, grieving widow is a registered trademark since no way since November, sorry, since September 9th, 2025.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:50:38](/episodes/ep-UAdBEXs7nNc.md#t-00-50-38): “I just don't think Frank Turek should be the author of that because they have been the people that have launched this war on reality”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:23:03](/episodes/ep-V-phmW9f0pM.md#t-00-23-03): “There's a lot with Frank (Frank Turek)'s stories that don't really add up.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:04:38](/episodes/ep-YPIYYHCNPbE.md#t-00-04-38): “And that, let me just brings a lot of questions to my mind. I will say this, it doesn't even make sense to me that Frank (Frank Turek) asked the officer to throw it out.”
 
 </details>
 
@@ -2672,7 +2696,21 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (101)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (104)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (3)</summary>
+
+- [00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56) (Accusation) **Candace Owens** (via paraphrase): ["Owens reported that Tyler Clancy disposed of a bloodied item belonging..."](/statements/statement-6bc4f19edb22.md)
+  - Also about: [Tyler Clancy](/entities/person-tyler-clancy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:47:38](/episodes/ep-YPIYYHCNPbE.md#t-00-47-10) (Claim) **Candace Owens**: ["Responding to a viewer, Owens said the bag offered to Shawn Ryan was B..."](/statements/statement-4a4da2c6a527.md)
+  - Also about: [Shawn Ryan](/entities/person-shawn-ryan.md), [Brian Harpole](/entities/person-brian-harpole.md), [Tyler Clancy](/entities/person-tyler-clancy.md)
+
+- [00:49:19](/episodes/ep-YPIYYHCNPbE.md#t-00-49-19) (Accusation) **Candace Owens**: ["Owens said she found it very odd that neither Frank Turek nor Brian Ha..."](/statements/statement-a8b0e5e2cea1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Unidentified hospital fire captain in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-006.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (5)</summary>

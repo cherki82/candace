@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 261 mentions"
+description: "Arizona (Places) - 262 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-arizona-t-00-27-10">2026-09-30 · 00:27:10</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>261</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-arizona-t-00-21-40">2026-10-15 · 00:21:43</a></strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -112,6 +112,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-O4Zw3bCALjU.md#ent-gpe-arizona-t-00-00-46" style="--pulse-height:16%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 3 mentions" title="2026-09-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_2DiIbfy4mU.md#ent-gpe-arizona-t-00-36-37" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-gpe-arizona-t-00-27-10" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-arizona-t-00-21-40" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -195,6 +196,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-gpe-arizona-t-00-00-46) | 3 |
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-gpe-arizona-t-00-36-37) | 1 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-gpe-arizona-t-00-27-10) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-arizona-t-00-21-40) | 1 |
 
 </details>
 </section>
@@ -206,7 +208,15 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (261)</strong></summary>
+<summary><strong class="section-title">Raw mentions (262)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:21:43](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-arizona-t-00-21-40)**
+> "...unteers signing up to come to Arizona for Commit 100."
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>

@@ -10,24 +10,37 @@ description: "Reviewed theory milestones and proposition changes over event and 
 <div class="thread-index-audit"><strong>Reviewed, not inferred</strong><span>Membership and transitions require evidence. Similarity alone never creates a durable link.</span></div>
 
 <div class="thread-index-stats">
-<div><strong>471</strong><span>live branches</span></div>
+<div><strong>479</strong><span>live branches</span></div>
 <div><strong>104</strong><span>dormant seeds</span></div>
 <div><strong>24</strong><span>put to rest</span></div>
-<div><strong>3,923</strong><span>reviewed turns</span></div>
+<div><strong>3,940</strong><span>reviewed turns</span></div>
 </div>
 
 <div class="thread-index-grid">
 <article class="thread-index-card">
 <div class="thread-card-meta">
-<span>179 sources</span>
-<span>3885 reviewed turns</span>
-<time datetime="2026-10-14">Updated 2026-10-14</time>
+<span>180 sources</span>
+<span>3897 reviewed turns</span>
+<time datetime="2026-10-15">Updated 2026-10-15</time>
 </div>
 <h2><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h2>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>456</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,436</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>463</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,448</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">6436 reviewed transitions</span>
+<span class="sr-only">6448 reviewed transitions</span>
+</article>
+
+<article class="thread-index-card">
+<div class="thread-card-meta">
+<span>3 sources</span>
+<span>11 reviewed turns</span>
+<time datetime="2026-10-15">Updated 2026-10-15</time>
+</div>
+<h2><a href="/threads/thread-zacharia-legal-credentials-dispute">How the Zacharia legal-credentials objection narrowed</a></h2>
+<p>Tracks Owens&#x27;s law-degree challenge, Zacharia&#x27;s quoted practice-and-credentials defense, and Owens&#x27;s subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.</p>
+<div class="thread-index-preview"><span><strong>3</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>11</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-zacharia-legal-credentials-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
+<span class="sr-only">11 reviewed transitions</span>
 </article>
 
 <article class="thread-index-card">
@@ -41,19 +54,6 @@ description: "Reviewed theory milestones and proposition changes over event and 
 <div class="thread-index-preview"><span><strong>8</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>19</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
 <span class="sr-only">19 reviewed transitions</span>
-</article>
-
-<article class="thread-index-card">
-<div class="thread-card-meta">
-<span>2 sources</span>
-<span>6 reviewed turns</span>
-<time datetime="2026-10-14">Updated 2026-10-14</time>
-</div>
-<h2><a href="/threads/thread-zacharia-legal-credentials-dispute">How the Zacharia legal-credentials objection narrowed</a></h2>
-<p>Tracks Owens&#x27;s law-degree challenge, Zacharia&#x27;s quoted practice-and-credentials defense, and Owens&#x27;s subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.</p>
-<div class="thread-index-preview"><span><strong>2</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>6</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-zacharia-legal-credentials-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">6 reviewed transitions</span>
 </article>
 
 <article class="thread-index-card">

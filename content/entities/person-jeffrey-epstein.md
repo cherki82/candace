@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 561 mentions"
+description: "Jeffrey Epstein (People) - 567 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-19-55">2026-10-14 · 00:20:25</a></strong></div>
-<div><span>Episodes</span><strong>106</strong></div>
-<div><span>Mentions</span><strong>561</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-42-29">2026-10-15 · 00:43:06</a></strong></div>
+<div><span>Episodes</span><strong>107</strong></div>
+<div><span>Mentions</span><strong>567</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>164</strong></div>
+<div><span>Statements about</span><strong>165</strong></div>
 <div><span>Relationships</span><strong>54</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -141,6 +141,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:40%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 14 mentions" title="2026-10-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-43-23" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-15-42" style="--pulse-height:9%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-35-33" style="--pulse-height:17%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -252,6 +253,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jeffrey-epstein-t-00-00-01) | 14 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-jeffrey-epstein-t-00-43-23) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-jeffrey-epstein-t-00-15-42) | 3 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-35-33) | 6 |
 
 </details>
 </section>
@@ -263,7 +265,30 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (561)</strong></summary>
+<summary><strong class="section-title">Raw mentions (567)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6 mentions)</summary>
+
+**[00:36:07](/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-35-33)**
+> "...on't live in a theocracy. The Epstein class is in power. So you empower them to just st..."
+
+**[00:36:21](/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-36-15)**
+> "...d happen if the, so to speak, Epstein class got that kind of power."
+
+**[00:37:59](/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-37-48)**
+> "...lowed to have an opinion, the Epstein class killed Charlie Kirk."
+
+**[00:38:18](/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-38-18)**
+> "...ou do not want to empower the Epstein class to go around and commit executions based on..."
+
+**[00:41:48](/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-41-48)**
+> "...to collapse, referring to the Jeffrey Epstein files, then it's a system that needs to collapse."
+
+**[00:43:06](/episodes/ep-YPIYYHCNPbE.md#ent-person-jeffrey-epstein-t-00-42-29)**
+> "Ignore the Epstein class taking over, or we're going to bankrupt you..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
@@ -2975,7 +3000,14 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (164)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (165)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:41:48](/episodes/ep-YPIYYHCNPbE.md#t-00-41-48) (Opinion) **Commenter Danielle (identity unverified)** (via read message): ["In a viewer comment read by Owens, Danielle (surname unverified) argue..."](/statements/statement-e070c4faf23f.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4)</summary>

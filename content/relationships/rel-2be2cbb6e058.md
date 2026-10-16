@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (27 mentions)
+### Evidence (28 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -76,6 +76,10 @@ object: "person-candace-owens"
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:55:05](/episodes/ep-Wjul6YV6izo#t-00-55-05): _it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire_
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:44:09](/episodes/ep-YPIYYHCNPbE#t-00-44-09): _I wouldn't have gone to work for The Daily Wire. I see them totally differently now. And so I feel like my eyes were opened at the exact right moment to then reflect and to know things about how things work so I can instantly call BS like I was at Turning Point USA._
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 

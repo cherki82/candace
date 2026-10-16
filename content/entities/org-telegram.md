@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-description: "Telegram (Organizations) - 30 mentions"
+description: "Telegram (Organizations) - 31 mentions"
 id: "org-telegram"
 type: "ORG"
 categories:
@@ -17,11 +17,11 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35">2025-10-07 · 00:07:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-01-04-45">2026-10-01 · 01:04:45</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-telegram-t-00-12-47">2026-10-15 · 00:12:47</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 10 mentions" title="2026-09-03 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-telegram-t-00-12-19" style="--pulse-height:20%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 2 mentions" title="2026-09-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-00-04-48" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-telegram-t-00-12-47" style="--pulse-height:10%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37) | 10 |
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-telegram-t-00-12-19) | 2 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-telegram-t-00-04-48) | 5 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-telegram-t-00-12-47) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:12:47](/episodes/ep-YPIYYHCNPbE.md#ent-org-telegram-t-00-12-47)**
+> "... apps were also used, such as Telegram, an instant messaging app, and Threads, a text-ba..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (5 mentions)</summary>
@@ -247,7 +257,15 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Telegram (5)</strong></summary>
+<summary><strong class="section-title">Statements about Telegram (6)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:12:24](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02) (Citation) **Candace Owens**: ["Citing the report and court documents, Owens said an ICAC tip from Dis..."](/statements/statement-4db5843cd00c.md)
+  - Also about: [Taylor Dodd](/entities/person-taylor-dodd.md), [Discord](/entities/org-discord.md), [Threads (Meta social media app)](/entities/work-threads-meta.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>

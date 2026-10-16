@@ -1,6 +1,6 @@
 ---
 title: "Cardiopulmonary resuscitation"
-description: "Cardiopulmonary resuscitation (Concepts) - 102 mentions"
+description: "Cardiopulmonary resuscitation (Concepts) - 104 mentions"
 id: "concept-cardiopulmonary-resuscitation"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-cardiopulmonary-resuscitation-t-00-38-48">2026-06-17 · 00:38:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28">2026-10-14 · 00:02:28</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>102</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-concept-cardiopulmonary-resuscitation-t-00-49-19">2026-10-15 · 00:49:19</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>104</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -53,6 +53,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-15" style="--pulse-height:67%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 8 mentions" title="2026-10-08 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-23-03" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-concept-cardiopulmonary-resuscitation-t-00-48-34" style="--pulse-height:17%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-15) | 8 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-concept-cardiopulmonary-resuscitation-t-00-23-03) | 3 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-concept-cardiopulmonary-resuscitation-t-00-48-34) | 2 |
 
 </details>
 </section>
@@ -87,7 +89,18 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:48:45](/episodes/ep-YPIYYHCNPbE.md#ent-concept-cardiopulmonary-resuscitation-t-00-48-34)**
+> "...ire captain was who performed CPR."
+
+**[00:49:19](/episodes/ep-YPIYYHCNPbE.md#ent-concept-cardiopulmonary-resuscitation-t-00-49-19)**
+> "...fire captain is who performed CPR, and we find it to be very odd that neither Frank..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>

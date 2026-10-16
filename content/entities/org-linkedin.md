@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 27 mentions"
+description: "LinkedIn (Organizations) - 29 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-linkedin-t-00-06-55">2025-09-30 · 00:07:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-linkedin-t-00-16-10">2026-10-06 · 00:16:23</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-linkedin-t-00-28-30">2026-10-15 · 00:28:46</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-linkedin-t-00-13-05" style="--pulse-height:20%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-linkedin-t-00-16-10" style="--pulse-height:20%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-linkedin-t-00-08-18" style="--pulse-height:40%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-linkedin-t-00-13-05) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-linkedin-t-00-16-10) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-linkedin-t-00-08-18) | 2 |
 
 </details>
 </section>
@@ -81,7 +83,18 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
+
+**[00:08:18](/episodes/ep-YPIYYHCNPbE.md#ent-org-linkedin-t-00-08-18)**
+> "...le to find a photo of that on LinkedIn posted from the A.V. company that miked him, whic..."
+
+**[00:28:46](/episodes/ep-YPIYYHCNPbE.md#ent-org-linkedin-t-00-28-30)**
+> "... want to be clear that on her LinkedIn, she has herself listed as a general counsel."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
@@ -281,7 +294,18 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about LinkedIn (8)</strong></summary>
+<summary><strong class="section-title">Statements about LinkedIn (10)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>
+
+- [00:08:18](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18) (Citation) **Candace Owens**: ["Citing Cox’s schedule and an AV company’s LinkedIn photo, Owens said h..."](/statements/statement-92bd0146fafc.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md), [Mona, Utah](/entities/gpe-mona-utah.md)
+
+- [00:28:46](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30) (Citation) **Candace Owens**: ["Owens said Katie Zacharia’s LinkedIn listed her as general counsel."](/statements/statement-85116d0eaad5.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1)</summary>

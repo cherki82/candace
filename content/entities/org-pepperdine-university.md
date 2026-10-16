@@ -1,6 +1,6 @@
 ---
 title: "Pepperdine University"
-description: "Pepperdine University (Organizations) - 6 mentions"
+description: "Pepperdine University (Organizations) - 9 mentions"
 id: "org-pepperdine-university"
 type: "ORG"
 aliases:
@@ -22,22 +22,23 @@ Source: [This is Pepperdine | Pepperdine University](https://www.pepperdine.edu/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pepperdine-university-t-00-19-36">2026-02-13 · 00:20:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-pepperdine-university-t-00-27-58">2026-10-14 · 00:28:10</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-pepperdine-university-t-00-28-30">2026-10-15 · 00:28:46</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pepperdine-university-t-00-19-36">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-pepperdine-university-t-00-27-57">Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pepperdine-university-t-00-19-36" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-pepperdine-university-t-00-40-13" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-pepperdine-university-t-00-27-58" style="--pulse-height:100%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pepperdine-university-t-00-19-36" style="--pulse-height:67%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-org-pepperdine-university-t-00-40-13" style="--pulse-height:67%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-org-pepperdine-university-t-00-27-58" style="--pulse-height:67%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-pepperdine-university-t-00-27-57" style="--pulse-height:100%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 3 mentions" title="2026-10-15 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [This is Pepperdine | Pepperdine University](https://www.pepperdine.edu/
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-pepperdine-university-t-00-19-36) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-pepperdine-university-t-00-40-13) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-pepperdine-university-t-00-27-58) | 2 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-pepperdine-university-t-00-27-57) | 3 |
 
 </details>
 </section>
@@ -57,7 +59,21 @@ Source: [This is Pepperdine | Pepperdine University](https://www.pepperdine.edu/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (3 mentions)</summary>
+
+**[00:28:24](/episodes/ep-YPIYYHCNPbE.md#ent-org-pepperdine-university-t-00-27-57)**
+> "...ecause she had consulted with Pepperdine's president as to how to identify herself."
+
+**[00:28:30](/episodes/ep-YPIYYHCNPbE.md#ent-org-pepperdine-university-t-00-28-30)**
+> "...ecause she had consulted with Pepperdine's president as to how to identify herself. And she ..."
+
+**[00:28:46](/episodes/ep-YPIYYHCNPbE.md#ent-org-pepperdine-university-t-00-28-30)**
+> "I don't know why Pepperdine's president would tell her that that was okay. Beyo..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
@@ -161,7 +177,15 @@ Source: [This is Pepperdine | Pepperdine University](https://www.pepperdine.edu/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pepperdine University (2)</strong></summary>
+<summary><strong class="section-title">Statements about Pepperdine University (3)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:28:24](/episodes/ep-YPIYYHCNPbE.md#t-00-27-57) (Claim) **Candace Owens** (via paraphrase): ["Owens said Zacharia had consulted Pepperdine’s president and was told ..."](/statements/statement-0f0432c8163d.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md), [Pepperdine president cited as adviser in YPIYYHCNPbE (identity unverified)](/entities/anon-src-YPIYYHCNPbE-019.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>

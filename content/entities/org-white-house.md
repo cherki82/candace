@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 292 mentions"
+description: "White House (Organizations) - 293 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-47-52">2026-10-14 · 00:48:12</a></strong></div>
-<div><span>Episodes</span><strong>84</strong></div>
-<div><span>Mentions</span><strong>292</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43">2026-10-15 · 00:20:02</a></strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>293</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>81</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -115,6 +115,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-white-house-t-00-33-24" style="--pulse-height:11%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03" style="--pulse-height:29%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 8 mentions" title="2026-10-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -204,6 +205,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-white-house-t-00-49-39) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-white-house-t-00-33-24) | 3 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03) | 8 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43) | 1 |
 
 </details>
 </section>
@@ -215,7 +217,15 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (292)</strong></summary>
+<summary><strong class="section-title">Raw mentions (293)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:20:02](/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43)**
+> "...p) ballroom demands after the White House correspondence dinner shooting. Very coordinated ..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (8 mentions)</summary>

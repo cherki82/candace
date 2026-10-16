@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 1064 mentions"
+description: "Donald J. Trump (People) - 1070 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-29-35">2026-10-14 · 00:29:35</a></strong></div>
-<div><span>Episodes</span><strong>150</strong></div>
-<div><span>Mentions</span><strong>1,064</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-39-39">2026-10-15 · 00:39:39</a></strong></div>
+<div><span>Episodes</span><strong>151</strong></div>
+<div><span>Mentions</span><strong>1,070</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>267</strong></div>
+<div><span>Statements about</span><strong>269</strong></div>
 <div><span>Relationships</span><strong>177</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
@@ -191,6 +191,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 13 mentions" title="2026-10-13 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11" style="--pulse-height:10%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -346,6 +347,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-donald-trump-t-00-17-49) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24) | 13 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11) | 5 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43) | 6 |
 
 </details>
 </section>
@@ -358,7 +360,30 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1064)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1070)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6 mentions)</summary>
+
+**[00:20:02](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43)**
+> "It was exactly like the Trump (Donald Trump) ballroom demands after the White H..."
+
+**[00:20:09](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43)**
+> "Oh, shots fired. Trump (Donald Trump) needs his ballroom. We're like, th..."
+
+**[00:34:26](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-33-49)**
+> "...alified to represent what the Trump (Donald Trump) administration has become, which i..."
+
+**[00:37:51](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-37-48)**
+> "...was not speaking about Donald Trump. And that was not what he was thinking."
+
+**[00:38:18](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-38-18)**
+> "...But yes, to tell you quickly, Trump (Donald Trump) did issue a truth social post wher..."
+
+**[00:39:39](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-39-39)**
+> "...his truth social post, Donald Trump said that the execution can be viewed by people i..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (5 mentions)</summary>
@@ -4649,7 +4674,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4684,6 +4709,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:18:49](/episodes/ep-bIuvTKlFeGo.md#t-01-18-30): “I am just so sickened by how much power and how much money is behind this. How much power and how much money and the audacity of President Donald Trump (Donald J. Trump). ... who Charlie (Charlie Kirk) did so much for, so close to.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 
 </details>
 
@@ -5408,7 +5434,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -5443,6 +5469,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:18:49](/episodes/ep-bIuvTKlFeGo.md#t-01-18-30): “I am just so sickened by how much power and how much money is behind this. How much power and how much money and the audacity of President Donald Trump (Donald J. Trump). ... who Charlie (Charlie Kirk) did so much for, so close to.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 
 </details>
 
@@ -6093,7 +6120,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (267)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (269)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>
+
+- [00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49) (Opinion) **Candace Owens**: ["Owens called the Trump administration a group of liars and sarcastical..."](/statements/statement-c7222b73f118.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18) (Citation) **Candace Owens** (via paraphrase): ["Owens described a Trump Truth Social post as stopping a publicly lives..."](/statements/statement-3542af57c374.md)
+  - Also about: [Nidal Malik Hasan](/entities/person-nidal-malik-hasan.md), [Truth Social](/entities/org-truth-social.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>

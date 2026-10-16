@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 243 mentions"
+description: "Tyler Bowyer (People) - 249 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16">2026-10-07 · 00:46:39</a></strong></div>
-<div><span>Episodes</span><strong>66</strong></div>
-<div><span>Mentions</span><strong>243</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-21-40">2026-10-15 · 00:21:43</a></strong></div>
+<div><span>Episodes</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>249</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>88</strong></div>
+<div><span>Statements about</span><strong>92</strong></div>
 <div><span>Relationships</span><strong>68</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -102,6 +102,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-bowyer-t-00-40-46" style="--pulse-height:8%" aria-label="More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386: 1 mentions" title="2026-09-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-08-26" style="--pulse-height:29%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 5 mentions" title="2026-09-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-16-10" style="--pulse-height:35%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -173,6 +174,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-09-14 | [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386](/episodes/ep-O4Zw3bCALjU.md#ent-person-tyler-bowyer-t-00-40-46) | 1 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-tyler-bowyer-t-01-08-26) | 5 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-16-10) | 6 |
 
 </details>
 </section>
@@ -184,7 +186,30 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (243)</strong></summary>
+<summary><strong class="section-title">Raw mentions (249)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6 mentions)</summary>
+
+**[00:16:22](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-16-10)**
+> "...tion is run by sexual deviant Tyler Bowyer. I keep telling you this."
+
+**[00:16:31](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-16-10)**
+> "...Charlie Kirk) wanted to fire. Tyler Bowyer before he passed. That's if Mikey McCoy (Michael ..."
+
+**[00:17:41](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-17-32)**
+> "... Superfeed. Lori Frantzve and Tyler Bowyer work together. They have known each other since b..."
+
+**[00:18:33](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-18-16)**
+> "... might recall it was actually Tyler Bowyer himself. He presented the newly erected Charlie K..."
+
+**[00:20:22](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-20-22)**
+> "... the 501(c)(3), but rather to Tyler Bowyer's Turning Point Action 501(c)(4) arm."
+
+**[00:21:43](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-21-40)**
+> "...t caught the person. And yes, Tyler Bowyer reinforced this on X as well. Here was his tweet ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
@@ -1418,7 +1443,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -1429,6 +1454,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -1569,10 +1595,11 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Operates (1)</summary>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -1716,7 +1743,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -1727,6 +1754,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -1876,10 +1904,11 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** operated by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:20:57](/episodes/ep-bIuvTKlFeGo.md#t-01-20-26): “And I believe that he's always been, based on my experience, Tyler Bowyer's guy. And there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 
 </details>
 
@@ -1901,11 +1930,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:42](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42): “Oh, Tyler Bowyer, shady dude. They're effectively then business partners. They have been for a while, actually. Lori (Lori Frantzve) was at first a director over at Superfeed.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:29:11](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... blind spot she just can't that's her one category she can't remember is how she knows Tyler Bowyer even though he is in business with her mother and has her at behind trump in 2015 it is my personal opinion that a deal was done when i look at the evidence when i look at everything i'm looking at when i see how duplicitous she was and i know that Charlie (Charlie Kirk) did not know these things because i was there”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:30](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “Tyler (Tyler Bowyer) is sitting on the board of a company with Erica's (Erika Kirk's) mother, Lori Frantzve”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32): “Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie (Charlie Kirk) was ever in the picture.”
 
 </details>
 
@@ -2018,7 +2048,24 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (88)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (92)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (4)</summary>
+
+- [00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10) (Accusation) **Candace Owens**: ["Owens called Tyler Bowyer a sexual deviant and said Charlie Kirk wante..."](/statements/statement-51ad75193454.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said Lori Frantzve and Tyler Bowyer worked together through Supe..."](/statements/statement-9f2d58625a4b.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+- [00:17:41](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32) (Accusation) **Candace Owens**: ["Owens wondered whether Lori Frantzve and Tyler Bowyer maybe did someth..."](/statements/statement-9c4a4cbcfedf.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Turning Point Action](/entities/org-turning-point-action.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Bowyer presented a new Charlie Kirk statue in Septemb..."](/statements/statement-6e96797392ab.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1)</summary>

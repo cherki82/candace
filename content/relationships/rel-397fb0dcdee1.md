@@ -11,7 +11,7 @@ object: "person-baron-coleman"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Baron Coleman](/entities/person-baron-coleman)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
@@ -20,6 +20,10 @@ object: "person-baron-coleman"
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
 - [00:01:48](/episodes/ep-SgVcnx4Oh30#t-00-01-48): _We kind of build off of each other and the work and the investigation that we're doing._
+
+**[Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE)**
+
+- [00:42:10](/episodes/ep-YPIYYHCNPbE#t-00-42-10): _Yes. There have been others, obviously, who have been just as consistent, staying focused, not jumping into all the riffraff. A lot of times people on X, like everyone's like fighting and just help investigate or don't. And that's why, obviously, I selected Baron Coleman to take over the show because he has been focused and he's. ... He's been updating everything and we have been information sharing in the background for quite some time now, but it's you can't ignore it._
 
 **[CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY)**
 

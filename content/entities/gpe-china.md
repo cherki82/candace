@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 65 mentions"
+description: "China (Places) - 71 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -18,12 +18,12 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-38">2025-10-01 · 00:30:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-china-t-00-28-58">2026-10-14 · 00:29:04</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>65</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-31-26">2026-10-15 · 00:31:43</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
 
@@ -54,6 +54,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-china-t-00-14-58" style="--pulse-height:9%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-china-t-00-39-34" style="--pulse-height:9%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-china-t-00-28-54" style="--pulse-height:27%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-27-15" style="--pulse-height:55%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-china-t-00-14-58) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-china-t-00-39-34) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-china-t-00-28-54) | 3 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-27-15) | 6 |
 
 </details>
 </section>
@@ -94,7 +96,30 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6 mentions)</summary>
+
+**[00:27:28](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-27-15)**
+> "...t us with an answer of, like, China. In China, I did the thing. When somebody asks yo..."
+
+**[00:29:15](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-29-15)**
+> "... a former corporate lawyer in China for three years. And I mean, I am a lawyer and I'..."
+
+**[00:30:34](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-30-34)**
+> "...nly from he lived in Beijing, China,"
+
+**[00:30:59](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-30-43)**
+> "...can private equity company in China, I had already pre-registered to take the bar and..."
+
+**[00:31:26](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-31-26)**
+> "...ew I wouldn't need the bar in China and and we left shortly thereafter."
+
+**[00:31:43](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-china-t-00-31-26)**
+> "And after moving to China, I think I didn't I didn't really think much of t..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
@@ -406,7 +431,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Former Residence Of (1)</summary>
+<summary>Former Residence Of (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -419,10 +444,17 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 </details>
 
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:31:43](/episodes/ep-YPIYYHCNPbE.md#t-00-31-26): “And after moving to China, I think I didn't I didn't really think much of the bar results or consider that something that I needed to focus on and I was.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -435,12 +467,30 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 </details>
 
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:31:43](/episodes/ep-YPIYYHCNPbE.md#t-00-31-26): “And after moving to China, I think I didn't I didn't really think much of the bar results or consider that something that I needed to focus on and I was.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about China (16)</strong></summary>
+<summary><strong class="section-title">Statements about China (18)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>
+
+- [00:29:15](/episodes/ep-YPIYYHCNPbE.md#t-00-29-15) (Claim) **Katie Zacharia** (via quoted speech): ["In a supercut played by Owens, Katie Zacharia repeatedly called hersel..."](/statements/statement-6876663c87e5.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:30:43](/episodes/ep-YPIYYHCNPbE.md#t-00-30-43) (Claim) **Katie Zacharia** (via quoted speech): ["In the Posobiec interview clip, Zacharia said she had preregistered fo..."](/statements/statement-77ec6ce3b6fe.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>

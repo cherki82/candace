@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 112 mentions"
+description: "The Wellness Company (Organizations) - 115 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-the-wellness-company-t-00-36-35">2026-10-06 · 00:37:11</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-the-wellness-company-t-00-25-09">2026-10-15 · 00:25:47</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>115</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -78,6 +78,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-aLJhpxrakCU.md#ent-org-the-wellness-company-t-00-38-09" style="--pulse-height:40%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 2 mentions" title="2026-09-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-the-wellness-company-t-00-26-50" style="--pulse-height:60%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 3 mentions" title="2026-09-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-the-wellness-company-t-00-35-59" style="--pulse-height:60%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 3 mentions" title="2026-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-the-wellness-company-t-00-24-24" style="--pulse-height:60%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 3 mentions" title="2026-10-15 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -124,6 +125,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-the-wellness-company-t-00-38-09) | 2 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-the-wellness-company-t-00-26-50) | 3 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-the-wellness-company-t-00-35-59) | 3 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-the-wellness-company-t-00-24-24) | 3 |
 
 </details>
 </section>
@@ -131,7 +133,21 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (3 mentions)</summary>
+
+**[00:24:59](/episodes/ep-YPIYYHCNPbE.md#ent-org-the-wellness-company-t-00-24-24)**
+> "...want to remind you guys about the wellness company because ever since the pandemic, heart inflammati..."
+
+**[00:25:28](/episodes/ep-YPIYYHCNPbE.md#ent-org-the-wellness-company-t-00-25-09)**
+> "...buildup inside of our bodies. The Wellness Company recently published a study revealing that there i..."
+
+**[00:25:47](/episodes/ep-YPIYYHCNPbE.md#ent-org-the-wellness-company-t-00-25-09)**
+> "100,000 people now take the wellness company's Ultimate Spike Detox annually because it's someth..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3 mentions)</summary>
@@ -691,7 +707,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -707,16 +723,29 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:17](/episodes/ep-aLJhpxrakCU.md#t-00-39-17): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as preventative measure. The Wellness Company offers a hard-to-access Rx parasite cleanse, which is USA compounded ivermectin and mebendazole. Each capsule was lab-tested for quality. You can now get a more budget-friendly 45 capsule option that costs $250 less. giving you two 21-day parasite cleanse cycles. It is the same formula as the original, just a smaller quantity. Head to twc.health slash CANDACE and use code CANDACE at checkout to save $52 plus you'll get free shipping.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:27:38](/episodes/ep-6XfDqKTdFKg.md#t-00-27-29): “The Wellness Company's methylene blue is USP grade, ensuring top—top-tier purity for maximum safety and effectiveness. This is not the sketchy stuff that you find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular repair while supporting clean, lasting energy. Tap into cognitive and metabolic support that helps you stay energized, focused, and resilient all day long. Choose a trusted formula made for your body, not for fish tanks. Feel the difference with enhanced mental clarity, sustained energy. sharper focus and protection against cognitive decline. And no, it's not going to turn your tongue blue. Head to twc.health slash Candace and use code Candace at checkout to get 15% off. Plus you'll get free shipping.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:11](/episodes/ep-0pSAhaAZz1w.md#t-00-36-35): “100,000 people now take the Wellness Company's Ultimate Spike Detox annually because it's something that we all can benefit from. So head to twc.health slash candace and use code candace at checkout, and you'll get 15% off your order. Again, that's twc.health slash candace.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:25:47](/episodes/ep-YPIYYHCNPbE.md#t-00-25-09): “100,000 people now take the wellness company's Ultimate Spike Detox annually because it's something that we can all benefit from. ... So head to twc.health slash Candace and use code Candace at checkout and you'll get 15% off your order.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Produced (1)</summary>
+
+- **[Ultimate Spike Detox](/entities/work-ultimate-spike-detox.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:25:28](/episodes/ep-YPIYYHCNPbE.md#t-00-25-09): “spike protein buildup inside of our bodies. The Wellness Company recently published a study revealing that there is only one enzyme that effectively clears the body of lingering spike protein, and that's why they created the Ultimate Spike Detox, which combines this enzyme with bromelain, turmeric, and selenium to support detox and healthy circulation.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -732,6 +761,14 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 - [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 @ 00:39:17](/episodes/ep-aLJhpxrakCU.md#t-00-39-17): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as preventative measure. The Wellness Company offers a hard-to-access Rx parasite cleanse, which is USA compounded ivermectin and mebendazole. Each capsule was lab-tested for quality. You can now get a more budget-friendly 45 capsule option that costs $250 less. giving you two 21-day parasite cleanse cycles. It is the same formula as the original, just a smaller quantity. Head to twc.health slash CANDACE and use code CANDACE at checkout to save $52 plus you'll get free shipping.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:27:38](/episodes/ep-6XfDqKTdFKg.md#t-00-27-29): “The Wellness Company's methylene blue is USP grade, ensuring top—top-tier purity for maximum safety and effectiveness. This is not the sketchy stuff that you find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular repair while supporting clean, lasting energy. Tap into cognitive and metabolic support that helps you stay energized, focused, and resilient all day long. Choose a trusted formula made for your body, not for fish tanks. Feel the difference with enhanced mental clarity, sustained energy. sharper focus and protection against cognitive decline. And no, it's not going to turn your tongue blue. Head to twc.health slash Candace and use code Candace at checkout to get 15% off. Plus you'll get free shipping.”
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:37:11](/episodes/ep-0pSAhaAZz1w.md#t-00-36-35): “100,000 people now take the Wellness Company's Ultimate Spike Detox annually because it's something that we all can benefit from. So head to twc.health slash candace and use code candace at checkout, and you'll get 15% off your order. Again, that's twc.health slash candace.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:25:47](/episodes/ep-YPIYYHCNPbE.md#t-00-25-09): “100,000 people now take the wellness company's Ultimate Spike Detox annually because it's something that we can all benefit from. ... So head to twc.health slash Candace and use code Candace at checkout and you'll get 15% off your order.”
+
+</details>
+
+- **[Ultimate Spike Detox](/entities/work-ultimate-spike-detox.md)** produced by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:25:28](/episodes/ep-YPIYYHCNPbE.md#t-00-25-09): “spike protein buildup inside of our bodies. The Wellness Company recently published a study revealing that there is only one enzyme that effectively clears the body of lingering spike protein, and that's why they created the Ultimate Spike Detox, which combines this enzyme with bromelain, turmeric, and selenium to support detox and healthy circulation.”
 
 </details>
 

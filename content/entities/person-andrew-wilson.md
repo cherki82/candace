@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wilson"
-description: "Andrew Wilson (People) - 178 mentions"
+description: "Andrew Wilson (People) - 179 mentions"
 id: "person-andrew-wilson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-andrew-wilson-t-00-02-36">2026-08-07 · 00:02:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-wilson-t-00-08-01">2026-10-07 · 00:08:01</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>178</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-andrew-wilson-t-00-39-02">2026-10-15 · 00:39:12</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>179</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
 <div><span>Statements about</span><strong>55</strong></div>
 <div><span>Relationships</span><strong>42</strong></div>
@@ -53,6 +53,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-00-06-48" style="--pulse-height:12%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 5 mentions" title="2026-10-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-11-35" style="--pulse-height:17%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 7 mentions" title="2026-10-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-wilson-t-00-08-01" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-andrew-wilson-t-00-39-02" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-andrew-wilson-t-00-06-48) | 5 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-andrew-wilson-t-00-11-35) | 7 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-andrew-wilson-t-00-08-01) | 1 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-andrew-wilson-t-00-39-02) | 1 |
 
 </details>
 </section>
@@ -92,7 +94,15 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+<summary><strong class="section-title">Raw mentions (179)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
+
+**[00:39:12](/episodes/ep-YPIYYHCNPbE.md#ent-person-andrew-wilson-t-00-39-02)**
+> "...erally people like, you know, Andrew Wilson, oh, I can't wait to watch. Yeah, I bet you can't..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
@@ -805,7 +815,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
@@ -818,6 +828,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:45:51](/episodes/ep-_Sq5RqP27NY.md#t-00-45-51): “The ability to do that so quickly after he died, you’d be cherishing this. Like, there’s no privacy. Sell, sell, sell, sell, and get even with him. Like I said, she’s so nasty behind the scenes, but you see a glimpse of that, and then you are met with this partnership with Andrew Wilson, and you just go, this guy’s a drunk. He is addicted, you know, to chain smoking constantly. There’s like late nights, ... night stuff of him just downing whiskey or whatever it is. I mean, this should register to her as scum of the earth. And she gives him something as precious as a video, what is supposed to be, as representing it, the last video, which should be the last video of her husband with his kids. That is just bizarre, and no one will ever make that make sense to me. I’m done arguing about whether it’s just a grieving widow. That is conniving, and it is disgusting, and it is debased.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 01:05:00](/episodes/ep-q4m-kGzvwjw.md#t-01-04-45): “But, like, other people also had access to it and could communicate, and that's the American flag icon. And then the real Charlie (Charlie Kirk), the one that was speaking to the donors, the one that says Charlie Kirk, that we saw when he's like, "I've been left with no choice but to ban the pro-Israel cause." That, yeah, I've realized the American flag thing is interesting. I don't know if Erika (Erika Kirk) took over that account. I don't know what's going on. I believe nothing that comes from Andrew Wilson, because why would you send it to Andrew Wilson when you could send it to Andrew Kolvet? ... Why would you not release the information yourself? Why wouldn't you send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it to Vanity Fair. ... You gave him four months of access. Why not give them the messages? Daily Mail, you don't choose to give something. They're moving towards these sorts of people who will lie and are disgusting.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:50](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “Something feels right in the story. It feels right for a variety of reasons. One of the reasons is because I had noticed this bizarre shift in the character and the quality of the influencers that are now in the Turning Point USA orbit, right? The Andrew (Andrew Wilson) and Rachel Wilson types. It's like they're suddenly dipping into a pool of degenerates. Group chats filled with people who look and behave like something you might come across upon the Strip in Las Vegas, if we're being honest. Like they bet their last $500 against the house and the house won because the house always wins.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:39:12](/episodes/ep-YPIYYHCNPbE.md#t-00-39-02): “But just generally people like, you know, Andrew Wilson, oh, I can't wait to watch. Yeah, I bet you can't wait to watch. ... This is like a state sponsored snuff pornography. It was very weird to me to hear people. just clamoring to watch somebody's soul leave their body.”
 
 </details>
 
@@ -1014,7 +1025,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
@@ -1027,6 +1038,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:45:51](/episodes/ep-_Sq5RqP27NY.md#t-00-45-51): “The ability to do that so quickly after he died, you’d be cherishing this. Like, there’s no privacy. Sell, sell, sell, sell, and get even with him. Like I said, she’s so nasty behind the scenes, but you see a glimpse of that, and then you are met with this partnership with Andrew Wilson, and you just go, this guy’s a drunk. He is addicted, you know, to chain smoking constantly. There’s like late nights, ... night stuff of him just downing whiskey or whatever it is. I mean, this should register to her as scum of the earth. And she gives him something as precious as a video, what is supposed to be, as representing it, the last video, which should be the last video of her husband with his kids. That is just bizarre, and no one will ever make that make sense to me. I’m done arguing about whether it’s just a grieving widow. That is conniving, and it is disgusting, and it is debased.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 01:05:00](/episodes/ep-q4m-kGzvwjw.md#t-01-04-45): “But, like, other people also had access to it and could communicate, and that's the American flag icon. And then the real Charlie (Charlie Kirk), the one that was speaking to the donors, the one that says Charlie Kirk, that we saw when he's like, "I've been left with no choice but to ban the pro-Israel cause." That, yeah, I've realized the American flag thing is interesting. I don't know if Erika (Erika Kirk) took over that account. I don't know what's going on. I believe nothing that comes from Andrew Wilson, because why would you send it to Andrew Wilson when you could send it to Andrew Kolvet? ... Why would you not release the information yourself? Why wouldn't you send it to Tucker Carlson, Megyn Kelly, all of your media friends? Give it to Vanity Fair. ... You gave him four months of access. Why not give them the messages? Daily Mail, you don't choose to give something. They're moving towards these sorts of people who will lie and are disgusting.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:50](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “Something feels right in the story. It feels right for a variety of reasons. One of the reasons is because I had noticed this bizarre shift in the character and the quality of the influencers that are now in the Turning Point USA orbit, right? The Andrew (Andrew Wilson) and Rachel Wilson types. It's like they're suddenly dipping into a pool of degenerates. Group chats filled with people who look and behave like something you might come across upon the Strip in Las Vegas, if we're being honest. Like they bet their last $500 against the house and the house won because the house always wins.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:39:12](/episodes/ep-YPIYYHCNPbE.md#t-00-39-02): “But just generally people like, you know, Andrew Wilson, oh, I can't wait to watch. Yeah, I bet you can't wait to watch. ... This is like a state sponsored snuff pornography. It was very weird to me to hear people. just clamoring to watch somebody's soul leave their body.”
 
 </details>
 

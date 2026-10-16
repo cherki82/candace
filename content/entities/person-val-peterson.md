@@ -1,6 +1,6 @@
 ---
 title: "Val L. Peterson"
-description: "Val L. Peterson (People) - 36 mentions"
+description: "Val L. Peterson (People) - 41 mentions"
 id: "person-val-peterson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06">2026-10-13 · 00:04:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-13-10">2026-10-14 · 00:13:35</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-09-30">2026-10-15 · 00:09:30</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 29 mentions" title="2026-10-13 · 29 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-02-55" style="--pulse-height:24%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 7 mentions" title="2026-10-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-07-34" style="--pulse-height:17%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 5 mentions" title="2026-10-15 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 |---|---|---:|
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06) | 29 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-02-55) | 7 |
+| 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-07-34) | 5 |
 
 </details>
 </section>
@@ -56,7 +58,27 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (5 mentions)</summary>
+
+**[00:07:49](/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-07-34)**
+> "...k, if he did indeed golf with Val Peterson on the morning of the 10th."
+
+**[00:08:02](/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-07-34)**
+> "...le, he doesn't have golf with Val Peterson on it, not on his official schedule anyway."
+
+**[00:08:54](/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-08-54)**
+> "... I would offer that if he and Val Peterson did meet up for golf, it was likely before this, ..."
+
+**[00:09:06](/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-08-54)**
+> "...that my sources on this, that Val Peterson was with the governor on September 10th, are soli..."
+
+**[00:09:30](/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-09-30)**
+> "...u guys posted. Now, regarding Val Peterson, the man, the myth, the legend, the alleged most ..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (7 mentions)</summary>
@@ -264,9 +286,10 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 <summary>Sibling Of (1)</summary>
 
 - **[Charles Loritz Peterson (source-named; identity unverified)](/entities/anon-src-6jOEN9rBePU-001.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:13:35](/episodes/ep-6jOEN9rBePU.md#t-00-13-10): “Born in Nampa, Idaho. So that's interesting. Anyway, Val (Val Peterson)'s brother Charles (Charles Loritz Peterson) was additionally charged in Meridian with four counts of soliciting a child.”
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:09:30](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “We will keep you guys posted. Now, regarding Val Peterson, the man, the myth, the legend, the alleged most powerful man in the States, now that we have discovered, as we did, that his brother Charles (Val Peterson's brother; full name unverified), Chuck (same person), Chuckie boy (same person) over there has some legal issues, and that's me putting it mildly.”
 
 </details>
 
@@ -374,7 +397,15 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Val L. Peterson (24)</strong></summary>
+<summary><strong class="section-title">Statements about Val L. Peterson (25)</strong></summary>
+
+<details>
+<summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
+
+- [00:07:49](/episodes/ep-YPIYYHCNPbE.md#t-00-07-34) (Claim) **Candace Owens** (via paraphrase): ["Owens said sources she considered solid and unaware of one another pla..."](/statements/statement-51e7ad1a386f.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (8)</summary>

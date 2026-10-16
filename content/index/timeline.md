@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 2108_
+_Total events: 2117_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,8 +340,8 @@ _Total events: 2108_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (385)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (993)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (391)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (996)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (108)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (43)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (31)</label>
@@ -457,6 +457,61 @@ _Total events: 2108_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-10-15-candace-owens-reported-a-turning-point-a" data-filter-key="event-2026-10-15-candace-owens-reported-a-turning-point-a">
+<div class="timeline-date">2026-10-15</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-15-candace-owens-reported-a-turning-point-a.md">Candace Owens reported a Turning Point Action fundraising email saying its September activity had exhausted financial resources faster than planned...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-15-candace-owens-reported-a-turning-point-a.md">Candace Owens reported a Turning Point Action fundraising email saying its September activity had exhausted financial resources faster than planned; this dates her report, not the undated email or any alleged theft.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-15: Candace Owens reported a Turning Point Action fundraising email saying its September activity had exhausted financial resources faster than planned; this dates her report, not the undated email or any alleged theft. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:17:32](/episodes/ep-YPIYYHCNPbE.md#t-00-17-32)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:22:46](/episodes/ep-YPIYYHCNPbE.md#t-00-22-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-15-katie-zacharia-gave-an-interview-to-jack" data-filter-key="event-2026-10-15-katie-zacharia-gave-an-interview-to-jack">
+<div class="timeline-date">2026-10-15</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-15-katie-zacharia-gave-an-interview-to-jack.md">Katie Zacharia gave an interview to Jack Posobiec explaining taking the bar exam before moving to China and not retaking it after returning to the ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-15-katie-zacharia-gave-an-interview-to-jack.md">Katie Zacharia gave an interview to Jack Posobiec explaining taking the bar exam before moving to China and not retaking it after returning to the United States, in the interview excerpt presented by Candace Owens.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-15: Katie Zacharia gave an interview to Jack Posobiec explaining taking the bar exam before moving to China and not retaking it after returning to the United States, in the interview excerpt presented by Candace Owens. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:30:17](/episodes/ep-YPIYYHCNPbE.md#t-00-30-17)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:31:26](/episodes/ep-YPIYYHCNPbE.md#t-00-31-26)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-15-candace-owens-described-donald-trumps-tr" data-filter-key="event-2026-10-15-candace-owens-described-donald-trumps-tr">
+<div class="timeline-date">2026-10-15</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-15-candace-owens-described-donald-trumps-tr.md">Candace Owens described Donald Trump's Truth Social post canceling a public livestream of Nidal Malik Hasan's execution while allowing victims' imm...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-15-candace-owens-described-donald-trumps-tr.md">Candace Owens described Donald Trump's Truth Social post canceling a public livestream of Nidal Malik Hasan's execution while allowing victims' immediate families to witness it; her brief wording about canceling the execution itself is contradicted by her subsequent clarification.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-15: Candace Owens described Donald Trump\'s Truth Social post canceling a public livestream of Nidal Malik Hasan\'s execution while allowing victims\' immediate families to witness it; her brief wording about canceling the execution itself is contradicted by her subsequent clarification. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:38:45](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:39:39](/episodes/ep-YPIYYHCNPbE.md#t-00-39-39)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-10-14-candace-owens-commemorated-charlie-kirks" data-filter-key="event-2026-10-14-candace-owens-commemorated-charlie-kirks">
 <div class="timeline-date">2026-10-14</div>
 <div class="timeline-desc"><a href="/events/event-2026-10-14-candace-owens-commemorated-charlie-kirks.md">Candace Owens commemorated Charlie Kirk's birthday and urged continued investigation of his death.</a></div>
@@ -564,6 +619,23 @@ _Total events: 2108_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Hap... @ 00:23:20](/episodes/ep-UAdBEXs7nNc.md#t-00-23-20)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-08-candace-owens-said-pete-hegseth-announce" data-filter-key="event-2026-10-08-candace-owens-said-pete-hegseth-announce">
+<div class="timeline-date">2026-10-08</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-08-candace-owens-said-pete-hegseth-announce.md">Candace Owens said Pete Hegseth announced plans to livestream Nidal Malik Hasan's execution; this event records the announcement, not a future exec...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-08-candace-owens-said-pete-hegseth-announce.md">Candace Owens said Pete Hegseth announced plans to livestream Nidal Malik Hasan's execution; this event records the announcement, not a future execution.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-08: Candace Owens said Pete Hegseth announced plans to livestream Nidal Malik Hasan\'s execution; this event records the announcement, not a future execution. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32)
 
 </details>
 </div>
@@ -768,13 +840,14 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2026-09-turning-point-usa-unveiled-a-charlie-kir.md">Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters before the reported September 13 vandalism; the precise unveiling day is not independently stated in this transcript.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-09: Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters before the reported September 13 vandalism; the precise unveiling day is not independently stated in this transcript. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farns... @ 00:01:02](/episodes/ep-O4Zw3bCALjU.md#t-00-00-46)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16)
 
 </details>
 </div>
@@ -802,13 +875,14 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2026-09-andrew-kolvet-promoted-turning-point-act.md">Andrew Kolvet promoted Turning Point Action’s Commit 100 program after news of the statue vandalism and said friends of Charlie and Erika Kirk offered a $10,000 reward for tips leading to the vandals’ arrest.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-09: Andrew Kolvet promoted Turning Point Action’s Commit 100 program after news of the statue vandalism and said friends of Charlie and Erika Kirk offered a $10,000 reward for tips leading to the vandals’ arrest. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farns... @ 00:40:28](/episodes/ep-O4Zw3bCALjU.md#t-00-40-28)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:21:28](/episodes/ep-YPIYYHCNPbE.md#t-00-21-14)
 
 </details>
 </div>
@@ -988,6 +1062,23 @@ _Total events: 2108_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [VANITY AFFAIRS: The Profile Piece From Hell. Ne... @ 00:59:33](/episodes/ep-5TTkMa49qj8.md#t-00-59-33)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-according-to-the-bonners-ferry-herald-ar" data-filter-key="event-2026-09-according-to-the-bonners-ferry-herald-ar">
+<div class="timeline-date">2026-09</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-09-according-to-the-bonners-ferry-herald-ar.md">According to the Bonners Ferry Herald article read by Candace Owens, Taylor Dodd was arrested in early September 2026 on seven felony charges invol...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-09-according-to-the-bonners-ferry-herald-ar.md">According to the Bonners Ferry Herald article read by Candace Owens, Taylor Dodd was arrested in early September 2026 on seven felony charges involving child sexually exploitative material; charges are allegations.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09: According to the Bonners Ferry Herald article read by Candace Owens, Taylor Dodd was arrested in early September 2026 on seven felony charges involving child sexually exploitative material; charges are allegations. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:12:17](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02)
 
 </details>
 </div>
@@ -1309,13 +1400,14 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2026-09-13-owens-reported-tpusas-allegation-that-th.md">Owens reported TPUSA’s allegation that the Charlie Kirk statue at its Arizona headquarters was vandalized with red paint early on September 13; the perpetrator’s identity and political affiliation were unestablished.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-13: Owens reported TPUSA’s allegation that the Charlie Kirk statue at its Arizona headquarters was vandalized with red paint early on September 13; the perpetrator’s identity and political affiliation were unestablished. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farns... @ 00:38:28](/episodes/ep-O4Zw3bCALjU.md#t-00-38-28)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:18:51](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16)
 
 </details>
 </div>
@@ -1326,13 +1418,14 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2026-09-13-owens-quoted-tyler-bowyers-response-to-t.md">Owens quoted Tyler Bowyer’s response to the reported headquarters vandalism, blaming the left and linking the Commit 100 ballot-chasing program; she challenged the attribution.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-13: Owens quoted Tyler Bowyer’s response to the reported headquarters vandalism, blaming the left and linking the Commit 100 ballot-chasing program; she challenged the attribution. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farns... @ 00:41:22](/episodes/ep-O4Zw3bCALjU.md#t-00-41-22)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:21:43](/episodes/ep-YPIYYHCNPbE.md#t-00-21-40)
 
 </details>
 </div>
@@ -3939,6 +4032,23 @@ _Total events: 2108_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHO... @ 00:19:26](/episodes/ep-0pSAhaAZz1w.md#t-00-19-26)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-candace-owens-read-reporting-that-taylor" data-filter-key="event-2026-04-candace-owens-read-reporting-that-taylor">
+<div class="timeline-date">2026-04</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-04-candace-owens-read-reporting-that-taylor.md">Candace Owens read reporting that Taylor Dodd allegedly downloaded illicit images of minors from Discord in early April 2026, according to court do...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-04-candace-owens-read-reporting-that-taylor.md">Candace Owens read reporting that Taylor Dodd allegedly downloaded illicit images of minors from Discord in early April 2026, according to court documents.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Candace Owens read reporting that Taylor Dodd allegedly downloaded illicit images of minors from Discord in early April 2026, according to court documents. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:12:36](/episodes/ep-YPIYYHCNPbE.md#t-00-12-02)
 
 </details>
 </div>
@@ -10462,13 +10572,14 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2025-09-candace-owens-alleged-that-tyler-clancy-.md">Candace Owens alleged that Tyler Clancy and another officer were dispatched from Timpanogos Hospital to escort Erika Kirk from the airport; the source conflicts between September 10 and 11, 2025, so the day is intentionally unspecified.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens alleged that Tyler Clancy and another officer were dispatched from Timpanogos Hospital to escort Erika Kirk from the airport; the source conflicts between September 10 and 11, 2025, so the day is intentionally unspecified. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [America The Ugly: A General, A Cop & A Missing ... @ 00:18:01](/episodes/ep-V-phmW9f0pM.md#t-00-17-35)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:03:02](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53)
 
 </details>
 </div>
@@ -10479,13 +10590,14 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2025-09-candace-owens-alleged-that-a-tpusa-membe.md">Candace Owens alleged that a TPUSA member or affiliate left a bloodied bag in Tyler Clancy's car and that Clancy disposed of it the same day; the surrounding source conflicts between September 10 and 11, 2025.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens alleged that a TPUSA member or affiliate left a bloodied bag in Tyler Clancy\'s car and that Clancy disposed of it the same day; the surrounding source conflicts between September 10 and 11, 2025. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [America The Ugly: A General, A Cop & A Missing ... @ 00:18:50](/episodes/ep-V-phmW9f0pM.md#t-00-18-13)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:04:03](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56)
 
 </details>
 </div>
@@ -10496,13 +10608,31 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2025-09-frank-turek-said-he-asked-an-unnamed-pol.md">Frank Turek said he asked an unnamed police officer to dispose of his bloodied computer bag during the aftermath of Charlie Kirk's shooting; neither the officer's identity nor a September 10/11 day is established by this clip.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Frank Turek said he asked an unnamed police officer to dispose of his bloodied computer bag during the aftermath of Charlie Kirk\'s shooting; neither the officer\'s identity nor a September 10/11 day is established by this clip. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [America The Ugly: A General, A Cop & A Missing ... @ 00:22:49](/episodes/ep-V-phmW9f0pM.md#t-00-22-45)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:04:24](/episodes/ep-YPIYYHCNPbE.md#t-00-03-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-candace-owens-said-taylor-dodd-gave-a-sp" data-filter-key="event-2025-09-candace-owens-said-taylor-dodd-gave-a-sp">
+<div class="timeline-date">2025-09</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-candace-owens-said-taylor-dodd-gave-a-sp.md">Candace Owens said Taylor Dodd gave a speech at Charlie Kirk's vigil when Dodd was 17; her one-year-later comparison places the vigil in September ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-candace-owens-said-taylor-dodd-gave-a-sp.md">Candace Owens said Taylor Dodd gave a speech at Charlie Kirk's vigil when Dodd was 17; her one-year-later comparison places the vigil in September 2025 without establishing a day.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens said Taylor Dodd gave a speech at Charlie Kirk\'s vigil when Dodd was 17; her one-year-later comparison places the vigil in September 2025 without establishing a day. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:11:20](/episodes/ep-YPIYYHCNPbE.md#t-00-10-53)
 
 </details>
 </div>
@@ -12342,13 +12472,14 @@ _Total events: 2108_
 <div class="timeline-date">2025-09-12</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-12-governor-spencer-cox-said-at-an-fbi-pres.md">Governor Spencer Cox said at an FBI press briefing that the assassin changed clothes on the UVU rooftop.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-12: Governor Spencer Cox said at an FBI press briefing that the assassin changed clothes on the UVU rooftop. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying... @ 00:08:25](/episodes/ep-N4uM8Jdr410.md#t-00-08-25)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:07:09](/episodes/ep-YPIYYHCNPbE.md#t-00-07-09)
 
 </details>
 </div>
@@ -16564,7 +16695,7 @@ _Total events: 2108_
 <p class="timeline-desc"><a href="/events/event-2025-09-10-a-fire-chief-performed-cpr-when-charlie-.md">A fire official assisted with CPR when Charlie Kirk reached the hospital after the UVU shooting, according to Owens summarizing the review; the earlier source called the official a fire chief, while this source quotes a Station 2 fire captain.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: A fire official assisted with CPR when Charlie Kirk reached the hospital after the UVU shooting, according to Owens summarizing the review; the earlier source called the official a fire chief, while this source quotes a Station 2 fire captain. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -16574,6 +16705,7 @@ _Total events: 2108_
 - [COVER UP! The Mysterious Death Of A Whistleblow... @ 00:26:19](/episodes/ep-ms5ChhZegRg.md#t-00-26-02)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHO... @ 00:57:29](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29)
 - [More EXCLUSIVE Footage! Another Funny Thing Hap... @ 00:41:29](/episodes/ep-UAdBEXs7nNc.md#t-00-41-07)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:48:45](/episodes/ep-YPIYYHCNPbE.md#t-00-48-34)
 
 </details>
 </div>
@@ -16823,6 +16955,38 @@ _Total events: 2108_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-spencer-cox-delivered" data-filter-key="event-2025-09-10-candace-owens-said-spencer-cox-delivered">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-spencer-cox-delivered.md">Candace Owens said Spencer Cox delivered the 9 a.m. keynote at Rally Connects in Mona, Utah; she cited a photograph as corroboration.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Spencer Cox delivered the 9 a.m. keynote at Rally Connects in Mona, Utah; she cited a photograph as corroboration. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:08:18](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-spencer-cox-was-sched" data-filter-key="event-2025-09-10-candace-owens-said-spencer-cox-was-sched">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-candace-owens-said-spencer-cox-was-sched.md">Candace Owens said Spencer Cox was scheduled to speak at an 11:30 a.m. Utah Department of Environmental Quality staff picnic at Murray Park; she as...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-spencer-cox-was-sched.md">Candace Owens said Spencer Cox was scheduled to speak at an 11:30 a.m. Utah Department of Environmental Quality staff picnic at Murray Park; she asserted his attendance.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Spencer Cox was scheduled to speak at an 11:30 a.m. Utah Department of Environmental Quality staff picnic at Murray Park; she asserted his attendance. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:08:39](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution" data-filter-key="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -16860,6 +17024,25 @@ _Total events: 2108_
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47)
 - [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:53:21](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52)
 - [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-according-to-the-published-schedule-desc" data-filter-key="event-2025-09-09-according-to-the-published-schedule-desc">
+<div class="timeline-date">2025-09-09 <span class='time'>17:00</span></div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-09-according-to-the-published-schedule-desc.md">Candace Owens said Spencer Cox had a private meeting with Tyler Clancy on September 9, 2025, correcting her earlier September 2 report after identi...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-09-according-to-the-published-schedule-desc.md">Candace Owens said Spencer Cox had a private meeting with Tyler Clancy on September 9, 2025, correcting her earlier September 2 report after identifying mislabeled daily headers in the official shooting-week schedule; attendance was not independently established.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 17:00: Candace Owens said Spencer Cox had a private meeting with Tyler Clancy on September 9, 2025, correcting her earlier September 2 report after identifying mislabeled daily headers in the official shooting-week schedule; attendance was not independently established. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)
+- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:06:58](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:02:53](/episodes/ep-YPIYYHCNPbE.md#t-00-02-53)
 
 </details>
 </div>
@@ -18286,7 +18469,7 @@ _Total events: 2108_
 <div class="timeline-date">2025-09-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p.md">Charlie Kirk requests DOGE department at Turning Point USA.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">14× in 7 eps</span>
+<span class="timeline-badge mentions">15× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-03: Charlie Kirk requests DOGE department at Turning Point USA. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -18306,6 +18489,7 @@ _Total events: 2108_
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:05:29](/episodes/ep-GY6GWceEqtQ.md#t-00-05-05)
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:35:39](/episodes/ep-JQjCAsfoXEE.md#t-00-35-39)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:14:42](/episodes/ep-q4m-kGzvwjw.md#t-00-14-11)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:16:39](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10)
 
 </details>
 </div>
@@ -18355,24 +18539,6 @@ _Total events: 2108_
 
 - [WE WERE RIGHT! UVU Releases Their Independent R... @ 00:24:46](/episodes/ep-bIuvTKlFeGo.md#t-00-24-26)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:39:21](/episodes/ep-q4m-kGzvwjw.md#t-00-39-21)
-
-</details>
-</div>
-
-<div class="timeline-event filter-item" id="event-2025-09-02-according-to-the-published-schedule-desc" data-filter-key="event-2025-09-02-according-to-the-published-schedule-desc">
-<div class="timeline-date">2025-09-02 <span class='time'>17:00</span></div>
-<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-02-according-to-the-published-schedule-desc.md">According to the published schedule described by Candace Owens, Spencer Cox had a 5 p.m. meeting scheduled with Tyler Clancy at the governor's mans...</a></summary>
-<p class="timeline-desc"><a href="/events/event-2025-09-02-according-to-the-published-schedule-desc.md">According to the published schedule described by Candace Owens, Spencer Cox had a 5 p.m. meeting scheduled with Tyler Clancy at the governor's mansion; attendance was not independently established.</a></p>
-</details>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-02 17:00: According to the published schedule described by Candace Owens, Spencer Cox had a 5 p.m. meeting scheduled with Tyler Clancy at the governor\'s mansion; attendance was not independently established. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:06:40](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)
-- [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:06:58](/episodes/ep-6jOEN9rBePU.md#t-00-06-40)
 
 </details>
 </div>
