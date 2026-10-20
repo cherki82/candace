@@ -1,6 +1,6 @@
 ---
 title: "Google Drive"
-description: "Google Drive (Works & Media) - 10 mentions"
+description: "Google Drive (Works & Media) - 11 mentions"
 id: "work-google-drive"
 type: "WORK"
 aliases:
@@ -21,9 +21,9 @@ Source: [Google Drive — Personal Cloud Storage & File Sharing](https://www.goo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-work-google-drive-t-00-20-44">2026-10-06 · 00:21:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-work-google-drive-t-00-45-36">2026-10-07 · 00:46:01</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-work-google-drive-t-00-16-30">2026-10-19 · 00:16:53</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Google Drive — Personal Cloud Storage & File Sharing](https://www.goo
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-work-google-drive-t-00-20-44" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 8 mentions" title="2026-10-06 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-work-google-drive-t-00-12-16" style="--pulse-height:25%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-work-google-drive-t-00-16-30" style="--pulse-height:12%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [Google Drive — Personal Cloud Storage & File Sharing](https://www.goo
 |---|---|---:|
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-work-google-drive-t-00-20-44) | 8 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-work-google-drive-t-00-12-16) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-work-google-drive-t-00-16-30) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Google Drive — Personal Cloud Storage & File Sharing](https://www.goo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:16:53](/episodes/ep-VUSs6CTp78Q.md#ent-work-google-drive-t-00-16-30)**
+> "...ad already been providing the Google Drive filled with Erika (Erika Kirk) clips."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2 mentions)</summary>

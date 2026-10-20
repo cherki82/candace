@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2451 mentions"
+description: "Turning Point USA (Organizations) - 2460 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-43-55">2026-10-15 · 00:44:09</a></strong></div>
-<div><span>Episodes</span><strong>180</strong></div>
-<div><span>Mentions</span><strong>2,451</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-39-09">2026-10-19 · 00:39:16</a></strong></div>
+<div><span>Episodes</span><strong>181</strong></div>
+<div><span>Mentions</span><strong>2,460</strong></div>
 <div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>1,045</strong></div>
+<div><span>Statements about</span><strong>1,048</strong></div>
 <div><span>Relationships</span><strong>258</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
@@ -220,6 +220,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 6 mentions" title="2026-10-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38" style="--pulse-height:21%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 17 mentions" title="2026-10-15 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-01-21" style="--pulse-height:11%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 9 mentions" title="2026-10-19 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -405,6 +406,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-turning-point-usa-t-00-04-45) | 6 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38) | 17 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-01-21) | 9 |
 
 </details>
 </section>
@@ -412,12 +414,44 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
-- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2451)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2460)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (9 mentions)</summary>
+
+**[00:01:51](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-01-21)**
+> "...cause it's all the stuff that Turning Point USA 2.0 is made of."
+
+**[00:03:44](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-03-44)**
+> "...y started doing the bit, when Turning Point started doing the bit, that formula that they see..."
+
+**[00:04:06](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-04-06)**
+> "...y you can do that is going to tpusa.com."
+
+**[00:04:43](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-04-12)**
+> "...f suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a ..."
+
+**[00:08:25](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-07-54)**
+> ".... That's it. What do you want Turning Point USA to do? The story ends there."
+
+**[00:17:30](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-17-10)**
+> "... scandals and also within the Turning Point USA orbit is about to get a little bit longer because..."
+
+**[00:19:05](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-18-37)**
+> "...d no to that could have taken Turning Point USA to the next level."
+
+**[00:38:28](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-38-28)**
+> "... hearts. It's interesting how Turning Point USA immediately offered a 10,000 reward for informati..."
+
+**[00:39:16](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-39-09)**
+> "...rding the shady characters at TPUSA reminds me of a funny old Dean Martin song with a..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (17 mentions)</summary>
@@ -8868,7 +8902,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -8936,6 +8970,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -9553,7 +9588,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Has Ceo (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (41)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:21:14](/episodes/ep-vwG1juDCQZQ.md#t-00-20-52): “This is where it's going to be really hard for Erika to be a CEO and to be somebody who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right?”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:05](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “Erika (Erika Kirk) a couple of days ago, and I said she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie (Charlie Kirk)”
@@ -9596,6 +9631,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -9676,7 +9712,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Has Chairman (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:05](/episodes/ep-Qt0VHV-POCg.md#t-00-08-31): “I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:05](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “What's interesting is that, and by the way, I do want to add here that Eric has is the chairman and CEO of Turning Point. So going to see your biggest donor wouldn't exactly be a scandal.”
@@ -9703,6 +9739,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -10060,7 +10097,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Referenced By (134)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (43)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:21:14](/episodes/ep-vwG1juDCQZQ.md#t-00-20-52): “This is where it's going to be really hard for Erika to be a CEO and to be somebody who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right?”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:05](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “Erika (Erika Kirk) a couple of days ago, and I said she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie (Charlie Kirk)”
@@ -10104,6 +10141,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -10267,7 +10305,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** chairman of this
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:05](/episodes/ep-Qt0VHV-POCg.md#t-00-08-31): “I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:05](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “What's interesting is that, and by the way, I do want to add here that Eric has is the chairman and CEO of Turning Point. So going to see your biggest donor wouldn't exactly be a scandal.”
@@ -10294,6 +10332,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -10333,7 +10372,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (68)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10402,6 +10441,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -11470,7 +11510,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (1045)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (1048)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>
+
+- [00:04:36](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12) (Accusation) **Candace Owens**: ["Owens asked, “Would they be so bold as to fake a statue hate crime?” a..."](/statements/statement-bf5ddf1338c7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:03](/episodes/ep-VUSs6CTp78Q.md#t-00-04-50) (Accusation) **Candace Owens**: ["Owens said Turning Point USA was refusing to release further suspect d..."](/statements/statement-1d090c299ff9.md)
+
+- [00:38:28](/episodes/ep-VUSs6CTp78Q.md#t-00-38-28) (Claim) **ER hearts (viewer handle; identity unverified)** (via read message): ["A viewer identified only as “ER hearts” wrote that Turning Point USA i..."](/statements/statement-e315af8a05a3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (9)</summary>

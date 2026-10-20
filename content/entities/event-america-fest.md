@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 40 mentions"
+description: "America Fest (Events) - 44 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -26,11 +26,11 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UAdBEXs7nNc.md#ent-event-america-fest-t-00-45-55">2026-10-08 · 00:46:26</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-event-america-fest-t-00-12-37">2026-10-19 · 00:12:37</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -64,6 +64,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-03-54" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 4 mentions" title="2026-10-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-event-america-fest-t-00-45-55" style="--pulse-height:25%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-event-america-fest-t-00-11-54" style="--pulse-height:100%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 4 mentions" title="2026-10-19 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +95,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-event-america-fest-t-00-03-54) | 4 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-event-america-fest-t-00-45-55) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-event-america-fest-t-00-11-54) | 4 |
 
 </details>
 </section>
@@ -105,7 +107,24 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4 mentions)</summary>
+
+**[00:12:05](/episodes/ep-VUSs6CTp78Q.md#ent-event-america-fest-t-00-11-54)**
+> "of evidence about AmFest."
+
+**[00:12:09](/episodes/ep-VUSs6CTp78Q.md#ent-event-america-fest-t-00-11-54)**
+> "...'re going to get paid for the AmFest thing, the Erika Kirk AmFest thing. Now, why were..."
+
+**[00:12:23](/episodes/ep-VUSs6CTp78Q.md#ent-event-america-fest-t-00-11-54)**
+> "...tting paid for the Erika Kirk AmFest thing?' Now notice this is February 22nd, 2026."
+
+**[00:12:37](/episodes/ep-VUSs6CTp78Q.md#ent-event-america-fest-t-00-12-37)**
+> "The Erika Kirk AmFest thing was in December of 2026."
+
+</details>
 
 <details>
 <summary>More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 (1 mentions)</summary>
@@ -392,7 +411,18 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about America Fest (8)</strong></summary>
+<summary><strong class="section-title">Statements about America Fest (10)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
+
+- [00:12:09](/episodes/ep-VUSs6CTp78Q.md#t-00-11-54) (Citation) **Baron Coleman** (via quoted speech): ["Coleman said a message asking when participants would be paid for the ..."](/statements/statement-d513762ff73b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:12:37](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) (Claim) **Baron Coleman** (via quoted speech): ["Coleman said the Erika Kirk AmFest campaign was in December of 2026. T..."](/statements/statement-016c23034deb.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>

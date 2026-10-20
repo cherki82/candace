@@ -1,14 +1,14 @@
 ---
 id: "5autG89PW6w"
 title: "TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249"
-description: "TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 - 134 entities, 14 events, 13 factual claims"
+description: "TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 - 134 entities, 15 events, 13 factual claims"
 published: "2025-10-07"
 youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 ---
 
 **Published:** 2025-10-07 | [Watch on YouTube](https://www.youtube.com/watch?v=5autG89PW6w)
 
-**Stats:** 134 entities | 14 events | 13 factual claims
+**Stats:** 134 entities | 15 events | 13 factual claims
 
 ---
 
@@ -276,7 +276,7 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 # Appendix: Knowledge Graph Data
 
 <details>
-<summary><strong>Timeline Events (14)</strong></summary>
+<summary><strong>Timeline Events (15)</strong></summary>
 
 - **2017**: [Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA](/events/event-2017-candace-owens-meets-charlie-kirk-at-flor.md)
 - **2022-05-31**: [Tyler Robinson involved in car accident captured on police bodycam](/events/event-2022-05-31-tyler-robinson-involved-in-car-accident-.md)
@@ -292,6 +292,7 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 - **2025-10-06**: [Candace Owens releases screenshots of Charlie Kirk's text messages criticizing Israel](/events/event-2025-10-06-candace-owens-releases-screenshots-of-charlie-kirk.md)
 - **2025-10-07**: [TPUSA spokesperson Andrew Kolvet confirms leaked text messages are authentic](/events/event-2025-10-07-tpusa-spokesperson-andrew-kolvet-confirms-leaked.md)
 - **2025-10-07**: [TPUSA donors John and Irina Mappin publish letter supporting Candace Owens](/events/event-2025-10-07-tpusa-donors-john-and-irina-mappin-publish-letter.md)
+- **2025-11-07**: [President Donald Trump granted Tyler Bowyer a pardon in Proclamation 10989 concerning offenses related to the 2020 presidential election.](/events/event-2025-11-07-president-donald-trump-granted-tyler-bow.md)
 
 </details>
 

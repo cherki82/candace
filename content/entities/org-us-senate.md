@@ -1,6 +1,6 @@
 ---
 title: "United States Senate"
-description: "United States Senate (Organizations) - 12 mentions"
+description: "United States Senate (Organizations) - 13 mentions"
 id: "org-us-senate"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55">2025-09-19 · 00:01:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33">2026-10-01 · 00:26:41</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-senate-t-00-28-26">2026-10-19 · 00:28:26</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 <a href="/episodes/ep-aLJhpxrakCU.md#ent-org-us-senate-t-01-00-51" style="--pulse-height:50%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-us-senate-t-00-42-06" style="--pulse-height:50%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-senate-t-00-28-26" style="--pulse-height:50%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-org-us-senate-t-01-00-51) | 1 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-us-senate-t-00-42-06) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-senate-t-00-28-26) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:28:26](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-senate-t-00-28-26)**
+> "GOP. He's losing his political power, political power. And in a few weeks they might be, and I would imagine they would be facing it, they're gonna have a Democratic Congress. They'll have a, potentially, a Democratic Senate, and then there's just gonna be impeachment investigations. I would imagine they're gonna launch..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>
@@ -182,6 +192,19 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 - [Candace x Hunter Biden: The Interview @ 01:19:25](/episodes/ep-Ux1kzgQxkws.md#t-01-19-08): “And when he was in the United States Senate, he was not only the poorest man in the Senate”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about United States Senate (1)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1)</summary>
+
+- [00:28:19](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) (Prediction) **Tim Dillon** (via quoted speech): ["Dillon said Trump was losing political power and that in a few weeks h..."](/statements/statement-01284aaf9ea2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Democratic Party](/entities/org-democratic-party.md), [United States Congress](/entities/org-united-states-congress.md)
 
 </details>
 

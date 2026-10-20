@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 106 mentions"
+description: "Fox News (Organizations) - 108 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -26,9 +26,9 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-fox-news-t-00-27-15">2026-10-14 · 00:27:33</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>106</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-fox-news-t-00-26-32">2026-10-19 · 00:26:32</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
@@ -98,6 +98,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-fox-news-t-01-04-22" style="--pulse-height:12%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-15-21" style="--pulse-height:38%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 3 mentions" title="2026-09-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-fox-news-t-00-27-15" style="--pulse-height:12%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-fox-news-t-00-25-51" style="--pulse-height:25%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -162,6 +163,7 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-fox-news-t-01-04-22) | 1 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-fox-news-t-00-15-21) | 3 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-fox-news-t-00-27-15) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-fox-news-t-00-25-51) | 2 |
 
 </details>
 </section>
@@ -173,7 +175,18 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:26:27](/episodes/ep-VUSs6CTp78Q.md#ent-org-fox-news-t-00-25-51)**
+> "...r to work for him. So back to Fox News she goes. She will continue to worship Trump (Don..."
+
+**[00:26:32](/episodes/ep-VUSs6CTp78Q.md#ent-org-fox-news-t-00-26-32)**
+> "...d Trump) likes the blondes on Fox News. He just wants them to worship him and never crit..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>

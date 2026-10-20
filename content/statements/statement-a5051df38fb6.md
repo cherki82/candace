@@ -24,7 +24,7 @@ type: "factual_claim"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2
 
@@ -41,6 +41,14 @@ type: "factual_claim"
 <a href="https://www.youtube.com/watch?v=cZxHqYsWRYg&t=1219s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Later on, Lori (Lori Frantzve)'s going to start working with the Farnsworths, camera guy taking down the camera, and then she's going to strike up this partnership with Tyler Bowyer, this very shady COO of Turning Point Action who is going to introduce Erika (Erika Kirk) to Charlie Kirk.
+
+### 3. UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zachari...
+
+**Episode:** [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md)
+**Timestamp:** [00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) 
+<a href="https://www.youtube.com/watch?v=VUSs6CTp78Q&t=185s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> The point is that Tyler Bowyer is a shady guy. He's also the person who happened to introduce Erika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a shady gal.
 
 ## Verification
 

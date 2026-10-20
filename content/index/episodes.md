@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 184_
+_Total episodes: 185_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -22,6 +22,10 @@ _Total episodes: 184_
 </style>
 
 
+
+## Week of Oct 19 - 25, 2026
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md) — Mon, Oct 19
 
 ## Week of Oct 12 - 18, 2026
 

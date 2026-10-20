@@ -11,7 +11,11 @@ object: "org-enclave-and-key"
 
 ## [Blake Wynn](/entities/person-blake-wynn) owns [Enclave & Key](/entities/org-enclave-and-key)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q)**
+
+- [00:15:16](/episodes/ep-VUSs6CTp78Q#t-00-15-16): _And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client._
 
 **[BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE)**
 

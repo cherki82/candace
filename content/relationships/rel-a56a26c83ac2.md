@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (81 mentions)
+### Evidence (82 mentions)
 
 **[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
 
@@ -192,6 +192,10 @@ object: "person-candace-owens"
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:27:44](/episodes/ep-VMNWMXX1vO8#t-00-27-44): _Erika (Erika Kirk) can't get through a speech that's pre-written without a blunder, without saying something ridiculous._
+
+**[UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q)**
+
+- [00:33:33](/episodes/ep-VUSs6CTp78Q#t-00-33-33): _My question is, why is it even a thing? Why is this even a thing to just foist her upon young students? Has she served in any role other than emotional asset for the Department of War? ... Before we were told she was serving as this loving wife, that she had no aspirations in her career, that, you know, she just wanted to be a loving wife to Charlie Kirk. ... She used to be wear every hat, I guess. She was a reality TV, like reality TV star, casting director. ... How do we get here? What's the rationale? ... Beyond like, you know, the inevitable photo that's going to come out, school-wide gymnasium where they're going to go pretend that everyone signed up for Club America because it's just bursting at the seams, and be like, 'Look at the whole school. Pre-K through 12 is so excited. Everyone loves Erika (Erika Kirk),' because this is just the longest-running psychological operation on the American public, who is not, we're just, we're not biting._
 
 **[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
 

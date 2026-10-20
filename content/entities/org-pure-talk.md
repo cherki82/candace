@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 251 mentions"
+description: "Pure Talk (Organizations) - 254 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-04">2025-09-15 · 00:55:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-pure-talk-t-00-24-31">2026-10-14 · 00:24:38</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>251</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-pure-talk-t-00-24-38">2026-10-19 · 00:24:38</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>254</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -87,6 +87,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-12" style="--pulse-height:75%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 6 mentions" title="2026-09-25 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-19" style="--pulse-height:62%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 5 mentions" title="2026-10-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-pure-talk-t-00-23-47" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-pure-talk-t-00-23-54" style="--pulse-height:38%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 3 mentions" title="2026-10-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,6 +143,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-pure-talk-t-00-55-12) | 6 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-pure-talk-t-00-33-19) | 5 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-pure-talk-t-00-23-47) | 4 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-pure-talk-t-00-23-54) | 3 |
 
 </details>
 </section>
@@ -149,7 +151,21 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (251)</strong></summary>
+<summary><strong class="section-title">Raw mentions (254)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3 mentions)</summary>
+
+**[00:23:54](/episodes/ep-VUSs6CTp78Q.md#ent-org-pure-talk-t-00-23-54)**
+> "...I have to tell you guys about Pure Talk because I personally use them and I absolutely lo..."
+
+**[00:24:22](/episodes/ep-VUSs6CTp78Q.md#ent-org-pure-talk-t-00-23-54)**
+> "...for life. Plus, you get it on Pure Talk's crazy fast nationwide 5G network. To make the swi..."
+
+**[00:24:38](/episodes/ep-VUSs6CTp78Q.md#ent-org-pure-talk-t-00-24-38)**
+> "...witch to my wireless company, Pure Talk."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (4 mentions)</summary>
@@ -1172,7 +1188,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -1195,6 +1211,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:47](/episodes/ep-6jOEN9rBePU.md#t-00-23-47): “that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:23:54](/episodes/ep-VUSs6CTp78Q.md#t-00-23-54): “And you know, I have to tell you guys about Pure Talk because I personally use them and I absolutely love them. Right now they are bringing back. ... back their best promotion in company history, the unlimited data for life. That's unlimited talk, text, and data plus a 30 gig hotspot for just $29.95 a month for life. ... This deal was locked in the vault since last year and it was only available for a few weeks. Now for a very limited time it is back. This is their top tier unlimited plan that was $65 a month. ... Now you'll be saving over 50% every single month for life. Plus, you get it on Pure Talk's crazy fast nationwide 5G network. To make the switch today, head to puretalk.com slash Owens. You'll get Pure Talk's best unlimited plan for just $29.95 a month for life. ... But hurry, because the offer is extremely short-lived and it may never come back. That's puretalk.com slash Owens and switch to my wireless company, Pure Talk.”
 
 </details>
 
@@ -1242,7 +1259,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -1265,6 +1282,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:47](/episodes/ep-6jOEN9rBePU.md#t-00-23-47): “that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:23:54](/episodes/ep-VUSs6CTp78Q.md#t-00-23-54): “And you know, I have to tell you guys about Pure Talk because I personally use them and I absolutely love them. Right now they are bringing back. ... back their best promotion in company history, the unlimited data for life. That's unlimited talk, text, and data plus a 30 gig hotspot for just $29.95 a month for life. ... This deal was locked in the vault since last year and it was only available for a few weeks. Now for a very limited time it is back. This is their top tier unlimited plan that was $65 a month. ... Now you'll be saving over 50% every single month for life. Plus, you get it on Pure Talk's crazy fast nationwide 5G network. To make the switch today, head to puretalk.com slash Owens. You'll get Pure Talk's best unlimited plan for just $29.95 a month for life. ... But hurry, because the offer is extremely short-lived and it may never come back. That's puretalk.com slash Owens and switch to my wireless company, Pure Talk.”
 
 </details>
 

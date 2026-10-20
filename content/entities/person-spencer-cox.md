@@ -1,6 +1,6 @@
 ---
 title: "Spencer Cox"
-description: "Spencer Cox (People) - 65 mentions"
+description: "Spencer Cox (People) - 67 mentions"
 id: "person-spencer-cox"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-spencer-cox-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-47-55">2026-10-15 · 00:48:21</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>65</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-spencer-cox-t-00-21-09">2026-10-19 · 00:21:19</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -53,6 +53,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-04-49" style="--pulse-height:38%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-01-33" style="--pulse-height:88%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 7 mentions" title="2026-10-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-spencer-cox-t-00-21-09" style="--pulse-height:25%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +76,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-spencer-cox-t-00-24-30) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-spencer-cox-t-00-04-49) | 3 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-spencer-cox-t-00-01-33) | 7 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-spencer-cox-t-00-21-09) | 2 |
 
 </details>
 </section>
@@ -86,7 +88,18 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:21:09](/episodes/ep-VUSs6CTp78Q.md#ent-person-spencer-cox-t-00-21-09)**
+> "... he met up with Governor Cox (Spencer Cox) on September 10th, because we have been informed..."
+
+**[00:21:19](/episodes/ep-VUSs6CTp78Q.md#ent-person-spencer-cox-t-00-21-09)**
+> "... reached out to Governor Cox (Spencer Cox)'s office last week on Saturday, on Thursday, par..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (7 mentions)</summary>
@@ -587,7 +600,17 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (25)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (27)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
+
+- [00:21:09](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) (Claim) **Candace Owens** (via paraphrase): ["Owens said two sources she considered extremely reliable had told her ..."](/statements/statement-c2c97c226c91.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md)
+
+- [00:21:19](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) (Claim) **Candace Owens**: ["Owens said her team contacted Governor Spencer Cox’s office the previo..."](/statements/statement-c66bcf28c4c5.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (8)</summary>

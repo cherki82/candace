@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 105 mentions"
+description: "PDS Debt (Organizations) - 107 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-pds-debt-t-00-30-40">2026-10-13 · 00:30:40</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>105</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-pds-debt-t-00-21-49">2026-10-19 · 00:22:13</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -71,6 +71,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-org-pds-debt-t-00-26-37" style="--pulse-height:40%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-pds-debt-t-00-25-23" style="--pulse-height:40%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-pds-debt-t-00-30-02" style="--pulse-height:40%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-pds-debt-t-00-21-49" style="--pulse-height:40%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +113,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-org-pds-debt-t-00-26-37) | 2 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-pds-debt-t-00-25-23) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-pds-debt-t-00-30-02) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-pds-debt-t-00-21-49) | 2 |
 
 </details>
 </section>
@@ -119,7 +121,18 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:21:49](/episodes/ep-VUSs6CTp78Q.md#ent-org-pds-debt-t-00-21-49)**
+> "...signed to keep you stuck. But PDS debt can help."
+
+**[00:22:13](/episodes/ep-VUSs6CTp78Q.md#ent-org-pds-debt-t-00-21-49)**
+> "...credit score that's required. PDS debt, they are the top rated company in the industry a..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2 mentions)</summary>
@@ -625,7 +638,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -637,6 +650,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:30:20](/episodes/ep-V-phmW9f0pM.md#t-00-30-02): “They're actually designed to keep you stuck. PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowered monthly payment.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:22:13](/episodes/ep-VUSs6CTp78Q.md#t-00-21-49): “There's actually no minimum credit score that's required. PDS debt, they are the top rated company in the industry and they have thousands of five star reviews plus an A plus rating on the BBB. ... So get your free 30 second personalized assessment today at pdsdebt.com slash candace. Again, that's pdsdebt.com slash candace.”
 
 </details>
 
@@ -646,7 +660,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -658,6 +672,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:30:20](/episodes/ep-V-phmW9f0pM.md#t-00-30-02): “They're actually designed to keep you stuck. PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowered monthly payment.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:22:13](/episodes/ep-VUSs6CTp78Q.md#t-00-21-49): “There's actually no minimum credit score that's required. PDS debt, they are the top rated company in the industry and they have thousands of five star reviews plus an A plus rating on the BBB. ... So get your free 30 second personalized assessment today at pdsdebt.com slash candace. Again, that's pdsdebt.com slash candace.”
 
 </details>
 

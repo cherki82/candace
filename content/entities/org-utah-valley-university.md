@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 457 mentions"
+description: "Utah Valley University (Organizations) - 458 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,9 +27,9 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-48-34">2026-10-15 · 00:48:54</a></strong></div>
-<div><span>Episodes</span><strong>97</strong></div>
-<div><span>Mentions</span><strong>457</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-valley-university-t-00-19-42">2026-10-19 · 00:19:42</a></strong></div>
+<div><span>Episodes</span><strong>98</strong></div>
+<div><span>Mentions</span><strong>458</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>213</strong></div>
 <div><span>Relationships</span><strong>51</strong></div>
@@ -137,6 +137,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40" style="--pulse-height:32%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 15 mentions" title="2026-10-13 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55" style="--pulse-height:11%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-07-09" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-valley-university-t-00-19-42" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -239,6 +240,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-valley-university-t-00-01-40) | 15 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-07-09) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-valley-university-t-00-19-42) | 1 |
 
 </details>
 </section>
@@ -250,7 +252,15 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (457)</strong></summary>
+<summary><strong class="section-title">Raw mentions (458)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:19:42](/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-valley-university-t-00-19-42)**
+> "At UVU. Multi-hyphenated character, the Utah House rep. ..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
@@ -2265,10 +2275,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Has Vice President (1)</summary>
 
 - **[Val L. Peterson](/entities/person-val-peterson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 
@@ -2522,10 +2533,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 - **[Val L. Peterson](/entities/person-val-peterson.md)** vice president of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 

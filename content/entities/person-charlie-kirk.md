@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 6927 mentions"
+description: "Charlie Kirk (People) - 6942 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-49-19">2026-10-15 · 00:49:43</a></strong></div>
-<div><span>Episodes</span><strong>184</strong></div>
-<div><span>Mentions</span><strong>6,927</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-38-28">2026-10-19 · 00:38:28</a></strong></div>
+<div><span>Episodes</span><strong>185</strong></div>
+<div><span>Mentions</span><strong>6,942</strong></div>
 <div><span>Statements by</span><strong>136</strong></div>
-<div><span>Statements about</span><strong>2,275</strong></div>
+<div><span>Statements about</span><strong>2,281</strong></div>
 <div><span>Relationships</span><strong>399</strong></div>
 <div><span>Threads</span><strong>4</strong></div>
 </div>
@@ -221,6 +221,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 20 mentions" title="2026-10-13 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:20%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 22 mentions" title="2026-10-14 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-00-38" style="--pulse-height:27%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 29 mentions" title="2026-10-15 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-05-32" style="--pulse-height:14%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 15 mentions" title="2026-10-19 · 15 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -410,6 +411,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-charlie-kirk-t-00-11-01) | 20 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01) | 22 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-00-38) | 29 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-05-32) | 15 |
 
 </details>
 </section>
@@ -418,13 +420,63 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 - [How the account of a manufactured Owens–Kirk feud changed](/threads/thread-owens-kirk-2019-feud-provenance) — Tracks the displayed 2019 messages and Owens’s later challenge to their claimed Groyper provenance. Authorship, authenticity and alleged coordination remain unverified; this thread does not identify assassination participants.
-- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.
 - [How Kirk Telegram account attribution became uncertain](/threads/thread-kirk-telegram-account-attribution) — Tracks a viewer’s matching-contact observation and Owens’s shared-account alternative in Episode 396. The progression concerns attribution of displayed messages; account ownership, authorship and message authenticity remain unverified.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6927)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6942)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (15 mentions)</summary>
+
+**[00:05:32](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-05-32)**
+> "But now it's been over a month since the incident took place. We have nothing from what must be the most heavily secured and surveilled work campus in America following Charles (Charlie Kirk)' assassination."
+
+**[00:01:13](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-00-45)**
+> "...ding the vandalized statue of Charlie Kirk."
+
+**[00:02:35](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-02-35)**
+> "...Bowyer is the one who had the Charlie Kirk statue erected in memoriam on the one year annive..."
+
+**[00:03:05](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-02-35)**
+> "...rika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a shady gal."
+
+**[00:04:50](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-04-50)**
+> "...n the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like to..."
+
+**[00:05:10](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-04-50)**
+> "... the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to..."
+
+**[00:06:28](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-06-28)**
+> "...efaced the statue of Charlie (Charlie Kirk)? Curious if you ever released footage of who to ..."
+
+**[00:11:01](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-11-01)**
+> "...st immediately after Charlie (Charlie Kirk)'s assassination."
+
+**[00:19:05](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-18-37)**
+> "... make me wonder what Charlie (Charlie Kirk) said no to. What could have been the thing that ..."
+
+**[00:20:10](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-19-42)**
+> "...e very hospital that Charlie (Charlie Kirk) was transported to, and"
+
+**[00:31:34](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-31-19)**
+> "...the free market that Charlie (Charlie Kirk) believed in. That's a demonstration of top down ..."
+
+**[00:33:51](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-33-25)**
+> "...wanted to be a loving wife to Charlie Kirk."
+
+**[00:34:59](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-34-53)**
+> "... overplayed his hand with the Charlie Kirk assassination."
+
+**[00:35:14](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-34-53)**
+> "...able and normal when Charlie (Charlie Kirk) was alive and now things are coming apart becaus..."
+
+**[00:38:28](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-38-28)**
+> "...ading to who defamed Charlie (Charlie Kirk)'s statue, but there's never been a reward offere..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (29 mentions)</summary>
@@ -22563,7 +22615,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (91)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -22655,6 +22707,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy. He's also the person who happened to introduce Erika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a shady gal. ... Not the line I would have gone with less than 48 hours after my husband's public assassination, but you get it. It's their thing. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -25617,7 +25670,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (91)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -25709,6 +25762,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy. He's also the person who happened to introduce Erika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a shady gal. ... Not the line I would have gone with less than 48 hours after my husband's public assassination, but you get it. It's their thing. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -26559,7 +26613,27 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (2275)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (2281)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6)</summary>
+
+- [00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer of Turning Point Action had the Charlie Kirk s..."](/statements/statement-6d4cd77f23ee.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:04:36](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12) (Accusation) **Candace Owens**: ["Owens asked, “Would they be so bold as to fake a statue hate crime?” a..."](/statements/statement-bf5ddf1338c7.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:06:28](/episodes/ep-VUSs6CTp78Q.md#t-00-06-28) (Claim) **Tyler Bowyer** (via read message): ["Tyler Bowyer wrote in an Instagram DM that police investigated the Cha..."](/statements/statement-300953121884.md)
+
+- [00:07:10](/episodes/ep-VUSs6CTp78Q.md#t-00-07-10) (Opinion) **Tyler Bowyer** (via read message): ["Tyler Bowyer asked, “How does more cameras help with people that were ..."](/statements/statement-97a45f88db47.md)
+
+- [00:07:54](/episodes/ep-VUSs6CTp78Q.md#t-00-07-54) (Claim) **Tyler Bowyer** (via read message): ["Tyler Bowyer said the statue was near and dear to him because he worke..."](/statements/statement-d2428cdd2823.md)
+
+- [00:38:28](/episodes/ep-VUSs6CTp78Q.md#t-00-38-28) (Claim) **ER hearts (viewer handle; identity unverified)** (via read message): ["A viewer identified only as “ER hearts” wrote that Turning Point USA i..."](/statements/statement-e315af8a05a3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (14)</summary>

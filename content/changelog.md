@@ -5,6 +5,25 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-10-20 09:55:39
+
+**Added 1 episode(s):**
+  - `VUSs6CTp78Q`: UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.
+**Added 28 new entity/entities**
+**Added 9 new event(s)**
+**Removed 2 event(s)**
+**Added 41 new statement(s)**
+**Added 27 new relationship(s)**
+
+**Totals:**
+- Episodes: 185
+- Entities: 5277
+- Events: 2124
+- Statements: 8693
+- Relationships: 6070
+
+---
+
 ## 2026-10-16 10:29:48
 
 No data changes detected (regeneration only)

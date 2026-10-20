@@ -1,6 +1,6 @@
 ---
 title: "Chicago, Illinois"
-description: "Chicago, Illinois (Places) - 53 mentions"
+description: "Chicago, Illinois (Places) - 54 mentions"
 id: "gpe-chicago-illinois"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-illinois-t-00-02-03">2025-09-11 · 00:02:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-24-56">2026-09-10 · 00:25:25</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-chicago-illinois-t-00-03-15">2026-10-19 · 00:03:15</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -60,6 +60,7 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-05-38" style="--pulse-height:75%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 6 mentions" title="2026-09-08 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-chicago-illinois-t-00-45-37" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-09-00" style="--pulse-height:38%" aria-label="One Year On… To My Friend Charlie Kirk.: 3 mentions" title="2026-09-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-chicago-illinois-t-00-03-15" style="--pulse-height:12%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +90,7 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-05-38) | 6 |
 | 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-chicago-illinois-t-00-45-37) | 2 |
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-09-00) | 3 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-chicago-illinois-t-00-03-15) | 1 |
 
 </details>
 </section>
@@ -100,7 +102,15 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:03:15](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-chicago-illinois-t-00-03-15)**
+> "... during a polar vortex out in Chicago type scheme, staging a racial hate crime against ..."
+
+</details>
 
 <details>
 <summary>One Year On… To My Friend Charlie Kirk. (3 mentions)</summary>

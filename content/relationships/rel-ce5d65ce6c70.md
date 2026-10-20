@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has CEO [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (41 mentions)
+### Evidence (42 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -106,6 +106,10 @@ object: "person-erika-kirk"
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:33:21](/episodes/ep-VMNWMXX1vO8#t-00-33-21): _To take over her husband's role as CEO and chairman ... That's Erika (Erika Kirk)'s accomplishment. ... everything that she brought forth to Turning Point USA_
+
+**[UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q)**
+
+- [00:04:26](/episodes/ep-VUSs6CTp78Q#t-00-04-26): _Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people._
 
 **[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
 

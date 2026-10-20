@@ -1,6 +1,6 @@
 ---
 title: "Pete Hegseth"
-description: "Pete Hegseth (People) - 44 mentions"
+description: "Pete Hegseth (People) - 47 mentions"
 id: "person-pete-hegseth"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17">2026-03-10 · 00:02:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-37-48">2026-10-15 · 00:37:51</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-pete-hegseth-t-00-28-26">2026-10-19 · 00:28:41</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -52,6 +52,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-person-pete-hegseth-t-00-29-09" style="--pulse-height:10%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07" style="--pulse-height:10%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-34-32" style="--pulse-height:20%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-pete-hegseth-t-00-25-12" style="--pulse-height:30%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 3 mentions" title="2026-10-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-person-pete-hegseth-t-00-29-09) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-pete-hegseth-t-00-04-07) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-pete-hegseth-t-00-34-32) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-pete-hegseth-t-00-25-12) | 3 |
 
 </details>
 </section>
@@ -85,7 +87,21 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3 mentions)</summary>
+
+**[00:25:12](/episodes/ep-VUSs6CTp78Q.md#ent-person-pete-hegseth-t-00-25-12)**
+> "... something. I mean, we've got Pete Hegseth who's still there. He's lying about bombing Irani..."
+
+**[00:27:26](/episodes/ep-VUSs6CTp78Q.md#ent-person-pete-hegseth-t-00-27-01)**
+> "...tie Zacharia's exit, but also Pete Hegseth's plan for a live execution all kind of happening a..."
+
+**[00:28:41](/episodes/ep-VUSs6CTp78Q.md#ent-person-pete-hegseth-t-00-28-26)**
+> "...s and into the stuff Hegseth (Pete Hegseth) is doing. And they, and they, you know, to their..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
@@ -332,12 +348,13 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12): “She feels like an attorney. An attorney. She was a doctor. Who actually cares? She seemed like she was nice, and that counts for something. I mean, we've got Pete Hegseth who's still there. He's lying about bombing Iranian schools filled with children.”
 
 </details>
 
@@ -399,12 +416,13 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12): “She feels like an attorney. An attorney. She was a doctor. Who actually cares? She seemed like she was nice, and that counts for something. I mean, we've got Pete Hegseth who's still there. He's lying about bombing Iranian schools filled with children.”
 
 </details>
 
@@ -469,7 +487,19 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pete Hegseth (15)</strong></summary>
+<summary><strong class="section-title">Statements about Pete Hegseth (18)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>
+
+- [00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) (Accusation) **Candace Owens**: ["Owens accused Pete Hegseth of lying about bombing Iranian schools fill..."](/statements/statement-63c7e59d4063.md)
+
+- [00:27:26](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) (Claim) **Candace Owens**: ["Owens referred to Pete Hegseth’s plan for a live execution while intro..."](/statements/statement-fa770814030e.md)
+
+- [00:28:19](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) (Prediction) **Tim Dillon** (via quoted speech): ["Dillon said Trump was losing political power and that in a few weeks h..."](/statements/statement-01284aaf9ea2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Democratic Party](/entities/org-democratic-party.md), [United States Congress](/entities/org-united-states-congress.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>

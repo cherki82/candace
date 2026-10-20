@@ -1,6 +1,6 @@
 ---
 title: "How the Nampa Club America attendance dispute narrowed"
-description: "Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy."
+description: "Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse."
 ---
 
 <div class="thread-detail" data-thread-id="thread-nampa-club-america-attendance-dispute">
@@ -8,13 +8,13 @@ description: "Tracks Owens’s allegation of compulsory assembly attendance, Kol
 
 # How the Nampa Club America attendance dispute narrowed
 
-<p class="thread-summary">Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.</p>
+<p class="thread-summary">Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.</p>
 
 <div class="thread-detail-stats">
-<div><strong>18</strong><span>reviewed turns</span></div>
-<div><strong>4</strong><span>source episodes</span></div>
-<div><strong>19</strong><span>transitions</span></div>
-<div><strong>2026-10-14</strong><span>latest update</span></div>
+<div><strong>20</strong><span>reviewed turns</span></div>
+<div><strong>5</strong><span>source episodes</span></div>
+<div><strong>21</strong><span>transitions</span></div>
+<div><strong>2026-10-19</strong><span>latest update</span></div>
 </div>
 
 <section class="thread-explorer" data-thread-browser data-index-path="/assets/threads/thread-nampa-club-america-attendance-dispute.json" aria-label="Thread evidence explorer">

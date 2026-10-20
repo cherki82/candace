@@ -16,7 +16,7 @@ date: "2025-09-21"
 
 > Erika Kirk delivers forgiveness speech at convention for husband's killer.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
@@ -36,3 +36,14 @@ date: "2025-09-21"
 
 > **Date stated in this source:** “the 21st”
 > **Date review note:** The month and year are anchored by the surrounding discussion of the September 10, 2025 assassination.
+
+### 3. UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zachari...
+
+**Episode:** [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md)
+**Timestamp:** [00:38:42](/episodes/ep-VUSs6CTp78Q.md#event-event-2025-09-21-erika-kirk-delivers-forgiveness-speech-at-conventi-t-00-38-28) 
+<a href="https://www.youtube.com/watch?v=VUSs6CTp78Q&t=2322s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> It was Tyler Robinson and he was forgiven 11 days on, which is after the clipping campaign began.
+
+> **Date stated in this source:** “he was forgiven 11 days on”
+> **Date review note:** Eleven days after the canonical September 10, 2025 killing is September 21. Use the existing evidenced forgiveness-speech event, not the separate legacy duplicate with unrelated snippets.

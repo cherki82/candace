@@ -1,6 +1,6 @@
 ---
 title: "Utah House of Representatives"
-description: "Utah House of Representatives (Organizations) - 8 mentions"
+description: "Utah House of Representatives (Organizations) - 9 mentions"
 id: "org-utah-house-of-representatives"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-11-43">2026-10-13 · 00:06:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-house-of-representatives-t-00-07-22">2026-10-14 · 00:07:22</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-house-of-representatives-t-00-19-42">2026-10-19 · 00:19:42</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -39,6 +39,7 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-11-43" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 6 mentions" title="2026-10-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-house-of-representatives-t-00-07-22" style="--pulse-height:17%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-house-of-representatives-t-00-19-42" style="--pulse-height:17%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 |---|---|---:|
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-utah-house-of-representatives-t-00-11-43) | 6 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-house-of-representatives-t-00-07-22) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-house-of-representatives-t-00-19-42) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:19:42](/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-house-of-representatives-t-00-19-42)**
+> "...lti-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -95,9 +105,10 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 <summary>Has Member (2)</summary>
 
 - **[Val L. Peterson](/entities/person-val-peterson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations. He oversees a budget of more than $50 million. His administrative responsibilities include facilities and planning, athletics, university relations, strategic relations, emergency management services. Everybody reports to him plus the environmental health and safety. Safety. He is the guy. Also, aside from his very many duties at UVU, he also currently serves in Utah's House of Representatives.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 
@@ -115,9 +126,10 @@ Source: [About the House | Utah House of Representatives](https://house.utleg.go
 <summary>Referenced By (2)</summary>
 
 - **[Val L. Peterson](/entities/person-val-peterson.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations. He oversees a budget of more than $50 million. His administrative responsibilities include facilities and planning, athletics, university relations, strategic relations, emergency management services. Everybody reports to him plus the environmental health and safety. Safety. He is the guy. Also, aside from his very many duties at UVU, he also currently serves in Utah's House of Representatives.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 

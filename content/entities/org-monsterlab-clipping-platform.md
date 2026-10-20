@@ -1,6 +1,6 @@
 ---
 title: "MonsterLab (clipping platform)"
-description: "MonsterLab (clipping platform) (Organizations) - 23 mentions"
+description: "MonsterLab (clipping platform) (Organizations) - 26 mentions"
 id: "org-monsterlab-clipping-platform"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [MonsterLab × ClipIt — Earn From Clipping](https://monsterlab.io/clip
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-monsterlab-clipping-platform-t-00-08-36">2026-10-06 · 00:08:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-monsterlab-clipping-platform-t-00-15-35">2026-10-07 · 00:15:35</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-monsterlab-clipping-platform-t-00-15-16">2026-10-19 · 00:15:16</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [MonsterLab × ClipIt — Earn From Clipping](https://monsterlab.io/clip
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-monsterlab-clipping-platform-t-00-08-36" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 19 mentions" title="2026-10-06 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-monsterlab-clipping-platform-t-00-00-45" style="--pulse-height:21%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 4 mentions" title="2026-10-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-monsterlab-clipping-platform-t-00-11-01" style="--pulse-height:11%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [MonsterLab × ClipIt — Earn From Clipping](https://monsterlab.io/clip
 |---|---|---:|
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-monsterlab-clipping-platform-t-00-08-36) | 19 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-monsterlab-clipping-platform-t-00-00-45) | 4 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-monsterlab-clipping-platform-t-00-11-01) | 2 |
 
 </details>
 </section>
@@ -59,7 +61,18 @@ Source: [MonsterLab × ClipIt — Earn From Clipping](https://monsterlab.io/clip
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:11:01](/episodes/ep-VUSs6CTp78Q.md#ent-org-monsterlab-clipping-platform-t-00-11-01)**
+> "...uys about this entire website monster lab, which appears to have been created to support Er..."
+
+**[00:15:16](/episodes/ep-VUSs6CTp78Q.md#ent-org-monsterlab-clipping-platform-t-00-15-16)**
+> "...ps of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost s..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (4 mentions)</summary>
@@ -202,7 +215,7 @@ Source: [MonsterLab × ClipIt — Earn From Clipping](https://monsterlab.io/clip
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** investigated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -240,12 +253,45 @@ Source: [MonsterLab × ClipIt — Earn From Clipping](https://monsterlab.io/clip
 
 </details>
 
+- **[Enclave & Key](/entities/org-enclave-and-key.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MonsterLab (clipping platform) (27)</strong></summary>
+<summary><strong class="section-title">Statements about MonsterLab (clipping platform) (34)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (7)</summary>
+
+- [00:11:01](/episodes/ep-VUSs6CTp78Q.md#t-00-11-01) (Accusation) **Candace Owens**: ["Owens said MonsterLab appears to have been created to support Erika Ki..."](/statements/statement-8755d47a5a0a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:12:09](/episodes/ep-VUSs6CTp78Q.md#t-00-11-54) (Citation) **Baron Coleman** (via quoted speech): ["Coleman said a message asking when participants would be paid for the ..."](/statements/statement-d513762ff73b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [America Fest](/entities/event-america-fest.md)
+
+- [00:12:51](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) (Accusation) **Baron Coleman** (via quoted speech): ["Coleman said campaign participants were instructed to delete messages,..."](/statements/statement-b765677b086d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03) (Opinion) **Baron Coleman** (via quoted speech): ["Coleman characterized the campaign as needing to look organic and argu..."](/statements/statement-634581160ca3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37) (Accusation) **Candace Owens**: ["Owens said Blake Wynn was beside Erika Kirk when she said “I just want..."](/statements/statement-68bb3b72e91c.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Erika Kirk](/entities/person-erika-kirk.md), [Enclave & Key](/entities/org-enclave-and-key.md)
+
+- [00:15:45](/episodes/ep-VUSs6CTp78Q.md#t-00-15-45) (Claim) **AL incentive questioner (VUSs6CTp78Q; identity unverified)** (via quoted post): ["An unidentified Discord participant wrote that they did not think they..."](/statements/statement-98fda4301e70.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:16:53](/episodes/ep-VUSs6CTp78Q.md#t-00-16-30) (Accusation) **Candace Owens**: ["Owens said it was entirely plausible that Blake Wynn’s Enclave and Key..."](/statements/statement-3c0c2e06e777.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (12)</summary>

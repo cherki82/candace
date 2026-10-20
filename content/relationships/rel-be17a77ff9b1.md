@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (90 mentions)
+### Evidence (91 mentions)
 
 **[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
 
@@ -224,6 +224,10 @@ object: "person-charlie-kirk"
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:08:56](/episodes/ep-VMNWMXX1vO8#t-00-08-56): _six days after Charlie (Charlie Kirk) was assassinated ... Erika (Erika Kirk) ... Why is evidence being handed back to his wife, right?_
+
+**[UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q)**
+
+- [00:03:05](/episodes/ep-VUSs6CTp78Q#t-00-03-05): _The point is that Tyler Bowyer is a shady guy. He's also the person who happened to introduce Erika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a shady gal. ... Not the line I would have gone with less than 48 hours after my husband's public assassination, but you get it. It's their thing. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people._
 
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 

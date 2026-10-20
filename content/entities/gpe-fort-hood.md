@@ -1,6 +1,6 @@
 ---
 title: "Fort Hood"
-description: "Fort Hood (Places) - 3 mentions"
+description: "Fort Hood (Places) - 4 mentions"
 id: "gpe-fort-hood"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [U.S. Army Fort Hood](https://home.army.mil/hood/index.php)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-hood-t-00-52-37">2026-01-16 · 00:53:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-fort-hood-t-00-35-07">2026-10-15 · 00:35:22</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-fort-hood-t-00-29-31">2026-10-19 · 00:29:56</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [U.S. Army Fort Hood](https://home.army.mil/hood/index.php)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-hood-t-00-52-37" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-fort-hood-t-00-34-32" style="--pulse-height:100%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-fort-hood-t-00-29-31" style="--pulse-height:50%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [U.S. Army Fort Hood](https://home.army.mil/hood/index.php)
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-hood-t-00-52-37) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-fort-hood-t-00-34-32) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-fort-hood-t-00-29-31) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [U.S. Army Fort Hood](https://home.army.mil/hood/index.php)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:29:56](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-fort-hood-t-00-29-31)**
+> "...ld come on, and then, um, the Fort Hood shooter would get shot in the head. But that was ..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 267 mentions"
+description: "Brigitte Macron (People) - 272 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-brigitte-macron-t-00-26-42">2026-10-14 · 00:26:42</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>267</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-44-33">2026-10-19 · 00:44:53</a></strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>272</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>53</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -108,6 +108,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-23-49" style="--pulse-height:14%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-brigitte-macron-t-00-54-00" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-brigitte-macron-t-00-19-55" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-10-18" style="--pulse-height:11%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 5 mentions" title="2026-10-19 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -183,6 +184,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-brigitte-macron-t-00-23-49) | 6 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-brigitte-macron-t-00-54-00) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-brigitte-macron-t-00-19-55) | 3 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-10-18) | 5 |
 
 </details>
 </section>
@@ -194,7 +196,27 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (267)</strong></summary>
+<summary><strong class="section-title">Raw mentions (272)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (5 mentions)</summary>
+
+**[00:10:18](/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-10-18)**
+> "... threw bleach on my Brigitte (Brigitte Macron) doll."
+
+**[00:42:42](/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-42-42)**
+> "...cerned for bleached Brigitte (Brigitte Macron). I think Baron (Baron Coleman) should be investi..."
+
+**[00:43:08](/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-43-08)**
+> "...el sad knowing that Brigitte (Brigitte Macron) doll has been harmed over the weekend, the best ..."
+
+**[00:44:14](/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-43-49)**
+> "...hat took place with Brigitte (Brigitte Macron) over the weekend, which we can't show you any ev..."
+
+**[00:44:53](/episodes/ep-VUSs6CTp78Q.md#ent-person-brigitte-macron-t-00-44-33)**
+> "...hink too much about Brigitte (Brigitte Macron) doll. We did we did file a police report and tha..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>

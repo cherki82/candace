@@ -1,6 +1,6 @@
 ---
 title: "Enclave & Key"
-description: "Enclave & Key (Organizations) - 13 mentions"
+description: "Enclave & Key (Organizations) - 15 mentions"
 id: "org-enclave-and-key"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-enclave-and-key-t-00-24-08">2026-10-06 · 00:24:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-enclave-and-key-t-00-12-16">2026-10-07 · 00:12:25</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-enclave-and-key-t-00-16-30">2026-10-19 · 00:16:53</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-enclave-and-key-t-00-24-08" style="--pulse-height:100%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 12 mentions" title="2026-10-06 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-org-enclave-and-key-t-00-12-16" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-enclave-and-key-t-00-15-16" style="--pulse-height:17%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 |---|---|---:|
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-enclave-and-key-t-00-24-08) | 12 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-org-enclave-and-key-t-00-12-16) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-enclave-and-key-t-00-15-16) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:15:16](/episodes/ep-VUSs6CTp78Q.md#ent-org-enclave-and-key-t-00-15-16)**
+> "...Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make v..."
+
+**[00:16:53](/episodes/ep-VUSs6CTp78Q.md#ent-org-enclave-and-key-t-00-16-30)**
+> "...ble that Blake (Blake Wynn)'s Enclave and Key, which had already been providing the Google Driv..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>
@@ -173,19 +186,32 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 </details>
 
 <details>
-<summary>Owned By (1)</summary>
+<summary>Manages Clipping Campaign For (1)</summary>
 
-- **[Blake Wynn](/entities/person-blake-wynn.md)**
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:12:25](/episodes/ep-yrg_-D6oNHE.md#t-00-12-16): “We had to get real techie, techie for me at least. And we learned that the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing. marketing firm owned by Erika (Erika Kirk)'s dear friend, Blake Wynn, a firm that we then learned has an imprint in Romania. ... There is definitely panic that seems to be settling. Blakey (Blake Neff) is off the rails. The Atlantic article informed us that they moved to delete all the videos from the associative Google Drive, one that was providing all the clips. Many of the campaigns were pulled down after the writer began inquiring about Blake Wynn's enclave and key, the enclave and key's involvement, so to speak.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Worked With (2)</summary>
+<summary>Owned By (1)</summary>
+
+- **[Blake Wynn](/entities/person-blake-wynn.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:12:25](/episodes/ep-yrg_-D6oNHE.md#t-00-12-16): “We had to get real techie, techie for me at least. And we learned that the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing. marketing firm owned by Erika (Erika Kirk)'s dear friend, Blake Wynn, a firm that we then learned has an imprint in Romania. ... There is definitely panic that seems to be settling. Blakey (Blake Neff) is off the rails. The Atlantic article informed us that they moved to delete all the videos from the associative Google Drive, one that was providing all the clips. Many of the campaigns were pulled down after the writer began inquiring about Blake Wynn's enclave and key, the enclave and key's involvement, so to speak.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (3)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -201,10 +227,17 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 
 </details>
 
+- **[MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Blake Wynn](/entities/person-blake-wynn.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -234,6 +267,13 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** has clipping campaign managed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
+
+</details>
+
 - **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -243,9 +283,10 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 </details>
 
 - **[Blake Wynn](/entities/person-blake-wynn.md)** owns this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:12:25](/episodes/ep-yrg_-D6oNHE.md#t-00-12-16): “We had to get real techie, techie for me at least. And we learned that the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing. marketing firm owned by Erika (Erika Kirk)'s dear friend, Blake Wynn, a firm that we then learned has an imprint in Romania. ... There is definitely panic that seems to be settling. Blakey (Blake Neff) is off the rails. The Atlantic article informed us that they moved to delete all the videos from the associative Google Drive, one that was providing all the clips. Many of the campaigns were pulled down after the writer began inquiring about Blake Wynn's enclave and key, the enclave and key's involvement, so to speak.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
 
 </details>
 
@@ -274,7 +315,18 @@ Source: [Enclave & Key — About](https://www.enclaveandkey.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Enclave & Key (11)</strong></summary>
+<summary><strong class="section-title">Statements about Enclave & Key (13)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
+
+- [00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37) (Accusation) **Candace Owens**: ["Owens said Blake Wynn was beside Erika Kirk when she said “I just want..."](/statements/statement-68bb3b72e91c.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:16:53](/episodes/ep-VUSs6CTp78Q.md#t-00-16-30) (Accusation) **Candace Owens**: ["Owens said it was entirely plausible that Blake Wynn’s Enclave and Key..."](/statements/statement-3c0c2e06e777.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>

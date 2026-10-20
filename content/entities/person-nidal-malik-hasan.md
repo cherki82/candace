@@ -23,7 +23,7 @@ Source: [Army major declared sole suspect in Hood shooting](https://www.army.mil
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -40,6 +40,10 @@ Source: [Army major declared sole suspect in Hood shooting](https://www.army.mil
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How the Hasan execution-livestream debate changed](/threads/thread-hasan-execution-livestream-debate) — Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

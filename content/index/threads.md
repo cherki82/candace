@@ -10,24 +10,50 @@ description: "Reviewed theory milestones and proposition changes over event and 
 <div class="thread-index-audit"><strong>Reviewed, not inferred</strong><span>Membership and transitions require evidence. Similarity alone never creates a durable link.</span></div>
 
 <div class="thread-index-stats">
-<div><strong>479</strong><span>live branches</span></div>
+<div><strong>485</strong><span>live branches</span></div>
 <div><strong>104</strong><span>dormant seeds</span></div>
 <div><strong>24</strong><span>put to rest</span></div>
-<div><strong>3,940</strong><span>reviewed turns</span></div>
+<div><strong>3,953</strong><span>reviewed turns</span></div>
 </div>
 
 <div class="thread-index-grid">
 <article class="thread-index-card">
 <div class="thread-card-meta">
-<span>180 sources</span>
-<span>3897 reviewed turns</span>
-<time datetime="2026-10-15">Updated 2026-10-15</time>
+<span>181 sources</span>
+<span>3905 reviewed turns</span>
+<time datetime="2026-10-19">Updated 2026-10-19</time>
 </div>
 <h2><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h2>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>463</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,448</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>467</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,456</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">6448 reviewed transitions</span>
+<span class="sr-only">6456 reviewed transitions</span>
+</article>
+
+<article class="thread-index-card">
+<div class="thread-card-meta">
+<span>5 sources</span>
+<span>20 reviewed turns</span>
+<time datetime="2026-10-19">Updated 2026-10-19</time>
+</div>
+<h2><a href="/threads/thread-nampa-club-america-attendance-dispute">How the Nampa Club America attendance dispute narrowed</a></h2>
+<p>Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.</p>
+<div class="thread-index-preview"><span><strong>8</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>21</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
+<span class="sr-only">21 reviewed transitions</span>
+</article>
+
+<article class="thread-index-card">
+<div class="thread-card-meta">
+<span>2 sources</span>
+<span>3 reviewed turns</span>
+<time datetime="2026-10-19">Updated 2026-10-19</time>
+</div>
+<h2><a href="/threads/thread-hasan-execution-livestream-debate">How the Hasan execution-livestream debate changed</a></h2>
+<p>Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.</p>
+<div class="thread-index-preview"><span><strong>2</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>2</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-hasan-execution-livestream-debate">Open evidence trail <span aria-hidden="true">→</span></a>
+<span class="sr-only">2 reviewed transitions</span>
 </article>
 
 <article class="thread-index-card">
@@ -41,19 +67,6 @@ description: "Reviewed theory milestones and proposition changes over event and 
 <div class="thread-index-preview"><span><strong>3</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>11</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-zacharia-legal-credentials-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
 <span class="sr-only">11 reviewed transitions</span>
-</article>
-
-<article class="thread-index-card">
-<div class="thread-card-meta">
-<span>4 sources</span>
-<span>18 reviewed turns</span>
-<time datetime="2026-10-14">Updated 2026-10-14</time>
-</div>
-<h2><a href="/threads/thread-nampa-club-america-attendance-dispute">How the Nampa Club America attendance dispute narrowed</a></h2>
-<p>Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.</p>
-<div class="thread-index-preview"><span><strong>8</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>19</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">19 reviewed transitions</span>
 </article>
 
 <article class="thread-index-card">

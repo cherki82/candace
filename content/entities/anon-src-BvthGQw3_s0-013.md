@@ -44,7 +44,7 @@ Source: [Candace Ep 390 — source attribution](https://www.youtube.com/watch?v=
 
 ## Reviewed theory threads
 
-- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

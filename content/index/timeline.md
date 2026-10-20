@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 2117_
+_Total events: 2124_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,7 +340,7 @@ _Total events: 2117_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (391)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (396)</label>
   <label for="tab-year-2025" class="tab-btn">2025 (996)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (108)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (43)</label>
@@ -362,8 +362,8 @@ _Total events: 2117_
   <label for="tab-year-2007" class="tab-btn">2007 (13)</label>
   <label for="tab-year-2006" class="tab-btn">2006 (15)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (11)</label>
-  <label for="tab-year-2004" class="tab-btn">2004 (2)</label>
-  <label for="tab-year-2003" class="tab-btn">2003 (14)</label>
+  <label for="tab-year-2004" class="tab-btn">2004 (3)</label>
+  <label for="tab-year-2003" class="tab-btn">2003 (15)</label>
   <label for="tab-year-2002" class="tab-btn">2002 (7)</label>
   <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
@@ -457,6 +457,38 @@ _Total events: 2117_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-10-16-katie-zacharia-posted-praise-for-donald-" data-filter-key="event-2026-10-16-katie-zacharia-posted-praise-for-donald-">
+<div class="timeline-date">2026-10-16</div>
+<div class="timeline-desc"><a href="/events/event-2026-10-16-katie-zacharia-posted-praise-for-donald-.md">Katie Zacharia posted praise for Donald Trump and said it was an honor to work for him, in the October 16 farewell message read by Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-16: Katie Zacharia posted praise for Donald Trump and said it was an honor to work for him, in the October 16 farewell message read by Candace Owens. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-16-katie-zacharia-departed-her-role-as-whit" data-filter-key="event-2026-10-16-katie-zacharia-departed-her-role-as-whit">
+<div class="timeline-date">2026-10-16</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-16-katie-zacharia-departed-her-role-as-whit.md">Katie Zacharia departed her role as White House press secretary, as reported by Candace Owens; the October 16 departure date is corroborated by con...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-16-katie-zacharia-departed-her-role-as-whit.md">Katie Zacharia departed her role as White House press secretary, as reported by Candace Owens; the October 16 departure date is corroborated by contemporaneous NPR reporting.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-16: Katie Zacharia departed her role as White House press secretary, as reported by Candace Owens; the October 16 departure date is corroborated by contemporaneous NPR reporting. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:24:48](/episodes/ep-VUSs6CTp78Q.md#t-00-24-38)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-10-15-candace-owens-reported-a-turning-point-a" data-filter-key="event-2026-10-15-candace-owens-reported-a-turning-point-a">
 <div class="timeline-date">2026-10-15</div>
 <details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-15-candace-owens-reported-a-turning-point-a.md">Candace Owens reported a Turning Point Action fundraising email saying its September activity had exhausted financial resources faster than planned...</a></summary>
@@ -508,6 +540,41 @@ _Total events: 2117_
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:38:18](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18)
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:38:45](/episodes/ep-YPIYYHCNPbE.md#t-00-38-18)
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:39:39](/episodes/ep-YPIYYHCNPbE.md#t-00-39-39)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-15-candace-owens-recounted-a-viewers-instag" data-filter-key="event-2026-10-15-candace-owens-recounted-a-viewers-instag">
+<div class="timeline-date">2026-10-15</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-15-candace-owens-recounted-a-viewers-instag.md">Candace Owens recounted a viewer's Instagram exchange with Tyler Bowyer about the Charlie Kirk statue vandalism; Bowyer reportedly said investigato...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-15-candace-owens-recounted-a-viewers-instag.md">Candace Owens recounted a viewer's Instagram exchange with Tyler Bowyer about the Charlie Kirk statue vandalism; Bowyer reportedly said investigators could not identify masked perpetrators with covered plates. This records the attributed exchange, not verification of his account.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-15: Candace Owens recounted a viewer\'s Instagram exchange with Tyler Bowyer about the Charlie Kirk statue vandalism; Bowyer reportedly said investigators could not identify masked perpetrators with covered plates. This records the attributed exchange, not verification of his account. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:05:53](/episodes/ep-VUSs6CTp78Q.md#t-00-05-53)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:06:28](/episodes/ep-VUSs6CTp78Q.md#t-00-06-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-15-candace-owens-said-her-team-contacted-go" data-filter-key="event-2026-10-15-candace-owens-said-her-team-contacted-go">
+<div class="timeline-date">2026-10-15</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-15-candace-owens-said-her-team-contacted-go.md">Candace Owens said her team contacted Governor Spencer Cox's office seeking confirmation or denial of an alleged September 10, 2025 meeting with Va...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-15-candace-owens-said-her-team-contacted-go.md">Candace Owens said her team contacted Governor Spencer Cox's office seeking confirmation or denial of an alleged September 10, 2025 meeting with Val Peterson; she reported no response by the October 19 episode.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-15: Candace Owens said her team contacted Governor Spencer Cox\'s office seeking confirmation or denial of an alleged September 10, 2025 meeting with Val Peterson; she reported no response by the October 19 episode. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:21:19](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09)
 
 </details>
 </div>
@@ -629,13 +696,14 @@ _Total events: 2117_
 <p class="timeline-desc"><a href="/events/event-2026-10-08-candace-owens-said-pete-hegseth-announce.md">Candace Owens said Pete Hegseth announced plans to livestream Nidal Malik Hasan's execution; this event records the announcement, not a future execution.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-08: Candace Owens said Pete Hegseth announced plans to livestream Nidal Malik Hasan\'s execution; this event records the announcement, not a future execution. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:27:26](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01)
 
 </details>
 </div>
@@ -830,24 +898,6 @@ _Total events: 2117_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:40:40](/episodes/ep-FGoeoZxDN1c.md#t-00-40-40)
-
-</details>
-</div>
-
-<div class="timeline-event filter-item" id="event-2026-09-turning-point-usa-unveiled-a-charlie-kir" data-filter-key="event-2026-09-turning-point-usa-unveiled-a-charlie-kir">
-<div class="timeline-date">2026-09</div>
-<details><summary class="timeline-desc truncated"><a href="/events/event-2026-09-turning-point-usa-unveiled-a-charlie-kir.md">Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters before the reported September 13 vandalism; the precise unveiling day ...</a></summary>
-<p class="timeline-desc"><a href="/events/event-2026-09-turning-point-usa-unveiled-a-charlie-kir.md">Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters before the reported September 13 vandalism; the precise unveiling day is not independently stated in this transcript.</a></p>
-</details>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09: Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters before the reported September 13 vandalism; the precise unveiling day is not independently stated in this transcript. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [More Exclusive Footage! For Whatever It’s Farns... @ 00:01:02](/episodes/ep-O4Zw3bCALjU.md#t-00-00-46)
-- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16)
 
 </details>
 </div>
@@ -1400,7 +1450,7 @@ _Total events: 2117_
 <p class="timeline-desc"><a href="/events/event-2026-09-13-owens-reported-tpusas-allegation-that-th.md">Owens reported TPUSA’s allegation that the Charlie Kirk statue at its Arizona headquarters was vandalized with red paint early on September 13; the perpetrator’s identity and political affiliation were unestablished.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-13: Owens reported TPUSA’s allegation that the Charlie Kirk statue at its Arizona headquarters was vandalized with red paint early on September 13; the perpetrator’s identity and political affiliation were unestablished. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -1408,6 +1458,7 @@ _Total events: 2117_
 
 - [More Exclusive Footage! For Whatever It’s Farns... @ 00:38:28](/episodes/ep-O4Zw3bCALjU.md#t-00-38-28)
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:18:51](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:01:13](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45)
 
 </details>
 </div>
@@ -1471,6 +1522,25 @@ _Total events: 2117_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [More Exclusive Footage! For Whatever It’s Farns... @ 00:51:16](/episodes/ep-O4Zw3bCALjU.md#t-00-50-46)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-10-turning-point-usa-unveiled-a-charlie-kir" data-filter-key="event-2026-09-10-turning-point-usa-unveiled-a-charlie-kir">
+<div class="timeline-date">2026-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-09-10-turning-point-usa-unveiled-a-charlie-kir.md">Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters on the first anniversary of Kirk's death; Owens credited Tyler Bowyer ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-09-10-turning-point-usa-unveiled-a-charlie-kir.md">Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters on the first anniversary of Kirk's death; Owens credited Tyler Bowyer with arranging it.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 3 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-10: Turning Point USA unveiled a Charlie Kirk statue at its Arizona headquarters on the first anniversary of Kirk\'s death; Owens credited Tyler Bowyer with arranging it. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [More Exclusive Footage! For Whatever It’s Farns... @ 00:01:02](/episodes/ep-O4Zw3bCALjU.md#t-00-00-46)
+- [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:18:33](/episodes/ep-YPIYYHCNPbE.md#t-00-18-16)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35)
 
 </details>
 </div>
@@ -4182,7 +4252,7 @@ _Total events: 2117_
 <div class="timeline-date">2026-04-25 <span class='time'>21:49</span></div>
 <div class="timeline-desc"><a href="/events/event-2026-04-25-candace-owens-said-the-white-house-milit.md">Candace Owens said the White House Military Office emailed a recommendation to amplify Erika Kirk's 'I want to go home' clip.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25 21:49: Candace Owens said the White House Military Office emailed a recommendation to amplify Erika Kirk\'s \'I want to go home\' clip. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -4191,6 +4261,7 @@ _Total events: 2117_
 - [BREAKING! The White House Attempted To Rescind ... @ 00:08:00](/episodes/ep-7FS1tUeSfdE.md#t-00-08-00)
 - [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:08:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-08-03)
 - [Hunter Biden Returns. The White House Ghosts Me... @ 00:35:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-35-08)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:14:37](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37)
 
 </details>
 </div>
@@ -4215,7 +4286,7 @@ _Total events: 2117_
 <div class="timeline-date">2026-04-25</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-25-an-armed-man-breached-a-white-house-corr.md">An armed man breached a White House Correspondents' Dinner security checkpoint and Secret Service agents opened fire.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">7× in 7 eps</span>
+<span class="timeline-badge mentions">8× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25: An armed man breached a White House Correspondents\' Dinner security checkpoint and Secret Service agents opened fire. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -4228,6 +4299,7 @@ _Total events: 2117_
 - [Hunter Biden Returns. The White House Ghosts Me... @ 00:29:22](/episodes/ep-1QZ4X6q1DPg.md#t-00-28-54)
 - [The World Is A Stage: Trump Survives...Again? |... @ 00:04:08](/episodes/ep-BxN2-aeMYIs.md#t-00-03-48)
 - [Ivanka Trump “Discovers” An Island. Erika Kirk ... @ 00:08:22](/episodes/ep-tXoI0TTKVrs.md#t-00-08-03)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:15:45](/episodes/ep-VUSs6CTp78Q.md#t-00-15-45)
 
 </details>
 </div>
@@ -5537,6 +5609,24 @@ _Total events: 2117_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [WE WERE RIGHT! UVU Releases Their Independent R... @ 01:12:07](/episodes/ep-bIuvTKlFeGo.md#t-01-12-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-22-baron-coleman-presented-a-discord-messag" data-filter-key="event-2026-02-22-baron-coleman-presented-a-discord-messag">
+<div class="timeline-date">2026-02-22</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-02-22-baron-coleman-presented-a-discord-messag.md">Baron Coleman presented a Discord message dated February 22, 2026 asking about unpaid Erika Kirk AmFest promotion; ensuing replies told participant...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-02-22-baron-coleman-presented-a-discord-messag.md">Baron Coleman presented a Discord message dated February 22, 2026 asking about unpaid Erika Kirk AmFest promotion; ensuing replies told participants to delete the message and avoid her name. The AmFest year is not inferred from his internally inconsistent December 2026 remark.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-22: Baron Coleman presented a Discord message dated February 22, 2026 asking about unpaid Erika Kirk AmFest promotion; ensuing replies told participants to delete the message and avoid her name. The AmFest year is not inferred from his internally inconsistent December 2026 remark. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:12:23](/episodes/ep-VUSs6CTp78Q.md#t-00-11-54)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:12:45](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37)
 
 </details>
 </div>
@@ -8677,23 +8767,6 @@ _Total events: 2117_
 </details>
 </div>
 
-<div class="timeline-event filter-item" id="event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon" data-filter-key="event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon">
-<div class="timeline-date">2025-11-18</div>
-<div class="timeline-desc"><a href="/events/event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon.md">President Donald Trump pardoned Tyler Bowyer (pardon referenced as occurring a couple weeks earlier).</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-18: President Donald Trump pardoned Tyler Bowyer (pardon referenced as occurring a couple weeks earlier). - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:04:23](/episodes/ep-c5BcKF91iec.md#t-00-03-48)
-- [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:20:43](/episodes/ep-5autG89PW6w.md#t-00-19-58)
-- [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
-
-</details>
-</div>
-
 <div class="timeline-event filter-item" id="event-2025-11-18-abc-news-publishes-a-report-on-planning-" data-filter-key="event-2025-11-18-abc-news-publishes-a-report-on-planning-">
 <div class="timeline-date">2025-11-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-18-abc-news-publishes-a-report-on-planning-.md">ABC News publishes a report on planning, attendance estimates, and emergency medical arrangements for Charlie Kirk’s UVU event.</a></div>
@@ -9022,6 +9095,24 @@ _Total events: 2117_
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:11:03](/episodes/ep-5autG89PW6w.md#t-00-10-21)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:02:43](/episodes/ep-r1PS67aRmcA.md#t-00-02-10)
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:05:25](/episodes/ep-zSKrxIUMNqw.md#t-00-04-48)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-11-07-president-donald-trump-granted-tyler-bow" data-filter-key="event-2025-11-07-president-donald-trump-granted-tyler-bow">
+<div class="timeline-date">2025-11-07</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-07-president-donald-trump-granted-tyler-bow.md">President Donald Trump granted Tyler Bowyer a pardon in Proclamation 10989 concerning offenses related to the 2020 presidential election.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">4× in 4 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-07: President Donald Trump granted Tyler Bowyer a pardon in Proclamation 10989 concerning offenses related to the 2020 presidential election. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:04:23](/episodes/ep-c5BcKF91iec.md#t-00-03-48)
+- [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:20:43](/episodes/ep-5autG89PW6w.md#t-00-19-58)
+- [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:02:52](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35)
 
 </details>
 </div>
@@ -11118,7 +11209,7 @@ _Total events: 2117_
 <div class="timeline-date">2025-09-21</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-21-erika-kirk-delivers-forgiveness-speech-at-conventi.md">Erika Kirk delivers forgiveness speech at convention for husband's killer.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-21: Erika Kirk delivers forgiveness speech at convention for husband\'s killer. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11126,6 +11217,7 @@ _Total events: 2117_
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:01:43](/episodes/ep-ja26iltROkM.md#t-00-01-26)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:07:26](/episodes/ep-vwG1juDCQZQ.md#t-00-07-04)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:38:42](/episodes/ep-VUSs6CTp78Q.md#t-00-38-28)
 
 </details>
 </div>
@@ -12085,7 +12177,7 @@ _Total events: 2117_
 <p class="timeline-desc"><a href="/events/event-2025-09-15-owens-quoted-ali-breland-reporting-that-.md">Owens quoted Ali Breland reporting that videos mostly of Erika Kirk were uploaded to a Google Drive folder on September 15, 2025; she connected the folder to the Turning Point USA clipping campaign.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 2 eps</span>
+<span class="timeline-badge mentions">4× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-15: Owens quoted Ali Breland reporting that videos mostly of Erika Kirk were uploaded to a Google Drive folder on September 15, 2025; she connected the folder to the Turning Point USA clipping campaign. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12094,6 +12186,7 @@ _Total events: 2117_
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHO... @ 00:21:21](/episodes/ep-0pSAhaAZz1w.md#t-00-21-21)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHO... @ 00:29:09](/episodes/ep-0pSAhaAZz1w.md#t-00-29-09)
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake ... @ 00:45:21](/episodes/ep-yrg_-D6oNHE.md#t-00-44-54)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:16:59](/episodes/ep-VUSs6CTp78Q.md#t-00-16-30)
 
 </details>
 </div>
@@ -14316,7 +14409,7 @@ _Total events: 2117_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">167× in 118 eps</span>
+<span class="timeline-badge mentions">168× in 119 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -14489,6 +14582,7 @@ _Total events: 2117_
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHO... @ 00:18:32](/episodes/ep-0pSAhaAZz1w.md#t-00-18-12)
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake ... @ 00:27:24](/episodes/ep-yrg_-D6oNHE.md#t-00-27-24)
 - [America The Ugly: A General, A Cop & A Missing ... @ 00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35)
 
 </details>
 </div>
@@ -16923,12 +17017,12 @@ _Total events: 2117_
 
 <div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-reported-that-val-peterson" data-filter-key="event-2025-09-10-candace-owens-reported-that-val-peterson">
 <div class="timeline-date">2025-09-10</div>
-<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-candace-owens-reported-that-val-peterson.md">Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox acco...</a></summary>
-<p class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-reported-that-val-peterson.md">Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox accompanied him was explicitly unverified.</a></p>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-candace-owens-reported-that-val-peterson.md">Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; sources also alleged Spencer Cox accompa...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-reported-that-val-peterson.md">Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; sources also alleged Spencer Cox accompanied or met him that day. Cox's presence and the alleged meeting remained independently unconfirmed, with Owens seeking confirmation from his office.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox accompanied him was explicitly unverified. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">4× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; sources also alleged Spencer Cox accompanied or met him that day. Cox\'s presence and the alleged meeting remained independently unconfirmed, with Owens seeking confirmation from his office. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
@@ -16936,6 +17030,7 @@ _Total events: 2117_
 - [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:04:16](/episodes/ep-6jOEN9rBePU.md#t-00-04-16)
 - [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:03:42](/episodes/ep-6jOEN9rBePU.md#t-00-03-36)
 - [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:04:49](/episodes/ep-6jOEN9rBePU.md#t-00-04-49)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:21:09](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09)
 
 </details>
 </div>
@@ -31127,6 +31222,26 @@ _Total events: 2117_
 </details>
 </div>
 
+**February**
+
+<div class="timeline-event filter-item" id="event-2004-02-an-article-read-by-candace-owens-reporte" data-filter-key="event-2004-02-an-article-read-by-candace-owens-reporte">
+<div class="timeline-date">2004-02</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2004-02-an-article-read-by-candace-owens-reporte.md">An article read by Candace Owens reported that authorities searched Kenneth (Kenny) Wynn's home and confiscated a computer during a child pornograp...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2004-02-an-article-read-by-candace-owens-reporte.md">An article read by Candace Owens reported that authorities searched Kenneth (Kenny) Wynn's home and confiscated a computer during a child pornography investigation. The search is not a finding of guilt or a conviction.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2004-02: An article read by Candace Owens reported that authorities searched Kenneth (Kenny) Wynn\'s home and confiscated a computer during a child pornography investigation. The search is not a finding of guilt or a conviction. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:17:30](/episodes/ep-VUSs6CTp78Q.md#t-00-17-10)
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:18:26](/episodes/ep-VUSs6CTp78Q.md#t-00-17-54)
+
+</details>
+</div>
+
 ****
 
 <div class="timeline-event filter-item" id="event-2004-the-national-academy-of-sciences-conclud" data-filter-key="event-2004-the-national-academy-of-sciences-conclud">
@@ -31152,6 +31267,25 @@ _Total events: 2117_
 <div class="timeline-container">
 
 <h2 id="year-2003">2003</h2>
+
+**July**
+
+<div class="timeline-event filter-item" id="event-2003-07-09-the-bureau-of-immigration-and-customs-en" data-filter-key="event-2003-07-09-the-bureau-of-immigration-and-customs-en">
+<div class="timeline-date">2003-07-09</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2003-07-09-the-bureau-of-immigration-and-customs-en.md">The Bureau of Immigration and Customs Enforcement launched Operation Predator to combat child sexual exploitation; Owens read an article describing...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2003-07-09-the-bureau-of-immigration-and-customs-en.md">The Bureau of Immigration and Customs Enforcement launched Operation Predator to combat child sexual exploitation; Owens read an article describing its July start.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2003-07-09: The Bureau of Immigration and Customs Enforcement launched Operation Predator to combat child sexual exploitation; Owens read an article describing its July start. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:18:37](/episodes/ep-VUSs6CTp78Q.md#t-00-18-37)
+
+</details>
+</div>
 
 **April**
 

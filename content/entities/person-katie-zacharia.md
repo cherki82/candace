@@ -1,6 +1,6 @@
 ---
 title: "Katie Zacharia"
-description: "Katie Zacharia (People) - 12 mentions"
+description: "Katie Zacharia (People) - 21 mentions"
 id: "person-katie-zacharia"
 type: "PERSON"
 categories:
@@ -18,22 +18,23 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50">2026-10-13 · 00:35:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-katie-zacharia-t-00-28-30">2026-10-15 · 00:28:57</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
-<div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-37-57">2026-10-19 · 00:37:57</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-00-01">UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-katie-zacharia-t-00-00-01" style="--pulse-height:100%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 4 mentions" title="2026-10-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50" style="--pulse-height:44%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 4 mentions" title="2026-10-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15" style="--pulse-height:22%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-katie-zacharia-t-00-00-01" style="--pulse-height:44%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 4 mentions" title="2026-10-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-00-01" style="--pulse-height:100%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 9 mentions" title="2026-10-19 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50) | 4 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15) | 2 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-katie-zacharia-t-00-00-01) | 4 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-00-01) | 9 |
 
 </details>
 </section>
@@ -53,7 +55,39 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (9 mentions)</summary>
+
+**[00:00:08](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-00-01)**
+> "Katie Zacharia, press secretary, the one I had only just began t..."
+
+**[00:00:22](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-00-01)**
+> "...d, but she meant well. Katie (Katie Zacharia), wherever you are, I want you to know that you w..."
+
+**[00:24:48](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-24-38)**
+> "Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed..."
+
+**[00:26:37](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-26-32)**
+> "...e same thing. He was a fan of Katie Zacharia, and he also..."
+
+**[00:27:26](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-27-01)**
+> "...rfect bit describing not just Katie Zacharia's exit, but also Pete Hegseth's plan for a live exe..."
+
+**[00:27:45](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-27-45)**
+> "...e Tim Dillon Show. Five days, Katie Zacharia out. I believe that's her name."
+
+**[00:37:32](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-37-32)**
+> "...ites, I am 98% convinced that Katie Zacharia and Erika Frantzve are made in the same lab."
+
+**[00:37:47](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-37-32)**
+> "...ttle different because Katie (Katie Zacharia) doesn't give me that like, oh, I don't want to w..."
+
+**[00:37:57](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-37-57)**
+> "... I, I would feel safer around Katie Zacharia. The best thing, by the way, free career advice f..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (4 mentions)</summary>
@@ -169,12 +203,26 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (3)</summary>
 
 - **[Zhong Lun Law Firm](/entities/org-zhong-lun-law-firm.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:31:52](/episodes/ep-YPIYYHCNPbE.md#t-00-31-26): “I was offered a job in an international practice division of a Chinese law firm called Zhonglun Law Firm. ... And the international practice were four associates under a senior partner and we worked the international side, the English language side, and we had a Chinese counterpart that was there. There's no Chinese bar. ... our shareholders agreements and transactions that were cross border and there I had all the necessary requirements to do that and I was able to do it effectively and well and had glowing recommendations from the senior partner who oversaw my time there.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
+
+</details>
+
+- **[White House](/entities/org-white-house.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:00:08](/episodes/ep-VUSs6CTp78Q.md#t-00-00-01): “Katie Zacharia, press secretary, the one I had only just began to warm to. She is no longer. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
 
 </details>
 
@@ -187,6 +235,18 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:30:17](/episodes/ep-YPIYYHCNPbE.md#t-00-30-17): “Sounds like she thinks she's a lawyer. Well, gratefully, she sat down with Jack Posobiec to further explore what actually happened behind the scenes.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
 
 </details>
 
@@ -213,7 +273,7 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -268,6 +328,20 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
+
+</details>
+
+- **[White House](/entities/org-white-house.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:00:08](/episodes/ep-VUSs6CTp78Q.md#t-00-00-01): “Katie Zacharia, press secretary, the one I had only just began to warm to. She is no longer. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
+
+</details>
+
 - **[Fox News](/entities/org-fox-news.md)** has contributor this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -282,12 +356,27 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Katie Zacharia (11)</strong></summary>
+<summary><strong class="section-title">Statements by Katie Zacharia (12)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1)</summary>
+
+- [00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51) [○] (Opinion) ["In the October 16th tweet read by Owens, Katie Zacharia described Trump as kind,..."](/statements/statement-255aabb3022e.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6)</summary>
@@ -340,7 +429,18 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Katie Zacharia (24)</strong></summary>
+<summary><strong class="section-title">Statements about Katie Zacharia (27)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>
+
+- [00:24:48](/episodes/ep-VUSs6CTp78Q.md#t-00-24-38) (Claim) **Candace Owens**: ["Owens said Katie Zacharia was out as press secretary."](/statements/statement-90722991bf76.md)
+
+- [00:25:35](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Katie Zacharia was not a practicing attorney despite presen..."](/statements/statement-0defa3d7689a.md)
+
+- [00:27:45](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) (Claim) **Tim Dillon** (via quoted speech): ["Dillon said Katie Zacharia was out as press secretary after five days ..."](/statements/statement-8518e809558a.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (11)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 54 mentions"
+description: "Turning Point Action (Organizations) - 55 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-00-00">2025-10-06 · 00:00:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-23-02">2026-10-15 · 00:23:35</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-action-t-00-02-35">2026-10-19 · 00:02:35</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>33</strong></div>
-<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
+<div><span>Relationships</span><strong>25</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -59,6 +59,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-00-38" style="--pulse-height:100%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 12 mentions" title="2026-10-15 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-action-t-00-02-35" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-turning-point-action-t-01-20-26) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-turning-point-action-t-00-14-11) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-action-t-00-00-38) | 12 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-action-t-00-02-35) | 1 |
 
 </details>
 </section>
@@ -98,7 +100,15 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:02:35](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-action-t-00-02-35)**
+> "Anyway, as a mild refresher, Turning Point Action's Tyler Bowyer is the one who had the Charlie Kirk ..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (12 mentions)</summary>
@@ -536,7 +546,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -557,6 +567,13 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:41:34](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22): “The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch.”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “Turning Point Action's Tyler Bowyer is the one who had the Charlie Kirk statue erected”
 
 </details>
 
@@ -649,7 +666,15 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (33)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (34)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1)</summary>
+
+- [00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer of Turning Point Action had the Charlie Kirk s..."](/statements/statement-6d4cd77f23ee.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3444 mentions"
+description: "Erika Kirk (People) - 3477 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,12 +27,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-44-35">2026-10-15 · 00:44:35</a></strong></div>
-<div><span>Episodes</span><strong>168</strong></div>
-<div><span>Mentions</span><strong>3,444</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-37-57">2026-10-19 · 00:37:57</a></strong></div>
+<div><span>Episodes</span><strong>169</strong></div>
+<div><span>Mentions</span><strong>3,477</strong></div>
 <div><span>Statements by</span><strong>133</strong></div>
-<div><span>Statements about</span><strong>1,199</strong></div>
-<div><span>Relationships</span><strong>386</strong></div>
+<div><span>Statements about</span><strong>1,213</strong></div>
+<div><span>Relationships</span><strong>388</strong></div>
 <div><span>Threads</span><strong>5</strong></div>
 </div>
 
@@ -208,6 +208,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35" style="--pulse-height:14%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 12 mentions" title="2026-10-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-02-53" style="--pulse-height:9%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 8 mentions" title="2026-10-15 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-54" style="--pulse-height:36%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 31 mentions" title="2026-10-19 · 31 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -381,6 +382,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-erika-kirk-t-00-17-35) | 12 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55) | 4 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-02-53) | 8 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-54) | 31 |
 
 </details>
 </section>
@@ -389,14 +391,112 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 - [How the account of a manufactured Owens–Kirk feud changed](/threads/thread-owens-kirk-2019-feud-provenance) — Tracks the displayed 2019 messages and Owens’s later challenge to their claimed Groyper provenance. Authorship, authenticity and alleged coordination remain unverified; this thread does not identify assassination participants.
-- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.
 - [How the AmFest suit-fit explanation was disputed](/threads/thread-erika-amfest-suit-fit-dispute) — Tracks Erika Kirk’s quoted explanation that only the sparkly suit fit and Owens’s later rebuttal using other public outfits; it does not establish what fit on the day.
 - [How Kirk Telegram account attribution became uncertain](/threads/thread-kirk-telegram-account-attribution) — Tracks a viewer’s matching-contact observation and Owens’s shared-account alternative in Episode 396. The progression concerns attribution of displayed messages; account ownership, authorship and message authenticity remain unverified.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3444)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3477)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (31 mentions)</summary>
+
+**[00:12:09](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-54)**
+> "Uh, someone's asking when they're going to get paid for the AmFest thing, the Erika Kirk AmFest thing. Now, why were we able to find this when they've deleted all the Erika Kirk stuff? Because they didn't spell her name correctly. It was Eka Kirk."
+
+**[00:00:57](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-00-45)**
+> "...arry Loomer (Laura Loomer) or Erika Kirk. That's it. No exceptions, either Larry Loomer (L..."
+
+**[00:03:05](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-02-35)**
+> "... happened to introduce Erika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a s..."
+
+**[00:04:26](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-04-12)**
+> "...ump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the st..."
+
+**[00:09:48](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-09-37)**
+> "...t's demonic. Like, and Erika (Erika Kirk)'s not concerned about it. And the main takeaway,..."
+
+**[00:10:52](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-10-18)**
+> "...ng campaign, you guys. Erika (Erika Kirk). Erika (Erika Kirk), the emotional asset. Truly,..."
+
+**[00:11:01](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-01)**
+> "...een created to support Erika (Erika Kirk)'s public image almost immediately after Charlie ..."
+
+**[00:11:27](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-27)**
+> "...was working to bolster Erika (Erika Kirk)'s image, but he had some very strict instruction..."
+
+**[00:11:54](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-54)**
+> "Do we have actual evidence of Erika Kirk campaigns? Well, in fact, we do. In fact, we do. ..."
+
+**[00:12:23](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-54)**
+> "...n are we getting paid for the Erika Kirk AmFest thing?' Now notice this is February 22nd, ..."
+
+**[00:12:37](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-12-37)**
+> "The Erika Kirk AmFest thing was in December of 2026."
+
+**[00:13:05](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-12-37)**
+> "...now that we're doing this for Erika Kirk."
+
+**[00:13:10](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-12-37)**
+> "...t people know we're promoting Erika Kirk and you're gone. You can't talk about it publicly..."
+
+**[00:13:47](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-13-23)**
+> "... to get banned for mentioning Erika Kirk's name."
+
+**[00:13:57](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-13-23)**
+> "... to get banned for mentioning Erika Kirk's name."
+
+**[00:14:09](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-14-03)**
+> "... can't talk about Fight Club. Erika Kirk is Fight Club. Not allowed to talk about Fight Cl..."
+
+**[00:14:37](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-14-37)**
+> "Erika Kirk is Fight Club, okay? And I got to tell you, it's ..."
+
+**[00:14:57](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-14-37)**
+> "Of Erika (Erika Kirk). 'I just want to go home.' They cited her as an ..."
+
+**[00:15:16](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-15-16)**
+> "...and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterL..."
+
+**[00:15:45](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-15-45)**
+> "... Dinner shooting where Erika (Erika Kirk) cried, plus the people who ML forgot to calculat..."
+
+**[00:16:53](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-16-30)**
+> "...ogle Drive filled with Erika (Erika Kirk) clips."
+
+**[00:17:22](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-17-10)**
+> "Erika (Erika Kirk) addressed the nation again, dressed this time li..."
+
+**[00:19:24](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-19-18)**
+> "...r is I don't know. But Erika (Erika Kirk) makes me uncomfortable."
+
+**[00:30:47](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-30-47)**
+> "... I'm just like, hey, bring in Erika Kirk as, the press secretary, bring in the emotional a..."
+
+**[00:31:13](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-30-47)**
+> "...th it. And speaking of Erika (Erika Kirk), by the way, do you want to tell you this?"
+
+**[00:32:19](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-32-01)**
+> "...terans Day Assemblies. Erika (Erika Kirk), Veterans, the country?"
+
+**[00:32:51](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-32-44)**
+> "...his chapel with special guest Erika Kirk."
+
+**[00:33:25](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-33-25)**
+> "...ncomfortable with the idea of Erika Kirk being in the same vicinity as children."
+
+**[00:34:13](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-34-09)**
+> "...xcited. Everyone loves Erika (Erika Kirk),' because this is just the longest-running psych..."
+
+**[00:37:32](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-37-32)**
+> "...inced that Katie Zacharia and Erika Frantzve are made in the same lab."
+
+**[00:37:57](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-37-57)**
+> "... something went, like, Erika (Erika Kirk) got the X ingredients, for those of you who know..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (8 mentions)</summary>
@@ -11540,7 +11640,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Ceo Of (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (43)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:21:14](/episodes/ep-vwG1juDCQZQ.md#t-00-20-52): “This is where it's going to be really hard for Erika to be a CEO and to be somebody who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right?”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:05](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “Erika (Erika Kirk) a couple of days ago, and I said she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie (Charlie Kirk)”
@@ -11584,6 +11684,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -12025,7 +12126,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Chairman Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:05](/episodes/ep-Qt0VHV-POCg.md#t-00-08-31): “I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:05](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “What's interesting is that, and by the way, I do want to add here that Eric has is the chairman and CEO of Turning Point. So going to see your biggest donor wouldn't exactly be a scandal.”
@@ -12052,6 +12153,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -12200,7 +12302,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (14)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (82)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -12283,6 +12385,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:33:33](/episodes/ep-VUSs6CTp78Q.md#t-00-33-25): “My question is, why is it even a thing? Why is this even a thing to just foist her upon young students? Has she served in any role other than emotional asset for the Department of War? ... Before we were told she was serving as this loving wife, that she had no aspirations in her career, that, you know, she just wanted to be a loving wife to Charlie Kirk. ... She used to be wear every hat, I guess. She was a reality TV, like reality TV star, casting director. ... How do we get here? What's the rationale? ... Beyond like, you know, the inevitable photo that's going to come out, school-wide gymnasium where they're going to go pretend that everyone signed up for Club America because it's just bursting at the seams, and be like, 'Look at the whole school. Pre-K through 12 is so excited. Everyone loves Erika (Erika Kirk),' because this is just the longest-running psychological operation on the American public, who is not, we're just, we're not biting.”
 
 </details>
 
@@ -12319,10 +12422,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Baron Coleman](/entities/person-baron-coleman.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47): “Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03): “Because we need it to look organic. We have this woman who cannot possibly be supported on her own merit. We're going to have to invest millions of dollars in supporting this woman. We're going to have to run clipping campaigns all over social media so people can think she's great, but we don't want anyone to talk about it. First rule of Fight Club: you can't talk about Fight Club. Erika Kirk is Fight Club. Not allowed to talk about Fight Club.”
 
 </details>
 
@@ -12840,10 +12944,23 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Blake Wynn](/entities/person-blake-wynn.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:27:38](/episodes/ep-0pSAhaAZz1w.md#t-00-27-07): “In any case, just in case you are not understanding how much he adores and values his relationship with Erika (Erika Kirk) as a friend in his life, here is Blake Wynn. He did a podcast and he was speaking with this guy, Jeff Fargo. The podcast is called Fargo Talks, and here is what he had to say. ... I was with you at breakfast when I found out about Charlie Kirk being shot. And it's one of those things that separate from that situation, it's I've sort of asked myself, why was I with you? And you fit into a very small bucket of people that I have in my life where, you know, it's so easy to look up to people. And I've been very fortunate in my life to get to know. A lot of my business heroes very well personally, people like my uncle Steve (Steve Wynn), people like my grandfather, and then also people who have just become major successes or a lot of our clients and things like that. But then there's this much more rare bucket. Erika Kirk fits into it, you fit into it, and a couple other people fit into it, which is that I look up to you guys as human beings. You guys are wonderful people, and it's really fun, the friendship we've developed in the last couple of months.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:24](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “We had to get real techie, techie for me at least. And we learned that the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing. marketing firm owned by Erika (Erika Kirk)'s dear friend, Blake Wynn, a firm that we then learned has an imprint in Romania.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37): “Of Erika (Erika Kirk). 'I just want to go home.' They cited her as an emotional asset. It's relevant now to remind you that Blake Wynn, Erika (Erika Kirk)'s dear friend, was by her side when she uttered that now infamous phrase, 'I just want to go home.' Someone was there to capture it. Suddenly it was everywhere, and didn't feel organic to us.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Clipping Campaign Managed By (1)</summary>
+
+- **[Enclave & Key](/entities/org-enclave-and-key.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
 
 </details>
 
@@ -13381,7 +13498,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Widow Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (91)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -13473,6 +13590,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy. He's also the person who happened to introduce Erika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a shady gal. ... Not the line I would have gone with less than 48 hours after my husband's public assassination, but you get it. It's their thing. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -13666,7 +13784,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (182)</summary>
+<summary>Referenced By (183)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (26)</summary>
@@ -14022,7 +14140,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (82)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -14105,6 +14223,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:33:33](/episodes/ep-VUSs6CTp78Q.md#t-00-33-25): “My question is, why is it even a thing? Why is this even a thing to just foist her upon young students? Has she served in any role other than emotional asset for the Department of War? ... Before we were told she was serving as this loving wife, that she had no aspirations in her career, that, you know, she just wanted to be a loving wife to Charlie Kirk. ... She used to be wear every hat, I guess. She was a reality TV, like reality TV star, casting director. ... How do we get here? What's the rationale? ... Beyond like, you know, the inevitable photo that's going to come out, school-wide gymnasium where they're going to go pretend that everyone signed up for Club America because it's just bursting at the seams, and be like, 'Look at the whole school. Pre-K through 12 is so excited. Everyone loves Erika (Erika Kirk),' because this is just the longest-running psychological operation on the American public, who is not, we're just, we're not biting.”
 
 </details>
 
@@ -14141,10 +14260,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Baron Coleman](/entities/person-baron-coleman.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47): “Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03): “Because we need it to look organic. We have this woman who cannot possibly be supported on her own merit. We're going to have to invest millions of dollars in supporting this woman. We're going to have to run clipping campaigns all over social media so people can think she's great, but we don't want anyone to talk about it. First rule of Fight Club: you can't talk about Fight Club. Erika Kirk is Fight Club. Not allowed to talk about Fight Club.”
 
 </details>
 
@@ -14220,7 +14340,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** deceased husband of this
-<details class="relationship-evidence"><summary>Show all evidence (90)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (91)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -14312,6 +14432,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:49:33](/episodes/ep-yrg_-D6oNHE.md#t-00-48-55): “It says September 9th of the 10th. I don't know. We'll see if he's joking. Ali (viewer/commenter; surname unverified) writes, Erika (Erika Kirk)... Quote, to text me the names of the heavy hitters. You know, she put on a really sad face for donations. It's so disrespectful to Charlie (Charlie Kirk). She seems to love the fame and power much more. Her excuse is she needs to honor his legacy by giving it to Ben Shapiro. Yeah, I mean, I feel like that's just what was promised to her, and they're doing everything to make her think she's got it. She knows, you can see it in her face now. She's frustrated, and there's an anger that's setting in and realizing that she is not going to be taking over for Charlie (Charlie Kirk)... For Charlie (Charlie Kirk) in any regards, I mean, maybe on paper, but her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie (Charlie Kirk). That's all gone now. And so she's going to have to stay in a small circle that keep telling her she's amazing all the time.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:46:50](/episodes/ep-UAdBEXs7nNc.md#t-00-46-41): “Despite the devastating loss of Charlie Kirk, my incredible husband at UVU, Caleb has persisted with the same grift, excuse me, gift, grit.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:06:03](/episodes/ep-6jOEN9rBePU.md#t-00-06-03): “I would also add that as far as we can tell, which I was kind of surprised by this, Governor Cox (Spencer Cox) has never stated where he was when he learned of Charlie (Charlie Kirk)'s death. He's done interviews and he said he's gone as far as to say, you know, I got the notification on my phone and within a minute I was on the phone with the White House. ... Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy. He's also the person who happened to introduce Erika (Erika Kirk) to Charlie (Charlie Kirk). I would say she's a shady gal. ... Not the line I would have gone with less than 48 hours after my husband's public assassination, but you get it. It's their thing. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -14711,15 +14832,16 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Blake Wynn](/entities/person-blake-wynn.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:27:38](/episodes/ep-0pSAhaAZz1w.md#t-00-27-07): “In any case, just in case you are not understanding how much he adores and values his relationship with Erika (Erika Kirk) as a friend in his life, here is Blake Wynn. He did a podcast and he was speaking with this guy, Jeff Fargo. The podcast is called Fargo Talks, and here is what he had to say. ... I was with you at breakfast when I found out about Charlie Kirk being shot. And it's one of those things that separate from that situation, it's I've sort of asked myself, why was I with you? And you fit into a very small bucket of people that I have in my life where, you know, it's so easy to look up to people. And I've been very fortunate in my life to get to know. A lot of my business heroes very well personally, people like my uncle Steve (Steve Wynn), people like my grandfather, and then also people who have just become major successes or a lot of our clients and things like that. But then there's this much more rare bucket. Erika Kirk fits into it, you fit into it, and a couple other people fit into it, which is that I look up to you guys as human beings. You guys are wonderful people, and it's really fun, the friendship we've developed in the last couple of months.”
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:07:24](/episodes/ep-yrg_-D6oNHE.md#t-00-07-24): “We had to get real techie, techie for me at least. And we learned that the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing. marketing firm owned by Erika (Erika Kirk)'s dear friend, Blake Wynn, a firm that we then learned has an imprint in Romania.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37): “Of Erika (Erika Kirk). 'I just want to go home.' They cited her as an emotional asset. It's relevant now to remind you that Blake Wynn, Erika (Erika Kirk)'s dear friend, was by her side when she uttered that now infamous phrase, 'I just want to go home.' Someone was there to capture it. Suddenly it was everywhere, and didn't feel organic to us.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has CEO this
-<details class="relationship-evidence"><summary>Show all evidence (41)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:21:14](/episodes/ep-vwG1juDCQZQ.md#t-00-20-52): “This is where it's going to be really hard for Erika to be a CEO and to be somebody who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right?”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:05](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “Erika (Erika Kirk) a couple of days ago, and I said she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie (Charlie Kirk)”
@@ -14762,6 +14884,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -14788,7 +14911,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has chairman this
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:05](/episodes/ep-Qt0VHV-POCg.md#t-00-08-31): “I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:05](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “What's interesting is that, and by the way, I do want to add here that Eric has is the chairman and CEO of Turning Point. So going to see your biggest donor wouldn't exactly be a scandal.”
@@ -14815,6 +14938,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:01:14](/episodes/ep-bIuvTKlFeGo.md#t-00-00-43): “This emotional pitch of Erika (Erika Kirk), Erika (Erika Kirk), she's just a widow. No, she's conniving. She has allowed lies. ... OK, she has allowed lies because she is the CEO and chairman. She's not at home taking care of her kids. She's on the road connected to an apparatus of power at all times. ... This would be a really good thing. For the CEO and chairman of Turning Point USA to participate in a third party review, if you're interested in getting to the truth about maybe how your organization may have played a role in the security failures that day.”
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:00:26](/episodes/ep-5TTkMa49qj8.md#t-00-00-01): “In Vanity Fair regarding, of course, Erica (Erika Kirk), CEO and chairwoman of Turning Point USA, I'm sorry, guys, but we have to go through it. It is a certified hit.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:01:46](/episodes/ep-q4m-kGzvwjw.md#t-00-01-18): “So on Monday, it was confirmed by Vanity Fair that, yes, Erika (Erika Kirk) assumed her husband's position as CEO and chairman within 48 hours of his untimely death. That's really quick. And that's because, if Doug DeGroote (TPUSA board member; name spelling unverified) is to be believed, board member Doug DeGroote (TPUSA board member; name spelling unverified), also financial advisor to Charlie (Charlie Kirk) and Erika (Erika Kirk), it's because the organization was immediately placed under pressure from journalists not to provide updates about the as-of-yet unlocated killer, because remember, that took 33 hours before they found Tyler Robinson. You would think that if they were contacting public relations at Turning Point USA, they would want updates about that. But according to Doug (TPUSA board member; surname spelling unverified), Doug DeGroote (TPUSA board member; name spelling unverified), the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie (Charlie Kirk). We don't even care about the assassination.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:26](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “Trump (Donald Trump) needs a ballroom. Erika (Erika Kirk), I just want to go home. And then we have the statue vandalization. We were careful. ... No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -15034,6 +15158,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:53:20](/episodes/ep-BvthGQw3_s0.md#t-00-53-10): “They shouldn't believe their own eyes. UFO writes, have you seen Erika Frantzve (Erika Kirk) new white kicks sneakers with Charlie (Charlie Kirk)'s picture on her shoes? It is so bizarre. Is this a grift? Is this betrayal question mark? I have. I saw this trending. We did not cover this. I do want to assert that it is an old image. Is when she's interviewing Karoline Leavitt and indeed the internet has just recently uncovered that Erika (Erika Kirk) was wearing air force charlies.”
+
+</details>
+
+- **[Enclave & Key](/entities/org-enclave-and-key.md)** manages clipping campaign for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:15:16](/episodes/ep-VUSs6CTp78Q.md#t-00-15-16): “And it's now relevant, of course, because we know that Blake (Blake Wynn)'s company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via MonsterLab, like right when MonsterLab launched. It almost seemed like they were their first big client.”
 
 </details>
 
@@ -16058,7 +16189,50 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (1199)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (1213)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (14)</summary>
+
+- [00:11:01](/episodes/ep-VUSs6CTp78Q.md#t-00-11-01) (Accusation) **Candace Owens**: ["Owens said MonsterLab appears to have been created to support Erika Ki..."](/statements/statement-8755d47a5a0a.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:12:09](/episodes/ep-VUSs6CTp78Q.md#t-00-11-54) (Citation) **Baron Coleman** (via quoted speech): ["Coleman said a message asking when participants would be paid for the ..."](/statements/statement-d513762ff73b.md)
+  - Also about: [America Fest](/entities/event-america-fest.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:12:37](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) (Claim) **Baron Coleman** (via quoted speech): ["Coleman said the Erika Kirk AmFest campaign was in December of 2026. T..."](/statements/statement-016c23034deb.md)
+  - Also about: [America Fest](/entities/event-america-fest.md)
+
+- [00:12:51](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) (Accusation) **Baron Coleman** (via quoted speech): ["Coleman said campaign participants were instructed to delete messages,..."](/statements/statement-b765677b086d.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03) (Opinion) **Baron Coleman** (via quoted speech): ["Coleman characterized the campaign as needing to look organic and argu..."](/statements/statement-634581160ca3.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37) (Accusation) **Candace Owens**: ["Owens said Blake Wynn was beside Erika Kirk when she said “I just want..."](/statements/statement-68bb3b72e91c.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:15:45](/episodes/ep-VUSs6CTp78Q.md#t-00-15-45) (Claim) **AL incentive questioner (VUSs6CTp78Q; identity unverified)** (via quoted post): ["An unidentified Discord participant wrote that they did not think they..."](/statements/statement-98fda4301e70.md)
+  - Also about: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:16:53](/episodes/ep-VUSs6CTp78Q.md#t-00-16-30) (Accusation) **Candace Owens**: ["Owens said it was entirely plausible that Blake Wynn’s Enclave and Key..."](/statements/statement-3c0c2e06e777.md)
+  - Also about: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:30:58](/episodes/ep-VUSs6CTp78Q.md#t-00-30-47) (Accusation) **Candace Owens**: ["Owens said Erika Kirk had already described herself as like a doctor a..."](/statements/statement-bbd597bff6ff.md)
+
+- [00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19) (Accusation) **Candace Owens**: ["Owens argued that Erika Kirk’s Club America school appearances were be..."](/statements/statement-79ecf7bf0df0.md)
+  - Also about: [Club America](/entities/org-club-america.md)
+
+- [00:32:10](/episodes/ep-VUSs6CTp78Q.md#t-00-32-01) (Claim) **Candace Owens**: ["Owens said parents had emailed about Erika Kirk appearing as a special..."](/statements/statement-275bce42f1c2.md)
+
+- [00:32:51](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) (Citation) **Candace Owens**: ["Owens read a school invitation welcoming veterans and active military ..."](/statements/statement-001f3eed7a53.md)
+
+- [00:33:11](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) (Claim) **Candace Owens**: ["Owens said parents could opt their children out of the school-wide Eri..."](/statements/statement-bfe5a0cba568.md)
+
+- [00:34:13](/episodes/ep-VUSs6CTp78Q.md#t-00-34-09) (Prediction) **Candace Owens**: ["Owens predicted that a school-wide photograph would be presented as ev..."](/statements/statement-cce44452ba6c.md)
+  - Also about: [Club America](/entities/org-club-america.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6)</summary>

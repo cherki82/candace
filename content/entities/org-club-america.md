@@ -1,6 +1,6 @@
 ---
 title: "Club America"
-description: "Club America (Organizations) - 32 mentions"
+description: "Club America (Organizations) - 34 mentions"
 id: "org-club-america"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-club-america-t-00-00-44">2026-03-06 · 00:01:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-club-america-t-00-14-43">2026-10-15 · 00:15:05</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-club-america-t-00-34-09">2026-10-19 · 00:34:13</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
@@ -47,6 +47,7 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-club-america-t-00-26-28" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-club-america-t-00-16-22" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-club-america-t-00-00-01" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-club-america-t-00-31-19" style="--pulse-height:17%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-club-america-t-00-26-28) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-club-america-t-00-16-22) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-club-america-t-00-00-01) | 6 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-club-america-t-00-31-19) | 2 |
 
 </details>
 </section>
@@ -69,12 +71,23 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
-- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:31:19](/episodes/ep-VUSs6CTp78Q.md#ent-org-club-america-t-00-31-19)**
+> "...ddle school audiences now via Club America, but like bizarre because it's being administrati..."
+
+**[00:34:13](/episodes/ep-VUSs6CTp78Q.md#ent-org-club-america-t-00-34-09)**
+> "...d that everyone signed up for Club America because it's just bursting at the seams, and be l..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6 mentions)</summary>
@@ -231,9 +244,10 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19): “This is regarding the what I just keep saying is this frankly bizarre pursuit of middle school audiences now via Club America, but like bizarre because it's being administratively forced and they're counting it as wins. ... Like nobody is asking for her to come to their school. That clearly means it's not a demonstration of the free market that Charlie (Charlie Kirk) believed in. That's a demonstration of top down power. ... That's the exact opposite of grassroots where kids go, hey, do you want to stop? Do you want to come? Do you want to hear her speak? ... And it's weird. It's weird to keep showing up places that you're not invited because you have powerful friends that have money and probably donate to these places. It's weird full stop.”
 
 </details>
 
@@ -302,9 +316,10 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19): “This is regarding the what I just keep saying is this frankly bizarre pursuit of middle school audiences now via Club America, but like bizarre because it's being administratively forced and they're counting it as wins. ... Like nobody is asking for her to come to their school. That clearly means it's not a demonstration of the free market that Charlie (Charlie Kirk) believed in. That's a demonstration of top down power. ... That's the exact opposite of grassroots where kids go, hey, do you want to stop? Do you want to come? Do you want to hear her speak? ... And it's weird. It's weird to keep showing up places that you're not invited because you have powerful friends that have money and probably donate to these places. It's weird full stop.”
 
 </details>
 
@@ -345,7 +360,18 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Club America (19)</strong></summary>
+<summary><strong class="section-title">Statements about Club America (21)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
+
+- [00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19) (Accusation) **Candace Owens**: ["Owens argued that Erika Kirk’s Club America school appearances were be..."](/statements/statement-79ecf7bf0df0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:34:13](/episodes/ep-VUSs6CTp78Q.md#t-00-34-09) (Prediction) **Candace Owens**: ["Owens predicted that a school-wide photograph would be presented as ev..."](/statements/statement-cce44452ba6c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (4)</summary>

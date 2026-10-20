@@ -1,6 +1,6 @@
 ---
 title: "Val L. Peterson"
-description: "Val L. Peterson (People) - 41 mentions"
+description: "Val L. Peterson (People) - 44 mentions"
 id: "person-val-peterson"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06">2026-10-13 · 00:04:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-09-30">2026-10-15 · 00:09:30</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-val-peterson-t-00-20-28">2026-10-19 · 00:20:49</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06" style="--pulse-height:100%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 29 mentions" title="2026-10-13 · 29 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-02-55" style="--pulse-height:24%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 7 mentions" title="2026-10-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-07-34" style="--pulse-height:17%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 5 mentions" title="2026-10-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-val-peterson-t-00-19-18" style="--pulse-height:10%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 3 mentions" title="2026-10-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-val-peterson-t-00-04-06) | 29 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-val-peterson-t-00-02-55) | 7 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-val-peterson-t-00-07-34) | 5 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-val-peterson-t-00-19-18) | 3 |
 
 </details>
 </section>
@@ -58,7 +60,21 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3 mentions)</summary>
+
+**[00:19:33](/episodes/ep-VUSs6CTp78Q.md#ent-person-val-peterson-t-00-19-18)**
+> "...an, the myth, the Utah legend Val Peterson, the vice president of facilities over."
+
+**[00:19:42](/episodes/ep-VUSs6CTp78Q.md#ent-person-val-peterson-t-00-19-42)**
+> "...just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see th..."
+
+**[00:20:49](/episodes/ep-VUSs6CTp78Q.md#ent-person-val-peterson-t-00-20-28)**
+> "...y. I don't even know why Val (Val Peterson) would be picked to be on the board of a hospital..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (5 mentions)</summary>
@@ -228,6 +244,37 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:20:49](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28): “That was a busy guy. I don't even know why Val (Val Peterson) would be picked to be on the board of a hospital. I don't know what in his background. ... When you pick a board, it's like relevant to, hey, we want former doctor, former surgeon, help us run a hospital. What is his expertise there other than just being an important guy? ... He's really well connected.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Former Board Member Of (2)</summary>
+
+- **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and”
+
+</details>
+
+- **[Provo Airport](/entities/org-provo-airport.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and ... at one point he also sat on the board of Provo Airport. He is a very busy, busy guy. I tried to look up. I said, that's actually interesting.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Member Of (1)</summary>
 
 - **[300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)**
@@ -262,9 +309,10 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 <summary>Member Of (1)</summary>
 
 - **[Utah House of Representatives](/entities/org-utah-house-of-representatives.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations. He oversees a budget of more than $50 million. His administrative responsibilities include facilities and planning, athletics, university relations, strategic relations, emergency management services. Everybody reports to him plus the environmental health and safety. Safety. He is the guy. Also, aside from his very many duties at UVU, he also currently serves in Utah's House of Representatives.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 
@@ -299,10 +347,11 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 <summary>Vice President Of (1)</summary>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 
@@ -321,12 +370,19 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Brigham Young University](/entities/org-brigham-young-university.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:08:57](/episodes/ep-V-phmW9f0pM.md#t-00-08-47): “A native of Moscow, Idaho, not to be interesting, where his father was a university professor. Peterson (Val Peterson) went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia, where he gained a mastery of Spanish language. Later, as a student at BYU, Brigham Young University, he heard about a linguist military intelligence unit of the Utah National Guard from roommates who were looking into possibly signing up along with obvious educational benefits of serving.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:20:49](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28): “That was a busy guy. I don't even know why Val (Val Peterson) would be picked to be on the board of a hospital. I don't know what in his background. ... When you pick a board, it's like relevant to, hey, we want former doctor, former surgeon, help us run a hospital. What is his expertise there other than just being an important guy? ... He's really well connected.”
 
 </details>
 
@@ -344,6 +400,20 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 
 </details>
 
+- **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)** has former board member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and”
+
+</details>
+
+- **[Provo Airport](/entities/org-provo-airport.md)** has former board member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and ... at one point he also sat on the board of Provo Airport. He is a very busy, busy guy. I tried to look up. I said, that's actually interesting.”
+
+</details>
+
 - **[300th Military Intelligence Brigade (Linguist)](/entities/org-300th-military-intelligence-brigade.md)** has former member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -352,17 +422,19 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 - **[Utah House of Representatives](/entities/org-utah-house-of-representatives.md)** has member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations. He oversees a budget of more than $50 million. His administrative responsibilities include facilities and planning, athletics, university relations, strategic relations, emergency management services. Everybody reports to him plus the environmental health and safety. Safety. He is the guy. Also, aside from his very many duties at UVU, he also currently serves in Utah's House of Representatives.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)** has vice president this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:05:29](/episodes/ep-V-phmW9f0pM.md#t-00-05-29): “So Val (Val Peterson) started at UVU before it was UVU in June of 1987. So, I mean, that's two years before I was even born. And back then it was just Utah Technical College. College today. He is officially the vice president of the administration and strategic relations.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:03:22](/episodes/ep-6jOEN9rBePU.md#t-00-02-55): “It was a lot to unpack. Val Peterson, the vice president of UVU, and apparently the guy, the man allegedly feared by faculty and allegedly very pro Erika (Erika Kirk) and Turning Point USA.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board...”
 
 </details>
 
@@ -397,7 +469,18 @@ Source: [Brigadier General Val L. Peterson](https://www.nationalguard.mil/portal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Val L. Peterson (25)</strong></summary>
+<summary><strong class="section-title">Statements about Val L. Peterson (27)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
+
+- [00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18) (Citation) **Candace Owens**: ["Owens cited Val Peterson’s government biography and the UVU website as..."](/statements/statement-e12198c0e647.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:21:09](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) (Claim) **Candace Owens** (via paraphrase): ["Owens said two sources she considered extremely reliable had told her ..."](/statements/statement-c2c97c226c91.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Stars (¥$ song)"
-description: "Stars (¥$ song) (Works & Media) - 2 mentions"
+description: "Stars (¥$ song) (Works & Media) - 3 mentions"
 id: "work-stars-yen-dollar-song"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [STARS - ¥$ / Kanye West / Ty Dolla $ign](https://www.youtube.com/watch
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-stars-yen-dollar-song-t-00-48-48">2025-11-12 · 00:48:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-stars-yen-dollar-song-t-00-48-48">2025-11-12 · 00:49:00</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-work-stars-yen-dollar-song-t-00-41-21">2026-10-19 · 00:41:21</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [STARS - ¥$ / Kanye West / Ty Dolla $ign](https://www.youtube.com/watch
 <p>Highest activity: <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-stars-yen-dollar-song-t-00-48-48">Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-work-stars-yen-dollar-song-t-00-48-48" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-work-stars-yen-dollar-song-t-00-41-21" style="--pulse-height:50%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-work-stars-yen-dollar-song-t-00-48-48) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-work-stars-yen-dollar-song-t-00-41-21) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [STARS - ¥$ / Kanye West / Ty Dolla $ign](https://www.youtube.com/watch
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:41:21](/episodes/ep-VUSs6CTp78Q.md#ent-work-stars-yen-dollar-song-t-00-41-21)**
+> "...kylar (Schuyler Pryor). It's 'Stars' by Ye (Kanye West). You would think I would know..."
+
+</details>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>

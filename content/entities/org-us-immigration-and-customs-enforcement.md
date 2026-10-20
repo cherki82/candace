@@ -1,6 +1,6 @@
 ---
 title: "U.S. Immigration and Customs Enforcement"
-description: "U.S. Immigration and Customs Enforcement (Organizations) - 13 mentions"
+description: "U.S. Immigration and Customs Enforcement (Organizations) - 14 mentions"
 id: "org-us-immigration-and-customs-enforcement"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-us-immigration-and-customs-enforcement-t-00-44-45">2025-09-24 · 00:44:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#t-00-40-35">2026-10-14 · 00:40:35</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-immigration-and-customs-enforcement-t-00-18-37">2026-10-19 · 00:18:37</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-org-us-immigration-and-customs-enforcement-t-00-58-32" style="--pulse-height:33%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48" style="--pulse-height:33%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#t-00-39-51" style="--pulse-height:67%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-immigration-and-customs-enforcement-t-00-18-37" style="--pulse-height:33%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-org-us-immigration-and-customs-enforcement-t-00-58-32) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-us-immigration-and-customs-enforcement-t-00-02-48) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#t-00-39-51) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-immigration-and-customs-enforcement-t-00-18-37) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:18:37](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-immigration-and-customs-enforcement-t-00-18-37)**
+> "...d in July under the Bureau of Immigration and Customs Enforcement targets child sex tourists, human traffickers, in..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2 mentions)</summary>
@@ -171,6 +181,18 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 </details>
 
 <details>
+<summary>Operates (1)</summary>
+
+- **[Operation Predator](/entities/org-operation-predator.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:18:37](/episodes/ep-VUSs6CTp78Q.md#t-00-18-37): “Operation Predator started in July under the Bureau of Immigration and Customs Enforcement targets child sex tourists, human traffickers, internet predators, and other child sexual predators worldwide.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Trained By (1)</summary>
 
 - **[Israel Defense Forces](/entities/org-israel-defense-forces.md)**
@@ -183,12 +205,19 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Macklemore](/entities/person-macklemore.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:45:12](/episodes/ep-kn1E0scy9Wc.md#t-00-45-12): “So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE.”
+
+</details>
+
+- **[Operation Predator](/entities/org-operation-predator.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:18:37](/episodes/ep-VUSs6CTp78Q.md#t-00-18-37): “Operation Predator started in July under the Bureau of Immigration and Customs Enforcement targets child sex tourists, human traffickers, internet predators, and other child sexual predators worldwide.”
 
 </details>
 
@@ -204,7 +233,15 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about U.S. Immigration and Customs Enforcement (3)</strong></summary>
+<summary><strong class="section-title">Statements about U.S. Immigration and Customs Enforcement (4)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1)</summary>
+
+- [00:18:37](/episodes/ep-VUSs6CTp78Q.md#t-00-18-37) (Citation) **Candace Owens**: ["Reading the article, Owens cited Operation Predator as an Immigration ..."](/statements/statement-dd176fd68f8a.md)
+  - Also about: [Operation Predator](/entities/org-operation-predator.md)
+
+</details>
 
 <details>
 <summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (2)</summary>

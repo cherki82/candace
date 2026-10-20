@@ -17,7 +17,7 @@ time: "21:49"
 
 > Candace Owens said the White House Military Office emailed a recommendation to amplify Erika Kirk's 'I want to go home' clip.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. BREAKING! The White House Attempted To Rescind This E-mail. ...
 
@@ -42,3 +42,14 @@ time: "21:49"
 <a href="https://www.youtube.com/watch?v=1QZ4X6q1DPg&t=2152s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Video clip of Erika Kirk leaving the ballroom area and stating, I just want to go home
+
+### 4. UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zachari...
+
+**Episode:** [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md)
+**Timestamp:** [00:14:37](/episodes/ep-VUSs6CTp78Q.md#event-event-2026-04-25-candace-owens-said-the-white-house-milit-t-00-14-37) 
+<a href="https://www.youtube.com/watch?v=VUSs6CTp78Q&t=877s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> the email that went out on the night of the White House Correspondents Dinner
+
+> **Date stated in this source:** “on the night of the White House Correspondents Dinner”
+> **Date review note:** The source recalls the same email amplification request. Retain canonical April 25, 2026; the speaker does not establish a new email or a new date here.

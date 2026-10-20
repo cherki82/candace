@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 166 mentions"
+description: "Tax Network USA (Organizations) - 168 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-44">2025-09-16 · 01:05:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-tax-network-usa-t-00-25-54">2026-10-14 · 00:25:54</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>166</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-tax-network-usa-t-00-36-13">2026-10-19 · 00:36:28</a></strong></div>
+<div><span>Episodes</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>168</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -91,6 +91,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-tax-network-usa-t-00-54-26" style="--pulse-height:17%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-tax-network-usa-t-00-26-42" style="--pulse-height:33%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-tax-network-usa-t-00-24-31" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-tax-network-usa-t-00-36-13" style="--pulse-height:33%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -151,6 +152,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-tax-network-usa-t-00-54-26) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-tax-network-usa-t-00-26-42) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-tax-network-usa-t-00-24-31) | 3 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-tax-network-usa-t-00-36-13) | 2 |
 
 </details>
 </section>
@@ -158,7 +160,18 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (166)</strong></summary>
+<summary><strong class="section-title">Raw mentions (168)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:35:48](/episodes/ep-VUSs6CTp78Q.md#ent-org-tax-network-usa-t-00-36-13)**
+> "So stop what you're doing and go to taxnetworkusa. Just $49, they will pull your actual IRS data and give you a..."
+
+**[00:36:28](/episodes/ep-VUSs6CTp78Q.md#ent-org-tax-network-usa-t-00-36-13)**
+> "Visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace. I also want to remind you guys about American financing because what if you could delay your next two mortgage payments?"
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3 mentions)</summary>
@@ -936,7 +949,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -954,6 +967,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:24:49](/episodes/ep-6jOEN9rBePU.md#t-00-24-31): “I also have to tell you guys about Tax Network USA because there are plenty of people who owe back taxes or have unfiled tax returns. ... So stop what you're doing and go to taxnetworkusa. for just $49, they pull your actual IRS data and give you a free tax strategy. ... Documents, bank levies, and property seizures. They can even file for you without your consent. This is about using your legal rights to take control before the government sets the terms for you. It takes two minutes to get started, so visit tnusa.com slash Candace.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:35:48](/episodes/ep-VUSs6CTp78Q.md#t-00-35-31): “So stop what you're doing and go to taxnetworkusa. Just $49, they will pull your actual IRS data and give you a... ... give you a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved. ... They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all. ... So whether you owe $10,000 or $10 million, their team has resolved over $1 billion in tax debt.”
 
 </details>
 
@@ -963,7 +977,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -981,6 +995,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:24:49](/episodes/ep-6jOEN9rBePU.md#t-00-24-31): “I also have to tell you guys about Tax Network USA because there are plenty of people who owe back taxes or have unfiled tax returns. ... So stop what you're doing and go to taxnetworkusa. for just $49, they pull your actual IRS data and give you a free tax strategy. ... Documents, bank levies, and property seizures. They can even file for you without your consent. This is about using your legal rights to take control before the government sets the terms for you. It takes two minutes to get started, so visit tnusa.com slash Candace.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:35:48](/episodes/ep-VUSs6CTp78Q.md#t-00-35-31): “So stop what you're doing and go to taxnetworkusa. Just $49, they will pull your actual IRS data and give you a... ... give you a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved. ... They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all. ... So whether you owe $10,000 or $10 million, their team has resolved over $1 billion in tax debt.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 537 mentions"
+description: "Blake Neff (People) - 540 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-blake-neff-t-00-42-52">2026-10-14 · 00:42:52</a></strong></div>
-<div><span>Episodes</span><strong>93</strong></div>
-<div><span>Mentions</span><strong>537</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-blake-neff-t-00-39-39">2026-10-19 · 00:40:09</a></strong></div>
+<div><span>Episodes</span><strong>94</strong></div>
+<div><span>Mentions</span><strong>540</strong></div>
 <div><span>Statements by</span><strong>72</strong></div>
 <div><span>Statements about</span><strong>115</strong></div>
 <div><span>Relationships</span><strong>71</strong></div>
@@ -130,6 +130,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:100%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 33 mentions" title="2026-10-08 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-11-43" style="--pulse-height:9%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-blake-neff-t-00-42-52" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-blake-neff-t-00-01-21" style="--pulse-height:9%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 3 mentions" title="2026-10-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -228,6 +229,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-blake-neff-t-00-00-01) | 33 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-blake-neff-t-00-11-43) | 3 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-blake-neff-t-00-42-52) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-blake-neff-t-00-01-21) | 3 |
 
 </details>
 </section>
@@ -235,12 +237,26 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
-- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (537)</strong></summary>
+<summary><strong class="section-title">Raw mentions (540)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3 mentions)</summary>
+
+**[00:01:30](/episodes/ep-VUSs6CTp78Q.md#ent-person-blake-neff-t-00-01-21)**
+> "What is Blakey (Blake Neff) going to do? I'm so concerned about Blakey Poo (..."
+
+**[00:40:01](/episodes/ep-VUSs6CTp78Q.md#ent-person-blake-neff-t-00-39-39)**
+> "...lso, I'm worried about Blake (Blake Neff), to be honest with you."
+
+**[00:40:09](/episodes/ep-VUSs6CTp78Q.md#ent-person-blake-neff-t-00-39-39)**
+> "I'm really worried about Blake Neff and I just don't want him to go through withdrawa..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>

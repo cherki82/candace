@@ -11,11 +11,15 @@ object: "person-baron-coleman"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Baron Coleman](/entities/person-baron-coleman)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU)**
 
 - [00:42:54](/episodes/ep-69A8TzAGHlU#t-00-42-54): _Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen._
+
+**[UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q)**
+
+- [00:14:09](/episodes/ep-VUSs6CTp78Q#t-00-14-09): _Because we need it to look organic. We have this woman who cannot possibly be supported on her own merit. We're going to have to invest millions of dollars in supporting this woman. We're going to have to run clipping campaigns all over social media so people can think she's great, but we don't want anyone to talk about it. First rule of Fight Club: you can't talk about Fight Club. Erika Kirk is Fight Club. Not allowed to talk about Fight Club._
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 

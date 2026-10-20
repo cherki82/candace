@@ -1,6 +1,6 @@
 ---
 title: "Jean-Michel Trogneux"
-description: "Jean-Michel Trogneux (People) - 22 mentions"
+description: "Jean-Michel Trogneux (People) - 23 mentions"
 id: "person-jean-michel-trogneux"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19">2025-10-28 · 00:56:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-michel-trogneux-t-00-40-06">2026-10-01 · 00:40:20</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-jean-michel-trogneux-t-00-10-18">2026-10-19 · 00:10:28</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-michel-trogneux-t-00-40-06" style="--pulse-height:10%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-jean-michel-trogneux-t-00-10-18" style="--pulse-height:10%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-jean-michel-trogneux-t-00-40-06) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-jean-michel-trogneux-t-00-10-18) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:10:28](/episodes/ep-VUSs6CTp78Q.md#ent-person-jean-michel-trogneux-t-00-10-18)**
+> "...t an LGBTQ hate crime because Jean-Michel Trogneux is gay and we just want to ask you guys all to he..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>

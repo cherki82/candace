@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 293 mentions"
+description: "White House (Organizations) - 295 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,13 +18,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43">2026-10-15 · 00:20:02</a></strong></div>
-<div><span>Episodes</span><strong>85</strong></div>
-<div><span>Mentions</span><strong>293</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-19-18">2026-10-19 · 00:19:18</a></strong></div>
+<div><span>Episodes</span><strong>86</strong></div>
+<div><span>Mentions</span><strong>295</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>81</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>84</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -116,6 +116,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-white-house-t-00-33-24" style="--pulse-height:11%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03" style="--pulse-height:29%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 8 mentions" title="2026-10-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-15-45" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -206,6 +207,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-white-house-t-00-33-24) | 3 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03) | 8 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-15-45) | 2 |
 
 </details>
 </section>
@@ -213,11 +215,23 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the Hasan execution-livestream debate changed](/threads/thread-hasan-execution-livestream-debate) — Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (293)</strong></summary>
+<summary><strong class="section-title">Raw mentions (295)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:16:18](/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-15-45)**
+> "...n email which showed that the White House and the military and the DOD all seemed to be inv..."
+
+**[00:19:18](/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-19-18)**
+> "...ng through and calls from the White House. They're meeting with a situation room about the ..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
@@ -1558,12 +1572,19 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Sergio Gor](/entities/person-sergio-gor.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:21:47](/episodes/ep-7FS1tUeSfdE.md#t-00-21-10): “Sergio Gor at the time of Charlie (Charlie Kirk)'s death was the White House deputy chief of staff”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:00:08](/episodes/ep-VUSs6CTp78Q.md#t-00-00-01): “Katie Zacharia, press secretary, the one I had only just began to warm to. She is no longer. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
 
 </details>
 
@@ -1613,7 +1634,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1641,6 +1662,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:21:47](/episodes/ep-7FS1tUeSfdE.md#t-00-21-10): “Sergio Gor at the time of Charlie (Charlie Kirk)'s death was the White House deputy chief of staff”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:00:08](/episodes/ep-VUSs6CTp78Q.md#t-00-00-01): “Katie Zacharia, press secretary, the one I had only just began to warm to. She is no longer. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
 
 </details>
 
@@ -1685,7 +1713,21 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (81)</strong></summary>
+<summary><strong class="section-title">Statements about White House (84)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>
+
+- [00:27:18](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) (Opinion) **Candace Owens**: ["Owens said she felt they were at the end of the Trump administration, ..."](/statements/statement-a37c101e4985.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) (Opinion) **Tim Dillon** (via quoted speech): ["Dillon argued that the administration needed convincing, top-level lia..."](/statements/statement-cda3317022ce.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07) (Opinion) **Candace Owens**: ["Owens speculated that administration officials were probably spitballi..."](/statements/statement-1e899bcea4a8.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (2)</summary>

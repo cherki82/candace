@@ -8,7 +8,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/threads">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
 </div>
 
-<p class="kg-freshness"><strong>184 sources</strong> · processed through <time datetime="2026-10-15">2026-10-15</time> · generated <time datetime="2026-10-16">2026-10-16</time></p>
+<p class="kg-freshness"><strong>185 sources</strong> · processed through <time datetime="2026-10-19">2026-10-19</time> · generated <time datetime="2026-10-20">2026-10-20</time></p>
 
 <section class="kg-thread-observatory" aria-labelledby="theory-watch-title">
 <header>
@@ -18,36 +18,36 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-thread-grid">
 <article class="kg-thread-card featured">
 <div class="thread-card-meta">
-<span>180 sources</span>
-<span>3897 reviewed turns</span>
-<time datetime="2026-10-15">2026-10-15</time>
+<span>181 sources</span>
+<span>3905 reviewed turns</span>
+<time datetime="2026-10-19">2026-10-19</time>
 </div>
 <h3><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h3>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>463</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,448</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>467</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,456</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open thread <span aria-hidden="true">→</span></a>
 </article>
 <article class="kg-thread-card">
 <div class="thread-card-meta">
-<span>3 sources</span>
-<span>11 reviewed turns</span>
-<time datetime="2026-10-15">2026-10-15</time>
+<span>5 sources</span>
+<span>20 reviewed turns</span>
+<time datetime="2026-10-19">2026-10-19</time>
 </div>
-<h3><a href="/threads/thread-zacharia-legal-credentials-dispute">How the Zacharia legal-credentials objection narrowed</a></h3>
-<p>Tracks Owens&#x27;s law-degree challenge, Zacharia&#x27;s quoted practice-and-credentials defense, and Owens&#x27;s subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.</p>
-<div class="thread-index-preview"><span><strong>3</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>11</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-zacharia-legal-credentials-dispute">Open thread <span aria-hidden="true">→</span></a>
+<h3><a href="/threads/thread-nampa-club-america-attendance-dispute">How the Nampa Club America attendance dispute narrowed</a></h3>
+<p>Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.</p>
+<div class="thread-index-preview"><span><strong>8</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>21</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open thread <span aria-hidden="true">→</span></a>
 </article>
 <article class="kg-thread-card">
 <div class="thread-card-meta">
-<span>4 sources</span>
-<span>18 reviewed turns</span>
-<time datetime="2026-10-14">2026-10-14</time>
+<span>2 sources</span>
+<span>3 reviewed turns</span>
+<time datetime="2026-10-19">2026-10-19</time>
 </div>
-<h3><a href="/threads/thread-nampa-club-america-attendance-dispute">How the Nampa Club America attendance dispute narrowed</a></h3>
-<p>Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.</p>
-<div class="thread-index-preview"><span><strong>8</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>19</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open thread <span aria-hidden="true">→</span></a>
+<h3><a href="/threads/thread-hasan-execution-livestream-debate">How the Hasan execution-livestream debate changed</a></h3>
+<p>Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.</p>
+<div class="thread-index-preview"><span><strong>2</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>2</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-hasan-execution-livestream-debate">Open thread <span aria-hidden="true">→</span></a>
 </article>
 </div>
 </section>
@@ -56,23 +56,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-coverage-heading">
 <span class="research-kicker">Publication audit</span>
 <h2 id="coverage-title">Research coverage</h2>
-<p><strong>184 of 184</strong> published sources have completed every extraction stage.</p>
+<p><strong>185 of 185</strong> published sources have completed every extraction stage.</p>
 </div>
 <div class="kg-coverage-grid">
-<div><span>Transcript cleaned</span><strong>184 / 184</strong></div>
-<div><span>Entities extracted</span><strong>184 / 184</strong></div>
-<div><span>Statements extracted</span><strong>184 / 184</strong></div>
-<div><span>Events extracted</span><strong>184 / 184</strong></div>
-<div><span>Relationships extracted</span><strong>184 / 184</strong></div>
-<div><span>Theory threads reviewed</span><strong>184 / 184</strong></div>
+<div><span>Transcript cleaned</span><strong>185 / 185</strong></div>
+<div><span>Entities extracted</span><strong>185 / 185</strong></div>
+<div><span>Statements extracted</span><strong>185 / 185</strong></div>
+<div><span>Events extracted</span><strong>185 / 185</strong></div>
+<div><span>Relationships extracted</span><strong>185 / 185</strong></div>
+<div><span>Theory threads reviewed</span><strong>185 / 185</strong></div>
 </div>
 <p class="kg-coverage-complete">No published source has a known extraction-stage gap.</p>
 </section>
 
 <div class="kg-stat-grid">
-<div><strong>8,651</strong><span>Claims &amp; statements</span></div>
-<div><strong>5,249</strong><span>Tracked entities</span></div>
-<div><strong>2,117</strong><span>Timeline events</span></div>
+<div><strong>8,692</strong><span>Claims &amp; statements</span></div>
+<div><strong>5,277</strong><span>Tracked entities</span></div>
+<div><strong>2,124</strong><span>Timeline events</span></div>
 <div><strong>3,082</strong><span>Research sources</span></div>
 </div>
 
@@ -81,6 +81,11 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Ordered by source publication date, not editorial priority.</p>
 
 <div class="recent-source-list">
+<article>
+<time datetime="2026-10-19">2026-10-19</time>
+<a href="/episodes/ep-VUSs6CTp78Q">UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.</a>
+<span>Candace Owens</span>
+</article>
 <article>
 <time datetime="2026-10-15">2026-10-15</time>
 <a href="/episodes/ep-YPIYYHCNPbE">Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).</a>
@@ -101,11 +106,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <a href="/episodes/ep-UAdBEXs7nNc">More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400</a>
 <span>Candace Owens</span>
 </article>
-<article>
-<time datetime="2026-10-07">2026-10-07</time>
-<a href="/episodes/ep-yrg_-D6oNHE">BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399</a>
-<span>Candace Owens</span>
-</article>
 </div>
 
 ## What changed
@@ -113,12 +113,12 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>58 recent mentions · +52 vs prior window</span></a>
-<a href="/entities/person-val-peterson"><strong>Val L. Peterson</strong><span>41 recent mentions · +41 vs prior window</span></a>
+<a href="/entities/person-val-peterson"><strong>Val L. Peterson</strong><span>44 recent mentions · +44 vs prior window</span></a>
 <a href="/entities/person-tyler-clancy"><strong>Tyler Clancy</strong><span>40 recent mentions · +40 vs prior window</span></a>
 <a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>37 recent mentions · +28 vs prior window</span></a>
-<a href="/entities/gpe-utah"><strong>Utah</strong><span>26 recent mentions · +23 vs prior window</span></a>
-<a href="/entities/person-frank-turek"><strong>Frank Turek</strong><span>27 recent mentions · +18 vs prior window</span></a>
+<a href="/entities/gpe-utah"><strong>Utah</strong><span>27 recent mentions · +24 vs prior window</span></a>
+<a href="/entities/person-katie-zacharia"><strong>Katie Zacharia</strong><span>21 recent mentions · +21 vs prior window</span></a>
+<a href="/entities/person-donald-trump"><strong>Donald J. Trump</strong><span>38 recent mentions · +19 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes

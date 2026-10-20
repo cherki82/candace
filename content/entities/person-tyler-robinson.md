@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 1169 mentions"
+description: "Tyler Robinson (People) - 1171 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-robinson-t-00-37-48">2026-10-15 · 00:38:12</a></strong></div>
-<div><span>Episodes</span><strong>123</strong></div>
-<div><span>Mentions</span><strong>1,169</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-41-21">2026-10-19 · 00:41:21</a></strong></div>
+<div><span>Episodes</span><strong>124</strong></div>
+<div><span>Mentions</span><strong>1,171</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
 <div><span>Statements about</span><strong>556</strong></div>
 <div><span>Relationships</span><strong>33</strong></div>
@@ -159,6 +159,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-robinson-t-00-22-21" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-robinson-t-00-03-26" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-robinson-t-00-37-48" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-38-28" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -287,6 +288,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-robinson-t-00-22-21) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-robinson-t-00-03-26) | 2 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-robinson-t-00-37-48) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-38-28) | 2 |
 
 </details>
 </section>
@@ -298,7 +300,18 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1169)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1171)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:38:42](/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-38-28)**
+> "...g. It wasn't enclosed. It was Tyler Robinson and he was forgiven 11 days on, which is after th..."
+
+**[00:41:21](/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-41-21)**
+> "...nscribed) writes, 'This whole Tyler Robinson reminds me of the movie Homecoming. Good morning,..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>

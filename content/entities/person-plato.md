@@ -1,6 +1,6 @@
 ---
 title: "Plato"
-description: "Plato (People) - 1 mention"
+description: "Plato (People) - 2 mentions"
 id: "person-plato"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Plato | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-plato-t-00-15-03">2026-04-10 · 00:15:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-plato-t-00-15-03">2026-04-10 · 00:15:12</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-plato-t-00-42-02">2026-10-19 · 00:42:29</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Plato | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu
 <p>Highest activity: <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-plato-t-00-15-03">An Open Letter To President Donald Trump (My Response) | Candace Ep 322</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-plato-t-00-15-03" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-plato-t-00-42-02" style="--pulse-height:100%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-plato-t-00-15-03) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-plato-t-00-42-02) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Plato | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:42:29](/episodes/ep-VUSs6CTp78Q.md#ent-person-plato-t-00-42-02)**
+> "He's been living out Plato's allegory. And now Trump (Donald Trump) is going t..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

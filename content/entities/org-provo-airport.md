@@ -1,6 +1,6 @@
 ---
 title: "Provo Airport"
-description: "Provo Airport (Organizations) - 10 mentions"
+description: "Provo Airport (Organizations) - 11 mentions"
 id: "org-provo-airport"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-provo-airport-t-00-01-57">2025-10-30 · 00:02:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-provo-airport-t-00-03-41">2026-10-15 · 00:03:41</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-provo-airport-t-00-19-42">2026-10-19 · 00:20:17</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-provo-airport-t-00-01-55" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-provo-airport-t-00-47-24" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-provo-airport-t-00-03-41" style="--pulse-height:25%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-provo-airport-t-00-19-42" style="--pulse-height:25%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-provo-airport-t-00-01-55) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-provo-airport-t-00-47-24) | 2 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-provo-airport-t-00-03-41) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-provo-airport-t-00-19-42) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:20:17](/episodes/ep-VUSs6CTp78Q.md#ent-org-provo-airport-t-00-19-42)**
+> "...t he also sat on the board of Provo Airport. He is a very busy, busy guy. I tried to look up...."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
@@ -124,12 +134,42 @@ Source: [About the Airport | Provo Airport](https://airport.provo.gov/171/About-
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Has Former Board Member (1)</summary>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and ... at one point he also sat on the board of Provo Airport. He is a very busy, busy guy. I tried to look up. I said, that's actually interesting.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)** former board member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18): “By the way, there's another interesting development. This time regarding the man, the myth, the Utah legend Val Peterson, the vice president of facilities over. ... At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and ... at one point he also sat on the board of Provo Airport. He is a very busy, busy guy. I tried to look up. I said, that's actually interesting.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo Airport (12)</strong></summary>
+<summary><strong class="section-title">Statements about Provo Airport (13)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1)</summary>
+
+- [00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18) (Citation) **Candace Owens**: ["Owens cited Val Peterson’s government biography and the UVU website as..."](/statements/statement-e12198c0e647.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>

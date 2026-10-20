@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 183 mentions"
+description: "Baron Coleman (People) - 188 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,10 +22,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-43-13">2026-10-15 · 00:43:18</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>183</strong></div>
-<div><span>Statements by</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-43-08">2026-10-19 · 00:43:08</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>188</strong></div>
+<div><span>Statements by</span><strong>36</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -94,6 +94,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-41-48" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-11-27" style="--pulse-height:25%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 4 mentions" title="2026-10-19 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -158,6 +159,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-baron-coleman-t-01-07-10) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37) | 3 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-41-48) | 2 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-11-27) | 4 |
 
 </details>
 </section>
@@ -169,7 +171,24 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (183)</strong></summary>
+<summary><strong class="section-title">Raw mentions (188)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4 mentions)</summary>
+
+**[00:11:27](/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-11-27)**
+> "... the internet is forever, and Baron Coleman found a relic of a campaign from February of this..."
+
+**[00:39:39](/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-39-39)**
+> "...ow, and, um, I'll join Baron (Baron Coleman) for an episode or two."
+
+**[00:42:42](/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-42-42)**
+> "...gitte Macron). I think Baron (Baron Coleman) should be investigated. Maybe very true. Very tr..."
+
+**[00:43:08](/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-43-08)**
+> "...y the way, speaking of Baron (Baron Coleman) probably doing that, our Baron (Baron Coleman) m..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
@@ -1045,10 +1064,11 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <summary>Criticized (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47): “Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03): “Because we need it to look organic. We have this woman who cannot possibly be supported on her own merit. We're going to have to invest millions of dollars in supporting this woman. We're going to have to run clipping campaigns all over social media so people can think she's great, but we don't want anyone to talk about it. First rule of Fight Club: you can't talk about Fight Club. Erika Kirk is Fight Club. Not allowed to talk about Fight Club.”
 
 </details>
 
@@ -1123,10 +1143,11 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47): “Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03): “Because we need it to look organic. We have this woman who cannot possibly be supported on her own merit. We're going to have to invest millions of dollars in supporting this woman. We're going to have to run clipping campaigns all over social media so people can think she's great, but we don't want anyone to talk about it. First rule of Fight Club: you can't talk about Fight Club. Erika Kirk is Fight Club. Not allowed to talk about Fight Club.”
 
 </details>
 
@@ -1177,7 +1198,24 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Baron Coleman (32)</strong></summary>
+<summary><strong class="section-title">Statements by Baron Coleman (36)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4)</summary>
+
+- [00:12:09](/episodes/ep-VUSs6CTp78Q.md#t-00-11-54) [○] (Citation) ["Coleman said a message asking when participants would be paid for the Erika Kirk..."](/statements/statement-d513762ff73b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [America Fest](/entities/event-america-fest.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:12:37](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) [○] (Claim) ["Coleman said the Erika Kirk AmFest campaign was in December of 2026. This is the..."](/statements/statement-016c23034deb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [America Fest](/entities/event-america-fest.md)
+
+- [00:12:51](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) [○] (Accusation) ["Coleman said campaign participants were instructed to delete messages, not use E..."](/statements/statement-b765677b086d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+- [00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03) [○] (Opinion) ["Coleman characterized the campaign as needing to look organic and argued that Er..."](/statements/statement-634581160ca3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</details>
 
 <details>
 <summary>A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 (1)</summary>

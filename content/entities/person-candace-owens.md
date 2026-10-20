@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2950 mentions"
+description: "Candace Owens (People) - 2960 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,13 +23,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-45-10">2026-10-15 · 00:45:46</a></strong></div>
-<div><span>Episodes</span><strong>184</strong></div>
-<div><span>Mentions</span><strong>2,950</strong></div>
-<div><span>Statements by</span><strong>5,952</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-41-21">2026-10-19 · 00:41:21</a></strong></div>
+<div><span>Episodes</span><strong>185</strong></div>
+<div><span>Mentions</span><strong>2,960</strong></div>
+<div><span>Statements by</span><strong>5,977</strong></div>
 <div><span>Statements about</span><strong>827</strong></div>
-<div><span>Relationships</span><strong>1,099</strong></div>
-<div><span>Threads</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>1,101</strong></div>
+<div><span>Threads</span><strong>9</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -220,6 +220,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 16 mentions" title="2026-10-13 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20" style="--pulse-height:17%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 10 mentions" title="2026-10-14 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-00-38" style="--pulse-height:20%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 12 mentions" title="2026-10-15 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-01-21" style="--pulse-height:15%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 9 mentions" title="2026-10-19 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -409,6 +410,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-candace-owens-t-00-00-11) | 16 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20) | 10 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-00-38) | 12 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-01-21) | 9 |
 
 </details>
 </section>
@@ -417,17 +419,50 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 - [How the account of a manufactured Owens–Kirk feud changed](/threads/thread-owens-kirk-2019-feud-provenance) — Tracks the displayed 2019 messages and Owens’s later challenge to their claimed Groyper provenance. Authorship, authenticity and alleged coordination remain unverified; this thread does not identify assassination participants.
-- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s allegation of compulsory assembly attendance, Kolvet’s opt-out counteraccount, and the ensuing distinction between opting out of an assembly and opting into a chapter. It does not independently establish confinement, donor deception or school policy.
+- [How the Nampa Club America attendance dispute narrowed](/threads/thread-nampa-club-america-attendance-dispute) — Tracks Owens’s Nampa assembly-compulsion allegation, Kolvet’s opt-out counteraccount, ensuing distinctions between opting out and signing up for a chapter, and her extension of that argument to a different unnamed school’s planned pre-K-through-12 chapel with parent attendance and opt-outs. It does not independently establish confinement, donor deception, school policy or future promotional misuse.
 - [How the AmFest suit-fit explanation was disputed](/threads/thread-erika-amfest-suit-fit-dispute) — Tracks Erika Kirk’s quoted explanation that only the sparkly suit fit and Owens’s later rebuttal using other public outfits; it does not establish what fit on the day.
 - [How Kirk Telegram account attribution became uncertain](/threads/thread-kirk-telegram-account-attribution) — Tracks a viewer’s matching-contact observation and Owens’s shared-account alternative in Episode 396. The progression concerns attribution of displayed messages; account ownership, authorship and message authenticity remain unverified.
 - [How the Gillette pro-Palestine suppression narrative changed](/threads/thread-gillette-pro-palestine-suppression-response) — Tracks Owens’s account of Kraft excluding Macklemore and her later presentation of Zach Bryan’s same-stadium pro-Palestine performances as a response. It records the evolution of her suppression-versus-defiance narrative, without establishing venue policy, motives or attendance figures.
 - [How the Zacharia legal-credentials objection narrowed](/threads/thread-zacharia-legal-credentials-dispute) — Tracks Owens's law-degree challenge, Zacharia's quoted practice-and-credentials defense, and Owens's subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.
 - [How the Clarkson Art of Play treatment account was disputed](/threads/thread-clarkson-art-of-play-treatment-dispute) — Tracks Clarkson's quoted account of being treated as unable to afford a purchase and Owens's contrary interpretation of the same store encounter. These are competing attributed accounts, not an adjudication of discrimination.
+- [How the Hasan execution-livestream debate changed](/threads/thread-hasan-execution-livestream-debate) — Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2950)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2960)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (9 mentions)</summary>
+
+**[00:01:30](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-01-21)**
+> "...(Blake Neff). Welcome back to Candace."
+
+**[00:21:55](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-21-49)**
+> "...sessment at pdsdebt.com slash Candace."
+
+**[00:22:23](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-21-49)**
+> "...nt today at pdsdebt.com slash candace. Again, that's pdsdebt.com slash candace."
+
+**[00:23:22](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-23-14)**
+> "...you go to getkikoff.com slash Candace today. That's kickoff spelled without a C. Get K-..."
+
+**[00:23:35](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-23-35)**
+> "... sign up via Kikoff.com slash Candace to activate offer. Offer applies to new Kikoff cu..."
+
+**[00:36:28](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-36-13)**
+> "Visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace. I also wa..."
+
+**[00:39:16](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-39-09)**
+> "...rname unverified) writes, hi, Candace, your opening regarding the shady characters at T..."
+
+**[00:40:31](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-40-21)**
+> "...word of the day for our girl, Candace. Remember y'all, evil is tricky, but it is not sm..."
+
+**[00:41:21](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-41-21)**
+> "... said, I like, I like the way Candace Owens thinks.'"
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (12 mentions)</summary>
@@ -10803,7 +10838,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (143)</summary>
+<summary>Criticized (144)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -10814,7 +10849,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (68)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10883,6 +10918,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -10903,7 +10939,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (82)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -10986,6 +11022,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:33:33](/episodes/ep-VUSs6CTp78Q.md#t-00-33-25): “My question is, why is it even a thing? Why is this even a thing to just foist her upon young students? Has she served in any role other than emotional asset for the Department of War? ... Before we were told she was serving as this loving wife, that she had no aspirations in her career, that, you know, she just wanted to be a loving wife to Charlie Kirk. ... She used to be wear every hat, I guess. She was a reality TV, like reality TV star, casting director. ... How do we get here? What's the rationale? ... Beyond like, you know, the inevitable photo that's going to come out, school-wide gymnasium where they're going to go pretend that everyone signed up for Club America because it's just bursting at the seams, and be like, 'Look at the whole school. Pre-K through 12 is so excited. Everyone loves Erika (Erika Kirk),' because this is just the longest-running psychological operation on the American public, who is not, we're just, we're not biting.”
 
 </details>
 
@@ -11047,7 +11084,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -11059,6 +11096,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy.”
 
 </details>
 
@@ -11344,7 +11382,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -11380,6 +11418,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
 
 </details>
 
@@ -11867,12 +11906,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pete Hegseth](/entities/person-pete-hegseth.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12): “She feels like an attorney. An attorney. She was a doctor. Who actually cares? She seemed like she was nice, and that counts for something. I mean, we've got Pete Hegseth who's still there. He's lying about bombing Iranian schools filled with children.”
 
 </details>
 
@@ -12305,9 +12345,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Club America](/entities/org-club-america.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19): “This is regarding the what I just keep saying is this frankly bizarre pursuit of middle school audiences now via Club America, but like bizarre because it's being administratively forced and they're counting it as wins. ... Like nobody is asking for her to come to their school. That clearly means it's not a demonstration of the free market that Charlie (Charlie Kirk) believed in. That's a demonstration of top down power. ... That's the exact opposite of grassroots where kids go, hey, do you want to stop? Do you want to come? Do you want to hear her speak? ... And it's weird. It's weird to keep showing up places that you're not invited because you have powerful friends that have money and probably donate to these places. It's weird full stop.”
 
 </details>
 
@@ -12315,6 +12356,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:23:15](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02): “I feel like they could have released information to the public. I feel like their impulse to tell us to sign up to chase ballots feels wrong to me. And given everything that we know about how Charlie (Charlie Kirk) felt about Turning Point action allegedly, which I will again say Justin Streiff disputes, but people who work at Turning Point USA dispute what Justin Streiff says. ... It feels like they need money and like maybe some more money disappeared again from turning point action. ... Maybe, I don't know for a fact, but I'm telling you my instincts about the statue is that we're not being told the entire story.”
+
+</details>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:20:49](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28): “That was a busy guy. I don't even know why Val (Val Peterson) would be picked to be on the board of a hospital. I don't know what in his background. ... When you pick a board, it's like relevant to, hey, we want former doctor, former surgeon, help us run a hospital. What is his expertise there other than just being an important guy? ... He's really well connected.”
 
 </details>
 
@@ -13148,7 +13196,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (57)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (58)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -13207,6 +13255,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:36:44](/episodes/ep-VUSs6CTp78Q.md#t-00-36-13): “It's possible when you call American financing today. today. If you're feeling stretched by everyday expenses and talking groceries, gas, bills piling up, you should know that you are not alone. ... Most Americans are putting these expenses on their credit cards and credit card rates are insane, I mean in the 20s or even 30s, but American Financing can show you how to use your home's equity to pay off that debt. ... Their salary-based mortgage consultants are helping homeowners just like you restructure their loans and save money every single month. ... There are no upfront fees to find out how much you could be saving. Their customers are saving an average of $800 a month, which is like a $10,000 raise without having to change jobs. ... So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -13223,7 +13272,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pure Talk](/entities/org-pure-talk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -13246,6 +13295,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:47](/episodes/ep-6jOEN9rBePU.md#t-00-23-47): “that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:23:54](/episodes/ep-VUSs6CTp78Q.md#t-00-23-54): “And you know, I have to tell you guys about Pure Talk because I personally use them and I absolutely love them. Right now they are bringing back. ... back their best promotion in company history, the unlimited data for life. That's unlimited talk, text, and data plus a 30 gig hotspot for just $29.95 a month for life. ... This deal was locked in the vault since last year and it was only available for a few weeks. Now for a very limited time it is back. This is their top tier unlimited plan that was $65 a month. ... Now you'll be saving over 50% every single month for life. Plus, you get it on Pure Talk's crazy fast nationwide 5G network. To make the switch today, head to puretalk.com slash Owens. You'll get Pure Talk's best unlimited plan for just $29.95 a month for life. ... But hurry, because the offer is extremely short-lived and it may never come back. That's puretalk.com slash Owens and switch to my wireless company, Pure Talk.”
 
 </details>
 
@@ -13261,7 +13311,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tax Network USA](/entities/org-tax-network-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -13279,6 +13329,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:24:49](/episodes/ep-6jOEN9rBePU.md#t-00-24-31): “I also have to tell you guys about Tax Network USA because there are plenty of people who owe back taxes or have unfiled tax returns. ... So stop what you're doing and go to taxnetworkusa. for just $49, they pull your actual IRS data and give you a free tax strategy. ... Documents, bank levies, and property seizures. They can even file for you without your consent. This is about using your legal rights to take control before the government sets the terms for you. It takes two minutes to get started, so visit tnusa.com slash Candace.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:35:48](/episodes/ep-VUSs6CTp78Q.md#t-00-35-31): “So stop what you're doing and go to taxnetworkusa. Just $49, they will pull your actual IRS data and give you a... ... give you a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved. ... They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all. ... So whether you owe $10,000 or $10 million, their team has resolved over $1 billion in tax debt.”
 
 </details>
 
@@ -13318,7 +13369,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PDS Debt](/entities/org-pds-debt.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -13330,6 +13381,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:30:20](/episodes/ep-V-phmW9f0pM.md#t-00-30-02): “They're actually designed to keep you stuck. PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowered monthly payment.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:22:13](/episodes/ep-VUSs6CTp78Q.md#t-00-21-49): “There's actually no minimum credit score that's required. PDS debt, they are the top rated company in the industry and they have thousands of five star reviews plus an A plus rating on the BBB. ... So get your free 30 second personalized assessment today at pdsdebt.com slash candace. Again, that's pdsdebt.com slash candace.”
 
 </details>
 
@@ -13363,12 +13415,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kikoff](/entities/org-kikoff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kikoff comes in. Kikoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:26:55](/episodes/ep-7FS1tUeSfdE.md#t-00-26-26): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:28:27](/episodes/ep-amqTMimDr0A.md#t-00-28-27): “I also want to remind you guys about kickoff because time flies faster than we expect.”
 - [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:32:33](/episodes/ep-kn1E0scy9Wc.md#t-00-32-33): “For a discount. Again, that's NimiSkincare.com with code CANDACE10 at checkout. I also want to remind you guys about Kikoff because summer is coming to an end and time is flying faster than we expected. But when it comes to your goals like building your credit score, it is never too late to start making real progress. Kikoff is the number one credit building app in the App Store with plans starting at just $5 a month. There's no credit check, no hidden fees and absolutely no interest. In fact, users starting with credit under 600 see an average increase of 86 points just by making on time payments. payments. Here's how it works. You make your payments, Kikoff then report that positive activity to the credit bureaus and your credit can grow fast. They even offer rent reporting so the payments that you're already making can help build your credit portfolio as well. You can sign up in minutes right from your phone and with auto pay you'll never miss a payment. So join over a million users that are building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as one dollar. That's 80% off the normal price when you go to GetKikoff.com slash Candace today. That's Kikoff spelled without the C. GetKikoff.com slash Candace.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:23:14](/episodes/ep-VUSs6CTp78Q.md#t-00-23-14): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1. ... That's 80% off the normal price when you go to getkikoff.com slash Candace today. That's kickoff spelled without a C. Get K-I-K-O-F-F dot com slash Candace.”
 
 </details>
 
@@ -13616,9 +13669,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tim Dillon](/entities/person-tim-dillon.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07): “That's what probably happened, guys. I mean, we are, that's where we are right now. It was so insane, and then people trying to pretend like it wasn't insane. And I do think they were just sort of spitballing, and like, 'Hey, what can we do? Midterms around the corner. What if we just shot someone in the head?' And you, you should watch this entire episode because he is just on the money, on the money with everything that's going. It's all just kind of coming apart, and there, I don't even know.”
 
 </details>
 
@@ -15453,7 +15507,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (538)</summary>
+<summary>Referenced By (539)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -16662,7 +16716,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (66)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -16730,6 +16784,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:51:27](/episodes/ep-UAdBEXs7nNc.md#t-00-51-03): “This is clearly Turning Point 2.0 is nothing like Turning Point USA 1.0, which was a grassroots movement and that people and students followed and wanted to believe in and believing that the country could be changed. Now we're learning the country can be changed in the most spiritually dark ways.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
 
 </details>
 
@@ -16750,7 +16805,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (81)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (82)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -16833,6 +16888,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:53:03](/episodes/ep-V-phmW9f0pM.md#t-00-53-03): “Why haven't you done that? Why didn't you say he is opposed to the Iran war when you were asked because Erika (Erika Kirk) has betrayed Charlie (Charlie Kirk)'s legacy, obviously everything that she's doing. I mean, it's just completely crazy that, you know, obviously she doesn't author her tweets. And when she tweets this thing of like, why I sat down with Vanity Fair because Charlie (Charlie Kirk) believed in sitting down with people that disagree with you. You know, he was referring to the students on campus that disagree with you, not Vanity Fair. Like, what are you talking about? What are you talking about? Stop saying stuff. Just stop speaking, please. Like, it's time to sit down with people that disagree with me. I'll be doing the spread in Vogue.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:15:42](/episodes/ep-6jOEN9rBePU.md#t-00-15-42): “Why did the Epstein files require so many top-level meetings in the White House in the Situation Room? Why, actually, why can't we get a clear answer from Charlie (Charlie Kirk)'s wife, Erika (Erika Kirk), regarding the story that we broke, her hanging out at a modeling office, allegedly in New York, people with direct knowledge. ... It would be very easy for Erika Kirk to deny that she's ever been to that office. I would do so immediately. ... It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side. ... which were occupied by young Eastern European models, as we were told, as we reached out for comment before we published the article or we published the story. ... Why not? Why not just clarify that when people are already noticing that this theme of human trafficking just keeps coming up? It can't keep coming up.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:10:02](/episodes/ep-YPIYYHCNPbE.md#t-00-09-30): “How can it just keep being a theme? And I've made it clear that there is something that makes my skin crawl about Erika Kirk and her pursuit of Club America.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:33:33](/episodes/ep-VUSs6CTp78Q.md#t-00-33-25): “My question is, why is it even a thing? Why is this even a thing to just foist her upon young students? Has she served in any role other than emotional asset for the Department of War? ... Before we were told she was serving as this loving wife, that she had no aspirations in her career, that, you know, she just wanted to be a loving wife to Charlie Kirk. ... She used to be wear every hat, I guess. She was a reality TV, like reality TV star, casting director. ... How do we get here? What's the rationale? ... Beyond like, you know, the inevitable photo that's going to come out, school-wide gymnasium where they're going to go pretend that everyone signed up for Club America because it's just bursting at the seams, and be like, 'Look at the whole school. Pre-K through 12 is so excited. Everyone loves Erika (Erika Kirk),' because this is just the longest-running psychological operation on the American public, who is not, we're just, we're not biting.”
 
 </details>
 
@@ -16893,7 +16949,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -16905,6 +16961,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy.”
 
 </details>
 
@@ -17190,7 +17247,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -17226,6 +17283,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
 
 </details>
 
@@ -17713,12 +17771,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pete Hegseth](/entities/person-pete-hegseth.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:32](/episodes/ep-YPIYYHCNPbE.md#t-00-34-32): “Liars, right? By the way, in case you were following the, the administration, and you know Pete Hegseth, who tries to pretend to be tough, he just kind of, just always jogging with people in the military. I'll jog with you at 5 a.m. Never mind, I'm going to send you to die for Israel, right? Well, one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it. What?”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12): “She feels like an attorney. An attorney. She was a doctor. Who actually cares? She seemed like she was nice, and that counts for something. I mean, we've got Pete Hegseth who's still there. He's lying about bombing Iranian schools filled with children.”
 
 </details>
 
@@ -18151,9 +18210,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Club America](/entities/org-club-america.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:00:31](/episodes/ep-YPIYYHCNPbE.md#t-00-00-01): “I want you to hear her in her own words. Moving on from that, you know, I've been saying that I do not like Club America. ... I don't like that initiative at Turning Point USA, this bizarre push to get into middle schools and high schools. It's making me uncomfortable given the fact that it's being foisted upon the young students.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19): “This is regarding the what I just keep saying is this frankly bizarre pursuit of middle school audiences now via Club America, but like bizarre because it's being administratively forced and they're counting it as wins. ... Like nobody is asking for her to come to their school. That clearly means it's not a demonstration of the free market that Charlie (Charlie Kirk) believed in. That's a demonstration of top down power. ... That's the exact opposite of grassroots where kids go, hey, do you want to stop? Do you want to come? Do you want to hear her speak? ... And it's weird. It's weird to keep showing up places that you're not invited because you have powerful friends that have money and probably donate to these places. It's weird full stop.”
 
 </details>
 
@@ -18161,6 +18221,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:23:15](/episodes/ep-YPIYYHCNPbE.md#t-00-23-02): “I feel like they could have released information to the public. I feel like their impulse to tell us to sign up to chase ballots feels wrong to me. And given everything that we know about how Charlie (Charlie Kirk) felt about Turning Point action allegedly, which I will again say Justin Streiff disputes, but people who work at Turning Point USA dispute what Justin Streiff says. ... It feels like they need money and like maybe some more money disappeared again from turning point action. ... Maybe, I don't know for a fact, but I'm telling you my instincts about the statue is that we're not being told the entire story.”
+
+</details>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:20:49](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28): “That was a busy guy. I don't even know why Val (Val Peterson) would be picked to be on the board of a hospital. I don't know what in his background. ... When you pick a board, it's like relevant to, hey, we want former doctor, former surgeon, help us run a hospital. What is his expertise there other than just being an important guy? ... He's really well connected.”
 
 </details>
 
@@ -18537,7 +18604,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (57)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (58)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -18596,6 +18663,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:48:31](/episodes/ep-V-phmW9f0pM.md#t-00-48-07): “That's where the numbers could be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of $800 a month with American financing. There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. So call 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:36:44](/episodes/ep-VUSs6CTp78Q.md#t-00-36-13): “It's possible when you call American financing today. today. If you're feeling stretched by everyday expenses and talking groceries, gas, bills piling up, you should know that you are not alone. ... Most Americans are putting these expenses on their credit cards and credit card rates are insane, I mean in the 20s or even 30s, but American Financing can show you how to use your home's equity to pay off that debt. ... Their salary-based mortgage consultants are helping homeowners just like you restructure their loans and save money every single month. ... There are no upfront fees to find out how much you could be saving. Their customers are saving an average of $800 a month, which is like a $10,000 raise without having to change jobs. ... So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -18612,7 +18680,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Pure Talk](/entities/org-pure-talk.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -18635,6 +18703,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers. @ 00:27:47](/episodes/ep-BvthGQw3_s0.md#t-00-27-39): “Again, that's dosedaily.co slash Candace for 35% off your first month's subscription. And I always tell you guys about PureTalk. I've been telling you guys about them for a long time because they are the best wireless company out there. I say that because I actually use PureTalk. I make calls, send texts, watch videos and use their unlimited data.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:33:40](/episodes/ep-ms5ChhZegRg.md#t-00-33-19): “And you know I have to tell you guys about Pure Talk. I love them. I've been telling you about them for a very long time. ... long time. They are the best wireless company out there. I say that because I actually use PureTalk. ... So why overpay for subpar service? Make the switch to PureTalk. Switch to PureTalk today at puretalk.com slash Owens and get 50% off your first month with unlimited high-speed data for just $34.99 a month.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:47](/episodes/ep-6jOEN9rBePU.md#t-00-23-47): “that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:23:54](/episodes/ep-VUSs6CTp78Q.md#t-00-23-54): “And you know, I have to tell you guys about Pure Talk because I personally use them and I absolutely love them. Right now they are bringing back. ... back their best promotion in company history, the unlimited data for life. That's unlimited talk, text, and data plus a 30 gig hotspot for just $29.95 a month for life. ... This deal was locked in the vault since last year and it was only available for a few weeks. Now for a very limited time it is back. This is their top tier unlimited plan that was $65 a month. ... Now you'll be saving over 50% every single month for life. Plus, you get it on Pure Talk's crazy fast nationwide 5G network. To make the switch today, head to puretalk.com slash Owens. You'll get Pure Talk's best unlimited plan for just $29.95 a month for life. ... But hurry, because the offer is extremely short-lived and it may never come back. That's puretalk.com slash Owens and switch to my wireless company, Pure Talk.”
 
 </details>
 
@@ -18650,7 +18719,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tax Network USA](/entities/org-tax-network-usa.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -18668,6 +18737,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:53:59](/episodes/ep-0pSAhaAZz1w.md#t-00-53-46): “Stop what you're doing and go to taxnetworkusa for just $49. They can pull your actual IRS data and give you a... a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or not resolved. They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:27:07](/episodes/ep-UAdBEXs7nNc.md#t-00-26-42): “I also want to remind you guys about Tax Network USA because a lot of you guys maybe owe back taxes or have unfiled returns. Maybe you retired and suddenly got hit with a tax bill that you didn't expect or maybe you pulled money from an 401k or an IRA early and now the IRS wants their share. However your tax issue started, the outcome is always the same. Same. Many Americans are about to owe again for this upcoming tax year with no plan in place. Well, if that's you, please stop what you're doing and head to taxnetworkusa for just $49. They can pull your actual IRS data and give you a free tax strategy.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:24:49](/episodes/ep-6jOEN9rBePU.md#t-00-24-31): “I also have to tell you guys about Tax Network USA because there are plenty of people who owe back taxes or have unfiled tax returns. ... So stop what you're doing and go to taxnetworkusa. for just $49, they pull your actual IRS data and give you a free tax strategy. ... Documents, bank levies, and property seizures. They can even file for you without your consent. This is about using your legal rights to take control before the government sets the terms for you. It takes two minutes to get started, so visit tnusa.com slash Candace.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:35:48](/episodes/ep-VUSs6CTp78Q.md#t-00-35-31): “So stop what you're doing and go to taxnetworkusa. Just $49, they will pull your actual IRS data and give you a... ... give you a free tax strategy. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved. ... They specialize in tax controversies and they help taxpayers nationwide get back on track by resolving back taxes and unfiled returns once and for all. ... So whether you owe $10,000 or $10 million, their team has resolved over $1 billion in tax debt.”
 
 </details>
 
@@ -18707,7 +18777,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PDS Debt](/entities/org-pds-debt.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
@@ -18719,6 +18789,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:26:52](/episodes/ep-_Sq5RqP27NY.md#t-00-26-37): “But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. ... Get your free 30-second personalized assessment today at pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace.”
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:25:23](/episodes/ep-UAdBEXs7nNc.md#t-00-25-23): “Minimum payments are not designed to get you out of debt. They're actually designed to keep you stuck. But PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lower monthly payment.”
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:30:20](/episodes/ep-V-phmW9f0pM.md#t-00-30-02): “They're actually designed to keep you stuck. PDS debt can help. They can reduce up to half of what you owe on credit cards, personal loans and medical bills. And it starts with a free 30 second assessment at pdsdebt.com slash Candace. Stop juggling multiple payments and get one lowered monthly payment.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:22:13](/episodes/ep-VUSs6CTp78Q.md#t-00-21-49): “There's actually no minimum credit score that's required. PDS debt, they are the top rated company in the industry and they have thousands of five star reviews plus an A plus rating on the BBB. ... So get your free 30 second personalized assessment today at pdsdebt.com slash candace. Again, that's pdsdebt.com slash candace.”
 
 </details>
 
@@ -18752,12 +18823,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kikoff](/entities/org-kikoff.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kikoff comes in. Kikoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:26:55](/episodes/ep-7FS1tUeSfdE.md#t-00-26-26): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:28:27](/episodes/ep-amqTMimDr0A.md#t-00-28-27): “I also want to remind you guys about kickoff because time flies faster than we expect.”
 - [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:32:33](/episodes/ep-kn1E0scy9Wc.md#t-00-32-33): “For a discount. Again, that's NimiSkincare.com with code CANDACE10 at checkout. I also want to remind you guys about Kikoff because summer is coming to an end and time is flying faster than we expected. But when it comes to your goals like building your credit score, it is never too late to start making real progress. Kikoff is the number one credit building app in the App Store with plans starting at just $5 a month. There's no credit check, no hidden fees and absolutely no interest. In fact, users starting with credit under 600 see an average increase of 86 points just by making on time payments. payments. Here's how it works. You make your payments, Kikoff then report that positive activity to the credit bureaus and your credit can grow fast. They even offer rent reporting so the payments that you're already making can help build your credit portfolio as well. You can sign up in minutes right from your phone and with auto pay you'll never miss a payment. So join over a million users that are building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as one dollar. That's 80% off the normal price when you go to GetKikoff.com slash Candace today. That's Kikoff spelled without the C. GetKikoff.com slash Candace.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:23:14](/episodes/ep-VUSs6CTp78Q.md#t-00-23-14): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1. ... That's 80% off the normal price when you go to getkikoff.com slash Candace today. That's kickoff spelled without a C. Get K-I-K-O-F-F dot com slash Candace.”
 
 </details>
 
@@ -19005,9 +19077,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tim Dillon](/entities/person-tim-dillon.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07): “That's what probably happened, guys. I mean, we are, that's where we are right now. It was so insane, and then people trying to pretend like it wasn't insane. And I do think they were just sort of spitballing, and like, 'Hey, what can we do? Midterms around the corner. What if we just shot someone in the head?' And you, you should watch this entire episode because he is just on the money, on the money with everything that's going. It's all just kind of coming apart, and there, I don't even know.”
 
 </details>
 
@@ -20547,7 +20620,87 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (5952)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (5977)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (25)</summary>
+
+- [00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) [○] (Claim) ["Owens said Tyler Bowyer of Turning Point Action had the Charlie Kirk statue erec..."](/statements/statement-6d4cd77f23ee.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:02:44](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) [○] (Accusation) ["Owens called Tyler Bowyer a sexual deviant and said he would potentially be in f..."](/statements/statement-902aeb4ac53a.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:04:36](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12) [○] (Accusation) ["Owens asked, “Would they be so bold as to fake a statue hate crime?” and said th..."](/statements/statement-bf5ddf1338c7.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:03](/episodes/ep-VUSs6CTp78Q.md#t-00-04-50) [○] (Accusation) ["Owens said Turning Point USA was refusing to release further suspect details mor..."](/statements/statement-1d090c299ff9.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:01](/episodes/ep-VUSs6CTp78Q.md#t-00-11-01) [○] (Accusation) ["Owens said MonsterLab appears to have been created to support Erika Kirk’s publi..."](/statements/statement-8755d47a5a0a.md)
+  - About: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37) [○] (Accusation) ["Owens said Blake Wynn was beside Erika Kirk when she said “I just want to go hom..."](/statements/statement-68bb3b72e91c.md)
+  - About: [Blake Wynn](/entities/person-blake-wynn.md), [Erika Kirk](/entities/person-erika-kirk.md), [Enclave & Key](/entities/org-enclave-and-key.md)
+
+- [00:16:53](/episodes/ep-VUSs6CTp78Q.md#t-00-16-30) [○] (Accusation) ["Owens said it was entirely plausible that Blake Wynn’s Enclave and Key put up th..."](/statements/statement-3c0c2e06e777.md)
+  - About: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:17:30](/episodes/ep-VUSs6CTp78Q.md#t-00-17-10) [○] (Claim) ["Owens said an emailed tip identified Kenneth “Kenny” Wynn as Blake Wynn’s father..."](/statements/statement-5e1aca59ee38.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md), [Blake Wynn](/entities/person-blake-wynn.md)
+
+- [00:18:37](/episodes/ep-VUSs6CTp78Q.md#t-00-18-37) [○] (Citation) ["Reading the article, Owens cited Operation Predator as an Immigration and Custom..."](/statements/statement-dd176fd68f8a.md)
+  - About: [Operation Predator](/entities/org-operation-predator.md), [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md)
+
+- [00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18) [○] (Citation) ["Owens cited Val Peterson’s government biography and the UVU website as saying he..."](/statements/statement-e12198c0e647.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:20:34](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28) [○] (Claim) ["Owens said the current Timpanogos Hospital board membership was not public and a..."](/statements/statement-aad15b085f59.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:21:09](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) [○] (Claim) ["Owens said two sources she considered extremely reliable had told her Val Peters..."](/statements/statement-c2c97c226c91.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:21:19](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) [○] (Claim) ["Owens said her team contacted Governor Spencer Cox’s office the previous Thursda..."](/statements/statement-c66bcf28c4c5.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:24:48](/episodes/ep-VUSs6CTp78Q.md#t-00-24-38) [○] (Claim) ["Owens said Katie Zacharia was out as press secretary."](/statements/statement-90722991bf76.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) [○] (Accusation) ["Owens accused Pete Hegseth of lying about bombing Iranian schools filled with ch..."](/statements/statement-63c7e59d4063.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+- [00:25:35](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) [○] (Accusation) ["Owens said Katie Zacharia was not a practicing attorney despite presenting herse..."](/statements/statement-0defa3d7689a.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:27:18](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) [○] (Opinion) ["Owens said she felt they were at the end of the Trump administration, with every..."](/statements/statement-a37c101e4985.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+- [00:27:26](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) [○] (Claim) ["Owens referred to Pete Hegseth’s plan for a live execution while introducing the..."](/statements/statement-fa770814030e.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+- [00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07) [○] (Opinion) ["Owens speculated that administration officials were probably spitballing a live-..."](/statements/statement-1e899bcea4a8.md)
+  - About: [White House](/entities/org-white-house.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:30:58](/episodes/ep-VUSs6CTp78Q.md#t-00-30-47) [○] (Accusation) ["Owens said Erika Kirk had already described herself as like a doctor and accused..."](/statements/statement-bbd597bff6ff.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19) [○] (Accusation) ["Owens argued that Erika Kirk’s Club America school appearances were being admini..."](/statements/statement-79ecf7bf0df0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+- [00:32:10](/episodes/ep-VUSs6CTp78Q.md#t-00-32-01) [○] (Claim) ["Owens said parents had emailed about Erika Kirk appearing as a special chapel gu..."](/statements/statement-275bce42f1c2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:32:51](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) [○] (Citation) ["Owens read a school invitation welcoming veterans and active military members to..."](/statements/statement-001f3eed7a53.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:33:11](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) [○] (Claim) ["Owens said parents could opt their children out of the school-wide Erika Kirk as..."](/statements/statement-bfe5a0cba568.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:34:13](/episodes/ep-VUSs6CTp78Q.md#t-00-34-09) [○] (Prediction) ["Owens predicted that a school-wide photograph would be presented as everyone sig..."](/statements/statement-cce44452ba6c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (46)</summary>

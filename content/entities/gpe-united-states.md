@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 2027 mentions"
+description: "United States (Places) - 2033 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,9 +28,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-united-states-t-00-39-02">2026-10-15 · 00:39:30</a></strong></div>
-<div><span>Episodes</span><strong>179</strong></div>
-<div><span>Mentions</span><strong>2,027</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-26-32">2026-10-19 · 00:26:37</a></strong></div>
+<div><span>Episodes</span><strong>180</strong></div>
+<div><span>Mentions</span><strong>2,033</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>180</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -220,6 +220,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-30-40" style="--pulse-height:24%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 11 mentions" title="2026-10-13 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-00-01" style="--pulse-height:22%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 10 mentions" title="2026-10-14 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-united-states-t-00-32-41" style="--pulse-height:11%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 5 mentions" title="2026-10-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-05-32" style="--pulse-height:13%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 6 mentions" title="2026-10-19 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -404,6 +405,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-united-states-t-00-30-40) | 11 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-00-01) | 10 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-united-states-t-00-32-41) | 5 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-05-32) | 6 |
 
 </details>
 </section>
@@ -415,7 +417,30 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2027)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2033)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6 mentions)</summary>
+
+**[00:05:32](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-05-32)**
+> "...and surveilled work campus in America following Charles (Charlie Kirk)' assassination."
+
+**[00:08:56](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-08-56)**
+> "... done here? Everyone knows in America that if you wear a mask and you cover your licens..."
+
+**[00:10:05](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-09-37)**
+> "This is how America works. Wear a mask, do whatever you want."
+
+**[00:18:51](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-18-37)**
+> "...n 1,700. 1,700 arrests in the United States."
+
+**[00:26:20](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-25-51)**
+> "...ed him. No one will ever make America great the way that he has and continues to."
+
+**[00:26:37](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-26-32)**
+> "...when I become dictator of the United States, he's most likely going to be my press secretary,..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (5 mentions)</summary>

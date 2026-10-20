@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 47 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 50 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-timpanogos-regional-hospital-t-00-17-35">2026-10-13 · 00:17:35</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-timpanogos-regional-hospital-t-00-20-28">2026-10-19 · 00:20:34</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>65</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>67</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -66,6 +66,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <a href="/episodes/ep-0pSAhaAZz1w.md#t-00-57-29" style="--pulse-height:25%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09" style="--pulse-height:75%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 3 mentions" title="2026-10-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-timpanogos-regional-hospital-t-00-17-35" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-timpanogos-regional-hospital-t-00-20-28" style="--pulse-height:75%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 3 mentions" title="2026-10-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +103,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#t-00-57-29) | 1 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-org-timpanogos-regional-hospital-t-00-17-09) | 3 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-timpanogos-regional-hospital-t-00-17-35) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-timpanogos-regional-hospital-t-00-20-28) | 3 |
 
 </details>
 </section>
@@ -113,7 +115,21 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3 mentions)</summary>
+
+**[00:20:34](/episodes/ep-VUSs6CTp78Q.md#ent-org-timpanogos-regional-hospital-t-00-20-28)**
+> "And unfortunately, that information is not public. I'd like to know that information. If you happen to know who the board members are at Timpanogos, now it feels like something I'd like to know."
+
+**[00:20:10](/episodes/ep-VUSs6CTp78Q.md#ent-org-timpanogos-regional-hospital-t-00-19-42)**
+> "Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) wa..."
+
+**[00:20:28](/episodes/ep-VUSs6CTp78Q.md#ent-org-timpanogos-regional-hospital-t-00-20-28)**
+> "..., who else is on the board of Timpanogos Hospital?"
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
@@ -454,6 +470,18 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details>
+<summary>Has Former Board Member (1)</summary>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and”
+
+</details>
+
+</details>
+
+<details>
 <summary>Owned By (1)</summary>
 
 - **[HCA Healthcare](/entities/org-hca-healthcare.md)**
@@ -466,7 +494,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -474,6 +502,13 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:55](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “And also something new is that that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger—a lot of new stuff happening.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08): “Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination.”
+
+</details>
+
+- **[Val L. Peterson](/entities/person-val-peterson.md)** former board member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:19:42](/episodes/ep-VUSs6CTp78Q.md#t-00-19-42): “At UVU. Multi-hyphenated character, the Utah House rep. He's a Utah House rep, the brigadier general, the brother of another alleged, innocent until proven guilty, pedo. Well, his credentials just keep credentialing. Val (Val Peterson), because you're just kind of surprised to see this, but according to Val (Val Peterson)'s current government biography and the UVU website, he sat on the board... ... Of Timpanogos Hospital, the very hospital that Charlie (Charlie Kirk) was transported to, and”
 
 </details>
 
@@ -505,7 +540,17 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (65)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (67)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
+
+- [00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18) (Citation) **Candace Owens**: ["Owens cited Val Peterson’s government biography and the UVU website as..."](/statements/statement-e12198c0e647.md)
+  - Also about: [Val L. Peterson](/entities/person-val-peterson.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:20:34](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28) (Claim) **Candace Owens**: ["Owens said the current Timpanogos Hospital board membership was not pu..."](/statements/statement-aad15b085f59.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (3)</summary>

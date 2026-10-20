@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 4604 factual claims and 8651 attributed statements"
+description: "Browse 4620 factual claims and 8692 attributed statements"
 ---
 
 # Claims & Statements
 
-_4604 factual claims within 8651 attributed statements._
+_4620 factual claims within 8692 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _4604 factual claims within 8651 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (184)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (185)</label>
 </div>
 
 <style>
@@ -53,7 +53,108 @@ _4604 factual claims within 8651 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (4604)</strong></summary>
+<summary><strong class="section-title">Factual Claims (4620)</strong></summary>
+
+<details>
+<summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (16)</summary>
+
+<div class="filter-item" data-filter-key="statement-6d4cd77f23ee">
+
+- [00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) [○] **Candace Owens**: ["Owens said Tyler Bowyer of Turning Point Action had the Charlie Kirk statue erec..."](/statements/statement-6d4cd77f23ee.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-300953121884">
+
+- [00:06:28](/episodes/ep-VUSs6CTp78Q.md#t-00-06-28) [○] **Tyler Bowyer**: ["Tyler Bowyer wrote in an Instagram DM that police investigated the Charlie Kirk ..."](/statements/statement-300953121884.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d2428cdd2823">
+
+- [00:07:54](/episodes/ep-VUSs6CTp78Q.md#t-00-07-54) [○] **Tyler Bowyer**: ["Tyler Bowyer said the statue was near and dear to him because he worked with the..."](/statements/statement-d2428cdd2823.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-016c23034deb">
+
+- [00:12:37](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) [○] **Baron Coleman**: ["Coleman said the Erika Kirk AmFest campaign was in December of 2026. This is the..."](/statements/statement-016c23034deb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [America Fest](/entities/event-america-fest.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-98fda4301e70">
+
+- [00:15:45](/episodes/ep-VUSs6CTp78Q.md#t-00-15-45) [○] **AL incentive questioner (VUSs6CTp78Q; identity unverified)**: ["An unidentified Discord participant wrote that they did not think they had recei..."](/statements/statement-98fda4301e70.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5e1aca59ee38">
+
+- [00:17:30](/episodes/ep-VUSs6CTp78Q.md#t-00-17-10) [○] **Candace Owens**: ["Owens said an emailed tip identified Kenneth “Kenny” Wynn as Blake Wynn’s father..."](/statements/statement-5e1aca59ee38.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md), [Blake Wynn](/entities/person-blake-wynn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-785044918f57">
+
+- [00:18:26](/episodes/ep-VUSs6CTp78Q.md#t-00-17-54) [○] **Wynn investigation law enforcement source (VUSs6CTp78Q; identity unverified)**: ["The article’s unnamed law-enforcement source said authorities confiscated a comp..."](/statements/statement-785044918f57.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-aad15b085f59">
+
+- [00:20:34](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28) [○] **Candace Owens**: ["Owens said the current Timpanogos Hospital board membership was not public and a..."](/statements/statement-aad15b085f59.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c2c97c226c91">
+
+- [00:21:09](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) [○] **Candace Owens**: ["Owens said two sources she considered extremely reliable had told her Val Peters..."](/statements/statement-c2c97c226c91.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c66bcf28c4c5">
+
+- [00:21:19](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) [○] **Candace Owens**: ["Owens said her team contacted Governor Spencer Cox’s office the previous Thursda..."](/statements/statement-c66bcf28c4c5.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-90722991bf76">
+
+- [00:24:48](/episodes/ep-VUSs6CTp78Q.md#t-00-24-38) [○] **Candace Owens**: ["Owens said Katie Zacharia was out as press secretary."](/statements/statement-90722991bf76.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fa770814030e">
+
+- [00:27:26](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) [○] **Candace Owens**: ["Owens referred to Pete Hegseth’s plan for a live execution while introducing the..."](/statements/statement-fa770814030e.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8518e809558a">
+
+- [00:27:45](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] **Tim Dillon**: ["Dillon said Katie Zacharia was out as press secretary after five days and was pu..."](/statements/statement-8518e809558a.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-275bce42f1c2">
+
+- [00:32:10](/episodes/ep-VUSs6CTp78Q.md#t-00-32-01) [○] **Candace Owens**: ["Owens said parents had emailed about Erika Kirk appearing as a special chapel gu..."](/statements/statement-275bce42f1c2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bfe5a0cba568">
+
+- [00:33:11](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) [○] **Candace Owens**: ["Owens said parents could opt their children out of the school-wide Erika Kirk as..."](/statements/statement-bfe5a0cba568.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e315af8a05a3">
+
+- [00:38:28](/episodes/ep-VUSs6CTp78Q.md#t-00-38-28) [○] **ER hearts (viewer handle; identity unverified)**: ["A viewer identified only as “ER hearts” wrote that Turning Point USA immediately..."](/statements/statement-e315af8a05a3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (30)</summary>
@@ -28019,7 +28120,90 @@ _4604 factual claims within 8651 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1993)</strong></summary>
+<summary><strong class="section-title">Accusations (2006)</strong></summary>
+
+<details>
+<summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (13)</summary>
+
+<div class="filter-item" data-filter-key="statement-902aeb4ac53a">
+
+- [00:02:44](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) [○] **Candace Owens**: ["Owens called Tyler Bowyer a sexual deviant and said he would potentially be in f..."](/statements/statement-902aeb4ac53a.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bf5ddf1338c7">
+
+- [00:04:36](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12) [○] **Candace Owens**: ["Owens asked, “Would they be so bold as to fake a statue hate crime?” and said th..."](/statements/statement-bf5ddf1338c7.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1d090c299ff9">
+
+- [00:05:03](/episodes/ep-VUSs6CTp78Q.md#t-00-04-50) [○] **Candace Owens**: ["Owens said Turning Point USA was refusing to release further suspect details mor..."](/statements/statement-1d090c299ff9.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8755d47a5a0a">
+
+- [00:11:01](/episodes/ep-VUSs6CTp78Q.md#t-00-11-01) [○] **Candace Owens**: ["Owens said MonsterLab appears to have been created to support Erika Kirk’s publi..."](/statements/statement-8755d47a5a0a.md)
+  - About: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b765677b086d">
+
+- [00:12:51](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) [○] **Baron Coleman**: ["Coleman said campaign participants were instructed to delete messages, not use E..."](/statements/statement-b765677b086d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-68bb3b72e91c">
+
+- [00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37) [○] **Candace Owens**: ["Owens said Blake Wynn was beside Erika Kirk when she said “I just want to go hom..."](/statements/statement-68bb3b72e91c.md)
+  - About: [Blake Wynn](/entities/person-blake-wynn.md), [Erika Kirk](/entities/person-erika-kirk.md), [Enclave & Key](/entities/org-enclave-and-key.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3c0c2e06e777">
+
+- [00:16:53](/episodes/ep-VUSs6CTp78Q.md#t-00-16-30) [○] **Candace Owens**: ["Owens said it was entirely plausible that Blake Wynn’s Enclave and Key put up th..."](/statements/statement-3c0c2e06e777.md)
+  - About: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7fe4250dd61a">
+
+- [00:18:00](/episodes/ep-VUSs6CTp78Q.md#t-00-17-54) [○] **Wynn investigation law enforcement source (VUSs6CTp78Q; identity unverified)**: ["An unnamed law-enforcement source quoted in the article read by Owens said Kenne..."](/statements/statement-7fe4250dd61a.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-21f6ded9113b">
+
+- [00:18:14](/episodes/ep-VUSs6CTp78Q.md#t-00-17-54) [○] **Wynn investigation law enforcement source (VUSs6CTp78Q; identity unverified)**: ["The article’s unnamed law-enforcement source said Kenneth “Kenny” Wynn came unde..."](/statements/statement-21f6ded9113b.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md), [Operation Predator](/entities/org-operation-predator.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-63c7e59d4063">
+
+- [00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) [○] **Candace Owens**: ["Owens accused Pete Hegseth of lying about bombing Iranian schools filled with ch..."](/statements/statement-63c7e59d4063.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0defa3d7689a">
+
+- [00:25:35](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) [○] **Candace Owens**: ["Owens said Katie Zacharia was not a practicing attorney despite presenting herse..."](/statements/statement-0defa3d7689a.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bbd597bff6ff">
+
+- [00:30:58](/episodes/ep-VUSs6CTp78Q.md#t-00-30-47) [○] **Candace Owens**: ["Owens said Erika Kirk had already described herself as like a doctor and accused..."](/statements/statement-bbd597bff6ff.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-79ecf7bf0df0">
+
+- [00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19) [○] **Candace Owens**: ["Owens argued that Erika Kirk’s Club America school appearances were being admini..."](/statements/statement-79ecf7bf0df0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (10)</summary>
@@ -40831,7 +41015,24 @@ _4604 factual claims within 8651 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Predictions (93)</strong></summary>
+<summary><strong class="section-title">Predictions (95)</strong></summary>
+
+<details>
+<summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
+
+<div class="filter-item" data-filter-key="statement-01284aaf9ea2">
+
+- [00:28:19](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] **Tim Dillon**: ["Dillon said Trump was losing political power and that in a few weeks his adminis..."](/statements/statement-01284aaf9ea2.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Democratic Party](/entities/org-democratic-party.md), [United States Congress](/entities/org-united-states-congress.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cce44452ba6c">
+
+- [00:34:13](/episodes/ep-VUSs6CTp78Q.md#t-00-34-09) [○] **Candace Owens**: ["Owens predicted that a school-wide photograph would be presented as everyone sig..."](/statements/statement-cce44452ba6c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>
@@ -43220,7 +43421,36 @@ _4604 factual claims within 8651 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (500)</strong></summary>
+<summary><strong class="section-title">Citations (504)</strong></summary>
+
+<details>
+<summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4)</summary>
+
+<div class="filter-item" data-filter-key="statement-d513762ff73b">
+
+- [00:12:09](/episodes/ep-VUSs6CTp78Q.md#t-00-11-54) [○] **Baron Coleman**: ["Coleman said a message asking when participants would be paid for the Erika Kirk..."](/statements/statement-d513762ff73b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [America Fest](/entities/event-america-fest.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dd176fd68f8a">
+
+- [00:18:37](/episodes/ep-VUSs6CTp78Q.md#t-00-18-37) [○] **Candace Owens**: ["Reading the article, Owens cited Operation Predator as an Immigration and Custom..."](/statements/statement-dd176fd68f8a.md)
+  - About: [Operation Predator](/entities/org-operation-predator.md), [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e12198c0e647">
+
+- [00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18) [○] **Candace Owens**: ["Owens cited Val Peterson’s government biography and the UVU website as saying he..."](/statements/statement-e12198c0e647.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Provo Airport](/entities/org-provo-airport.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-001f3eed7a53">
+
+- [00:32:51](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) [○] **Candace Owens**: ["Owens read a school invitation welcoming veterans and active military members to..."](/statements/statement-001f3eed7a53.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (12)</summary>
@@ -46843,7 +47073,48 @@ _4604 factual claims within 8651 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1289)</strong></summary>
+<summary><strong class="section-title">Opinions (1295)</strong></summary>
+
+<details>
+<summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6)</summary>
+
+<div class="filter-item" data-filter-key="statement-97a45f88db47">
+
+- [00:07:10](/episodes/ep-VUSs6CTp78Q.md#t-00-07-10) [○] **Tyler Bowyer**: ["Tyler Bowyer asked, “How does more cameras help with people that were wearing ho..."](/statements/statement-97a45f88db47.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-634581160ca3">
+
+- [00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03) [○] **Baron Coleman**: ["Coleman characterized the campaign as needing to look organic and argued that Er..."](/statements/statement-634581160ca3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-255aabb3022e">
+
+- [00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51) [○] **Katie Zacharia**: ["In the October 16th tweet read by Owens, Katie Zacharia described Trump as kind,..."](/statements/statement-255aabb3022e.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a37c101e4985">
+
+- [00:27:18](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) [○] **Candace Owens**: ["Owens said she felt they were at the end of the Trump administration, with every..."](/statements/statement-a37c101e4985.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cda3317022ce">
+
+- [00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] **Tim Dillon**: ["Dillon argued that the administration needed convincing, top-level liars because..."](/statements/statement-cda3317022ce.md)
+  - About: [White House](/entities/org-white-house.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1e899bcea4a8">
+
+- [00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07) [○] **Candace Owens**: ["Owens speculated that administration officials were probably spitballing a live-..."](/statements/statement-1e899bcea4a8.md)
+  - About: [White House](/entities/org-white-house.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (8)</summary>
@@ -55390,6 +55661,257 @@ _4604 factual claims within 8651 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.</strong> (41)</summary>
+
+<div class="filter-item" data-filter-key="statement-6d4cd77f23ee">
+
+- [00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) [○] (Claim) **Candace Owens**: ["Owens said Tyler Bowyer of Turning Point Action had the Charlie Kirk statue erec..."](/statements/statement-6d4cd77f23ee.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-902aeb4ac53a">
+
+- [00:02:44](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) [○] (Accusation) **Candace Owens**: ["Owens called Tyler Bowyer a sexual deviant and said he would potentially be in f..."](/statements/statement-902aeb4ac53a.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bf5ddf1338c7">
+
+- [00:04:36](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12) [○] (Accusation) **Candace Owens**: ["Owens asked, “Would they be so bold as to fake a statue hate crime?” and said th..."](/statements/statement-bf5ddf1338c7.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1d090c299ff9">
+
+- [00:05:03](/episodes/ep-VUSs6CTp78Q.md#t-00-04-50) [○] (Accusation) **Candace Owens**: ["Owens said Turning Point USA was refusing to release further suspect details mor..."](/statements/statement-1d090c299ff9.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-300953121884">
+
+- [00:06:28](/episodes/ep-VUSs6CTp78Q.md#t-00-06-28) [○] (Claim) **Tyler Bowyer**: ["Tyler Bowyer wrote in an Instagram DM that police investigated the Charlie Kirk ..."](/statements/statement-300953121884.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-97a45f88db47">
+
+- [00:07:10](/episodes/ep-VUSs6CTp78Q.md#t-00-07-10) [○] (Opinion) **Tyler Bowyer**: ["Tyler Bowyer asked, “How does more cameras help with people that were wearing ho..."](/statements/statement-97a45f88db47.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d2428cdd2823">
+
+- [00:07:54](/episodes/ep-VUSs6CTp78Q.md#t-00-07-54) [○] (Claim) **Tyler Bowyer**: ["Tyler Bowyer said the statue was near and dear to him because he worked with the..."](/statements/statement-d2428cdd2823.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8755d47a5a0a">
+
+- [00:11:01](/episodes/ep-VUSs6CTp78Q.md#t-00-11-01) [○] (Accusation) **Candace Owens**: ["Owens said MonsterLab appears to have been created to support Erika Kirk’s publi..."](/statements/statement-8755d47a5a0a.md)
+  - About: [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d513762ff73b">
+
+- [00:12:09](/episodes/ep-VUSs6CTp78Q.md#t-00-11-54) [○] (Citation) **Baron Coleman**: ["Coleman said a message asking when participants would be paid for the Erika Kirk..."](/statements/statement-d513762ff73b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [America Fest](/entities/event-america-fest.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-016c23034deb">
+
+- [00:12:37](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) [○] (Claim) **Baron Coleman**: ["Coleman said the Erika Kirk AmFest campaign was in December of 2026. This is the..."](/statements/statement-016c23034deb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [America Fest](/entities/event-america-fest.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b765677b086d">
+
+- [00:12:51](/episodes/ep-VUSs6CTp78Q.md#t-00-12-37) [○] (Accusation) **Baron Coleman**: ["Coleman said campaign participants were instructed to delete messages, not use E..."](/statements/statement-b765677b086d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-634581160ca3">
+
+- [00:14:09](/episodes/ep-VUSs6CTp78Q.md#t-00-14-03) [○] (Opinion) **Baron Coleman**: ["Coleman characterized the campaign as needing to look organic and argued that Er..."](/statements/statement-634581160ca3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-68bb3b72e91c">
+
+- [00:14:57](/episodes/ep-VUSs6CTp78Q.md#t-00-14-37) [○] (Accusation) **Candace Owens**: ["Owens said Blake Wynn was beside Erika Kirk when she said “I just want to go hom..."](/statements/statement-68bb3b72e91c.md)
+  - About: [Blake Wynn](/entities/person-blake-wynn.md), [Erika Kirk](/entities/person-erika-kirk.md), [Enclave & Key](/entities/org-enclave-and-key.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-98fda4301e70">
+
+- [00:15:45](/episodes/ep-VUSs6CTp78Q.md#t-00-15-45) [○] (Claim) **AL incentive questioner (VUSs6CTp78Q; identity unverified)**: ["An unidentified Discord participant wrote that they did not think they had recei..."](/statements/statement-98fda4301e70.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [MonsterLab (clipping platform)](/entities/org-monsterlab-clipping-platform.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3c0c2e06e777">
+
+- [00:16:53](/episodes/ep-VUSs6CTp78Q.md#t-00-16-30) [○] (Accusation) **Candace Owens**: ["Owens said it was entirely plausible that Blake Wynn’s Enclave and Key put up th..."](/statements/statement-3c0c2e06e777.md)
+  - About: [Blake Wynn](/entities/person-blake-wynn.md), [Enclave & Key](/entities/org-enclave-and-key.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5e1aca59ee38">
+
+- [00:17:30](/episodes/ep-VUSs6CTp78Q.md#t-00-17-10) [○] (Claim) **Candace Owens**: ["Owens said an emailed tip identified Kenneth “Kenny” Wynn as Blake Wynn’s father..."](/statements/statement-5e1aca59ee38.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md), [Blake Wynn](/entities/person-blake-wynn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7fe4250dd61a">
+
+- [00:18:00](/episodes/ep-VUSs6CTp78Q.md#t-00-17-54) [○] (Accusation) **Wynn investigation law enforcement source (VUSs6CTp78Q; identity unverified)**: ["An unnamed law-enforcement source quoted in the article read by Owens said Kenne..."](/statements/statement-7fe4250dd61a.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-21f6ded9113b">
+
+- [00:18:14](/episodes/ep-VUSs6CTp78Q.md#t-00-17-54) [○] (Accusation) **Wynn investigation law enforcement source (VUSs6CTp78Q; identity unverified)**: ["The article’s unnamed law-enforcement source said Kenneth “Kenny” Wynn came unde..."](/statements/statement-21f6ded9113b.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md), [Operation Predator](/entities/org-operation-predator.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-785044918f57">
+
+- [00:18:26](/episodes/ep-VUSs6CTp78Q.md#t-00-17-54) [○] (Claim) **Wynn investigation law enforcement source (VUSs6CTp78Q; identity unverified)**: ["The article’s unnamed law-enforcement source said authorities confiscated a comp..."](/statements/statement-785044918f57.md)
+  - About: [Kenneth Wynn](/entities/person-kenneth-wynn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dd176fd68f8a">
+
+- [00:18:37](/episodes/ep-VUSs6CTp78Q.md#t-00-18-37) [○] (Citation) **Candace Owens**: ["Reading the article, Owens cited Operation Predator as an Immigration and Custom..."](/statements/statement-dd176fd68f8a.md)
+  - About: [Operation Predator](/entities/org-operation-predator.md), [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e12198c0e647">
+
+- [00:19:33](/episodes/ep-VUSs6CTp78Q.md#t-00-19-18) [○] (Citation) **Candace Owens**: ["Owens cited Val Peterson’s government biography and the UVU website as saying he..."](/statements/statement-e12198c0e647.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Provo Airport](/entities/org-provo-airport.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-aad15b085f59">
+
+- [00:20:34](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28) [○] (Claim) **Candace Owens**: ["Owens said the current Timpanogos Hospital board membership was not public and a..."](/statements/statement-aad15b085f59.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c2c97c226c91">
+
+- [00:21:09](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) [○] (Claim) **Candace Owens**: ["Owens said two sources she considered extremely reliable had told her Val Peters..."](/statements/statement-c2c97c226c91.md)
+  - About: [Val L. Peterson](/entities/person-val-peterson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c66bcf28c4c5">
+
+- [00:21:19](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) [○] (Claim) **Candace Owens**: ["Owens said her team contacted Governor Spencer Cox’s office the previous Thursda..."](/statements/statement-c66bcf28c4c5.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-90722991bf76">
+
+- [00:24:48](/episodes/ep-VUSs6CTp78Q.md#t-00-24-38) [○] (Claim) **Candace Owens**: ["Owens said Katie Zacharia was out as press secretary."](/statements/statement-90722991bf76.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-63c7e59d4063">
+
+- [00:25:12](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) [○] (Accusation) **Candace Owens**: ["Owens accused Pete Hegseth of lying about bombing Iranian schools filled with ch..."](/statements/statement-63c7e59d4063.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0defa3d7689a">
+
+- [00:25:35](/episodes/ep-VUSs6CTp78Q.md#t-00-25-12) [○] (Accusation) **Candace Owens**: ["Owens said Katie Zacharia was not a practicing attorney despite presenting herse..."](/statements/statement-0defa3d7689a.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-255aabb3022e">
+
+- [00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51) [○] (Opinion) **Katie Zacharia**: ["In the October 16th tweet read by Owens, Katie Zacharia described Trump as kind,..."](/statements/statement-255aabb3022e.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a37c101e4985">
+
+- [00:27:18](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) [○] (Opinion) **Candace Owens**: ["Owens said she felt they were at the end of the Trump administration, with every..."](/statements/statement-a37c101e4985.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fa770814030e">
+
+- [00:27:26](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) [○] (Claim) **Candace Owens**: ["Owens referred to Pete Hegseth’s plan for a live execution while introducing the..."](/statements/statement-fa770814030e.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8518e809558a">
+
+- [00:27:45](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] (Claim) **Tim Dillon**: ["Dillon said Katie Zacharia was out as press secretary after five days and was pu..."](/statements/statement-8518e809558a.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cda3317022ce">
+
+- [00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] (Opinion) **Tim Dillon**: ["Dillon argued that the administration needed convincing, top-level liars because..."](/statements/statement-cda3317022ce.md)
+  - About: [White House](/entities/org-white-house.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-01284aaf9ea2">
+
+- [00:28:19](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] (Prediction) **Tim Dillon**: ["Dillon said Trump was losing political power and that in a few weeks his adminis..."](/statements/statement-01284aaf9ea2.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Democratic Party](/entities/org-democratic-party.md), [United States Congress](/entities/org-united-states-congress.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1e899bcea4a8">
+
+- [00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07) [○] (Opinion) **Candace Owens**: ["Owens speculated that administration officials were probably spitballing a live-..."](/statements/statement-1e899bcea4a8.md)
+  - About: [White House](/entities/org-white-house.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bbd597bff6ff">
+
+- [00:30:58](/episodes/ep-VUSs6CTp78Q.md#t-00-30-47) [○] (Accusation) **Candace Owens**: ["Owens said Erika Kirk had already described herself as like a doctor and accused..."](/statements/statement-bbd597bff6ff.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-79ecf7bf0df0">
+
+- [00:31:19](/episodes/ep-VUSs6CTp78Q.md#t-00-31-19) [○] (Accusation) **Candace Owens**: ["Owens argued that Erika Kirk’s Club America school appearances were being admini..."](/statements/statement-79ecf7bf0df0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-275bce42f1c2">
+
+- [00:32:10](/episodes/ep-VUSs6CTp78Q.md#t-00-32-01) [○] (Claim) **Candace Owens**: ["Owens said parents had emailed about Erika Kirk appearing as a special chapel gu..."](/statements/statement-275bce42f1c2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-001f3eed7a53">
+
+- [00:32:51](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) [○] (Citation) **Candace Owens**: ["Owens read a school invitation welcoming veterans and active military members to..."](/statements/statement-001f3eed7a53.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bfe5a0cba568">
+
+- [00:33:11](/episodes/ep-VUSs6CTp78Q.md#t-00-32-44) [○] (Claim) **Candace Owens**: ["Owens said parents could opt their children out of the school-wide Erika Kirk as..."](/statements/statement-bfe5a0cba568.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cce44452ba6c">
+
+- [00:34:13](/episodes/ep-VUSs6CTp78Q.md#t-00-34-09) [○] (Prediction) **Candace Owens**: ["Owens predicted that a school-wide photograph would be presented as everyone sig..."](/statements/statement-cce44452ba6c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Club America](/entities/org-club-america.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e315af8a05a3">
+
+- [00:38:28](/episodes/ep-VUSs6CTp78Q.md#t-00-38-28) [○] (Claim) **ER hearts (viewer handle; identity unverified)**: ["A viewer identified only as “ER hearts” wrote that Turning Point USA immediately..."](/statements/statement-e315af8a05a3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-10-15 · Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).</strong> (62)</summary>
@@ -107445,4 +107967,4 @@ _4604 factual claims within 8651 attributed statements._
 
 ---
 
-*Generated: 2026-10-16 10:29:40*
+*Generated: 2026-10-20 09:55:33*

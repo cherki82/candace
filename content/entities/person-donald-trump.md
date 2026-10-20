@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 1070 mentions"
+description: "Donald J. Trump (People) - 1083 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,13 +28,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-39-39">2026-10-15 · 00:39:39</a></strong></div>
-<div><span>Episodes</span><strong>151</strong></div>
-<div><span>Mentions</span><strong>1,070</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-42-02">2026-10-19 · 00:42:29</a></strong></div>
+<div><span>Episodes</span><strong>152</strong></div>
+<div><span>Mentions</span><strong>1,083</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>269</strong></div>
-<div><span>Relationships</span><strong>177</strong></div>
-<div><span>Threads</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>275</strong></div>
+<div><span>Relationships</span><strong>183</strong></div>
+<div><span>Threads</span><strong>3</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -192,6 +192,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24" style="--pulse-height:27%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 13 mentions" title="2026-10-13 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11" style="--pulse-height:10%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-00-45" style="--pulse-height:27%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 13 mentions" title="2026-10-19 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -348,6 +349,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-donald-trump-t-00-33-24) | 13 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43) | 6 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-00-45) | 13 |
 
 </details>
 </section>
@@ -356,11 +358,56 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 - [How the Zacharia legal-credentials objection narrowed](/threads/thread-zacharia-legal-credentials-dispute) — Tracks Owens's law-degree challenge, Zacharia's quoted practice-and-credentials defense, and Owens's subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.
+- [How the Hasan execution-livestream debate changed](/threads/thread-hasan-execution-livestream-debate) — Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1070)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1083)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (13 mentions)</summary>
+
+**[00:01:07](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-00-45)**
+> "...his dumpster fire that is the Trump (Donald Trump) administration 2.0."
+
+**[00:02:52](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-02-35)**
+> "... pardon that he received from Trump (Donald Trump) back in November of last year for ..."
+
+**[00:04:26](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-04-12)**
+> "Trump (Donald Trump) needs a ballroom. Erika (Erika Kir..."
+
+**[00:24:59](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-24-38)**
+> "..., relative to the lies of the Trump (Donald Trump) administration has told us, I feel..."
+
+**[00:25:35](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-25-12)**
+> "... says that it was relevant to Trump (Donald Trump) had some relative to Trump (Donald..."
+
+**[00:26:13](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-25-51)**
+> "...ber 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, th..."
+
+**[00:26:27](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-25-51)**
+> "... She will continue to worship Trump (Donald Trump)."
+
+**[00:26:32](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-26-32)**
+> "And that's how Trump (Donald Trump) likes the blondes on Fox News. He ..."
+
+**[00:27:18](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-27-01)**
+> "...like we are at the end of the Trump (Donald Trump) administration, like everything's ..."
+
+**[00:28:19](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-27-45)**
+> "...ach other. And at this point, Trump (Donald Trump) is increasingly isolated. People a..."
+
+**[00:42:02](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-42-02)**
+> "Don Trump (Donald Trump), Donald Trump, why would he be say..."
+
+**[00:42:12](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-42-02)**
+> "And what how Trump (Donald Trump) is probably feeling at this time, ..."
+
+**[00:42:29](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-42-02)**
+> "...out Plato's allegory. And now Trump (Donald Trump) is going they're like, oh, it look..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (6 mentions)</summary>
@@ -4664,7 +4711,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Criticized By (5)</summary>
+<summary>Criticized By (6)</summary>
 
 - **[Michael Savage](/entities/person-michael-savage.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4674,7 +4721,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4710,6 +4757,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
 
 </details>
 
@@ -4731,6 +4779,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52): “Charlie was a fan of Thomas Massie ... Republican who gets in Trump's way, criticizes Trump”
+
+</details>
+
+- **[Tim Dillon](/entities/person-tim-dillon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45): “And because, frankly, this is not the time for bad liars. This is not the time in this administration where they need people who cannot lie convincingly. This is the time to bring in the top level liars who are well versed and who can come in and spin a fable because nothing's going well. ... Everybody's turning on each other. And at this point, Trump (Donald Trump) is increasingly isolated. People are preparing for a post Trump (Donald Trump). ... GOP. He's losing his political power, political power. And in a few weeks they might be, and I would imagine they would be facing it, they're gonna have a Democratic Congress. They'll have a, potentially, a Democratic Senate, and then there's just gonna be impeachment investigations. I would imagine they're gonna launch...”
 
 </details>
 
@@ -4800,7 +4855,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Formerly Employed (3)</summary>
+<summary>Formerly Employed (4)</summary>
 
 - **[Pam Bondi](/entities/person-pam-bondi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4822,6 +4877,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20): “OK, this is 2025. It's a crazy year. OK, let's take a look at it. January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strategy officer for Salem Media Group.”
 - [Candace Owens x Ana Kasparian @ 01:12:30](/episodes/ep-SKNJPul29zU.md#t-01-12-30): “What was that guy's name? Former Trump (Donald Trump) administration official who's now like running like a propaganda arm of the Israeli government as we speak. ... Parscale yes ... Brad Parscale, I”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “Brad Parscale, the former Trump (Donald Trump) campaign manager”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
 
 </details>
 
@@ -4963,10 +5025,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Pardoned (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:02:44](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “Tyler Bowyer, you will recall, as I have asserted a great many times on this podcast, is a sexual deviant who would. ... Potentially even be in federal prison were it not for the presidential pardon that he received from Trump (Donald Trump) back in November of last year for federal charges pertaining to elector funny business out in Arizona.”
 
 </details>
 
@@ -5098,7 +5161,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Supported By (5)</summary>
+<summary>Supported By (6)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
@@ -5140,6 +5203,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
 
 </details>
 
@@ -5201,7 +5271,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (88)</summary>
+<summary>Referenced By (91)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5434,7 +5504,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -5470,6 +5540,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:42:28](/episodes/ep-q4m-kGzvwjw.md#t-00-42-02): “There's something bigger happening here. The administration was positively panicked about the Epstein (Jeffrey Epstein) files. Trump (Donald J. Trump)'s making phone calls he should never be making. Stop talking about the Epstein (Jeffrey Epstein) files to Charlie (Charlie Kirk). ... It's an Epstein (Jeffrey Epstein) grievance fest. Why are you the president of the United States?”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
 
 </details>
 
@@ -5491,6 +5562,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52): “Charlie was a fan of Thomas Massie ... Republican who gets in Trump's way, criticizes Trump”
+
+</details>
+
+- **[Tim Dillon](/entities/person-tim-dillon.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45): “And because, frankly, this is not the time for bad liars. This is not the time in this administration where they need people who cannot lie convincingly. This is the time to bring in the top level liars who are well versed and who can come in and spin a fable because nothing's going well. ... Everybody's turning on each other. And at this point, Trump (Donald Trump) is increasingly isolated. People are preparing for a post Trump (Donald Trump). ... GOP. He's losing his political power, political power. And in a few weeks they might be, and I would imagine they would be facing it, they're gonna have a Democratic Congress. They'll have a, potentially, a Democratic Senate, and then there's just gonna be impeachment investigations. I would imagine they're gonna launch...”
 
 </details>
 
@@ -5649,6 +5727,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
+
+</details>
+
 - **[Giorgia Meloni](/entities/person-giorgia-meloni.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -5768,10 +5853,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** pardoned by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:02:44](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “Tyler Bowyer, you will recall, as I have asserted a great many times on this podcast, is a sexual deviant who would. ... Potentially even be in federal prison were it not for the presidential pardon that he received from Trump (Donald Trump) back in November of last year for federal charges pertaining to elector funny business out in Arizona.”
 
 </details>
 
@@ -5864,6 +5950,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51): “Yeah, well, look, guys, Katie Zacharia is gone. And I had just obviously become obsessed with her. I was like, yes, actually, this is exactly what the nation needs. ... She tweeted this out on October 16th. She said, President Trump (Donald Trump) is a kind, wonderful, gracious, thoughtful, enthusiastic and hardworking man. ... I wish more Americans appreciated him. No one will ever make America great the way that he has and continues to. ... It was an honor to work for him. So back to Fox News she goes. She will continue to worship Trump (Donald Trump).”
 
 </details>
 
@@ -6120,7 +6213,29 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (269)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (275)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6)</summary>
+
+- [00:02:44](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) (Accusation) **Candace Owens**: ["Owens called Tyler Bowyer a sexual deviant and said he would potential..."](/statements/statement-902aeb4ac53a.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:26:13](/episodes/ep-VUSs6CTp78Q.md#t-00-25-51) (Opinion) **Katie Zacharia** (via quoted tweet): ["In the October 16th tweet read by Owens, Katie Zacharia described Trum..."](/statements/statement-255aabb3022e.md)
+
+- [00:27:18](/episodes/ep-VUSs6CTp78Q.md#t-00-27-01) (Opinion) **Candace Owens**: ["Owens said she felt they were at the end of the Trump administration, ..."](/statements/statement-a37c101e4985.md)
+  - Also about: [White House](/entities/org-white-house.md)
+
+- [00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) (Opinion) **Tim Dillon** (via quoted speech): ["Dillon argued that the administration needed convincing, top-level lia..."](/statements/statement-cda3317022ce.md)
+  - Also about: [White House](/entities/org-white-house.md)
+
+- [00:28:19](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) (Prediction) **Tim Dillon** (via quoted speech): ["Dillon said Trump was losing political power and that in a few weeks h..."](/statements/statement-01284aaf9ea2.md)
+  - Also about: [Democratic Party](/entities/org-democratic-party.md), [United States Congress](/entities/org-united-states-congress.md), [United States Senate](/entities/org-us-senate.md)
+
+- [00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07) (Opinion) **Candace Owens**: ["Owens speculated that administration officials were probably spitballi..."](/statements/statement-1e899bcea4a8.md)
+  - Also about: [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2)</summary>

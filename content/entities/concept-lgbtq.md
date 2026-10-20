@@ -1,6 +1,6 @@
 ---
 title: "LGBTQ"
-description: "LGBTQ (Concepts) - 36 mentions"
+description: "LGBTQ (Concepts) - 37 mentions"
 id: "concept-lgbtq"
 type: "CONCEPT"
 aliases:
@@ -24,9 +24,9 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06">2025-09-23 · 00:53:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NNiCZk1cuzs.md#ent-concept-lgbtq-t-00-43-04">2026-09-18 · 00:43:37</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-concept-lgbtq-t-00-10-18">2026-10-19 · 00:10:28</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -56,6 +56,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-02-36" style="--pulse-height:60%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-29" style="--pulse-height:60%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NNiCZk1cuzs.md#ent-concept-lgbtq-t-00-43-04" style="--pulse-height:20%" aria-label="Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389: 1 mentions" title="2026-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-concept-lgbtq-t-00-10-18" style="--pulse-height:20%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-02-36) | 3 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-29) | 3 |
 | 2026-09-18 | [Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs.md#ent-concept-lgbtq-t-00-43-04) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-concept-lgbtq-t-00-10-18) | 1 |
 
 </details>
 </section>
@@ -91,7 +93,15 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:10:28](/episodes/ep-VUSs6CTp78Q.md#ent-concept-lgbtq-t-00-10-18)**
+> "...fice to say it was in fact an LGBTQ hate crime because Jean-Michel Trogneux is gay an..."
+
+</details>
 
 <details>
 <summary>Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389 (1 mentions)</summary>

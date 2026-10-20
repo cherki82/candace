@@ -1,6 +1,6 @@
 ---
 title: "Tim Dillon"
-description: "Tim Dillon (People) - 63 mentions"
+description: "Tim Dillon (People) - 67 mentions"
 id: "person-tim-dillon"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">2025-11-13 · 00:46:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tim-dillon-t-00-43-23">2026-10-14 · 00:43:42</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>63</strong></div>
-<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tim-dillon-t-00-42-02">2026-10-19 · 00:42:02</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -56,6 +56,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56" style="--pulse-height:11%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 1 mentions" title="2026-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tim-dillon-t-00-48-46" style="--pulse-height:33%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-tim-dillon-t-00-43-23" style="--pulse-height:11%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tim-dillon-t-00-27-01" style="--pulse-height:44%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 4 mentions" title="2026-10-19 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +87,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-tim-dillon-t-00-47-56) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-tim-dillon-t-00-48-46) | 3 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-tim-dillon-t-00-43-23) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-tim-dillon-t-00-27-01) | 4 |
 
 </details>
 </section>
@@ -97,7 +99,24 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4 mentions)</summary>
+
+**[00:27:45](/episodes/ep-VUSs6CTp78Q.md#ent-person-tim-dillon-t-00-27-01)**
+> "Ladies and gentlemen, welcome to the Tim Dillon Show. Five days, Katie Zacharia out. I believe that's her name."
+
+**[00:26:37](/episodes/ep-VUSs6CTp78Q.md#ent-person-tim-dillon-t-00-26-32)**
+> "... am on the same wavelength as Tim Dillon. That's why I say he is, when I become dictator o..."
+
+**[00:27:18](/episodes/ep-VUSs6CTp78Q.md#ent-person-tim-dillon-t-00-27-01)**
+> "...tting crazier and crazier and Tim Dillon just."
+
+**[00:42:02](/episodes/ep-VUSs6CTp78Q.md#ent-person-tim-dillon-t-00-42-02)**
+> "...wn. You should watch the full Tim Dillon episode where he kind of goes into that."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -422,7 +441,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details>
-<summary>Criticized (2)</summary>
+<summary>Criticized (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -439,22 +458,42 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45): “And because, frankly, this is not the time for bad liars. This is not the time in this administration where they need people who cannot lie convincingly. This is the time to bring in the top level liars who are well versed and who can come in and spin a fable because nothing's going well. ... Everybody's turning on each other. And at this point, Trump (Donald Trump) is increasingly isolated. People are preparing for a post Trump (Donald Trump). ... GOP. He's losing his political power, political power. And in a few weeks they might be, and I would imagine they would be facing it, they're gonna have a Democratic Congress. They'll have a, potentially, a Democratic Senate, and then there's just gonna be impeachment investigations. I would imagine they're gonna launch...”
+
+</details>
+
 </details>
 
 <details>
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07): “That's what probably happened, guys. I mean, we are, that's where we are right now. It was so insane, and then people trying to pretend like it wasn't insane. And I do think they were just sort of spitballing, and like, 'Hey, what can we do? Midterms around the corner. What if we just shot someone in the head?' And you, you should watch this entire episode because he is just on the money, on the money with everything that's going. It's all just kind of coming apart, and there, I don't even know.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Host Of (1)</summary>
+
+- **[The Tim Dillon Show](/entities/work-the-tim-dillon-show.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:27:45](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45): “Ladies and gentlemen, welcome to the Tim Dillon Show. Five days, Katie Zacharia out. I believe that's her name.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -478,10 +517,25 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+- **[Donald J. Trump](/entities/person-donald-trump.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45): “And because, frankly, this is not the time for bad liars. This is not the time in this administration where they need people who cannot lie convincingly. This is the time to bring in the top level liars who are well versed and who can come in and spin a fable because nothing's going well. ... Everybody's turning on each other. And at this point, Trump (Donald Trump) is increasingly isolated. People are preparing for a post Trump (Donald Trump). ... GOP. He's losing his political power, political power. And in a few weeks they might be, and I would imagine they would be facing it, they're gonna have a Democratic Congress. They'll have a, potentially, a Democratic Senate, and then there's just gonna be impeachment investigations. I would imagine they're gonna launch...”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 @ 00:48:18](/episodes/ep-UAdBEXs7nNc.md#t-00-47-56): “So head over to Theo (Theo Von)'s channel and support him, and watch the episode, watch other episodes. He just, if you need a laugh at any time in your life and you need a break, Theo Von is the person to watch. Theo Von and Tim Dillon. Do you actually have that clip? Yeah, let's play it.”
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:30:10](/episodes/ep-VUSs6CTp78Q.md#t-00-30-07): “That's what probably happened, guys. I mean, we are, that's where we are right now. It was so insane, and then people trying to pretend like it wasn't insane. And I do think they were just sort of spitballing, and like, 'Hey, what can we do? Midterms around the corner. What if we just shot someone in the head?' And you, you should watch this entire episode because he is just on the money, on the money with everything that's going. It's all just kind of coming apart, and there, I don't even know.”
+
+</details>
+
+- **[The Tim Dillon Show](/entities/work-the-tim-dillon-show.md)** has host this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:27:45](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45): “Ladies and gentlemen, welcome to the Tim Dillon Show. Five days, Katie Zacharia out. I believe that's her name.”
 
 </details>
 
@@ -490,7 +544,21 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tim Dillon (9)</strong></summary>
+<summary><strong class="section-title">Statements by Tim Dillon (12)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>
+
+- [00:27:45](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] (Claim) ["Dillon said Katie Zacharia was out as press secretary after five days and was pu..."](/statements/statement-8518e809558a.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+- [00:27:59](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] (Opinion) ["Dillon argued that the administration needed convincing, top-level liars because..."](/statements/statement-cda3317022ce.md)
+  - About: [White House](/entities/org-white-house.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:28:19](/episodes/ep-VUSs6CTp78Q.md#t-00-27-45) [○] (Prediction) ["Dillon said Trump was losing political power and that in a few weeks his adminis..."](/statements/statement-01284aaf9ea2.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Democratic Party](/entities/org-democratic-party.md), [United States Congress](/entities/org-united-states-congress.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (2)</summary>

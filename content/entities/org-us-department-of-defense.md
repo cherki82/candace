@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 113 mentions"
+description: "United States Department of Defense (Organizations) - 115 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,9 +28,9 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37">2026-10-13 · 00:36:46</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>113</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-33-25">2026-10-19 · 00:33:33</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>115</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>69</strong></div>
 <div><span>Relationships</span><strong>30</strong></div>
@@ -85,6 +85,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-20-46" style="--pulse-height:15%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41" style="--pulse-height:69%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 9 mentions" title="2026-10-06 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-15-45" style="--pulse-height:15%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +135,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-us-department-of-defense-t-00-20-46) | 2 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41) | 9 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-15-45) | 2 |
 
 </details>
 </section>
@@ -145,7 +147,18 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
+
+**[00:16:18](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-15-45)**
+> "...ouse and the military and the DOD all seemed to be involved in wanting to promote t..."
+
+**[00:33:33](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-33-25)**
+> "... than emotional asset for the Department of War?"
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>

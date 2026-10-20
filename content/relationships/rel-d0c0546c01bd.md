@@ -11,7 +11,7 @@ object: "org-pure-talk"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (21 mentions)
+### Evidence (22 mentions)
 
 **[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
 
@@ -60,6 +60,10 @@ object: "org-pure-talk"
 **[Finally! Tucker Calls Out “Rot” At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389](/episodes/ep-NNiCZk1cuzs)**
 
 - [00:32:52](/episodes/ep-NNiCZk1cuzs#t-00-32-52): _I also have to remind you guys about Pure Talk because I've been telling you for a very long time that it is the best wireless company out there. ... I say that because I actually use Pure Talk. I make calls, send texts, watch videos, and use their unlimited data so that I can tell you firsthand that the coverage is phenomenal._
+
+**[UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q)**
+
+- [00:23:54](/episodes/ep-VUSs6CTp78Q#t-00-23-54): _And you know, I have to tell you guys about Pure Talk because I personally use them and I absolutely love them. Right now they are bringing back. ... back their best promotion in company history, the unlimited data for life. That's unlimited talk, text, and data plus a 30 gig hotspot for just $29.95 a month for life. ... This deal was locked in the vault since last year and it was only available for a few weeks. Now for a very limited time it is back. This is their top tier unlimited plan that was $65 a month. ... Now you'll be saving over 50% every single month for life. Plus, you get it on Pure Talk's crazy fast nationwide 5G network. To make the switch today, head to puretalk.com slash Owens. You'll get Pure Talk's best unlimited plan for just $29.95 a month for life. ... But hurry, because the offer is extremely short-lived and it may never come back. That's puretalk.com slash Owens and switch to my wireless company, Pure Talk._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

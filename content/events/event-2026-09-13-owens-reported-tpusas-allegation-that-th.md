@@ -16,7 +16,7 @@ date: "2026-09-13"
 
 > Owens reported TPUSA’s allegation that the Charlie Kirk statue at its Arizona headquarters was vandalized with red paint early on September 13; the perpetrator’s identity and political affiliation were unestablished.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 3...
 
@@ -36,3 +36,14 @@ date: "2026-09-13"
 
 > **Date stated in this source:** “back in September; over the weekend at 1 a.m.; last month”
 > **Date review note:** The source does not supply a calendar day; retain September 13 from the earlier source, and preserve unestablished perpetrator identity and affiliation.
+
+### 3. UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zachari...
+
+**Episode:** [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md)
+**Timestamp:** [00:01:13](/episodes/ep-VUSs6CTp78Q.md#event-event-2026-09-13-owens-reported-tpusas-allegation-that-th-t-00-00-45) 
+<a href="https://www.youtube.com/watch?v=VUSs6CTp78Q&t=73s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Get excited regarding the vandalized statue of Charlie Kirk.
+
+> **Date stated in this source:** “over a month since the incident took place (332.104s)”
+> **Date review note:** The source refers to the same statue vandalism; it supplies no new exact day. Retain the September 13 date established by the canonical event, and do not treat the sarcastic accusations about perpetrators as verified.

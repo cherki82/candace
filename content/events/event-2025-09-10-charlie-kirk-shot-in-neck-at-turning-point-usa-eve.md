@@ -18,7 +18,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (167 times)
+## Mentioned In (168 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -1370,3 +1370,14 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=V-phmW9f0pM&t=661s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Val Peterson was not at the university when Charlie Kirk was assassinated.
+
+### 168. UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zachari...
+
+**Episode:** [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md)
+**Timestamp:** [00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35) 
+<a href="https://www.youtube.com/watch?v=VUSs6CTp78Q&t=155s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> on the one year anniversary of Charlie's death.
+
+> **Date stated in this source:** “one year anniversary of Charlie (Charlie Kirk)'s death”
+> **Date review note:** Source refers retrospectively to the canonical September 10, 2025 killing, while dating the statue installation to its first anniversary in 2026.

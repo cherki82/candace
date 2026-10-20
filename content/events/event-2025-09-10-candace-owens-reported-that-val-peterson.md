@@ -1,6 +1,6 @@
 ---
 title: "2025-09-10: Candace Owens reported that Val Peterson was alleg..."
-description: "2025-09-10 - Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox accompanied him was explicitly unverified."
+description: "2025-09-10 - Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; sources also alleged Spencer Cox accompanied or met him that day. Cox's presence and the alleged meeting remained independently unconfirmed, with Owens seeking confirmation from his office."
 event_id: "event-2025-09-10-candace-owens-reported-that-val-peterson"
 date: "2025-09-10"
 ---
@@ -14,9 +14,9 @@ date: "2025-09-10"
 
 ## Event
 
-> Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; the separate claim that Spencer Cox accompanied him was explicitly unverified.
+> Candace Owens reported that Val Peterson was allegedly golfing in Heber, Utah, when Charlie Kirk was shot; sources also alleged Spencer Cox accompanied or met him that day. Cox's presence and the alleged meeting remained independently unconfirmed, with Owens seeking confirmation from his office.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death...
 
@@ -41,3 +41,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=6jOEN9rBePU&t=289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We were also told that he was with Governor Cox.
+
+### 4. UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zachari...
+
+**Episode:** [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md)
+**Timestamp:** [00:21:09](/episodes/ep-VUSs6CTp78Q.md#t-00-21-09) 
+<a href="https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1269s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> if he met up with Governor Cox on September 10th

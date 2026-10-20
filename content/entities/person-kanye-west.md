@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 240 mentions"
+description: "Kanye West (People) - 241 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-kanye-west-t-00-51-27">2026-09-22 · 00:51:42</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>240</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-kanye-west-t-00-41-21">2026-10-19 · 00:41:21</a></strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>241</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>45</strong></div>
 <div><span>Relationships</span><strong>41</strong></div>
@@ -85,6 +85,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-11-48" style="--pulse-height:32%" aria-label="One Year On… To My Friend Charlie Kirk.: 12 mentions" title="2026-09-10 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-41-55" style="--pulse-height:14%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 5 mentions" title="2026-09-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-kanye-west-t-00-51-27" style="--pulse-height:8%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-kanye-west-t-00-41-21" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -138,6 +139,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-11-48) | 12 |
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-kanye-west-t-00-41-55) | 5 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-kanye-west-t-00-51-27) | 1 |
+| 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-kanye-west-t-00-41-21) | 1 |
 
 </details>
 </section>
@@ -149,7 +151,15 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (240)</strong></summary>
+<summary><strong class="section-title">Raw mentions (241)</strong></summary>
+
+<details>
+<summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
+
+**[00:41:21](/episodes/ep-VUSs6CTp78Q.md#ent-person-kanye-west-t-00-41-21)**
+> "And that is from a Ye (Kanye West) song. I can't think of a title. I have this weir..."
+
+</details>
 
 <details>
 <summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (1 mentions)</summary>

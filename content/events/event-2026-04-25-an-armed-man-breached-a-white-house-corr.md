@@ -20,7 +20,7 @@ date: "2026-04-25"
 
 > An armed man breached a White House Correspondents' Dinner security checkpoint and Secret Service agents opened fire.
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
 
@@ -77,3 +77,14 @@ date: "2026-04-25"
 <a href="https://www.youtube.com/watch?v=tXoI0TTKVrs&t=502s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the cameras, of course, after the Secret Service fired at one another.
+
+### 8. UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zachari...
+
+**Episode:** [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md)
+**Timestamp:** [00:15:45](/episodes/ep-VUSs6CTp78Q.md#t-00-15-45) 
+<a href="https://www.youtube.com/watch?v=VUSs6CTp78Q&t=945s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> the AL White House Correspondents Dinner shooting where Erika cried
+
+> **Date stated in this source:** “White House Correspondents Dinner shooting”
+> **Date review note:** Retrospective reference to the same canonical April 25, 2026 dinner shooting. The undated Discord incentive request is not assigned the shooting date.
