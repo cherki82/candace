@@ -12,7 +12,7 @@ date: "2024-03-19"
 
 > Candace Owens fired from The Daily Wire
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
 
@@ -67,3 +67,14 @@ date: "2024-03-19"
 
 > **Date stated in this source:** “2024”
 > **Date review note:** This source states only a 2024 departure; the canonical exact date is supported by other transcript mentions.
+
+### 7. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:33:42](/episodes/ep-ihLQRXxIfjU.md#event-event-2024-03-19-candace-owens-fired-from-the-daily-wire-t-00-33-42) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=2022s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> But it's so stunning to me that he fired me and is now trying to gaslight people
+
+> **Date stated in this source:** “he fired me; years later”
+> **Date review note:** This source does not state an exact firing date. Retain the existing internal-firing event supported by an explicit March 19 statement in another source; the separate March 22 public separation record is not silently merged or redated. Reasons for firing are Owens’s account, not independently adjudicated here.

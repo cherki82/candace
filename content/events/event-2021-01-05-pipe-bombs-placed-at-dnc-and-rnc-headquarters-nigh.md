@@ -16,7 +16,7 @@ date: "2021-01-05"
 
 > Pipe bombs placed at DNC and RNC headquarters night before January 6
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
@@ -52,3 +52,14 @@ date: "2021-01-05"
 <a href="https://www.youtube.com/watch?v=q4m-kGzvwjw&t=58s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > taking responsibility for dropping off the pipe bombs on January 5th, the night before January 6th.
+
+### 5. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:01:16](/episodes/ep-ihLQRXxIfjU.md#event-event-2021-01-05-pipe-bombs-placed-at-dnc-and-rnc-headquarters-nigh-t-00-00-39) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=76s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> January 5th, the evening... of January 6th that somebody dropped off pipe bombs.
+
+> **Date stated in this source:** “January 5th; January 6th; isolated February 6th at 188.308s”
+> **Date review note:** Retain canonical January 5, 2021 placement date, also explicitly repeated at 364.576s and anchored to January 2021 by the embedded clip at 568.948s. The January 6/February 6 wording is inconsistent source wording, not a separate placement event or proof of federal responsibility.

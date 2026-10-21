@@ -1,6 +1,6 @@
 ---
 title: "Autism spectrum disorder"
-description: "Autism spectrum disorder (Concepts) - 9 mentions"
+description: "Autism spectrum disorder (Concepts) - 15 mentions"
 id: "concept-autism-spectrum-disorder"
 type: "CONCEPT"
 aliases:
@@ -23,13 +23,13 @@ Source: [Autism Spectrum Disorder | NIMH](https://www.nimh.nih.gov/health/public
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-autism-spectrum-disorder-t-00-00-35">2026-10-01 · 00:00:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-autism-spectrum-disorder-t-00-52-40">2026-10-05 · 00:53:14</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-11-26">2026-10-20 · 00:11:43</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -38,6 +38,7 @@ Source: [Autism Spectrum Disorder | NIMH](https://www.nimh.nih.gov/health/public
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-autism-spectrum-disorder-t-00-00-35" style="--pulse-height:100%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-concept-autism-spectrum-disorder-t-00-52-03" style="--pulse-height:50%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-00-39" style="--pulse-height:100%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 6 mentions" title="2026-10-20 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,14 +46,42 @@ Source: [Autism Spectrum Disorder | NIMH](https://www.nimh.nih.gov/health/public
 |---|---|---:|
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-autism-spectrum-disorder-t-00-00-35) | 6 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-concept-autism-spectrum-disorder-t-00-52-03) | 3 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-00-39) | 6 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (6 mentions)</summary>
+
+**[00:01:04](/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-00-39)**
+> "...the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan..."
+
+**[00:01:24](/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-01-24)**
+> "...en be intentionally targeting autistic teenagers and adults to blame for their own crime..."
+
+**[00:02:23](/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-02-23)**
+> "...lse fails, blame someone with autism."
+
+**[00:03:35](/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-03-08)**
+> "...it was this 30-year-old black autistic man who's never been in trouble, but decided as h..."
+
+**[00:07:06](/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-06-32)**
+> "...is likely as a symptom of his autism because we know that a lot of people who are auti..."
+
+**[00:11:43](/episodes/ep-ihLQRXxIfjU.md#ent-concept-autism-spectrum-disorder-t-00-11-26)**
+> "... fault. We actually have this autistic young man that we can stick this on."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (3 mentions)</summary>
@@ -101,7 +130,17 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Autism spectrum disorder (1)</strong></summary>
+<summary><strong class="section-title">Statements about Autism spectrum disorder (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:01:24](/episodes/ep-ihLQRXxIfjU.md#t-00-01-24) (Accusation) **Candace Owens**: ["Owens said it appears the feds might not be telling the whole truth an..."](/statements/statement-2ef8c81319fc.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:48:51](/episodes/ep-ihLQRXxIfjU.md#t-00-48-51) (Claim) **Earl's daughter (viewer handle; identity unverified)** (via quoted post): ["The viewer using the handle Earl’s daughter reported a mother’s accoun..."](/statements/statement-255dbf6e1517.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 1171 mentions"
+description: "Tyler Robinson (People) - 1181 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-41-21">2026-10-19 · 00:41:21</a></strong></div>
-<div><span>Episodes</span><strong>124</strong></div>
-<div><span>Mentions</span><strong>1,171</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-47-22">2026-10-20 · 00:47:22</a></strong></div>
+<div><span>Episodes</span><strong>125</strong></div>
+<div><span>Mentions</span><strong>1,181</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>556</strong></div>
+<div><span>Statements about</span><strong>559</strong></div>
 <div><span>Relationships</span><strong>33</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -160,6 +160,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-robinson-t-00-03-26" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 2 mentions" title="2026-10-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-robinson-t-00-37-48" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-38-28" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-01-24" style="--pulse-height:10%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 10 mentions" title="2026-10-20 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -289,6 +290,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-tyler-robinson-t-00-03-26) | 2 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-robinson-t-00-37-48) | 1 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-robinson-t-00-38-28) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-01-24) | 10 |
 
 </details>
 </section>
@@ -300,7 +302,42 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1171)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1181)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (10 mentions)</summary>
+
+**[00:01:51](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-01-24)**
+> "And what do Tyler Robinson and Brian Cole Jr. have in common? Well, footage ..."
+
+**[00:02:42](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-02-23)**
+> "... coincidence in the matter of Tyler Robinson, also in the matter of Brian J."
+
+**[00:12:14](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-12-07)**
+> "...is still in prison, much like Tyler Robinson, who I..."
+
+**[00:12:40](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-12-07)**
+> "Tyler Robinson is not known to be an athlete, unflinchingly jump..."
+
+**[00:12:59](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-12-51)**
+> "...g questioned by Kathy Nester, Tyler Robinson's lawyer, and she wanted to know if he had checked ..."
+
+**[00:19:21](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-19-21)**
+> "...e know that the quote unquote Tyler Robinson shooter hopped over and ducked down for a bit and..."
+
+**[00:25:39](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-25-26)**
+> "... the only thing that has tied Tyler Robinson to the rooftop. And I'm thinking that Slenderman ..."
+
+**[00:27:28](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-27-04)**
+> "Probably because Tyler Robinson didn't shoot Charlie (Charlie Kirk) from the Lose..."
+
+**[00:44:39](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-44-05)**
+> "... converses, then we know it's Tyler Robinson."
+
+**[00:47:22](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-robinson-t-00-47-22)**
+> "...uth, but yeah, kill him, kill Tyler Robinson. At least we know what's true."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
@@ -4529,7 +4566,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Defended By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime.”
@@ -4538,6 +4575,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:00](/episodes/ep-6XfDqKTdFKg.md#t-00-15-32): “My opinion, though I can say on the basis of the shifting narratives, is this. I have always maintained that I believe Tyler Robinson was involved with something on that day, that he played a role, that he was around campus. I do not believe he had anything to do with the actual killing of Charlie Kirk. But I recommend he could be guilty of tampering with evidence.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:27:28](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04): “Probably because Tyler Robinson didn't shoot Charlie (Charlie Kirk) from the Losee rooftop. ... Again, that's my opinion.”
 
 </details>
 
@@ -4617,11 +4655,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Kathryn Nester](/entities/person-kathryn-nester.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51): “First, I want to jog your memory to a rather unbelievable moment of the preliminary hearing. Meaning, I literally didn't believe it. It was when Officer Bagley (Officer Bagley; UVU witness, given name unverified) was being questioned by Kathy Nester, Tyler Robinson's lawyer, and she wanted to know if he had checked the cameras at UVU to see if anyone had been on the Losee rooftop after the alleged shot and before Officer Bagley (Officer Bagley; UVU witness, given name unverified) went up there.”
 
 </details>
 
@@ -4681,7 +4720,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** defended this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime.”
@@ -4690,6 +4729,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:00](/episodes/ep-6XfDqKTdFKg.md#t-00-15-32): “My opinion, though I can say on the basis of the shifting narratives, is this. I have always maintained that I believe Tyler Robinson was involved with something on that day, that he played a role, that he was around campus. I do not believe he had anything to do with the actual killing of Charlie Kirk. But I recommend he could be guilty of tampering with evidence.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:27:28](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04): “Probably because Tyler Robinson didn't shoot Charlie (Charlie Kirk) from the Losee rooftop. ... Again, that's my opinion.”
 
 </details>
 
@@ -4762,11 +4802,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Kathryn Nester](/entities/person-kathryn-nester.md)** represented this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51): “First, I want to jog your memory to a rather unbelievable moment of the preliminary hearing. Meaning, I literally didn't believe it. It was when Officer Bagley (Officer Bagley; UVU witness, given name unverified) was being questioned by Kathy Nester, Tyler Robinson's lawyer, and she wanted to know if he had checked the cameras at UVU to see if anyone had been on the Losee rooftop after the alleged shot and before Officer Bagley (Officer Bagley; UVU witness, given name unverified) went up there.”
 
 </details>
 
@@ -4883,7 +4924,21 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (556)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (559)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3)</summary>
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) (Opinion) **Candace Owens**: ["Owens said she does not believe Tyler Robinson was ever on the Losee r..."](/statements/statement-882543eb9dfe.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:25:26](/episodes/ep-ihLQRXxIfjU.md#t-00-25-26) (Accusation) **Candace Owens**: ["Owens speculated that the missing minute might show a screwdriver bein..."](/statements/statement-aa75be3ef35b.md)
+  - Also about: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:46:55](/episodes/ep-ihLQRXxIfjU.md#t-00-46-35) (Accusation) **Candace Owens**: ["Owens alleged the state executed Charlie Kirk and warned that another ..."](/statements/statement-97d67a9390d0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>

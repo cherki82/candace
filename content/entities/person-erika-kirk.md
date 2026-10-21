@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3477 mentions"
+description: "Erika Kirk (People) - 3478 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,11 +27,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-37-57">2026-10-19 · 00:37:57</a></strong></div>
-<div><span>Episodes</span><strong>169</strong></div>
-<div><span>Mentions</span><strong>3,477</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-erika-kirk-t-00-46-35">2026-10-20 · 00:46:35</a></strong></div>
+<div><span>Episodes</span><strong>170</strong></div>
+<div><span>Mentions</span><strong>3,478</strong></div>
 <div><span>Statements by</span><strong>133</strong></div>
-<div><span>Statements about</span><strong>1,213</strong></div>
+<div><span>Statements about</span><strong>1,214</strong></div>
 <div><span>Relationships</span><strong>388</strong></div>
 <div><span>Threads</span><strong>5</strong></div>
 </div>
@@ -209,6 +209,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 4 mentions" title="2026-10-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-02-53" style="--pulse-height:9%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 8 mentions" title="2026-10-15 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-54" style="--pulse-height:36%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 31 mentions" title="2026-10-19 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-erika-kirk-t-00-46-35" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -383,6 +384,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-erika-kirk-t-00-02-55) | 4 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-erika-kirk-t-00-02-53) | 8 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-erika-kirk-t-00-11-54) | 31 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-erika-kirk-t-00-46-35) | 1 |
 
 </details>
 </section>
@@ -398,7 +400,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3477)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3478)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:46:35](/episodes/ep-ihLQRXxIfjU.md#ent-person-erika-kirk-t-00-46-35)**
+> "...arms failed to conceal Erika (Erika Kirk)'s lies and betrayals. You literally have nothing..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (31 mentions)</summary>
@@ -16189,7 +16199,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (1213)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (1214)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58) (Accusation) **Ali (ihLQRXxIfjU commenter; identity unverified)** (via quoted post): ["Ali, a viewer whose identity is unverified, alleged that Owens exposed..."](/statements/statement-9a15ba119bf2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (14)</summary>

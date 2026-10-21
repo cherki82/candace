@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 188 mentions"
+description: "Baron Coleman (People) - 190 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-43-08">2026-10-19 · 00:43:08</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>188</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-baron-coleman-t-00-51-49">2026-10-20 · 00:51:49</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>190</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -95,6 +95,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37" style="--pulse-height:19%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 3 mentions" title="2026-10-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-41-48" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-11-27" style="--pulse-height:25%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 4 mentions" title="2026-10-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-baron-coleman-t-00-33-42" style="--pulse-height:12%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -160,6 +161,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-baron-coleman-t-00-19-37) | 3 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-baron-coleman-t-00-41-48) | 2 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-baron-coleman-t-00-11-27) | 4 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-baron-coleman-t-00-33-42) | 2 |
 
 </details>
 </section>
@@ -171,7 +173,18 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (188)</strong></summary>
+<summary><strong class="section-title">Raw mentions (190)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:34:12](/episodes/ep-ihLQRXxIfjU.md#ent-person-baron-coleman-t-00-33-42)**
+> "...andace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's arou..."
+
+**[00:51:49](/episodes/ep-ihLQRXxIfjU.md#ent-person-baron-coleman-t-00-51-49)**
+> "Baron (Baron Coleman) is very much lying about that and he can't even ..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4 mentions)</summary>
@@ -1114,6 +1127,18 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
+<summary>Supported By (1)</summary>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supporter Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -1126,7 +1151,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1179,6 +1204,13 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
+
+</details>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic.”
 
 </details>
 
@@ -1371,7 +1403,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baron Coleman (18)</strong></summary>
+<summary><strong class="section-title">Statements about Baron Coleman (19)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) (Opinion) **Kelly Fuller (commenter; identity unverified)** (via quoted tweet): ["Kelly Fuller, a commenter whose legal identity is unverified, wrote th..."](/statements/statement-5f3e1a266e7c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Ian Carroll](/entities/person-ian-carroll.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>

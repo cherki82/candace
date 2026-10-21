@@ -1,6 +1,6 @@
 ---
 title: "Hillary Clinton"
-description: "Hillary Clinton (People) - 33 mentions"
+description: "Hillary Clinton (People) - 34 mentions"
 id: "person-hillary-clinton"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-27-05">2025-12-08 · 00:27:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16">2026-05-21 · 01:07:27</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-hillary-clinton-t-00-41-26">2026-10-20 · 00:41:26</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -50,6 +50,7 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52" style="--pulse-height:33%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-hillary-clinton-t-00-35-14" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 6 mentions" title="2026-04-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16" style="--pulse-height:17%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-hillary-clinton-t-00-41-26" style="--pulse-height:17%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52) | 2 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-hillary-clinton-t-00-35-14) | 6 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-hillary-clinton-t-00-41-26) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:41:26](/episodes/ep-ihLQRXxIfjU.md#ent-person-hillary-clinton-t-00-41-26)**
+> "...his is why we didn't vote for Hillary Clinton. Seeing what Trump (Donald Trump) 2.0 has become,..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>

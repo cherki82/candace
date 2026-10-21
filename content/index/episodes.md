@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 185_
+_Total episodes: 186_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -25,6 +25,7 @@ _Total episodes: 185_
 
 ## Week of Oct 19 - 25, 2026
 
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md) — Tue, Oct 20
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md) — Mon, Oct 19
 
 ## Week of Oct 12 - 18, 2026

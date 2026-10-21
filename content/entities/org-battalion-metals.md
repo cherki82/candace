@@ -1,6 +1,6 @@
 ---
 title: "Battalion Metals"
-description: "Battalion Metals (Organizations) - 10 mentions"
+description: "Battalion Metals (Organizations) - 11 mentions"
 id: "org-battalion-metals"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-battalion-metals-t-00-34-46">2026-06-09 · 00:35:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-org-battalion-metals-t-00-38-29">2026-10-14 · 00:38:37</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-battalion-metals-t-00-42-49">2026-10-20 · 00:43:04</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 <a href="/episodes/ep-_2DiIbfy4mU.md#ent-org-battalion-metals-t-00-21-25" style="--pulse-height:100%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 2 mentions" title="2026-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-org-battalion-metals-t-00-55-12" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-battalion-metals-t-00-38-29" style="--pulse-height:50%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-battalion-metals-t-00-42-49" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-org-battalion-metals-t-00-21-25) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-org-battalion-metals-t-00-55-12) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-battalion-metals-t-00-38-29) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-battalion-metals-t-00-42-49) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:43:04](/episodes/ep-ihLQRXxIfjU.md#ent-org-battalion-metals-t-00-42-49)**
+> "...end Tucker Carlson's company, Battalion Metals, because they make it so simple."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -181,10 +191,11 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 <summary>Owned By (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49): “So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple.”
 
 </details>
 
@@ -239,10 +250,11 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** owns this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49): “So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple.”
 
 </details>
 
@@ -255,9 +267,10 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49): “So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple.”
 
 </details>
 
@@ -266,7 +279,20 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Battalion Metals (2)</strong></summary>
+<summary><strong class="section-title">Statements about Battalion Metals (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3)</summary>
+
+- [00:42:49](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) (Claim) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens claimed gold had performed b..."](/statements/statement-f45601b96eee.md)
+  - Also about: [S&P 500](/entities/concept-sp-500.md)
+
+- [00:42:56](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) (Prediction) **Candace Owens** (via paraphrase): ["In a Battalion Metals sponsor read, Owens said gold had dipped from re..."](/statements/statement-275488bc4238.md)
+
+- [00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) (Claim) **Candace Owens**: ["Owens described Battalion Metals as her friend Tucker Carlson’s compan..."](/statements/statement-b1d70f663fe6.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 <details>
 <summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (2)</summary>

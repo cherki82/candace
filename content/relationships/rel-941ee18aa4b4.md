@@ -11,7 +11,7 @@ object: "person-jeremy-boreing"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Jeremy Boreing](/entities/person-jeremy-boreing)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
 
@@ -24,6 +24,10 @@ object: "person-jeremy-boreing"
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [00:40:11](/episodes/ep-QdM9jLwjwLw#t-00-40-11): _Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:34:34](/episodes/ep-ihLQRXxIfjU#t-00-34-34): _Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth._
 
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 

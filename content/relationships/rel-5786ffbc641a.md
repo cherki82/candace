@@ -11,7 +11,7 @@ object: "person-kathryn-nester"
 
 ## [Tyler Robinson](/entities/person-tyler-robinson) represented by [Kathryn Nester](/entities/person-kathryn-nester)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
 
@@ -20,6 +20,10 @@ object: "person-kathryn-nester"
 **[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
 
 - [01:09:38](/episodes/ep-aPOyk1i2LOc#t-01-09-38): _yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if_
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:12:59](/episodes/ep-ihLQRXxIfjU#t-00-12-59): _First, I want to jog your memory to a rather unbelievable moment of the preliminary hearing. Meaning, I literally didn't believe it. It was when Officer Bagley (Officer Bagley; UVU witness, given name unverified) was being questioned by Kathy Nester, Tyler Robinson's lawyer, and she wanted to know if he had checked the cameras at UVU to see if anyone had been on the Losee rooftop after the alleged shot and before Officer Bagley (Officer Bagley; UVU witness, given name unverified) went up there._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

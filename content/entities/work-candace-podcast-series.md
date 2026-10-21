@@ -1,6 +1,6 @@
 ---
 title: "Candace (podcast)"
-description: "Candace (podcast) (Works & Media) - 21 mentions"
+description: "Candace (podcast) (Works & Media) - 22 mentions"
 id: "work-candace-podcast-series"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-work-candace-podcast-series-t-00-09-02">2026-03-25 · 00:09:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#t-00-02-18">2026-10-13 · 00:02:18</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#t-00-01-24">2026-10-20 · 00:02:06</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -52,6 +52,7 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 <a href="/episodes/ep-bIuvTKlFeGo.md#t-00-02-37" style="--pulse-height:25%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#t-00-00-45" style="--pulse-height:25%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#t-00-02-18" style="--pulse-height:25%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#t-00-01-24" style="--pulse-height:25%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#t-00-02-37) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#t-00-00-45) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-02-18) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#t-00-01-24) | 1 |
 
 </details>
 </section>
@@ -81,7 +83,15 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:02:06](/episodes/ep-ihLQRXxIfjU.md#t-00-01-24)**
+> "Welcome back to Candace."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>

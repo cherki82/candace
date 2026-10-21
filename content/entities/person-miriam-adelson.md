@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 29 mentions"
+description: "Miriam Adelson (People) - 30 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:07:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-miriam-adelson-t-00-46-58">2026-10-06 · 00:47:13</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-miriam-adelson-t-00-39-37">2026-10-20 · 00:39:43</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -47,6 +47,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07" style="--pulse-height:67%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-miriam-adelson-t-00-46-58" style="--pulse-height:33%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-miriam-adelson-t-00-39-37" style="--pulse-height:33%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07) | 2 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-miriam-adelson-t-00-46-58) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-miriam-adelson-t-00-39-37) | 1 |
 
 </details>
 </section>
@@ -78,7 +80,15 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:39:43](/episodes/ep-ihLQRXxIfjU.md#ent-person-miriam-adelson-t-00-39-37)**
+> "...se is doing it. Everyone like Miriam Adelson outright purchased the White House and now all of..."
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (1 mentions)</summary>
@@ -245,6 +255,18 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37): “And I do believe that she was doing it because everyone else is doing it. Everyone like Miriam Adelson outright purchased the White House and now all of a sudden it's like, you know, Kim (Kimberly Guilfoyle) bad.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Member Of (1)</summary>
 
 - **[Israel Defense Forces](/entities/org-israel-defense-forces.md)**
@@ -318,7 +340,14 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37): “And I do believe that she was doing it because everyone else is doing it. Everyone like Miriam Adelson outright purchased the White House and now all of a sudden it's like, you know, Kim (Kimberly Guilfoyle) bad.”
+
+</details>
 
 - **[Sheldon Adelson](/entities/person-sheldon-adelson.md)** deceased husband of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -386,7 +415,15 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miriam Adelson (16)</strong></summary>
+<summary><strong class="section-title">Statements about Miriam Adelson (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37) (Accusation) **Candace Owens**: ["Owens alleged Miriam Adelson had outright purchased the White House."](/statements/statement-3837007a7e19.md)
+  - Also about: [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (2)</summary>

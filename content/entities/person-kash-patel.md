@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 280 mentions"
+description: "Kash Patel (People) - 285 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:08:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40">2026-10-15 · 00:06:48</a></strong></div>
-<div><span>Episodes</span><strong>87</strong></div>
-<div><span>Mentions</span><strong>280</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-12-07">2026-10-20 · 00:12:14</a></strong></div>
+<div><span>Episodes</span><strong>88</strong></div>
+<div><span>Mentions</span><strong>285</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>77</strong></div>
+<div><span>Statements about</span><strong>79</strong></div>
 <div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -124,6 +124,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-kash-patel-t-00-53-24" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-27-07" style="--pulse-height:31%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 4 mentions" title="2026-10-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40" style="--pulse-height:15%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-00-39" style="--pulse-height:38%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 5 mentions" title="2026-10-20 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -216,6 +217,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-kash-patel-t-00-53-24) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-kash-patel-t-00-27-07) | 4 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-kash-patel-t-00-06-40) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-00-39) | 5 |
 
 </details>
 </section>
@@ -227,7 +229,27 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (280)</strong></summary>
+<summary><strong class="section-title">Raw mentions (285)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (5 mentions)</summary>
+
+**[00:01:04](/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-00-39)**
+> "...oung man that it would appear Kash Patel and Dan Bongino decided to just blame for the pip..."
+
+**[00:03:08](/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-03-08)**
+> "...responsible for February 6th, Kash Patel and the gang swooped in."
+
+**[00:08:54](/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-08-54)**
+> "... There you go, Director Kash (Kash Patel)."
+
+**[00:11:38](/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-11-26)**
+> "And of course, like I said, Kash Patel and the gang got around and they said, never mind..."
+
+**[00:12:14](/episodes/ep-ihLQRXxIfjU.md#ent-person-kash-patel-t-00-12-07)**
+> "No comment yet from Kash Patel. Dan Bongino has gone on a blocking spree online,..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (2 mentions)</summary>
@@ -1556,7 +1578,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
@@ -1568,6 +1590,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:32](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “I am everyone right now when I say that Kash Patel is the most embarrassing human in the United States.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:39:04](/episodes/ep-pc3pxRyNFZk.md#t-00-38-59): “We're not gonna get those answers from Kash Patel about that plane. We're not even getting straight answers about the other plane.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:51:47](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47): “because Kash Patel is just not interested and it is a struggle for me to believe that they didn't know about this French angle”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -1765,7 +1788,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
@@ -1777,6 +1800,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:32](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “I am everyone right now when I say that Kash Patel is the most embarrassing human in the United States.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:39:04](/episodes/ep-pc3pxRyNFZk.md#t-00-38-59): “We're not gonna get those answers from Kash Patel about that plane. We're not even getting straight answers about the other plane.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:51:47](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47): “because Kash Patel is just not interested and it is a struggle for me to believe that they didn't know about this French angle”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -1986,7 +2010,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (77)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (79)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39) (Accusation) **Candace Owens**: ["Owens said it would appear Kash Patel and Dan Bongino decided to blame..."](/statements/statement-fb07af2145a6.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) (Claim) **Candace Owens**: ["Owens said Kash Patel had made no comment yet, Dan Bongino had gone on..."](/statements/statement-6bb833a84217.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</details>
 
 <details>
 <summary>CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. (3)</summary>

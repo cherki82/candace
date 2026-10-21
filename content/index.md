@@ -8,7 +8,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/threads">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
 </div>
 
-<p class="kg-freshness"><strong>185 sources</strong> · processed through <time datetime="2026-10-19">2026-10-19</time> · generated <time datetime="2026-10-20">2026-10-20</time></p>
+<p class="kg-freshness"><strong>186 sources</strong> · processed through <time datetime="2026-10-20">2026-10-20</time> · generated <time datetime="2026-10-21">2026-10-21</time></p>
 
 <section class="kg-thread-observatory" aria-labelledby="theory-watch-title">
 <header>
@@ -18,14 +18,25 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-thread-grid">
 <article class="kg-thread-card featured">
 <div class="thread-card-meta">
-<span>181 sources</span>
-<span>3905 reviewed turns</span>
-<time datetime="2026-10-19">2026-10-19</time>
+<span>182 sources</span>
+<span>3914 reviewed turns</span>
+<time datetime="2026-10-20">2026-10-20</time>
 </div>
 <h3><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h3>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>467</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,456</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>471</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,466</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open thread <span aria-hidden="true">→</span></a>
+</article>
+<article class="kg-thread-card">
+<div class="thread-card-meta">
+<span>1 source</span>
+<span>4 reviewed turns</span>
+<time datetime="2026-10-20">2026-10-20</time>
+</div>
+<h3><a href="/threads/thread-owens-daily-wire-firing-reason-dispute">How the Owens Daily Wire firing-reason dispute developed</a></h3>
+<p>Tracks the firing explanation, quoted rebuttal, document excerpts and disclosure position presented on channel, without establishing the actual grounds for termination or document authenticity.</p>
+<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>3</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-owens-daily-wire-firing-reason-dispute">Open thread <span aria-hidden="true">→</span></a>
 </article>
 <article class="kg-thread-card">
 <div class="thread-card-meta">
@@ -38,17 +49,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="thread-index-preview"><span><strong>8</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>21</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-nampa-club-america-attendance-dispute">Open thread <span aria-hidden="true">→</span></a>
 </article>
-<article class="kg-thread-card">
-<div class="thread-card-meta">
-<span>2 sources</span>
-<span>3 reviewed turns</span>
-<time datetime="2026-10-19">2026-10-19</time>
-</div>
-<h3><a href="/threads/thread-hasan-execution-livestream-debate">How the Hasan execution-livestream debate changed</a></h3>
-<p>Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.</p>
-<div class="thread-index-preview"><span><strong>2</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>2</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-hasan-execution-livestream-debate">Open thread <span aria-hidden="true">→</span></a>
-</article>
 </div>
 </section>
 
@@ -56,23 +56,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-coverage-heading">
 <span class="research-kicker">Publication audit</span>
 <h2 id="coverage-title">Research coverage</h2>
-<p><strong>185 of 185</strong> published sources have completed every extraction stage.</p>
+<p><strong>186 of 186</strong> published sources have completed every extraction stage.</p>
 </div>
 <div class="kg-coverage-grid">
-<div><span>Transcript cleaned</span><strong>185 / 185</strong></div>
-<div><span>Entities extracted</span><strong>185 / 185</strong></div>
-<div><span>Statements extracted</span><strong>185 / 185</strong></div>
-<div><span>Events extracted</span><strong>185 / 185</strong></div>
-<div><span>Relationships extracted</span><strong>185 / 185</strong></div>
-<div><span>Theory threads reviewed</span><strong>185 / 185</strong></div>
+<div><span>Transcript cleaned</span><strong>186 / 186</strong></div>
+<div><span>Entities extracted</span><strong>186 / 186</strong></div>
+<div><span>Statements extracted</span><strong>186 / 186</strong></div>
+<div><span>Events extracted</span><strong>186 / 186</strong></div>
+<div><span>Relationships extracted</span><strong>186 / 186</strong></div>
+<div><span>Theory threads reviewed</span><strong>186 / 186</strong></div>
 </div>
 <p class="kg-coverage-complete">No published source has a known extraction-stage gap.</p>
 </section>
 
 <div class="kg-stat-grid">
-<div><strong>8,692</strong><span>Claims &amp; statements</span></div>
-<div><strong>5,277</strong><span>Tracked entities</span></div>
-<div><strong>2,124</strong><span>Timeline events</span></div>
+<div><strong>8,754</strong><span>Claims &amp; statements</span></div>
+<div><strong>5,305</strong><span>Tracked entities</span></div>
+<div><strong>2,129</strong><span>Timeline events</span></div>
 <div><strong>3,082</strong><span>Research sources</span></div>
 </div>
 
@@ -81,6 +81,11 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Ordered by source publication date, not editorial priority.</p>
 
 <div class="recent-source-list">
+<article>
+<time datetime="2026-10-20">2026-10-20</time>
+<a href="/episodes/ep-ihLQRXxIfjU">EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…</a>
+<span>Candace Owens</span>
+</article>
 <article>
 <time datetime="2026-10-19">2026-10-19</time>
 <a href="/episodes/ep-VUSs6CTp78Q">UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.</a>
@@ -101,11 +106,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <a href="/episodes/ep-V-phmW9f0pM">America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401</a>
 <span>Candace Owens</span>
 </article>
-<article>
-<time datetime="2026-10-08">2026-10-08</time>
-<a href="/episodes/ep-UAdBEXs7nNc">More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400</a>
-<span>Candace Owens</span>
-</article>
 </div>
 
 ## What changed
@@ -115,10 +115,10 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="attention-grid">
 <a href="/entities/person-val-peterson"><strong>Val L. Peterson</strong><span>44 recent mentions · +44 vs prior window</span></a>
 <a href="/entities/person-tyler-clancy"><strong>Tyler Clancy</strong><span>40 recent mentions · +40 vs prior window</span></a>
-<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>37 recent mentions · +28 vs prior window</span></a>
-<a href="/entities/gpe-utah"><strong>Utah</strong><span>27 recent mentions · +24 vs prior window</span></a>
-<a href="/entities/person-katie-zacharia"><strong>Katie Zacharia</strong><span>21 recent mentions · +21 vs prior window</span></a>
-<a href="/entities/person-donald-trump"><strong>Donald J. Trump</strong><span>38 recent mentions · +19 vs prior window</span></a>
+<a href="/entities/person-katie-zacharia"><strong>Katie Zacharia</strong><span>24 recent mentions · +24 vs prior window</span></a>
+<a href="/entities/person-donald-trump"><strong>Donald J. Trump</strong><span>43 recent mentions · +23 vs prior window</span></a>
+<a href="/entities/gpe-utah"><strong>Utah</strong><span>25 recent mentions · +20 vs prior window</span></a>
+<a href="/entities/person-tyler-bowyer"><strong>Tyler Bowyer</strong><span>20 recent mentions · +19 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes

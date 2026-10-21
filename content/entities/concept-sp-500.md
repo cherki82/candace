@@ -1,6 +1,6 @@
 ---
 title: "S&P 500"
-description: "S&P 500 (Concepts) - 3 mentions"
+description: "S&P 500 (Concepts) - 4 mentions"
 id: "concept-sp-500"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [S&P 500 | S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-sp-500-t-00-47-26">2026-02-13 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-concept-sp-500-t-00-37-45">2026-10-14 · 00:38:22</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-sp-500-t-00-42-49">2026-10-20 · 00:42:49</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [S&P 500 | S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indi
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-sp-500-t-00-47-26" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_2DiIbfy4mU.md#ent-concept-sp-500-t-00-20-47" style="--pulse-height:100%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-concept-sp-500-t-00-37-45" style="--pulse-height:100%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-sp-500-t-00-42-49" style="--pulse-height:100%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [S&P 500 | S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indi
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-sp-500-t-00-47-26) | 1 |
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#ent-concept-sp-500-t-00-20-47) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-concept-sp-500-t-00-37-45) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-sp-500-t-00-42-49) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [S&P 500 | S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:42:49](/episodes/ep-ihLQRXxIfjU.md#ent-concept-sp-500-t-00-42-49)**
+> "...actually done better than the S&P 500."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -89,7 +99,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about S&P 500 (2)</strong></summary>
+<summary><strong class="section-title">Statements about S&P 500 (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:42:49](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) (Claim) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens claimed gold had performed b..."](/statements/statement-f45601b96eee.md)
+  - Also about: [Battalion Metals](/entities/org-battalion-metals.md)
+
+</details>
 
 <details>
 <summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>

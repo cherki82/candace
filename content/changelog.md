@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-10-21 10:00:22
+
+**Added 1 episode(s):**
+  - `ihLQRXxIfjU`: EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…
+**Added 28 new entity/entities**
+**Added 5 new event(s)**
+**Added 62 new statement(s)**
+**Added 51 new relationship(s)**
+
+**Totals:**
+- Episodes: 186
+- Entities: 5305
+- Events: 2129
+- Statements: 8755
+- Relationships: 6121
+
+---
+
 ## 2026-10-20 09:55:39
 
 **Added 1 episode(s):**

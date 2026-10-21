@@ -1,6 +1,6 @@
 ---
 title: "Kabbalah"
-description: "Kabbalah (Concepts) - 10 mentions"
+description: "Kabbalah (Concepts) - 11 mentions"
 id: "concept-kabbalah"
 type: "CONCEPT"
 categories:
@@ -17,9 +17,9 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-kabbalah-t-00-56-38">2025-10-06 · 00:57:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-kabbalah-t-00-32-52">2026-04-02 · 00:32:52</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-kabbalah-t-00-32-39">2026-10-20 · 00:32:39</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-kabbalah-t-00-04-13" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-kabbalah-t-01-01-30" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-kabbalah-t-00-32-52" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-kabbalah-t-00-32-39" style="--pulse-height:25%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-kabbalah-t-00-04-13) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-kabbalah-t-01-01-30) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-kabbalah-t-00-32-52) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-kabbalah-t-00-32-39) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:32:39](/episodes/ep-ihLQRXxIfjU.md#ent-concept-kabbalah-t-00-32-39)**
+> "...lt on truth to understand the Kabbalah tradition of what Sigmund Freud did when he knew ..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 41 mentions"
+description: "Donald Trump Jr. (People) - 42 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-jr-t-00-16-53">2026-08-11 · 00:16:53</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-jr-t-00-38-16">2026-10-20 · 00:38:38</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -52,6 +52,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-jr-t-00-34-10" style="--pulse-height:15%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-jr-t-00-16-53" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-jr-t-00-38-16" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-jr-t-00-34-10) | 2 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-jr-t-00-16-53) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-jr-t-00-38-16) | 1 |
 
 </details>
 </section>
@@ -84,7 +86,15 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:38:38](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-jr-t-00-38-16)**
+> "is after her and Don Jr. (Donald Trump Jr.) broke up, it was understood that she was given a..."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -352,6 +362,18 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
+<summary>Formerly Dated (1)</summary>
+
+- **[Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:38:38](/episodes/ep-ihLQRXxIfjU.md#t-00-38-16): “is after her and Don Jr. (Donald Trump Jr.) broke up, it was understood that she was given an ambassadorship to Greece because Don Jr. (Donald Trump Jr.)”
+
+</details>
+
+</details>
+
+<details>
 <summary>Founded (1)</summary>
 
 - **[Winning Team Publishing](/entities/org-winning-team-publishing.md)**
@@ -415,7 +437,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -449,6 +471,13 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:07:43](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27): “Here are some photos of her on Sunday at Bettina (Bettina Anderson) soon to be Trump's bridal shower. She's engaged to Don Trump Jr.”
+
+</details>
+
+- **[Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)** formerly dated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:38:38](/episodes/ep-ihLQRXxIfjU.md#t-00-38-16): “is after her and Don Jr. (Donald Trump Jr.) broke up, it was understood that she was given an ambassadorship to Greece because Don Jr. (Donald Trump Jr.)”
 
 </details>
 
@@ -508,7 +537,18 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald Trump Jr. (6)</strong></summary>
+<summary><strong class="section-title">Statements about Donald Trump Jr. (8)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:38:23](/episodes/ep-ihLQRXxIfjU.md#t-00-38-16) (Opinion) **Candace Owens**: ["Owens said she feels Kimberly Guilfoyle is being made a patsy and alle..."](/statements/statement-653e56eb56d1.md)
+  - Also about: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Greece](/entities/gpe-greece.md)
+
+- [00:40:24](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) (Accusation) **Candace Owens**: ["Owens accused the Trump brothers of crypto scams while questioning the..."](/statements/statement-48db67224f62.md)
+  - Also about: [Cryptocurrency](/entities/concept-cryptocurrency.md), [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (2)</summary>

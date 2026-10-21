@@ -1,6 +1,6 @@
 ---
 title: "Ashley (Candace Owens producer; surname unverified)"
-description: "Ashley (Candace Owens producer; surname unverified) (People) - 12 mentions"
+description: "Ashley (Candace Owens producer; surname unverified) (People) - 13 mentions"
 id: "person-producer-ashley-unverified"
 type: "PERSON"
 aliases:
@@ -37,9 +37,9 @@ Source: [Candace Ep 389 — off-camera Ashley address](https://www.youtube.com/w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-producer-ashley-unverified-t-00-43-37">2026-04-13 · 00:43:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-producer-ashley-unverified-t-01-06-22">2026-09-25 · 01:06:22</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-producer-ashley-unverified-t-00-45-58">2026-10-20 · 00:45:58</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -61,6 +61,7 @@ Source: [Candace Ep 389 — off-camera Ashley address](https://www.youtube.com/w
 <a href="/episodes/ep-BvthGQw3_s0.md#ent-person-producer-ashley-unverified-t-00-22-14" style="--pulse-height:50%" aria-label="Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.: 1 mentions" title="2026-09-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-producer-ashley-unverified-t-00-05-25" style="--pulse-height:100%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 2 mentions" title="2026-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-producer-ashley-unverified-t-01-06-22" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-producer-ashley-unverified-t-00-45-58" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [Candace Ep 389 — off-camera Ashley address](https://www.youtube.com/w
 | 2026-09-21 | [Exclusive Footage: A Tyler Robinson Challenger Appears! TPUSA CAUGHT Gaslighting Middle-Schoolers.](/episodes/ep-BvthGQw3_s0.md#ent-person-producer-ashley-unverified-t-00-22-14) | 1 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-producer-ashley-unverified-t-00-05-25) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-producer-ashley-unverified-t-01-06-22) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-producer-ashley-unverified-t-00-45-58) | 1 |
 
 </details>
 </section>
@@ -84,7 +86,15 @@ Source: [Candace Ep 389 — off-camera Ashley address](https://www.youtube.com/w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:45:58](/episodes/ep-ihLQRXxIfjU.md#ent-person-producer-ashley-unverified-t-00-45-58)**
+> "...sus Christ) is king. Um, yes, Ashley (show team member; surname unverified), if you guys could just put a note for me to incl..."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (1 mentions)</summary>
@@ -209,11 +219,12 @@ Source: [Candace Ep 389 — off-camera Ashley address](https://www.youtube.com/w
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 @ 00:00:31](/episodes/ep-iB-YtO3UZOg.md#t-00-00-01): “So quite literally just before we were going to go live today, Ashley (show producer; surname unverified), my producer, made a shocking discovery about the medical examiner who performed Charlie's autopsy.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:53:16](/episodes/ep-4JxgOclKzqg.md#t-00-53-16): “Me and Ashley worked hard on that timeline, right, Ashley? Yes, we did.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:06:22](/episodes/ep-bIuvTKlFeGo.md#t-01-06-22): “I mean, what was the exact response, Ashley (show staff member; surname unverified)? They told us, like, that it would—are we on a wait list for information, or that it's—and it's—you'll have to pull it up. But we did file an FOIA request because I thought, oh, that's interesting.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:58](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58): “Ashley (show team member; surname unverified), if you guys could just put a note for me to include, um, I don't think you put your name here.”
 
 </details>
 

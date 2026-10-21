@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2460 mentions"
+description: "Turning Point USA (Organizations) - 2463 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-39-09">2026-10-19 · 00:39:16</a></strong></div>
-<div><span>Episodes</span><strong>181</strong></div>
-<div><span>Mentions</span><strong>2,460</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-turning-point-usa-t-00-46-35">2026-10-20 · 00:46:35</a></strong></div>
+<div><span>Episodes</span><strong>182</strong></div>
+<div><span>Mentions</span><strong>2,463</strong></div>
 <div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>1,048</strong></div>
+<div><span>Statements about</span><strong>1,050</strong></div>
 <div><span>Relationships</span><strong>258</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
@@ -221,6 +221,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38" style="--pulse-height:21%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 17 mentions" title="2026-10-15 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-01-21" style="--pulse-height:11%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 9 mentions" title="2026-10-19 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-turning-point-usa-t-00-00-01" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 3 mentions" title="2026-10-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -407,6 +408,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-turning-point-usa-t-00-00-39) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-turning-point-usa-t-00-00-38) | 17 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-turning-point-usa-t-00-01-21) | 9 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-turning-point-usa-t-00-00-01) | 3 |
 
 </details>
 </section>
@@ -419,7 +421,21 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2460)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2463)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3 mentions)</summary>
+
+**[00:00:15](/episodes/ep-ihLQRXxIfjU.md#ent-org-turning-point-usa-t-00-00-01)**
+> "...ose pesky gangbangers over at TPUSA, this user wrote this."
+
+**[00:00:25](/episodes/ep-ihLQRXxIfjU.md#ent-org-turning-point-usa-t-00-00-01)**
+> "I have an idea for Turning Point regarding the... regarding the vandalism of the C..."
+
+**[00:46:35](/episodes/ep-ihLQRXxIfjU.md#ent-org-turning-point-usa-t-00-46-35)**
+> "...grifting vultures who now run Turning Point USA. The Latvian bot farms failed to conceal Erika (E..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (9 mentions)</summary>
@@ -8902,7 +8918,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (68)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -8971,6 +8987,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:00:15](/episodes/ep-ihLQRXxIfjU.md#t-00-00-01): “The ideas that you guys come up with. I mean, this time regarding how we might help catch those pesky gangbangers over at TPUSA, this user wrote this.”
 
 </details>
 
@@ -10372,7 +10389,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (68)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (69)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10442,6 +10459,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:00:15](/episodes/ep-ihLQRXxIfjU.md#t-00-00-01): “The ideas that you guys come up with. I mean, this time regarding how we might help catch those pesky gangbangers over at TPUSA, this user wrote this.”
 
 </details>
 
@@ -11510,7 +11528,18 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (1048)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (1050)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:44:20](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Tyler Bowyer as saying they could not do anything ..."](/statements/statement-9379f3c4b5ce.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58) (Accusation) **Ali (ihLQRXxIfjU commenter; identity unverified)** (via quoted post): ["Ali, a viewer whose identity is unverified, alleged that Owens exposed..."](/statements/statement-9a15ba119bf2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>

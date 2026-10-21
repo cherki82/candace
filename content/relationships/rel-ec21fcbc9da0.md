@@ -11,7 +11,7 @@ object: "person-tyler-robinson"
 
 ## [Candace Owens](/entities/person-candace-owens) defended [Tyler Robinson](/entities/person-tyler-robinson)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
 
@@ -36,6 +36,10 @@ object: "person-tyler-robinson"
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
 - [00:00:26](/episodes/ep-eLgD5yUVbko#t-00-00-26): _at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:27:28](/episodes/ep-ihLQRXxIfjU#t-00-27-28): _Probably because Tyler Robinson didn't shoot Charlie (Charlie Kirk) from the Losee rooftop. ... Again, that's my opinion._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

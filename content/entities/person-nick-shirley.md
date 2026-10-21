@@ -1,6 +1,6 @@
 ---
 title: "Nick Shirley"
-description: "Nick Shirley (People) - 55 mentions"
+description: "Nick Shirley (People) - 58 mentions"
 id: "person-nick-shirley"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-33-50">2026-03-24 · 00:34:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-08-32">2026-10-05 · 00:08:32</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-nick-shirley-t-00-44-44">2026-10-20 · 00:44:44</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -39,6 +39,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-nick-shirley-t-00-28-40" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 12 mentions" title="2026-05-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-19" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-07-54" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-nick-shirley-t-00-00-01" style="--pulse-height:12%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 3 mentions" title="2026-10-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-nick-shirley-t-00-28-40) | 12 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-19) | 2 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-nick-shirley-t-00-07-54) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-nick-shirley-t-00-00-01) | 3 |
 
 </details>
 </section>
@@ -63,7 +65,21 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3 mentions)</summary>
+
+**[00:00:32](/episodes/ep-ihLQRXxIfjU.md#ent-person-nick-shirley-t-00-00-01)**
+> "Call Nick Shirley. This dude can infiltrate any gang and we should ..."
+
+**[00:00:39](/episodes/ep-ihLQRXxIfjU.md#ent-person-nick-shirley-t-00-00-39)**
+> "...d. Who are you going to call? Nick Shirley. It's him."
+
+**[00:44:44](/episodes/ep-ihLQRXxIfjU.md#ent-person-nick-shirley-t-00-44-44)**
+> "... us the group of people. Call Nick Shirley. I feel like you guys should release more footage..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (2 mentions)</summary>

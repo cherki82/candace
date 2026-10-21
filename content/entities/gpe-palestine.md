@@ -1,6 +1,6 @@
 ---
 title: "Palestine"
-description: "Palestine (Places) - 88 mentions"
+description: "Palestine (Places) - 89 mentions"
 id: "gpe-palestine"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46">2025-09-18 · 00:55:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-palestine-t-00-38-37">2026-10-07 · 00:38:37</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-palestine-t-00-40-43">2026-10-20 · 00:41:15</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -51,6 +51,7 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-palestine-t-00-34-39" style="--pulse-height:29%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#t-00-00-01" style="--pulse-height:43%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 3 mentions" title="2026-10-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-gpe-palestine-t-00-38-37" style="--pulse-height:14%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-palestine-t-00-40-43" style="--pulse-height:14%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-palestine-t-00-34-39) | 2 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#t-00-00-01) | 3 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-gpe-palestine-t-00-38-37) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-palestine-t-00-40-43) | 1 |
 
 </details>
 </section>
@@ -87,7 +89,15 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:41:15](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-palestine-t-00-40-43)**
+> "I look at what's going on in Palestine and I think Kimberly Guilfoyle, she wanted her Am..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Katie Zacharia"
-description: "Katie Zacharia (People) - 21 mentions"
+description: "Katie Zacharia (People) - 24 mentions"
 id: "person-katie-zacharia"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-katie-zacharia-t-00-34-50">2026-10-13 · 00:35:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-37-57">2026-10-19 · 00:37:57</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-katie-zacharia-t-00-49-38">2026-10-20 · 00:49:44</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
-<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -35,6 +35,7 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15" style="--pulse-height:22%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 2 mentions" title="2026-10-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-katie-zacharia-t-00-00-01" style="--pulse-height:44%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 4 mentions" title="2026-10-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-00-01" style="--pulse-height:100%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 9 mentions" title="2026-10-19 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-katie-zacharia-t-00-40-14" style="--pulse-height:33%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 3 mentions" title="2026-10-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-katie-zacharia-t-00-27-15) | 2 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-katie-zacharia-t-00-00-01) | 4 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-katie-zacharia-t-00-00-01) | 9 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-katie-zacharia-t-00-40-14) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3 mentions)</summary>
+
+**[00:40:34](/episodes/ep-ihLQRXxIfjU.md#ent-person-katie-zacharia-t-00-40-14)**
+> "...els like when they went after Katie Zacharia for lying about her resume. Does it really matter..."
+
+**[00:49:28](/episodes/ep-ihLQRXxIfjU.md#ent-person-katie-zacharia-t-00-48-51)**
+> "..., I think it is unethical for Katie Zacharia to present herself as a lawyer. And by lawyer, I ..."
+
+**[00:49:44](/episodes/ep-ihLQRXxIfjU.md#ent-person-katie-zacharia-t-00-49-38)**
+> "I agree. Justice for Katie (Katie Zacharia). Justice for Katie (Katie Zacharia). I know you ..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (9 mentions)</summary>
@@ -191,6 +207,18 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details>
+<summary>Defended By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:44](/episodes/ep-ihLQRXxIfjU.md#t-00-49-38): “I agree. Justice for Katie (Katie Zacharia). Justice for Katie (Katie Zacharia).”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Lived In (1)</summary>
 
 - **[China](/entities/gpe-china.md)**
@@ -273,7 +301,7 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -296,6 +324,13 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:39:54](/episodes/ep-V-phmW9f0pM.md#t-00-39-34): “Well, Katie (Katie Zacharia), they can't confirm that she graduated law school. She just kind of keeps dancing around the question and saying that she worked at a legal firm in China alongside her husband. OK, well, where did you get your legal degree from? And she's like, well, I studied some law. At Pepperdine University, same university Erika (Erika Kirk) went to for a year, which we couldn't confirm whether she was in person or just doing it online, Shadle University. Who is this chick? Who is this chick and why was she selected? What's the real reason she was selected? It's awful. She should be fired on day one, but we've got to just keep going along.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:27:15](/episodes/ep-6jOEN9rBePU.md#t-00-27-15): “And like we discussed yesterday, this, this Katie Zacharia character who is the new press secretary, I'm just watching people defend this and pretend like, oh, this is totally fine. ... It's just I happen to notice that she seems to have no idea what she's talking about. She seems to be confused. ... And I don't know how she got this position. And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:28:46](/episodes/ep-YPIYYHCNPbE.md#t-00-28-30): “I don't know why Pepperdine's president would tell her that that was okay. Beyond that, I also want to be clear that on her LinkedIn, she has herself listed as a general counsel. ... Like that's not, you didn't, this doesn't feel like a mistake. But I'm open to hearing Katie (Katie Zacharia) as to how she arrived at the conclusion that she was a lawyer and why it was okay.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:44](/episodes/ep-ihLQRXxIfjU.md#t-00-49-38): “I agree. Justice for Katie (Katie Zacharia). Justice for Katie (Katie Zacharia).”
 
 </details>
 
@@ -429,7 +464,15 @@ Source: [Katie Zacharia inaugural briefing | White House](https://www.whitehouse
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Katie Zacharia (27)</strong></summary>
+<summary><strong class="section-title">Statements about Katie Zacharia (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:40:34](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) (Accusation) **Candace Owens**: ["Owens accused Katie Zacharia of lying about her resume and said admini..."](/statements/statement-8ff49da2cecd.md)
+  - Also about: [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>

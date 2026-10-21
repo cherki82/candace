@@ -1,6 +1,6 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 21 mentions"
+description: "Operation Mockingbird (Concepts) - 22 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-operation-mockingbird-t-00-11-44">2025-09-18 · 00:12:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-operation-mockingbird-t-00-47-07">2026-09-08 · 00:47:35</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-operation-mockingbird-t-00-04-30">2026-10-20 · 00:04:30</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-operation-mockingbird-t-01-01-34" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32" style="--pulse-height:40%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-operation-mockingbird-t-00-47-07" style="--pulse-height:20%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-operation-mockingbird-t-00-04-30" style="--pulse-height:20%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-operation-mockingbird-t-01-01-34) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32) | 2 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-operation-mockingbird-t-00-47-07) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-operation-mockingbird-t-00-04-30) | 1 |
 
 </details>
 </section>
@@ -74,7 +76,15 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:04:30](/episodes/ep-ihLQRXxIfjU.md#ent-concept-operation-mockingbird-t-00-04-30)**
+> "... Kennedy)? Our CIA engaged in Operation Mockingbird, right?"
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
@@ -231,7 +241,15 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Operation Mockingbird (8)</strong></summary>
+<summary><strong class="section-title">Statements about Operation Mockingbird (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:04:30](/episodes/ep-ihLQRXxIfjU.md#t-00-04-30) (Accusation) **Candace Owens**: ["Owens alleged that the CIA used Operation Mockingbird to pay American ..."](/statements/statement-e8ffb12524a8.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 115 mentions"
+description: "John F. Kennedy (People) - 117 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#ent-person-john-f-kennedy-t-00-18-57">2026-10-13 · 00:19:10</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>115</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-john-f-kennedy-t-00-04-30">2026-10-20 · 00:04:51</a></strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>117</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -105,6 +105,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-john-f-kennedy-t-00-04-02" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-john-f-kennedy-t-00-04-34" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-john-f-kennedy-t-00-18-57" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-john-f-kennedy-t-00-04-30" style="--pulse-height:15%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -177,6 +178,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-john-f-kennedy-t-00-04-02) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-john-f-kennedy-t-00-04-34) | 1 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-john-f-kennedy-t-00-18-57) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-john-f-kennedy-t-00-04-30) | 2 |
 
 </details>
 </section>
@@ -188,7 +190,18 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:04:30](/episodes/ep-ihLQRXxIfjU.md#ent-person-john-f-kennedy-t-00-04-30)**
+> "...ent, did he really shoot JFK (John F. Kennedy)? Our CIA engaged in Operation Mockingbird, right..."
+
+**[00:04:51](/episodes/ep-ihLQRXxIfjU.md#ent-person-john-f-kennedy-t-00-04-30)**
+> "...ive regarding who killed JFK (John F. Kennedy) should not be asked. Don't ask any questions tha..."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
@@ -871,7 +884,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about John F. Kennedy (14)</strong></summary>
+<summary><strong class="section-title">Statements about John F. Kennedy (15)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:04:30](/episodes/ep-ihLQRXxIfjU.md#t-00-04-30) (Accusation) **Candace Owens**: ["Owens alleged that the CIA used Operation Mockingbird to pay American ..."](/statements/statement-e8ffb12524a8.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)
+
+</details>
 
 <details>
 <summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>

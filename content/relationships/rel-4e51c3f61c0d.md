@@ -11,11 +11,15 @@ object: "org-battalion-metals"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Battalion Metals](/entities/org-battalion-metals)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
 
 - [00:38:37](/episodes/ep-6jOEN9rBePU#t-00-38-37): _So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:43:04](/episodes/ep-ihLQRXxIfjU#t-00-43-04): _So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple._
 
 ### Related
 

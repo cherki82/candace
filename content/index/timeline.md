@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 2124_
+_Total events: 2129_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,12 +340,12 @@ _Total events: 2124_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (396)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (996)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (399)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (997)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (108)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (43)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (31)</label>
-  <label for="tab-year-2021" class="tab-btn">2021 (24)</label>
+  <label for="tab-year-2021" class="tab-btn">2021 (25)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (17)</label>
   <label for="tab-year-2019" class="tab-btn">2019 (35)</label>
   <label for="tab-year-2018" class="tab-btn">2018 (54)</label>
@@ -453,6 +453,58 @@ _Total events: 2124_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Rig... @ 00:40:35](/episodes/ep-6jOEN9rBePU.md#t-00-40-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-20-candace-owens-presented-additional-septe" data-filter-key="event-2026-10-20-candace-owens-presented-additional-septe">
+<div class="timeline-date">2026-10-20</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-20-candace-owens-presented-additional-septe.md">Candace Owens presented additional September 10, 2025 Losee rooftop footage on her show, saying an unidentified person returned to the ledge after ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-20-candace-owens-presented-additional-septe.md">Candace Owens presented additional September 10, 2025 Losee rooftop footage on her show, saying an unidentified person returned to the ledge after Charlie Kirk was hit; her identification of this person as the earlier suspect remained her interpretation.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-20: Candace Owens presented additional September 10, 2025 Losee rooftop footage on her show, saying an unidentified person returned to the ledge after Charlie Kirk was hit; her identification of this person as the earlier suspect remained her interpretation. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:15:42](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-20-candace-owens-displayed-and-read-excerpt" data-filter-key="event-2026-10-20-candace-owens-displayed-and-read-excerpt">
+<div class="timeline-date">2026-10-20</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-20-candace-owens-displayed-and-read-excerpt.md">Candace Owens displayed and read excerpts she described as her Daily Wire firing document, including a genocide-related tweet and criticism of her ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-20-candace-owens-displayed-and-read-excerpt.md">Candace Owens displayed and read excerpts she described as her Daily Wire firing document, including a genocide-related tweet and criticism of her Israel coverage, while responding to Jeremy Boreing’s online comments. The document characterization and reasons for firing are attributed to Owens.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-20: Candace Owens displayed and read excerpts she described as her Daily Wire firing document, including a genocide-related tweet and criticism of her Israel coverage, while responding to Jeremy Boreing’s online comments. The document characterization and reasons for firing are attributed to Owens. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:35:58](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:36:15](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-10-20-owens-reported-that-kimberly-guilfoyle-h" data-filter-key="event-2026-10-20-owens-reported-that-kimberly-guilfoyle-h">
+<div class="timeline-date">2026-10-20</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-10-20-owens-reported-that-kimberly-guilfoyle-h.md">Owens reported that Kimberly Guilfoyle had been pushed out as ambassador to Greece and had announced a resignation, attributing the reporting to Ax...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-10-20-owens-reported-that-kimberly-guilfoyle-h.md">Owens reported that Kimberly Guilfoyle had been pushed out as ambassador to Greece and had announced a resignation, attributing the reporting to Axios. This dates Owens’s report only; the resignation date and underlying misconduct allegations were not established by the transcript.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-10-20: Owens reported that Kimberly Guilfoyle had been pushed out as ambassador to Greece and had announced a resignation, attributing the reporting to Axios. This dates Owens’s report only; the resignation date and underlying misconduct allegations were not established by the transcript. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:38:47](/episodes/ep-ihLQRXxIfjU.md#t-00-38-16)
 
 </details>
 </div>
@@ -7194,13 +7246,14 @@ _Total events: 2124_
 <div class="timeline-date">2025-12-12</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-12-scripps-news-released-police-body-camera.md">Scripps News released police body-camera footage of Brian J. Cole Jr.'s 2024 Virginia traffic crash after his December 2025 arrest.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-12: Scripps News released police body-camera footage of Brian J. Cole Jr.\'s 2024 Virginia traffic crash after his December 2025 arrest. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:51:03](/episodes/ep-q4m-kGzvwjw.md#t-00-50-29)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:04:01](/episodes/ep-ihLQRXxIfjU.md#t-00-03-52)
 
 </details>
 </div>
@@ -7739,7 +7792,7 @@ _Total events: 2124_
 <div class="timeline-date">2025-12-04</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-04-brian-j-cole-jr-was-arrested-and-accused.md">Brian J. Cole Jr. was arrested and accused in the January 2021 pipe-bomb case; the accusation is not a conviction.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-04: Brian J. Cole Jr. was arrested and accused in the January 2021 pipe-bomb case; the accusation is not a conviction. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -7747,6 +7800,7 @@ _Total events: 2124_
 
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:46:45](/episodes/ep-q4m-kGzvwjw.md#t-00-46-15)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:51:51](/episodes/ep-q4m-kGzvwjw.md#t-00-51-51)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:03:26](/episodes/ep-ihLQRXxIfjU.md#t-00-03-08)
 
 </details>
 </div>
@@ -13679,7 +13733,7 @@ _Total events: 2124_
 <div class="timeline-date">2025-09-10 <span class='time'>12:44</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-officer-chris-bagley-.md">Candace Owens said Officer Chris Bagley reached the Losee Center roof around 12:44 p.m. and found a screwdriver.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 12:44: Candace Owens said Officer Chris Bagley reached the Losee Center roof around 12:44 p.m. and found a screwdriver. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13688,6 +13742,7 @@ _Total events: 2124_
 - [Amnesia Or Perjury? Exclusive Footage Of The OT... @ 00:13:00](/episodes/ep-AH1KVKkweUE.md#t-00-12-42)
 - [A Tale Of Two Statements: Mikey McCoy’s Intervi... @ 00:11:34](/episodes/ep-kn1E0scy9Wc.md#t-00-11-19)
 - [WE WERE RIGHT! UVU Releases Their Independent R... @ 00:50:03](/episodes/ep-bIuvTKlFeGo.md#t-00-50-03)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:22:11](/episodes/ep-ihLQRXxIfjU.md#t-00-21-41)
 
 </details>
 </div>
@@ -14409,7 +14464,7 @@ _Total events: 2124_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">168× in 119 eps</span>
+<span class="timeline-badge mentions">169× in 120 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -14583,6 +14638,7 @@ _Total events: 2124_
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake ... @ 00:27:24](/episodes/ep-yrg_-D6oNHE.md#t-00-27-24)
 - [America The Ugly: A General, A Cop & A Missing ... @ 00:11:01](/episodes/ep-V-phmW9f0pM.md#t-00-11-01)
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, ... @ 00:02:35](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:18:14](/episodes/ep-ihLQRXxIfjU.md#t-00-17-55)
 
 </details>
 </div>
@@ -17078,6 +17134,27 @@ _Total events: 2124_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDA... @ 00:08:39](/episodes/ep-YPIYYHCNPbE.md#t-00-08-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-interpreted-september-10-footage-a" data-filter-key="event-2025-09-10-owens-interpreted-september-10-footage-a">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-owens-interpreted-september-10-footage-a.md">Owens interpreted September 10 footage as showing an unidentified person nicknamed Slenderman walking to and lingering near the Losee rooftop ledge...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-owens-interpreted-september-10-footage-a.md">Owens interpreted September 10 footage as showing an unidentified person nicknamed Slenderman walking to and lingering near the Losee rooftop ledge around 12:36–12:42 p.m., with a footage dropout before departure. She hypothesized this was the earlier rooftop suspect; identity, purpose and evidence planting were not established.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">5× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens interpreted September 10 footage as showing an unidentified person nicknamed Slenderman walking to and lingering near the Losee rooftop ledge around 12:36–12:42 p.m., with a footage dropout before departure. She hypothesized this was the earlier rooftop suspect; identity, purpose and evidence planting were not established. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:19:21](/episodes/ep-ihLQRXxIfjU.md#t-00-19-21)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:16:35](/episodes/ep-ihLQRXxIfjU.md#t-00-16-35)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:20:12](/episodes/ep-ihLQRXxIfjU.md#t-00-20-02)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:20:47](/episodes/ep-ihLQRXxIfjU.md#t-00-20-47)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:21:12](/episodes/ep-ihLQRXxIfjU.md#t-00-20-47)
 
 </details>
 </div>
@@ -23621,7 +23698,7 @@ _Total events: 2124_
 <div class="timeline-date">2024-03-19</div>
 <div class="timeline-desc"><a href="/events/event-2024-03-19-candace-owens-fired-from-the-daily-wire.md">Candace Owens fired from The Daily Wire</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">6× in 6 eps</span>
+<span class="timeline-badge mentions">7× in 7 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-03-19: Candace Owens fired from The Daily Wire - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23633,6 +23710,7 @@ _Total events: 2124_
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:01:46](/episodes/ep-vwG1juDCQZQ.md#t-00-01-24)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:33:42](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42)
 
 </details>
 </div>
@@ -24546,7 +24624,7 @@ _Total events: 2124_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md">The October 7 Hamas-led attack on Israel occurred.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">19× in 8 eps</span>
+<span class="timeline-badge mentions">20× in 9 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: The October 7 Hamas-led attack on Israel occurred. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -24571,6 +24649,7 @@ _Total events: 2124_
 - [Ivanka Trump “Discovers” An Island. Erika Kirk ... @ 00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19)
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:09:25](/episodes/ep-amqTMimDr0A.md#t-00-08-51)
 - [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:43:45](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07)
 
 </details>
 </div>
@@ -25622,11 +25701,29 @@ _Total events: 2124_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2021-01-05-owens-said-steve-baker-and-his-team-iden" data-filter-key="event-2021-01-05-owens-said-steve-baker-and-his-team-iden">
+<div class="timeline-date">2021-01-05 <span class='time'>19:57</span></div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2021-01-05-owens-said-steve-baker-and-his-team-iden.md">Owens said Steve Baker and his team identified Brian Cole Jr. in CCTV footage across town at 7:57 p.m. while the pipe-bomb suspect appeared elsewhe...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2021-01-05-owens-said-steve-baker-and-his-team-iden.md">Owens said Steve Baker and his team identified Brian Cole Jr. in CCTV footage across town at 7:57 p.m. while the pipe-bomb suspect appeared elsewhere; the identification and exculpatory interpretation are attributed, not independently established.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2021-01-05 19:57: Owens said Steve Baker and his team identified Brian Cole Jr. in CCTV footage across town at 7:57 p.m. while the pipe-bomb suspect appeared elsewhere; the identification and exculpatory interpretation are attributed, not independently established. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:06:04](/episodes/ep-ihLQRXxIfjU.md#t-00-05-55)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:09:28](/episodes/ep-ihLQRXxIfjU.md#t-00-09-28)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2021-01-05-pipe-bombs-placed-at-dnc-and-rnc-headquarters-nigh" data-filter-key="event-2021-01-05-pipe-bombs-placed-at-dnc-and-rnc-headquarters-nigh">
 <div class="timeline-date">2021-01-05</div>
 <div class="timeline-desc"><a href="/events/event-2021-01-05-pipe-bombs-placed-at-dnc-and-rnc-headquarters-nigh.md">Pipe bombs placed at DNC and RNC headquarters night before January 6</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 3 eps</span>
+<span class="timeline-badge mentions">5× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2021-01-05: Pipe bombs placed at DNC and RNC headquarters night before January 6 - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -25636,6 +25733,7 @@ _Total events: 2124_
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:07:37](/episodes/ep-YaZfwLQ7vrI.md#t-00-07-31)
 - [Finally! Tucker Calls Out “Rot” At TPUSA. Erika... @ 00:57:26](/episodes/ep-NNiCZk1cuzs.md#t-00-57-26)
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The... @ 00:00:58](/episodes/ep-q4m-kGzvwjw.md#t-00-00-35)
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Re... @ 00:01:16](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39)
 
 </details>
 </div>

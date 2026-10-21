@@ -1,6 +1,6 @@
 ---
 title: "Sigmund Freud"
-description: "Sigmund Freud (People) - 69 mentions"
+description: "Sigmund Freud (People) - 70 mentions"
 id: "person-sigmund-freud"
 type: "PERSON"
 categories:
@@ -17,11 +17,11 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-01-30">2025-09-15 · 01:01:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-sigmund-freud-t-00-40-03">2026-08-06 · 00:40:26</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-sigmund-freud-t-00-32-39">2026-10-20 · 00:32:39</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-sigmund-freud-t-00-21-42" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-sigmund-freud-t-00-50-40" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-sigmund-freud-t-00-40-03" style="--pulse-height:11%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-sigmund-freud-t-00-32-39" style="--pulse-height:11%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -103,6 +104,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-sigmund-freud-t-00-21-42) | 3 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-sigmund-freud-t-00-50-40) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-sigmund-freud-t-00-40-03) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-sigmund-freud-t-00-32-39) | 1 |
 
 </details>
 </section>
@@ -110,7 +112,15 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:32:39](/episodes/ep-ihLQRXxIfjU.md#ent-person-sigmund-freud-t-00-32-39)**
+> "...he Kabbalah tradition of what Sigmund Freud did when he knew kids were being harmed and abuse..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -577,7 +587,15 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sigmund Freud (10)</strong></summary>
+<summary><strong class="section-title">Statements about Sigmund Freud (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:32:39](/episodes/ep-ihLQRXxIfjU.md#t-00-32-39) (Accusation) **Candace Owens**: ["Citing The Assault on Truth, Owens alleged Sigmund Freud knew children..."](/statements/statement-11c4b1886bd2.md)
+  - Also about: [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Tyler Bowyer](/entities/person-tyler-bowyer) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -52,6 +52,10 @@ object: "person-candace-owens"
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
 - [00:27:18](/episodes/ep-ds6umq1rHAw#t-00-27-18): _the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:44:44](/episodes/ep-ihLQRXxIfjU#t-00-44-44): _Instead, Tyler Bowyer is blocking more people on X. I am very disappointed. I'm very disappointed._
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

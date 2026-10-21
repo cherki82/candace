@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 260 mentions"
+description: "Tyler Bowyer (People) - 263 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-bowyer-t-00-08-36">2026-10-19 · 00:08:43</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>260</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-bowyer-t-00-44-44">2026-10-20 · 00:44:44</a></strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>263</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>94</strong></div>
-<div><span>Relationships</span><strong>69</strong></div>
+<div><span>Statements about</span><strong>96</strong></div>
+<div><span>Relationships</span><strong>71</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -104,6 +104,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16" style="--pulse-height:8%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 1 mentions" title="2026-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-16-10" style="--pulse-height:35%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-bowyer-t-00-02-35" style="--pulse-height:65%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 11 mentions" title="2026-10-19 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-bowyer-t-00-44-05" style="--pulse-height:18%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 3 mentions" title="2026-10-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -177,6 +178,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-tyler-bowyer-t-00-46-16) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-tyler-bowyer-t-00-16-10) | 6 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-tyler-bowyer-t-00-02-35) | 11 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-bowyer-t-00-44-05) | 3 |
 
 </details>
 </section>
@@ -188,7 +190,21 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (260)</strong></summary>
+<summary><strong class="section-title">Raw mentions (263)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3 mentions)</summary>
+
+**[00:44:20](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-bowyer-t-00-44-05)**
+> "...regarding the gangbangers and Tyler Bowyer asserting that, hey, you can't we can't do anythi..."
+
+**[00:44:32](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-bowyer-t-00-44-05)**
+> "Stacey writes, doesn't Tyler Bowyer know we only need to see the shoes to solve cases..."
+
+**[00:44:44](/episodes/ep-ihLQRXxIfjU.md#ent-person-tyler-bowyer-t-00-44-44)**
+> "...elease more footage. Instead, Tyler Bowyer is blocking more people on X. I am very disappoin..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (11 mentions)</summary>
@@ -1487,10 +1503,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -1503,6 +1519,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “Instead, Tyler Bowyer is blocking more people on X. I am very disappointed. I'm very disappointed.”
+
+</details>
+
+- **[Stacey (ihLQRXxIfjU commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-006.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:32](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05): “Stacey writes, doesn't Tyler Bowyer know we only need to see the shoes to solve cases these days? So true.”
 
 </details>
 
@@ -1719,7 +1743,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Referenced By (33)</summary>
+<summary>Referenced By (34)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (6)</summary>
@@ -1792,7 +1816,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -1805,6 +1829,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “Instead, Tyler Bowyer is blocking more people on X. I am very disappointed. I'm very disappointed.”
+
+</details>
+
+- **[Stacey (ihLQRXxIfjU commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-006.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:32](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05): “Stacey writes, doesn't Tyler Bowyer know we only need to see the shoes to solve cases these days? So true.”
 
 </details>
 
@@ -2113,7 +2145,18 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (94)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (96)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:44:20](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Tyler Bowyer as saying they could not do anything ..."](/statements/statement-9379f3c4b5ce.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer was blocking more people on X rather than rele..."](/statements/statement-dca620bbb0ca.md)
+  - Also about: [Twitter](/entities/org-twitter.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>

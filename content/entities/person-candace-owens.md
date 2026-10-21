@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2960 mentions"
+description: "Candace Owens (People) - 2970 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,13 +23,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-41-21">2026-10-19 · 00:41:21</a></strong></div>
-<div><span>Episodes</span><strong>185</strong></div>
-<div><span>Mentions</span><strong>2,960</strong></div>
-<div><span>Statements by</span><strong>5,977</strong></div>
-<div><span>Statements about</span><strong>827</strong></div>
-<div><span>Relationships</span><strong>1,101</strong></div>
-<div><span>Threads</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-49-38">2026-10-20 · 00:50:00</a></strong></div>
+<div><span>Episodes</span><strong>186</strong></div>
+<div><span>Mentions</span><strong>2,970</strong></div>
+<div><span>Statements by</span><strong>6,026</strong></div>
+<div><span>Statements about</span><strong>835</strong></div>
+<div><span>Relationships</span><strong>1,131</strong></div>
+<div><span>Threads</span><strong>10</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -221,6 +221,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20" style="--pulse-height:17%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 10 mentions" title="2026-10-14 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-00-38" style="--pulse-height:20%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 12 mentions" title="2026-10-15 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-01-21" style="--pulse-height:15%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 9 mentions" title="2026-10-19 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-33-42" style="--pulse-height:15%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 9 mentions" title="2026-10-20 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -411,6 +412,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-candace-owens-t-00-01-20) | 10 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-candace-owens-t-00-00-38) | 12 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-candace-owens-t-00-01-21) | 9 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-33-42) | 9 |
 
 </details>
 </section>
@@ -426,11 +428,44 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [How the Zacharia legal-credentials objection narrowed](/threads/thread-zacharia-legal-credentials-dispute) — Tracks Owens's law-degree challenge, Zacharia's quoted practice-and-credentials defense, and Owens's subsequent bar-passage question in Episode 401. It does not establish education, bar admission, unauthorized practice or appointment motives.
 - [How the Clarkson Art of Play treatment account was disputed](/threads/thread-clarkson-art-of-play-treatment-dispute) — Tracks Clarkson's quoted account of being treated as unable to afford a purchase and Owens's contrary interpretation of the same store encounter. These are competing attributed accounts, not an adjudication of discrimination.
 - [How the Hasan execution-livestream debate changed](/threads/thread-hasan-execution-livestream-debate) — Tracks Owens’s opposition to a public execution livestream, her account of its withdrawal, and her later adoption of a political-distraction interpretation through Tim Dillon’s satire. These are attributed narrative states, not verified policy, execution status or official motives.
+- [How the Owens Daily Wire firing-reason dispute developed](/threads/thread-owens-daily-wire-firing-reason-dispute) — Tracks the firing explanation, quoted rebuttal, document excerpts and disclosure position presented on channel, without establishing the actual grounds for termination or document authenticity.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2960)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2970)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (9 mentions)</summary>
+
+**[00:33:57](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-33-42)**
+> "...ebody saying, I like Candace (Candace Owens), and he goes crazy. This was the tweet correspon..."
+
+**[00:34:12](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-33-42)**
+> "...nt I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her ..."
+
+**[00:34:44](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-34-23)**
+> "...I understand because Candace (Candace Owens) is better at lying than most people are at disce..."
+
+**[00:44:44](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-44-44)**
+> "...es, end-of-pregnancy Candace (Candace Owens) is my favorite kind of Candace (Candace Owens). ..."
+
+**[00:45:10](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-44-44)**
+> "...de. Newf writes, hi, Candace (Candace Owens). I'm sending love from Saudi Arabia."
+
+**[00:45:58](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-45-58)**
+> "...prayers. Prayers for Candace (Candace Owens) and her family. Christ (Jesus Christ) is king. U..."
+
+**[00:48:28](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-48-14)**
+> "... that Brooke writes, Candace (Candace Owens), you are glowing. I can't believe you're about t..."
+
+**[00:49:38](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-49-38)**
+> "...ys, LOL. I love you, Candace (Candace Owens) in prayers for your delivery."
+
+**[00:50:00](/episodes/ep-ihLQRXxIfjU.md#ent-person-candace-owens-t-00-49-38)**
+> "...o just wrote, I like Candace (Candace Owens). And then suddenly he couldn't deal with it. He ..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (9 mentions)</summary>
@@ -9910,7 +9945,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (49)</summary>
+<summary>Accused (50)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -10365,6 +10400,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 @ 00:18:36](/episodes/ep-V-phmW9f0pM.md#t-00-18-13): “The relevant thing is that at some point, one of those turning point members or affiliates, guests left a bloodied bag in Tyler Clancy's car. And Tyler (Tyler Clancy) then disposed of that bloodied bag on the same day. Allegedly. Now, that's a pretty big, allegedly, it's a pretty big allegation, right? Well, it's a pretty big allegation, right?”
+
+</details>
+
+- **[Miriam Adelson](/entities/person-miriam-adelson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37): “And I do believe that she was doing it because everyone else is doing it. Everyone like Miriam Adelson outright purchased the White House and now all of a sudden it's like, you know, Kim (Kimberly Guilfoyle) bad.”
 
 </details>
 
@@ -10838,7 +10880,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (144)</summary>
+<summary>Criticized (145)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -10849,7 +10891,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (68)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (69)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -10919,6 +10961,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:00:15](/episodes/ep-ihLQRXxIfjU.md#t-00-00-01): “The ideas that you guys come up with. I mean, this time regarding how we might help catch those pesky gangbangers over at TPUSA, this user wrote this.”
 
 </details>
 
@@ -11084,7 +11127,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -11097,6 +11140,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “Instead, Tyler Bowyer is blocking more people on X. I am very disappointed. I'm very disappointed.”
 
 </details>
 
@@ -11192,7 +11236,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
@@ -11202,6 +11246,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute. ... We don't, I genuinely can't even engage. I just find him to be just spastic, honestly. Jason Bourne's wife (commenter handle; identity unverified).”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth. ... He is treating her like an abused child and going, I understand why you think that that happened, but it didn't happen.”
 
 </details>
 
@@ -11382,7 +11427,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (36)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -11419,6 +11464,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:41:26](/episodes/ep-ihLQRXxIfjU.md#t-00-41-26): “The Trump family has done the level of corruption. It's so shocking. It's also embarrassing for me as someone who believed that they, when they got in there, were... we were fighting the concept of this level of corruption. This is why we didn't vote for Hillary Clinton. Seeing what Trump (Donald Trump) 2.0 has become, it's sickening. You know, it's the reason why they are panicking about the midterms. OK, that serves them well. He is... ... He has betrayed everyone, including Charlie Kirk. So I don't I'm not a fan of the Kimberly Guilfoyle, Patsy situation, Maga Patsy situation.”
 
 </details>
 
@@ -11535,7 +11581,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
@@ -11547,6 +11593,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:32](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “I am everyone right now when I say that Kash Patel is the most embarrassing human in the United States.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:39:04](/episodes/ep-pc3pxRyNFZk.md#t-00-38-59): “We're not gonna get those answers from Kash Patel about that plane. We're not even getting straight answers about the other plane.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:51:47](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47): “because Kash Patel is just not interested and it is a struggle for me to believe that they didn't know about this French angle”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -11600,7 +11647,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[FBI](/entities/org-fbi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
@@ -11610,6 +11657,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:30:48](/episodes/ep-4JxgOclKzqg.md#t-00-30-48): “Anyway, speaking of this totally inappropriate chain of custody, the FBI jumping on the case like cowboys, that's not how this works.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:33:56](/episodes/ep-O4Zw3bCALjU.md#t-00-33-21): “None of you cared to explore what happened to try to make sure that the feds who are not traditionally an agency that we trust, the FBI, they've never. Ever, ever, has there ever been a period of even five years in this country since their founding, period of one year, where they were not up to no good? They are constantly up to no good. All of you basically said, ignore that. We're actually partnering with the feds. Ignore all of the obvious holes in the story.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:53:36](/episodes/ep-ms5ChhZegRg.md#t-00-53-24): “The Federal Bureau of Investigations has always been corrupt, ladies and gentlemen. You should not be that shocked by that. But tomorrow.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:11:48](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26): “And as we demonstrated to you guys in an earlier episode, they put him through hell. They effectively forced him to give a false testimony because he was being tortured. ... You would think the FBI would immediately address this, and I would say I think it's going to be really hard for the FBI to get around these details.”
 
 </details>
 
@@ -11732,9 +11780,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Dan Bongino](/entities/person-dan-bongino.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:08:50](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38): “I mean, Dan Bongino is just lying. That's how I'm reading him.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -11917,9 +11966,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Chris Bagley](/entities/person-chris-bagley.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:16:07](/episodes/ep-1CFDtD0IgEg.md#t-00-15-33): “Officer Bagley (Christopher Bagley), who I have to say, were I seated amongst a jury of my peers, I would label him to be unconvincing in his presentation.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:15:26](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26): “Nah, I don't buy it. Nonetheless, let's assume that he sung the truth. And instead, I am the person that has to help him. I am the person that must oblige Officer Bagley (Officer Bagley; UVU witness, given name unverified)'s extreme oversight. ... That's what I would call it. I think it's extreme oversight. And I can exclusively confirm here on this show that, yes, someone did indeed go back up onto Losee rooftop to the ledge afterward.”
 
 </details>
 
@@ -12293,9 +12343,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22): “Go try to fact check this yourself. You will see the entire narrative is fake. It is being pushed by Bill Ackman, among other people. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “Goes on: instead of reporting the details of October 7th, 2024, the terrorist attacks against Israel, you have repeatedly posted about Christians being killed by Israel, and you recognize that this has led some to conclude that you are anti-Semitic. This... ... these are part of the reasons that I was fired for the Daily Wire. ... All of the reasons are within the same theme, and generally I want it all to be released because I think it really demonstrates what we have covered, again, on repeat on this show, is the audacity of the gaslight. How insane you have to be to know that you explicitly put the tweet in my firing docs among very, a great many other totally deranged things.”
 
 </details>
 
@@ -12363,6 +12414,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:20:49](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28): “That was a busy guy. I don't even know why Val (Val Peterson) would be picked to be on the board of a hospital. I don't know what in his background. ... When you pick a board, it's like relevant to, hey, we want former doctor, former surgeon, help us run a hospital. What is his expertise there other than just being an important guy? ... He's really well connected.”
+
+</details>
+
+- **[Brian Mast](/entities/person-brian-mast.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life. ... It was crazy. I'm totally crazy that he would say that. And it became a whole thing. And they tried to convince me that the tweet in and of itself was anti-Semitic.”
 
 </details>
 
@@ -12549,12 +12607,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:07:13](/episodes/ep-O4Zw3bCALjU.md#t-00-07-13): “There's—this is just what we could fit, could fit onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Candace (Candace Owens)'s Receipts,' 'Why Women Believe Candace (Candace Owens),' 'One of the Darkest Things I've Ever Seen,' 'Candace (Candace Owens) Has Nothing but False Accusations,' 'Candace (Candace Owens) Gave Off Massive Red Flags.' He's kind of—his new imagination...”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:31:41](/episodes/ep-6XfDqKTdFKg.md#t-00-31-28): “This is a real tweet. It's an aspirational level of derangement. He wrote this. She does this largely on purpose. All Candace (Candace Owens) cares about is fame and money. Nothing is beneath her. And everything that causes people to talk more about her is a tool in her arsenal. So I...”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth.”
 
 </details>
 
@@ -12816,7 +12875,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Defended (21)</summary>
+<summary>Defended (23)</summary>
 
 - **[Marc Anthony](/entities/person-marc-anthony.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -12848,7 +12907,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime.”
@@ -12857,6 +12916,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:00](/episodes/ep-6XfDqKTdFKg.md#t-00-15-32): “My opinion, though I can say on the basis of the shifting narratives, is this. I have always maintained that I believe Tyler Robinson was involved with something on that day, that he played a role, that he was around campus. I do not believe he had anything to do with the actual killing of Charlie Kirk. But I recommend he could be guilty of tampering with evidence.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:27:28](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04): “Probably because Tyler Robinson didn't shoot Charlie (Charlie Kirk) from the Losee rooftop. ... Again, that's my opinion.”
 
 </details>
 
@@ -12964,9 +13024,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Cole Jr.](/entities/person-brian-cole-jr.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:51:36](/episodes/ep-ms5ChhZegRg.md#t-00-51-21): “Yes, free Brian Cole Jr. We covered that last week. We're going to keep covering that today because there are some dots that are connecting. ... And if someone keeps repeating that you did something, what that might do to them. It's despicable. And we should all be rising up against it. Hey, BLM, I think we got off on the wrong foot. ... You know, I'm not I'm not a supporter of the George Floyd stuff, but I can get behind making some noise over Brian J. Cole. ... I mean, we're not we're not I'm not talking rioting, of course, but I'm saying like where is this is a topic that really actually matters. The feds are blaming something on a black autistic kid.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:09:01](/episodes/ep-ihLQRXxIfjU.md#t-00-08-54): “I just made it easy for the FBI to do their job. Release Brian Cole Jr. now. Yeah, that's going to be a tough one to get over. ... Yeah, I'd say release Brian Cole (Brian Cole Jr.) now. And by the way, that's not all. He's also wearing a custom face mask.”
 
 </details>
 
@@ -12974,6 +13035,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:34:40](/episodes/ep-yrg_-D6oNHE.md#t-00-34-40): “The independent review informed us that Robin (Robin Ebmeyer) was present at the major events committee meeting where Macy Crofts insisted on them being outside. We learned that Robin (Robin Ebmeyer) express that this was not a good idea. ... Do you have someone who expressed, I don't think this is a good idea for this event to be held there. ... According to meeting participants, Crofts (Macy Crofts) insisted on the use of the fountain courtyard location because Charlie Kirk had previously spoken on campus and TPUSA was familiar with the location. ... Crofts (Macy Crofts) also reportedly preferred the TPUSA manage online ticketing through its national office in Phoenix. And some of the MEAC members. ... Members continued to express reservations, including Robin Ebmeyer, UVU's director of emergency management safety. So this person did the right thing.”
+
+</details>
+
+- **[Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:41:01](/episodes/ep-ihLQRXxIfjU.md#t-00-40-43): “I'm team Kimberly Guilfoyle. I want to say that because I look at basically what everybody else in this family has done to abuse the office, to abuse what's around the office, the deals that they have made.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:44](/episodes/ep-ihLQRXxIfjU.md#t-00-49-38): “I agree. Justice for Katie (Katie Zacharia). Justice for Katie (Katie Zacharia).”
 
 </details>
 
@@ -13104,7 +13179,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Endorsed (46)</summary>
+<summary>Endorsed (48)</summary>
 
 - **[Riverbend Ranch](/entities/org-riverbend-ranch.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -13162,7 +13237,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Balance of Nature](/entities/org-balance-of-nature.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
@@ -13174,6 +13249,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:33:57](/episodes/ep-kn1E0scy9Wc.md#t-00-33-57): “It's my favorite. And you guys know I love Balance of Nature because as a mom, I don't really have the time to read a supplement label that looks like it requires a chemistry degree. Between everything I need to get done in the day and raising kids, I need things to be simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices, and fiber. Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. Phytonutrients are naturally occurring plant nutrients that give fruits and vegetables their color, taste, and smell. Different whole foods bring different phytonutrients, so variety actually matters. Balance of Nature uses a tailored vacuum cold process that's designed to help stabilize those naturally occurring nutrients, and the ingredients are independently tested. The routine is simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. For me, it feels like one simple thing that I can actually stick with. So head to balanceofnature.com to get 10% off their fruits and veggies supplements, plus a free gift with promo code Candace at checkout. That's balanceofnature.com with code Candace at checkout.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:42:20](/episodes/ep-_Sq5RqP27NY.md#t-00-42-05): “I need things simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices and fiber. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today. today and get 35% off your first subscription with code Candace at checkout.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:56:38](/episodes/ep-q4m-kGzvwjw.md#t-00-56-14): “I need things that are simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients on real whole fruits, vegetables, spices, and fiber. ... Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. ... Phytonutrients are naturally occurring plant nutrients that give... give fruits and vegetables their color, their taste, and their smell. ... Different whole foods bring different phytonutrients, so variety actually really matters. Balance of Nature uses a tailored vacuum cold process designed to help stabilize those naturally occurring nutrients and the ingredients are independently tested. ... The routine is very simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and get 35% off your first subscription if you use. ... Use code CANDICE at checkout. That's balanceofnature.com. I also have to remind you guys about American financing because cheap simple things like fast food stops with the family have become out of control expensive.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:28:47](/episodes/ep-ihLQRXxIfjU.md#t-00-28-20): “That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices, and and fiber, things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and you'll get 35% off your first subscription with code CANDACE at checkout.”
 
 </details>
 
@@ -13196,7 +13272,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (58)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (59)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -13256,6 +13332,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:36:44](/episodes/ep-VUSs6CTp78Q.md#t-00-36-13): “It's possible when you call American financing today. today. If you're feeling stretched by everyday expenses and talking groceries, gas, bills piling up, you should know that you are not alone. ... Most Americans are putting these expenses on their credit cards and credit card rates are insane, I mean in the 20s or even 30s, but American Financing can show you how to use your home's equity to pay off that debt. ... Their salary-based mortgage consultants are helping homeowners just like you restructure their loans and save money every single month. ... There are no upfront fees to find out how much you could be saving. Their customers are saving an average of $800 a month, which is like a $10,000 raise without having to change jobs. ... So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:05](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -13334,7 +13411,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PreBorn!](/entities/org-preborn.md)**
-<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -13365,6 +13442,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:24:36](/episodes/ep-YPIYYHCNPbE.md#t-00-24-24): “Proof that Preborn is not just saving babies, it's rescuing souls. Right now, another mother needs that moment and you can give it to her. ... For just $28, you can help to provide one life-saving ultrasound. $140 can help rescue five babies and all gifts are tax deductible. ... So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:27:36](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04): “Again, that's my opinion. We'll be right back after a brief break. All right, you guys, for 20 years, preborn has stood in the gap between fear and hope. And this year alone, God has used preborn to save nearly 60,000 babies from abortion. ... Right now, another mother needs that moment and you can give it to her for just $28. You can help to provide one life-saving ultrasound. ... $140 helps to rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby, that's pound 250 baby or visit preborn.com slash Candace. Again, Five zero baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 
 </details>
 
@@ -13683,6 +13761,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Wild Pastures](/entities/org-wild-pastures.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:30:18](/episodes/ep-ihLQRXxIfjU.md#t-00-30-18): “And if a membership is not for you, you can even order a one-time delivery. So make the switch to better meat with Wild Pastures. Visit wildpastures.com slash Candace or use code Candace at checkout for 20% off for life. ... Plus, you'll get a bonus of $15 off with your first purchase. Again, that's wildpastures.com slash Candace.”
+
+</details>
+
+- **[Steve Baker](/entities/person-steve-baker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:11:26](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26): “They even go further and they do a height analysis. It's worth following the work of Steven Baker (Steve Baker).”
+
+</details>
+
 </details>
 
 <details>
@@ -13729,7 +13821,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Fired By (3)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
@@ -13749,6 +13841,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:26](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “these are part of the reasons that I was fired for the Daily Wire.”
 
 </details>
 
@@ -13761,11 +13854,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “By the way, I had a little back-forth tiff, and this has been going on for three years. I just, you know, this is just, like I said, permanent background noise in my life, is this former CEO of Daily Wire, Jeremy Boreing, ... who is just like, he's just never going to stop involving himself in my life. I have a fake podcast. ... But it's so stunning to me that he fired me and is now trying to gaslight people about the reasons that he fired me because I said genocide is always wrong. So, of course, nobody was talking about it.”
 
 </details>
 
@@ -14013,13 +14107,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49): “So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple.”
 
 </details>
 
@@ -14972,7 +15067,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Supported By (21)</summary>
+<summary>Supported By (30)</summary>
 
 - **[Hasan Piker](/entities/person-hasan-piker.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -15122,6 +15217,69 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:47:40](/episodes/ep-6jOEN9rBePU.md#t-00-47-08): “And Brittany Reddick writes, like me, my daughter is a huge Candace fan. She and her eighth grade classmates will be traveling to D.C. in a few weeks and she is insisting on her friends wearing your CIA T when they visit the White House. They want to go max.”
+
+</details>
+
+- **[Newf (viewer; identity unverified)](/entities/anon-src-ihLQRXxIfjU-004.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:10](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “It's just noise at this point. Comments from today's episode. Newf writes, hi, Candace (Candace Owens). I'm sending love from Saudi Arabia. ... It's my sister Sarah Aziz's birthday today. We are both huge fans of yours. Could you please wish her a happy birthday?”
+
+</details>
+
+- **[Sarah Aziz (source-named birthday recipient; identity unverified)](/entities/anon-src-ihLQRXxIfjU-005.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:10](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “It's just noise at this point. Comments from today's episode. Newf writes, hi, Candace (Candace Owens). I'm sending love from Saudi Arabia. ... It's my sister Sarah Aziz's birthday today. We are both huge fans of yours. Could you please wish her a happy birthday?”
+
+</details>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic.”
+
+</details>
+
+- **[Meaning Heels (viewer handle; identity unverified)](/entities/anon-src-ihLQRXxIfjU-003.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “Meaning Heels (viewer handle as transcribed) writes, end-of-pregnancy Candace (Candace Owens) is my favorite kind of Candace (Candace Owens).”
+
+</details>
+
+- **[Kiwi Kel (viewer; identity unverified)](/entities/anon-src-ihLQRXxIfjU-002.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:58](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58): “Kiwi Kell (viewer handle as transcribed) writes, I believe in the power of prayer. I take care of my disabled vet dad with dementia. I'm having scans on Thursday to see if my cancer is back. I trust in Lord with all my heart. I would appreciate your prayers. Prayers for Candace (Candace Owens) and her family.”
+
+</details>
+
+- **[Ali (ihLQRXxIfjU commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-007.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58): “Ali writes, I don't know if you realize this, but you already won. You ruined the Zionist plan to hijack Charlie (Charlie Kirk)'s legacy.”
+
+</details>
+
+- **[Brooke (ihLQRXxIfjU commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-008.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:48:28](/episodes/ep-ihLQRXxIfjU.md#t-00-48-14): “That's my opinion. Anyway, moving on from that Brooke writes, Candace (Candace Owens), you are glowing. I can't believe you're about to go on maternity leave. It's going to feel like forever. ... I'm sending so much love and blessings from me and the rest of Houston. Jesus (Jesus Christ) is King. Go Max.”
+
+</details>
+
+- **[Tony Hill (commenter; identity unverified)](/entities/anon-src-ChuWo-n49B8-tony-hill.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:28](/episodes/ep-ihLQRXxIfjU.md#t-00-48-51): “Tony Hill writes, as a lawyer, I think it is unethical for Katie Zacharia to present herself as a lawyer. And by lawyer, I mean I serve tables at a restaurant. ... She's the least fraudulent thing in the White House nowadays, LOL. I love you, Candace (Candace Owens) in prayers for your delivery.”
+
+</details>
+
+- **[Blushing Chaos (viewer handle; identity unverified)](/entities/anon-src-ihLQRXxIfjU-010.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:50:00](/episodes/ep-ihLQRXxIfjU.md#t-00-49-38): “Blushing chaos writes my apologies for the ex trauma that ensued today. I was trying to give you some love and support and it blew up.”
 
 </details>
 
@@ -15433,11 +15591,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ashley (Candace Owens producer; surname unverified)](/entities/person-producer-ashley-unverified.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 @ 00:00:31](/episodes/ep-iB-YtO3UZOg.md#t-00-00-01): “So quite literally just before we were going to go live today, Ashley (show producer; surname unverified), my producer, made a shocking discovery about the medical examiner who performed Charlie's autopsy.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:53:16](/episodes/ep-4JxgOclKzqg.md#t-00-53-16): “Me and Ashley worked hard on that timeline, right, Ashley? Yes, we did.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 01:06:22](/episodes/ep-bIuvTKlFeGo.md#t-01-06-22): “I mean, what was the exact response, Ashley (show staff member; surname unverified)? They told us, like, that it would—are we on a wait list for information, or that it's—and it's—you'll have to pull it up. But we did file an FOIA request because I thought, oh, that's interesting.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:58](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58): “Ashley (show team member; surname unverified), if you guys could just put a note for me to include, um, I don't think you put your name here.”
 
 </details>
 
@@ -15498,16 +15657,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49): “So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (539)</summary>
+<summary>Referenced By (554)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -16083,6 +16243,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Miriam Adelson](/entities/person-miriam-adelson.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37): “And I do believe that she was doing it because everyone else is doing it. Everyone like Miriam Adelson outright purchased the White House and now all of a sudden it's like, you know, Kim (Kimberly Guilfoyle) bad.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
@@ -16491,12 +16658,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:07:13](/episodes/ep-O4Zw3bCALjU.md#t-00-07-13): “There's—this is just what we could fit, could fit onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Candace (Candace Owens)'s Receipts,' 'Why Women Believe Candace (Candace Owens),' 'One of the Darkest Things I've Ever Seen,' 'Candace (Candace Owens) Has Nothing but False Accusations,' 'Candace (Candace Owens) Gave Off Massive Red Flags.' He's kind of—his new imagination...”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:31:41](/episodes/ep-6XfDqKTdFKg.md#t-00-31-28): “This is a real tweet. It's an aspirational level of derangement. He wrote this. She does this largely on purpose. All Candace (Candace Owens) cares about is fame and money. Nothing is beneath her. And everything that causes people to talk more about her is a tool in her arsenal. So I...”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth.”
 
 </details>
 
@@ -16716,7 +16884,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (67)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (68)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -16785,6 +16953,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:00:39](/episodes/ep-6jOEN9rBePU.md#t-00-00-39): “And I was thinking about that and how actually Charlie (Charlie Kirk), or at least the Charlie (Charlie Kirk) that I knew, not the manufactured ghost of Charlie (Charlie Kirk) that turning point presents today, who is nothing like the real Charlie (Charlie Kirk). ... And while we're asking questions, why is it that turning point under her leadership appears to be so especially focused on access to high schools, Club America, which is being administratively forced upon students who are not signing up for this club?”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:15:35](/episodes/ep-YPIYYHCNPbE.md#t-00-15-27): “Classic TPUSA. TPUSA today, I should say, because this was not a chronic issue when Turning Point USA began. Now, not until all the money came in from God knows where. ... Not until Turning Point got heaven focused, focused on heaven, did this start to manifest as a problem. And I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits, and think that we're going to shut up and, I guess, like, bend the knee to this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:04:43](/episodes/ep-VUSs6CTp78Q.md#t-00-04-12): “No way under the current cloud of suspicion that lingers over Turning Point USA headquarters. Would they be so bold as to fake a statue hate crime? ... Because that also would be kind of sadistic, right? They might be orchestrating red paint to be put in the exact place on Charlie (Charlie Kirk)'s neck that he bled out from. Like I was like too evil. ... But we also noticed it sure is weird that they're refusing to release any further details regarding the suspect. ... I mean, once again, the CEO and chairwoman of the organization is Charlie (Charlie Kirk)'s wife. She could simply release more details to the public, right? So the public could help to discover who the vandals were, car description, how many people.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:00:15](/episodes/ep-ihLQRXxIfjU.md#t-00-00-01): “The ideas that you guys come up with. I mean, this time regarding how we might help catch those pesky gangbangers over at TPUSA, this user wrote this.”
 
 </details>
 
@@ -16949,7 +17118,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -16962,6 +17131,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:41:10](/episodes/ep-O4Zw3bCALjU.md#t-00-40-46): “It's all about fundraising, powering their machine. Oh, this is what Tyler Bowyer, by the way, who runs TP Action, tweeted in response to this as well. Same exact link, commit to chase the ballots. Like, what are we doing? 'After what the left did to our headquarters today.' I'm sorry, where's your positive evidence of the left did this? Why is it always so easy for them to make that claim? And yet we can present tons of footage, tons of evidence. We can show Terryl (Terryl Farnsworth) doing a thousand shady things, and they basically say we have no right, it's not positive evidence, we have no right to infer. But they basically say we have no answers, we're blaming the left. We—and now we have a surge of volunteers signing up to come to Arizona...”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:16:22](/episodes/ep-YPIYYHCNPbE.md#t-00-16-10): “And lastly, I want to add this before we go on to break, we should discuss turning point action because turning point action is run by sexual deviant Tyler Bowyer. I keep telling you this.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:03:05](/episodes/ep-VUSs6CTp78Q.md#t-00-02-35): “The point is that Tyler Bowyer is a shady guy.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “Instead, Tyler Bowyer is blocking more people on X. I am very disappointed. I'm very disappointed.”
 
 </details>
 
@@ -17057,7 +17227,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
@@ -17067,6 +17237,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute. ... We don't, I genuinely can't even engage. I just find him to be just spastic, honestly. Jason Bourne's wife (commenter handle; identity unverified).”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth. ... He is treating her like an abused child and going, I understand why you think that that happened, but it didn't happen.”
 
 </details>
 
@@ -17247,7 +17418,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (36)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -17284,6 +17455,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:41:26](/episodes/ep-ihLQRXxIfjU.md#t-00-41-26): “The Trump family has done the level of corruption. It's so shocking. It's also embarrassing for me as someone who believed that they, when they got in there, were... we were fighting the concept of this level of corruption. This is why we didn't vote for Hillary Clinton. Seeing what Trump (Donald Trump) 2.0 has become, it's sickening. You know, it's the reason why they are panicking about the midterms. OK, that serves them well. He is... ... He has betrayed everyone, including Charlie Kirk. So I don't I'm not a fan of the Kimberly Guilfoyle, Patsy situation, Maga Patsy situation.”
 
 </details>
 
@@ -17400,7 +17572,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
@@ -17412,6 +17584,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:35:32](/episodes/ep-K1tFD7FfoCU.md#t-00-35-20): “I am everyone right now when I say that Kash Patel is the most embarrassing human in the United States.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:39:04](/episodes/ep-pc3pxRyNFZk.md#t-00-38-59): “We're not gonna get those answers from Kash Patel about that plane. We're not even getting straight answers about the other plane.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:51:47](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47): “because Kash Patel is just not interested and it is a struggle for me to believe that they didn't know about this French angle”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -17465,7 +17638,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[FBI](/entities/org-fbi.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
@@ -17475,6 +17648,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:30:48](/episodes/ep-4JxgOclKzqg.md#t-00-30-48): “Anyway, speaking of this totally inappropriate chain of custody, the FBI jumping on the case like cowboys, that's not how this works.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:33:56](/episodes/ep-O4Zw3bCALjU.md#t-00-33-21): “None of you cared to explore what happened to try to make sure that the feds who are not traditionally an agency that we trust, the FBI, they've never. Ever, ever, has there ever been a period of even five years in this country since their founding, period of one year, where they were not up to no good? They are constantly up to no good. All of you basically said, ignore that. We're actually partnering with the feds. Ignore all of the obvious holes in the story.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:53:36](/episodes/ep-ms5ChhZegRg.md#t-00-53-24): “The Federal Bureau of Investigations has always been corrupt, ladies and gentlemen. You should not be that shocked by that. But tomorrow.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:11:48](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26): “And as we demonstrated to you guys in an earlier episode, they put him through hell. They effectively forced him to give a false testimony because he was being tortured. ... You would think the FBI would immediately address this, and I would say I think it's going to be really hard for the FBI to get around these details.”
 
 </details>
 
@@ -17597,9 +17771,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Dan Bongino](/entities/person-dan-bongino.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:08:50](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38): “I mean, Dan Bongino is just lying. That's how I'm reading him.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -17782,9 +17957,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Chris Bagley](/entities/person-chris-bagley.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:16:07](/episodes/ep-1CFDtD0IgEg.md#t-00-15-33): “Officer Bagley (Christopher Bagley), who I have to say, were I seated amongst a jury of my peers, I would label him to be unconvincing in his presentation.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:15:26](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26): “Nah, I don't buy it. Nonetheless, let's assume that he sung the truth. And instead, I am the person that has to help him. I am the person that must oblige Officer Bagley (Officer Bagley; UVU witness, given name unverified)'s extreme oversight. ... That's what I would call it. I think it's extreme oversight. And I can exclusively confirm here on this show that, yes, someone did indeed go back up onto Losee rooftop to the ledge afterward.”
 
 </details>
 
@@ -18158,9 +18334,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22): “Go try to fact check this yourself. You will see the entire narrative is fake. It is being pushed by Bill Ackman, among other people. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “Goes on: instead of reporting the details of October 7th, 2024, the terrorist attacks against Israel, you have repeatedly posted about Christians being killed by Israel, and you recognize that this has led some to conclude that you are anti-Semitic. This... ... these are part of the reasons that I was fired for the Daily Wire. ... All of the reasons are within the same theme, and generally I want it all to be released because I think it really demonstrates what we have covered, again, on repeat on this show, is the audacity of the gaslight. How insane you have to be to know that you explicitly put the tweet in my firing docs among very, a great many other totally deranged things.”
 
 </details>
 
@@ -18228,6 +18405,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:20:49](/episodes/ep-VUSs6CTp78Q.md#t-00-20-28): “That was a busy guy. I don't even know why Val (Val Peterson) would be picked to be on the board of a hospital. I don't know what in his background. ... When you pick a board, it's like relevant to, hey, we want former doctor, former surgeon, help us run a hospital. What is his expertise there other than just being an important guy? ... He's really well connected.”
+
+</details>
+
+- **[Brian Mast](/entities/person-brian-mast.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life. ... It was crazy. I'm totally crazy that he would say that. And it became a whole thing. And they tried to convince me that the tweet in and of itself was anti-Semitic.”
 
 </details>
 
@@ -18371,7 +18555,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** defended by this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime.”
@@ -18380,6 +18564,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:16:00](/episodes/ep-6XfDqKTdFKg.md#t-00-15-32): “My opinion, though I can say on the basis of the shifting narratives, is this. I have always maintained that I believe Tyler Robinson was involved with something on that day, that he played a role, that he was around campus. I do not believe he had anything to do with the actual killing of Charlie Kirk. But I recommend he could be guilty of tampering with evidence.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:27:28](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04): “Probably because Tyler Robinson didn't shoot Charlie (Charlie Kirk) from the Losee rooftop. ... Again, that's my opinion.”
 
 </details>
 
@@ -18487,9 +18672,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Cole Jr.](/entities/person-brian-cole-jr.md)** defended by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:51:36](/episodes/ep-ms5ChhZegRg.md#t-00-51-21): “Yes, free Brian Cole Jr. We covered that last week. We're going to keep covering that today because there are some dots that are connecting. ... And if someone keeps repeating that you did something, what that might do to them. It's despicable. And we should all be rising up against it. Hey, BLM, I think we got off on the wrong foot. ... You know, I'm not I'm not a supporter of the George Floyd stuff, but I can get behind making some noise over Brian J. Cole. ... I mean, we're not we're not I'm not talking rioting, of course, but I'm saying like where is this is a topic that really actually matters. The feds are blaming something on a black autistic kid.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:09:01](/episodes/ep-ihLQRXxIfjU.md#t-00-08-54): “I just made it easy for the FBI to do their job. Release Brian Cole Jr. now. Yeah, that's going to be a tough one to get over. ... Yeah, I'd say release Brian Cole (Brian Cole Jr.) now. And by the way, that's not all. He's also wearing a custom face mask.”
 
 </details>
 
@@ -18497,6 +18683,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 @ 00:34:40](/episodes/ep-yrg_-D6oNHE.md#t-00-34-40): “The independent review informed us that Robin (Robin Ebmeyer) was present at the major events committee meeting where Macy Crofts insisted on them being outside. We learned that Robin (Robin Ebmeyer) express that this was not a good idea. ... Do you have someone who expressed, I don't think this is a good idea for this event to be held there. ... According to meeting participants, Crofts (Macy Crofts) insisted on the use of the fountain courtyard location because Charlie Kirk had previously spoken on campus and TPUSA was familiar with the location. ... Crofts (Macy Crofts) also reportedly preferred the TPUSA manage online ticketing through its national office in Phoenix. And some of the MEAC members. ... Members continued to express reservations, including Robin Ebmeyer, UVU's director of emergency management safety. So this person did the right thing.”
+
+</details>
+
+- **[Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:41:01](/episodes/ep-ihLQRXxIfjU.md#t-00-40-43): “I'm team Kimberly Guilfoyle. I want to say that because I look at basically what everybody else in this family has done to abuse the office, to abuse what's around the office, the deals that they have made.”
+
+</details>
+
+- **[Katie Zacharia](/entities/person-katie-zacharia.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:44](/episodes/ep-ihLQRXxIfjU.md#t-00-49-38): “I agree. Justice for Katie (Katie Zacharia). Justice for Katie (Katie Zacharia).”
 
 </details>
 
@@ -18570,7 +18770,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Balance of Nature](/entities/org-balance-of-nature.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
@@ -18582,6 +18782,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387 @ 00:33:57](/episodes/ep-kn1E0scy9Wc.md#t-00-33-57): “It's my favorite. And you guys know I love Balance of Nature because as a mom, I don't really have the time to read a supplement label that looks like it requires a chemistry degree. Between everything I need to get done in the day and raising kids, I need things to be simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices, and fiber. Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. Phytonutrients are naturally occurring plant nutrients that give fruits and vegetables their color, taste, and smell. Different whole foods bring different phytonutrients, so variety actually matters. Balance of Nature uses a tailored vacuum cold process that's designed to help stabilize those naturally occurring nutrients, and the ingredients are independently tested. The routine is simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. For me, it feels like one simple thing that I can actually stick with. So head to balanceofnature.com to get 10% off their fruits and veggies supplements, plus a free gift with promo code Candace at checkout. That's balanceofnature.com with code Candace at checkout.”
 - [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 @ 00:42:20](/episodes/ep-_Sq5RqP27NY.md#t-00-42-05): “I need things simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices and fiber. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today. today and get 35% off your first subscription with code Candace at checkout.”
 - [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 @ 00:56:38](/episodes/ep-q4m-kGzvwjw.md#t-00-56-14): “I need things that are simplified. That's why I love Balance of Nature's whole health system. It's built around 47 ingredients on real whole fruits, vegetables, spices, and fiber. ... Things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. And here's what I found interesting. ... Phytonutrients are naturally occurring plant nutrients that give... give fruits and vegetables their color, their taste, and their smell. ... Different whole foods bring different phytonutrients, so variety actually really matters. Balance of Nature uses a tailored vacuum cold process designed to help stabilize those naturally occurring nutrients and the ingredients are independently tested. ... The routine is very simple. Three fruits capsules, three veggies capsules, and two scoops of fiber and spice. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and get 35% off your first subscription if you use. ... Use code CANDICE at checkout. That's balanceofnature.com. I also have to remind you guys about American financing because cheap simple things like fast food stops with the family have become out of control expensive.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:28:47](/episodes/ep-ihLQRXxIfjU.md#t-00-28-20): “That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices, and and fiber, things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and you'll get 35% off your first subscription with code CANDACE at checkout.”
 
 </details>
 
@@ -18604,7 +18805,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (58)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (59)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -18664,6 +18865,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:36:44](/episodes/ep-VUSs6CTp78Q.md#t-00-36-13): “It's possible when you call American financing today. today. If you're feeling stretched by everyday expenses and talking groceries, gas, bills piling up, you should know that you are not alone. ... Most Americans are putting these expenses on their credit cards and credit card rates are insane, I mean in the 20s or even 30s, but American Financing can show you how to use your home's equity to pay off that debt. ... Their salary-based mortgage consultants are helping homeowners just like you restructure their loans and save money every single month. ... There are no upfront fees to find out how much you could be saving. Their customers are saving an average of $800 a month, which is like a $10,000 raise without having to change jobs. ... So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:05](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -18742,7 +18944,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[PreBorn!](/entities/org-preborn.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -18773,6 +18975,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns. @ 00:35:59](/episodes/ep-0pSAhaAZz1w.md#t-00-35-59): “Proof that preborn is not just saving babies, it's saving souls. Right now, another mother needs that moment and you can give it to her for just $28. You can help provide one lifesaving ultrasound, 140 helps rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:23:21](/episodes/ep-6jOEN9rBePU.md#t-00-23-14): “Just the chance for new life skyrockets. This year, that moment has led to thousands of commitments to Christ (Jesus Christ), proof that PreBorn is not just rescuing babies, it's saving souls. Right now another mother needs that moment, and you can give it to her. For just $28, you can provide one life-saving ultrasound. $140 helps rescue five babies, and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword "baby." Again, ... that's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. I also want to remind you guys about Pure Talk because you know I personally love them and I absolutely love that they are bringing back their best promotion in company history, which is unlimited data for life. That's unlimited talk, text and data plus a 30 gig hotspot for just $29.95 a month for life.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:24:36](/episodes/ep-YPIYYHCNPbE.md#t-00-24-24): “Proof that Preborn is not just saving babies, it's rescuing souls. Right now, another mother needs that moment and you can give it to her. ... For just $28, you can help to provide one life-saving ultrasound. $140 can help rescue five babies and all gifts are tax deductible. ... So if you'd like to give, dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:27:36](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04): “Again, that's my opinion. We'll be right back after a brief break. All right, you guys, for 20 years, preborn has stood in the gap between fear and hope. And this year alone, God has used preborn to save nearly 60,000 babies from abortion. ... Right now, another mother needs that moment and you can give it to her for just $28. You can help to provide one life-saving ultrasound. ... $140 helps to rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby, that's pound 250 baby or visit preborn.com slash Candace. Again, Five zero baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 
 </details>
 
@@ -19091,6 +19294,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Wild Pastures](/entities/org-wild-pastures.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:30:18](/episodes/ep-ihLQRXxIfjU.md#t-00-30-18): “And if a membership is not for you, you can even order a one-time delivery. So make the switch to better meat with Wild Pastures. Visit wildpastures.com slash Candace or use code Candace at checkout for 20% off for life. ... Plus, you'll get a bonus of $15 off with your first purchase. Again, that's wildpastures.com slash Candace.”
+
+</details>
+
+- **[Steve Baker](/entities/person-steve-baker.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:11:26](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26): “They even go further and they do a height analysis. It's worth following the work of Steven Baker (Steve Baker).”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** exchanged messages with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
@@ -19108,7 +19325,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** fired this
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:43](/episodes/ep-ja26iltROkM.md#t-00-49-28): “post me being fired from The Daily Wire.”
@@ -19129,6 +19346,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:26](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “these are part of the reasons that I was fired for the Daily Wire.”
 
 </details>
 
@@ -19141,11 +19359,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** fired this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “By the way, I had a little back-forth tiff, and this has been going on for three years. I just, you know, this is just, like I said, permanent background noise in my life, is this former CEO of Daily Wire, Jeremy Boreing, ... who is just like, he's just never going to stop involving himself in my life. I have a fake podcast. ... But it's so stunning to me that he fired me and is now trying to gaslight people about the reasons that he fired me because I said genocide is always wrong. So, of course, nobody was talking about it.”
 
 </details>
 
@@ -19360,13 +19579,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 - [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. @ 00:21:25](/episodes/ep-_2DiIbfy4mU.md#t-00-21-25): “My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 @ 00:55:12](/episodes/ep-bIuvTKlFeGo.md#t-00-55-12): “15% of your portfolio in gold, but not all gold companies are trustworthy. My friend Tucker Carlson investigated the industry and was shocked to discover that the biggest names in the business were robbing customers with misleading sales tactics, confusing markups, and patriotic branding to win trust.”
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:38:37](/episodes/ep-6jOEN9rBePU.md#t-00-38-29): “So if you've been thinking about gold, this is your window. That's why I'm proud to partner with my friend Tucker Carlson's company, Battalion Metals.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49): “So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple.”
 
 </details>
 
@@ -20395,6 +20615,69 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Newf (viewer; identity unverified)](/entities/anon-src-ihLQRXxIfjU-004.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:10](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “It's just noise at this point. Comments from today's episode. Newf writes, hi, Candace (Candace Owens). I'm sending love from Saudi Arabia. ... It's my sister Sarah Aziz's birthday today. We are both huge fans of yours. Could you please wish her a happy birthday?”
+
+</details>
+
+- **[Sarah Aziz (source-named birthday recipient; identity unverified)](/entities/anon-src-ihLQRXxIfjU-005.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:10](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “It's just noise at this point. Comments from today's episode. Newf writes, hi, Candace (Candace Owens). I'm sending love from Saudi Arabia. ... It's my sister Sarah Aziz's birthday today. We are both huge fans of yours. Could you please wish her a happy birthday?”
+
+</details>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic.”
+
+</details>
+
+- **[Meaning Heels (viewer handle; identity unverified)](/entities/anon-src-ihLQRXxIfjU-003.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44): “Meaning Heels (viewer handle as transcribed) writes, end-of-pregnancy Candace (Candace Owens) is my favorite kind of Candace (Candace Owens).”
+
+</details>
+
+- **[Kiwi Kel (viewer; identity unverified)](/entities/anon-src-ihLQRXxIfjU-002.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:45:58](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58): “Kiwi Kell (viewer handle as transcribed) writes, I believe in the power of prayer. I take care of my disabled vet dad with dementia. I'm having scans on Thursday to see if my cancer is back. I trust in Lord with all my heart. I would appreciate your prayers. Prayers for Candace (Candace Owens) and her family.”
+
+</details>
+
+- **[Ali (ihLQRXxIfjU commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-007.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58): “Ali writes, I don't know if you realize this, but you already won. You ruined the Zionist plan to hijack Charlie (Charlie Kirk)'s legacy.”
+
+</details>
+
+- **[Brooke (ihLQRXxIfjU commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-008.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:48:28](/episodes/ep-ihLQRXxIfjU.md#t-00-48-14): “That's my opinion. Anyway, moving on from that Brooke writes, Candace (Candace Owens), you are glowing. I can't believe you're about to go on maternity leave. It's going to feel like forever. ... I'm sending so much love and blessings from me and the rest of Houston. Jesus (Jesus Christ) is King. Go Max.”
+
+</details>
+
+- **[Tony Hill (commenter; identity unverified)](/entities/anon-src-ChuWo-n49B8-tony-hill.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:28](/episodes/ep-ihLQRXxIfjU.md#t-00-48-51): “Tony Hill writes, as a lawyer, I think it is unethical for Katie Zacharia to present herself as a lawyer. And by lawyer, I mean I serve tables at a restaurant. ... She's the least fraudulent thing in the White House nowadays, LOL. I love you, Candace (Candace Owens) in prayers for your delivery.”
+
+</details>
+
+- **[Blushing Chaos (viewer handle; identity unverified)](/entities/anon-src-ihLQRXxIfjU-010.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:50:00](/episodes/ep-ihLQRXxIfjU.md#t-00-49-38): “Blushing chaos writes my apologies for the ex trauma that ensued today. I was trying to give you some love and support and it blew up.”
+
+</details>
+
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** target of criticism from this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -20620,7 +20903,158 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (5977)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (6026)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (49)</summary>
+
+- [00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39) [○] (Accusation) ["Owens said it would appear Kash Patel and Dan Bongino decided to blame Brian Col..."](/statements/statement-fb07af2145a6.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:01:24](/episodes/ep-ihLQRXxIfjU.md#t-00-01-24) [○] (Accusation) ["Owens said it appears the feds might not be telling the whole truth and might be..."](/statements/statement-2ef8c81319fc.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Autism spectrum disorder](/entities/concept-autism-spectrum-disorder.md)
+
+- [00:02:52](/episodes/ep-ihLQRXxIfjU.md#t-00-02-23) [○] (Claim) ["Owens characterized Steve Baker as believing the pipe-bomb suspect was a woman w..."](/statements/statement-2b3e54588a5e.md)
+  - About: [Steve Baker](/entities/person-steve-baker.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
+
+- [00:04:01](/episodes/ep-ihLQRXxIfjU.md#t-00-03-52) [○] (Claim) ["Owens said Scripps Media supplied old traffic-stop footage of Brian Cole Jr. tha..."](/statements/statement-ad5df9007fbb.md)
+  - About: [The E.W. Scripps Company](/entities/org-ew-scripps-company.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:04:30](/episodes/ep-ihLQRXxIfjU.md#t-00-04-30) [○] (Accusation) ["Owens alleged that the CIA used Operation Mockingbird to pay American journalist..."](/statements/statement-e8ffb12524a8.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)
+
+- [00:05:14](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) [○] (Accusation) ["Owens said it feels like the DoD is putting people on payroll to repeat things t..."](/statements/statement-1af7793c4941.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:05:30](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) [○] (Citation) ["Owens cited Carl Bernstein as explicitly listing Scripps Media among publication..."](/statements/statement-4aeca2825a6e.md)
+  - About: [Carl Bernstein](/entities/person-carl-bernstein.md), [The E.W. Scripps Company](/entities/org-ew-scripps-company.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:06:04](/episodes/ep-ihLQRXxIfjU.md#t-00-05-55) [○] (Claim) ["Owens said Steve Baker’s team found footage of Brian Cole Jr. across town at 7:5..."](/statements/statement-7738bf8020eb.md)
+  - About: [Steve Baker](/entities/person-steve-baker.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:11:48](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26) [○] (Accusation) ["Owens alleged Brian Cole Jr. was effectively forced to give false testimony beca..."](/statements/statement-21f8d8e72ce9.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) [○] (Claim) ["Owens said Kash Patel had made no comment yet, Dan Bongino had gone on an online..."](/statements/statement-6bb833a84217.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) [○] (Opinion) ["Owens said she does not believe Tyler Robinson was ever on the Losee rooftop on ..."](/statements/statement-882543eb9dfe.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51) [○] (Claim) ["Owens said Kathy Nester questioned Officer Bagley about whether he checked UVU c..."](/statements/statement-47d371e14364.md)
+  - About: [Kathryn Nester](/entities/person-kathryn-nester.md), [Chris Bagley](/entities/person-chris-bagley.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:14:14](/episodes/ep-ihLQRXxIfjU.md#t-00-14-09) [○] (Accusation) ["Owens alleged Officer Bagley did not check cameras for anyone on the Losee rooft..."](/statements/statement-6bef615b6e4b.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:15:42](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26) [○] (Claim) ["Owens said someone returned to the Losee rooftop ledge afterward and that, in he..."](/statements/statement-7df6b100c824.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+- [00:16:31](/episodes/ep-ihLQRXxIfjU.md#t-00-16-10) [○] (Claim) ["Owens described side-by-side rooftop images as taken at 12:17 and 12:37, twenty ..."](/statements/statement-0036709bfea2.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+- [00:17:19](/episodes/ep-ihLQRXxIfjU.md#t-00-17-19) [○] (Claim) ["Owens said the person she believes returned to the same rooftop spot lingered th..."](/statements/statement-ca3d120ed05a.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+- [00:17:55](/episodes/ep-ihLQRXxIfjU.md#t-00-17-55) [○] (Claim) ["Owens nicknamed the unidentified tall rooftop person Slenderman and said she bel..."](/statements/statement-42a93e5b6097.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Losee Center](/entities/org-losee-center.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:47](/episodes/ep-ihLQRXxIfjU.md#t-00-20-47) [○] (Claim) ["Owens said the rooftop person returned to the ledge at 12:40, the footage blacke..."](/statements/statement-8c59c5b50e4c.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+- [00:22:11](/episodes/ep-ihLQRXxIfjU.md#t-00-21-41) [○] (Claim) ["Owens said Officer Bagley appeared on the rooftop less than a minute after the p..."](/statements/statement-eaab16f1afae.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:22:56](/episodes/ep-ihLQRXxIfjU.md#t-00-22-56) [○] (Opinion) ["Owens explicitly framed as opinion her belief that Officer Bagley, the authoriti..."](/statements/statement-c7de6155fd36.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Kathryn Nester](/entities/person-kathryn-nester.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:24:13](/episodes/ep-ihLQRXxIfjU.md#t-00-24-07) [○] (Opinion) ["Owens said, in her opinion, Slenderman was returning to the scene of a non-crime..."](/statements/statement-8ddd4d09a68c.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:25:05](/episodes/ep-ihLQRXxIfjU.md#t-00-24-40) [○] (Accusation) ["Owens said it appears to her that someone with a lot of power, potentially at th..."](/statements/statement-3dc8f224cbd8.md)
+  - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+- [00:25:26](/episodes/ep-ihLQRXxIfjU.md#t-00-25-26) [○] (Accusation) ["Owens speculated that the missing minute might show a screwdriver being tossed a..."](/statements/statement-aa75be3ef35b.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:26:21](/episodes/ep-ihLQRXxIfjU.md#t-00-26-21) [○] (Accusation) ["Owens said that if footage showed someone tossing the screwdriver before Officer..."](/statements/statement-c65d92dcefc0.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Axon Enterprise](/entities/org-axon-enterprise.md)
+
+- [00:29:44](/episodes/ep-ihLQRXxIfjU.md#t-00-29-44) [○] (Claim) ["In a Wild Pastures sponsor read, Owens said the company delivers pasture-raised ..."](/statements/statement-7e270005ff2f.md)
+  - About: [Wild Pastures](/entities/org-wild-pastures.md)
+
+- [00:32:39](/episodes/ep-ihLQRXxIfjU.md#t-00-32-39) [○] (Accusation) ["Citing The Assault on Truth, Owens alleged Sigmund Freud knew children were bein..."](/statements/statement-11c4b1886bd2.md)
+  - About: [Sigmund Freud](/entities/person-sigmund-freud.md), [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md)
+
+- [00:33:42](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) [○] (Accusation) ["Owens alleged Jeremy Boreing fired her because she said genocide is always wrong..."](/statements/statement-36d9d117a183.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:35:01](/episodes/ep-ihLQRXxIfjU.md#t-00-35-01) [○] (Claim) ["Owens said confidentiality clauses allow her only a proportionate response when ..."](/statements/statement-656e4596f797.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:35:58](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45) [○] (Citation) ["Owens cited her firing document as including her tweet and stating that she insi..."](/statements/statement-3cf07f4e835b.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md)
+
+- [00:36:28](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28) [○] (Opinion) ["Owens quoted her own tweet: no government anywhere has a right to commit genocid..."](/statements/statement-791e286206b4.md)
+
+- [00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07) [○] (Citation) ["Owens read another stated reason from her Daily Wire firing document: instead of..."](/statements/statement-a6c0bc870eb4.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+- [00:38:23](/episodes/ep-ihLQRXxIfjU.md#t-00-38-16) [○] (Opinion) ["Owens said she feels Kimberly Guilfoyle is being made a patsy and alleged that h..."](/statements/statement-653e56eb56d1.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Greece](/entities/gpe-greece.md)
+
+- [00:38:57](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] (Citation) ["Owens cited Axios as reporting that Kimberly Guilfoyle had been pushed out as am..."](/statements/statement-278cbbcb04b6.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [White House](/entities/org-white-house.md), [Axios](/entities/org-axios.md)
+
+- [00:39:12](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] (Accusation) ["Owens relayed reports alleging Kimberly Guilfoyle abused her diplomatic office b..."](/statements/statement-384316d912ca.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+- [00:39:25](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] (Accusation) ["Owens said an unnamed person came forward to Eric Deters alleging Guilfoyle want..."](/statements/statement-daa8517a5b19.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Eric Deters](/entities/person-eric-deters.md), [White House](/entities/org-white-house.md)
+
+- [00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37) [○] (Accusation) ["Owens alleged Miriam Adelson had outright purchased the White House."](/statements/statement-3837007a7e19.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md), [White House](/entities/org-white-house.md)
+
+- [00:40:24](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) [○] (Accusation) ["Owens accused the Trump brothers of crypto scams while questioning the focus on ..."](/statements/statement-48db67224f62.md)
+  - About: [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Cryptocurrency](/entities/concept-cryptocurrency.md), [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+- [00:40:34](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) [○] (Accusation) ["Owens accused Katie Zacharia of lying about her resume and said administration f..."](/statements/statement-8ff49da2cecd.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+- [00:41:01](/episodes/ep-ihLQRXxIfjU.md#t-00-40-43) [○] (Opinion) ["Owens declared herself team Kimberly Guilfoyle, characterized the Trump family’s..."](/statements/statement-a740932bb1f8.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) [○] (Claim) ["In a Battalion Metals sponsor read, Owens asserted the Strait of Hormuz was stil..."](/statements/statement-698f0dec497d.md)
+  - About: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md), [Iran](/entities/gpe-iran.md)
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) [○] (Prediction) ["In a Battalion Metals sponsor read, Owens predicted fuel prices would only go up..."](/statements/statement-61fb57fe25f7.md)
+  - About: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md), [Iran](/entities/gpe-iran.md)
+
+- [00:42:49](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] (Claim) ["In a Battalion Metals sponsor read, Owens claimed gold had performed better than..."](/statements/statement-f45601b96eee.md)
+  - About: [Battalion Metals](/entities/org-battalion-metals.md), [S&P 500](/entities/concept-sp-500.md)
+
+- [00:42:56](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] (Prediction) ["In a Battalion Metals sponsor read, Owens said gold had dipped from record highs..."](/statements/statement-275488bc4238.md)
+  - About: [Battalion Metals](/entities/org-battalion-metals.md)
+
+- [00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] (Claim) ["Owens described Battalion Metals as her friend Tucker Carlson’s company."](/statements/statement-b1d70f663fe6.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Battalion Metals](/entities/org-battalion-metals.md)
+
+- [00:44:20](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05) [○] (Claim) ["Owens characterized Tyler Bowyer as saying they could not do anything else about..."](/statements/statement-9379f3c4b5ce.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44) [○] (Claim) ["Owens said Tyler Bowyer was blocking more people on X rather than releasing more..."](/statements/statement-dca620bbb0ca.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Twitter](/entities/org-twitter.md)
+
+- [00:46:55](/episodes/ep-ihLQRXxIfjU.md#t-00-46-35) [○] (Accusation) ["Owens alleged the state executed Charlie Kirk and warned that another potentiall..."](/statements/statement-97d67a9390d0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:48:14](/episodes/ep-ihLQRXxIfjU.md#t-00-48-14) [○] (Opinion) ["Owens said she believes Charlie Kirk said no to a larger picture of global human..."](/statements/statement-7e4bf4d4c851.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:50:29](/episodes/ep-ihLQRXxIfjU.md#t-00-50-24) [○] (Opinion) ["Owens publicly gave permission to release all her firing documents and said ther..."](/statements/statement-b89067bf3eeb.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (25)</summary>
@@ -38887,7 +39321,36 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (827)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (835)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (8)</summary>
+
+- [00:33:42](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) (Accusation) **Candace Owens**: ["Owens alleged Jeremy Boreing fired her because she said genocide is al..."](/statements/statement-36d9d117a183.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) (Opinion) **Kelly Fuller (commenter; identity unverified)** (via quoted tweet): ["Kelly Fuller, a commenter whose legal identity is unverified, wrote th..."](/statements/statement-5f3e1a266e7c.md)
+  - Also about: [Ian Carroll](/entities/person-ian-carroll.md), [Baron Coleman](/entities/person-baron-coleman.md)
+
+- [00:34:23](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) (Opinion) **Kelly Fuller (commenter; identity unverified)** (via quoted tweet): ["Kelly Fuller wrote that firing someone for saying genocide is always w..."](/statements/statement-8e322225e98c.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) (Accusation) **Jeremy Boreing** (via quoted tweet): ["Jeremy Boreing wrote that he wondered whether Kelly Fuller was deliber..."](/statements/statement-fb836250a967.md)
+  - Also about: [Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)
+
+- [00:35:01](/episodes/ep-ihLQRXxIfjU.md#t-00-35-01) (Claim) **Candace Owens**: ["Owens said confidentiality clauses allow her only a proportionate resp..."](/statements/statement-656e4596f797.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:35:58](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45) (Citation) **Candace Owens**: ["Owens cited her firing document as including her tweet and stating tha..."](/statements/statement-3cf07f4e835b.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md)
+
+- [00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07) (Citation) **Candace Owens**: ["Owens read another stated reason from her Daily Wire firing document: ..."](/statements/statement-a6c0bc870eb4.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md), [Christians](/entities/concept-christians.md)
+
+- [00:50:29](/episodes/ep-ihLQRXxIfjU.md#t-00-50-24) (Opinion) **Candace Owens**: ["Owens publicly gave permission to release all her firing documents and..."](/statements/statement-b89067bf3eeb.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1)</summary>

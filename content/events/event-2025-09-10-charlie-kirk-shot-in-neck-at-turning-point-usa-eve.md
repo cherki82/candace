@@ -18,7 +18,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (168 times)
+## Mentioned In (169 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -1381,3 +1381,11 @@ date: "2025-09-10"
 
 > **Date stated in this source:** “one year anniversary of Charlie (Charlie Kirk)'s death”
 > **Date review note:** Source refers retrospectively to the canonical September 10, 2025 killing, while dating the statue installation to its first anniversary in 2026.
+
+### 169. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:18:14](/episodes/ep-ihLQRXxIfjU.md#t-00-17-55) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=1094s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So this is 12 minutes after Charlie is hit.

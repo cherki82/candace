@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 468 mentions"
+description: "Michael McCoy (People) - 470 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-michael-mccoy-t-00-47-10">2026-10-15 · 00:47:10</a></strong></div>
-<div><span>Episodes</span><strong>89</strong></div>
-<div><span>Mentions</span><strong>468</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-michael-mccoy-t-00-31-02">2026-10-20 · 00:31:02</a></strong></div>
+<div><span>Episodes</span><strong>90</strong></div>
+<div><span>Mentions</span><strong>470</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>133</strong></div>
 <div><span>Relationships</span><strong>72</strong></div>
@@ -126,6 +126,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27" style="--pulse-height:97%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 32 mentions" title="2026-10-08 · 32 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-person-michael-mccoy-t-00-20-49" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-michael-mccoy-t-00-16-10" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 4 mentions" title="2026-10-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-michael-mccoy-t-00-30-18" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -220,6 +221,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-person-michael-mccoy-t-00-03-27) | 32 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-person-michael-mccoy-t-00-20-49) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-michael-mccoy-t-00-16-10) | 4 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-michael-mccoy-t-00-30-18) | 2 |
 
 </details>
 </section>
@@ -231,7 +233,18 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (468)</strong></summary>
+<summary><strong class="section-title">Raw mentions (470)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:30:54](/episodes/ep-ihLQRXxIfjU.md#ent-person-michael-mccoy-t-00-30-18)**
+> "We've got General McCoy (Michael McCoy). This is a good one to have. You want this one i..."
+
+**[00:31:02](/episodes/ep-ihLQRXxIfjU.md#ent-person-michael-mccoy-t-00-31-02)**
+> "..., extraordinary. Mikey McCoy (Michael McCoy), the extraordinary Mikey McCoy (Michael McCoy). ..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (4 mentions)</summary>

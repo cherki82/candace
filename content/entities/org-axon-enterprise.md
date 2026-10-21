@@ -1,6 +1,6 @@
 ---
 title: "Axon Enterprise"
-description: "Axon Enterprise (Organizations) - 3 mentions"
+description: "Axon Enterprise (Organizations) - 5 mentions"
 id: "org-axon-enterprise"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Axon Body 4](https://www.axon.com/products/axon-body-4)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#t-00-06-31">2026-07-16 · 00:06:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#t-00-07-53">2026-07-16 · 00:07:53</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#t-00-27-04">2026-10-20 · 00:27:04</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -36,12 +36,14 @@ Source: [Axon Body 4](https://www.axon.com/products/axon-body-4)
 <p>Highest activity: <a href="/episodes/ep-mLvJqdxS-FY.md#t-00-06-31">COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mLvJqdxS-FY.md#t-00-06-31" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#t-00-26-21" style="--pulse-height:67%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-00-06-31) | 3 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#t-00-26-21) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [Axon Body 4](https://www.axon.com/products/axon-body-4)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:26:21](/episodes/ep-ihLQRXxIfjU.md#t-00-26-21)**
+> "...wdriver. But unfortunately my Axon body cam footage wasn't working. Because, I mean,..."
+
+**[00:27:04](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04)**
+> "About why his axon body cam would unusually cut out, why the UVU cam..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
@@ -79,7 +92,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Axon Enterprise (2)</strong></summary>
+<summary><strong class="section-title">Statements about Axon Enterprise (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:26:21](/episodes/ep-ihLQRXxIfjU.md#t-00-26-21) (Accusation) **Candace Owens**: ["Owens said that if footage showed someone tossing the screwdriver befo..."](/statements/statement-c65d92dcefc0.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>

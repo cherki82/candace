@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 295 mentions"
+description: "White House (Organizations) - 298 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-19-18">2026-10-19 · 00:19:18</a></strong></div>
-<div><span>Episodes</span><strong>86</strong></div>
-<div><span>Mentions</span><strong>295</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-white-house-t-00-49-38">2026-10-20 · 00:49:38</a></strong></div>
+<div><span>Episodes</span><strong>87</strong></div>
+<div><span>Mentions</span><strong>298</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>84</strong></div>
+<div><span>Statements about</span><strong>88</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>2</strong></div>
 </div>
@@ -117,6 +117,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03" style="--pulse-height:29%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 8 mentions" title="2026-10-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-15-45" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-white-house-t-00-38-57" style="--pulse-height:11%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 3 mentions" title="2026-10-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -208,6 +209,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-white-house-t-00-06-03) | 8 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-white-house-t-00-19-43) | 1 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-white-house-t-00-15-45) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-white-house-t-00-38-57) | 3 |
 
 </details>
 </section>
@@ -220,7 +222,21 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (295)</strong></summary>
+<summary><strong class="section-title">Raw mentions (298)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3 mentions)</summary>
+
+**[00:39:03](/episodes/ep-ihLQRXxIfjU.md#ent-org-white-house-t-00-38-57)**
+> "After the White House basically asked her to sit down following reports..."
+
+**[00:39:43](/episodes/ep-ihLQRXxIfjU.md#ent-org-white-house-t-00-39-37)**
+> "...delson outright purchased the White House and now all of a sudden it's like, you know, Kim ..."
+
+**[00:49:38](/episodes/ep-ihLQRXxIfjU.md#ent-org-white-house-t-00-49-38)**
+> "...least fraudulent thing in the White House nowadays, LOL. I love you, Candace (Candace Owens..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
@@ -1713,7 +1729,24 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (84)</strong></summary>
+<summary><strong class="section-title">Statements about White House (88)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (4)</summary>
+
+- [00:38:57](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) (Citation) **Candace Owens**: ["Owens cited Axios as reporting that Kimberly Guilfoyle had been pushed..."](/statements/statement-278cbbcb04b6.md)
+  - Also about: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Axios](/entities/org-axios.md)
+
+- [00:39:25](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) (Accusation) **Candace Owens** (via paraphrase): ["Owens said an unnamed person came forward to Eric Deters alleging Guil..."](/statements/statement-daa8517a5b19.md)
+  - Also about: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Eric Deters](/entities/person-eric-deters.md)
+
+- [00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37) (Accusation) **Candace Owens**: ["Owens alleged Miriam Adelson had outright purchased the White House."](/statements/statement-3837007a7e19.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md)
+
+- [00:40:34](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) (Accusation) **Candace Owens**: ["Owens accused Katie Zacharia of lying about her resume and said admini..."](/statements/statement-8ff49da2cecd.md)
+  - Also about: [Katie Zacharia](/entities/person-katie-zacharia.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (3)</summary>

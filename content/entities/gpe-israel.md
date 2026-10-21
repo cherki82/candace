@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1692 mentions"
+description: "Israel (Places) - 1695 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,13 +25,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-israel-t-00-34-32">2026-10-15 · 00:34:32</a></strong></div>
-<div><span>Episodes</span><strong>163</strong></div>
-<div><span>Mentions</span><strong>1,692</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-israel-t-00-45-23">2026-10-20 · 00:45:33</a></strong></div>
+<div><span>Episodes</span><strong>164</strong></div>
+<div><span>Mentions</span><strong>1,695</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>382</strong></div>
+<div><span>Statements about</span><strong>384</strong></div>
 <div><span>Relationships</span><strong>86</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -201,6 +201,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12" style="--pulse-height:8%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-israel-t-00-34-32" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-israel-t-00-35-45" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 3 mentions" title="2026-10-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -369,6 +370,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#ent-gpe-israel-t-00-53-12) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-israel-t-00-18-30) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-israel-t-00-34-32) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-israel-t-00-35-45) | 3 |
 
 </details>
 </section>
@@ -376,11 +378,26 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the Owens Daily Wire firing-reason dispute developed](/threads/thread-owens-daily-wire-firing-reason-dispute) — Tracks the firing explanation, quoted rebuttal, document excerpts and disclosure position presented on channel, without establishing the actual grounds for termination or document authenticity.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1692)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1695)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3 mentions)</summary>
+
+**[00:36:15](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-israel-t-00-35-45)**
+> "...e insinuated that you believe Israel is committing a genocide and refuse to explicitly..."
+
+**[00:37:07](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-israel-t-00-37-07)**
+> "...the terrorist attacks against Israel, you have repeatedly posted about Christians bein..."
+
+**[00:45:33](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-israel-t-00-45-23)**
+> "... out there at some point when Israel stops bombing everything and causing friction per..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
@@ -6982,7 +6999,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (382)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (384)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:35:58](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45) (Citation) **Candace Owens**: ["Owens cited her firing document as including her tweet and stating tha..."](/statements/statement-3cf07f4e835b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07) (Citation) **Candace Owens**: ["Owens read another stated reason from her Daily Wire firing document: ..."](/statements/statement-a6c0bc870eb4.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Christians](/entities/concept-christians.md)
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (3)</summary>

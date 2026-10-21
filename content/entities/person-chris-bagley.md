@@ -1,6 +1,6 @@
 ---
 title: "Chris Bagley"
-description: "Chris Bagley (People) - 59 mentions"
+description: "Chris Bagley (People) - 73 mentions"
 id: "person-chris-bagley"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-chris-bagley-t-00-05-13">2026-07-16 · 00:05:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-50-03">2026-09-25 · 00:50:22</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-26-21">2026-10-20 · 00:26:21</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-person-chris-bagley-t-00-07-43" style="--pulse-height:12%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 2 mentions" title="2026-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aLJhpxrakCU.md#ent-person-chris-bagley-t-00-30-35" style="--pulse-height:12%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 2 mentions" title="2026-09-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-49-22" style="--pulse-height:24%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 4 mentions" title="2026-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-12-51" style="--pulse-height:82%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 14 mentions" title="2026-10-20 · 14 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-person-chris-bagley-t-00-07-43) | 2 |
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-person-chris-bagley-t-00-30-35) | 2 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-chris-bagley-t-00-49-22) | 4 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-12-51) | 14 |
 
 </details>
 </section>
@@ -78,7 +80,54 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (14 mentions)</summary>
+
+**[00:12:59](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-12-51)**
+> "...idn't believe it. It was when Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:13:28](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-13-28)**
+> "...ooftop at 12.23 p.m. and when Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:14:09](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-14-09)**
+> "Really? Really, Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:15:26](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-15-26)**
+> "...m the person that must oblige Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:17:01](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-16-35)**
+> "...oximately five minutes before Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:17:29](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-17-19)**
+> "...to linger there. Um, and then Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:21:12](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-20-47)**
+> "...a couple of minutes from when Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:22:11](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-21-41)**
+> "...lly less than a minute later, Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:22:24](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-22-24)**
+> "Take a listen to Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:22:30](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-22-30)**
+> "Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:23:09](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-22-56)**
+> "I think Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:23:27](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-23-27)**
+> "Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:25:59](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-25-59)**
+> "...that should have been made by Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+**[00:26:21](/episodes/ep-ihLQRXxIfjU.md#ent-person-chris-bagley-t-00-26-21)**
+> "...d then, woof, all of a sudden Officer Bagley (Officer Bagley; UVU witness, given name unverifi..."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (4 mentions)</summary>
@@ -331,9 +380,10 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:16:07](/episodes/ep-1CFDtD0IgEg.md#t-00-15-33): “Officer Bagley (Christopher Bagley), who I have to say, were I seated amongst a jury of my peers, I would label him to be unconvincing in his presentation.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:15:26](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26): “Nah, I don't buy it. Nonetheless, let's assume that he sung the truth. And instead, I am the person that has to help him. I am the person that must oblige Officer Bagley (Officer Bagley; UVU witness, given name unverified)'s extreme oversight. ... That's what I would call it. I think it's extreme oversight. And I can exclusively confirm here on this show that, yes, someone did indeed go back up onto Losee rooftop to the ledge afterward.”
 
 </details>
 
@@ -378,9 +428,10 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:16:07](/episodes/ep-1CFDtD0IgEg.md#t-00-15-33): “Officer Bagley (Christopher Bagley), who I have to say, were I seated amongst a jury of my peers, I would label him to be unconvincing in his presentation.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:15:26](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26): “Nah, I don't buy it. Nonetheless, let's assume that he sung the truth. And instead, I am the person that has to help him. I am the person that must oblige Officer Bagley (Officer Bagley; UVU witness, given name unverified)'s extreme oversight. ... That's what I would call it. I think it's extreme oversight. And I can exclusively confirm here on this show that, yes, someone did indeed go back up onto Losee rooftop to the ledge afterward.”
 
 </details>
 
@@ -414,7 +465,15 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Chris Bagley (3)</strong></summary>
+<summary><strong class="section-title">Statements by Chris Bagley (4)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:22:30](/episodes/ep-ihLQRXxIfjU.md#t-00-22-30) [○] (Claim) ["Officer Bagley confirmed in the courtroom clip that he saw the screwdriver on Se..."](/statements/statement-ee2227201cc2.md)
+  - About: [Losee Center](/entities/org-losee-center.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3)</summary>
@@ -433,7 +492,27 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chris Bagley (27)</strong></summary>
+<summary><strong class="section-title">Statements about Chris Bagley (32)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (5)</summary>
+
+- [00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kathy Nester questioned Officer Bagley about whether he che..."](/statements/statement-47d371e14364.md)
+  - Also about: [Kathryn Nester](/entities/person-kathryn-nester.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:14:14](/episodes/ep-ihLQRXxIfjU.md#t-00-14-09) (Accusation) **Candace Owens**: ["Owens alleged Officer Bagley did not check cameras for anyone on the L..."](/statements/statement-6bef615b6e4b.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:22:11](/episodes/ep-ihLQRXxIfjU.md#t-00-21-41) (Claim) **Candace Owens**: ["Owens said Officer Bagley appeared on the rooftop less than a minute a..."](/statements/statement-eaab16f1afae.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
+
+- [00:22:56](/episodes/ep-ihLQRXxIfjU.md#t-00-22-56) (Opinion) **Candace Owens**: ["Owens explicitly framed as opinion her belief that Officer Bagley, the..."](/statements/statement-c7de6155fd36.md)
+  - Also about: [Kathryn Nester](/entities/person-kathryn-nester.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:26:21](/episodes/ep-ihLQRXxIfjU.md#t-00-26-21) (Accusation) **Candace Owens**: ["Owens said that if footage showed someone tossing the screwdriver befo..."](/statements/statement-c65d92dcefc0.md)
+  - Also about: [Axon Enterprise](/entities/org-axon-enterprise.md)
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2)</summary>

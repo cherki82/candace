@@ -11,7 +11,7 @@ object: "person-tucker-carlson"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU)**
 
@@ -32,6 +32,10 @@ object: "person-tucker-carlson"
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 
 - [00:41:07](/episodes/ep-h76ZN-xXC6c#t-00-41-07): _My friend Tucker Carlson started digging into the industry and what he found shocked both of us._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:43:04](/episodes/ep-ihLQRXxIfjU#t-00-43-04): _So if you've been thinking about gold, this is your window. That's why I am so proud to partner with with my friend Tucker Carlson's company, Battalion Metals, because they make it so simple._
 
 ### Related
 

@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 118 mentions"
+description: "Christians (Concepts) - 119 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -18,11 +18,11 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-christians-t-00-06-49">2026-09-30 · 00:07:16</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>118</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-christians-t-00-37-07">2026-10-20 · 00:37:07</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>119</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -85,6 +85,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34" style="--pulse-height:10%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-christians-t-00-56-45" style="--pulse-height:10%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-christians-t-00-06-49" style="--pulse-height:10%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-christians-t-00-37-07" style="--pulse-height:10%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -144,6 +145,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34) | 1 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-christians-t-00-56-45) | 1 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-christians-t-00-06-49) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-christians-t-00-37-07) | 1 |
 
 </details>
 </section>
@@ -155,7 +157,15 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (118)</strong></summary>
+<summary><strong class="section-title">Raw mentions (119)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:37:07](/episodes/ep-ihLQRXxIfjU.md#ent-concept-christians-t-00-37-07)**
+> "... have repeatedly posted about Christians being killed by Israel, and you recognize that th..."
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (1 mentions)</summary>
@@ -779,7 +789,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christians (15)</strong></summary>
+<summary><strong class="section-title">Statements about Christians (16)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07) (Citation) **Candace Owens**: ["Owens read another stated reason from her Daily Wire firing document: ..."](/statements/statement-a6c0bc870eb4.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>

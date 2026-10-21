@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [PreBorn!](/entities/org-preborn.md) (org)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrati...
 
@@ -39,6 +39,14 @@ type: "factual_claim"
 <a href="https://www.youtube.com/watch?v=0pSAhaAZz1w&t=2129s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > All right, you guys, for 20 years, preborn has stood in the gap between fear and hope. And this year alone, God has used preborn to save nearly 60,000 babies from abortion.
+
+### 3. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:27:36](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=1656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Again, that's my opinion. We'll be right back after a brief break. All right, you guys, for 20 years, preborn has stood in the gap between fear and hope. And this year alone, God has used preborn to save nearly 60,000 babies from abortion.
 
 ## Verification
 

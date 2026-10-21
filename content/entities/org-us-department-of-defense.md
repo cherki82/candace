@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 115 mentions"
+description: "United States Department of Defense (Organizations) - 116 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-33-25">2026-10-19 · 00:33:33</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>115</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-us-department-of-defense-t-00-05-14">2026-10-20 · 00:05:14</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>116</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>69</strong></div>
+<div><span>Statements about</span><strong>70</strong></div>
 <div><span>Relationships</span><strong>30</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -86,6 +86,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41" style="--pulse-height:69%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 9 mentions" title="2026-10-06 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-15-45" style="--pulse-height:15%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-us-department-of-defense-t-00-05-14" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -136,6 +137,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-us-department-of-defense-t-00-01-41) | 9 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-org-us-department-of-defense-t-00-36-37) | 1 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-department-of-defense-t-00-15-45) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-us-department-of-defense-t-00-05-14) | 1 |
 
 </details>
 </section>
@@ -147,7 +149,15 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+<summary><strong class="section-title">Raw mentions (116)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:05:14](/episodes/ep-ihLQRXxIfjU.md#ent-org-us-department-of-defense-t-00-05-14)**
+> "Almost exactly, I would say like we're seeing today, right? This feels like the DoD is putting people on payroll to repeat things that make no sense, telling us not to believe our own eyes. They're all kind of become these little mockingbirds. The evidence is overwhelming, just echoing everywhere."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>
@@ -1024,7 +1034,14 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (69)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (70)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:05:14](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) (Accusation) **Candace Owens**: ["Owens said it feels like the DoD is putting people on payroll to repea..."](/statements/statement-1af7793c4941.md)
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1)</summary>

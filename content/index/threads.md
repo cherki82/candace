@@ -10,24 +10,37 @@ description: "Reviewed theory milestones and proposition changes over event and 
 <div class="thread-index-audit"><strong>Reviewed, not inferred</strong><span>Membership and transitions require evidence. Similarity alone never creates a durable link.</span></div>
 
 <div class="thread-index-stats">
-<div><strong>485</strong><span>live branches</span></div>
+<div><strong>490</strong><span>live branches</span></div>
 <div><strong>104</strong><span>dormant seeds</span></div>
 <div><strong>24</strong><span>put to rest</span></div>
-<div><strong>3,953</strong><span>reviewed turns</span></div>
+<div><strong>3,966</strong><span>reviewed turns</span></div>
 </div>
 
 <div class="thread-index-grid">
 <article class="thread-index-card">
 <div class="thread-card-meta">
-<span>181 sources</span>
-<span>3905 reviewed turns</span>
-<time datetime="2026-10-19">Updated 2026-10-19</time>
+<span>182 sources</span>
+<span>3914 reviewed turns</span>
+<time datetime="2026-10-20">Updated 2026-10-20</time>
 </div>
 <h2><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h2>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>467</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,456</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>471</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,466</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open evidence trail <span aria-hidden="true">→</span></a>
-<span class="sr-only">6456 reviewed transitions</span>
+<span class="sr-only">6466 reviewed transitions</span>
+</article>
+
+<article class="thread-index-card">
+<div class="thread-card-meta">
+<span>1 source</span>
+<span>4 reviewed turns</span>
+<time datetime="2026-10-20">Updated 2026-10-20</time>
+</div>
+<h2><a href="/threads/thread-owens-daily-wire-firing-reason-dispute">How the Owens Daily Wire firing-reason dispute developed</a></h2>
+<p>Tracks the firing explanation, quoted rebuttal, document excerpts and disclosure position presented on channel, without establishing the actual grounds for termination or document authenticity.</p>
+<div class="thread-index-preview"><span><strong>1</strong> live endpoints</span><span><strong>0</strong> closed</span><span><strong>3</strong> reviewed links</span></div>
+<a class="thread-card-open" href="/threads/thread-owens-daily-wire-firing-reason-dispute">Open evidence trail <span aria-hidden="true">→</span></a>
+<span class="sr-only">3 reviewed transitions</span>
 </article>
 
 <article class="thread-index-card">

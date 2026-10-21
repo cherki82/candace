@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 6942 mentions"
+description: "Charlie Kirk (People) - 6954 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-38-28">2026-10-19 · 00:38:28</a></strong></div>
-<div><span>Episodes</span><strong>185</strong></div>
-<div><span>Mentions</span><strong>6,942</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-48-14">2026-10-20 · 00:48:14</a></strong></div>
+<div><span>Episodes</span><strong>186</strong></div>
+<div><span>Mentions</span><strong>6,954</strong></div>
 <div><span>Statements by</span><strong>136</strong></div>
-<div><span>Statements about</span><strong>2,281</strong></div>
+<div><span>Statements about</span><strong>2,288</strong></div>
 <div><span>Relationships</span><strong>399</strong></div>
 <div><span>Threads</span><strong>4</strong></div>
 </div>
@@ -222,6 +222,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:20%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 22 mentions" title="2026-10-14 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-00-38" style="--pulse-height:27%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 29 mentions" title="2026-10-15 · 29 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-05-32" style="--pulse-height:14%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 15 mentions" title="2026-10-19 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:11%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 12 mentions" title="2026-10-20 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -412,6 +413,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-charlie-kirk-t-00-00-01) | 22 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-charlie-kirk-t-00-00-38) | 29 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-charlie-kirk-t-00-05-32) | 15 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-00-01) | 12 |
 
 </details>
 </section>
@@ -426,7 +428,48 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6942)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6954)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (12 mentions)</summary>
+
+**[00:00:25](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-00-01)**
+> "...ding the vandalism of the CK (Charlie Kirk) statue. It just came to me as I was sitting here..."
+
+**[00:18:14](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-17-55)**
+> "... is 12 minutes after Charlie (Charlie Kirk) is hit. I want you to watch this and"
+
+**[00:19:49](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-19-21)**
+> "...Again, this is after Charlie (Charlie Kirk) is hit."
+
+**[00:23:09](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-22-56)**
+> "...tical area following Charlie (Charlie Kirk) getting hit."
+
+**[00:24:13](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-24-07)**
+> "...use I do not believe Charlie (Charlie Kirk) was shot from a Losee rooftop."
+
+**[00:27:04](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-27-04)**
+> "... unusual when it comes to the Charlie Kirk assassination."
+
+**[00:27:28](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-27-04)**
+> "...obinson didn't shoot Charlie (Charlie Kirk) from the Losee rooftop."
+
+**[00:41:52](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-41-26)**
+> "... betrayed everyone, including Charlie Kirk. So I don't I'm not a fan of the Kimberly Guilfoy..."
+
+**[00:46:30](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-45-58)**
+> "...onist plan to hijack Charlie (Charlie Kirk)'s legacy."
+
+**[00:47:04](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-46-35)**
+> "...man be executed by the state, Charlie Kirk. And now these people are so despicable and vindi..."
+
+**[00:47:43](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-47-43)**
+> "... me what they did to Charlie (Charlie Kirk), how they surrounded him, the Truman Show that s..."
+
+**[00:48:14](/episodes/ep-ihLQRXxIfjU.md#ent-person-charlie-kirk-t-00-48-14)**
+> "... believe that's what Charlie (Charlie Kirk) said no to."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (15 mentions)</summary>
@@ -26613,7 +26656,33 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (2281)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (2288)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (7)</summary>
+
+- [00:17:55](/episodes/ep-ihLQRXxIfjU.md#t-00-17-55) (Claim) **Candace Owens**: ["Owens nicknamed the unidentified tall rooftop person Slenderman and sa..."](/statements/statement-42a93e5b6097.md)
+  - Also about: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:22:56](/episodes/ep-ihLQRXxIfjU.md#t-00-22-56) (Opinion) **Candace Owens**: ["Owens explicitly framed as opinion her belief that Officer Bagley, the..."](/statements/statement-c7de6155fd36.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Kathryn Nester](/entities/person-kathryn-nester.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:24:13](/episodes/ep-ihLQRXxIfjU.md#t-00-24-07) (Opinion) **Candace Owens**: ["Owens said, in her opinion, Slenderman was returning to the scene of a..."](/statements/statement-8ddd4d09a68c.md)
+  - Also about: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:41:01](/episodes/ep-ihLQRXxIfjU.md#t-00-40-43) (Opinion) **Candace Owens**: ["Owens declared herself team Kimberly Guilfoyle, characterized the Trum..."](/statements/statement-a740932bb1f8.md)
+  - Also about: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58) (Accusation) **Ali (ihLQRXxIfjU commenter; identity unverified)** (via quoted post): ["Ali, a viewer whose identity is unverified, alleged that Owens exposed..."](/statements/statement-9a15ba119bf2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Zionism](/entities/concept-zionism.md)
+
+- [00:46:55](/episodes/ep-ihLQRXxIfjU.md#t-00-46-35) (Accusation) **Candace Owens**: ["Owens alleged the state executed Charlie Kirk and warned that another ..."](/statements/statement-97d67a9390d0.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:48:14](/episodes/ep-ihLQRXxIfjU.md#t-00-48-14) (Opinion) **Candace Owens**: ["Owens said she believes Charlie Kirk said no to a larger picture of gl..."](/statements/statement-7e4bf4d4c851.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6)</summary>

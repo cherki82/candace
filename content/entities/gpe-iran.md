@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 266 mentions"
+description: "Iran (Places) - 267 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-iran-t-00-37-45">2026-10-14 · 00:38:00</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>266</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-iran-t-00-42-09">2026-10-20 · 00:42:24</a></strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>267</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>106</strong></div>
+<div><span>Statements about</span><strong>108</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -103,6 +103,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-25-50" style="--pulse-height:13%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 3 mentions" title="2026-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#ent-gpe-iran-t-00-53-03" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-iran-t-00-37-45" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-iran-t-00-42-09" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -175,6 +176,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-iran-t-00-25-50) | 3 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#ent-gpe-iran-t-00-53-03) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-iran-t-00-37-45) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-iran-t-00-42-09) | 1 |
 
 </details>
 </section>
@@ -186,7 +188,15 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (266)</strong></summary>
+<summary><strong class="section-title">Raw mentions (267)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:42:24](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-iran-t-00-42-09)**
+> "...z still closed and the war in Iran destroying oil refineries, those prices are only ..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -1449,7 +1459,18 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (106)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (108)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) (Claim) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens asserted the Strait of Hormu..."](/statements/statement-698f0dec497d.md)
+  - Also about: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md)
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) (Prediction) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens predicted fuel prices would ..."](/statements/statement-61fb57fe25f7.md)
+  - Also about: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md)
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>

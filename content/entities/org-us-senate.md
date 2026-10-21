@@ -1,6 +1,6 @@
 ---
 title: "United States Senate"
-description: "United States Senate (Organizations) - 13 mentions"
+description: "United States Senate (Organizations) - 14 mentions"
 id: "org-us-senate"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55">2025-09-19 · 00:01:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-senate-t-00-28-26">2026-10-19 · 00:28:26</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-us-senate-t-00-38-57">2026-10-20 · 00:39:25</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -47,6 +47,7 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-org-us-senate-t-00-42-06" style="--pulse-height:50%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33" style="--pulse-height:50%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-us-senate-t-00-28-26" style="--pulse-height:50%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-us-senate-t-00-38-57" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-org-us-senate-t-00-42-06) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-us-senate-t-00-26-33) | 1 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-us-senate-t-00-28-26) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-us-senate-t-00-38-57) | 1 |
 
 </details>
 </section>
@@ -70,7 +72,15 @@ Source: [United States Senate: About the Senate](https://www.senate.gov/about/in
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:39:25](/episodes/ep-ihLQRXxIfjU.md#ent-org-us-senate-t-00-38-57)**
+> "...r credit card bill before her Senate confirmation hearing and offered him access to th..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>

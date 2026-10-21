@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 618 mentions"
+description: "God (Concepts) - 619 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#t-00-39-09">2026-10-19 · 00:39:25</a></strong></div>
-<div><span>Episodes</span><strong>127</strong></div>
-<div><span>Mentions</span><strong>618</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#t-00-27-04">2026-10-20 · 00:27:36</a></strong></div>
+<div><span>Episodes</span><strong>128</strong></div>
+<div><span>Mentions</span><strong>619</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -161,6 +161,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-V-phmW9f0pM.md#t-00-55-35" style="--pulse-height:8%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#t-00-22-32" style="--pulse-height:8%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#t-00-29-31" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 2 mentions" title="2026-10-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#t-00-27-04" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -293,6 +294,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-55-35) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#t-00-22-32) | 1 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#t-00-29-31) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04) | 1 |
 
 </details>
 </section>
@@ -300,7 +302,15 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (618)</strong></summary>
+<summary><strong class="section-title">Raw mentions (619)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:27:36](/episodes/ep-ihLQRXxIfjU.md#t-00-27-04)**
+> "...nd hope. And this year alone, God has used preborn to save nearly 60,000 babies fro..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2 mentions)</summary>

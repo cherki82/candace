@@ -22,13 +22,23 @@ type: "factual_claim"
 
 - [Balance of Nature](/entities/org-balance-of-nature.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That B...
 
 **Episode:** [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md)
 **Timestamp:** [00:42:40](/episodes/ep-_Sq5RqP27NY.md#t-00-42-40) 
 <a href="https://www.youtube.com/watch?v=_Sq5RqP27NY&t=2560s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Different whole foods bring different phytonutrients, so variety actually matters. Balance of Nature uses a tailored vacuum cold process that's designed to help stabilize those naturally occurring nutrients, and the ingredients are independently tested.
+
+### 2. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:29:08](/episodes/ep-ihLQRXxIfjU.md#t-00-29-00) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=1748s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Different whole foods bring different phytonutrients, so variety actually really matters. Balance of Nature uses a tailored vacuum cold process designed to help stabilize those naturally occurring nutrients and the ingredients are independently tested.
 
 ## Verification
 

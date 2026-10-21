@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Jeremy Boreing](/entities/person-jeremy-boreing) fired [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [00:51:39](/episodes/ep-QdM9jLwjwLw#t-00-51-39): _It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,_
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:33:04](/episodes/ep-ihLQRXxIfjU#t-00-33-04): _By the way, I had a little back-forth tiff, and this has been going on for three years. I just, you know, this is just, like I said, permanent background noise in my life, is this former CEO of Daily Wire, Jeremy Boreing, ... who is just like, he's just never going to stop involving himself in my life. I have a fake podcast. ... But it's so stunning to me that he fired me and is now trying to gaslight people about the reasons that he fired me because I said genocide is always wrong. So, of course, nobody was talking about it._
 
 ### Related
 

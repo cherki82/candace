@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 1083 mentions"
+description: "Donald J. Trump (People) - 1089 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-42-02">2026-10-19 · 00:42:29</a></strong></div>
-<div><span>Episodes</span><strong>152</strong></div>
-<div><span>Mentions</span><strong>1,083</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-42-09">2026-10-20 · 00:42:09</a></strong></div>
+<div><span>Episodes</span><strong>153</strong></div>
+<div><span>Mentions</span><strong>1,089</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>275</strong></div>
+<div><span>Statements about</span><strong>276</strong></div>
 <div><span>Relationships</span><strong>183</strong></div>
 <div><span>Threads</span><strong>3</strong></div>
 </div>
@@ -193,6 +193,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11" style="--pulse-height:10%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43" style="--pulse-height:12%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 6 mentions" title="2026-10-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-00-45" style="--pulse-height:27%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 13 mentions" title="2026-10-19 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-38-16" style="--pulse-height:12%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 6 mentions" title="2026-10-20 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -350,6 +351,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-person-donald-trump-t-00-15-11) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-person-donald-trump-t-00-19-43) | 6 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-person-donald-trump-t-00-00-45) | 13 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-38-16) | 6 |
 
 </details>
 </section>
@@ -363,7 +365,30 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1083)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1089)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (6 mentions)</summary>
+
+**[00:38:23](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-38-16)**
+> "...s being made the Patsy of the Trump (Donald Trump) administration. What I mean by tha..."
+
+**[00:39:25](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-38-57)**
+> "...and offered him access to the Trump (Donald Trump) administration."
+
+**[00:40:14](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-40-14)**
+> "... fashion than the rest of the Trump (Donald Trump) administration."
+
+**[00:40:24](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-40-14)**
+> "Look at what the Trump brothers are doing with the crypto scams. Why are..."
+
+**[00:41:26](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-41-26)**
+> "The Trump family has done the level of corruption. It's so ..."
+
+**[00:42:09](/episodes/ep-ihLQRXxIfjU.md#ent-person-donald-trump-t-00-42-09)**
+> "... think she deserves to have a Trump trust for whatever that is worth. Keep it consist..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (13 mentions)</summary>
@@ -4721,7 +4746,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (36)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4758,6 +4783,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:41:26](/episodes/ep-ihLQRXxIfjU.md#t-00-41-26): “The Trump family has done the level of corruption. It's so shocking. It's also embarrassing for me as someone who believed that they, when they got in there, were... we were fighting the concept of this level of corruption. This is why we didn't vote for Hillary Clinton. Seeing what Trump (Donald Trump) 2.0 has become, it's sickening. You know, it's the reason why they are panicking about the midterms. OK, that serves them well. He is... ... He has betrayed everyone, including Charlie Kirk. So I don't I'm not a fan of the Kimberly Guilfoyle, Patsy situation, Maga Patsy situation.”
 
 </details>
 
@@ -5504,7 +5530,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (36)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -5541,6 +5567,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:43:58](/episodes/ep-ms5ChhZegRg.md#t-00-43-58): “And we're not, we keep talking about them. That's why Trump (Donald J. Trump) wanted us to just turn around and move on. That's why they're engaging in all of these psyops. And no matter what story we cover, there seems to be this nucleus link, like the nucleus of everything is Jeffrey Epstein.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:34:26](/episodes/ep-YPIYYHCNPbE.md#t-00-33-49): “So I think she's highly qualified to represent what the Trump (Donald Trump) administration has become, which is just a group of liars.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:01:07](/episodes/ep-VUSs6CTp78Q.md#t-00-00-45): “We should just throw an accelerant on top of this dumpster fire that is the Trump (Donald Trump) administration 2.0.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:41:26](/episodes/ep-ihLQRXxIfjU.md#t-00-41-26): “The Trump family has done the level of corruption. It's so shocking. It's also embarrassing for me as someone who believed that they, when they got in there, were... we were fighting the concept of this level of corruption. This is why we didn't vote for Hillary Clinton. Seeing what Trump (Donald Trump) 2.0 has become, it's sickening. You know, it's the reason why they are panicking about the midterms. OK, that serves them well. He is... ... He has betrayed everyone, including Charlie Kirk. So I don't I'm not a fan of the Kimberly Guilfoyle, Patsy situation, Maga Patsy situation.”
 
 </details>
 
@@ -6213,7 +6240,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (275)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (276)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:41:01](/episodes/ep-ihLQRXxIfjU.md#t-00-40-43) (Opinion) **Candace Owens**: ["Owens declared herself team Kimberly Guilfoyle, characterized the Trum..."](/statements/statement-a740932bb1f8.md)
+  - Also about: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6)</summary>

@@ -11,7 +11,7 @@ object: "org-balance-of-nature"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Balance of Nature](/entities/org-balance-of-nature)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -44,6 +44,10 @@ object: "org-balance-of-nature"
 **[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
 
 - [00:46:29](/episodes/ep-cPidFQDJLbo#t-00-46-29): _That's why I started paying close attention to what might be missing from my nutrition. Balance of Nature makes it very simple._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:28:47](/episodes/ep-ihLQRXxIfjU#t-00-28-47): _That's why I love Balance of Nature's whole health system. It's built around 47 ingredients of real whole fruits, vegetables, spices, and and fiber, things that I actually recognize like apples, broccoli, ginger, turmeric, and cinnamon. ... For me, it's one simple thing that I can actually stick with. So head to balanceofnature.com today and you'll get 35% off your first subscription with code CANDACE at checkout._
 
 **[A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc)**
 

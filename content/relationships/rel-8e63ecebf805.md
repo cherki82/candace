@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [FBI](/entities/org-fbi) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
@@ -32,6 +32,10 @@ object: "person-candace-owens"
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 
 - [00:49:25](/episodes/ep-h76ZN-xXC6c#t-00-49-25): _Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:11:48](/episodes/ep-ihLQRXxIfjU#t-00-11-48): _And as we demonstrated to you guys in an earlier episode, they put him through hell. They effectively forced him to give a false testimony because he was being tortured. ... You would think the FBI would immediately address this, and I would say I think it's going to be really hard for the FBI to get around these details._
 
 **[COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 353 mentions"
+description: "Zionism (Concepts) - 354 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -24,11 +24,11 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-01-05-28">2026-09-30 · 01:05:37</a></strong></div>
-<div><span>Episodes</span><strong>83</strong></div>
-<div><span>Mentions</span><strong>353</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-zionism-t-00-45-58">2026-10-20 · 00:46:30</a></strong></div>
+<div><span>Episodes</span><strong>84</strong></div>
+<div><span>Mentions</span><strong>354</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -120,6 +120,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-35-15" style="--pulse-height:43%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-zionism-t-00-28-28" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-29-14" style="--pulse-height:57%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 8 mentions" title="2026-09-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-zionism-t-00-45-58" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -208,6 +209,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-35-15) | 6 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-zionism-t-00-28-28) | 1 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-zionism-t-00-29-14) | 8 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-zionism-t-00-45-58) | 1 |
 
 </details>
 </section>
@@ -219,7 +221,15 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (353)</strong></summary>
+<summary><strong class="section-title">Raw mentions (354)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:46:30](/episodes/ep-ihLQRXxIfjU.md#ent-concept-zionism-t-00-45-58)**
+> "...u already won. You ruined the Zionist plan to hijack Charlie (Charlie Kirk)'s legacy."
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (8 mentions)</summary>
@@ -1727,7 +1737,15 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (30)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (31)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58) (Accusation) **Ali (ihLQRXxIfjU commenter; identity unverified)** (via quoted post): ["Ali, a viewer whose identity is unverified, alleged that Owens exposed..."](/statements/statement-9a15ba119bf2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

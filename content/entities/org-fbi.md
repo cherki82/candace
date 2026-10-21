@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 799 mentions"
+description: "FBI (Organizations) - 807 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-fbi-t-00-06-40">2026-10-15 · 00:06:48</a></strong></div>
-<div><span>Episodes</span><strong>115</strong></div>
-<div><span>Mentions</span><strong>799</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-51-09">2026-10-20 · 00:51:36</a></strong></div>
+<div><span>Episodes</span><strong>116</strong></div>
+<div><span>Mentions</span><strong>807</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>236</strong></div>
+<div><span>Statements about</span><strong>237</strong></div>
 <div><span>Relationships</span><strong>43</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -154,6 +154,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-fbi-t-00-05-56" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 2 mentions" title="2026-10-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-org-fbi-t-00-30-44" style="--pulse-height:8%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-fbi-t-00-06-40" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-01-24" style="--pulse-height:26%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 8 mentions" title="2026-10-20 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -274,6 +275,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-fbi-t-00-05-56) | 2 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-org-fbi-t-00-30-44) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-fbi-t-00-06-40) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-01-24) | 8 |
 
 </details>
 </section>
@@ -285,7 +287,36 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (799)</strong></summary>
+<summary><strong class="section-title">Raw mentions (807)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (8 mentions)</summary>
+
+**[00:01:24](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-01-24)**
+> "...eing revealed, it appears the feds might not be telling the whole truth. As usual, w..."
+
+**[00:03:08](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-03-08)**
+> "...ve been an inside job and the feds were responsible for February 6th, Kash Patel and..."
+
+**[00:03:52](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-03-52)**
+> "I mean, what luck for the feds. Like I said, right when the public begins to not..."
+
+**[00:08:46](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-08-14)**
+> "... hanging from the jacket. The FBI should be able to get that purchase record record..."
+
+**[00:09:01](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-08-54)**
+> "I just made it easy for the FBI to do their job. Release Brian Cole Jr. now. Yeah..."
+
+**[00:12:00](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-11-26)**
+> "You would think the FBI would immediately address this, and I would say I..."
+
+**[00:31:32](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-31-32)**
+> "...other. We have the watch. The FBI's are strong. You drop that tokie Pokemon and peo..."
+
+**[00:51:36](/episodes/ep-ihLQRXxIfjU.md#ent-org-fbi-t-00-51-09)**
+> "...T-shirts will not believe the feds slop. You've got now the Make Him a Hot Dog, a lo..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
@@ -3169,7 +3200,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>Criticized By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
@@ -3179,6 +3210,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:30:48](/episodes/ep-4JxgOclKzqg.md#t-00-30-48): “Anyway, speaking of this totally inappropriate chain of custody, the FBI jumping on the case like cowboys, that's not how this works.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:33:56](/episodes/ep-O4Zw3bCALjU.md#t-00-33-21): “None of you cared to explore what happened to try to make sure that the feds who are not traditionally an agency that we trust, the FBI, they've never. Ever, ever, has there ever been a period of even five years in this country since their founding, period of one year, where they were not up to no good? They are constantly up to no good. All of you basically said, ignore that. We're actually partnering with the feds. Ignore all of the obvious holes in the story.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:53:36](/episodes/ep-ms5ChhZegRg.md#t-00-53-24): “The Federal Bureau of Investigations has always been corrupt, ladies and gentlemen. You should not be that shocked by that. But tomorrow.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:11:48](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26): “And as we demonstrated to you guys in an earlier episode, they put him through hell. They effectively forced him to give a false testimony because he was being tortured. ... You would think the FBI would immediately address this, and I would say I think it's going to be really hard for the FBI to get around these details.”
 
 </details>
 
@@ -3373,7 +3405,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
@@ -3383,6 +3415,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:30:48](/episodes/ep-4JxgOclKzqg.md#t-00-30-48): “Anyway, speaking of this totally inappropriate chain of custody, the FBI jumping on the case like cowboys, that's not how this works.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:33:56](/episodes/ep-O4Zw3bCALjU.md#t-00-33-21): “None of you cared to explore what happened to try to make sure that the feds who are not traditionally an agency that we trust, the FBI, they've never. Ever, ever, has there ever been a period of even five years in this country since their founding, period of one year, where they were not up to no good? They are constantly up to no good. All of you basically said, ignore that. We're actually partnering with the feds. Ignore all of the obvious holes in the story.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:53:36](/episodes/ep-ms5ChhZegRg.md#t-00-53-24): “The Federal Bureau of Investigations has always been corrupt, ladies and gentlemen. You should not be that shocked by that. But tomorrow.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:11:48](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26): “And as we demonstrated to you guys in an earlier episode, they put him through hell. They effectively forced him to give a false testimony because he was being tortured. ... You would think the FBI would immediately address this, and I would say I think it's going to be really hard for the FBI to get around these details.”
 
 </details>
 
@@ -3554,7 +3587,15 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (236)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (237)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:08:54](/episodes/ep-ihLQRXxIfjU.md#t-00-08-54) (Opinion) **Steve Baker** (via quoted tweet): ["Steve Baker’s tweet read by Owens called for the FBI to obtain the Koh..."](/statements/statement-ab920e9a2f6f.md)
+  - Also about: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>

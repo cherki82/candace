@@ -1,6 +1,6 @@
 ---
 title: "Genocide"
-description: "Genocide (Concepts) - 36 mentions"
+description: "Genocide (Concepts) - 42 mentions"
 id: "concept-genocide"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-genocide-t-00-46-40">2025-10-30 · 00:46:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-genocide-t-00-54-10">2026-09-16 · 00:54:43</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-36-28">2026-10-20 · 00:36:35</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-genocide-t-00-22-59" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aLJhpxrakCU.md#ent-concept-genocide-t-00-54-10" style="--pulse-height:8%" aria-label="BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388: 1 mentions" title="2026-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-33-42" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 6 mentions" title="2026-10-20 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49) | 3 |
 | 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-genocide-t-00-22-59) | 1 |
 | 2026-09-16 | [BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388](/episodes/ep-aLJhpxrakCU.md#ent-concept-genocide-t-00-54-10) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-33-42) | 6 |
 
 </details>
 </section>
@@ -73,7 +75,30 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (6 mentions)</summary>
+
+**[00:33:42](/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-33-42)**
+> "...at he fired me because I said genocide is always wrong. So, of course, nobody was talkin..."
+
+**[00:34:23](/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-34-23)**
+> "... is firing someone for saying genocide is always wrong, Jeremy (Jeremy Boreing), which t..."
+
+**[00:35:28](/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-35-01)**
+> "...pecifically is discussing the genocide portion."
+
+**[00:36:15](/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-35-45)**
+> "...elieve Israel is committing a genocide and refuse to explicitly deny that interpretation..."
+
+**[00:36:28](/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-36-28)**
+> "...where has a right to commit a genocide ever."
+
+**[00:36:35](/episodes/ep-ihLQRXxIfjU.md#ent-concept-genocide-t-00-36-28)**
+> "...here's no justification for a genocide. I can't believe this even needs to be said or is..."
+
+</details>
 
 <details>
 <summary>BIG NEWS! Erika To File A Wrongful Death Lawsuit. For Charlie Or For PR? | Ep 388 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Brazil"
-description: "Brazil (Places) - 14 mentions"
+description: "Brazil (Places) - 15 mentions"
 id: "gpe-brazil"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-brazil-t-00-20-29">2025-10-01 · 00:20:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-brazil-t-00-07-54">2026-10-05 · 00:08:23</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-brazil-t-00-00-39">2026-10-20 · 00:00:48</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-brazil-t-00-26-32" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-brazil-t-00-29-18" style="--pulse-height:75%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-gpe-brazil-t-00-07-54" style="--pulse-height:25%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-brazil-t-00-00-39" style="--pulse-height:25%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-brazil-t-00-26-32) | 4 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-brazil-t-00-29-18) | 3 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-gpe-brazil-t-00-07-54) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-brazil-t-00-00-39) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:00:48](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-brazil-t-00-00-39)**
+> "... just bust into the favela of Brazil, the gangsters. gangsters, someone get this case ..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>

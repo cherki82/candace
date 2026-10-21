@@ -1,6 +1,6 @@
 ---
 title: "Houston, Texas"
-description: "Houston, Texas (Places) - 16 mentions"
+description: "Houston, Texas (Places) - 17 mentions"
 id: "gpe-houston-texas"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [City of Houston](https://www.houstontx.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57">2026-01-29 · 01:46:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-houston-texas-t-00-45-50">2026-10-15 · 00:45:50</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-houston-texas-t-00-48-14">2026-10-20 · 00:48:36</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,7 @@ Source: [City of Houston](https://www.houstontx.gov/)
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-gpe-houston-texas-t-00-48-59" style="--pulse-height:50%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-gpe-houston-texas-t-01-28-37" style="--pulse-height:50%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-houston-texas-t-00-45-50" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-houston-texas-t-00-48-14" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [City of Houston](https://www.houstontx.gov/)
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-gpe-houston-texas-t-00-48-59) | 1 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-gpe-houston-texas-t-01-28-37) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-houston-texas-t-00-45-50) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-houston-texas-t-00-48-14) | 1 |
 
 </details>
 </section>
@@ -72,7 +74,15 @@ Source: [City of Houston](https://www.houstontx.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:48:36](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-houston-texas-t-00-48-14)**
+> "...sings from me and the rest of Houston. Jesus (Jesus Christ) is King. Go Max."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>

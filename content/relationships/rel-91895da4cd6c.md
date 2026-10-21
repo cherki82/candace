@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PreBorn!](/entities/org-preborn) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (29 mentions)
+### Evidence (30 mentions)
 
 **[CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w)**
 
@@ -96,6 +96,10 @@ object: "person-candace-owens"
 **[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
 
 - [01:12:35](/episodes/ep-ewBzjVe3LNQ#t-01-12-35): _Please reach out to Preborn. They do fantastic work, and you are right to recognize that. They were also gaslighting us about that, and I was saying, like, there are so many of these people that have..._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:27:36](/episodes/ep-ihLQRXxIfjU#t-00-27-36): _Again, that's my opinion. We'll be right back after a brief break. All right, you guys, for 20 years, preborn has stood in the gap between fear and hope. And this year alone, God has used preborn to save nearly 60,000 babies from abortion. ... Right now, another mother needs that moment and you can give it to her for just $28. You can help to provide one life-saving ultrasound. ... $140 helps to rescue five babies and all gifts are tax deductible. So if you'd like to give, dial pound 250 and say the keyword baby, that's pound 250 baby or visit preborn.com slash Candace. Again, Five zero baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

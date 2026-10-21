@@ -1,6 +1,6 @@
 ---
 title: "Ian Carroll"
-description: "Ian Carroll (People) - 52 mentions"
+description: "Ian Carroll (People) - 53 mentions"
 id: "person-ian-carroll"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-ian-carroll-t-00-40-46">2025-09-29 · 00:40:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04">2026-10-07 · 00:40:26</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-ian-carroll-t-00-33-42">2026-10-20 · 00:34:12</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -61,6 +61,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-ian-carroll-t-00-06-39" style="--pulse-height:14%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-person-ian-carroll-t-01-07-10" style="--pulse-height:14%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04" style="--pulse-height:43%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 3 mentions" title="2026-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-ian-carroll-t-00-33-42" style="--pulse-height:14%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +93,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-ian-carroll-t-00-06-39) | 1 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-person-ian-carroll-t-01-07-10) | 1 |
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#ent-person-ian-carroll-t-00-40-04) | 3 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-ian-carroll-t-00-33-42) | 1 |
 
 </details>
 </section>
@@ -103,7 +105,15 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:34:12](/episodes/ep-ihLQRXxIfjU.md#ent-person-ian-carroll-t-00-33-42)**
+> "... three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (3 mentions)</summary>
@@ -436,7 +446,19 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Supported By (1)</summary>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Israel](/entities/gpe-israel.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -463,6 +485,13 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:50](/episodes/ep-c5BcKF91iec.md#t-00-13-24): “And as Ian Carroll said when I had him on my show, the truth doesn't need to be repeated over and over again.”
+
+</details>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic.”
 
 </details>
 
@@ -503,7 +532,15 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ian Carroll (4)</strong></summary>
+<summary><strong class="section-title">Statements about Ian Carroll (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) (Opinion) **Kelly Fuller (commenter; identity unverified)** (via quoted tweet): ["Kelly Fuller, a commenter whose legal identity is unverified, wrote th..."](/statements/statement-5f3e1a266e7c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Baron Coleman](/entities/person-baron-coleman.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 (2)</summary>

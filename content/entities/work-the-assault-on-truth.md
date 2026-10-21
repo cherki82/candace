@@ -1,6 +1,6 @@
 ---
 title: "The Assault on Truth: Freud's Suppression of the Seduction Theory"
-description: "The Assault on Truth: Freud's Suppression of the Seduction Theory (Works & Media) - 12 mentions"
+description: "The Assault on Truth: Freud's Suppression of the Seduction Theory (Works & Media) - 14 mentions"
 id: "work-the-assault-on-truth"
 type: "WORK"
 aliases:
@@ -21,11 +21,11 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-assault-on-truth-t-01-01-30">2025-09-15 · 01:01:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-the-assault-on-truth-t-00-12-53">2026-02-25 · 00:13:01</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-work-the-assault-on-truth-t-00-33-04">2026-10-20 · 00:33:04</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 <a href="/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-44" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-assault-on-truth-t-00-02-09" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-the-assault-on-truth-t-00-12-53" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-work-the-assault-on-truth-t-00-32-39" style="--pulse-height:100%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-the-assault-on-truth-t-00-55-44) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-the-assault-on-truth-t-00-02-09) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-the-assault-on-truth-t-00-12-53) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-work-the-assault-on-truth-t-00-32-39) | 2 |
 
 </details>
 </section>
@@ -62,7 +64,18 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:32:39](/episodes/ep-ihLQRXxIfjU.md#ent-work-the-assault-on-truth-t-00-32-39)**
+> "...hat will transform your life, the assault on truth to understand the Kabbalah tradition of what Sigm..."
+
+**[00:33:04](/episodes/ep-ihLQRXxIfjU.md#ent-work-the-assault-on-truth-t-00-33-04)**
+> "...d it's so evil and it's real. The Assault on Truth will blow your mind that that is what he did, and..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
@@ -172,7 +185,15 @@ Source: [Simon & Schuster: The Assault on Truth](https://www.simonandschuster.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Assault on Truth: Freud's Suppression of the Seduction Theory (2)</strong></summary>
+<summary><strong class="section-title">Statements about The Assault on Truth: Freud's Suppression of the Seduction Theory (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:32:39](/episodes/ep-ihLQRXxIfjU.md#t-00-32-39) (Accusation) **Candace Owens**: ["Citing The Assault on Truth, Owens alleged Sigmund Freud knew children..."](/statements/statement-11c4b1886bd2.md)
+  - Also about: [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>

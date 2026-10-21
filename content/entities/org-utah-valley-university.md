@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 458 mentions"
+description: "Utah Valley University (Organizations) - 473 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-valley-university-t-00-19-42">2026-10-19 · 00:19:42</a></strong></div>
-<div><span>Episodes</span><strong>98</strong></div>
-<div><span>Mentions</span><strong>458</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-27-04">2026-10-20 · 00:27:04</a></strong></div>
+<div><span>Episodes</span><strong>99</strong></div>
+<div><span>Mentions</span><strong>473</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>213</strong></div>
+<div><span>Statements about</span><strong>215</strong></div>
 <div><span>Relationships</span><strong>51</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -138,6 +138,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55" style="--pulse-height:11%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-07-09" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 2 mentions" title="2026-10-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-valley-university-t-00-19-42" style="--pulse-height:8%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-12-51" style="--pulse-height:32%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 15 mentions" title="2026-10-20 · 15 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -241,6 +242,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-utah-valley-university-t-00-02-55) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-utah-valley-university-t-00-07-09) | 2 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-utah-valley-university-t-00-19-42) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-12-51) | 15 |
 
 </details>
 </section>
@@ -252,7 +254,57 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (458)</strong></summary>
+<summary><strong class="section-title">Raw mentions (473)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (15 mentions)</summary>
+
+**[00:12:59](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-12-51)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) was being questio..."
+
+**[00:13:28](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-13-28)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) arrived onto the ..."
+
+**[00:14:09](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-14-09)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified)?"
+
+**[00:15:26](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-15-26)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified)'s extreme oversig..."
+
+**[00:17:01](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-16-35)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) is going to get u..."
+
+**[00:17:29](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-17-19)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified)'s going to come u..."
+
+**[00:21:12](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-20-47)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) is now going to a..."
+
+**[00:22:11](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-21-41)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) makes his premier..."
+
+**[00:22:24](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-22-24)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified)'s testimony about..."
+
+**[00:22:30](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-22-30)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified), so you testified..."
+
+**[00:23:09](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-22-56)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) and the authoriti..."
+
+**[00:23:27](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-23-27)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) pretending that h..."
+
+**[00:25:59](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-25-59)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified) in my view that y..."
+
+**[00:26:21](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-26-21)**
+> "...ficer Bagley (Officer Bagley; UVU witness, given name unverified)'s got the inkling..."
+
+**[00:27:04](/episodes/ep-ihLQRXxIfjU.md#ent-org-utah-valley-university-t-00-27-04)**
+> "...ld unusually cut out, why the UVU camera system would unusually cut out, and why it..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
@@ -2572,7 +2624,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (213)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (215)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kathy Nester questioned Officer Bagley about whether he che..."](/statements/statement-47d371e14364.md)
+  - Also about: [Kathryn Nester](/entities/person-kathryn-nester.md), [Chris Bagley](/entities/person-chris-bagley.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:25:05](/episodes/ep-ihLQRXxIfjU.md#t-00-24-40) (Accusation) **Candace Owens**: ["Owens said it appears to her that someone with a lot of power, potenti..."](/statements/statement-3dc8f224cbd8.md)
+  - Also about: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1)</summary>

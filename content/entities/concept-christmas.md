@@ -1,6 +1,6 @@
 ---
 title: "Christmas"
-description: "Christmas (Concepts) - 24 mentions"
+description: "Christmas (Concepts) - 28 mentions"
 id: "concept-christmas"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-christmas-t-00-30-35">2025-09-16 · 00:30:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-christmas-t-00-57-15">2026-07-16 · 00:57:50</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-christmas-t-00-31-32">2026-10-20 · 00:31:55</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-45-55" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-christmas-t-01-03-27" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-christmas-t-00-57-15" style="--pulse-height:75%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-christmas-t-00-07-15" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 4 mentions" title="2026-10-20 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-45-55) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-christmas-t-01-03-27) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-christmas-t-00-57-15) | 6 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-christmas-t-00-07-15) | 4 |
 
 </details>
 </section>
@@ -58,7 +60,24 @@ Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (4 mentions)</summary>
+
+**[00:07:15](/episodes/ep-ihLQRXxIfjU.md#ent-concept-christmas-t-00-07-15)**
+> "...hat still had tags on it from Christmas."
+
+**[00:08:23](/episodes/ep-ihLQRXxIfjU.md#ent-concept-christmas-t-00-08-14)**
+> "... that I purchased for him for Christmas just a few weeks earlier."
+
+**[00:08:37](/episodes/ep-ihLQRXxIfjU.md#ent-concept-christmas-t-00-08-14)**
+> "...et that she had given him for Christmas only two weeks prior."
+
+**[00:31:55](/episodes/ep-ihLQRXxIfjU.md#ent-concept-christmas-t-00-31-32)**
+> "...s. Anyway, more leading up to Christmas, you guys want them sold. We are trying to make i..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (6 mentions)</summary>

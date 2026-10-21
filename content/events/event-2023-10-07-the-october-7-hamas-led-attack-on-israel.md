@@ -20,7 +20,7 @@ date: "2023-10-07"
 
 > The October 7 Hamas-led attack on Israel occurred.
 
-## Mentioned In (19 times)
+## Mentioned In (20 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -173,3 +173,14 @@ date: "2023-10-07"
 <a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=2625s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The next generation of young people won't remember October 7th in the same way.
+
+### 20. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:37:07](/episodes/ep-ihLQRXxIfjU.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-37-07) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=2227s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> instead of reporting the details of October 7th, 2024, the terrorist attacks against Israel,
+
+> **Date stated in this source:** “October 7th, 2024”
+> **Date review note:** The quoted firing-document passage as spoken says 2024. Retain the established October 7, 2023 attack date supported by the existing UN-sourced canonical record; preserve this conflicting spoken year at mention level rather than creating an unsupported October 2024 attack.

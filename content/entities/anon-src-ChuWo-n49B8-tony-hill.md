@@ -1,6 +1,6 @@
 ---
 title: "Tony Hill (commenter; identity unverified)"
-description: "Tony Hill (commenter; identity unverified) (Anonymous Sources) - 6 mentions"
+description: "Tony Hill (commenter; identity unverified) (Anonymous Sources) - 7 mentions"
 id: "anon-src-ChuWo-n49B8-tony-hill"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -23,12 +23,12 @@ Source: [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-01-05-42">2025-09-15 · 01:06:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-bIuvTKlFeGo.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-01-24-39">2026-09-25 · 01:25:06</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-48-51">2026-10-20 · 00:49:28</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdo
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-57-25" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-58-51" style="--pulse-height:50%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 1 mentions" title="2026-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-01-24-39" style="--pulse-height:100%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-48-51" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdo
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-57-25) | 1 |
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-58-51) | 1 |
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-01-24-39) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-48-51) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:49:28](/episodes/ep-ihLQRXxIfjU.md#ent-anon-src-ChuWo-n49B8-tony-hill-t-00-48-51)**
+> "Tony Hill writes, as a lawyer, I think it is unethical for Katie Zacharia to present herself as a lawyer. And by lawyer, I mean I serve tables at a restaurant."
+
+</details>
 
 <details>
 <summary>WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394 (2 mentions)</summary>
@@ -98,7 +108,29 @@ Source: [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdo
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:28](/episodes/ep-ihLQRXxIfjU.md#t-00-48-51): “Tony Hill writes, as a lawyer, I think it is unethical for Katie Zacharia to present herself as a lawyer. And by lawyer, I mean I serve tables at a restaurant. ... She's the least fraudulent thing in the White House nowadays, LOL. I love you, Candace (Candace Owens) in prayers for your delivery.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:49:28](/episodes/ep-ihLQRXxIfjU.md#t-00-48-51): “Tony Hill writes, as a lawyer, I think it is unethical for Katie Zacharia to present herself as a lawyer. And by lawyer, I mean I serve tables at a restaurant. ... She's the least fraudulent thing in the White House nowadays, LOL. I love you, Candace (Candace Owens) in prayers for your delivery.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 286 mentions"
+description: "The Daily Wire (Organizations) - 288 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -25,13 +25,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-the-daily-wire-t-00-43-55">2026-10-15 · 00:44:09</a></strong></div>
-<div><span>Episodes</span><strong>74</strong></div>
-<div><span>Mentions</span><strong>286</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-the-daily-wire-t-00-37-07">2026-10-20 · 00:37:26</a></strong></div>
+<div><span>Episodes</span><strong>75</strong></div>
+<div><span>Mentions</span><strong>288</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>109</strong></div>
+<div><span>Statements about</span><strong>113</strong></div>
 <div><span>Relationships</span><strong>64</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -112,6 +112,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-org-the-daily-wire-t-00-39-15" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 2 mentions" title="2026-09-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-org-the-daily-wire-t-00-36-17" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-the-daily-wire-t-00-43-55" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-the-daily-wire-t-00-33-04" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -191,6 +192,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-org-the-daily-wire-t-00-39-15) | 2 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-org-the-daily-wire-t-00-36-17) | 1 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-the-daily-wire-t-00-43-55) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-the-daily-wire-t-00-33-04) | 2 |
 
 </details>
 </section>
@@ -198,11 +200,23 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the Owens Daily Wire firing-reason dispute developed](/threads/thread-owens-daily-wire-firing-reason-dispute) — Tracks the firing explanation, quoted rebuttal, document excerpts and disclosure position presented on channel, without establishing the actual grounds for termination or document authenticity.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (286)</strong></summary>
+<summary><strong class="section-title">Raw mentions (288)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:33:04](/episodes/ep-ihLQRXxIfjU.md#ent-org-the-daily-wire-t-00-33-04)**
+> "...y life, is this former CEO of Daily Wire, Jeremy Boreing,"
+
+**[00:37:26](/episodes/ep-ihLQRXxIfjU.md#ent-org-the-daily-wire-t-00-37-07)**
+> "... reasons that I was fired for the Daily Wire."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
@@ -1469,9 +1483,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22): “Go try to fact check this yourself. You will see the entire narrative is fake. It is being pushed by Bill Ackman, among other people. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “Goes on: instead of reporting the details of October 7th, 2024, the terrorist attacks against Israel, you have repeatedly posted about Christians being killed by Israel, and you recognize that this has led some to conclude that you are anti-Semitic. This... ... these are part of the reasons that I was fired for the Daily Wire. ... All of the reasons are within the same theme, and generally I want it all to be released because I think it really demonstrates what we have covered, again, on repeat on this show, is the audacity of the gaslight. How insane you have to be to know that you explicitly put the tweet in my firing docs among very, a great many other totally deranged things.”
 
 </details>
 
@@ -1530,7 +1545,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:43](/episodes/ep-ja26iltROkM.md#t-00-49-28): “post me being fired from The Daily Wire.”
@@ -1551,6 +1566,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:26](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “these are part of the reasons that I was fired for the Daily Wire.”
 
 </details>
 
@@ -1717,7 +1733,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Has Former Ceo (1)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
@@ -1726,6 +1742,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “this former CEO of Daily Wire, Jeremy Boreing,”
 
 </details>
 
@@ -1844,14 +1861,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 @ 00:51:22](/episodes/ep-5TTkMa49qj8.md#t-00-51-22): “Go try to fact check this yourself. You will see the entire narrative is fake. It is being pushed by Bill Ackman, among other people. ... Of course, Daily Wire, to be expected, they're never going to stop. But like Bill Ackman, he seems very interested in taking down Candace Owens. Why, Bill (Bill Ackman)?”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “Goes on: instead of reporting the details of October 7th, 2024, the terrorist attacks against Israel, you have repeatedly posted about Christians being killed by Israel, and you recognize that this has led some to conclude that you are anti-Semitic. This... ... these are part of the reasons that I was fired for the Daily Wire. ... All of the reasons are within the same theme, and generally I want it all to be released because I think it really demonstrates what we have covered, again, on repeat on this show, is the audacity of the gaslight. How insane you have to be to know that you explicitly put the tweet in my firing docs among very, a great many other totally deranged things.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
@@ -1871,11 +1889,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
 - [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:37:26](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07): “these are part of the reasons that I was fired for the Daily Wire.”
 
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** former CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
@@ -1884,6 +1903,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “this former CEO of Daily Wire, Jeremy Boreing,”
 
 </details>
 
@@ -2127,7 +2147,24 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (109)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (113)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (4)</summary>
+
+- [00:33:42](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) (Accusation) **Candace Owens**: ["Owens alleged Jeremy Boreing fired her because she said genocide is al..."](/statements/statement-36d9d117a183.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:35:58](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45) (Citation) **Candace Owens**: ["Owens cited her firing document as including her tweet and stating tha..."](/statements/statement-3cf07f4e835b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+- [00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07) (Citation) **Candace Owens**: ["Owens read another stated reason from her Daily Wire firing document: ..."](/statements/statement-a6c0bc870eb4.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md), [Christians](/entities/concept-christians.md)
+
+- [00:50:29](/episodes/ep-ihLQRXxIfjU.md#t-00-50-24) (Opinion) **Candace Owens**: ["Owens publicly gave permission to release all her firing documents and..."](/statements/statement-b89067bf3eeb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>

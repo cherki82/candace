@@ -1,6 +1,6 @@
 ---
 title: "Cryptocurrency"
-description: "Cryptocurrency (Concepts) - 15 mentions"
+description: "Cryptocurrency (Concepts) - 17 mentions"
 id: "concept-cryptocurrency"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-cryptocurrency-t-00-39-00">2026-03-26 · 00:39:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-concept-cryptocurrency-t-00-28-26">2026-10-19 · 00:28:41</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-cryptocurrency-t-00-41-26">2026-10-20 · 00:42:03</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-cryptocurrency-t-00-26-05" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-37" style="--pulse-height:80%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-concept-cryptocurrency-t-00-28-26" style="--pulse-height:20%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 1 mentions" title="2026-10-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-cryptocurrency-t-00-40-14" style="--pulse-height:40%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-cryptocurrency-t-00-26-05) | 5 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-37) | 4 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-concept-cryptocurrency-t-00-28-26) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-cryptocurrency-t-00-40-14) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:40:24](/episodes/ep-ihLQRXxIfjU.md#ent-concept-cryptocurrency-t-00-40-14)**
+> "...p brothers are doing with the crypto scams. Why are we suddenly focusing on Kimberly G..."
+
+**[00:42:03](/episodes/ep-ihLQRXxIfjU.md#ent-concept-cryptocurrency-t-00-41-26)**
+> "...they should cut her in to the crypto scams."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (1 mentions)</summary>
@@ -128,5 +141,18 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Cryptocurrency (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:40:24](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) (Accusation) **Candace Owens**: ["Owens accused the Trump brothers of crypto scams while questioning the..."](/statements/statement-48db67224f62.md)
+  - Also about: [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+</details>
 
 </details>

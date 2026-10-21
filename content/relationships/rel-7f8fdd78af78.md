@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (67 mentions)
+### Evidence (68 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -240,6 +240,10 @@ object: "person-candace-owens"
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 
 - [00:33:34](/episodes/ep-h76ZN-xXC6c#t-00-33-34): _I mean, objectively speaking, the actions of the Turning Point USA team look infinitely more suspicious to me than Tyler Robinson's. I'm just going to put that out there._
+
+**[EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU)**
+
+- [00:00:15](/episodes/ep-ihLQRXxIfjU#t-00-00-15): _The ideas that you guys come up with. I mean, this time regarding how we might help catch those pesky gangbangers over at TPUSA, this user wrote this._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

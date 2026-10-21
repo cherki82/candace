@@ -1,6 +1,6 @@
 ---
 title: "Axios"
-description: "Axios (Organizations) - 6 mentions"
+description: "Axios (Organizations) - 7 mentions"
 id: "org-axios"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Axios - Mission & Manifesto](https://www.axios.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-axios-t-00-29-36">2026-05-18 · 00:29:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-axios-t-00-33-50">2026-05-18 · 00:33:50</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-axios-t-00-38-57">2026-10-20 · 00:38:57</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,12 +32,14 @@ Source: [Axios - Mission & Manifesto](https://www.axios.com/about)
 <p>Highest activity: <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-axios-t-00-29-36">Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-axios-t-00-29-36" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 6 mentions" title="2026-05-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-axios-t-00-38-57" style="--pulse-height:17%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-axios-t-00-29-36) | 6 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-axios-t-00-38-57) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Axios - Mission & Manifesto](https://www.axios.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:38:57](/episodes/ep-ihLQRXxIfjU.md#ent-org-axios-t-00-38-57)**
+> "It was reported by Axios and obviously everyone has been all over. She had..."
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (6 mentions)</summary>
@@ -96,6 +106,19 @@ Source: [Axios - Mission & Manifesto](https://www.axios.com/about)
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:29:57](/episodes/ep-1QZ4X6q1DPg.md#t-00-29-36): “And so I broke this story and a couple of interesting things happened. First and foremost, an Axios reporter by the name of Marc Caputo tweeted this.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Axios (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:38:57](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) (Citation) **Candace Owens**: ["Owens cited Axios as reporting that Kimberly Guilfoyle had been pushed..."](/statements/statement-278cbbcb04b6.md)
+  - Also about: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [White House](/entities/org-white-house.md)
 
 </details>
 

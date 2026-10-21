@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 48 mentions"
+description: "Dan Bongino (People) - 50 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10">2025-10-06 · 00:38:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-dan-bongino-t-00-53-24">2026-10-05 · 00:53:24</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-dan-bongino-t-00-12-07">2026-10-20 · 00:12:14</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -52,6 +52,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <a href="/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-bongino-t-01-00-03" style="--pulse-height:8%" aria-label="WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394: 1 mentions" title="2026-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-bongino-t-00-46-15" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-dan-bongino-t-00-53-24" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-dan-bongino-t-00-00-39" style="--pulse-height:11%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 | 2026-09-25 | [WE WERE RIGHT! UVU Releases Their Independent Review. | Ep 394](/episodes/ep-bIuvTKlFeGo.md#ent-person-dan-bongino-t-01-00-03) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-person-dan-bongino-t-00-46-15) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-dan-bongino-t-00-53-24) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-dan-bongino-t-00-00-39) | 2 |
 
 </details>
 </section>
@@ -85,7 +87,18 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:01:04](/episodes/ep-ihLQRXxIfjU.md#ent-person-dan-bongino-t-00-00-39)**
+> "...t would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs."
+
+**[00:12:14](/episodes/ep-ihLQRXxIfjU.md#ent-person-dan-bongino-t-00-12-07)**
+> "... comment yet from Kash Patel. Dan Bongino has gone on a blocking spree online, and Brian Co..."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
@@ -334,9 +347,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:08:50](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38): “I mean, Dan Bongino is just lying. That's how I'm reading him.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -391,9 +405,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:08:50](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38): “I mean, Dan Bongino is just lying. That's how I'm reading him.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39): “Brian Cole Jr., yeah, that has been making the rounds. That is the Black autistic young man that it would appear Kash Patel and Dan Bongino decided to just blame for the pipe bombs. ... I mean, the details here that are now being revealed, it appears the feds might not be telling the whole truth. As usual, we all have a sense that the feds might even be intentionally targeting autistic teenagers and adults to blame for their own crimes, feds getting away with things. And Brian Cole Jr., yeah, well, he might just be able to prove that.”
 
 </details>
 
@@ -475,7 +490,18 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Bongino (15)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Bongino (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39) (Accusation) **Candace Owens**: ["Owens said it would appear Kash Patel and Dan Bongino decided to blame..."](/statements/statement-fb07af2145a6.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) (Claim) **Candace Owens**: ["Owens said Kash Patel had made no comment yet, Dan Bongino had gone on..."](/statements/statement-6bb833a84217.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1)</summary>

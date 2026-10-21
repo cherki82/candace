@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 130 mentions"
+description: "Washington, D.C. (Places) - 131 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -29,9 +29,9 @@ Source: [Washington, DC](https://dc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-washington-d-c-t-00-47-08">2026-10-14 · 00:47:40</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>130</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-washington-d-c-t-00-02-23">2026-10-20 · 00:02:52</a></strong></div>
+<div><span>Episodes</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>131</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -97,6 +97,7 @@ Source: [Washington, DC](https://dc.gov/)
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-25-50" style="--pulse-height:75%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 6 mentions" title="2026-10-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-0pSAhaAZz1w.md#ent-gpe-washington-d-c-t-00-46-58" style="--pulse-height:12%" aria-label="CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.: 1 mentions" title="2026-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-washington-d-c-t-00-47-08" style="--pulse-height:12%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-washington-d-c-t-00-02-23" style="--pulse-height:12%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -157,6 +158,7 @@ Source: [Washington, DC](https://dc.gov/)
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-gpe-washington-d-c-t-00-25-50) | 6 |
 | 2026-10-06 | [CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA’S “ANTI-CANDACE” Campaigns.](/episodes/ep-0pSAhaAZz1w.md#ent-gpe-washington-d-c-t-00-46-58) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-washington-d-c-t-00-47-08) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-washington-d-c-t-00-02-23) | 1 |
 
 </details>
 </section>
@@ -168,7 +170,15 @@ Source: [Washington, DC](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (130)</strong></summary>
+<summary><strong class="section-title">Raw mentions (131)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:02:52](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-washington-d-c-t-00-02-23)**
+> "Cole, the alleged D.C. pipe bomber. Just as independent journalist Steve..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>

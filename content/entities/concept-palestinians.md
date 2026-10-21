@@ -1,6 +1,6 @@
 ---
 title: "Palestinians"
-description: "Palestinians (Concepts) - 38 mentions"
+description: "Palestinians (Concepts) - 39 mentions"
 id: "concept-palestinians"
 type: "CONCEPT"
 aliases:
@@ -16,13 +16,17 @@ _Type: Concepts_
 
 **Categories:** ethnic and national group
 
+**Entity verification:** verified
+> Reference encyclopedia confirms Palestinian/Palestinians as the canonical collective term. This categorization does not verify the quoted political assertions.
+Source: [The Origins of the Term Palestinians | Interactive Encyclopedia of the Palestine Question](https://www.palquest.org/en/highlight/41681/origins-term-palestinians)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-concept-palestinians-t-00-31-57">2025-09-22 · 00:32:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-palestinians-t-00-38-35">2026-09-25 · 00:38:35</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-palestinians-t-00-36-28">2026-10-20 · 00:36:51</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,6 +56,7 @@ _Type: Concepts_
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-palestinians-t-00-50-45" style="--pulse-height:20%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-concept-palestinians-t-00-50-18" style="--pulse-height:20%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 1 mentions" title="2026-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_Sq5RqP27NY.md#ent-concept-palestinians-t-00-37-12" style="--pulse-height:40%" aria-label="CONFIRMED: TWO Dodge Challengers &amp; A Dairy Queen Stop That Broke The Timeline. | Ep 393: 2 mentions" title="2026-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-palestinians-t-00-36-28" style="--pulse-height:20%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +83,7 @@ _Type: Concepts_
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-palestinians-t-00-50-45) | 1 |
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-concept-palestinians-t-00-50-18) | 1 |
 | 2026-09-25 | [CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393](/episodes/ep-_Sq5RqP27NY.md#ent-concept-palestinians-t-00-37-12) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-palestinians-t-00-36-28) | 1 |
 
 </details>
 </section>
@@ -85,7 +91,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:36:51](/episodes/ep-ihLQRXxIfjU.md#ent-concept-palestinians-t-00-36-28)**
+> "... no such thing as an innocent Palestinian life."
+
+</details>
 
 <details>
 <summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (2 mentions)</summary>
@@ -338,7 +352,14 @@ _Type: Concepts_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Palestinians (9)</strong></summary>
+<summary><strong class="section-title">Statements about Palestinians (10)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28) (Opinion) **Brian Mast** (via quoted speech): ["Brian Mast, as quoted by Owens while discussing Yashar Ali’s criticism..."](/statements/statement-8b02619c6c43.md)
+
+</details>
 
 <details>
 <summary>CONFIRMED: TWO Dodge Challengers & A Dairy Queen Stop That Broke The Timeline. | Ep 393 (1)</summary>

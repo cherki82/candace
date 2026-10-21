@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Boreing"
-description: "Jeremy Boreing (People) - 96 mentions"
+description: "Jeremy Boreing (People) - 100 mentions"
 id: "person-jeremy-boreing"
 type: "PERSON"
 aliases:
@@ -22,13 +22,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-03-13">2025-11-06 · 00:03:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeremy-boreing-t-00-55-26">2026-10-05 · 00:55:46</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>96</strong></div>
-<div><span>Statements by</span><strong>20</strong></div>
-<div><span>Statements about</span><strong>45</strong></div>
-<div><span>Relationships</span><strong>55</strong></div>
-<div><span>Threads</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-jeremy-boreing-t-00-51-49">2026-10-20 · 00:51:49</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>48</strong></div>
+<div><span>Relationships</span><strong>59</strong></div>
+<div><span>Threads</span><strong>2</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -56,6 +56,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-00-01" style="--pulse-height:26%" aria-label="BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391: 8 mentions" title="2026-09-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-_2DiIbfy4mU.md#t-00-43-02" style="--pulse-height:8%" aria-label="SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.: 1 mentions" title="2026-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-person-jeremy-boreing-t-00-55-26" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-jeremy-boreing-t-00-33-04" style="--pulse-height:13%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 4 mentions" title="2026-10-20 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 | 2026-09-22 | [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391](/episodes/ep-6XfDqKTdFKg.md#ent-person-jeremy-boreing-t-00-00-01) | 8 |
 | 2026-09-23 | [SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls.](/episodes/ep-_2DiIbfy4mU.md#t-00-43-02) | 1 |
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-person-jeremy-boreing-t-00-55-26) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-jeremy-boreing-t-00-33-04) | 4 |
 
 </details>
 </section>
@@ -89,11 +91,29 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 ## Reviewed theory threads
 
 - [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+- [How the Owens Daily Wire firing-reason dispute developed](/threads/thread-owens-daily-wire-firing-reason-dispute) — Tracks the firing explanation, quoted rebuttal, document excerpts and disclosure position presented on channel, without establishing the actual grounds for termination or document authenticity.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (4 mentions)</summary>
+
+**[00:33:04](/episodes/ep-ihLQRXxIfjU.md#ent-person-jeremy-boreing-t-00-33-04)**
+> "...his former CEO of Daily Wire, Jeremy Boreing,"
+
+**[00:34:23](/episodes/ep-ihLQRXxIfjU.md#ent-person-jeremy-boreing-t-00-34-23)**
+> "...cide is always wrong, Jeremy (Jeremy Boreing), which the public was able to induce because the..."
+
+**[00:34:34](/episodes/ep-ihLQRXxIfjU.md#ent-person-jeremy-boreing-t-00-34-23)**
+> "Jeremy Boreing comes back and he says, I wonder if you're being ..."
+
+**[00:51:49](/episodes/ep-ihLQRXxIfjU.md#ent-person-jeremy-boreing-t-00-51-49)**
+> "...ns, I will hunt you down like Jeremy Boreing for five years if you dare."
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1 mentions)</summary>
@@ -580,15 +600,16 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Criticized (2)</summary>
+<summary>Criticized (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:07:13](/episodes/ep-O4Zw3bCALjU.md#t-00-07-13): “There's—this is just what we could fit, could fit onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Candace (Candace Owens)'s Receipts,' 'Why Women Believe Candace (Candace Owens),' 'One of the Darkest Things I've Ever Seen,' 'Candace (Candace Owens) Has Nothing but False Accusations,' 'Candace (Candace Owens) Gave Off Massive Red Flags.' He's kind of—his new imagination...”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:31:41](/episodes/ep-6XfDqKTdFKg.md#t-00-31-28): “This is a real tweet. It's an aspirational level of derangement. He wrote this. She does this largely on purpose. All Candace (Candace Owens) cares about is fame and money. Nothing is beneath her. And everything that causes people to talk more about her is a tool in her arsenal. So I...”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth.”
 
 </details>
 
@@ -599,13 +620,20 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic. ... Then she says tragic is firing someone for saying genocide is always wrong, Jeremy (Jeremy Boreing), which the public was able to induce because they made a spectacle out of it. ... Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized By (3)</summary>
+<summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
@@ -615,6 +643,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute. ... We don't, I genuinely can't even engage. I just find him to be just spastic, honestly. Jason Bourne's wife (commenter handle; identity unverified).”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth. ... He is treating her like an abused child and going, I understand why you think that that happened, but it didn't happen.”
 
 </details>
 
@@ -629,6 +658,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:33:12](/episodes/ep-6XfDqKTdFKg.md#t-00-33-12): “I hope you don't have a lot of plans tomorrow because the Blake Neff germs boring (Jeremy Boreing; satirical nickname) collab is about to drop. I don't think I've ever been as excited for a boring, predictable podcast to drop in my life. And since it's not out yet and you know I'm about to cover that, I'm going to make some prediction. Before we do that, so there's a reason Charlie (Charlie Kirk) called him his secret weapon. Secret weapon. Brother, a weapon is supposed to do damage to the other person. not yourself. He's a weapon for destroying Turning Point USA. But before the—yo, before the predictions, I just, when I saw this photo, I could—I was like, I can't. There's too many jokes all over the fences. But how did—I can't even understand how this is real. This is like totally giving the energy of, like, when a dude walks into the room, and these—this is, I guess, their two angry dads: what are your intentions with my son, sir?”
+
+</details>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic. ... Then she says tragic is firing someone for saying genocide is always wrong, Jeremy (Jeremy Boreing), which the public was able to induce because they made a spectacle out of it.”
 
 </details>
 
@@ -657,11 +693,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “By the way, I had a little back-forth tiff, and this has been going on for three years. I just, you know, this is just, like I said, permanent background noise in my life, is this former CEO of Daily Wire, Jeremy Boreing, ... who is just like, he's just never going to stop involving himself in my life. I have a fake podcast. ... But it's so stunning to me that he fired me and is now trying to gaslight people about the reasons that he fired me because I said genocide is always wrong. So, of course, nobody was talking about it.”
 
 </details>
 
@@ -671,7 +708,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Former Ceo Of (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
@@ -680,6 +717,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “this former CEO of Daily Wire, Jeremy Boreing,”
 
 </details>
 
@@ -822,7 +860,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (26)</summary>
+<summary>Referenced By (28)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -867,7 +905,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
@@ -877,6 +915,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
 - [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 @ 00:55:46](/episodes/ep-ms5ChhZegRg.md#t-00-55-26): “Kathy Madsen (commenter name; identity and spelling unverified) writes, I stopped watching Jeremy Boreing on Heretics to watch this. Christ (Jesus Christ) is king. Oh, that man is just so unwell and only becoming more unwell by the minute. ... We don't, I genuinely can't even engage. I just find him to be just spastic, honestly. Jason Bourne's wife (commenter handle; identity unverified).”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth. ... He is treating her like an abused child and going, I understand why you think that that happened, but it didn't happen.”
 
 </details>
 
@@ -894,13 +933,21 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic. ... Then she says tragic is firing someone for saying genocide is always wrong, Jeremy (Jeremy Boreing), which the public was able to induce because they made a spectacle out of it.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:07:13](/episodes/ep-O4Zw3bCALjU.md#t-00-07-13): “There's—this is just what we could fit, could fit onto one card of just Jeremy (Jeremy Boreing) just talking, desperate for my attention on the internet: 'The Daily Wire Created a Monster,' 'Her Toxic Femininity,' 'Candace (Candace Owens)'s Receipts,' 'Why Women Believe Candace (Candace Owens),' 'One of the Darkest Things I've Ever Seen,' 'Candace (Candace Owens) Has Nothing but False Accusations,' 'Candace (Candace Owens) Gave Off Massive Red Flags.' He's kind of—his new imagination...”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:31:41](/episodes/ep-6XfDqKTdFKg.md#t-00-31-28): “This is a real tweet. It's an aspirational level of derangement. He wrote this. She does this largely on purpose. All Candace (Candace Owens) cares about is fame and money. Nothing is beneath her. And everything that causes people to talk more about her is a tool in her arsenal. So I...”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23): “Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading. ... And he says, I understand. Oh, but I understand because Candace (Candace Owens) is better at lying than most people are at discerning the truth.”
 
 </details>
 
@@ -908,6 +955,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:41](/episodes/ep-QdM9jLwjwLw.md#t-00-00-37): “Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground. ... And like everyone in the mainstream media, he appears to be auditioning for a role at AIPAC in the very tried and true manner of publicly attacking Tucker Carlson and yours truly,”
+
+</details>
+
+- **[Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42): “Kell, Kelly Fuller wrote, at this point I only trust three people: Candace Owens, Ian Carroll and Baron Coleman. Okay, that's her prerogative. Now when he's around he writes, tragic. ... Then she says tragic is firing someone for saying genocide is always wrong, Jeremy (Jeremy Boreing), which the public was able to induce because they made a spectacle out of it. ... Jeremy Boreing comes back and he says, I wonder if you're being deliberately misleading or if you are truly brainwashed. He's now telling her that she's brainwashed and she's being misleading.”
 
 </details>
 
@@ -933,11 +987,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:17](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So I've told you guys that for the last three years, I've been stalked by my former employer, legitimately a mentally deranged little dwarf, Jeremy Boreing. He even declared publicly that if his only contribution to the world is trying to destroy me, he'd be content with the rest of his life. So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:36:40](/episodes/ep-6XfDqKTdFKg.md#t-00-36-40): “stalking of Candace Owens, which has happened since I left Daily Wire. I am the employee that he fired, but he cannot let go. I occupy his every thought. OK, now Bobby Sauce (Bobby Sausalito) makes those predictions: Tucker Carlson, they're gonna talk about Erika Kirk, they're gonna talk about, um, defamation lawsuits, free speech. And I kid you not, afterward they drop a—I guess we're supposed to get you excited for the episode—here's what they are going to discuss. Take a listen.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “By the way, I had a little back-forth tiff, and this has been going on for three years. I just, you know, this is just, like I said, permanent background noise in my life, is this former CEO of Daily Wire, Jeremy Boreing, ... who is just like, he's just never going to stop involving himself in my life. I have a fake podcast. ... But it's so stunning to me that he fired me and is now trying to gaslight people about the reasons that he fired me because I said genocide is always wrong. So, of course, nobody was talking about it.”
 
 </details>
 
@@ -990,7 +1045,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** has former CEO this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
@@ -999,6 +1054,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:09](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “here is a video of the then CEO Jeremy Boreing”
 - [More Exclusive Footage! For Whatever It’s Farnsworth… | Ep 386 @ 00:06:33](/episodes/ep-O4Zw3bCALjU.md#t-00-06-03): “So he's the former CEO of Daily Wire, Jeremy Boreing. Please bring back insane asylums. He is so far into this three-year psychosis, having fired me, says like, you know, hate to see you go, but love to watch you leave sort of a thing.”
 - [BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 @ 00:29:21](/episodes/ep-6XfDqKTdFKg.md#t-00-29-21): “It's too much. Here it is. Now, we have made it very clear to you that Jeremy Boreing, former CEO of The Daily Wire, can't believe this person used to be my boss, is in fact more like a Jeffrey Dahmer character cosplaying as a political commentator. He's in some career purgatory, doesn't know what to do with his life. He's tried many things, all of them failures, and secretly, not really secretly, kind of publicly blames me for the fact that he failed.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:33:04](/episodes/ep-ihLQRXxIfjU.md#t-00-33-04): “this former CEO of Daily Wire, Jeremy Boreing,”
 
 </details>
 
@@ -1036,7 +1092,15 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jeremy Boreing (20)</strong></summary>
+<summary><strong class="section-title">Statements by Jeremy Boreing (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) [○] (Accusation) ["Jeremy Boreing wrote that he wondered whether Kelly Fuller was deliberately misl..."](/statements/statement-fb836250a967.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)
+
+</details>
 
 <details>
 <summary>BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391 (4)</summary>
@@ -1126,7 +1190,21 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeremy Boreing (45)</strong></summary>
+<summary><strong class="section-title">Statements about Jeremy Boreing (48)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (3)</summary>
+
+- [00:33:42](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) (Accusation) **Candace Owens**: ["Owens alleged Jeremy Boreing fired her because she said genocide is al..."](/statements/statement-36d9d117a183.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:34:23](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) (Opinion) **Kelly Fuller (commenter; identity unverified)** (via quoted tweet): ["Kelly Fuller wrote that firing someone for saying genocide is always w..."](/statements/statement-8e322225e98c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:35:01](/episodes/ep-ihLQRXxIfjU.md#t-00-35-01) (Claim) **Candace Owens**: ["Owens said confidentiality clauses allow her only a proportionate resp..."](/statements/statement-656e4596f797.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>SHOCKING FOOTAGE! UVU Rooftop. Erika Gives Charlie’s Final Moments With His Kids To Internet Trolls. (1)</summary>

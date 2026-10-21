@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 190 mentions"
+description: "Central Intelligence Agency (Organizations) - 192 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-central-intelligence-agency-t-00-50-01">2026-10-15 · 00:50:14</a></strong></div>
-<div><span>Episodes</span><strong>82</strong></div>
-<div><span>Mentions</span><strong>190</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-central-intelligence-agency-t-00-05-14">2026-10-20 · 00:05:30</a></strong></div>
+<div><span>Episodes</span><strong>83</strong></div>
+<div><span>Mentions</span><strong>192</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>67</strong></div>
+<div><span>Statements about</span><strong>69</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -118,6 +118,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17" style="--pulse-height:8%" aria-label="COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397: 1 mentions" title="2026-10-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-08" style="--pulse-height:18%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 3 mentions" title="2026-10-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-central-intelligence-agency-t-00-50-01" style="--pulse-height:8%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 1 mentions" title="2026-10-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-central-intelligence-agency-t-00-04-30" style="--pulse-height:12%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -205,6 +206,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-10-05 | [COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397](/episodes/ep-ms5ChhZegRg.md#ent-org-central-intelligence-agency-t-00-07-17) | 1 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-central-intelligence-agency-t-00-47-08) | 3 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-central-intelligence-agency-t-00-50-01) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-central-intelligence-agency-t-00-04-30) | 2 |
 
 </details>
 </section>
@@ -216,7 +218,18 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (190)</strong></summary>
+<summary><strong class="section-title">Raw mentions (192)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:04:30](/episodes/ep-ihLQRXxIfjU.md#ent-org-central-intelligence-agency-t-00-04-30)**
+> "...ot JFK (John F. Kennedy)? Our CIA engaged in Operation Mockingbird, right?"
+
+**[00:05:30](/episodes/ep-ihLQRXxIfjU.md#ent-org-central-intelligence-agency-t-00-05-14)**
+> "...were working on behalf of the CIA, Scripps Media was on the list. Then it was Howar..."
+
+</details>
 
 <details>
 <summary>Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (1 mentions)</summary>
@@ -1438,7 +1451,18 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (67)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (69)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:04:30](/episodes/ep-ihLQRXxIfjU.md#t-00-04-30) (Accusation) **Candace Owens**: ["Owens alleged that the CIA used Operation Mockingbird to pay American ..."](/statements/statement-e8ffb12524a8.md)
+  - Also about: [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+- [00:05:30](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) (Citation) **Candace Owens**: ["Owens cited Carl Bernstein as explicitly listing Scripps Media among p..."](/statements/statement-4aeca2825a6e.md)
+  - Also about: [Carl Bernstein](/entities/person-carl-bernstein.md), [The E.W. Scripps Company](/entities/org-ew-scripps-company.md)
+
+</details>
 
 <details>
 <summary>COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review’s Major Redaction. | Ep 397 (1)</summary>

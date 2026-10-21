@@ -17,7 +17,7 @@ time: "12:44"
 
 > Candace Owens said Officer Chris Bagley reached the Losee Center roof around 12:44 p.m. and found a screwdriver.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On Th...
 
@@ -42,3 +42,14 @@ time: "12:44"
 <a href="https://www.youtube.com/watch?v=bIuvTKlFeGo&t=3003s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he locates a screwdriver and an area of disturbed gravel on the roof that appeared consistent with
+
+### 4. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:22:11](/episodes/ep-ihLQRXxIfjU.md#event-event-2025-09-10-candace-owens-said-officer-chris-bagley--t-00-21-41) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=1331s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And the first thing he does is he finds a screwdriver just a few feet over the ledge.
+
+> **Date stated in this source:** “September 10th 2025; 12:44 p.m. at 808.228s; less than a minute after departure at 1331.384s”
+> **Date review note:** Retain the canonical approximate 12:44 arrival, repeated explicitly by this source. The later less-than-a-minute wording after a 12:42 departure conflicts slightly and is not used to invent an exact alternative. This source identifies the witness only as Officer Bagley, given name unverified; its mention does not independently establish the canonical given name.

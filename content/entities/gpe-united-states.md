@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 2033 mentions"
+description: "United States (Places) - 2035 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,9 +28,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-26-32">2026-10-19 · 00:26:37</a></strong></div>
-<div><span>Episodes</span><strong>180</strong></div>
-<div><span>Mentions</span><strong>2,033</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-united-states-t-00-33-04">2026-10-20 · 00:33:04</a></strong></div>
+<div><span>Episodes</span><strong>181</strong></div>
+<div><span>Mentions</span><strong>2,035</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>180</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -221,6 +221,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-00-01" style="--pulse-height:22%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 10 mentions" title="2026-10-14 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-gpe-united-states-t-00-32-41" style="--pulse-height:11%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 5 mentions" title="2026-10-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-05-32" style="--pulse-height:13%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 6 mentions" title="2026-10-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-united-states-t-00-29-44" style="--pulse-height:8%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -406,6 +407,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-united-states-t-00-00-01) | 10 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-gpe-united-states-t-00-32-41) | 5 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-gpe-united-states-t-00-05-32) | 6 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-united-states-t-00-29-44) | 2 |
 
 </details>
 </section>
@@ -417,7 +419,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2033)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2035)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:29:52](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-united-states-t-00-29-44)**
+> "...ith family farmers across the U.S. who raise animals on open pastures using rotation..."
+
+**[00:33:04](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-united-states-t-00-33-04)**
+> "...e popularized that throughout America. They've popularized gaslighting people after the..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6 mentions)</summary>

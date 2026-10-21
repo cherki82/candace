@@ -23,7 +23,7 @@ type: "factual_claim"
 
 - [American Financing](/entities/org-american-financing.md) (org)
 
-## Appearances (4)
+## Appearances (5)
 
 ### 1. We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland...
 
@@ -56,6 +56,14 @@ type: "factual_claim"
 <a href="https://www.youtube.com/watch?v=0pSAhaAZz1w&t=3318s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners that are saving an average of ... $800 a month with American Financing. There are no upfront fees, no pressure, and no costs to find out your potential monthly savings.
+
+### 5. EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The L...
+
+**Episode:** [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md)
+**Timestamp:** [00:43:57](/episodes/ep-ihLQRXxIfjU.md#t-00-43-32) 
+<a href="https://www.youtube.com/watch?v=ihLQRXxIfjU&t=2637s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> There are no upfront fees to find out how much you could be saving. Their customers are saving an average average of $800 a month. That's like a $10,000 a year raise.
 
 ## Verification
 

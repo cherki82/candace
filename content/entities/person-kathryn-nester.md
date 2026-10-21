@@ -1,6 +1,6 @@
 ---
 title: "Kathryn Nester"
-description: "Kathryn Nester (People) - 10 mentions"
+description: "Kathryn Nester (People) - 12 mentions"
 id: "person-kathryn-nester"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11">2026-08-14 · 01:22:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-25-21">2026-08-18 · 00:25:47</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-kathryn-nester-t-00-22-56">2026-10-20 · 00:23:09</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-24-37" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-kathryn-nester-t-00-12-51" style="--pulse-height:100%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 |---|---|---:|
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-24-37) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-kathryn-nester-t-00-12-51) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:12:59](/episodes/ep-ihLQRXxIfjU.md#ent-person-kathryn-nester-t-00-12-51)**
+> "...fied) was being questioned by Kathy Nester, Tyler Robinson's lawyer, and she wanted to know ..."
+
+**[00:23:09](/episodes/ep-ihLQRXxIfjU.md#ent-person-kathryn-nester-t-00-22-56)**
+> "... and the authorities and even Kathy Nester, because people weren't sure why she was asking t..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
@@ -85,11 +98,12 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <summary>Represented (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51): “First, I want to jog your memory to a rather unbelievable moment of the preliminary hearing. Meaning, I literally didn't believe it. It was when Officer Bagley (Officer Bagley; UVU witness, given name unverified) was being questioned by Kathy Nester, Tyler Robinson's lawyer, and she wanted to know if he had checked the cameras at UVU to see if anyone had been on the Losee rooftop after the alleged shot and before Officer Bagley (Officer Bagley; UVU witness, given name unverified) went up there.”
 
 </details>
 
@@ -99,11 +113,12 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <summary>Referenced By (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** represented by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51): “First, I want to jog your memory to a rather unbelievable moment of the preliminary hearing. Meaning, I literally didn't believe it. It was when Officer Bagley (Officer Bagley; UVU witness, given name unverified) was being questioned by Kathy Nester, Tyler Robinson's lawyer, and she wanted to know if he had checked the cameras at UVU to see if anyone had been on the Losee rooftop after the alleged shot and before Officer Bagley (Officer Bagley; UVU witness, given name unverified) went up there.”
 
 </details>
 
@@ -136,7 +151,18 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kathryn Nester (3)</strong></summary>
+<summary><strong class="section-title">Statements about Kathryn Nester (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kathy Nester questioned Officer Bagley about whether he che..."](/statements/statement-47d371e14364.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:22:56](/episodes/ep-ihLQRXxIfjU.md#t-00-22-56) (Opinion) **Candace Owens**: ["Owens explicitly framed as opinion her belief that Officer Bagley, the..."](/statements/statement-c7de6155fd36.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center](/entities/org-losee-center.md)
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3)</summary>

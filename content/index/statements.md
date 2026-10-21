@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 4620 factual claims and 8692 attributed statements"
+description: "Browse 4645 factual claims and 8754 attributed statements"
 ---
 
 # Claims & Statements
 
-_4620 factual claims within 8692 attributed statements._
+_4645 factual claims within 8754 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _4620 factual claims within 8692 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (185)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (186)</label>
 </div>
 
 <style>
@@ -53,7 +53,162 @@ _4620 factual claims within 8692 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (4620)</strong></summary>
+<summary><strong class="section-title">Factual Claims (4645)</strong></summary>
+
+<details>
+<summary>2026-10-20 · EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (25)</summary>
+
+<div class="filter-item" data-filter-key="statement-2b3e54588a5e">
+
+- [00:02:52](/episodes/ep-ihLQRXxIfjU.md#t-00-02-23) [○] **Candace Owens**: ["Owens characterized Steve Baker as believing the pipe-bomb suspect was a woman w..."](/statements/statement-2b3e54588a5e.md)
+  - About: [Steve Baker](/entities/person-steve-baker.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ad5df9007fbb">
+
+- [00:04:01](/episodes/ep-ihLQRXxIfjU.md#t-00-03-52) [○] **Candace Owens**: ["Owens said Scripps Media supplied old traffic-stop footage of Brian Cole Jr. tha..."](/statements/statement-ad5df9007fbb.md)
+  - About: [The E.W. Scripps Company](/entities/org-ew-scripps-company.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7738bf8020eb">
+
+- [00:06:04](/episodes/ep-ihLQRXxIfjU.md#t-00-05-55) [○] **Candace Owens**: ["Owens said Steve Baker’s team found footage of Brian Cole Jr. across town at 7:5..."](/statements/statement-7738bf8020eb.md)
+  - About: [Steve Baker](/entities/person-steve-baker.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b29b5a01cf65">
+
+- [00:07:36](/episodes/ep-ihLQRXxIfjU.md#t-00-07-36) [○] **Pipe-bomb clip investigator (07:28; identity unverified)**: ["An unidentified investigator in the first pipe-bomb clip said they believed the ..."](/statements/statement-b29b5a01cf65.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7737cb9e67bc">
+
+- [00:07:54](/episodes/ep-ihLQRXxIfjU.md#t-00-07-36) [○] **Pipe-bomb clip investigator (07:28; identity unverified)**: ["The unidentified first pipe-bomb clip investigator said the displayed jacket was..."](/statements/statement-7737cb9e67bc.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ad79a0353f6b">
+
+- [00:08:37](/episodes/ep-ihLQRXxIfjU.md#t-00-08-14) [○] **Loretta Cole-Donnette**: ["Loretta Cole, as reported in Steve Baker’s tweet read by Owens, said the jacket ..."](/statements/statement-ad79a0353f6b.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Kohl's](/entities/org-kohls.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24da803cecde">
+
+- [00:09:28](/episodes/ep-ihLQRXxIfjU.md#t-00-09-28) [○] **Pipe-bomb clip investigator (09:28; identity unverified)**: ["The unidentified second pipe-bomb clip investigator said the January 2021 footag..."](/statements/statement-24da803cecde.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Delicia Cole](/entities/person-delicia-cole.md), [Washington Commanders](/entities/org-washington-commanders.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-65bf97483bcb">
+
+- [00:11:05](/episodes/ep-ihLQRXxIfjU.md#t-00-10-34) [○] **Pipe-bomb clip investigator (09:28; identity unverified)**: ["The unidentified second pipe-bomb clip investigator said Brian Cole Jr.’s mother..."](/statements/statement-65bf97483bcb.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Delicia Cole](/entities/person-delicia-cole.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6bb833a84217">
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) [○] **Candace Owens**: ["Owens said Kash Patel had made no comment yet, Dan Bongino had gone on an online..."](/statements/statement-6bb833a84217.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-47d371e14364">
+
+- [00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51) [○] **Candace Owens**: ["Owens said Kathy Nester questioned Officer Bagley about whether he checked UVU c..."](/statements/statement-47d371e14364.md)
+  - About: [Kathryn Nester](/entities/person-kathryn-nester.md), [Chris Bagley](/entities/person-chris-bagley.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7df6b100c824">
+
+- [00:15:42](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26) [○] **Candace Owens**: ["Owens said someone returned to the Losee rooftop ledge afterward and that, in he..."](/statements/statement-7df6b100c824.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0036709bfea2">
+
+- [00:16:31](/episodes/ep-ihLQRXxIfjU.md#t-00-16-10) [○] **Candace Owens**: ["Owens described side-by-side rooftop images as taken at 12:17 and 12:37, twenty ..."](/statements/statement-0036709bfea2.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ca3d120ed05a">
+
+- [00:17:19](/episodes/ep-ihLQRXxIfjU.md#t-00-17-19) [○] **Candace Owens**: ["Owens said the person she believes returned to the same rooftop spot lingered th..."](/statements/statement-ca3d120ed05a.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-42a93e5b6097">
+
+- [00:17:55](/episodes/ep-ihLQRXxIfjU.md#t-00-17-55) [○] **Candace Owens**: ["Owens nicknamed the unidentified tall rooftop person Slenderman and said she bel..."](/statements/statement-42a93e5b6097.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Losee Center](/entities/org-losee-center.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8c59c5b50e4c">
+
+- [00:20:47](/episodes/ep-ihLQRXxIfjU.md#t-00-20-47) [○] **Candace Owens**: ["Owens said the rooftop person returned to the ledge at 12:40, the footage blacke..."](/statements/statement-8c59c5b50e4c.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eaab16f1afae">
+
+- [00:22:11](/episodes/ep-ihLQRXxIfjU.md#t-00-21-41) [○] **Candace Owens**: ["Owens said Officer Bagley appeared on the rooftop less than a minute after the p..."](/statements/statement-eaab16f1afae.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ee2227201cc2">
+
+- [00:22:30](/episodes/ep-ihLQRXxIfjU.md#t-00-22-30) [○] **Chris Bagley**: ["Officer Bagley confirmed in the courtroom clip that he saw the screwdriver on Se..."](/statements/statement-ee2227201cc2.md)
+  - About: [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e270005ff2f">
+
+- [00:29:44](/episodes/ep-ihLQRXxIfjU.md#t-00-29-44) [○] **Candace Owens**: ["In a Wild Pastures sponsor read, Owens said the company delivers pasture-raised ..."](/statements/statement-7e270005ff2f.md)
+  - About: [Wild Pastures](/entities/org-wild-pastures.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-656e4596f797">
+
+- [00:35:01](/episodes/ep-ihLQRXxIfjU.md#t-00-35-01) [○] **Candace Owens**: ["Owens said confidentiality clauses allow her only a proportionate response when ..."](/statements/statement-656e4596f797.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-698f0dec497d">
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) [○] **Candace Owens**: ["In a Battalion Metals sponsor read, Owens asserted the Strait of Hormuz was stil..."](/statements/statement-698f0dec497d.md)
+  - About: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f45601b96eee">
+
+- [00:42:49](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] **Candace Owens**: ["In a Battalion Metals sponsor read, Owens claimed gold had performed better than..."](/statements/statement-f45601b96eee.md)
+  - About: [Battalion Metals](/entities/org-battalion-metals.md), [S&P 500](/entities/concept-sp-500.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b1d70f663fe6">
+
+- [00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] **Candace Owens**: ["Owens described Battalion Metals as her friend Tucker Carlson’s company."](/statements/statement-b1d70f663fe6.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Battalion Metals](/entities/org-battalion-metals.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9379f3c4b5ce">
+
+- [00:44:20](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05) [○] **Candace Owens**: ["Owens characterized Tyler Bowyer as saying they could not do anything else about..."](/statements/statement-9379f3c4b5ce.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dca620bbb0ca">
+
+- [00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44) [○] **Candace Owens**: ["Owens said Tyler Bowyer was blocking more people on X rather than releasing more..."](/statements/statement-dca620bbb0ca.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Twitter](/entities/org-twitter.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-255dbf6e1517">
+
+- [00:48:51](/episodes/ep-ihLQRXxIfjU.md#t-00-48-51) [○] **Earl's daughter (viewer handle; identity unverified)**: ["The viewer using the handle Earl’s daughter reported a mother’s account that an ..."](/statements/statement-255dbf6e1517.md)
+  - About: [Autism spectrum disorder](/entities/concept-autism-spectrum-disorder.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (16)</summary>
@@ -28120,7 +28275,126 @@ _4620 factual claims within 8692 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (2006)</strong></summary>
+<summary><strong class="section-title">Accusations (2025)</strong></summary>
+
+<details>
+<summary>2026-10-20 · EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (19)</summary>
+
+<div class="filter-item" data-filter-key="statement-fb07af2145a6">
+
+- [00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39) [○] **Candace Owens**: ["Owens said it would appear Kash Patel and Dan Bongino decided to blame Brian Col..."](/statements/statement-fb07af2145a6.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2ef8c81319fc">
+
+- [00:01:24](/episodes/ep-ihLQRXxIfjU.md#t-00-01-24) [○] **Candace Owens**: ["Owens said it appears the feds might not be telling the whole truth and might be..."](/statements/statement-2ef8c81319fc.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Autism spectrum disorder](/entities/concept-autism-spectrum-disorder.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e8ffb12524a8">
+
+- [00:04:30](/episodes/ep-ihLQRXxIfjU.md#t-00-04-30) [○] **Candace Owens**: ["Owens alleged that the CIA used Operation Mockingbird to pay American journalist..."](/statements/statement-e8ffb12524a8.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1af7793c4941">
+
+- [00:05:14](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) [○] **Candace Owens**: ["Owens said it feels like the DoD is putting people on payroll to repeat things t..."](/statements/statement-1af7793c4941.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-21f8d8e72ce9">
+
+- [00:11:48](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26) [○] **Candace Owens**: ["Owens alleged Brian Cole Jr. was effectively forced to give false testimony beca..."](/statements/statement-21f8d8e72ce9.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6bef615b6e4b">
+
+- [00:14:14](/episodes/ep-ihLQRXxIfjU.md#t-00-14-09) [○] **Candace Owens**: ["Owens alleged Officer Bagley did not check cameras for anyone on the Losee rooft..."](/statements/statement-6bef615b6e4b.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3dc8f224cbd8">
+
+- [00:25:05](/episodes/ep-ihLQRXxIfjU.md#t-00-24-40) [○] **Candace Owens**: ["Owens said it appears to her that someone with a lot of power, potentially at th..."](/statements/statement-3dc8f224cbd8.md)
+  - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-aa75be3ef35b">
+
+- [00:25:26](/episodes/ep-ihLQRXxIfjU.md#t-00-25-26) [○] **Candace Owens**: ["Owens speculated that the missing minute might show a screwdriver being tossed a..."](/statements/statement-aa75be3ef35b.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c65d92dcefc0">
+
+- [00:26:21](/episodes/ep-ihLQRXxIfjU.md#t-00-26-21) [○] **Candace Owens**: ["Owens said that if footage showed someone tossing the screwdriver before Officer..."](/statements/statement-c65d92dcefc0.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Axon Enterprise](/entities/org-axon-enterprise.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-11c4b1886bd2">
+
+- [00:32:39](/episodes/ep-ihLQRXxIfjU.md#t-00-32-39) [○] **Candace Owens**: ["Citing The Assault on Truth, Owens alleged Sigmund Freud knew children were bein..."](/statements/statement-11c4b1886bd2.md)
+  - About: [Sigmund Freud](/entities/person-sigmund-freud.md), [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-36d9d117a183">
+
+- [00:33:42](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) [○] **Candace Owens**: ["Owens alleged Jeremy Boreing fired her because she said genocide is always wrong..."](/statements/statement-36d9d117a183.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fb836250a967">
+
+- [00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) [○] **Jeremy Boreing**: ["Jeremy Boreing wrote that he wondered whether Kelly Fuller was deliberately misl..."](/statements/statement-fb836250a967.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-384316d912ca">
+
+- [00:39:12](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] **Candace Owens**: ["Owens relayed reports alleging Kimberly Guilfoyle abused her diplomatic office b..."](/statements/statement-384316d912ca.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-daa8517a5b19">
+
+- [00:39:25](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] **Candace Owens**: ["Owens said an unnamed person came forward to Eric Deters alleging Guilfoyle want..."](/statements/statement-daa8517a5b19.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Eric Deters](/entities/person-eric-deters.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3837007a7e19">
+
+- [00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37) [○] **Candace Owens**: ["Owens alleged Miriam Adelson had outright purchased the White House."](/statements/statement-3837007a7e19.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-48db67224f62">
+
+- [00:40:24](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) [○] **Candace Owens**: ["Owens accused the Trump brothers of crypto scams while questioning the focus on ..."](/statements/statement-48db67224f62.md)
+  - About: [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Cryptocurrency](/entities/concept-cryptocurrency.md), [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8ff49da2cecd">
+
+- [00:40:34](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) [○] **Candace Owens**: ["Owens accused Katie Zacharia of lying about her resume and said administration f..."](/statements/statement-8ff49da2cecd.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9a15ba119bf2">
+
+- [00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58) [○] **Ali (ihLQRXxIfjU commenter; identity unverified)**: ["Ali, a viewer whose identity is unverified, alleged that Owens exposed a Zionist..."](/statements/statement-9a15ba119bf2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-97d67a9390d0">
+
+- [00:46:55](/episodes/ep-ihLQRXxIfjU.md#t-00-46-35) [○] **Candace Owens**: ["Owens alleged the state executed Charlie Kirk and warned that another potentiall..."](/statements/statement-97d67a9390d0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (13)</summary>
@@ -41015,7 +41289,24 @@ _4620 factual claims within 8692 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Predictions (95)</strong></summary>
+<summary><strong class="section-title">Predictions (97)</strong></summary>
+
+<details>
+<summary>2026-10-20 · EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+<div class="filter-item" data-filter-key="statement-61fb57fe25f7">
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) [○] **Candace Owens**: ["In a Battalion Metals sponsor read, Owens predicted fuel prices would only go up..."](/statements/statement-61fb57fe25f7.md)
+  - About: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-275488bc4238">
+
+- [00:42:56](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] **Candace Owens**: ["In a Battalion Metals sponsor read, Owens said gold had dipped from record highs..."](/statements/statement-275488bc4238.md)
+  - About: [Battalion Metals](/entities/org-battalion-metals.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (2)</summary>
@@ -43421,7 +43712,36 @@ _4620 factual claims within 8692 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (504)</strong></summary>
+<summary><strong class="section-title">Citations (508)</strong></summary>
+
+<details>
+<summary>2026-10-20 · EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (4)</summary>
+
+<div class="filter-item" data-filter-key="statement-4aeca2825a6e">
+
+- [00:05:30](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) [○] **Candace Owens**: ["Owens cited Carl Bernstein as explicitly listing Scripps Media among publication..."](/statements/statement-4aeca2825a6e.md)
+  - About: [Carl Bernstein](/entities/person-carl-bernstein.md), [The E.W. Scripps Company](/entities/org-ew-scripps-company.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3cf07f4e835b">
+
+- [00:35:58](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45) [○] **Candace Owens**: ["Owens cited her firing document as including her tweet and stating that she insi..."](/statements/statement-3cf07f4e835b.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a6c0bc870eb4">
+
+- [00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07) [○] **Candace Owens**: ["Owens read another stated reason from her Daily Wire firing document: instead of..."](/statements/statement-a6c0bc870eb4.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-278cbbcb04b6">
+
+- [00:38:57](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] **Candace Owens**: ["Owens cited Axios as reporting that Kimberly Guilfoyle had been pushed out as am..."](/statements/statement-278cbbcb04b6.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [White House](/entities/org-white-house.md), [Axios](/entities/org-axios.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4)</summary>
@@ -47073,7 +47393,83 @@ _4620 factual claims within 8692 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1295)</strong></summary>
+<summary><strong class="section-title">Opinions (1307)</strong></summary>
+
+<details>
+<summary>2026-10-20 · EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (12)</summary>
+
+<div class="filter-item" data-filter-key="statement-ab920e9a2f6f">
+
+- [00:08:54](/episodes/ep-ihLQRXxIfjU.md#t-00-08-54) [○] **Steve Baker**: ["Steve Baker’s tweet read by Owens called for the FBI to obtain the Kohl’s purcha..."](/statements/statement-ab920e9a2f6f.md)
+  - About: [FBI](/entities/org-fbi.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-882543eb9dfe">
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) [○] **Candace Owens**: ["Owens said she does not believe Tyler Robinson was ever on the Losee rooftop on ..."](/statements/statement-882543eb9dfe.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c7de6155fd36">
+
+- [00:22:56](/episodes/ep-ihLQRXxIfjU.md#t-00-22-56) [○] **Candace Owens**: ["Owens explicitly framed as opinion her belief that Officer Bagley, the authoriti..."](/statements/statement-c7de6155fd36.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Kathryn Nester](/entities/person-kathryn-nester.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8ddd4d09a68c">
+
+- [00:24:13](/episodes/ep-ihLQRXxIfjU.md#t-00-24-07) [○] **Candace Owens**: ["Owens said, in her opinion, Slenderman was returning to the scene of a non-crime..."](/statements/statement-8ddd4d09a68c.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5f3e1a266e7c">
+
+- [00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) [○] **Kelly Fuller (commenter; identity unverified)**: ["Kelly Fuller, a commenter whose legal identity is unverified, wrote that at this..."](/statements/statement-5f3e1a266e7c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Ian Carroll](/entities/person-ian-carroll.md), [Baron Coleman](/entities/person-baron-coleman.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8e322225e98c">
+
+- [00:34:23](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) [○] **Kelly Fuller (commenter; identity unverified)**: ["Kelly Fuller wrote that firing someone for saying genocide is always wrong was t..."](/statements/statement-8e322225e98c.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-791e286206b4">
+
+- [00:36:28](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28) [○] **Candace Owens**: ["Owens quoted her own tweet: no government anywhere has a right to commit genocid..."](/statements/statement-791e286206b4.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8b02619c6c43">
+
+- [00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28) [○] **Brian Mast**: ["Brian Mast, as quoted by Owens while discussing Yashar Ali’s criticism, said the..."](/statements/statement-8b02619c6c43.md)
+  - About: [Palestinians](/entities/concept-palestinians.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-653e56eb56d1">
+
+- [00:38:23](/episodes/ep-ihLQRXxIfjU.md#t-00-38-16) [○] **Candace Owens**: ["Owens said she feels Kimberly Guilfoyle is being made a patsy and alleged that h..."](/statements/statement-653e56eb56d1.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Greece](/entities/gpe-greece.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a740932bb1f8">
+
+- [00:41:01](/episodes/ep-ihLQRXxIfjU.md#t-00-40-43) [○] **Candace Owens**: ["Owens declared herself team Kimberly Guilfoyle, characterized the Trump family’s..."](/statements/statement-a740932bb1f8.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e4bf4d4c851">
+
+- [00:48:14](/episodes/ep-ihLQRXxIfjU.md#t-00-48-14) [○] **Candace Owens**: ["Owens said she believes Charlie Kirk said no to a larger picture of global human..."](/statements/statement-7e4bf4d4c851.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b89067bf3eeb">
+
+- [00:50:29](/episodes/ep-ihLQRXxIfjU.md#t-00-50-24) [○] **Candace Owens**: ["Owens publicly gave permission to release all her firing documents and said ther..."](/statements/statement-b89067bf3eeb.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (6)</summary>
@@ -55661,6 +56057,382 @@ _4620 factual claims within 8692 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-10-20 · EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…</strong> (62)</summary>
+
+<div class="filter-item" data-filter-key="statement-fb07af2145a6">
+
+- [00:01:04](/episodes/ep-ihLQRXxIfjU.md#t-00-00-39) [○] (Accusation) **Candace Owens**: ["Owens said it would appear Kash Patel and Dan Bongino decided to blame Brian Col..."](/statements/statement-fb07af2145a6.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2ef8c81319fc">
+
+- [00:01:24](/episodes/ep-ihLQRXxIfjU.md#t-00-01-24) [○] (Accusation) **Candace Owens**: ["Owens said it appears the feds might not be telling the whole truth and might be..."](/statements/statement-2ef8c81319fc.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Autism spectrum disorder](/entities/concept-autism-spectrum-disorder.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2b3e54588a5e">
+
+- [00:02:52](/episodes/ep-ihLQRXxIfjU.md#t-00-02-23) [○] (Claim) **Candace Owens**: ["Owens characterized Steve Baker as believing the pipe-bomb suspect was a woman w..."](/statements/statement-2b3e54588a5e.md)
+  - About: [Steve Baker](/entities/person-steve-baker.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ad5df9007fbb">
+
+- [00:04:01](/episodes/ep-ihLQRXxIfjU.md#t-00-03-52) [○] (Claim) **Candace Owens**: ["Owens said Scripps Media supplied old traffic-stop footage of Brian Cole Jr. tha..."](/statements/statement-ad5df9007fbb.md)
+  - About: [The E.W. Scripps Company](/entities/org-ew-scripps-company.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e8ffb12524a8">
+
+- [00:04:30](/episodes/ep-ihLQRXxIfjU.md#t-00-04-30) [○] (Accusation) **Candace Owens**: ["Owens alleged that the CIA used Operation Mockingbird to pay American journalist..."](/statements/statement-e8ffb12524a8.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1af7793c4941">
+
+- [00:05:14](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) [○] (Accusation) **Candace Owens**: ["Owens said it feels like the DoD is putting people on payroll to repeat things t..."](/statements/statement-1af7793c4941.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4aeca2825a6e">
+
+- [00:05:30](/episodes/ep-ihLQRXxIfjU.md#t-00-05-14) [○] (Citation) **Candace Owens**: ["Owens cited Carl Bernstein as explicitly listing Scripps Media among publication..."](/statements/statement-4aeca2825a6e.md)
+  - About: [Carl Bernstein](/entities/person-carl-bernstein.md), [The E.W. Scripps Company](/entities/org-ew-scripps-company.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7738bf8020eb">
+
+- [00:06:04](/episodes/ep-ihLQRXxIfjU.md#t-00-05-55) [○] (Claim) **Candace Owens**: ["Owens said Steve Baker’s team found footage of Brian Cole Jr. across town at 7:5..."](/statements/statement-7738bf8020eb.md)
+  - About: [Steve Baker](/entities/person-steve-baker.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b29b5a01cf65">
+
+- [00:07:36](/episodes/ep-ihLQRXxIfjU.md#t-00-07-36) [○] (Claim) **Pipe-bomb clip investigator (07:28; identity unverified)**: ["An unidentified investigator in the first pipe-bomb clip said they believed the ..."](/statements/statement-b29b5a01cf65.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7737cb9e67bc">
+
+- [00:07:54](/episodes/ep-ihLQRXxIfjU.md#t-00-07-36) [○] (Claim) **Pipe-bomb clip investigator (07:28; identity unverified)**: ["The unidentified first pipe-bomb clip investigator said the displayed jacket was..."](/statements/statement-7737cb9e67bc.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ad79a0353f6b">
+
+- [00:08:37](/episodes/ep-ihLQRXxIfjU.md#t-00-08-14) [○] (Claim) **Loretta Cole-Donnette**: ["Loretta Cole, as reported in Steve Baker’s tweet read by Owens, said the jacket ..."](/statements/statement-ad79a0353f6b.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Kohl's](/entities/org-kohls.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ab920e9a2f6f">
+
+- [00:08:54](/episodes/ep-ihLQRXxIfjU.md#t-00-08-54) [○] (Opinion) **Steve Baker**: ["Steve Baker’s tweet read by Owens called for the FBI to obtain the Kohl’s purcha..."](/statements/statement-ab920e9a2f6f.md)
+  - About: [FBI](/entities/org-fbi.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24da803cecde">
+
+- [00:09:28](/episodes/ep-ihLQRXxIfjU.md#t-00-09-28) [○] (Claim) **Pipe-bomb clip investigator (09:28; identity unverified)**: ["The unidentified second pipe-bomb clip investigator said the January 2021 footag..."](/statements/statement-24da803cecde.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Delicia Cole](/entities/person-delicia-cole.md), [Washington Commanders](/entities/org-washington-commanders.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-65bf97483bcb">
+
+- [00:11:05](/episodes/ep-ihLQRXxIfjU.md#t-00-10-34) [○] (Claim) **Pipe-bomb clip investigator (09:28; identity unverified)**: ["The unidentified second pipe-bomb clip investigator said Brian Cole Jr.’s mother..."](/statements/statement-65bf97483bcb.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md), [Delicia Cole](/entities/person-delicia-cole.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-21f8d8e72ce9">
+
+- [00:11:48](/episodes/ep-ihLQRXxIfjU.md#t-00-11-26) [○] (Accusation) **Candace Owens**: ["Owens alleged Brian Cole Jr. was effectively forced to give false testimony beca..."](/statements/statement-21f8d8e72ce9.md)
+  - About: [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6bb833a84217">
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) [○] (Claim) **Candace Owens**: ["Owens said Kash Patel had made no comment yet, Dan Bongino had gone on an online..."](/statements/statement-6bb833a84217.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md), [Brian Cole Jr.](/entities/person-brian-cole-jr.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-882543eb9dfe">
+
+- [00:12:14](/episodes/ep-ihLQRXxIfjU.md#t-00-12-07) [○] (Opinion) **Candace Owens**: ["Owens said she does not believe Tyler Robinson was ever on the Losee rooftop on ..."](/statements/statement-882543eb9dfe.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-47d371e14364">
+
+- [00:12:59](/episodes/ep-ihLQRXxIfjU.md#t-00-12-51) [○] (Claim) **Candace Owens**: ["Owens said Kathy Nester questioned Officer Bagley about whether he checked UVU c..."](/statements/statement-47d371e14364.md)
+  - About: [Kathryn Nester](/entities/person-kathryn-nester.md), [Chris Bagley](/entities/person-chris-bagley.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6bef615b6e4b">
+
+- [00:14:14](/episodes/ep-ihLQRXxIfjU.md#t-00-14-09) [○] (Accusation) **Candace Owens**: ["Owens alleged Officer Bagley did not check cameras for anyone on the Losee rooft..."](/statements/statement-6bef615b6e4b.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7df6b100c824">
+
+- [00:15:42](/episodes/ep-ihLQRXxIfjU.md#t-00-15-26) [○] (Claim) **Candace Owens**: ["Owens said someone returned to the Losee rooftop ledge afterward and that, in he..."](/statements/statement-7df6b100c824.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0036709bfea2">
+
+- [00:16:31](/episodes/ep-ihLQRXxIfjU.md#t-00-16-10) [○] (Claim) **Candace Owens**: ["Owens described side-by-side rooftop images as taken at 12:17 and 12:37, twenty ..."](/statements/statement-0036709bfea2.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ca3d120ed05a">
+
+- [00:17:19](/episodes/ep-ihLQRXxIfjU.md#t-00-17-19) [○] (Claim) **Candace Owens**: ["Owens said the person she believes returned to the same rooftop spot lingered th..."](/statements/statement-ca3d120ed05a.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-42a93e5b6097">
+
+- [00:17:55](/episodes/ep-ihLQRXxIfjU.md#t-00-17-55) [○] (Claim) **Candace Owens**: ["Owens nicknamed the unidentified tall rooftop person Slenderman and said she bel..."](/statements/statement-42a93e5b6097.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Losee Center](/entities/org-losee-center.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8c59c5b50e4c">
+
+- [00:20:47](/episodes/ep-ihLQRXxIfjU.md#t-00-20-47) [○] (Claim) **Candace Owens**: ["Owens said the rooftop person returned to the ledge at 12:40, the footage blacke..."](/statements/statement-8c59c5b50e4c.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eaab16f1afae">
+
+- [00:22:11](/episodes/ep-ihLQRXxIfjU.md#t-00-21-41) [○] (Claim) **Candace Owens**: ["Owens said Officer Bagley appeared on the rooftop less than a minute after the p..."](/statements/statement-eaab16f1afae.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ee2227201cc2">
+
+- [00:22:30](/episodes/ep-ihLQRXxIfjU.md#t-00-22-30) [○] (Claim) **Chris Bagley**: ["Officer Bagley confirmed in the courtroom clip that he saw the screwdriver on Se..."](/statements/statement-ee2227201cc2.md)
+  - About: [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c7de6155fd36">
+
+- [00:22:56](/episodes/ep-ihLQRXxIfjU.md#t-00-22-56) [○] (Opinion) **Candace Owens**: ["Owens explicitly framed as opinion her belief that Officer Bagley, the authoriti..."](/statements/statement-c7de6155fd36.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Kathryn Nester](/entities/person-kathryn-nester.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8ddd4d09a68c">
+
+- [00:24:13](/episodes/ep-ihLQRXxIfjU.md#t-00-24-07) [○] (Opinion) **Candace Owens**: ["Owens said, in her opinion, Slenderman was returning to the scene of a non-crime..."](/statements/statement-8ddd4d09a68c.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3dc8f224cbd8">
+
+- [00:25:05](/episodes/ep-ihLQRXxIfjU.md#t-00-24-40) [○] (Accusation) **Candace Owens**: ["Owens said it appears to her that someone with a lot of power, potentially at th..."](/statements/statement-3dc8f224cbd8.md)
+  - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-aa75be3ef35b">
+
+- [00:25:26](/episodes/ep-ihLQRXxIfjU.md#t-00-25-26) [○] (Accusation) **Candace Owens**: ["Owens speculated that the missing minute might show a screwdriver being tossed a..."](/statements/statement-aa75be3ef35b.md)
+  - About: [Slenderman (Losee rooftop nickname; identity unverified)](/entities/anon-src-ihLQRXxIfjU-012.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c65d92dcefc0">
+
+- [00:26:21](/episodes/ep-ihLQRXxIfjU.md#t-00-26-21) [○] (Accusation) **Candace Owens**: ["Owens said that if footage showed someone tossing the screwdriver before Officer..."](/statements/statement-c65d92dcefc0.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Axon Enterprise](/entities/org-axon-enterprise.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e270005ff2f">
+
+- [00:29:44](/episodes/ep-ihLQRXxIfjU.md#t-00-29-44) [○] (Claim) **Candace Owens**: ["In a Wild Pastures sponsor read, Owens said the company delivers pasture-raised ..."](/statements/statement-7e270005ff2f.md)
+  - About: [Wild Pastures](/entities/org-wild-pastures.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-11c4b1886bd2">
+
+- [00:32:39](/episodes/ep-ihLQRXxIfjU.md#t-00-32-39) [○] (Accusation) **Candace Owens**: ["Citing The Assault on Truth, Owens alleged Sigmund Freud knew children were bein..."](/statements/statement-11c4b1886bd2.md)
+  - About: [Sigmund Freud](/entities/person-sigmund-freud.md), [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-36d9d117a183">
+
+- [00:33:42](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) [○] (Accusation) **Candace Owens**: ["Owens alleged Jeremy Boreing fired her because she said genocide is always wrong..."](/statements/statement-36d9d117a183.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5f3e1a266e7c">
+
+- [00:34:12](/episodes/ep-ihLQRXxIfjU.md#t-00-33-42) [○] (Opinion) **Kelly Fuller (commenter; identity unverified)**: ["Kelly Fuller, a commenter whose legal identity is unverified, wrote that at this..."](/statements/statement-5f3e1a266e7c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Ian Carroll](/entities/person-ian-carroll.md), [Baron Coleman](/entities/person-baron-coleman.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8e322225e98c">
+
+- [00:34:23](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) [○] (Opinion) **Kelly Fuller (commenter; identity unverified)**: ["Kelly Fuller wrote that firing someone for saying genocide is always wrong was t..."](/statements/statement-8e322225e98c.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fb836250a967">
+
+- [00:34:34](/episodes/ep-ihLQRXxIfjU.md#t-00-34-23) [○] (Accusation) **Jeremy Boreing**: ["Jeremy Boreing wrote that he wondered whether Kelly Fuller was deliberately misl..."](/statements/statement-fb836250a967.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Kelly Fuller (commenter; identity unverified)](/entities/anon-src-ihLQRXxIfjU-001.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-656e4596f797">
+
+- [00:35:01](/episodes/ep-ihLQRXxIfjU.md#t-00-35-01) [○] (Claim) **Candace Owens**: ["Owens said confidentiality clauses allow her only a proportionate response when ..."](/statements/statement-656e4596f797.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3cf07f4e835b">
+
+- [00:35:58](/episodes/ep-ihLQRXxIfjU.md#t-00-35-45) [○] (Citation) **Candace Owens**: ["Owens cited her firing document as including her tweet and stating that she insi..."](/statements/statement-3cf07f4e835b.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-791e286206b4">
+
+- [00:36:28](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28) [○] (Opinion) **Candace Owens**: ["Owens quoted her own tweet: no government anywhere has a right to commit genocid..."](/statements/statement-791e286206b4.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8b02619c6c43">
+
+- [00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28) [○] (Opinion) **Brian Mast**: ["Brian Mast, as quoted by Owens while discussing Yashar Ali’s criticism, said the..."](/statements/statement-8b02619c6c43.md)
+  - About: [Palestinians](/entities/concept-palestinians.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a6c0bc870eb4">
+
+- [00:37:07](/episodes/ep-ihLQRXxIfjU.md#t-00-37-07) [○] (Citation) **Candace Owens**: ["Owens read another stated reason from her Daily Wire firing document: instead of..."](/statements/statement-a6c0bc870eb4.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-653e56eb56d1">
+
+- [00:38:23](/episodes/ep-ihLQRXxIfjU.md#t-00-38-16) [○] (Opinion) **Candace Owens**: ["Owens said she feels Kimberly Guilfoyle is being made a patsy and alleged that h..."](/statements/statement-653e56eb56d1.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Greece](/entities/gpe-greece.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-278cbbcb04b6">
+
+- [00:38:57](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] (Citation) **Candace Owens**: ["Owens cited Axios as reporting that Kimberly Guilfoyle had been pushed out as am..."](/statements/statement-278cbbcb04b6.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [White House](/entities/org-white-house.md), [Axios](/entities/org-axios.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-384316d912ca">
+
+- [00:39:12](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] (Accusation) **Candace Owens**: ["Owens relayed reports alleging Kimberly Guilfoyle abused her diplomatic office b..."](/statements/statement-384316d912ca.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-daa8517a5b19">
+
+- [00:39:25](/episodes/ep-ihLQRXxIfjU.md#t-00-38-57) [○] (Accusation) **Candace Owens**: ["Owens said an unnamed person came forward to Eric Deters alleging Guilfoyle want..."](/statements/statement-daa8517a5b19.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Eric Deters](/entities/person-eric-deters.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3837007a7e19">
+
+- [00:39:43](/episodes/ep-ihLQRXxIfjU.md#t-00-39-37) [○] (Accusation) **Candace Owens**: ["Owens alleged Miriam Adelson had outright purchased the White House."](/statements/statement-3837007a7e19.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-48db67224f62">
+
+- [00:40:24](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) [○] (Accusation) **Candace Owens**: ["Owens accused the Trump brothers of crypto scams while questioning the focus on ..."](/statements/statement-48db67224f62.md)
+  - About: [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Cryptocurrency](/entities/concept-cryptocurrency.md), [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8ff49da2cecd">
+
+- [00:40:34](/episodes/ep-ihLQRXxIfjU.md#t-00-40-14) [○] (Accusation) **Candace Owens**: ["Owens accused Katie Zacharia of lying about her resume and said administration f..."](/statements/statement-8ff49da2cecd.md)
+  - About: [Katie Zacharia](/entities/person-katie-zacharia.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a740932bb1f8">
+
+- [00:41:01](/episodes/ep-ihLQRXxIfjU.md#t-00-40-43) [○] (Opinion) **Candace Owens**: ["Owens declared herself team Kimberly Guilfoyle, characterized the Trump family’s..."](/statements/statement-a740932bb1f8.md)
+  - About: [Kimberly Guilfoyle](/entities/person-kimberly-guilfoyle.md), [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-698f0dec497d">
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) [○] (Claim) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens asserted the Strait of Hormuz was stil..."](/statements/statement-698f0dec497d.md)
+  - About: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-61fb57fe25f7">
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) [○] (Prediction) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens predicted fuel prices would only go up..."](/statements/statement-61fb57fe25f7.md)
+  - About: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f45601b96eee">
+
+- [00:42:49](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] (Claim) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens claimed gold had performed better than..."](/statements/statement-f45601b96eee.md)
+  - About: [Battalion Metals](/entities/org-battalion-metals.md), [S&P 500](/entities/concept-sp-500.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-275488bc4238">
+
+- [00:42:56](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] (Prediction) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens said gold had dipped from record highs..."](/statements/statement-275488bc4238.md)
+  - About: [Battalion Metals](/entities/org-battalion-metals.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b1d70f663fe6">
+
+- [00:43:04](/episodes/ep-ihLQRXxIfjU.md#t-00-42-49) [○] (Claim) **Candace Owens**: ["Owens described Battalion Metals as her friend Tucker Carlson’s company."](/statements/statement-b1d70f663fe6.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Battalion Metals](/entities/org-battalion-metals.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9379f3c4b5ce">
+
+- [00:44:20](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05) [○] (Claim) **Candace Owens**: ["Owens characterized Tyler Bowyer as saying they could not do anything else about..."](/statements/statement-9379f3c4b5ce.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dca620bbb0ca">
+
+- [00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44) [○] (Claim) **Candace Owens**: ["Owens said Tyler Bowyer was blocking more people on X rather than releasing more..."](/statements/statement-dca620bbb0ca.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Twitter](/entities/org-twitter.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9a15ba119bf2">
+
+- [00:46:30](/episodes/ep-ihLQRXxIfjU.md#t-00-45-58) [○] (Accusation) **Ali (ihLQRXxIfjU commenter; identity unverified)**: ["Ali, a viewer whose identity is unverified, alleged that Owens exposed a Zionist..."](/statements/statement-9a15ba119bf2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-97d67a9390d0">
+
+- [00:46:55](/episodes/ep-ihLQRXxIfjU.md#t-00-46-35) [○] (Accusation) **Candace Owens**: ["Owens alleged the state executed Charlie Kirk and warned that another potentiall..."](/statements/statement-97d67a9390d0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e4bf4d4c851">
+
+- [00:48:14](/episodes/ep-ihLQRXxIfjU.md#t-00-48-14) [○] (Opinion) **Candace Owens**: ["Owens said she believes Charlie Kirk said no to a larger picture of global human..."](/statements/statement-7e4bf4d4c851.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-255dbf6e1517">
+
+- [00:48:51](/episodes/ep-ihLQRXxIfjU.md#t-00-48-51) [○] (Claim) **Earl's daughter (viewer handle; identity unverified)**: ["The viewer using the handle Earl’s daughter reported a mother’s account that an ..."](/statements/statement-255dbf6e1517.md)
+  - About: [Autism spectrum disorder](/entities/concept-autism-spectrum-disorder.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b89067bf3eeb">
+
+- [00:50:29](/episodes/ep-ihLQRXxIfjU.md#t-00-50-24) [○] (Opinion) **Candace Owens**: ["Owens publicly gave permission to release all her firing documents and said ther..."](/statements/statement-b89067bf3eeb.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-10-19 · UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.</strong> (41)</summary>
@@ -107967,4 +108739,4 @@ _4620 factual claims within 8692 attributed statements._
 
 ---
 
-*Generated: 2026-10-20 09:55:33*
+*Generated: 2026-10-21 10:00:15*

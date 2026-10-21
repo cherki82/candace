@@ -1,6 +1,6 @@
 ---
 title: "Brian Mast"
-description: "Brian Mast (People) - 6 mentions"
+description: "Brian Mast (People) - 7 mentions"
 id: "person-brian-mast"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Biography | Congressman Brian Mast](https://mast.house.gov/biography)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-brian-mast-t-00-56-07">2025-09-16 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-brian-mast-t-00-05-37">2026-05-28 · 00:05:49</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-brian-mast-t-00-36-28">2026-10-20 · 00:36:42</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,7 @@ Source: [Biography | Congressman Brian Mast](https://mast.house.gov/biography)
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-brian-mast-t-00-31-57" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-mast-t-00-03-53" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-brian-mast-t-00-05-37" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-brian-mast-t-00-36-28" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [Biography | Congressman Brian Mast](https://mast.house.gov/biography)
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-brian-mast-t-00-31-57) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-mast-t-00-03-53) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-brian-mast-t-00-05-37) | 2 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-brian-mast-t-00-36-28) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Biography | Congressman Brian Mast](https://mast.house.gov/biography)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:36:42](/episodes/ep-ihLQRXxIfjU.md#ent-person-brian-mast-t-00-36-28)**
+> "...lly, that was in reference to Brian Mast and statements that he made that Yashar Ali calle..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
@@ -95,12 +105,56 @@ Source: [Biography | Congressman Brian Mast](https://mast.house.gov/biography)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized By (2)</summary>
+
+- **[Yashar Ali](/entities/person-yashar-ali.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life. ... It was crazy. I'm totally crazy that he would say that. And it became a whole thing. And they tried to convince me that the tweet in and of itself was anti-Semitic.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Yashar Ali](/entities/person-yashar-ali.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life. ... It was crazy. I'm totally crazy that he would say that. And it became a whole thing. And they tried to convince me that the tweet in and of itself was anti-Semitic.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brian Mast (1)</strong></summary>
+<summary><strong class="section-title">Statements by Brian Mast (2)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28) [○] (Opinion) ["Brian Mast, as quoted by Owens while discussing Yashar Ali’s criticism, said the..."](/statements/statement-8b02619c6c43.md)
+  - About: [Palestinians](/entities/concept-palestinians.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

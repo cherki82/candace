@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 127 mentions"
+description: "Twitter (Organizations) - 129 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-V-phmW9f0pM.md#t-00-00-31">2026-10-13 · 00:00:41</a></strong></div>
-<div><span>Episodes</span><strong>81</strong></div>
-<div><span>Mentions</span><strong>127</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#t-00-44-44">2026-10-20 · 00:44:44</a></strong></div>
+<div><span>Episodes</span><strong>82</strong></div>
+<div><span>Mentions</span><strong>129</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -117,6 +117,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-yrg_-D6oNHE.md#t-00-02-09" style="--pulse-height:40%" aria-label="BREAKING NEWS! UVU Police Chief Resigns. Blake Neff&#x27;s Freudian Slip About Erika Kirk. | Ep 399: 2 mentions" title="2026-10-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UAdBEXs7nNc.md#t-00-01-13" style="--pulse-height:40%" aria-label="More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400: 2 mentions" title="2026-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-V-phmW9f0pM.md#t-00-00-31" style="--pulse-height:20%" aria-label="America The Ugly: A General, A Cop &amp; A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401: 1 mentions" title="2026-10-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#t-00-08-14" style="--pulse-height:40%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -203,6 +204,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-10-07 | [BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399](/episodes/ep-yrg_-D6oNHE.md#t-00-02-09) | 2 |
 | 2026-10-08 | [More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400](/episodes/ep-UAdBEXs7nNc.md#t-00-01-13) | 2 |
 | 2026-10-13 | [America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401](/episodes/ep-V-phmW9f0pM.md#t-00-00-31) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#t-00-08-14) | 2 |
 
 </details>
 </section>
@@ -214,7 +216,18 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (127)</strong></summary>
+<summary><strong class="section-title">Raw mentions (129)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:08:30](/episodes/ep-ihLQRXxIfjU.md#t-00-08-14)**
+> "Look at look at this tweet from Steve Baker. He shared this information on X. Here are Brian Cole Jr.'s grandmother."
+
+**[00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44)**
+> "Just show us the, show us the group of people. Call Nick Shirley. I feel like you guys should release more footage. Instead, Tyler Bowyer is blocking more people on X. I am very disappointed. I'm very disappointed. Meaning Heels (viewer handle as transcribed) writes, end-of-pregnancy Candace (Candace Owens) is my favorite kind of Candace (Candace Owens). I do get a little testy. I am a little testy right now. I just don't have time for the lies, the BS, the gaslighting. We just need it to stop."
+
+</details>
 
 <details>
 <summary>America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 (1 mentions)</summary>
@@ -1006,7 +1019,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Twitter (17)</strong></summary>
+<summary><strong class="section-title">Statements about Twitter (18)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1)</summary>
+
+- [00:44:44](/episodes/ep-ihLQRXxIfjU.md#t-00-44-44) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer was blocking more people on X rather than rele..."](/statements/statement-dca620bbb0ca.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395 (2)</summary>

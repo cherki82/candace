@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 695 mentions"
+description: "American Financing (Organizations) - 699 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-american-financing-t-00-36-53">2026-10-19 · 00:37:19</a></strong></div>
-<div><span>Episodes</span><strong>158</strong></div>
-<div><span>Mentions</span><strong>695</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-american-financing-t-00-44-05">2026-10-20 · 00:44:05</a></strong></div>
+<div><span>Episodes</span><strong>159</strong></div>
+<div><span>Mentions</span><strong>699</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -194,6 +194,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-org-american-financing-t-00-38-29" style="--pulse-height:62%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 5 mentions" title="2026-10-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YPIYYHCNPbE.md#ent-org-american-financing-t-00-39-39" style="--pulse-height:50%" aria-label="Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).: 4 mentions" title="2026-10-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VUSs6CTp78Q.md#ent-org-american-financing-t-00-36-13" style="--pulse-height:50%" aria-label="UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.: 4 mentions" title="2026-10-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-org-american-financing-t-00-42-49" style="--pulse-height:50%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 4 mentions" title="2026-10-20 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -357,6 +358,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-org-american-financing-t-00-38-29) | 5 |
 | 2026-10-15 | [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).](/episodes/ep-YPIYYHCNPbE.md#ent-org-american-financing-t-00-39-39) | 4 |
 | 2026-10-19 | [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour.](/episodes/ep-VUSs6CTp78Q.md#ent-org-american-financing-t-00-36-13) | 4 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-org-american-financing-t-00-42-49) | 4 |
 
 </details>
 </section>
@@ -364,7 +366,24 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (695)</strong></summary>
+<summary><strong class="section-title">Raw mentions (699)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (4 mentions)</summary>
+
+**[00:43:22](/episodes/ep-ihLQRXxIfjU.md#ent-org-american-financing-t-00-42-49)**
+> "...want to remind you guys about American Financing because what if you could delay two of your next ..."
+
+**[00:43:32](/episodes/ep-ihLQRXxIfjU.md#ent-org-american-financing-t-00-43-32)**
+> "...lly very possible if you call American Financing today. Today, if you're feeling stretched by ever..."
+
+**[00:43:47](/episodes/ep-ihLQRXxIfjU.md#ent-org-american-financing-t-00-43-32)**
+> "American Financing can show you how to use your home's equity to pay..."
+
+**[00:44:05](/episodes/ep-ihLQRXxIfjU.md#ent-org-american-financing-t-00-44-05)**
+> "So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
 
 <details>
 <summary>UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (4 mentions)</summary>
@@ -3241,7 +3260,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (58)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (59)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -3301,6 +3320,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:36:44](/episodes/ep-VUSs6CTp78Q.md#t-00-36-13): “It's possible when you call American financing today. today. If you're feeling stretched by everyday expenses and talking groceries, gas, bills piling up, you should know that you are not alone. ... Most Americans are putting these expenses on their credit cards and credit card rates are insane, I mean in the 20s or even 30s, but American Financing can show you how to use your home's equity to pay off that debt. ... Their salary-based mortgage consultants are helping homeowners just like you restructure their loans and save money every single month. ... There are no upfront fees to find out how much you could be saving. Their customers are saving an average of $800 a month, which is like a $10,000 raise without having to change jobs. ... So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:05](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -3337,7 +3357,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (58)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (59)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -3397,6 +3417,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 @ 00:39:18](/episodes/ep-6jOEN9rBePU.md#t-00-39-13): “That's where the numbers could actually be shifting in your favor. American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... So instead of making minimum payments on restaurant tabs for years, you could join thousands of homeowners saving an average of $800 a month with American financing. ... There are no upfront fees, no pressure and no cost to find out your potential monthly savings. Plus starting now could mean delaying up to two mortgage payments. ... So call 800-795-1210 or visit Americanfinancing.net slash Owens. Again, And that's AmericanFinancing.net slash Owens.”
 - [Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). @ 00:40:23](/episodes/ep-YPIYYHCNPbE.md#t-00-40-23): “That's where the numbers could be shifting in your favor. your saver because American financing can help you use your hard-earned equity to wipe out high interest credit card debt. ... Instead of making those minimum payments on restaurant tabs for years, you could instead join thousands of homeowners that are saving an average of $800 a month with American financing. ... So call 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens.”
 - [UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. @ 00:36:44](/episodes/ep-VUSs6CTp78Q.md#t-00-36-13): “It's possible when you call American financing today. today. If you're feeling stretched by everyday expenses and talking groceries, gas, bills piling up, you should know that you are not alone. ... Most Americans are putting these expenses on their credit cards and credit card rates are insane, I mean in the 20s or even 30s, but American Financing can show you how to use your home's equity to pay off that debt. ... Their salary-based mortgage consultants are helping homeowners just like you restructure their loans and save money every single month. ... There are no upfront fees to find out how much you could be saving. Their customers are saving an average of $800 a month, which is like a $10,000 raise without having to change jobs. ... So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:44:05](/episodes/ep-ihLQRXxIfjU.md#t-00-44-05): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens.”
 
 </details>
 

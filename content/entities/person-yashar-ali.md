@@ -1,6 +1,6 @@
 ---
 title: "Yashar Ali"
-description: "Yashar Ali (People) - 4 mentions"
+description: "Yashar Ali (People) - 6 mentions"
 id: "person-yashar-ali"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [A judge tosses social media star Yashar Ali's defamation case](https://
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-06-59">2025-10-08 · 00:07:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53">2025-12-20 · 00:04:05</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-yashar-ali-t-00-36-28">2026-10-20 · 00:36:51</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,7 @@ Source: [A judge tosses social media star Yashar Ali's defamation case](https://
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-06-59" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-person-yashar-ali-t-00-36-28" style="--pulse-height:67%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [A judge tosses social media star Yashar Ali's defamation case](https://
 |---|---|---:|
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-yashar-ali-t-00-06-59) | 3 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-person-yashar-ali-t-00-36-28) | 2 |
 
 </details>
 </section>
@@ -47,7 +49,18 @@ Source: [A judge tosses social media star Yashar Ali's defamation case](https://
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:36:42](/episodes/ep-ihLQRXxIfjU.md#ent-person-yashar-ali-t-00-36-28)**
+> "... statements that he made that Yashar Ali called out and said this is genocidal."
+
+**[00:36:51](/episodes/ep-ihLQRXxIfjU.md#ent-person-yashar-ali-t-00-36-28)**
+> "Journalist Yashar Ali called it out and said this is genocidal language..."
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
@@ -76,7 +89,29 @@ Source: [A judge tosses social media star Yashar Ali's defamation case](https://
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized (1)</summary>
+
+- **[Brian Mast](/entities/person-brian-mast.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Brian Mast](/entities/person-brian-mast.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… @ 00:36:42](/episodes/ep-ihLQRXxIfjU.md#t-00-36-28): “And ironically, that was in reference to Brian Mast and statements that he made that Yashar Ali called out and said this is genocidal. ... Journalist Yashar Ali called it out and said this is genocidal language where he said. And there's no such thing as an innocent Palestinian life.”
+
+</details>
+
+</details>
 
 </details>
 

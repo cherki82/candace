@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 175 mentions"
+description: "Antisemitism (Concepts) - 177 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-00-24-40">2025-09-15 · 00:25:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-antisemitism-t-00-34-23">2026-10-01 · 00:34:23</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>175</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-antisemitism-t-00-37-07">2026-10-20 · 00:37:07</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>177</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -98,6 +98,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-kn1E0scy9Wc.md#ent-concept-antisemitism-t-00-41-55" style="--pulse-height:21%" aria-label="A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387: 3 mentions" title="2026-09-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5TTkMa49qj8.md#ent-concept-antisemitism-t-00-39-57" style="--pulse-height:8%" aria-label="VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395: 1 mentions" title="2026-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q4m-kGzvwjw.md#ent-concept-antisemitism-t-00-34-23" style="--pulse-height:8%" aria-label="LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396: 1 mentions" title="2026-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-concept-antisemitism-t-00-36-28" style="--pulse-height:14%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 2 mentions" title="2026-10-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -163,6 +164,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-09-15 | [A Tale Of Two Statements: Mikey McCoy’s Interview. Macklemore’s Mic Drop. | Ep 387](/episodes/ep-kn1E0scy9Wc.md#ent-concept-antisemitism-t-00-41-55) | 3 |
 | 2026-09-30 | [VANITY AFFAIRS: The Profile Piece From Hell. New Fed Narrative Drops! | Ep 395](/episodes/ep-5TTkMa49qj8.md#ent-concept-antisemitism-t-00-39-57) | 1 |
 | 2026-10-01 | [LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396](/episodes/ep-q4m-kGzvwjw.md#ent-concept-antisemitism-t-00-34-23) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-concept-antisemitism-t-00-36-28) | 2 |
 
 </details>
 </section>
@@ -174,7 +176,18 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+<summary><strong class="section-title">Raw mentions (177)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2 mentions)</summary>
+
+**[00:36:57](/episodes/ep-ihLQRXxIfjU.md#ent-concept-antisemitism-t-00-36-28)**
+> "...he tweet in and of itself was anti-Semitic."
+
+**[00:37:07](/episodes/ep-ihLQRXxIfjU.md#ent-concept-antisemitism-t-00-37-07)**
+> "...some to conclude that you are anti-Semitic. This..."
+
+</details>
 
 <details>
 <summary>LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 (1 mentions)</summary>

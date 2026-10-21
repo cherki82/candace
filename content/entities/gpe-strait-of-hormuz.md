@@ -1,6 +1,6 @@
 ---
 title: "Strait of Hormuz"
-description: "Strait of Hormuz (Places) - 16 mentions"
+description: "Strait of Hormuz (Places) - 17 mentions"
 id: "gpe-strait-of-hormuz"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06">2026-03-17 · 00:02:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-strait-of-hormuz-t-00-37-45">2026-10-14 · 00:37:52</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-strait-of-hormuz-t-00-42-09">2026-10-20 · 00:42:24</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-strait-of-hormuz-t-00-36-28" style="--pulse-height:40%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-strait-of-hormuz-t-00-36-43" style="--pulse-height:40%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6jOEN9rBePU.md#ent-gpe-strait-of-hormuz-t-00-37-45" style="--pulse-height:20%" aria-label="Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402: 1 mentions" title="2026-10-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ihLQRXxIfjU.md#ent-gpe-strait-of-hormuz-t-00-42-09" style="--pulse-height:20%" aria-label="EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…: 1 mentions" title="2026-10-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-strait-of-hormuz-t-00-36-28) | 2 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-strait-of-hormuz-t-00-36-43) | 2 |
 | 2026-10-14 | [Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402](/episodes/ep-6jOEN9rBePU.md#ent-gpe-strait-of-hormuz-t-00-37-45) | 1 |
+| 2026-10-20 | [EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did…](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-strait-of-hormuz-t-00-42-09) | 1 |
 
 </details>
 </section>
@@ -66,7 +68,15 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (1 mentions)</summary>
+
+**[00:42:24](/episodes/ep-ihLQRXxIfjU.md#ent-gpe-strait-of-hormuz-t-00-42-09)**
+> "I mean, with the Strait of Hormuz still closed and the war in Iran destroying oil r..."
+
+</details>
 
 <details>
 <summary>Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 (1 mentions)</summary>
@@ -168,7 +178,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Strait of Hormuz (4)</strong></summary>
+<summary><strong class="section-title">Statements about Strait of Hormuz (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE 9/10 Footage: Did “Tyler Robinson” Return To The Losee Rooftop? Because Someone Did… (2)</summary>
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) (Claim) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens asserted the Strait of Hormu..."](/statements/statement-698f0dec497d.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+- [00:42:24](/episodes/ep-ihLQRXxIfjU.md#t-00-42-09) (Prediction) **Candace Owens**: ["In a Battalion Metals sponsor read, Owens predicted fuel prices would ..."](/statements/statement-61fb57fe25f7.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
